@@ -8,7 +8,6 @@ This is a repository of questions asked on the Swagbucks LIVE Daily Trivia Chall
 - [x] Correct answer
 - [ ] Incorrect answer
 - [ ] Incorrect answer
-- [ ] Incorrect answer
 
 ### Best way to use this repository
 Before you begin the Daily Trivia Challenge, have the [swagbucks-live-questions-answers.md](swagbucks-live-questions-answers.md) file open. When the question appears on your device, press `Ctrl+F` on your keyboard and type unique words that are in the question or answers. Don't search for very common words like `the`, `and`, `of`, `in`, etc. That way, you can find the question and its answer more easily and faster. This repository will be more useful when it collects more and more questions and their answers.
