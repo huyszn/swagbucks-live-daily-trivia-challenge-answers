@@ -59,3 +59,63 @@
 - [x] Sleeping Beauty
 - [ ] Snow White
 - [ ] Cinderella
+
+#### On which continent would you find the world's largest axe?
+
+- [ ] Asia
+- [ ] Europe
+- [x] North America
+
+#### Where is the Burj Khalifa located?
+
+- [ ] London
+- [x] Dubai
+- [ ] Hanoi
+
+#### "Anna Karenina" and "War & Peace" are books by which author?
+
+- [x] Leo Tolstoy
+- [ ] Beverly Cleary
+- [ ] Dr. Seuss
+
+#### What fast food chain claims to be "Louisiana fast"?
+
+- [ ] KFC
+- [ ] Raising Cane's
+- [x] Popeye's
+
+#### For a long time, male Brigham Young students needed a doctor's note to do what?
+
+- [x] Grow a beard
+- [ ] Wear shorts
+- [ ] Date
+
+#### Which of these is a game played with cards?
+
+- [ ] Chess
+- [ ] Checkers
+- [x] Poker
+
+#### Who is the lead singer of Coldplay?
+
+- [ ] Dave Grohl
+- [x] Chris Martin
+- [ ] G.E. Smith
+
+#### What is the name of Spongebob Squarepants' best friend?
+
+- [ ] Mr. Shell
+- [x] Patrick Star
+- [ ] Bubbles
+
+#### Which of the following programs is NOT part of Microsoft Office?
+
+- [ ] Word
+- [ ] Excel
+- [x] Twitter
+
+#### Slap shots, wrist shots, and one-timers are ways to attempt scoring in which sport?
+
+- [ ] Soccer
+- [x] Ice hockey
+- [ ] Lacrosse
