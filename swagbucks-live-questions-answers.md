@@ -119,3 +119,63 @@
 - [ ] Soccer
 - [x] Ice hockey
 - [ ] Lacrosse
+
+#### Zingers and Twinkies are snack cakes from which company?
+
+- [ ] Drake
+- [x] Hostess
+- [ ] Little Debbie
+
+#### What kind of Doctor deals specifically with hormones issues?
+
+- [x] Endocrinologist
+- [ ] Dermatologist
+- [ ] Psychoanalyst
+
+#### Which of these childhood games requires a bouncing rubber ball?
+
+- [x] Jacks
+- [ ] Jump rope
+- [ ] Tag
+
+#### Which boxer did NOT have a daughter follow in their footsteps?
+
+- [ ] Muhammad Ali
+- [ ] Joe Frazier
+- [x] Mike Tyson
+
+#### What band played themselves in The Simpsons episode "Homerpalooza"?
+
+- [ ] Pearl Jam
+- [x] Smashing Pumpkins
+- [ ] Beastie Boys
+
+#### Springfield is the capital of which State?
+
+- [ ] New York
+- [ ] California
+- [x] Illinois
+
+#### Which of these Disney films was released first?
+
+- [ ] The Aristocrats
+- [ ] The Fox & The Hound
+- [x] Fantasia
+
+#### Who has hit the most home runs in MLB history?
+
+- [ ] Babe Ruth
+- [ ] Hank Aaron
+- [x] Barry Bonds
+
+#### In texting, what does LOL stand for?
+
+- [ ] Larry's On Leave
+- [ ] Lots of Linguini
+- [x] Laughing Out Loud
+
+#### In which films does Colwyn use the Glaive to defeat the Beast?
+
+- [ ] Beastmaster
+- [ ] The Dark Crystal
+- [x] Krull
