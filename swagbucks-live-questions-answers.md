@@ -179,3 +179,63 @@
 - [ ] Beastmaster
 - [ ] The Dark Crystal
 - [x] Krull
+
+#### Which of these is NOT a Shirley Temple movie?
+
+- [ ] Curly Top
+- [ ] The Little Colonel
+- [x] Lady September
+
+#### Reed Richards, Sue and Johnny Storm, and Ben Grimm make up what superhero team?
+
+- [ ] The X-Men
+- [ ] The Great Lakes Avengers
+- [x] The Fantastic Four
+
+#### What doll brand is small enough to fit in the palm of your hand?
+
+- [x] Polly Pocket
+- [ ] Cabbage Patch Kids
+- [ ] Bratz
+
+#### The Statue of Liberty was a gift to America from what country?
+
+- [ ] Italy
+- [x] France
+- [ ] England
+
+#### Dr. Joseph Bell was one of the inspirations for what literary character?
+
+- [ ] The Great Gatsby
+- [ ] Victor Frankenstein
+- [x] Sherlock Holmes
+
+#### Which of these words is a verb?
+
+- [x] Jump
+- [ ] Quickly
+- [ ] Proper
+
+#### What Louisa May Alcott book was adapted into a 2019 film?
+
+- [ ] Eight Cousins
+- [x] Little Women
+- [ ] Flower Fables
+
+#### Emperor Nero once banned all Romans except himself from wearing what color?
+
+- [ ] Red
+- [ ] Green
+- [x] Purple
+
+#### Which of the following was NOT one of the Beatles' nicknames?
+
+- [ ] The Cute One
+- [ ] The Shy One
+- [x] The Karate One
+
+#### "Dyno-MITE" was a catchphrase on which Norman Lear sitcom?
+
+- [ ] The Jeffersons
+- [ ] Maude
+- [x] Good Times
