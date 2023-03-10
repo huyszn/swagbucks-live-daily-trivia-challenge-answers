@@ -239,3 +239,63 @@
 - [ ] The Jeffersons
 - [ ] Maude
 - [x] Good Times
+
+#### What hockey first did goaltender Abie Goldberry have in 1930?
+
+- [ ] He scored a goal
+- [x] He caught fire
+- [ ] He lost a tooth
+
+#### Who released instructional videos with titles like "Bad Golf My Way" and "Stupid Little Golf Video"?
+
+- [ ] Tim Conway
+- [x] Leslie Nielsen
+- [ ] Chevy Chase
+
+#### What doll had a Malibu Dreamhouse?
+
+- [ ] Bratz
+- [ ] Furby
+- [x] Barbie
+
+#### In which city was American Independence first declared?
+
+- [x] Philadelphia
+- [ ] Boston
+- [ ] New York
+
+#### Louis-Napoléon Bonaparte was the first president of which European country?
+
+- [ ] Spain
+- [x] France
+- [ ] England
+
+#### What name does not appear in composer Giacomo Puccini's full name?
+
+- [x] Alfonso
+- [ ] Antonio
+- [ ] Maria
+
+#### What makes a ribeye a tomahawk ribeye?
+
+- [x] The bone is left in
+- [ ] The smell
+- [ ] The flavor
+
+#### Which of the following is NOT an answer on a standard Magic 8-Ball?
+
+- [ ] Yes
+- [ ] Ask again later
+- [x] New phone, who dis?
+
+#### What animal completes this common expression: "Don't Have A ___"?
+
+- [ ] Horse
+- [ ] Salamander
+- [x] Cow
+
+#### Complete the title of this Pinocchio song: "I've Got No ______"
+
+- [x] Strings
+- [ ] Idea
+- [ ] Convertible Debt
