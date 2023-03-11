@@ -299,3 +299,63 @@
 - [x] Strings
 - [ ] Idea
 - [ ] Convertible Debt
+
+#### Which of these candies mainly comes in fruit flavors?
+
+- [x] Starburst
+- [ ] York Peppermint Patties
+- [ ] Rolo
+
+#### In "Spider-Man: Homecoming", where does Peter Parker attend school?
+
+- [x] New York
+- [ ] Cairo
+- [ ] Paris
+
+#### Which of these fruits is a melon?
+
+- [ ] Strawberry
+- [x] Cantaloupe
+- [ ] Banana
+
+#### On which site do you bid on other people's things and put your things up for auction?
+
+- [ ] Twitter
+- [x] Ebay
+- [ ] Tinder
+
+#### The Golden Gate Bridge is located in which city?
+
+- [ ] Los Angeles
+- [ ] Barstow
+- [x] San Francisco
+
+#### In which college movie does Julia Roberts play a teacher?
+
+- [ ] The House Bunny
+- [ ] Neighbors
+- [x] Mona Lisa Smile
+
+#### Which of these is a brand of makeup?
+
+- [ ] Corningware
+- [x] Maybelline
+- [ ] Ziploc
+
+#### How many of the first 34 Wrestlemania main events were one on one matches?
+
+- [x] 30
+- [ ] 28
+- [ ] 25
+
+#### Which of these ingredients is commonly found in pain relievers?
+
+- [x] Acetaminophen
+- [ ] Aquamarine
+- [ ] Amethyst
+
+#### Jerry Springer was once a mayor in which state?
+
+- [ ] Illinois
+- [ ] West Virginia
+- [x] Ohio
