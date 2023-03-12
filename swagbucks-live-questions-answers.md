@@ -359,3 +359,63 @@
 - [ ] Illinois
 - [ ] West Virginia
 - [x] Ohio
+
+#### "American by Birth. Rebel by Choice" is the slogan of what vehicle maker?
+
+- [x] Harley-Davidson
+- [ ] Kawasaki
+- [ ] Peugeot
+
+#### What is the official currency in Second Life?
+
+- [ ] Second Bucks
+- [ ] Botcoins
+- [x] Linden Dollars
+
+#### Which of the following is NOT a Michael Jackson album?
+
+- [x] Abbey Road
+- [ ] Off The Wall
+- [ ] Thriller
+
+#### What State calls Nashville its capital?
+
+- [ ] Pennsylvania
+- [ ] Montana
+- [x] Tennessee
+
+#### What is the capital of Florida?
+
+- [ ] Harrisburg
+- [ ] Denver
+- [x] Tallahassee
+
+#### Which of these musicians came from Jamaica?
+
+- [ ] John Lennon
+- [x] Bob Marley
+- [ ] John Cougar Mellencamp
+
+#### What was St. Vitus's Dance?
+
+- [ ] A ritual
+- [ ] A holiday
+- [x] A disease
+
+#### What animal uses its sharp quills to protect itself?
+
+- [ ] Armadillo
+- [x] Porcupine
+- [ ] Fruit Bat
+
+#### Which of these books was NOT written by Mark Twain?
+
+- [x] The Hunt for Red October
+- [ ] The Adventures of Tom Sawyer
+- [ ] Life on the Mississippi
+
+#### Which diva is famous for having a supposed five-octave vocal range?
+
+- [ ] Pink
+- [x] Mariah Carey
+- [ ] Lady Gaga
