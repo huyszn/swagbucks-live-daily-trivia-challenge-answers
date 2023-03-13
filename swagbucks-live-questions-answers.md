@@ -419,3 +419,63 @@
 - [ ] Pink
 - [x] Mariah Carey
 - [ ] Lady Gaga
+
+#### In the 1870s, a Belgian city once employed which animals to deliver the mail?
+
+- [ ] Dogs
+- [ ] Monkeys
+- [x] Cats
+
+#### What do you wrap around your neck to keep it warm in the winter?
+
+- [ ] Scarn
+- [x] Scarf
+- [ ] Scorn
+
+#### What macabre device involves spirits helping you move a pointer around to answer questions?
+
+- [ ] Crystal Ball
+- [ ] Witch's Cauldron
+- [x] Ouija Board
+
+#### Which of these roles has won Oscars for two different actors?
+
+- [x] Vito Corleone
+- [ ] Abraham Lincoln
+- [ ] Hamlet
+
+#### Fritz Lang's "Frau im Mond" allegedly inspired what modern-day practice?
+
+- [ ] Nodding
+- [ ] Selfies
+- [x] NASA countdowns
+
+#### In "American Movie", the filming of what movie is documented?
+
+- [ ] Northwest
+- [x] Coven
+- [ ] The Godfather of Green Bay
+
+#### Which island is separated from Europe by the Strait of Messina?
+
+- [ ] Crete
+- [ ] Corsica
+- [x] Sicily
+
+#### The production studio that created the title sequence for Game of Thrones also created the title sequence for which show?
+
+- [x] Westworld
+- [ ] True Blood
+- [ ] 6 Feet Under
+
+#### What candy is associated with the fall?
+
+- [ ] Cadbury Creme Eggs
+- [x] Candy Corn
+- [ ] Jelly Beans
+
+#### Where would you go to visit the Chrysler Building?
+
+- [ ] The Moon
+- [ ] Pacific Ocean
+- [x] New York
