@@ -479,3 +479,63 @@
 - [ ] The Moon
 - [ ] Pacific Ocean
 - [x] New York
+
+#### Which of these objects is usually filled with air or helium?
+
+- [ ] A fork
+- [ ] A steering wheel
+- [x] A balloon
+
+#### Considering what consumption is called today, how would you text someone to tell them you have it?
+
+- [x] OMG, I have TB
+- [ ] OMG, I have OCD
+- [ ] OMG, I have AT&T
+
+#### Spintronics is a kind of electronics based on the way what spins?
+
+- [ ] Light
+- [x] Electrons
+- [ ] Hard Drives
+
+#### What band is known for its members' face paint and stage outfits?
+
+- [ ] R.E.M.
+- [x] Kiss
+- [ ] U2
+
+#### In 1891, James Naismith invented what sport?
+
+- [x] Basketball
+- [ ] Hockey
+- [ ] Baseball
+
+#### What shape is found in the center square of a standard Scrabble board?
+
+- [ ] Circle
+- [ ] Triangle
+- [x] Star
+
+#### A bakery on Pudding Lane started what historic disaster?
+
+- [ ] The sinking of the Titanic
+- [x] The Great Fire of London
+- [ ] The destruction of Pompeii
+
+#### What does it mean if someone is punctual?
+
+- [x] They're on time
+- [ ] They're a good speller
+- [ ] They're lazy
+
+#### How many times has the United States hosted the Winter Olympics? (CORRECT ANSWER IS 4 BUT SWAGBUCKS SAYS ITS 3)
+
+- [x] 3
+- [ ] 4
+- [ ] 6
+
+#### What is the capital of Bermuda?
+
+- [x] Hamilton
+- [ ] Port-au-Prince
+- [ ] Nassau
