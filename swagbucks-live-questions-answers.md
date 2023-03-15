@@ -539,3 +539,63 @@
 - [x] Hamilton
 - [ ] Port-au-Prince
 - [ ] Nassau
+
+#### An aria is a solo sung in what kind of performance?
+
+- [x] Opera
+- [ ] Puppet
+- [ ] Ballet
+
+#### Andy Bernard graduated from what college?
+
+- [ ] Dartmouth
+- [x] Cornell
+- [ ] Yale
+
+#### What does the Pop-O-Matic feature in board games do?
+
+- [x] Roll a die
+- [ ] Distribute cards
+- [ ] Choose your piece
+
+#### What branch of medicine specializes in the brain?
+
+- [ ] Nephrology
+- [ ] Cardiology
+- [x] Neurology
+
+#### What city is home to the Sears Tower?
+
+- [ ] San Francisco
+- [x] Chicago
+- [ ] Denver
+
+#### In what year was the first cellular phone call made?
+
+- [ ] 1969
+- [x] 1973
+- [ ] 1980
+
+#### Complete this slogan: "What would you do for a..."
+
+- [ ] Can of Barbasol
+- [x] Klondike Bar
+- [ ] Canada Dry Ginger Ale
+
+#### Where was the Cobb Salad created?
+
+- [x] Hollywood, CA
+- [ ] Hollywood, FL
+- [ ] New York City
+
+#### Which Christmas song holds the record for best-selling single of all time?
+
+- [ ] The North Pole Blues
+- [x] White Christmas
+- [ ] Dear Mr. Santa
+
+#### Which U.S. President married Martha on January 1st, 1772?
+
+- [ ] George Washington
+- [x] Thomas Jefferson
+- [ ] James Madison
