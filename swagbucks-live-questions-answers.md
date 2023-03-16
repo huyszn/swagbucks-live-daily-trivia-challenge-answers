@@ -599,3 +599,63 @@
 - [ ] George Washington
 - [x] Thomas Jefferson
 - [ ] James Madison
+
+#### In soccer, which position is the only one allowed to touch the ball with their hands while it's in play?
+
+- [ ] Sweeper
+- [ ] Midfielder
+- [x] Goalkeeper
+
+#### If you received the first government published postcard, where did it come from?
+
+- [x] Austria
+- [ ] United States
+- [ ] Switzerland
+
+#### World War II's Project X-Ray turned which creatures into living bombers?
+
+- [ ] Dogs
+- [x] Bats
+- [ ] Pigeons
+
+#### What does the canned food SPAM stand for?
+
+- [ ] Special American
+- [ ] Speckled Amaretto
+- [x] Spiced Ham
+
+#### What do you call the food traditionally hidden at a Passover seder?
+
+- [x] Afikomen
+- [ ] Tefillin
+- [ ] Hamantaschen
+
+#### When Carl Denham says "Oh no, it wasn't the airplanes. It was beauty killed the beast", to which beast was he referring to?
+
+- [x] King Kong
+- [ ] Mothra
+- [ ] Ghidorah
+
+#### Which planet in our solar system was originally called George?
+
+- [ ] Saturn
+- [x] Uranus
+- [ ] Jupiter
+
+#### Ken Jennings set a record with a 74-game winning streak on what popular game show?
+
+- [ ] Wheel of Fortune
+- [ ] The Price is Right
+- [x] Jeopardy!
+
+#### Which of these clothing items is best suited for cold weather?
+
+- [ ] Swimsuit
+- [ ] Tank Top
+- [x] Parka
+
+#### Jersey Boys is a musical about what singing group?
+
+- [x] The Four Seasons
+- [ ] The Four Tops
+- [ ] The Four Heartbeats
