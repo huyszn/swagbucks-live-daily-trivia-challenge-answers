@@ -659,3 +659,63 @@
 - [x] The Four Seasons
 - [ ] The Four Tops
 - [ ] The Four Heartbeats
+
+#### Complete this common saying: Easy come...
+
+- [ ] Easy money
+- [ ] Easy peasy
+- [x] Easy go
+
+#### Diamond, charcoal and graphite are all forms of which element?
+
+- [x] Carbon
+- [ ] Iron
+- [ ] Boron
+
+#### Detroit goes by what nickname?
+
+- [ ] The Big Apple
+- [ ] The Big Easy
+- [x] Motor City
+
+#### In what type of performance would you most likely see Scaramouche "do the fandango"?
+
+- [x] Commedia dell'Arte
+- [ ] Ballet
+- [ ] Opera
+
+#### In "A Christmas Carol", which Christmas ghost visits Ebeneezer Scrooge first?
+
+- [x] Christmas Past
+- [ ] Christmas Present
+- [ ] Christmas Future
+
+#### Which actress was considered for Pretty Woman and Steel Magnolias prior to Julia Roberts getting the roles?
+
+- [x] Meg Ryan
+- [ ] Laura Dern
+- [ ] Diane Keaton
+
+#### Yeezys are shoes from which celebrity?
+
+- [x] Kanye West
+- [ ] Taylor Swift
+- [ ] Lil Wayne
+
+#### Which two NFL teams call Los Angeles their home?
+
+- [ ] Jets and Giants
+- [x] Rams and Chargers
+- [ ] Seahawks and Texans
+
+#### When two people are standing underneath the mistletoe, what are they supposed to do?
+
+- [ ] Kickbox
+- [x] Kiss
+- [ ] Yoga
+
+#### "You're in good hands" with which insurance provider?
+
+- [x] Allstate
+- [ ] Progressive
+- [ ] AAA
