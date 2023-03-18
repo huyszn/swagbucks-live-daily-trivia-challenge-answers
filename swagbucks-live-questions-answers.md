@@ -719,3 +719,63 @@
 - [x] Allstate
 - [ ] Progressive
 - [ ] AAA
+
+#### Volvo translates to English as:
+
+- [ ] Safety
+- [ ] I go
+- [x] I roll
+
+#### What is the term for the 14-line love poems Shakespeare wrote?
+
+- [ ] Bonnets
+- [x] Sonnets
+- [ ] Ronettes
+
+#### What is the name of the captain of the Pequod in "Moby Dick"?
+
+- [ ] Alan
+- [ ] Aaron
+- [x] Ahab
+
+#### Which of the following was not sold by Ron Popeil?
+
+- [ ] Candle Making Kit
+- [ ] Ornamental Ice
+- [x] Flowbee
+
+#### In which State does Dawson's Creek take place?
+
+- [ ] North Carolina
+- [ ] Rhode Island
+- [x] Massachusetts
+
+#### Which of the following words comes from the Old French for "scrap"?
+
+- [x] Escrow
+- [ ] Shrapnel
+- [ ] Snippet
+
+#### Which of these is a brand of cough drops?
+
+- [ ] Hals
+- [ ] Howls
+- [x] Halls
+
+#### Copenhagen is the capital of which European country?
+
+- [x] Denmark
+- [ ] Switzerland
+- [ ] Italy
+
+#### Where would you find the largest amount of fresh water on the planet?
+
+- [ ] North Pole
+- [x] South Pole
+- [ ] Alaska
+
+#### What kind of business is Trader Joe's?
+
+- [ ] Car Wash
+- [x] Grocery Store
+- [ ] Hardware Store
