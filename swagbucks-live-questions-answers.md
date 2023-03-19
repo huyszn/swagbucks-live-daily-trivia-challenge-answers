@@ -779,3 +779,63 @@
 - [ ] Car Wash
 - [x] Grocery Store
 - [ ] Hardware Store
+
+#### 8 feet would equal how many inches?
+
+- [ ] 108
+- [ ] 84
+- [x] 96
+
+#### What does an animal have to lack in order to be an invertebrate?
+
+- [ ] Brain
+- [ ] Heart
+- [x] Spine
+
+#### The Thames River flows through what European city?
+
+- [ ] Copenhagen
+- [x] London
+- [ ] Vienna
+
+#### Which of the following reality shows is the oldest?
+
+- [x] American Idol
+- [ ] The Voice
+- [ ] Love Is Blind
+
+#### Who did George Lucas originally want to be the voice of Darth Vader?
+
+- [ ] George C. Scott
+- [x] Orson Welles
+- [ ] Christopher Lee
+
+#### Which of these games is exclusive to Xbox?
+
+- [x] Halo
+- [ ] Super Smash Bros
+- [ ] Sonic the Hedgehog
+
+#### What year did Porsche introduce the 911?
+
+- [ ] 1911
+- [x] 1963
+- [ ] 1991
+
+#### In Angry Birds, how do you launch the birds?
+
+- [ ] Cannon
+- [x] Slingshot
+- [ ] Bow
+
+#### Which continent is home to The Philippines?
+
+- [ ] Africa
+- [ ] Antarctica
+- [x] Asia
+
+#### Which of the following is NOT one of the five oceans of the world?
+
+- [ ] Arctic
+- [ ] Indian
+- [x] Frank
