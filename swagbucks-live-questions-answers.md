@@ -839,3 +839,63 @@
 - [ ] Arctic
 - [ ] Indian
 - [x] Frank
+
+#### In what movie do Jimmy Stewart and Cary Grant both fall for Katherine Hepburn?
+
+- [ ] Rear Window
+- [ ] Bringing Up Baby
+- [x] The Philadelphia Story
+
+#### What is the term for the group of artists and engineers that work on Disney Parks?
+
+- [ ] Idea-ers
+- [x] Imagineers
+- [ ] Enginationers
+
+#### The man who first voiced Papa Smurf also played the father of what cartoon character?
+
+- [x] Jonny Quest
+- [ ] Augie Doggie
+- [ ] Elroy Jetson
+
+#### Which of these words has Shakespeare as its oldest known source?
+
+- [x] Advertising
+- [ ] Blemish
+- [ ] Candor
+
+#### In 1998, the fighting game Arm Joe pitted characters from what classic book against one another?
+
+- [x] Les Misérables
+- [ ] Catch-22
+- [ ] The Great Gatsby
+
+#### Which hero is the Last Son of Krypton?
+
+- [ ] The Green Lantern
+- [ ] The Atom
+- [x] Superman
+
+#### The Mamma Mia films center around the music of what band?
+
+- [ ] The Doobie Brothers
+- [ ] Culture Club
+- [x] ABBA
+
+#### What was the first Indiana Jones movie?
+
+- [x] Raiders of the Lost Ark
+- [ ] Temple of Doom
+- [ ] The Last Crusade
+
+#### What is the maximum amount of playable pegs in a game of Chinese Checkers?
+
+- [x] 60
+- [ ] 90
+- [ ] 100
+
+#### Prunes are made by drying out what fruit?
+
+- [x] Plums
+- [ ] Pears
+- [ ] Grapes
