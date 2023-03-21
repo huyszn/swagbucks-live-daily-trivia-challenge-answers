@@ -899,3 +899,57 @@
 - [x] Plums
 - [ ] Pears
 - [ ] Grapes
+
+#### In "How The Grinch Stole Christmas", what town does the Grinch target?
+
+- [ ] Loraxtown
+- [ ] Mount Crumpit
+- [x] Whoville
+
+#### Who is NOT a Peanuts character?
+
+- [ ] Frieda
+- [ ] Violet
+- [x] Patsy
+
+#### AT&T had a slogan asking you to "Reach Out" and do what?
+
+- [ ] Scratch My Back
+- [x] Touch Someone
+- [ ] Pass the Potatoes
+
+#### Which of the following is NOT a flavor of Fruit Roll-Up?
+
+- [ ] Strawberry
+- [ ] Blueberry
+- [x] Lamb
+
+#### Which board game is won by filling a circular game token with pie pieces?
+
+- [x] Trivial Pursuit
+- [ ] Trouble
+- [ ] Settlers of Catan
+
+#### Whose autobiography is titled "Moonwalk"?
+
+- [ ] Sean Connery
+- [x] Michael Jackson
+- [ ] William Shatner
+
+#### What is the term for a two-wheeled vehicle that you pedal?
+
+- [x] Bicycle
+- [ ] Bi Frost
+- [ ] Buy low, sell high
+
+#### What would you go to Lenscrafters to buy?
+
+- [x] Eyeglasses
+- [ ] Spy glasses
+- [ ] Drinking Glasses
+
+#### What is the color of a standard tennis ball?
+
+- [ ] Midnight Blue
+- [ ] Burnt Umber
+- [x] Optic Yellow
