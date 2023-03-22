@@ -953,3 +953,57 @@
 - [ ] Midnight Blue
 - [ ] Burnt Umber
 - [x] Optic Yellow
+
+#### The first guitar on the walls of a Hard Rock Cafe was Eric Clapton's. Whose was the second?
+
+- [ ] Beethoven
+- [ ] Beyoncé
+- [x] Pete Townshend
+
+#### 1991's "Boyz N The Hood" took place in which city?
+
+- [x] Los Angeles
+- [ ] Oakland
+- [ ] New York
+
+#### Which of these drinking cups usually has a handle on its side?
+
+- [ ] Wine glass
+- [ ] Shot glass
+- [x] Mug
+
+#### According to legend, King Arthur pulled the sword Excalibur from what?
+
+- [ ] His hat
+- [x] A stone
+- [ ] Thin air
+
+#### Professor Harold Hill is the lead character in what Broadway musical?
+
+- [x] The Music Man
+- [ ] Carousel
+- [ ] West Side Story
+
+#### Which of these musical instruments is played by "quagswagging" it?
+
+- [x] Maracas
+- [ ] Violin
+- [ ] Oboe
+
+#### Superman, Spider-Man, and Wonder Woman all got their start in which medium?
+
+- [ ] Radio
+- [ ] Dance
+- [x] Comic Books
+
+#### "Father Christmas" is another nickname for who?
+
+- [ ] The Easter Bunny
+- [x] Santa Claus
+- [ ] Superman
+
+#### What acronym is given to engines that have dual camshafts located at the top of the engine?
+
+- [ ] DODS
+- [ ] SOHC
+- [x] DOHC
