@@ -1007,3 +1007,63 @@
 - [ ] DODS
 - [ ] SOHC
 - [x] DOHC
+
+#### Which Star Wars series is a Disney Plus Original?
+
+- [ ] Droids
+- [ ] Rebels
+- [x] The Mandalorian
+
+#### Who first formulated the model for the Universe with our sun at its center?
+
+- [x] Copernicus
+- [ ] Einstein
+- [ ] Curie
+
+#### What dance troupe has an annual holiday show at Radio City Music Hall?
+
+- [ ] Blue Man Group
+- [ ] Jabbawockeez
+- [x] The Rockettes
+
+#### When you call someone the G.O.A.T., what does that stand for?
+
+- [ ] Grilled on a toaster
+- [x] Greatest of all time
+- [ ] Georgia's Old Aunt Tillie
+
+#### Which of these Broadway shows features rap battles?
+
+- [ ] Guys and Dolls
+- [ ] Chicago
+- [x] Hamilton
+
+#### What US president is quoted on Miley Cyrus' left arm?
+
+- [ ] Barack Obama
+- [ ] Abraham Lincoln
+- [x] Theodore Roosevelt
+
+#### Which of these is not a word in the name of a band led by David Clayton-Thomas?
+
+- [x] Guts
+- [ ] Sweat
+- [ ] Tears
+
+#### What typically goes at the top of a Christmas tree?
+
+- [ ] Candy Cane
+- [x] Star
+- [ ] Traffic Cone
+
+#### In "How The Grinch Stole Christmas", what town does the Grinch target? (REPEAT QUESTION WITH DIFFERENT ANSWERS)
+
+- [ ] Cleveland
+- [X] Whoville
+- [ ] Poughkeepsie
+
+#### According to the song, what kind of red-nosed animal is Rudolph?
+
+- [ ] Bunny
+- [ ] Three-toed Sloth
+- [x] Reindeer
