@@ -1127,3 +1127,63 @@
 - [ ] A flower
 - [ ] A doctor
 - [x] A horse
+
+#### What city hosted the first modern Olympic Games?
+
+- [ ] Antwerp
+- [ ] Oslo
+- [x] Athens
+
+#### Isabella Baumfree is better known by what name?
+
+- [ ] Harriet Tubman
+- [ ] Madame CJ Walker
+- [x] Sojourner Truth
+
+#### Which of these military units has the smallest number of soldiers in it?
+
+- [x] Company
+- [ ] Battalion
+- [ ] Regiment
+
+#### Where do the Legend of Zelda games take place?
+
+- [ ] New Jersey
+- [ ] Narnia
+- [x] Hyrule
+
+#### According to the Loggins & Messina song, "Your Mama Don't" what?
+
+- [ ] Explore space
+- [ ] Dry roast coffee
+- [x] Dance
+
+#### What sibling mystery series was first published in 1927?
+
+- [x] The Hardy Boys
+- [ ] The Dublin Murder Squad
+- [ ] The Baby-Sitters Club
+
+#### Whose hits include "Hello", "Rolling in the Deep", and "Skyfall"?
+
+- [ ] Amy Winehouse
+- [ ] Meghan Trainor
+- [x] Adele
+
+#### Which of the following were commonly interred with the deceased in Viking burials?
+
+- [x] Board Games
+- [ ] Bagels
+- [ ] Books
+
+#### Whose first NBA contract had to be co-signed by the player's parents?
+
+- [x] Kobe Bryant
+- [ ] Wilt Chamberlain
+- [ ] Andrew Bynum
+
+#### The person who invented basketball is also credited with inventing what?
+
+- [ ] Cleats
+- [x] Football Helmet
+- [ ] Miniature Golf
