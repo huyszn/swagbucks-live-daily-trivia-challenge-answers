@@ -1067,3 +1067,63 @@
 - [ ] Bunny
 - [ ] Three-toed Sloth
 - [x] Reindeer
+
+#### The Australian indigenous language Guugu Yimithirr doesn't have which two words?
+
+- [ ] Yes and No
+- [ ] Up and Down
+- [x] Left and Right
+
+#### In "Z-O-M-B-I-E-S", what is the Seabrook High Mascot?
+
+- [x] Mighty Shrimp
+- [ ] Fighting Squid
+- [ ] Killer Whale
+
+#### Mick Jagger is the lead singer of what band?
+
+- [x] The Rolling Stones
+- [ ] The Beatles
+- [ ] Led Zeppelin
+
+#### Which pop artist popularized the Moonwalk?
+
+- [ ] Madonna
+- [ ] Bruno Mars
+- [x] Michael Jackson
+
+#### Which of the following is affected by magnetism?
+
+- [x] Iron
+- [ ] Wood
+- [ ] Butter
+
+#### Which of these shows was set in space?
+
+- [ ] Young Sheldon
+- [x] Battlestar Galactica
+- [ ] General Hospital
+
+#### The man who came up with KFC's classic rotating bucket signs also founded what restaurant?
+
+- [ ] Denny's
+- [x] Wendy's
+- [ ] Popeye's
+
+#### Basil of Baker Street is a rodent with what nickname?
+
+- [ ] The Artful Dodger
+- [ ] The Rescuer
+- [x] The Great Mouse Detective
+
+#### E.T.'s appearance was primarily inspired by what painting?
+
+- [x] Women of the Delta
+- [ ] The Scream
+- [ ] Little Hairy Guy
+
+#### In the book of the same name, who is Black Beauty?
+
+- [ ] A flower
+- [ ] A doctor
+- [x] A horse
