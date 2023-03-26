@@ -1187,3 +1187,63 @@
 - [ ] Cleats
 - [x] Football Helmet
 - [ ] Miniature Golf
+
+#### Which of the following is a clothing store?
+
+- [ ] Aldi
+- [x] Old Navy
+- [ ] Pep Boys
+
+#### Michael Jordan played most of his career with which NBA team?
+
+- [ ] New York Knicks
+- [x] Chicago Bulls
+- [ ] Detroit Pistons
+
+#### Which of these is NOT a brand of chip?
+
+- [ ] Ruffles
+- [x] Mint Milano
+- [ ] Doritos
+
+#### "Liberty Steak" was the World War II name of what food?
+
+- [ ] Filet Mignon
+- [ ] Liverwurst
+- [x] Hamburger
+
+#### Catching Fire is a book from which popular series?
+
+- [x] The Hunger Games
+- [ ] The Chronicles of Narnia
+- [ ] Harry Potter
+
+#### Which Hunger Games book contains an island setup with traps in the shape of a large clock?
+
+- [ ] The Hunger Games
+- [x] Catching Fire
+- [ ] Mockingjay
+
+#### Which of these terms is the same as "the genuine article"?
+
+- [ ] The Whole Enchilada
+- [x] The Real McCoy
+- [ ] The Bee's Knees
+
+#### In which fictional Kansas town was Superman raised?
+
+- [x] Smallville
+- [ ] Kansas City
+- [ ] Topeka
+
+#### Which of the following cartoon characters was originally drawn as a dog?
+
+- [ ] Yogi Bear
+- [x] Betty Boop
+- [ ] Aladdin
+
+#### Swiss musician Werner Thomas first gave us which popular song and dance?
+
+- [ ] The Twist
+- [x] The Chicken Dance
+- [ ] The Lindy Hop
