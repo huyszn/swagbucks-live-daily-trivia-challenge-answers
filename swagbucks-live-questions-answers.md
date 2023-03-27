@@ -1247,3 +1247,63 @@
 - [ ] The Twist
 - [x] The Chicken Dance
 - [ ] The Lindy Hop
+
+#### Which of the following birds is nocturnal?
+
+- [ ] Robin
+- [ ] Cardinal
+- [x] Owl
+
+#### Which of the following countries is NOT part of Scandinavia?
+
+- [ ] Norway
+- [x] Italy
+- [ ] Sweden
+
+#### Which group of animals form a business?
+
+- [ ] Beavers
+- [ ] Penguins
+- [x] Ferrets
+
+#### In what decade was the Kool-Aid Man first shown wearing clothes?
+
+- [ ] 1970s
+- [x] 1980s
+- [ ] 1990s
+
+#### What is the term for the photographers that follow celebrities around taking pictures?
+
+- [x] Paparazzi
+- [ ] Papa John's
+- [ ] Papa Can You Hear Me?
+
+#### Which of the following tools is not part of a standard Swiss Army Knife?
+
+- [x] Computer Monitor
+- [ ] Knife
+- [ ] Can Opener
+
+#### Which song was NOT in the top 10 on the first episode of TRL?
+
+- [ ] My Way
+- [x] I Want It That Way
+- [ ] Iris
+
+#### What comedian hosted the Tonight Show for less than a year before being removed?
+
+- [x] Conan O'Brien
+- [ ] Jay Leno
+- [ ] Jimmy Fallon
+
+#### What is the maximum number of times someone was able fold a piece of toilet paper in half?
+
+- [ ] 5
+- [ ] 7
+- [x] 12
+
+#### In 2013, it was reported that the British Navy used songs by what pop star to scare off Somali pirates?
+
+- [ ] Lady Gaga
+- [ ] Christina Aguilera
+- [x] Britney Spears
