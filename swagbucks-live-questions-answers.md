@@ -1307,3 +1307,57 @@
 - [ ] Lady Gaga
 - [ ] Christina Aguilera
 - [x] Britney Spears
+
+#### What does the M in AMC Theaters stand for?
+
+- [ ] Movies
+- [x] Multi
+- [ ] Made
+
+#### What meal is affectionately known as S.O.S.?
+
+- [ ] Hoover Stew
+- [x] Cream Chipped Beef on toast
+- [ ] Prune Pudding
+
+#### On "The Simpsons", what was the name of Homer's snow plowing service?
+
+- [ ] Plow King
+- [x] Mr Plow
+- [ ] The Plow Man
+
+#### Which of the following is another term for eyeglasses?
+
+- [ ] Spectres
+- [x] Spectacles
+- [ ] Species
+
+#### In which of these dance moves does the dancer move backwards while appearing to move forward?
+
+- [ ] Electric Slide
+- [x] Moonwalk
+- [ ] Superman
+
+#### What brand is known as the King of Beers?
+
+- [x] Budweiser
+- [ ] Sapporo
+- [ ] Michelob
+
+#### Who was the villain in the first ever horror film?
+
+- [ ] Nosferatu
+- [x] Satan
+- [ ] Jack the Ripper
+
+#### What 80's comedy movie was born in a 1983 improv workshop?
+
+- [x] Bill & Ted's Excellent Adventure
+- [ ] Pee-Wee's Big Adventure
+- [ ] Back to School
+
+#### What phrase was trademarked by Nintendo in 2010?
+
+- [ ] It's-a me! Mario!
+- [ ] It's Game Time
+- [x] It's on like Donkey Kong
