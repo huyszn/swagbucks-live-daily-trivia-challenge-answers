@@ -1361,3 +1361,63 @@
 - [ ] It's-a me! Mario!
 - [ ] It's Game Time
 - [x] It's on like Donkey Kong
+
+#### What HBO fantasy series aired its finale on May 19th, 2019?
+
+- [ ] Silicon Valley
+- [x] Game of Thrones
+- [ ] Arli$$
+
+#### Which of these medicines would you most likely use to treat a headache?
+
+- [x] Tylenol
+- [ ] Pepcid AC
+- [ ] Icy Hot
+
+#### At the 1952 Olympics, whose basketball team committed so many fouls they were reduced to three players in the final minute?
+
+- [ ] Italy
+- [x] Uruguay
+- [ ] Australia
+
+#### Which of these specials is about the origin story of St. Nick?
+
+- [ ] Rudolph's Shiny New Year
+- [x] Santa Claus is Coming To Town
+- [ ] Jack Frost
+
+#### Which Ben Stiller movie has the lowest critics rating on Rotten Tomatoes?
+
+- [ ] Zoolander 2
+- [ ] Tower Heist
+- [x] The Watch
+
+#### Which of these Julia Child facts is false?
+
+- [ ] She helped develop a shark repellant
+- [x] She was a field agent for the CIA
+- [ ] She ate a caesar salad prepared by its inventor
+
+#### What cable channel originally aired The Sopranos, Game of Thrones and Barry?
+
+- [ ] The Discovery Channel
+- [ ] Discovery Home
+- [x] HBO
+
+#### At the end of a message, what letter is used to symbolize a kiss?
+
+- [x] X
+- [ ] U
+- [ ] L
+
+#### Which of the following was not an actual Winter Olympic Sport at one point?
+
+- [ ] Military Patrol
+- [ ] Bandy
+- [x] Tunneling
+
+#### In baseball, what happens when the pitcher balks?
+
+- [ ] The batter is out
+- [x] All baserunners advance
+- [ ] An angel gets its wings
