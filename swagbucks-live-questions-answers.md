@@ -1421,3 +1421,63 @@
 - [ ] The batter is out
 - [x] All baserunners advance
 - [ ] An angel gets its wings
+
+#### Belsnickel is a German Christmas creature who visits children carrying what two things?
+
+- [ ] Peace and Love
+- [x] Candy and a Switch
+- [ ] A Wreath and Cookies
+
+#### What are the names of Donald Duck's nephews?
+
+- [ ] Mickey, Goofy, and Pluto
+- [x] Huey, Dewey, and Louie
+- [ ] Dewey, Cheatum, and Howe
+
+#### Which of the following is NOT a makeup brand?
+
+- [x] Smart Water
+- [ ] L'Oréal
+- [ ] Maybelline
+
+#### In 19th Century England, what was considered bad luck on New Year's Day?
+
+- [ ] Using your cellphone
+- [ ] Sending an email
+- [x] Doing laundry
+
+#### On which end of the National Mall is the Lincoln Memorial located?
+
+- [x] West
+- [ ] East
+- [ ] North
+
+#### Finding Dory is a sequel to which animated film?
+
+- [ ] Ice Age
+- [ ] Monsters Inc
+- [x] Finding Nemo
+
+#### Which of the following is a credit card company?
+
+- [x] Discover
+- [ ] Inspect
+- [ ] Learn
+
+#### "Where The Wild Things Are" was originally about wild what?
+
+- [ ] Boars
+- [x] Horses
+- [ ] Dogs
+
+#### What country does not have a predominantly Roman Catholic population?
+
+- [ ] Croatia
+- [ ] Switzerland
+- [x] Sint Maarten
+
+#### St. Patrick is the patron saint of which country?
+
+- [ ] Scotland
+- [ ] England
+- [x] Ireland
