@@ -1481,3 +1481,57 @@
 - [ ] Scotland
 - [ ] England
 - [x] Ireland
+
+#### Which of these components was NOT part of George Washington's false teeth?
+
+- [x] Wood
+- [ ] Human Teeth
+- [ ] Brass screws
+
+#### What is the oldest magic trick ever performed?
+
+- [x] Lota Bowl
+- [ ] Cup and Balls
+- [ ] Animal Decapitation
+
+#### Which Doctor Who star became an actor beacuse they wanted to play The Doctor?
+
+- [ ] Matt Smith
+- [ ] Peter Capaldi
+- [x] David Tennant
+
+#### When was the first pizza ordered by a computer?
+
+- [x] 1974
+- [ ] 1996
+- [ ] 2000
+
+#### Which of these places is NOT mentioned in "One Night in Bangkok"?
+
+- [ ] Siam
+- [ ] Hastings
+- [x] Singapore
+
+#### What is the verb in the sentence "They flew away"?
+
+- [ ] They
+- [x] Flew
+- [ ] Away
+
+#### Why does Cruella de Vil steal the puppies in "101 Dalmatians"?
+
+- [ ] To raise them herself
+- [x] To make coats out of them
+- [ ] To sell them on the black market
+
+#### Where do you typically hang stockings?
+
+- [x] On the mantle
+- [ ] On a doorknob
+- [ ] On a coat rack
+
+#### If something is "mediocre," it's...?
+
+- [ ] Meditative
+- [ ] Medieval
+- [x] Meh
