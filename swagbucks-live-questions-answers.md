@@ -1535,3 +1535,63 @@
 - [ ] Meditative
 - [ ] Medieval
 - [x] Meh
+
+#### In "The Lion King", who is Simba's father?
+
+- [ ] Zazu
+- [ ] Scar
+- [x] Mufasa
+
+#### In which century did the Bubonic Plague strike Europe?
+
+- [x] 14th
+- [ ] 19th
+- [ ] 20th
+
+#### What is a baster used for?
+
+- [ ] Wallpapering
+- [x] Spreading liquids while cooking
+- [ ] Essay writing
+
+#### Which of the following devices is usually sold with a remote control?
+
+- [x] TV
+- [ ] Cell Phone
+- [ ] Blender
+
+#### Which of these is not a famous ballet?
+
+- [ ] La Sylphide
+- [ ] La Bayadère
+- [x] La Malquerida
+
+#### Which playwright is known as "The Bard"?
+
+- [ ] William Inge
+- [x] William Shakespeare
+- [ ] Wendy Wasserstein
+
+#### What is the term for a collection of short stories?
+
+- [ ] Anthropology
+- [x] Anthology
+- [ ] Dictionary
+
+#### Which of these dog breeds is associated with Fire Stations?
+
+- [ ] St. Bernard
+- [ ] Chihuahua
+- [x] Dalmatian
+
+#### Classroom volcanoes are created by mixing vinegar with what kitchen staple?
+
+- [x] Baking Soda
+- [ ] Table Salt
+- [ ] Flour
+
+#### Which of the following balls doesn't need to be inflated?
+
+- [ ] Football
+- [x] Baseball
+- [ ] Basketball
