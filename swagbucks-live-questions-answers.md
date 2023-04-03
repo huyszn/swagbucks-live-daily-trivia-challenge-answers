@@ -1595,3 +1595,57 @@
 - [ ] Football
 - [x] Baseball
 - [ ] Basketball
+
+#### In the Marvel Cinematic Universe, Sam Wilson goes by what bird-inspired name?
+
+- [x] Falcon
+- [ ] Pigeon
+- [ ] Dove
+
+#### Which of the following is a Katy Perry song?
+
+- [x] Teenage Dream
+- [ ] The Locomotion
+- [ ] Wannabe
+
+#### Which of these is a game played with cards?
+
+- [ ] Chess
+- [ ] Checkers
+- [x] Poker
+
+#### The hormone glucagon is produced by which organ of the body?
+
+- [x] Pancreas
+- [ ] Kidney
+- [ ] Liver
+
+#### How many innings are in a standard baseball game?
+
+- [ ] Seven
+- [ ] Eight
+- [x] Nine
+
+#### Dumbbell Curls work what muscles?
+
+- [x] Biceps
+- [ ] Calves
+- [ ] Thighs
+
+#### Wine is primarily made from what fruit?
+
+- [x] Grapes
+- [ ] Cherries
+- [ ] Apples
+
+#### What 5-digit number appears on all Minnesota license plates?
+
+- [ ] 12345
+- [ ] 11858
+- [x] 10000
+
+#### What flavor is original Ovaltine?
+
+- [x] Malt
+- [ ] Celery
+- [ ] Pork
