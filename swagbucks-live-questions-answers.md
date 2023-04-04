@@ -1649,3 +1649,63 @@
 - [x] Malt
 - [ ] Celery
 - [ ] Pork
+
+#### Venkman's ESP test from Ghostbusters most closely resembles which real-life experiment?
+
+- [x] The Milgram Experiment
+- [ ] Asch Conformity Experiments
+- [ ] The Monster Study
+
+#### According to the song, what color is Rudolph the reindeer's nose?
+
+- [x] Red
+- [ ] Blue
+- [ ] Orange
+
+#### In "Bull Durham", what position does Kevin Costner's Crash Davis play?
+
+- [ ] Pitcher
+- [x] Catcher
+- [ ] Right Fielder
+
+#### Which fictional persona did Washington Irving use to narrate the "Legend of Sleepy Hollow"?
+
+- [ ] Rip Van Winkle
+- [ ] Ishmael
+- [x] Diedrich Knickerbocker
+
+#### Yogi Bear is based on what real-life actor?
+
+- [ ] Jackie Gleason
+- [x] Art Carney
+- [ ] Phil Silvers
+
+#### Complete the title of this Jules Verne novel: "Journey to the Center of the _____"?
+
+- [ ] Tootsie Pop
+- [ ] Chicken Pot Pie
+- [x] Earth
+
+#### Which of these channels is devoted entirely to sports?
+
+- [ ] The History Channel
+- [ ] Cinemax
+- [x] ESPN
+
+#### The musical "South Pacific" is set during which war?
+
+- [ ] War of 1812
+- [x] World War II
+- [ ] Operation: Desert Storm
+
+#### By what nickname is New Jersey known?
+
+- [ ] The Gem State
+- [ ] The Empire State
+- [x] The Garden State
+
+#### At which of the following temperature points would snowfall become possible?
+
+- [ ] Room temperature
+- [x] Freezing
+- [ ] Boiling
