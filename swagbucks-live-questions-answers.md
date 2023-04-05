@@ -1709,3 +1709,63 @@
 - [ ] Room temperature
 - [x] Freezing
 - [ ] Boiling
+
+#### In which decade did the Soviet Union launch Sputnik 1?
+
+- [ ] 1940s
+- [x] 1950s
+- [ ] 1960s
+
+#### According to the Beach Boys, what kind of girls are hip?
+
+- [ ] West Coast
+- [x] East Coast
+- [ ] Southern
+
+#### What fast food chain is the hoome of the Frosty?
+
+- [ ] In & Out
+- [ ] Smashburger
+- [x] Wendy's
+
+#### How many donuts are in a Baker's Dozen?
+
+- [ ] 11
+- [ ] 12
+- [x] 13
+
+#### Which of these words refers specifically to having a conversation with another person?
+
+- [x] Dialogue
+- [ ] Diorama
+- [ ] Diuretic
+
+#### What is it called when a player tallies three goals in a hockey game?
+
+- [x] Hat Trick
+- [ ] Triple
+- [ ] The cycle
+
+#### Which of the following is considered a "Buddy Cop" movie?
+
+- [ ] Enter the Dragon
+- [ ] Bullitt
+- [x] Lethal Weapon
+
+#### With what toy would you perform a trick called "walking the dog"?
+
+- [ ] Jump Rope
+- [x] Yo Yo
+- [ ] Pinky Ball
+
+#### According to its claim to fame, which country are you least likely to have visited?
+
+- [ ] Madagascar
+- [x] Nauru
+- [ ] Sao Tome & Principe
+
+#### What are the two ends of the pH scale?
+
+- [ ] Fric & Frac
+- [x] Acidic & Alkaline
+- [ ] Positive & Negative
