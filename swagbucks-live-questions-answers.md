@@ -1769,3 +1769,57 @@
 - [ ] Fric & Frac
 - [x] Acidic & Alkaline
 - [ ] Positive & Negative
+
+#### According to the SSA, what was not one of the 10 most popular boy's names in 1900?
+
+- [ ] George
+- [ ] William
+- [x] Henry
+
+#### Who would you go to if you needed braces?
+
+- [x] Orthodontist
+- [ ] Ornithologist
+- [ ] Orthopedist
+
+#### Who was the first man to walk on the moon?
+
+- [ ] Buzz Aldrin
+- [ ] Gus Grissom
+- [x] Neil Armstrong
+
+#### Which of the following is NOT a phase of matter?
+
+- [ ] Solid
+- [ ] Liquid
+- [x] Napping
+
+#### Which of the following Superstars has NOT won a battle royal at Wrestlemania?
+
+- [ ] Mojo Rawley
+- [x] Bret Hart
+- [ ] The Iron Sheik
+
+#### Tater Tots are made from what?
+
+- [x] Potatoes
+- [ ] Squash
+- [ ] Beef
+
+#### Which superhero also goes by the name Clark Kent?
+
+- [ ] Spider-man
+- [x] Superman
+- [ ] Batman
+
+#### Which home cleaning product line uses a bald man as its mascot?
+
+- [ ] Windex
+- [ ] Mrs. Meyers
+- [x] Mr. Clean
+
+#### The names of the Rice Krispies mascots are Snap, Crackle, and what?
+
+- [ ] Plunk
+- [x] Pop
+- [ ] Petes
