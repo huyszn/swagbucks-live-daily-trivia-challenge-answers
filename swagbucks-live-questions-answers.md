@@ -1823,3 +1823,51 @@
 - [ ] Plunk
 - [x] Pop
 - [ ] Petes
+
+#### What restaurant chain puts out the Shamrock Shake?
+
+- [ ] Burger King
+- [x] McDonald's
+- [ ] Wendy's
+
+#### What was the name of Gene Autry's horse?
+
+- [x] Champion
+- [ ] Scout
+- [ ] Trigger
+
+#### Which of the following shows is a sitcom?
+
+- [ ] NBC Nightly News
+- [x] Big Bang Theory
+- [ ] Grey's Anatomy
+
+#### Which holy city is found in the Sirat mountains?
+
+- [ ] Dharamshala
+- [ ] Varanasi
+- [x] Mecca
+
+#### The "Galaxy's Edge" land in Disney Parks is themed around what media franchise?
+
+- [x] Star Wars
+- [ ] Avatar
+- [ ] Marvel
+
+#### Which of these colleges is the oldest?
+
+- [x] University of North Carolina
+- [ ] University of Alabama
+- [ ] Duke University
+
+#### Which author's pen name came from a Latin translation of his birth name?
+
+- [ ] Voltaire
+- [x] Lewis Carroll
+- [ ] George Orwell
+
+#### What vegetables were Jack-O'-Lanterns carved from before pumpkins were used?
+
+- [ ] Small Rocks
+- [ ] Big Rocks
+- [x] Turnips
