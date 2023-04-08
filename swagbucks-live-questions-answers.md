@@ -1871,3 +1871,63 @@
 - [ ] Small Rocks
 - [ ] Big Rocks
 - [x] Turnips
+
+#### Which President went on a "Conservation Tour" at the urging of Senator Gaylord Nelson?
+
+- [x] John F. Kennedy
+- [ ] Lyndon B. Johnson
+- [ ] Richard Nixon
+
+#### Battle Fatigue and Shell Shock were early terms for what disorder?
+
+- [ ] Gout
+- [x] PTSD
+- [ ] Insomnia
+
+#### What would an ancient Romans use garum for?
+
+- [x] Flavor food
+- [ ] Cure impotence
+- [ ] Get drunk
+
+#### When Bruce Banner gets angry, who does he turn into?
+
+- [ ] Loki
+- [ ] War Machine
+- [x] The Hulk
+
+#### Which of these is a type of sandwich?
+
+- [ ] Stew
+- [ ] Remoulade
+- [x] Sub
+
+#### What country has the most official languages?
+
+- [x] Zimbabwe
+- [ ] South Africa
+- [ ] Iran
+
+#### In basketball, what do you have to do when moving with the ball?
+
+- [x] Dribble
+- [ ] Dance
+- [ ] Drink
+
+#### Which of the following is NOT a card in a standard Uno deck?
+
+- [ ] Draw Four
+- [ ] Wild Card
+- [x] Get Out of Jail Free
+
+#### From which country does Feta cheese originate?
+
+- [ ] France
+- [x] Greece
+- [ ] Switzerland
+
+#### Which of these is a brand of candy?
+
+- [x] Jolly Rancher
+- [ ] Hidden Valley Ranch
+- [ ] Yellowstone Rancher
