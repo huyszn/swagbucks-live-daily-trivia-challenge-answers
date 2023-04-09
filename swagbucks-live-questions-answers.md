@@ -1931,3 +1931,63 @@
 - [x] Jolly Rancher
 - [ ] Hidden Valley Ranch
 - [ ] Yellowstone Rancher
+
+#### Olive Garden is famous for their unlimited Soup, Salad, and what?
+
+- [ ] Bowties
+- [ ] Baba Ganoush
+- [x] Breadsticks
+
+#### In the Styx lyric "Domo arigato, Mr.Roboto," what does the Japanese part mean?
+
+- [ ] You are in charge
+- [ ] Pleased to meet you
+- [x] Thank you very much
+
+#### What meat is used in Tacos Al Pastor?
+
+- [x] Pork
+- [ ] Lamb
+- [ ] Chicken
+
+#### On Memorial Day, at what local time are you encouraged to observe a moment of silence?
+
+- [ ] 12:00 pm
+- [x] 3:00 pm
+- [ ] 6:00 pm
+
+#### What color M&M replaced tan in 1995?
+
+- [x] Blue
+- [ ] Red
+- [ ] Yellow
+
+#### Braeburns, Pink Ladies, and Cortlands are types of what?
+
+- [ ] Dogs
+- [ ] Gangs from "Grease"
+- [x] Apples
+
+#### If you find yourself bleeding from every orifice of your body, which snake bit you?
+
+- [ ] Copperhead
+- [ ] Black Mamba
+- [x] Boomslang
+
+#### Which of these landmarks can be found in Greece?
+
+- [ ] Brandenburg Gate
+- [x] The Acropolis
+- [ ] Loch Ness
+
+#### Rumer Willis is the daughter of which two actors?
+
+- [x] Bruce Willis and Demi Moore
+- [ ] Bruce Willis and Angelina Jolie
+- [ ] Bruce Willis and Demi Lovato
+
+#### Which of these phrases refers to someone being ignored?
+
+- [ ] Giving the benefit of the doubt
+- [x] Giving the cold shoulder
+- [ ] Giving 110%
