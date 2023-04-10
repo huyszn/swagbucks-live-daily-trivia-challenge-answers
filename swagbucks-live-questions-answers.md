@@ -1991,3 +1991,57 @@
 - [ ] Giving the benefit of the doubt
 - [x] Giving the cold shoulder
 - [ ] Giving 110%
+
+#### What miniature car line is manufactured and sold by Mattel?
+
+- [ ] Micro Machines
+- [x] Hot Wheels
+- [ ] Tiny Trucks
+
+#### Which of these restaurant chains is known for Italian food?
+
+- [ ] Bonefish Grill
+- [ ] Red Lobster
+- [x] Olive Garden
+
+#### Who is Winnie-The-Pooh's gloomy donkey friend?
+
+- [ ] Tigger
+- [ ] Christopher Robin
+- [x] Eeyore
+
+#### In "The One Where Ross Got High", what dessert does Rachel attempt for Thanksgiving?
+
+- [ ] Baked Alaska
+- [x] Trifle
+- [ ] Pumpkin Pie
+
+#### What were Frosty the Snowman's eyes made of?
+
+- [x] Coal
+- [ ] Carrots
+- [ ] Buttons
+
+#### What is the largest French-speaking city in the world?
+
+- [ ] Paris
+- [ ] Montreal
+- [x] Kinshasa
+
+#### Table Tennis is also known by what name?
+
+- [ ] Dodgeball
+- [ ] Foursquare
+- [x] Ping Pong
+
+#### What is the term for using your hands to make a clapping noise?
+
+- [x] Applause
+- [ ] Appalachia
+- [ ] Appetizers
+
+#### After Joey, who's the next to find out about Monica and Chandler's relationship?
+
+- [ ] Phoebe
+- [ ] Ross
+- [x] Rachel
