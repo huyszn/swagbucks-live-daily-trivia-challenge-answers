@@ -2045,3 +2045,63 @@
 - [ ] Phoebe
 - [ ] Ross
 - [x] Rachel
+
+#### Trevor Noah hosts what satirical news show?
+
+- [ ] Last Week Tonight
+- [x] The Daily Show
+- [ ] Full Frontal
+
+#### According to Mental Floss, which of these early 20th century sandwiches is traditionally made without bread?
+
+- [x] Dairy Sandwich
+- [ ] Lemon Sandwich
+- [ ] Aspic Jelly Sandwich
+
+#### Which of these was NOT invented by a Canadian?
+
+- [ ] Insulin
+- [x] Swivel chair
+- [ ] Basketball
+
+#### What is the distance around a circle called?
+
+- [ ] Area
+- [x] Circumference
+- [ ] Segment
+
+#### Before it became World Wrestling Entertainment, by what three letters was WWE known?
+
+- [x] WWF
+- [ ] AKA
+- [ ] JLA
+
+#### What Disney movies are about living household appliances?
+
+- [x] The Brave Little Toaster
+- [ ] Brave
+- [ ] A Goofy Movie
+
+#### What charitable figure famously built a leper colony in Calcutta?
+
+- [ ] Florence Nightingale
+- [ ] Mahatma Gandhi
+- [x] Mother Teresa
+
+#### What number did Michael Jordan wear for the majority of his pro career?
+
+- [ ] 3
+- [x] 23
+- [ ] 45
+
+#### The U.S. city originally known as "Pig's Eye" became what?
+
+- [ ] Cincinnati
+- [x] St. Paul
+- [ ] Jacksonville
+
+#### Bangkok is the capital of which country?
+
+- [ ] France
+- [x] Thailand
+- [ ] England
