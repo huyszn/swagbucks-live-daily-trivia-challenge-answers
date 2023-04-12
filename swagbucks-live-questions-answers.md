@@ -2105,3 +2105,57 @@
 - [ ] France
 - [x] Thailand
 - [ ] England
+
+#### Complete this Garth Brooks lyric: "I got friends in..."?
+
+- [ ] Las Cruces
+- [ ] Mall food courts
+- [x] Low Places
+
+#### The Raffel Brothers founded which fast food chain?
+
+- [ ] Rally's
+- [x] Arby's
+- [ ] Sonic
+
+#### Who played Padme in the prequel trilogy?
+
+- [ ] Carrie Fisher
+- [ ] Daisy Ridley
+- [x] Natalie Portman
+
+#### Which of these is NOT another name for the popular gift exchange game "White Elephant"?
+
+- [ ] Dirty Santa
+- [ ] Yankee Swap
+- [x] Fireworks Handshake
+
+#### Which of the following women was NOT one of the "Big Five" supermodels of the 1990s?
+
+- [x] Emily Ratajkowski
+- [ ] Naomi Campbell
+- [ ] Cindy Crawford
+
+#### The Niagara Falls are situated on which river?
+
+- [ ] St. Lawrence
+- [ ] Erie
+- [x] Niagara
+
+#### In "The Social Network", which social network is born at Harvard?
+
+- [ ] Twitter
+- [ ] TikTok
+- [x] Facebook
+
+#### Jordan Peele won an Oscar for writing what 2017 horror film?
+
+- [x] Get Out
+- [ ] Get In
+- [ ] Get Funky
+
+#### Disneyland is known as "The Happiest Place on" what?
+
+- [ ] Ice
+- [ ] Toast
+- [x] Earth
