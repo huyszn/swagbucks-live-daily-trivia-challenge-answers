@@ -2159,3 +2159,63 @@
 - [ ] Ice
 - [ ] Toast
 - [x] Earth
+
+#### What reality show centered around Paul Teutul's custom motorcycle company?
+
+- [x] American Chopper
+- [ ] Monster House
+- [ ] Top Gear
+
+#### Which of the following is NOT the name of one of our five oceans?
+
+- [ ] Atlantic
+- [x] Brackish
+- [ ] Indian
+
+#### What modern phrase comes from an ancient antidote to poison?
+
+- [ ] In a nutshell
+- [ ] Use your noodle
+- [x] Take it with a grain of salt
+
+#### In which of these sports do players wear cleats?
+
+- [ ] Basketball
+- [ ] Hockey
+- [x] Baseball
+
+#### What were the names of Christopher Columbus' ships?
+
+- [ ] Huey, Dewey, & Louie
+- [ ] Groucho, Harpo, & Zeppo
+- [x] Nina, Pinta, & Santa Maria
+
+#### What colors are the Cat in the Hat's Hat?
+
+- [x] Red and White
+- [ ] White and Gold
+- [ ] Blue and Black
+
+#### How many trivia questions would a person suffering from triskaidekaphobia be unable to handle?
+
+- [ ] 8
+- [x] 13
+- [ ] 18
+
+#### Scientist George Washington Carver is closely associated with what crop?
+
+- [ ] Oranges
+- [ ] Asparagus
+- [x] Peanuts
+
+#### In Fahrenheit, what is the boiling point of water at sea level?
+
+- [ ] 98.6 degrees
+- [ ] 100 degrees
+- [x] 212 degrees
+
+#### Emma is the daughter of which two Friends characters?
+
+- [ ] Ross and Phoebe
+- [ ] Rachel and Chandler
+- [x] Ross and Rachel
