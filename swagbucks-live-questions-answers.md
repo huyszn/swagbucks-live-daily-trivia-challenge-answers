@@ -2219,3 +2219,57 @@
 - [ ] Ross and Phoebe
 - [ ] Rachel and Chandler
 - [x] Ross and Rachel
+
+#### Which Tom Hanks/Meg Ryan movie came out first?
+
+- [ ] Sleepless in Seattle
+- [x] Joe Versus the Volcano
+- [ ] You've Got Mail
+
+#### Alfred Carlton Gilbert, "The Man Who Saved Christmas", is known for what invention?
+
+- [ ] Hot Wheels
+- [ ] Mr. Potato Head
+- [x] Erector Set
+
+#### How many herbs and spices are in KFC's secret blend?
+
+- [x] 11
+- [ ] 15
+- [ ] 22
+
+#### What kind of animal is a tortoise?
+
+- [x] Reptile
+- [ ] Amphibian
+- [ ] Mammal
+
+#### In "Horton Hears A Who", what kind of animal is Horton?
+
+- [ ] Dog
+- [ ] Dinosaur
+- [x] Elephant
+
+#### Other than humans, what is the only species that enjoys spicy food?
+
+- [ ] Alligator
+- [ ] Elephant
+- [x] Tree Shrew
+
+#### In which movie would you hear "I'm gonna make him an offer he can't refuse"?
+
+- [x] The Godfather
+- [ ] Dumb and Dumber
+- [ ] The Lego Movie
+
+#### What augmented reality mobile Pokémon game became a hit in 2016?
+
+- [ ] Pokémon Go
+- [x] Pokémon: Sword and Shield
+- [ ] Pocket Monsters: Red and Green
+
+#### Which of these is not the title of a Lifetime movie?
+
+- [ ] Pregnant at 17
+- [ ] Zombie at 17
+- [x] Addicted at 17
