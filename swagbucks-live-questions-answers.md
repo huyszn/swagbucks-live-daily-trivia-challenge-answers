@@ -2273,3 +2273,57 @@
 - [ ] Pregnant at 17
 - [ ] Zombie at 17
 - [x] Addicted at 17
+
+#### Oatmeal cookies often have what fruit inside them?
+
+- [x] Raisins
+- [ ] Mango
+- [ ] Papaya
+
+#### What "Birth of the Cool" jazz musician has a cameo in "Scrooged"?
+
+- [x] Miles Davis
+- [ ] Post Malone
+- [ ] Garth Brooks
+
+#### Which of the following animals is nocturnal?
+
+- [x] Raccoon
+- [ ] Hummingbird
+- [ ] Cardinal
+
+#### Which of these is NOT a common way to cook eggs?
+
+- [x] Grilled
+- [ ] Scrambled
+- [ ] Over Easy
+
+#### Which Spice Girl married David Beckham?
+
+- [ ] Sporty
+- [x] Posh
+- [ ] Baby
+
+#### "I never saw a purple cow," is the first line of a poem by what author?
+
+- [ ] Shel Silverstein
+- [ ] Emma Chichester Clark
+- [x] Gelett Burgess
+
+#### What college movie was a prequel to "Monsters, Inc."?
+
+- [ ] School Daze
+- [ ] Touchback
+- [x] Monsters University
+
+#### Which of these States was the last to enter the Union?
+
+- [x] Hawaii
+- [ ] New York
+- [ ] Illinois
+
+#### What influential TV host has a well-known book club?
+
+- [ ] Jerry Springer
+- [ ] Jenny Jones
+- [x] Oprah Winfrey
