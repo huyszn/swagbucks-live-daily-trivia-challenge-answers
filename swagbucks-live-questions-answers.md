@@ -2327,3 +2327,63 @@
 - [ ] Jerry Springer
 - [ ] Jenny Jones
 - [x] Oprah Winfrey
+
+#### According to German legend, you could cure a toothache by kissing what animal?
+
+- [ ] Cat
+- [x] Donkey
+- [ ] Snake
+
+#### According to the lyrics, who loves Mrs. Robinson more then she will know?
+
+- [x] Jesus
+- [ ] Joe DiMaggio
+- [ ] The Kids
+
+#### What does the E.L. in Keebler's "E.L. Fudge" stand for?
+
+- [ ] Electrolyte Laced
+- [x] Everybody Loves
+- [ ] Enigmatically Level
+
+#### Which of the following toys is generally the smallest?
+
+- [ ] Big Wheels
+- [x] Hot Wheels
+- [ ] Power Wheels
+
+#### Danny Zuko and Sandy fall in love in what musical?
+
+- [ ] Kinky Boots
+- [ ] Cabaret
+- [x] Grease
+
+#### Which of the following is NOT a Pharmacy?
+
+- [ ] CVS
+- [ ] Rite-Aid
+- [x] The Home Depot
+
+#### Where would you find the world's first motel?
+
+- [x] California
+- [ ] England
+- [ ] New York
+
+#### What kind of animal is a Lurcher?
+
+- [ ] Rat
+- [ ] Cat
+- [x] Dog
+
+#### What Disney animated film is a reimagining of Rapunzel?
+
+- [x] Tangled
+- [ ] Zootopia
+- [ ] Hercules
+
+#### The actor who voiced Mufasa in "The Lion King" also voiced what famous villain?
+
+- [ ] Jafar
+- [ ] Thanos
+- [x] Darth Vader
