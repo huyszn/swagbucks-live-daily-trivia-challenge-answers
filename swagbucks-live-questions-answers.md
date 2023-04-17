@@ -2387,3 +2387,63 @@
 - [ ] Jafar
 - [ ] Thanos
 - [x] Darth Vader
+
+#### What art toy can be erased by shaking it?
+
+- [ ] Sketch-a-Doodle
+- [x] Etch-A-Sketch
+- [ ] Crayola Washables
+
+#### The Chocolate Frosty is made by which fast food chain?
+
+- [ ] Whataburger
+- [ ] Burger King
+- [x] Wendy's
+
+#### At the 2014 Oscars, what name did John Travolta mistakenly use to introduce Idina Menzel?
+
+- [ ] Indira Munzel
+- [x] Adele Dazeem
+- [ ] Marina Denzel
+
+#### Kansas City is famous for what kind of food?
+
+- [ ] Sushi
+- [x] BBQ
+- [ ] Pizza
+
+#### Who has been nominated for the most Academy Awards?
+
+- [ ] Meryl Streep
+- [x] Walt Disney
+- [ ] John Williams
+
+#### What is the heaviest known horse breed?
+
+- [x] Shire
+- [ ] Belgian
+- [ ] Clydesdale
+
+#### Where is the Hershey corporation headquartered?
+
+- [x] Pennsylvania
+- [ ] The Moon
+- [ ] Antarctica
+
+#### How many people does it take to play the card game Patience?
+
+- [x] 1
+- [ ] 2
+- [ ] 8
+
+#### Operating power tools outdoors could attract the females of what bug species?
+
+- [ ] Bumblebees
+- [ ] Praying Mantis
+- [x] Cicadas
+
+#### What 2017 music festival turned out to be a social media scam?
+
+- [ ] Coachella
+- [x] Fyre Festival
+- [ ] San Diego Comic-Con
