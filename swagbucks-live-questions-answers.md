@@ -2447,3 +2447,63 @@
 - [ ] Coachella
 - [x] Fyre Festival
 - [ ] San Diego Comic-Con
+
+#### The shopping day after Thanksgiving is known by what name?
+
+- [x] Black Friday
+- [ ] Plaid Friday
+- [ ] Vertical Stripes Friday
+
+#### "Patch's London Adventure" is the sequel to which Disney animated movie?
+
+- [ ] Robin Hood
+- [ ] Aladdin
+- [x] 101 Dalmatians
+
+#### "March Madness" refers to a tournament in what collegiate sport?
+
+- [ ] Football
+- [ ] Water Polo
+- [x] Basketball
+
+#### In "Rub-a-dub-dub", who are the three men in a tub?
+
+- [ ] Moe, Larry, & Curly
+- [x] The Butcher, The Baker, The Candlestick Maker
+- [ ] The Three Amigos
+
+#### #ilikeitpicasso and "That's not my name" were 2022 trends that started on which app?
+
+- [ ] Facebook
+- [x] TikTok
+- [ ] Snapchat
+
+#### Lionel Richie was the lead singer of what band?
+
+- [ ] The Rolling Stones
+- [ ] The Beatles
+- [x] Commodores
+
+#### What body part is used to keep a hula hoop in motion?
+
+- [ ] Eyes
+- [x] Hips
+- [ ] Ears
+
+#### In which U.S. state was Tennessee Williams born?
+
+- [ ] Tennessee
+- [x] Mississippi
+- [ ] Kentucky
+
+#### In 2008, Ratatouille took home the best Animated Feature Oscar for what studio?
+
+- [x] Pixar
+- [ ] Dreamworks
+- [ ] Studio Ghibli
+
+#### Which of the following animals cannot jump?
+
+- [ ] Grasshopper
+- [x] Elephant
+- [ ] Kangaroo
