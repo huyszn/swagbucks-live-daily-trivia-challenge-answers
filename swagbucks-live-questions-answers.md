@@ -2507,3 +2507,63 @@
 - [ ] Grasshopper
 - [x] Elephant
 - [ ] Kangaroo
+
+#### Which of these words contain an apthong?
+
+- [ ] Join
+- [ ] Inner
+- [x] Knife
+
+#### What does the motorist service AAA stand for?
+
+- [x] American Automobile Association
+- [ ] Airy Apple Angels
+- [ ] Andy's Arduous Ankles
+
+#### Which of the following Disney+ series is set in the Star Wars universe?
+
+- [ ] Forky Asks A Question
+- [ ] Encore!
+- [x] The Mandalorian
+
+#### What term is used to refer to volcanoes that have not erupted in a long time but may erupt in the future?
+
+- [x] Dormant
+- [ ] Extinct
+- [ ] Sneaky
+
+#### Shaquille O'Neal dubbed which opponent "The Big Fundamental"?
+
+- [ ] Hakeem Olajuwon
+- [ ] Rik Smits
+- [x] Tim Duncan
+
+#### Juicy Fruit gum used what slogan in their commercials?
+
+- [x] The taste is gonna move ya
+- [ ] It's better than smoking
+- [ ] Tastes like chicken
+
+#### In 2022, who filed for divorce from Tom Brady?
+
+- [ ] Naomi Campbell
+- [x] Gisele Bundchen
+- [ ] Cindy Crawford
+
+#### A flocked christmas tree looks like it has what on it?
+
+- [x] Snow
+- [ ] Flowers
+- [ ] Birds
+
+#### Who hosted a cooking show called "Good Eats"?
+
+- [ ] Julia Child
+- [x] Alton Brown
+- [ ] Guy Fieri
+
+#### Ireland's Coroners Act of 1846 decreed that dead bodies were to be stored where?
+
+- [ ] In churches
+- [x] In pubs
+- [ ] In schools
