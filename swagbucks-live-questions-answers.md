@@ -2567,3 +2567,63 @@
 - [ ] In churches
 - [x] In pubs
 - [ ] In schools
+
+#### Which of these restaurant chains is known for pizza?
+
+- [ ] Ponderosa
+- [ ] Burger King
+- [x] Domino's
+
+#### Narrow swift winds in the upper troposphere or lower stratosphere are known as what?
+
+- [x] Jet Stream
+- [ ] East Wind
+- [ ] Arctic Vortex
+
+#### Alexander III of Macedon is known by what name?
+
+- [ ] Alexander the Meh
+- [ ] Alexander the Sleepy
+- [x] Alexander the Great
+
+#### Fans of which city's hockey team have a tradition of throwing octopuses onto the ice?
+
+- [ ] Montreal
+- [x] Detroit
+- [ ] Chicago
+
+#### Which of these states does NOT contain a town named Normal?
+
+- [ ] Illinois
+- [ ] Alabama
+- [x] Idaho
+
+#### What was the first thing sold on the internet?
+
+- [ ] Broken Laser Pointer
+- [x] Illegal Drugs
+- [ ] A CD
+
+#### What game typically pits X's against O's?
+
+- [ ] Hopscotch
+- [ ] Tag
+- [x] Tic Tac Toe
+
+#### Chopin wrote most of his music for what instrument?
+
+- [x] Piano
+- [ ] Bass
+- [ ] Harp
+
+#### In "Jurassic Park", what insect, trapped in amber, allowed scientists to extract dinosaur DNA?
+
+- [ ] Ant
+- [x] Mosquito
+- [ ] Bumblebee
+
+#### Gary Larson is the artist behind what comic strip?
+
+- [ ] Garfield
+- [ ] Overboard
+- [x] The Far Side
