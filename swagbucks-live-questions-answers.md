@@ -2627,3 +2627,57 @@
 - [ ] Garfield
 - [ ] Overboard
 - [x] The Far Side
+
+#### Which of the following is a way to customize your character in Fortnite?
+
+- [x] Skins
+- [ ] New jobs
+- [ ] Smells
+
+#### In which sport can you score a birdie?
+
+- [x] Golf
+- [ ] Horseshoes
+- [ ] Jai Alai
+
+#### When Disney purchased FOX, what cartoon family did they get the rights to?
+
+- [ ] The Jetsons
+- [ ] The Flintstones
+- [x] The Simpsons
+
+#### Which of these is an example of a zero conditional?
+
+- [x] When you freeze water, it becomes ice
+- [ ] If it gets warm, you may sweat
+- [ ] If you fell, you would get hurt
+
+#### The Statue of Liberty was a gift to America from which country?
+
+- [ ] China
+- [x] France
+- [ ] Bora Bora
+
+#### Which of the following is NOT an astrological sign?
+
+- [ ] Aquarius
+- [ ] Sagittarius
+- [x] Hilarious
+
+#### Which President served the shortest term?
+
+- [ ] William McKinley
+- [ ] Richard Nixon
+- [x] William Henry Harrison
+
+#### Which of these was never an on-air U.S. TV show?
+
+- [ ] Homeboys in Outer Space
+- [ ] My Living Doll
+- [x] Heaven is Waiting
+
+#### What do Taliaferro apples, Silphium, and Ansault pears?
+
+- [ ] They're all poisonous
+- [x] They no longer exist
+- [ ] They're the same plant
