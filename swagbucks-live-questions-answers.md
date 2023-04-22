@@ -2681,3 +2681,63 @@
 - [ ] They're all poisonous
 - [x] They no longer exist
 - [ ] They're the same plant
+
+#### Which of these would not come up in a standard Tarot reading?
+
+- [ ] The Hierophant
+- [ ] The World
+- [x] The High Priest
+
+#### Raising Cane's is a chain known for serving what dish?
+
+- [ ] Beef Stew
+- [x] Chicken Fingers
+- [ ] Salad
+
+#### Dr. Scholl's makes products that are mostly meant for what body part?
+
+- [ ] Nose
+- [x] Feet
+- [ ] Hair
+
+#### What dish has Hannah Hart NOT made on "My Drunk Kitchen"?
+
+- [ ] Pizza Cake
+- [x] Falafel
+- [ ] Meatloaf
+
+#### Which of the following is NOT a branch of the U.S. Armed Forces?
+
+- [ ] Army
+- [ ] Navy
+- [x] Dance Brigade
+
+#### Kanye West, Snoop Dogg, and Drake all make music in what genre?
+
+- [x] Hip-Hop
+- [ ] IHOP
+- [ ] Hop To It
+
+#### Which singer once told you "If you liked it then you shoulda put a ring on it"?
+
+- [ ] Jewel
+- [ ] Sheryl Crow
+- [x] Beyoncé
+
+#### What brand of lollipops has candy inside the lollipop?
+
+- [x] Tootsie Pops
+- [ ] Ring Pops
+- [ ] Dum-Dums
+
+#### The oldest international sporting trophy is given out for what?
+
+- [x] Sailing
+- [ ] Tennis
+- [ ] Horse Racing
+
+#### Which pop culture figure is NOT mentioned by the Barenaked Ladies in "One Week"?
+
+- [ ] Sailor Moon
+- [ ] The Smoking Man
+- [x] Luke Skywalker
