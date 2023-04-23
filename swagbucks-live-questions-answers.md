@@ -2801,3 +2801,63 @@
 - [ ] Hoverboards
 - [x] Cars
 - [ ] Pogo Sticks
+
+#### Which of these countries has the capital with the smallest population?
+
+- [x] Palau
+- [ ] Andorra
+- [ ] St. Kitts and Nevis
+
+#### The Ophiocordyceps fungi were an inspiration for what video game?
+
+- [ ] Resident Evil
+- [x] The Last of Us
+- [ ] Left 4 Dead
+
+#### On a Ring Pop, what is the candy shaped like?
+
+- [ ] An elephant
+- [x] A jewel
+- [ ] An airplane
+
+#### Which character shares their birthday with JK Rowling?
+
+- [ ] Ron Weasley
+- [x] Harry Potter
+- [ ] Hermione Granger
+
+#### Marine One is the codename that usually refers to what Presidential vehicle
+
+- [x] Helicopter
+- [ ] Skateboard
+- [ ] Hang Glider
+
+#### What 90s toy was banned from schools due to claims that they could cause injury?
+
+- [x] Slap bracelets
+- [ ] Pogs
+- [ ] K'nex
+
+#### In "Bill & Ted's Excellent Adventure", which historical figure refuses to leave a water park?
+
+- [ ] Socrates
+- [x] Napoleon
+- [ ] Billy the Kid
+
+#### What collaborated with John Mellencamp and T Bone Burnett on the musical "Ghost Brothers of Darkland County"?
+
+- [ ] Dan Aykroyd
+- [ ] David Copperfield
+- [x] Stephen King
+
+#### Which high school doubled for Shermer High in "Ferris Bueller's Day Off"?
+
+- [x] Glenbrook North
+- [ ] Jones College Prep
+- [ ] Hinsdale Central
+
+#### What name was given to the children on The Mickey Mouse Club?
+
+- [ ] Micketeers
+- [x] Mouseketeers
+- [ ] Mickey's Pals
