@@ -2741,3 +2741,63 @@
 - [ ] Sailor Moon
 - [ ] The Smoking Man
 - [x] Luke Skywalker
+
+#### What actor voiced Maggie Simpson's first word?
+
+- [x] Elizabeth Taylor
+- [ ] Goldie Hawn
+- [ ] Meryl Streep
+
+#### What field of study uses the stars to tell the future?
+
+- [ ] Astronomy
+- [x] Astrology
+- [ ] Astroidology
+
+#### Which of the following is NOT mentioned by Barenaked Ladies in the song "The Big Bang Theory"?
+
+- [ ] Pangea
+- [x] Woolly Mammoth
+- [ ] Australopithecus
+
+#### In the films, what is Indiana Jones' real first name?
+
+- [x] Henry
+- [ ] Indiana
+- [ ] Jonathan
+
+#### Which of the following toys was created to help children cope with anxiety?
+
+- [x] Fidget Spinner
+- [ ] Koosh Ball
+- [ ] Tamagotchi
+
+#### Michael Keaton's character from "Jackie Brown" makes an appearance in what other movie?
+
+- [ ] U.S. Marshals
+- [ ] The Nice Guys
+- [x] Out of Sight
+
+#### What company first helped popularize bubble wrap as a packing material?
+
+- [ ] Boeing
+- [ ] Kellogg's
+- [x] IBM
+
+#### Which Pennsylvania city was never the U.S. capital?
+
+- [ ] York
+- [x] Valley Forge
+- [ ] Lancaster
+
+#### Addison Rae became popular through her dancing videos on what app?
+
+- [x] TikTok
+- [ ] WhatsApp
+- [ ] Twitter
+
+#### Hot Wheels were originally a miniature series of what vehicle?
+
+- [ ] Hoverboards
+- [x] Cars
+- [ ] Pogo Sticks
