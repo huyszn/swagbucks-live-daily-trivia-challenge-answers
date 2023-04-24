@@ -2861,3 +2861,63 @@
 - [ ] Micketeers
 - [x] Mouseketeers
 - [ ] Mickey's Pals
+
+#### Manchester United is a team in which sport?
+
+- [ ] Handball
+- [x] Soccer
+- [ ] Relay Racing
+
+#### When he first sees the ghost of Jacob Marley, which of the following is one of the foods Scrooge blames it on?
+
+- [ ] Beer
+- [ ] Ham
+- [x] Potato
+
+#### Which of these countries is also a continent?
+
+- [ ] England
+- [x] Australia
+- [ ] Sweden
+
+#### Which NYC Borough is named after a river that runs through it?
+
+- [ ] Manhattan
+- [x] The Bronx
+- [ ] Brooklyn
+
+#### What is the first element on the Periodic Table?
+
+- [x] Hydrogen
+- [ ] Tungsten
+- [ ] Lead
+
+#### In which of the following movies does Sean Bean's character survive?
+
+- [x] Silent Hill
+- [ ] The Island
+- [ ] Goldeneye
+
+#### What doll came in a Malibu edition?
+
+- [ ] Optimus Prime
+- [x] Barbie
+- [ ] My Buddy
+
+#### Which of these Disney films has the highest unadjusted score on Rotten Tomatoes?
+
+- [ ] Brother Bear
+- [ ] Atlantis - The Lost Empire
+- [x] Oliver & Company
+
+#### In Chinese mythology, which fruits were associated with immortality?
+
+- [ ] Strawberries & Figs
+- [x] Peaches & Pears
+- [ ] Apples & Plums
+
+#### What novel came from the short story "The Fireman"?
+
+- [x] Fahrenheit 451
+- [ ] Catcher in the Rye
+- [ ] Backdraft
