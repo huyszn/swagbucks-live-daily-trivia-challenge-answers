@@ -1608,12 +1608,6 @@
 - [ ] The Locomotion
 - [ ] Wannabe
 
-#### Which of these is a game played with cards?
-
-- [ ] Chess
-- [ ] Checkers
-- [x] Poker
-
 #### The hormone glucagon is produced by which organ of the body?
 
 - [x] Pancreas
@@ -2921,3 +2915,63 @@
 - [x] Fahrenheit 451
 - [ ] Catcher in the Rye
 - [ ] Backdraft
+
+#### When Michael Jordan first retired from the NBA, what sport did he play?
+
+- [ ] Hockey
+- [ ] Football
+- [x] Baseball
+
+#### People who think "Howard the Duck" is a horror movie most likely suffer from what?
+
+- [x] Anatidaephobia
+- [ ] Ophidiophobia
+- [ ] Anaphobia
+
+#### In which Century was Chess invented?
+
+- [x] 6th
+- [ ] 17th
+- [ ] 21st
+
+#### In which game series do Nintendo characters race one another?
+
+- [ ] Legend of Zelda
+- [x] Mario Kart
+- [ ] Super Smash Bros
+
+#### What silent comedian starred in movies like Gold Rush, The Kid, and Modern Times?
+
+- [x] Charlie Chaplin
+- [ ] Buster Keaton
+- [ ] Harold Lloyd
+
+#### In the Star Wars films, what weapon do the Jedi and Sith use to do battle?
+
+- [ ] Pugil Stick
+- [x] Lightsaber
+- [ ] TIE Fighter
+
+#### The Earth's interior is divided into what three layers?
+
+- [ ] Upper, Lower, Spongy
+- [ ] Hot, Cold, Lukewarm
+- [x] Crust, Mantle, Core
+
+#### What gas gives soda its bubbles?
+
+- [x] Carbon dioxide
+- [ ] Argon
+- [ ] Neon
+
+#### What did Louis Vuitton first create and sell?
+
+- [ ] Hats
+- [ ] Handbags
+- [x] Luggage
+
+#### Ben & Jerry are famous for what food?
+
+- [ ] Sushi
+- [x] Ice Cream
+- [ ] Omelets
