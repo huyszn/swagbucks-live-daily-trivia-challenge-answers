@@ -2975,3 +2975,63 @@
 - [ ] Sushi
 - [x] Ice Cream
 - [ ] Omelets
+
+#### Which of the following celebrities NEVER had their own TV talk show?
+
+- [ ] John McEnroe
+- [ ] Orlando Jones
+- [x] Carrot Top
+
+#### Mary Shelley wrote which classic horror novel?
+
+- [ ] The Invisible Man
+- [x] Frankenstein
+- [ ] Dracula
+
+#### In which of these Vacation films is Rusty NOT older than Audrey?
+
+- [ ] Vacation
+- [ ] European Vacation
+- [x] Christmas Vacation
+
+#### What country accidentally "invaded" Liechtenstein in 2007?
+
+- [x] Switzerland
+- [ ] France
+- [ ] Germany
+
+#### Which of these foods is dehydrated?
+
+- [ ] Twinkies
+- [ ] Jello
+- [x] Beef Jerky
+
+#### What is the name of Lois Griffin's husband on "Family Guy"?
+
+- [ ] Stewey
+- [ ] Brian
+- [x] Peter
+
+#### On Masterclass.com, who will you NOT find teaching a class?
+
+- [ ] Frank Gehry
+- [ ] Reba McEntire
+- [x] Chris Rock
+
+#### For which discipline would you use Pointe shoes?
+
+- [ ] Surfing
+- [ ] Yoga
+- [x] Ballet
+
+#### Which of these phrases is synonymous with "hello"?
+
+- [ ] See ya!
+- [x] Good day!
+- [ ] I'm out!
+
+#### Miller Lite, Milwaukee's Best and Schlitz are all brands of what?
+
+- [ ] Bread
+- [x] Beer
+- [ ] Ball Bearings
