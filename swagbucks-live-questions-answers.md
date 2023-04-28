@@ -3095,3 +3095,57 @@
 - [x] Lady Gaga
 - [ ] Camila Cabello
 - [ ] Charlie Puth
+
+#### Emmys are given out for excellence in what medium?
+
+- [ ] Theater
+- [x] TV
+- [ ] Radio
+
+#### In "Hair Raising Hare", what is Gossamer most afraid of?
+
+- [x] People
+- [ ] Mice
+- [ ] Fire
+
+#### What does WWE stand for?
+
+- [x] World Wrestling Entertainment
+- [ ] Wet n' Wild Elephants
+- [ ] Wiry Welsh Elevators
+
+#### Which Star Trek TV series had a finale called "All Good Things"?
+
+- [x] The Next Generation
+- [ ] Deep Space Nine
+- [ ] Voyager
+
+#### Britannica is best known for what kind of book?
+
+- [x] Encyclopedia
+- [ ] Thesaurus
+- [ ] Anthology
+
+#### Which of these terms refers to something being good?
+
+- [x] On fleek
+- [ ] On the mend
+- [ ] In a funk
+
+#### Roy C. Sullivan was a park ranger who survived being struck by lightning how many times?
+
+- [x] 7
+- [ ] 12
+- [ ] 25
+
+#### In which decade did Fidel Castro take over Cuba?
+
+- [ ] 1920s
+- [x] 1950s
+- [ ] 1970s
+
+#### Where would you see acts like the high wire, trapeze, and lion tamer?
+
+- [ ] Grocery store
+- [ ] Bank
+- [x] Circus
