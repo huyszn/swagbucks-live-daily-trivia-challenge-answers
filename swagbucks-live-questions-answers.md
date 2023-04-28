@@ -3035,3 +3035,63 @@
 - [ ] Bread
 - [x] Beer
 - [ ] Ball Bearings
+
+#### In 2012 and 2013, what restaurant chain offered a Hobbit Hole Breakfast to promote the Hobbit films?
+
+- [ ] Burger King
+- [ ] IHOP
+- [x] Denny's
+
+#### Kurt Cobain hated "Smells Like Teen Spirit" at first because the opening riff sounded like what other band?
+
+- [ ] U2
+- [ ] Metallica
+- [x] The Pixies
+
+#### According to the Flag Code, what is the proper way to dispose of an American flag no longer fit for display?
+
+- [x] Burn it
+- [ ] Bury it
+- [ ] Drown it
+
+#### What Cole Porter musical takes place on a ship?
+
+- [x] Anything Goes
+- [ ] Cats
+- [ ] Hamilton
+
+#### In the phrase "You are winning this trivia game", what is the helping verb?
+
+- [ ] Winning
+- [x] Are
+- [ ] Trivia
+
+#### According to the Toni Basil song, who's so fine he blows her mind?
+
+- [x] Mickey
+- [ ] Winston Churchill
+- [ ] Alf
+
+#### Special Victims Unit and Criminal Intent are spin offs of what show?
+
+- [ ] E.R.
+- [x] Law & Order
+- [ ] Castle
+
+#### What kind of animal does the Grinch keep as a pet/sidekick?
+
+- [ ] Cat
+- [ ] Elephant
+- [x] Dog
+
+#### Scott Lang and Hank Pym have both adopted what superhero persona?
+
+- [ ] Captain America
+- [x] Ant-Man
+- [ ] Cyclops
+
+#### Who sings about being "Caught in a bad romance"?
+
+- [x] Lady Gaga
+- [ ] Camila Cabello
+- [ ] Charlie Puth
