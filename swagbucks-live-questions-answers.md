@@ -3149,3 +3149,63 @@
 - [ ] Grocery store
 - [ ] Bank
 - [x] Circus
+
+#### In the rhyme, who tried to put Humpty Dumpty back together again?
+
+- [x] All the King's horses & all the King's men
+- [ ] Ren & Stimpy
+- [ ] Laverne & Shirley
+
+#### What State was first home to Ben and Jerry's Ice Cream?
+
+- [ ] Alaska
+- [ ] Idaho
+- [x] Vermont
+
+#### If a doctor checked your Candle-mine, what would they be looking at?
+
+- [ ] Your nose
+- [ ] Your ear canal
+- [x] Your belly
+
+#### When playing dreidel, which letter forces you to put money in the pot?
+
+- [x] Shin
+- [ ] Gimel
+- [ ] Hey
+
+#### Which of these characters was played by Tom Hanks?
+
+- [ ] Han Solo
+- [ ] Indiana Jones
+- [x] Forrest Gump
+
+#### Which Beatle had an uncredited cameo in "Monty Python's Life of Brian"?
+
+- [ ] John Lennon
+- [ ] Ringo Starr
+- [x] George Harrison
+
+#### Where did the largest recorded earthquake take place?
+
+- [x] Chile
+- [ ] Japan
+- [ ] Alaska
+
+#### In which state does Parks & Rec primarily take place?
+
+- [ ] New York
+- [ ] California
+- [x] Indiana
+
+#### Which of these celebrities was born the same year as Ronald Reagan?
+
+- [x] Lucille Ball
+- [ ] Jesse Owens
+- [ ] Rosa Parks
+
+#### What is the name of Superman's home planet?
+
+- [ ] Oa
+- [ ] Knowhere
+- [x] Krypton
