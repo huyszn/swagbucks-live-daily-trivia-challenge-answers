@@ -3209,3 +3209,63 @@
 - [ ] Oa
 - [ ] Knowhere
 - [x] Krypton
+
+#### Which film franchise has movies with titles like "Return of the Jedi" and "Solo"?
+
+- [ ] Star Trek
+- [ ] Star Search
+- [x] Star Wars
+
+#### Which of the following is an example of anaerobic exercise?
+
+- [ ] Kickball
+- [x] Bench Press
+- [ ] Rowing
+
+#### What Dallas Cowboy is the NFL's all-time rushing leader?
+
+- [x] Emmitt Smith
+- [ ] Troy Aikman
+- [ ] Deion Sanders
+
+#### Who is NOT one of the top 10 all-time in NBA playoff scoring?
+
+- [ ] Karl Malone
+- [ ] Tony Parker
+- [x] Larry Bird
+
+#### Which of the following birds cannot fly?
+
+- [ ] Hawk
+- [x] Emu
+- [ ] Pigeon
+
+#### What did Ray Bradbury consider to be his only Science Fiction novel?
+
+- [ ] The Martian Chronicles
+- [ ] I Sing The Body Electric
+- [x] Fahrenheit 451
+
+#### What animal does University of Toronto psychology professor Jordan Peterson use to justify why human hierarchies exist?
+
+- [x] Lobster
+- [ ] Chimpanzee
+- [ ] Wolf
+
+#### Which of the following is NOT a piece on a standard chess board?
+
+- [ ] Knight
+- [ ] Bishop
+- [x] Milkman
+
+#### Which Disney film features Mister Smee?
+
+- [ ] Fantasia
+- [x] Peter Pan
+- [ ] Chitty Chitty Bang Bang
+
+#### "Wassup?!" was a successful ad campaign for what brand?
+
+- [x] Budweiser
+- [ ] Kia
+- [ ] Life Savers
