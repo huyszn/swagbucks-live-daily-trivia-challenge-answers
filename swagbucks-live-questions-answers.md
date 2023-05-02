@@ -3269,3 +3269,63 @@
 - [x] Budweiser
 - [ ] Kia
 - [ ] Life Savers
+
+#### A McDonald's franchisee in Orlando, Florida is the last place to offer which menu item?
+
+- [x] McPizza
+- [ ] Fish McBites
+- [ ] Arch Deluxe
+
+#### What is the largest, most populous and southernmost of the Baltic Republics?
+
+- [ ] Estonia
+- [ ] Latvia
+- [x] Lithuania
+
+#### Which amendment mentions servitude?
+
+- [x] 13th Amendment
+- [ ] 2nd Amendment
+- [ ] 19th Amendment
+
+#### Lizzie Arlington was the first woman to do what?
+
+- [x] Play professional baseball
+- [ ] Get a driver's license
+- [ ] Vote for president
+
+#### In the 1910's, what did the term "Annie Oakley" refer to?
+
+- [ ] A punch
+- [ ] An animal hide rug
+- [x] A free ticket
+
+#### Where were the Uruk-hai chants from Helm's Deep recorded for the Lord of the Rings movies?
+
+- [ ] Basketball Match
+- [ ] Rugby Match
+- [x] Cricket Match
+
+#### Which of these companies went by the initials VOC?
+
+- [ ] British East India Company
+- [x] Dutch East India Company
+- [ ] Hudson Line Trading Post
+
+#### When a solid condensates, what is formed?
+
+- [x] Liquid
+- [ ] Ice
+- [ ] Gas
+
+#### What 1980s toy line featured a Pepsi Can that turned into jet storage?
+
+- [x] Computer Warriors
+- [ ] Army Ants
+- [ ] Transformers
+
+#### The Iliad and The Odyssey are epic poems traditionally attributed to which writer?
+
+- [ ] Terrance
+- [x] Homer
+- [ ] Marge
