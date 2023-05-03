@@ -3329,3 +3329,57 @@
 - [ ] Terrance
 - [x] Homer
 - [ ] Marge
+
+#### Sci-fi writer Isaac Asimov created the Three Laws of what?
+
+- [x] Robotics
+- [ ] Dance
+- [ ] Cake Decorating
+
+#### The people of Buganda, who live in Uganda, speak what?
+
+- [ ] Muganda
+- [x] Luganda
+- [ ] Suganda
+
+#### If you were 5'11", which female face character could you play at a Disney Park?
+
+- [ ] Dopey
+- [ ] Jack Jack
+- [x] Maleficent
+
+#### Tucks and pikes are a part of what competitive sport?
+
+- [ ] Hurdles
+- [x] Diving
+- [ ] Handball
+
+#### What 1995 television event was viewed by 95 million people?
+
+- [ ] The Super Bowl
+- [x] The OJ Verdict
+- [ ] E.R. Season Finale
+
+#### What is the hottest continent on Earth?
+
+- [x] Africa
+- [ ] North America
+- [ ] Europe
+
+#### What historical document's name translates to "The Great Charter"?
+
+- [x] Magna Carta
+- [ ] Treaty of Verdun
+- [ ] Constitution
+
+#### What publication was created to list TV programming?
+
+- [ ] Entertainment Weekly
+- [x] TV Guide
+- [ ] People
+
+#### What kind of animal is the cartoon character Bluey?
+
+- [ ] Cat
+- [x] Dog
+- [ ] Mouse
