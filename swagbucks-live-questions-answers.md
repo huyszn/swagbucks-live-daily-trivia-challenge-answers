@@ -3383,3 +3383,63 @@
 - [ ] Cat
 - [x] Dog
 - [ ] Mouse
+
+#### Where is the Washington Monument located?
+
+- [ ] The National Shopping Center
+- [ ] The National Outlet Store
+- [x] The National Mall
+
+#### What was the original abbreviation of the league that became the NBA?
+
+- [ ] NBL
+- [x] BAA
+- [ ] ABA
+
+#### De La Soul, A Tribe Called Quest, and Wu-Tang Clan are all part of what genre of music?
+
+- [x] Hip Hop
+- [ ] Country
+- [ ] New Wave
+
+#### What was the only Elvis movie to lose money at the box office?
+
+- [ ] Frankie and Johnny
+- [x] Wild in the Country
+- [ ] Follow That Dream
+
+#### Michael Jackson was once married to the daughter of what iconic singer?
+
+- [ ] Tina Turner
+- [x] Elvis Presley
+- [ ] Lionel Richie
+
+#### Harry, Niall, Louis, Liam, and Zayn were the founding members of what band?
+
+- [ ] The Who
+- [x] One Direction
+- [ ] Simon & Garfunkel
+
+#### A species of tree in Yemen has what fantasy-inspired name?
+
+- [ ] Faerie Tree
+- [ ] Wizard's Beard Tree
+- [x] Dragon Blood Tree
+
+#### What year did Disney Plus start streaming?
+
+- [ ] 1983
+- [ ] 1955
+- [x] 2019
+
+#### Who played Captain Kirk in the original Star Trek?
+
+- [x] William Shatner
+- [ ] Leonard Nimoy
+- [ ] DeForest Kelley
+
+#### What vegetable comes in stalks?
+
+- [ ] Beets
+- [ ] Carrots
+- [x] Celery
