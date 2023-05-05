@@ -3443,3 +3443,51 @@
 - [ ] Beets
 - [ ] Carrots
 - [x] Celery
+
+#### What is the name of the hero in the Legend of Zelda series?
+
+- [ ] Kid Icarus
+- [ ] Sammus
+- [x] Link
+
+#### What would a pogonophile want as a Valentine?
+
+- [ ] Popeye
+- [x] Dusty Hill
+- [ ] Charles Lindbergh
+
+#### On Wednesdays, what color is worn by the Plastics?
+
+- [x] Pink
+- [ ] Blue
+- [ ] Yellow
+
+#### "The Last Man" is a novel from the author most famous for what other book?
+
+- [x] Frankenstein
+- [ ] Dracula
+- [ ] The Invisible Man
+
+#### Which of these NBA players did NOT have a father who played basketball professionally?
+
+- [ ] Gary Trent Jr.
+- [x] Kelly Oubre Jr.
+- [ ] Pete Maravich
+
+#### What was the official name of Microsoft Office's "helpful" paperclip?
+
+- [x] Clippit
+- [ ] Doc
+- [ ] Clippy
+
+#### The Bronco, Mustang, and Fusion are all made by what auto company?
+
+- [x] Ford
+- [ ] Volvo
+- [ ] Saab
+
+#### Since 1975, Saigon is officially known by what name?
+
+- [ ] Gia Dinh City
+- [x] Ho Chi Minh City
+- [ ] Hanoi
