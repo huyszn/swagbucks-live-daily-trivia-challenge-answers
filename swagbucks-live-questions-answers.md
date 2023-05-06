@@ -3491,3 +3491,63 @@
 - [ ] Gia Dinh City
 - [x] Ho Chi Minh City
 - [ ] Hanoi
+
+#### What connects muscles to our bones?
+
+- [ ] Thread
+- [ ] Ninedons
+- [x] Tendons
+
+#### What does it mean to see eye to eye with someone?
+
+- [ ] You disagree
+- [ ] You're in love
+- [x] You agree
+
+#### Which sport would most likely involve a tackle box?
+
+- [ ] Wrestling
+- [x] Fly Fishing
+- [ ] Rugby
+
+#### Which of the following games has no inherent strategy, instead relying on pure luck?
+
+- [ ] Chess
+- [ ] Stratego
+- [x] Chutes & Ladders
+
+#### Which books feature a man in a striped shirt hiding in a series of crowd scenes?
+
+- [ ] Have You Seen Sam?
+- [x] Where's Waldo?
+- [ ] Looking for Lawrence
+
+#### Rowntree's Chocolate Crisp was an early name of what candy?
+
+- [ ] Nestlé Crunch
+- [ ] Clark Bar
+- [x] Kit Kat
+
+#### Which of these ice cream brands is completely dairy-free?
+
+- [ ] Breyers
+- [ ] Ben & Jerry's
+- [x] Tofutti
+
+#### Which of the following women is best known as a supermodel?
+
+- [x] Cindy Crawford
+- [ ] Rihanna
+- [ ] Emma Stone
+
+#### Which country does NOT share a border with Italy?
+
+- [ ] Austria
+- [ ] Slovenia
+- [x] Germany
+
+#### Earbuds are a type of what?
+
+- [ ] Disease
+- [x] Headphones
+- [ ] Body part
