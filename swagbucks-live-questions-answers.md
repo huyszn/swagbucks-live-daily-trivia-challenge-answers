@@ -3551,3 +3551,57 @@
 - [ ] Disease
 - [x] Headphones
 - [ ] Body part
+
+#### Based on the name, which band would be an Entomologist's favorite?
+
+- [ ] The Rolling Stones
+- [x] The Beatles
+- [ ] The Byrds
+
+#### What form of theater was invented in Japan?
+
+- [ ] Improvisation comedy
+- [ ] Ballet
+- [x] Kabuki
+
+#### Which of these foods is considered dairy?
+
+- [ ] Raisins
+- [ ] Smaller raisins
+- [x] Whole milk
+
+#### What rifle is known as "The Gun that Won the West"?
+
+- [x] Winchester Model 1873
+- [ ] Laser gun
+- [ ] Bazooka
+
+#### The HB Scale is used to quantify the hardness of what?
+
+- [ ] Steel Beams
+- [ ] Drinking Water
+- [x] Pencil Lead
+
+#### If the CEO of Old Navy was called by the highest rank in the U.S. Navy, how would she be addressed?
+
+- [ ] Master Commodore
+- [ ] Rear Admiral
+- [x] Fleet Admiral
+
+#### What breed is the Guinness record holder for heaviest dog?
+
+- [ ] Newfoundland
+- [ ] Irish Wolfhound
+- [x] Old English Mastiff
+
+#### In "Carrie", what substance is dumped on her head at prom?
+
+- [ ] Confetti
+- [ ] Ice water
+- [x] Pig's blood
+
+#### In Pac-Man, Inky, Pinky, Blinky, and Clyde are the names of what?
+
+- [ ] Pellets
+- [x] Ghosts
+- [ ] Levels
