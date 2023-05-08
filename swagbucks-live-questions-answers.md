@@ -3605,3 +3605,63 @@
 - [ ] Pellets
 - [x] Ghosts
 - [ ] Levels
+
+#### What animal is used to describe a market where stock prices are rising?
+
+- [ ] Bull
+- [x] Bandicoot
+- [ ] Beatle
+
+#### What is the only country Portugal shares a border with?
+
+- [ ] Monaco
+- [x] Spain
+- [ ] France
+
+#### During World War One, what dog breed was referred to as "Liberty Hound" in the U.S.?
+
+- [x] Dachshund
+- [ ] German Shepherd
+- [ ] Bulldog
+
+#### What was the first NHL team with a mascot?
+
+- [ ] Phoenix Coyotes
+- [ ] Philadelphia Flyers
+- [x] Calgary Flames
+
+#### What two things are traditionally announced as "sponsors" of each Sesame Street episode?
+
+- [x] Numbers and Letters
+- [ ] Ways and Means
+- [ ] Thunder and Lightning
+
+#### What was the name of the butler on "The Addams Family"?
+
+- [ ] Itt
+- [ ] Fester
+- [x] Lurch
+
+#### Which of the following companies is known for athletic wear?
+
+- [ ] Land-O-Lakes
+- [x] Nike
+- [ ] Mazda
+
+#### Which U.S. State was purchased from Russia?
+
+- [ ] Arizona
+- [ ] Arkansas
+- [x] Alaska
+
+#### Which of these song lyrics is an example of Epizeuxis?
+
+- [x] To everything, turn, turn, turn!
+- [ ] O holy night!
+- [ ] Supercalifragilisticexpialidocious!
+
+#### What MTV game show tested your knowledge of classic television?
+
+- [ ] The Idiot Box
+- [ ] Road Rules
+- [x] Remote Control
