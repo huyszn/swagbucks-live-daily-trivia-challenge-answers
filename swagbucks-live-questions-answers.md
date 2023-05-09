@@ -3665,3 +3665,57 @@
 - [ ] The Idiot Box
 - [ ] Road Rules
 - [x] Remote Control
+
+#### According to his hit song, what does Sir Mix-A-Lot like?
+
+- [ ] French poetry
+- [ ] Asian Cuisine
+- [x] Big Butts
+
+#### Whose works are catalogued as BWV?
+
+- [ ] Beethoven
+- [x] Bach
+- [ ] Brahms
+
+#### Which rapper tells you not to pull up at 6 AM to cuddle with him?
+
+- [ ] Fetty Wap
+- [ ] Rich The Kid
+- [x] Drake
+
+#### Disney Parks' Galaxy's Edge is based on what film franchise?
+
+- [x] Star Wars
+- [ ] Avatar
+- [ ] Star Trek
+
+#### What kind of fruit does Spongebob Squarepants call home?
+
+- [x] Pineapple
+- [ ] Peach
+- [ ] Pear
+
+#### If "Hail to thee, blithe spirit," were a bird call, which bird would it be calling?
+
+- [x] A skylark
+- [ ] A nightingale
+- [ ] a raven
+
+#### Which of the following is NOT a zodiac sign?
+
+- [ ] Capricorn
+- [ ] Aquarius
+- [x] Do Not Enter
+
+#### Complete this My Chemical Romance song title: "Welcome to the..."?
+
+- [x] Black Parade
+- [ ] Jungle
+- [ ] Lounge
+
+#### According to the Disney song, what does Hakuna Matata mean?
+
+- [ ] Turn left
+- [ ] I'm hungry
+- [x] No worries
