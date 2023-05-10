@@ -3719,3 +3719,57 @@
 - [ ] Turn left
 - [ ] I'm hungry
 - [x] No worries
+
+#### The Bloomin' Onion is an appetizer served at what restaurant chain?
+
+- [ ] Panda Express
+- [x] Outback Steakhouse
+- [ ] Souplantation
+
+#### What was built to protect China from invasion by barbarians?
+
+- [ ] The Tower of Babel
+- [x] The Great Wall of China
+- [ ] The Leaning Tower of Pisa
+
+#### In 2002, pigs were implanted with the genes of what vegetable to make their pork leaner?
+
+- [ ] Beets
+- [ ] Cucumbers
+- [x] Spinach
+
+#### What's the name of the pirate in Peter Pan?
+
+- [x] Captain Hook
+- [ ] Captain Line
+- [ ] Captain Sinker
+
+#### Who wrote "The Sun Also Rises"?
+
+- [ ] F. Scott Fitzgerald
+- [x] Ernest Hemingway
+- [ ] Edgar Rice Burroughs
+
+#### In 2016, a group of data scientists and engineers were able to create a "new" painting by which artist?
+
+- [ ] Renoir
+- [ ] Raphael
+- [x] Rembrandt
+
+#### Which fast food restaurant is the oldest?
+
+- [ ] McDonald's
+- [ ] KFC
+- [x] White Castle
+
+#### Which of these is an actual reaction emoji on Facebook?
+
+- [x] Love
+- [ ] Hate
+- [ ] Sick
+
+#### Which of these Halloween costumes would most likely involve fangs?
+
+- [ ] Princess Leia
+- [ ] He-Man
+- [x] Dracula
