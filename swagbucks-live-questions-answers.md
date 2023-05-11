@@ -3773,3 +3773,63 @@
 - [ ] Princess Leia
 - [ ] He-Man
 - [x] Dracula
+
+#### What word is used to describe George, the monkey from the children's books?
+
+- [ ] Hungry
+- [ ] Auspicious
+- [x] Curious
+
+#### Which place is NOT referenced in the song "Dancing in the Streets"?
+
+- [ ] Brazil
+- [ ] Detroit
+- [x] Memphis
+
+#### In "Aladdin", what does Jafar turn himself into?
+
+- [x] A snake
+- [ ] A tiger
+- [ ] A sword
+
+#### What song was the inspiration for Scooby-Doo's name?
+
+- [x] Strangers in the Night
+- [ ] Fly Me To The Moon
+- [ ] The Best is Yet to Come
+
+#### Taylor Swift's 2021 re-release of her 2012 album RED featured a 10-minute version of which song?
+
+- [x] All Too Well
+- [ ] Let It Be
+- [ ] Satisfaction
+
+#### What type of store is 7-11?
+
+- [ ] Clothing store
+- [x] Convenience store
+- [ ] Consignment store
+
+#### London is the capital of what country?
+
+- [ ] Russia
+- [ ] Ghana
+- [x] England
+
+#### Which of the following movies was originally written for Richard Pryor and Gene Wilder?
+
+- [ ] 48 Hours
+- [x] Trading Places
+- [ ] Rush Hour
+
+#### A pet supply company in what country started offering "paw-ternity" leave for employees in 2018?
+
+- [ ] The Netherlands
+- [ ] New Zealand
+- [x] Norway
+
+#### What is the title of the news parody segment on Saturday Night Live?
+
+- [ ] This Week in Fake News
+- [ ] Not Necessarily The News
+- [x] Weekend Update
