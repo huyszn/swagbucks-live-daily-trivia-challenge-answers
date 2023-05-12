@@ -3833,3 +3833,63 @@
 - [ ] This Week in Fake News
 - [ ] Not Necessarily The News
 - [x] Weekend Update
+
+#### What 1993 toy cassette player first appeared in "Home Alone 2"?
+
+- [ ] Wonder Wheel
+- [x] Talkboy
+- [ ] Magna Doodle
+
+#### Which sport breaks its play into innings?
+
+- [ ] Javelin
+- [x] Baseball
+- [ ] Marathon running
+
+#### On "Diff'rent Strokes", what was Arnold's catchphrase?
+
+- [ ] "Nanu, Nanu"
+- [ ] "Kiss my grits!"
+- [x] "Whatchoo talkin' 'bout, Willis?"
+
+#### What animal uses a pouch to carry their newborns?
+
+- [ ] Raccoon
+- [ ] Lemur
+- [x] Kangaroo
+
+#### What musical term refers to the rate at which a piece of music should be played?
+
+- [ ] Tone
+- [x] Tempo
+- [ ] Pitch
+
+#### In their holiday hit, Run DMC rap about Christmas in which New York borough?
+
+- [x] Queens
+- [ ] Brooklyn
+- [ ] The Bronx
+
+#### Which of these foods is normally cooked in a slot toaster?
+
+- [ ] Turkey Breast
+- [ ] Oatmeal
+- [x] Pop Tart
+
+#### What character's life-size statue was stolen from a NJ restaurant undergoing renovations in 2017?
+
+- [x] Ronald McDonald
+- [ ] Little Caesar
+- [ ] Colonel Sanders
+
+#### What musical instrument is played by humming into it?
+
+- [x] Kazoo
+- [ ] Drums
+- [ ] Guitar
+
+#### According to their motto, "Neither snow nor rain nor heat nor gloom of night" can keep what group from doing their job?
+
+- [ ] Veterinarians
+- [ ] Short Order Cooks
+- [x] Mail Carriers
