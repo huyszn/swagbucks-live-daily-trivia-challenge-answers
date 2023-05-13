@@ -3893,3 +3893,63 @@
 - [ ] Veterinarians
 - [ ] Short Order Cooks
 - [x] Mail Carriers
+
+#### Which of the following would you use to play an audio cassette?
+
+- [ ] VHS player
+- [x] Walkman
+- [ ] Oscillator
+
+#### In the book "Freaky Friday", with whom does Annabel change places?
+
+- [ ] Her dog
+- [x] Her mother
+- [ ] Her teacher
+
+#### Someone who's inexperienced is said to be "Wet behind the" what?
+
+- [ ] Feet
+- [ ] Barn
+- [x] Ears
+
+#### Tom Hanks opted for percentage points over a salary for which film?
+
+- [ ] Apollo 13
+- [ ] Big
+- [x] Forrest Gump
+
+#### When making "Aladdin", who did animator Glen Keane study to get the hero's pants right?
+
+- [ ] Katharine Hepburn
+- [ ] Rudolph Valentino
+- [x] M.C. Hammer
+
+#### Sesame Street episodes were traditionally sponsored by what?
+
+- [x] Letters and Numbers
+- [ ] Automotive Oil
+- [ ] Fast Food Chains
+
+#### Who would Zeus call on Father's Day?
+
+- [x] Cronus
+- [ ] Poseidon
+- [ ] Titania
+
+#### Which of these sequences is part of the infamous "Konami Code"?
+
+- [ ] Up, Down, Touch the Ground
+- [x] Up, Up, Down, Down
+- [ ] Back and to the Left
+
+#### Which "South Park" character originally died in every episode?
+
+- [x] Kenny
+- [ ] Kyle
+- [ ] Cartman
+
+#### Which boy band was featured on the soundtrack to "Mulan"?
+
+- [x] 98 Degrees
+- [ ] N'Sync
+- [ ] Backstreet Boys
