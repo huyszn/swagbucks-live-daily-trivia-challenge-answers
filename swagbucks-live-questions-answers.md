@@ -3953,3 +3953,63 @@
 - [x] 98 Degrees
 - [ ] N'Sync
 - [ ] Backstreet Boys
+
+#### Who won the 2018 Men's World Cup?
+
+- [ ] Brazil
+- [x] France
+- [ ] Croatia
+
+#### According to the saying, what happens when the going gets tough?
+
+- [ ] Tears
+- [ ] A minor earthquake
+- [x] The tough get going
+
+#### During the Middle Ages, what dog breed was believed to ward away ghosts?
+
+- [ ] Doberman Pinscher
+- [ ] Siberian Husky
+- [x] Great Dane
+
+#### What toy line features figures of Leonardo, Raphael, Donatello, and Michelangelo?
+
+- [ ] Crystar
+- [ ] G.I. Joe
+- [x] Teenage Mutant Ninja Turtles
+
+#### Which manager was a Billboard-charting singer before joining the wrestling business?
+
+- [x] Jimmy Hart
+- [ ] Lou Albano
+- [ ] Paul Bearer
+
+#### Peter Griffin is one of the main characters on which animated series?
+
+- [ ] Mighty Magiswords
+- [ ] The Simpsons
+- [x] Family Guy
+
+#### Which of these 80s movie music videos did NOT star actors from that movie?
+
+- [ ] Spies Like Us
+- [ ] St. Elmo's Fire
+- [x] Batdance
+
+#### What brand of dolls that you "adopt" was created by Xavier Roberts?
+
+- [x] Cabbage Patch Kids
+- [ ] Popples
+- [ ] Strawberry Shortcake
+
+#### What unique feature does a golf ball have?
+
+- [ ] Stitches
+- [x] Dimples
+- [ ] Three holes
+
+#### The sequel to which Pixar film is about its main characters' college days?
+
+- [x] Monsters Inc
+- [ ] Toy Story
+- [ ] Cars
