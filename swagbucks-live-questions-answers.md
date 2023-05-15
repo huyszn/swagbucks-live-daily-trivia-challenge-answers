@@ -4013,3 +4013,63 @@
 - [x] Monsters Inc
 - [ ] Toy Story
 - [ ] Cars
+
+#### Which Looney Tunes character had a girlfriend named Petunia?
+
+- [ ] Bugs Bunny
+- [ ] Pepe Le Pew
+- [x] Porky Pig
+
+#### What is the name of NBC's streaming service?
+
+- [x] Peacock
+- [ ] Paramount Plus
+- [ ] HBO Max
+
+#### If you're feeling sullen, what other word would best describe your mood?
+
+- [ ] Elated
+- [ ] Hungry
+- [x] Sad
+
+#### What historical event happened on November 9th, 1989?
+
+- [ ] The Gettysburg Address
+- [ ] The Teapot Dome Scandal
+- [x] Berlin Wall Falls
+
+#### In the Friday the 13th movies, what kind of mask does Jason Voorhees wear?
+
+- [ ] Ski Mask
+- [x] Hockey Mask
+- [ ] Surgical Mask
+
+#### Which two actors were suggested by Paramount to play Mr. McAllister in "Election"?
+
+- [x] Tom Hanks & Tom Cruise
+- [ ] Tom Hanks & Bill Murray
+- [ ] Tom Cruise & Ben Affleck
+
+#### What global soccer tournament was first played in 1930?
+
+- [ ] Olympics
+- [ ] World Series
+- [x] World Cup
+
+#### A peacock serves as the logo of what TV network?
+
+- [x] NBC
+- [ ] MTV
+- [ ] Comedy Central
+
+#### Eunice Waymon is better known by what stage name?
+
+- [ ] SZA
+- [ ] Cher
+- [x] Nina Simone
+
+#### In the Toy Story movies, who provides the voice of Woody?
+
+- [x] Tom Hanks
+- [ ] Time Allen
+- [ ] Jim Varney
