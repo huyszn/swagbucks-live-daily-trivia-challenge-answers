@@ -4073,3 +4073,63 @@
 - [x] Tom Hanks
 - [ ] Time Allen
 - [ ] Jim Varney
+
+#### What band got their first gig opening for Keanu Reeves's band?
+
+- [ ] Fountains of Wayne
+- [x] Weezer
+- [ ] Spin Doctors
+
+#### In the original stage version of "The Wizard of Oz", what noise would Dorothy's animal companion make?
+
+- [ ] Meow
+- [ ] Woof
+- [x] Moo
+
+#### What is the name of the pizza restaurant from Toy Story?
+
+- [x] Pizza Planet
+- [ ] Pizza Hut
+- [ ] Pizza Palace
+
+#### Which episode of Everybody Loves Raymond appeared in its final season?
+
+- [ ] Peter on the Couch
+- [ ] Thank You Notes
+- [x] A Job for Robert
+
+#### Eddie Vedder is the lead singer of what band?
+
+- [ ] Silverchair
+- [ ] Mister Mister
+- [x] Pearl Jam
+
+#### Amelia Earhart disappeared while trying to be the first woman to do what?
+
+- [ ] Fly to space
+- [x] Circumnavigate the globe by plane
+- [ ] Drive cross-country
+
+#### Which of the following movies is a sequel?
+
+- [ ] The Godfather
+- [x] The Empire Strikes Back
+- [ ] Iron Man
+
+#### What was the name of McDonald's first mascot?
+
+- [x] Speedee
+- [ ] Big Mac
+- [ ] Archie
+
+#### Which of these actors played a lawyer on Family Guy?
+
+- [ ] Jason Alexander
+- [ ] Mike Tyson
+- [x] Candice Bergen
+
+#### Rapper and producer Sean Combs is better known by what stage name?
+
+- [ ] Ice Cube
+- [x] P. Diddy
+- [ ] The Notorious B.I.G.
