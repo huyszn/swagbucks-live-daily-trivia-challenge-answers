@@ -4133,3 +4133,63 @@
 - [ ] Ice Cube
 - [x] P. Diddy
 - [ ] The Notorious B.I.G.
+
+#### Where does Winnie the Pooh live?
+
+- [ ] Cleveland
+- [x] The Hundred Acre Wood
+- [ ] Outer Space
+
+#### What game is over when a tower collapses?
+
+- [ ] Operation
+- [ ] Candyland
+- [x] Jenga
+
+#### What is the name of Detroit's NHL franchise?
+
+- [x] Red Wings
+- [ ] Canadiens
+- [ ] Avalanche
+
+#### Which of these presidents was known as a skilled wrestler?
+
+- [x] Abraham Lincoln
+- [ ] Herbert Hoover
+- [ ] Grover Cleveland
+
+#### At the Academy Awards, how do the announce winners?
+
+- [x] "And the Oscar goes to..."
+- [ ] "Here's who won this..."
+- [ ] "Oh WOW!"
+
+#### How frequently are the Summer Olympics usually held?
+
+- [ ] Every year
+- [ ] Every other year
+- [x] Every 4 years
+
+#### What unleavened flatbread is served during Passover?
+
+- [ ] Naan
+- [ ] Pita
+- [x] Matzo
+
+#### When you are good with plants, what would people say you have?
+
+- [x] A Green Thumb
+- [ ] A Green Nose
+- [ ] A Green Pinky Toe
+
+#### In what city will you find the Eiffel Tower?
+
+- [x] Paris
+- [ ] New York
+- [ ] Sydney
+
+#### From what UK region does the word "wuthering" from "Wuthering Heights" originate?
+
+- [x] Yorkshire
+- [ ] Wales
+- [ ] Scotland
