@@ -4193,3 +4193,57 @@
 - [x] Yorkshire
 - [ ] Wales
 - [ ] Scotland
+
+#### According to legend, what does a witch fly around on?
+
+- [ ] Drone
+- [ ] Helicopter
+- [x] Broomstick
+
+#### Who is Mickey Mouse's pet dog?
+
+- [ ] Goofy
+- [x] Pluto
+- [ ] Rover
+
+#### On "Friday Night Lights", what was Coach Taylor's rallying cry?
+
+- [ ] This one's for Rudy
+- [x] Clear eyes, full hearts, can't lose
+- [ ] Win one for the Gipper
+
+#### Who would you hire to help you buy or sell a house?
+
+- [x] Realtor
+- [ ] Decorator
+- [ ] Actuary
+
+#### In which decade did World War II take place?
+
+- [ ] 1920's
+- [x] 1940's
+- [ ] 1950's
+
+#### If someone tells you to "put up your dukes", what do they want to do?
+
+- [ ] Cook
+- [x] Fight
+- [ ] Dance
+
+#### Which actor was originally cast as the lead in "Bad Santa"?
+
+- [ ] Billy Bob Thornton
+- [x] Bill Murray
+- [ ] Bruce Willis
+
+#### How many fluid ounces are in a cup?
+
+- [x] Eight
+- [ ] Sixteen
+- [ ] Twenty-Four
+
+#### What do the Cornish and Manx languages have in common?
+
+- [ ] They're both glottal
+- [x] They're both endangered
+- [ ] They contain the same number of words
