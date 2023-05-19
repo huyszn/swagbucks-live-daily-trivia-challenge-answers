@@ -4247,3 +4247,57 @@
 - [ ] They're both glottal
 - [x] They're both endangered
 - [ ] They contain the same number of words
+
+#### Which U.S president tried to set Prince Charles up with his daughter?
+
+- [ ] Ronald Reagan
+- [ ] Jimmy Carter
+- [x] Richard Nixon
+
+#### Which of the following is a song by Marvin Gaye?
+
+- [x] What's Going On?
+- [ ] Where Are My Keys?
+- [ ] What's The Frequency, Kenneth?
+
+#### In "The Little Mermaid", what did Ursula take from Ariel in exchange for giving her legs?
+
+- [x] Her voice
+- [ ] Her soul
+- [ ] Her father
+
+#### Which of the following is NOT a Kevin Costner movie?
+
+- [ ] Bull Durham
+- [ ] Dances With Wolves
+- [x] Ace Ventura: Pet Detective
+
+#### Which brand's Twitter account only follows the 5 Spice Girls & 6 dudes named Herb?
+
+- [ ] Chick-Fil-A
+- [x] KFC
+- [ ] Taco Bell
+
+#### Mark Twain's famous neighbor wrote what novel?
+
+- [ ] The Raven
+- [ ] The Age of Innocence
+- [x] Uncle Tom's Cabin
+
+#### In American football, how many points is a touchdown worth?
+
+- [x] Six
+- [ ] Twenty
+- [ ] One hundred
+
+#### Estelle Reiner uttered what famous, often-quoted line?
+
+- [ ] "Where's the beef?"
+- [ ] "They're here!"
+- [x] "I'll have what she's having."
+
+#### What was the slogan for the first African-American woman to run for President?
+
+- [ ] For The People
+- [x] Unbought and Unbossed
+- [ ] Here for Good
