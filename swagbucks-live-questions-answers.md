@@ -4301,3 +4301,57 @@
 - [ ] For The People
 - [x] Unbought and Unbossed
 - [ ] Here for Good
+
+#### What is the main cause of gossypiboma in hospitals?
+
+- [ ] Food
+- [ ] Bed Sheets
+- [x] Surgeons
+
+#### Which company put out the Wii?
+
+- [ ] Sony
+- [x] Nintendo
+- [ ] Microsoft
+
+#### In 1997, what company saved Apple from bankruptcy?
+
+- [ ] Pixar
+- [x] Microsoft
+- [ ] Berkshire Hathaway
+
+#### According to superstition, where are you not supposed to open an umbrella?
+
+- [ ] Out in the rain
+- [x] Indoors
+- [ ] West Texas
+
+#### Germany's Spiel des Jahres is an award given to what kind of games?
+
+- [ ] Video games
+- [x] Tabletop games
+- [ ] Lawn games
+
+#### Which Muppet is known for playing the drums?
+
+- [ ] Dr. Teeth
+- [ ] Floyd Pepper
+- [x] Animal
+
+#### Who was the first German-born player to win a Wimbledon championship?
+
+- [ ] Steffi Graf
+- [x] John McEnroe
+- [ ] Boris Becker
+
+#### When was the first Star Trek video games released?
+
+- [ ] 1983
+- [ ] 1979
+- [x] 1971
+
+#### "Vanderpump Rules" spun off from what other reality show?
+
+- [ ] 90-Day Fiancé
+- [ ] Bling Empire
+- [x] Real Housewives of Beverly Hills
