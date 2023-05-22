@@ -4355,3 +4355,63 @@
 - [ ] 90-Day Fiancé
 - [ ] Bling Empire
 - [x] Real Housewives of Beverly Hills
+
+#### Which of the Seven Dwarfs does NOT have a beard?
+
+- [ ] Doc
+- [ ] Grumpy
+- [x] Dopey
+
+#### Which star of "The Office" plays Jack Ryan on an Amazon Prime Video series?
+
+- [ ] Rainn Wilson
+- [ ] Oscar Nunez
+- [x] John Krasinski
+
+#### Who is the only person to have both taken and administered the U.S. Presidential oath of office?
+
+- [ ] George Washington
+- [x] William Howard Taft
+- [ ] Richard Nixon
+
+#### Based on the location's name, what would you say to a friend leaving Greenland from its southernmost tip?
+
+- [x] Farewell
+- [ ] Goodbye
+- [ ] Adieu
+
+#### What flexing woman is often accompanied by the slogan "We Can Do It"?
+
+- [x] Rosie the Riveter
+- [ ] Ayn Rand
+- [ ] Eleanor Roosevelt
+
+#### Which of these words contains a Dental Fricative?
+
+- [ ] Crunch
+- [ ] Knock
+- [x] Thistle
+
+#### Which of the following is a song by Whitney Houston?
+
+- [x] The Worst Love Ever
+- [ ] The Love is Middling at Best
+- [ ] The Greatest Love of All
+
+#### Joe Montana, Tom Brady, and Peyton Manning are all famous for playing in what league?
+
+- [ ] MLB
+- [ ] NHL
+- [x] NFL
+
+#### What type of dish is traditionally cooked on a skewer?
+
+- [ ] Knish
+- [ ] Key Lime Pie
+- [x] Kebob
+
+#### Which of these comic strip characters is a detective?
+
+- [x] Dick Tracy
+- [ ] Dagwood Bumstead
+- [ ] Fred Basset
