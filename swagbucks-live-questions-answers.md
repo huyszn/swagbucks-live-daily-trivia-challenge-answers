@@ -4415,3 +4415,63 @@
 - [x] Dick Tracy
 - [ ] Dagwood Bumstead
 - [ ] Fred Basset
+
+#### In 2013, UC Santa Cruz researchers discovered that what animal was able to keep a beat?
+
+- [ ] Whale
+- [ ] Turtle
+- [x] Sea Lion
+
+#### Which candy bar shares its name with our galaxy?
+
+- [x] Milky Way
+- [ ] Take 5
+- [ ] Snickers
+
+#### What does the first Pokemon ever designed ultimately evolve into?
+
+- [x] Rhyperior
+- [ ] Ivysaur
+- [ ] Pikachu
+
+#### Which of these State's capitals is two words long?
+
+- [ ] Utah
+- [ ] Kentucky
+- [x] Nevada
+
+#### Which Sesame Street character shares a first name with one of the Sex Pistols?
+
+- [ ] The Count
+- [ ] Big Bird
+- [x] Cookie Monster
+
+#### In which sport do you hit a home run?
+
+- [ ] Football
+- [x] Baseball
+- [ ] Mini Golf
+
+#### Which of these companies is known for household appliances?
+
+- [x] Whirlpool
+- [ ] Toyota
+- [ ] Warner Bros
+
+#### What famous ocean liner sank in April of 1912?
+
+- [ ] The Lemurian Star
+- [ ] The Pacific Princess
+- [x] The Titanic
+
+#### According to the 18th Century John Wesley tome "Primitive Physick", how do you cure asthma?
+
+- [x] Boiled Carrots
+- [ ] A red hot poker
+- [ ] Ear wax
+
+#### Who plays home games in Wrigley Field?
+
+- [ ] Minnesota Twins
+- [ ] Detroit Tigers
+- [x] Chicago Cubs
