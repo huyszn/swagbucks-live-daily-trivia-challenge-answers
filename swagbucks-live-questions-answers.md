@@ -4475,3 +4475,63 @@
 - [ ] Minnesota Twins
 - [ ] Detroit Tigers
 - [x] Chicago Cubs
+
+#### What HBO series is about a group of software developers starting a company?
+
+- [ ] Deadwood
+- [x] Silicon Valley
+- [ ] Brain Games
+
+#### Canada Dry is a brand of?
+
+- [ ] Corn Syrup
+- [x] Ginger Ale
+- [ ] Breakfast cereal
+
+#### What ballpark is famous for its "Green Monster"?
+
+- [ ] Comerica Park
+- [ ] Dodger Stadium
+- [x] Fenway Park
+
+#### Which animal mostly uses its sense of touch to locate food?
+
+- [ ] Baboon
+- [x] Raccoon
+- [ ] Viper
+
+#### Which of these was NOT a music festival?
+
+- [ ] Warped
+- [ ] Lollapalooza
+- [x] A bunch of bands in cars
+
+#### Which "Cars" character is most likely a descendant of the Ford Model TT?
+
+- [x] Mater
+- [ ] Doc Hudson
+- [ ] Luigi
+
+#### In the original Back to the Future, what year did Marty travel to?
+
+- [x] 1955
+- [ ] 1215
+- [ ] 1776
+
+#### In which city are the 41 Broadway theaters found?
+
+- [ ] Los Angeles
+- [ ] Chicago
+- [x] New York
+
+#### Nick Fury led which secret government agency?
+
+- [ ] The FBI
+- [x] S.H.I.E.L.D.
+- [ ] S.T.A.R. Labs
+
+#### Where would you find Pruno being made?
+
+- [ ] The Appalachian Mountains
+- [x] Prison
+- [ ] The Waldorf-Astoria New York
