@@ -4535,3 +4535,51 @@
 - [ ] The Appalachian Mountains
 - [x] Prison
 - [ ] The Waldorf-Astoria New York
+
+#### Oak, Cypress, and Willow are types of what?
+
+- [ ] Car
+- [x] Tree
+- [ ] Women's shoe
+
+#### "Defying Gravity" and "The Wizard and I" are songs from what Broadway musical?
+
+- [ ] Hamilton
+- [ ] She Loves Me
+- [x] Wicked
+
+#### What would you most likely be suffering from if you had visions of Saint Bibiana?
+
+- [ ] A toothache
+- [ ] A migraine
+- [x] A hangover
+
+#### In Magic the Gathering, which extremely rare card adds 3 mana of any single color to your mana pool?
+
+- [ ] Mishra's Workshop
+- [ ] Mox Jet
+- [x] Black Lotus
+
+#### Which of the following is NOT one of the categories from the original Trivial Pursuit?
+
+- [ ] Arts & Literature
+- [ ] Science & Nature
+- [x] Guys named Ted
+
+#### What's the name of Jack Skellington's dog?
+
+- [ ] Billy
+- [x] Zero
+- [ ] Kip
+
+#### Michael Phelps won several Olympic gold medals for what sport?
+
+- [ ] Gymnastics
+- [x] Swimming
+- [ ] Pole Vault
+
+#### Nathan Lane and Matthew Broderick starred in both the stage and film versions of what musical?
+
+- [ ] Hamilton
+- [x] The Producers
+- [ ] Miss Saigon
