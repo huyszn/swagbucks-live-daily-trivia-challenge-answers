@@ -4583,3 +4583,63 @@
 - [ ] Hamilton
 - [x] The Producers
 - [ ] Miss Saigon
+
+#### The first person charged with speeding was going how fast?
+
+- [ ] 5 miles per hour
+- [x] 8 miles per hour
+- [ ] 10 miles per hour
+
+#### Which real-life politician did NOT have a Parks and Rec cameo?
+
+- [ ] John McCain
+- [x] Paul Ryan
+- [ ] Orrin Hatch
+
+#### Which fruit would you eat to symbolically celebrate the first country to permanently let women vote?
+
+- [x] Kiwi
+- [ ] Apple
+- [ ] Date
+
+#### In "Prince of Egypt", the actor who played God also played which character?
+
+- [x] Moses
+- [ ] A cup of yogurt
+- [ ] Two cups of yogurt
+
+#### Who introduced the vaccination against smallpox in 1796?
+
+- [x] Edward Jenner
+- [ ] Louis Pasteur
+- [ ] Alexander Fleming
+
+#### Which State was the first to recognize July 4th as a holiday?
+
+- [ ] Pennsylvania
+- [ ] New Jersey
+- [x] Massachusetts
+
+#### Which of these men is not a professional Cricket player?
+
+- [ ] Jos Buttler
+- [ ] Sachin Tendulkar
+- [x] DeAndre Yedlin
+
+#### In soccer, which body part is not allowed to touch the ball?
+
+- [x] Hand
+- [ ] Knee
+- [ ] Chest
+
+#### What Florida team won the 2020 Stanley Cup in the NHL's bubble?
+
+- [ ] The Atlanta Thrashers
+- [ ] The Boston Bruins
+- [x] The Tampa Bay Lightning
+
+#### Who was NOT a guest on the 1978 Star Wars Holiday Special?
+
+- [ ] Bea Arthur
+- [x] Bob Hope
+- [ ] Diahann Carroll
