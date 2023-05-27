@@ -4643,3 +4643,63 @@
 - [ ] Bea Arthur
 - [x] Bob Hope
 - [ ] Diahann Carroll
+
+#### The "get out of jail free" card is in what board game?
+
+- [x] Monopoly
+- [ ] Trouble
+- [ ] Sorry!
+
+#### Which female celebrity once secretly entered her own look-alike contest and lost to a man?
+
+- [x] Dolly Parton
+- [ ] Judy Garland
+- [ ] Marilyn Monroe
+
+#### The five senses are sight, sound, smell, taste, and what?
+
+- [x] Touch
+- [ ] Second smell
+- [ ] Foreboding
+
+#### The 1981 special "It's Magic, Charlie Brown" reveals that Snoopy's doghouse contains what?
+
+- [x] Alchemy Lab
+- [ ] Snack bar
+- [ ] Waterbed
+
+#### Which singer started as a member of "Destiny's Child"?
+
+- [x] Beyoncé
+- [ ] Mandy Moore
+- [ ] Alanis Morissette
+
+#### Georges Braque was the first living artist to display work at what famous Paris museum?
+
+- [x] The Louvre
+- [ ] MOMA
+- [ ] The Guggenheim
+
+#### What do you traditionally say when you knock on someone's door on Halloween?
+
+- [x] Trick or Treat
+- [ ] This or That
+- [ ] Here or There
+
+#### Which of these foods has a flavor that is generally described as sour?
+
+- [x] Lemon
+- [ ] Cinnamon bun
+- [ ] Chili
+
+#### At the beginning of Memorial Day, the flag is flown at what height?
+
+- [x] Half-staff
+- [ ] Upside Down
+- [ ] 1,000,000 feet
+
+#### George Washington was the first U.S. President. Who was the second?
+
+- [x] John Adams
+- [ ] Bill Clinton
+- [ ] William McKinley
