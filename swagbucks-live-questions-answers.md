@@ -4757,3 +4757,63 @@
 - [x] John Wick
 - [ ] Sleeping With The Enemy
 - [ ] Lethal Weapon
+
+#### Which of the following sports is typically played indoors?
+
+- [ ] Rowing
+- [ ] Marathon
+- [x] Racquetball
+
+#### What U.S. city is known as The Windy City?
+
+- [x] Chicago
+- [ ] Detroit
+- [ ] New York
+
+#### Before casting Michael J. Fox, who did "Family Ties" producers originally want for the role of Alex P. Keaton?
+
+- [ ] Jason Bateman
+- [ ] Michael J. Fox
+- [x] Matthew Broderick
+
+#### In a 1987 PSA, what was used to symbolize your brain on drugs?
+
+- [ ] A blender
+- [x] A fried egg
+- [ ] Mashed potatoes
+
+#### Which of these characters has never been seen on-camera physically holding an Infinity Stone in their hand?
+
+- [ ] Carol Danvers
+- [x] Arnim Zola
+- [ ] Ronan the Accuser
+
+#### In the game Perfection, what happens when the timer runs out?
+
+- [x] The board pops all of the pieces out
+- [ ] Dance Party
+- [ ] The pizza is done
+
+#### An artist once ran for mayor of Vancouver in the guise of what corporate mascot?
+
+- [ ] Ronald McDonald
+- [ ] Mickey Mouse
+- [x] Mr. Peanut
+
+#### Of the following Broadway musicals, which won more Tonys than its film adaptation won Oscars?
+
+- [ ] My Fair Lady
+- [ ] West Side Story
+- [x] Chicago
+
+#### What family is at the center of the Godfather movies?
+
+- [ ] Gambino
+- [x] Corleone
+- [ ] Vitti
+
+#### What mascot was ejected from a game for blowing up a stuffed dog?
+
+- [x] Smokey
+- [ ] The Phillie Phanatic
+- [ ] Burnie
