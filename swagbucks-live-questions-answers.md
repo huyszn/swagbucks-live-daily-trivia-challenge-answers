@@ -4703,3 +4703,57 @@
 - [x] John Adams
 - [ ] Bill Clinton
 - [ ] William McKinley
+
+#### Boris Yeltsin and Mikhail Gorbachev were both the leader of what country?
+
+- [ ] Laos
+- [x] Russia
+- [ ] Denmark
+
+#### Caesar, Waldorf, and Wedge are all types of what?
+
+- [ ] Porridge
+- [ ] Martini
+- [x] Salad
+
+#### What three flavors make up a traditional Neapolitan ice cream?
+
+- [x] Vanilla, Chocolate, Strawberry
+- [ ] Rum Raisin, Chunky Munky, New Car
+- [ ] Vanilla, Chocolate, Prime Rib
+
+#### "The power behind a healthy smile" is a former slogan of what brand?
+
+- [ ] Snickers
+- [x] Crest
+- [ ] Hallmark
+
+#### Magician Georges Méliès directed which landmark Science Fiction movie?
+
+- [ ] Metropolis
+- [x] The Man on the Moon
+- [ ] A Trip to Mars
+
+#### In which country are children visited by the Yule Lads?
+
+- [ ] Greenland
+- [x] Iceland
+- [ ] Switzerland
+
+#### Which 80's movie was the highest grossing film of the decade?
+
+- [ ] Raiders of the Lost Ark
+- [x] E.T.
+- [ ] Empire Strikes Back
+
+#### Kandor is a shrunken city in a bottle. What planet is the city from?
+
+- [ ] Oa
+- [x] Krypton
+- [ ] Xandar
+
+#### "Scorn" was the original title for what movie?
+
+- [x] John Wick
+- [ ] Sleeping With The Enemy
+- [ ] Lethal Weapon
