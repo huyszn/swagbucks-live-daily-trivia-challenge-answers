@@ -4817,3 +4817,63 @@
 - [x] Smokey
 - [ ] The Phillie Phanatic
 - [ ] Burnie
+
+#### The founder of Chuck E. Cheese also founded which company?
+
+- [x] Atari
+- [ ] Toys 'R Us
+- [ ] Spencer Gifts
+
+#### Couvade Syndrome would most likely affect which of these people?
+
+- [ ] Airline Pilot
+- [x] Expectant Father
+- [ ] Female Gymnast
+
+#### Which of the following fictional dogs is NOT the same breed as the other two?
+
+- [ ] Odie
+- [x] Fang
+- [ ] Itchy Itchington
+
+#### If the country that first used the internet suffix ".tv" had their own idol show, what would it be called?
+
+- [x] Tuvalu Idol
+- [ ] Tanzania Idol
+- [ ] Turkish Idol
+
+#### What kind of animal is Curious George?
+
+- [ ] Bear
+- [ ] Eagle
+- [x] Monkey
+
+#### When was the electric car first introduced?
+
+- [x] 1830s
+- [ ] 1900s
+- [ ] 1970s
+
+#### Which ride is NOT found in Dollywood?
+
+- [x] Rampaging Bull
+- [ ] Wild Eagle
+- [ ] Tennessee Tornado
+
+#### "Manic Monday" and "I Feel For You" were written for other artists by what superstar?
+
+- [x] Prince
+- [ ] Madonna
+- [ ] Michael Jackson
+
+#### Which of these cartoon characters belongs to Warner Bros?
+
+- [x] Bugs Bunny
+- [ ] Mickey Mouse
+- [ ] Goofy
+
+#### Which of The Godfather movies was the only one that DIDN'T win the Oscar for Best Picture?
+
+- [ ] The Godfather
+- [ ] The Godfather Part II
+- [x] The Godfather Part III
