@@ -4877,3 +4877,63 @@
 - [ ] The Godfather
 - [ ] The Godfather Part II
 - [x] The Godfather Part III
+
+#### Cooties take their name from what?
+
+- [x] A bird
+- [ ] A rash
+- [ ] A soldier
+
+#### In which game do you roll dice to score a Full House, Three of a Kind, or Chance?
+
+- [x] Yahtzee
+- [ ] Jump Rope
+- [ ] Tag
+
+#### The Oscar-winning song "Shallow" appeared in which film?
+
+- [x] A Star Is Born
+- [ ] Jugas and the Black Messiah
+- [ ] 8 Mile
+
+#### Daniel Whitney is better known by what name?
+
+- [ ] Bruno Mars
+- [ ] Brad Pitt
+- [x] Larry the Cable Guy
+
+#### The first dog to portray which on screen pooch was a rescue from the Burbank Animal Shelter?
+
+- [ ] Old Yeller
+- [ ] Petey
+- [x] Benji
+
+#### What do you use to build a snowman?
+
+- [ ] Frosted Flakes
+- [ ] Lava
+- [x] Snow
+
+#### Which of the following football movies deals with High School football?
+
+- [ ] Any Given Sunday
+- [x] Friday Night Lights
+- [ ] The Longest Yard
+
+#### What is the official London residence of the UK's royal family?
+
+- [ ] Versailles
+- [x] Buckingham Palace
+- [ ] The Kremlin
+
+#### Which of the following is classified as a sports drink?
+
+- [ ] Kool-Aid
+- [x] Gatorade
+- [ ] Lemonade
+
+#### In the fashion world, what does DKNY stand for?
+
+- [ ] Don't Know Nylons? Yuck.
+- [ ] Double Knit New You
+- [x] Donna Karan New York
