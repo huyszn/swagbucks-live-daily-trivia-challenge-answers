@@ -4937,3 +4937,63 @@
 - [ ] Don't Know Nylons? Yuck.
 - [ ] Double Knit New You
 - [x] Donna Karan New York
+
+#### Which of these is NOT found in the logo for the Minnesota Wild?
+
+- [ ] Bear
+- [x] Lake
+- [ ] Star
+
+#### In "The One Where No One's Ready", why isn't Phoebe ready?
+
+- [x] She got hummus on her dress
+- [ ] She needs to finish a new song first
+- [ ] She's going into labor
+
+#### In the TV show "24," which of these vice presidents became president first?
+
+- [x] President James Prescott
+- [ ] President Charles Logan
+- [ ] President Wayne Palmer
+
+#### Which of these is not a cryptocurrency exchange?
+
+- [ ] Coinbase
+- [ ] Binance
+- [x] Coin Traderz
+
+#### What is Joey's favorite food?
+
+- [ ] Turkey
+- [x] Sandwiches
+- [ ] Jam
+
+#### Which of the following was an original nickname of the Cleveland Indians?
+
+- [x] Naps
+- [ ] Spiders
+- [ ] Buckeyes
+
+#### How many ounces are in a traditional stick of butter?
+
+- [x] 4oz
+- [ ] 6oz
+- [ ] 8oz
+
+#### Mass multiplied by velocity gives you what measurement in physics?
+
+- [x] Momentum
+- [ ] Hourmenutm
+- [ ] Daymentum
+
+#### Sanka is an instant version of what drink?
+
+- [ ] Orangeade
+- [x] Coffee
+- [ ] Chocolate Milk
+
+#### Which of these is NOT a call sign from "Top Gun"?
+
+- [ ] Chipper
+- [x] Stingray
+- [ ] Slider
