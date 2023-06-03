@@ -4997,3 +4997,63 @@
 - [ ] Chipper
 - [x] Stingray
 - [ ] Slider
+
+#### 4 of the 10 largest statues in the world are of what figure?
+
+- [ ] Jesus
+- [x] Buddha
+- [ ] Alexander the Great
+
+#### What Hawaiian dress is a combination of a shirt and a robe?
+
+- [x] Muumuu
+- [ ] Mo Mo
+- [ ] Ma Ma
+
+#### What is the term for heat transferring through a solid object?
+
+- [ ] Convection
+- [ ] Induction
+- [x] Conduction
+
+#### "Kris" is real name of the dog who played what silver screen canine?
+
+- [ ] Marley
+- [x] Beethoven
+- [ ] Cujo
+
+#### Rolex specializes in what product?
+
+- [ ] Ties
+- [x] Watches
+- [ ] Pants
+
+#### Tomato Juice and Vodka are used to make what drink?
+
+- [ ] Healthy Mary
+- [ ] Mary, Queen of Scots
+- [x] Bloody Mary
+
+#### In Thailand, Sai Mai cared for curbed animals of different species. What species was she?
+
+- [ ] Dog
+- [x] Tiger
+- [ ] Pig
+
+#### Which artist is famous for his "Saturday Evening Post" cover art?
+
+- [ ] Norman Mailer
+- [ ] Norman Fell
+- [x] Norman Rockwell
+
+#### Which of these Marvel movies came out in 2021?
+
+- [ ] Iron Man 3
+- [ ] Thor
+- [x] Black Widow
+
+#### What cheer at sporting events involves people around the stadium successively standing and waving their arms?
+
+- [x] The Wave
+- [ ] The Tide
+- [ ] The Bronx Cheer
