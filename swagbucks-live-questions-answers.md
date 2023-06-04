@@ -5057,3 +5057,63 @@
 - [x] The Wave
 - [ ] The Tide
 - [ ] The Bronx Cheer
+
+#### When the weather forecast calls for "flurries", what are they predicting will happen?
+
+- [ ] Drought
+- [ ] Hail
+- [x] Snow
+
+#### In addition to basketball, Wilt Chamberlain is in a Hall of Fame for what other sport?
+
+- [x] Volleyball
+- [ ] Martial Arts
+- [ ] Track and Field
+
+#### David Bowie had to create a stage name thanks to which band?
+
+- [ ] The Beatles
+- [x] The Monkees
+- [ ] The Who
+
+#### How did Peter Parker get his powers?
+
+- [x] Bitten by a radioactive spider
+- [ ] Gamma radiation experiment
+- [ ] Bombarded with cosmic rays
+
+#### Who had a hit in the 90s with "Vogue"?
+
+- [ ] Cyndi Lauper
+- [x] Madonna
+- [ ] Pat Benatar
+
+#### Who first published "Little Red Riding Hood"?
+
+- [ ] Brothers Grimm
+- [x] Charles Perrault
+- [ ] Lewis Carroll
+
+#### The ancient city of Troy was located in what modern country?
+
+- [x] Turkey
+- [ ] Greece
+- [ ] Malta
+
+#### Whose 2022 Tony win made her the 17th ever EGOT winner?
+
+- [ ] Miley Cyrus
+- [ ] Nicki Minaj
+- [x] Jennifer Hudson
+
+#### If "24" had a season where Jack Bauer visited actual bowers, where would it most likely take place?
+
+- [ ] In a garage
+- [ ] In an airport
+- [x] In a forest
+
+#### What was the first name of the Webster who created Webster's Dictionary?
+
+- [ ] Daniel
+- [ ] Jonathan
+- [x] Noah
