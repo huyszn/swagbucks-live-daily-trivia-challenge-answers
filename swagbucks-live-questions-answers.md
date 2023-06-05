@@ -5117,3 +5117,63 @@
 - [ ] Daniel
 - [ ] Jonathan
 - [x] Noah
+
+#### Who is the "Julia" in the movie "Julie & Julia"?
+
+- [ ] Julia Louis-Dreyfus
+- [x] Julia Child
+- [ ] Julia Sweeney
+
+#### According to legend, Reed Hastings came up with Netflix after having to pay $40 in late fees for what movie?
+
+- [ ] Forrest Gump
+- [x] Apollo 13
+- [ ] The Mask
+
+#### What is the capital of England?
+
+- [ ] Liverpool
+- [ ] Doncaster
+- [x] London
+
+#### What sensory ability do bats use to find their prey and navigate?
+
+- [ ] Sight
+- [x] Echolocation
+- [ ] Taste
+
+#### What non-Saved By The Bell character also attended Bayside High?
+
+- [ ] Hannah Montana
+- [x] Raven Baxter
+- [ ] Cody Martin
+
+#### Wat is it called when a band comes out after their show and plays additional songs?
+
+- [ ] Curtain Call
+- [ ] Finale
+- [x] Encore
+
+#### While negotiating the wedding bill with Emily's parents, what item does Ross say his father will laugh at?
+
+- [ ] A fountain
+- [ ] Recarpeting the first floor
+- [x] Lawn ornaments
+
+#### Which of the following is NOT a square on a standard Monopoly board?
+
+- [ ] B&O Railroad
+- [ ] Park Place
+- [x] Space Station Mir
+
+#### What reality series centers on Alaska fishing crews?
+
+- [ ] Ice Road Truckers
+- [ ] American Storage
+- [x] Deadliest Catch
+
+#### What word is both a type of boat and a name for a ski lift?
+
+- [x] Gondola
+- [ ] Sloop
+- [ ] Frigate
