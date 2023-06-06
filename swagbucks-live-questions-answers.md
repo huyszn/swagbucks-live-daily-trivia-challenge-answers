@@ -5177,3 +5177,57 @@
 - [x] Gondola
 - [ ] Sloop
 - [ ] Frigate
+
+#### Which author wrote has an 823-word sentence in one of their novels?
+
+- [ ] James Joyce
+- [ ] Marcel Proust
+- [x] Victor Hugo
+
+#### Which of the follow was NOT a proposed title for Monty Python's Flying Circus?
+
+- [ ] Owl Stretching Time
+- [x] Five Lads Named Carl
+- [ ] A Horse, a Spoon, and a Bucket
+
+#### According to Lifehacker, what phone number do most retailers already have stored in their rewards program?
+
+- [ ] 555-1212
+- [x] 867-5309
+- [ ] 123-4567
+
+#### What nickname was given to the kids on the Mickey Mouse Club?
+
+- [ ] Ducksters
+- [ ] Goofyfolk
+- [x] Mouseketeers
+
+#### Which name is used for big, puffy white clouds?
+
+- [ ] Stratus
+- [ ] Cirrus
+- [x] Cumulus
+
+#### What plant has a gel that can be used to treat burns?
+
+- [x] Aloe Vera
+- [ ] Spruce
+- [ ] Fern
+
+#### What was the original purpose for grab handles in cars?
+
+- [ ] Bracing yourself during turns
+- [ ] Holding dry cleaning
+- [x] Helping you get in and out
+
+#### What term is defined as the ability of an object to return to its original shape when stretched?
+
+- [x] Elasticity
+- [ ] Conductivity
+- [ ] Acidity
+
+#### Which of the following TV shows is about a group of people who are shipwrecked?
+
+- [ ] Below Deck
+- [ ] The Love Boat
+- [x] Gilligan's Island
