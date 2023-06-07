@@ -5231,3 +5231,63 @@
 - [ ] Below Deck
 - [ ] The Love Boat
 - [x] Gilligan's Island
+
+#### The world's oldest recorded joke deals with what subject?
+
+- [x] Bodily Functions
+- [ ] Dating
+- [ ] Children
+
+#### What does the band name Bee Gees stand for?
+
+- [ ] Big Gorillas
+- [x] Brothers Gibb
+- [ ] Bangin' Grapes
+
+#### What signature Philadelphia sandwich made its debut in the 1930's?
+
+- [x] The Cheesesteak
+- [ ] The Big Mac
+- [ ] The Whopper
+
+#### In Japan, a girl who looks pretty from behind but not the front is referred to as what?
+
+- [x] Bakku-shan
+- [ ] Riku
+- [ ] Kitai
+
+#### Heelys are shoes with what stored in the soles?
+
+- [ ] Coins
+- [x] Wheels
+- [ ] Marbles
+
+#### Which structures did Don Quixote mistake for giants?
+
+- [ ] Condos
+- [ ] Phone booths
+- [x] Windmills
+
+#### Holden Caulfield is the anti-hero of what novel?
+
+- [ ] Watership Down
+- [ ] Dracula
+- [x] Catcher in the Rye
+
+#### Which of the following cable networks debuted first?
+
+- [ ] MTV
+- [ ] TBS
+- [x] HBO
+
+#### What gesture is used to greet people in Japan?
+
+- [ ] Handshake
+- [x] Bow
+- [ ] Hug
+
+#### What restaurant serves a grilled cheese sandwich with mozzarella sticks in the middle?
+
+- [ ] TGI Friday's
+- [ ] IHOP
+- [x] Denny's
