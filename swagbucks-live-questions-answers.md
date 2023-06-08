@@ -5291,3 +5291,63 @@
 - [ ] TGI Friday's
 - [ ] IHOP
 - [x] Denny's
+
+#### What is the Great Gatsby's actual first name?
+
+- [ ] Bill
+- [x] Jay
+- [ ] Scott
+
+#### When was the first movie about the Titanic released in theaters?
+
+- [ ] 1954
+- [ ] 1997
+- [x] 1912
+
+#### The Grouch from Sesame Street shares a first name with the creator of what car technology?
+
+- [x] Turn Signal
+- [ ] Onstar
+- [ ] Seat Belt
+
+#### The Jazz Age primarily took place during which decade?
+
+- [ ] The 1870s
+- [x] The 1920s
+- [ ] The 2000s
+
+#### What philosopher is known as the Father of Modern Thought?
+
+- [x] Rene Descartes
+- [ ] Elon Musk
+- [ ] Albert Einstein
+
+#### Ken Griffey Jr and Sr played together on which baseball team?
+
+- [ ] New York Knicks
+- [ ] Philadelphia Eagles
+- [x] Seattle Mariners
+
+#### On which game show could you "Phone A Friend"?
+
+- [ ] Let's Make A Deal
+- [x] Who Wants To Be A Millionaire?
+- [ ] The Price Is Right
+
+#### Giovanni Boccaccio's collection of novellas are known as what?
+
+- [x] Decameron
+- [ ] Canterbury Tales
+- [ ] Arabian Nights
+
+#### According to its travel motto, which State is for lovers?
+
+- [ ] Tennessee
+- [x] Virginia
+- [ ] Vermont
+
+#### In what game are you trying to recall the location of pairs of cards with matching images?
+
+- [ ] Life
+- [ ] Operation
+- [x] Memory
