@@ -5351,3 +5351,63 @@
 - [ ] Life
 - [ ] Operation
 - [x] Memory
+
+#### What shape is most often associated with Valentine's day?
+
+- [ ] Cloud
+- [ ] OK sign
+- [x] Heart
+
+#### Ancient Egyptians used dead mice to treat what ailment?
+
+- [ ] Impotence
+- [ ] Gout
+- [x] Toothaches
+
+#### Maize is also known by what name?
+
+- [ ] Asparagus
+- [ ] Endive
+- [x] Corn
+
+#### NBA player Paul Pierce went by nickname?
+
+- [ ] Dr. J
+- [x] The Truth
+- [ ] Shaq
+
+#### Where would you find traffic lights where the walk signal is wearing headgear?
+
+- [ ] Vietnam
+- [x] Berlin
+- [ ] New Zealand
+
+#### Which of the following is NOT one of the Great Lakes?
+
+- [ ] Huron
+- [ ] Erie
+- [x] Susan
+
+#### Who wrote the song American Pie?
+
+- [ ] Bob Dylan
+- [x] Don McLean
+- [ ] Harry Chapin
+
+#### In which sport would you make par or hit a sand trap?
+
+- [ ] Shuffleboard
+- [ ] Skydiving
+- [x] Golf
+
+#### How many sides does an octagon have?
+
+- [ ] 1
+- [ ] 5
+- [x] 8
+
+#### Which of the following NBA teams did NOT start in another city?
+
+- [ ] Detroit Pistons
+- [ ] Philadelphia 76ers
+- [x] Portland Trail Blazers
