@@ -5411,3 +5411,63 @@
 - [ ] Detroit Pistons
 - [ ] Philadelphia 76ers
 - [x] Portland Trail Blazers
+
+#### Tarder Sauce was the real name of what feline internet star?
+
+- [x] Grumpy Cat
+- [ ] Happy Cat
+- [ ] Spooky Cat
+
+#### Which galactic Marvel hero has a series of mixtapes given to him by his mother?
+
+- [ ] Spider-Man
+- [x] Star-Lord
+- [ ] The Hulk
+
+#### In the alternate reality George sees, where does Mary work?
+
+- [ ] At the bank
+- [ ] On a farm
+- [x] At the library
+
+#### Which of the following is NOT a visual medium?
+
+- [ ] Comic Books
+- [x] Radio
+- [ ] Movies
+
+#### On which planet does it snow metal?
+
+- [x] Venus
+- [ ] Neptune
+- [ ] Saturn
+
+#### Steven Tyler is the lead singer of what band?
+
+- [x] Aerosmith
+- [ ] Jane's Addiction
+- [ ] Beastie Boys
+
+#### An animal with vagility has the ability to do what?
+
+- [x] Roam freely
+- [ ] Produce hormones
+- [ ] Adapt to its surroundings
+
+#### In which city does "A Christmas Carol" take place?
+
+- [ ] Toronto
+- [ ] Seattle
+- [x] London
+
+#### Which of the following is NOT a space on a standard Monopoly board?
+
+- [ ] Boardwalk
+- [ ] Baltic Avenue
+- [x] Barry's Place
+
+#### In the State of Utah, it's illegal to do what in front of a corpse?
+
+- [ ] Disrobe
+- [x] Swear
+- [ ] Clap
