@@ -5525,3 +5525,51 @@
 - [x] American Pie
 - [ ] Empty Chairs
 - [ ] Vincent
+
+#### The actor who played Genie in the 1994 "Aladdin" animated series voiced what other iconic cartoon character?
+
+- [ ] Porky Pig
+- [ ] Bender
+- [x] Homer Simpson
+
+#### According to legend, King Arthur pulled the sword Excalibur from what?
+
+- [ ] His hat
+- [x] A stone
+- [ ] Thin air
+
+#### Which of these gifts is included in lyrics to "The 12 Days of Christmas"?
+
+- [ ] Frankincense
+- [ ] Myrrh
+- [x] Lords-A-Leaping
+
+#### How many holes are there on a standard mini-golf course?
+
+- [ ] 4
+- [x] 18
+- [ ] 7
+
+#### The inventor of which toy was known as "The Man Who Saved Christmas"?
+
+- [x] Erector Set
+- [ ] Slinky
+- [ ] Silly Putty
+
+#### In which Star Wars movie do we first learn that Darth Vader is Luke's father?
+
+- [ ] A New Hope
+- [ ] The Last Jedi
+- [x] The Empire Strikes Back
+
+#### Poland Spring, Crystal Geyser, and Arrowhead are all brands of what?
+
+- [ ] Soda
+- [x] Drinking water
+- [ ] Antacid
+
+#### Which of these people has not created an animated sitcom on FOX?
+
+- [ ] Seth MacFarlane
+- [ ] Loren Bouchard
+- [x] Stephen Hillenburg
