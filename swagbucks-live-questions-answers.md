@@ -5471,3 +5471,57 @@
 - [ ] Disrobe
 - [x] Swear
 - [ ] Clap
+
+#### A person that just turned 10 million minutes old is roughly how old in years?
+
+- [ ] 9
+- [x] 19
+- [ ] 29
+
+#### The DCOM "Alley Cats Strike" features what future star?
+
+- [x] Kaley Cuoco
+- [ ] America Ferrera
+- [ ] Kat Dennings
+
+#### In 2001, Pizza Hut made history by delivering a pizza to what location?
+
+- [ ] The North Pole
+- [ ] Mount Everest
+- [x] The International Space Station
+
+#### Which of these is not a standard attachment for the KitchenAid Stand Mixer?
+
+- [ ] Ice Cream Maker
+- [ ] Citrus Juicer
+- [x] Motorcycle engine
+
+#### What does the SC in the TV show "SCTV" stand for?
+
+- [ ] Sketch Comedy
+- [x] Second City
+- [ ] Smile City
+
+#### Swiper the fox is a character on what children's show?
+
+- [x] Dora the Explorer
+- [ ] Caillou
+- [ ] Sesame Street
+
+#### Which of the following acts has never performed in a Super Bowl Halftime Show?
+
+- [ ] Carol Channing
+- [ ] Warren Moon
+- [x] Bob Hope
+
+#### Which of the following Disney Plus original series is fake?
+
+- [ ] It's A Dog's Life
+- [x] Behind the Ears
+- [ ] The Big Fib
+
+#### "The Day The Music Died" is heavily referenced in what Don McLean song?
+
+- [x] American Pie
+- [ ] Empty Chairs
+- [ ] Vincent
