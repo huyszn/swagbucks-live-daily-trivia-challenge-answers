@@ -5573,3 +5573,63 @@
 - [ ] Seth MacFarlane
 - [ ] Loren Bouchard
 - [x] Stephen Hillenburg
+
+#### What country is known as India's Teardrop?
+
+- [x] Sri Lanka
+- [ ] China
+- [ ] Russia
+
+#### Which New York Yankee signed a then-record 10 year contract in 1980?
+
+- [x] Dave Winfield
+- [ ] Don Mattingly
+- [ ] Rickey Henderson
+
+#### What 1978 toy helped children learn how to spell and spoke aloud as they typed?
+
+- [ ] Talk & Type
+- [ ] Chatty Cathy
+- [x] Speak & Spell
+
+#### Slim Shady is the alter ego of what rapper?
+
+- [x] Eminem
+- [ ] KRS-One
+- [ ] Jay-Z
+
+#### Which of the following is NOT the name of one of Snoopy's siblings?
+
+- [ ] Marbles
+- [x] Daisy
+- [ ] Andy
+
+#### What is the name of Google's email service?
+
+- [ ] Wave
+- [ ] Google Plus
+- [x] Gmail
+
+#### Jamon Iberico is the world's most expensive what?
+
+- [ ] Wine
+- [x] Ham
+- [ ] Boat
+
+#### Which Disney film had the tagline "One Great Big Onderful Motion Picture"?
+
+- [x] One Hundred and One Dalmatians
+- [ ] The Black Cauldron
+- [ ] Rescuers Down Under
+
+#### Who is called "The modern Stone Age family" in their theme song?
+
+- [ ] The Jetsons
+- [x] The Flintstones
+- [ ] The Simpsons
+
+#### Which of these characters appears "Alice In Wonderland"?
+
+- [ ] Captain Hook
+- [x] The Mad Hatter
+- [ ] Cruella De Vil
