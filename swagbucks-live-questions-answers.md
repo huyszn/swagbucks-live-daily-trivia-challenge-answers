@@ -5633,3 +5633,57 @@
 - [ ] Captain Hook
 - [x] The Mad Hatter
 - [ ] Cruella De Vil
+
+#### What island is known for its mysterious, big-headed statues?
+
+- [ ] Tahiti
+- [x] Easter Island
+- [ ] Nantucket
+
+#### Tony Hawk is known for what sport?
+
+- [x] Skateboarding
+- [ ] Skiing
+- [ ] Ice Skating
+
+#### Who sings "It's me, hi, I'm the problem it's me" in a 2022 song?
+
+- [ ] Doja Cat
+- [ ] Alicia Keys
+- [x] Taylor Swift
+
+#### Who was the dragon that died in the Game of Thrones episode "Beyond the Wall" named after?
+
+- [ ] Daenerys's Father
+- [x] Daenerys's brother
+- [ ] Daenerys's child
+
+#### What SNL cast member has been romantically linked to Ariana Grande, Kate Beckinsale, and Kim Kardashian?
+
+- [ ] Bill Murray
+- [ ] Charles Rocket
+- [x] Pete Davidson
+
+#### Which of these sports does NOT use a racket?
+
+- [ ] Racquetball
+- [ ] Tennis
+- [x] Golf
+
+#### What European country's flag has primary colors of Yellow, Green, and Red?
+
+- [ ] Latvia
+- [x] Lithuania
+- [ ] Estonia
+
+#### Besides the telephone, what else is Alexander Graham Bell famous for inventing?
+
+- [x] Respirator
+- [ ] Lie Detector
+- [ ] Oil Rig
+
+#### Where would you most likely find a Papeterie?
+
+- [x] Staples
+- [ ] Panera Bread
+- [ ] Museum
