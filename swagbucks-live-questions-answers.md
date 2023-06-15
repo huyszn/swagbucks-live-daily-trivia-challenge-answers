@@ -5687,3 +5687,63 @@
 - [x] Staples
 - [ ] Panera Bread
 - [ ] Museum
+
+#### What type of noun implies ownership of something?
+
+- [x] Possessive
+- [ ] Preposition
+- [ ] Pejorative
+
+#### What vegetable does Scarlett almost choke on in Gone with the Wind?
+
+- [ ] Carrot
+- [x] Radish
+- [ ] Onion
+
+#### Lucky Charms recently announced which new Marshmallow shape?
+
+- [x] Unicorn
+- [ ] Hourglass
+- [ ] Horseshoe
+
+#### Which of these services is NOT offered by AAA?
+
+- [x] Milkshakes
+- [ ] Auto Insurance
+- [ ] Roadside Assistance
+
+#### What instrument is Billy Joel known for playing?
+
+- [ ] Maracas
+- [ ] Zydeco
+- [x] Piano
+
+#### What other iconic high school movie is referenced via Mr. Duval during the assembly?
+
+- [ ] Stand and Deliver
+- [x] Lean On Me
+- [ ] American Pie
+
+#### What were the first words uttered on "Keeping Up with the Kardashians"?
+
+- [ ] "This is amazing"
+- [x] "I am starving"
+- [ ] "Oh my god, I love it"
+
+#### Optimus Prime, Megatron, and Bumblebee are all part of what toy line?
+
+- [ ] G.I. Joe
+- [ ] Strawberry Shortcake
+- [x] Transformers
+
+#### What brand is known as "The Quicker Picker Upper"?
+
+- [ ] Charmin
+- [ ] Brawny
+- [x] Bounty
+
+#### What letter does Zorro carve into his enemies?
+
+- [ ] R
+- [x] Z
+- [ ] A
