@@ -5747,3 +5747,45 @@
 - [ ] R
 - [x] Z
 - [ ] A
+
+#### According to Mental Floss, what was Michael Jackson's inspiration for the album Thriller?
+
+- [x] The Nutcracker Suite
+- [ ] Sgt. Pepper
+- [ ] The Wizard of Oz
+
+#### In the viral Tik Tok video, what band is the man listening to while skateboarding and drinking juice?
+
+- [ ] The Rolling Stones
+- [ ] The Eagles
+- [x] Fleetwood Mac
+
+#### When Mark expresses his love for Juliet in "Love, Actually", which of the following is NOT one of his signs?
+
+- [ ] I'll Be Going Out With One Of These Girls
+- [ ] Merry Christmas
+- [x] I'll Always Love You
+
+#### On "Seinfeld", what is Kramer's first name?
+
+- [ ] Kenny
+- [ ] Jerry
+- [x] Cosmo
+
+#### Who is considered "The Father of Psychoanalysis"?
+
+- [ ] Carl Jung
+- [ ] Josef Breuer
+- [x] Sigmund Freud
+
+#### In which sport can you pitch a perfect game?
+
+- [ ] Hockey
+- [x] Baseball
+- [ ] Ping Pong
+
+#### In which country does Downton Abbey take place?
+
+- [ ] Spain
+- [ ] Italy
+- [x] England
