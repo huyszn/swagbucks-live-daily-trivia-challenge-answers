@@ -5789,3 +5789,63 @@
 - [ ] Spain
 - [ ] Italy
 - [x] England
+
+#### Lyndon B. Johnson had four buttons installed in the Oval Office labeled "Coffee", "Tea", "Coke", and what?
+
+- [x] Fresca
+- [ ] A&W
+- [ ] V8
+
+#### Fred Flintstone appears on boxes of which cereal?
+
+- [ ] Cookie Crisp
+- [x] Fruity Pebbles
+- [ ] Apple Jacks
+
+#### The actor who played The 10th Doctor also played what role in Harry Potter?
+
+- [ ] Remus Lupin
+- [ ] Cedric Diggory
+- [x] Barty Crouch Jr.
+
+#### What food, when raw, is the leading source of salmonella poisoning?
+
+- [ ] Pizza
+- [ ] Pie
+- [x] Chicken
+
+#### Who is the author of The Shining, It, and Carrie?
+
+- [ ] John Grisham
+- [ ] Jane Austen
+- [x] Stephen King
+
+#### Kellogg's produces what popular breakfast pastry?
+
+- [x] Pop Tarts
+- [ ] Pop Turnovers
+- [ ] Pop Warner Football
+
+#### In a game of Connect Four, how many of your pieces do you need to have in a row to win?
+
+- [ ] Six
+- [ ] Five
+- [x] Four
+
+#### K2 is also known by what nickname?
+
+- [x] The Savage Mountain
+- [ ] The Garbage Mountain
+- [ ] The Friendly Mountain
+
+#### According to his song, Stevie Wonder jsut called to say what?
+
+- [ ] The sink is running
+- [ ] I'm going to be late
+- [x] I love you
+
+#### What is unique about Nauru's capital?
+
+- [ ] It's in another country
+- [x] It doesn't exist
+- [ ] Only one person lives there
