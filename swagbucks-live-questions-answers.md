@@ -5849,3 +5849,51 @@
 - [ ] It's in another country
 - [x] It doesn't exist
 - [ ] Only one person lives there
+
+#### What do all edentate animals lack?
+
+- [ ] Fur
+- [x] Teeth
+- [ ] Eyes
+
+#### What song is playing throughout Disneyland's "Pirates of the Carribean" attraction?
+
+- [ ] Where Be The Gold?
+- [ ] Bring Me Another Rum
+- [x] Yo-Ho (A Pirate's Life For Me)
+
+#### Which of the following food products are sold by Green Giant?
+
+- [ ] Frozen Hamburgers
+- [x] Frozen Vegetables
+- [ ] Frozen Juice Concentrate
+
+#### In "Forrest Gump", what game does he master after being wounded in Vietnam?
+
+- [ ] Pool
+- [x] Ping Pong
+- [ ] Pay Day
+
+#### Who was Robin Hood's sworn enemy
+
+- [ ] The Sheriff of London
+- [ ] The Sheriff of Doncaster
+- [x] The Sheriff of Nottingham
+
+#### If you regularly celebrated New Year's Eve by breaking dishes on your neighbor's door, where would you be?
+
+- [x] Denmark
+- [ ] China
+- [ ] Croatia
+
+#### When you have to go back to the beginning, where are you back to?
+
+- [x] Square One
+- [ ] Circle Two
+- [ ] Triangle Three
+
+#### What is the name of the all-girl singing group featured in the Pitch Perfect movies?
+
+- [ ] The Songstresses
+- [ ] The Ladybirds
+- [x] The Barden Bellas
