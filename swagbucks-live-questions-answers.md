@@ -5897,3 +5897,63 @@
 - [ ] The Songstresses
 - [ ] The Ladybirds
 - [x] The Barden Bellas
+
+#### How many legs does a tripod have?
+
+- [x] 3
+- [ ] 4
+- [ ] 5
+
+#### The modern precedent for Mother's Day is tied to what holiday?
+
+- [x] Lent
+- [ ] St. Patrick's Day
+- [ ] May Day
+
+#### Safety Coffins became popular due to what fear?
+
+- [ ] Domatophobia
+- [ ] Necrophobia
+- [x] Taphophobia
+
+#### What is the name of Popeye's girlfriend?
+
+- [x] Olive Oyl
+- [ ] Castor Oyl
+- [ ] Swee'Pea
+
+#### Matthew McConaughey appears in commercials for which luxury car brand?
+
+- [x] Lincoln
+- [ ] Datsun
+- [ ] MINI
+
+#### In which city does Grey's Anatomy take place?
+
+- [ ] New York
+- [ ] Miami
+- [x] Seattle
+
+#### Who is Donald Duck's sister?
+
+- [ ] Delia Duck
+- [x] Dumbella Duck
+- [ ] Donna Duck
+
+#### Complete this Beatles lyric: "She Loves You..."
+
+- [x] Yeah, Yeah, Yeah
+- [ ] No, No, No
+- [ ] Maybe, Maybe, Maybe
+
+#### In which reality game show are contestants locked in house together?
+
+- [ ] 90-Day Fiancé
+- [x] Big Brother
+- [ ] Survivor
+
+#### What toy was originally sold with the pitch "You can't hurt babies or old people"?
+
+- [ ] Dodgeball
+- [ ] Cabbage Patch Kids
+- [x] Nerf
