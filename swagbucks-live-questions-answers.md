@@ -5957,3 +5957,51 @@
 - [ ] Dodgeball
 - [ ] Cabbage Patch Kids
 - [x] Nerf
+
+#### The Greek poet Homer wrote what epic work?
+
+- [ ] Huckleberry Finn
+- [ ] Wuthering Heights
+- [x] The Iliad
+
+#### In 2008, which of the following games did NOT feature campaign ads for Barack Obama?
+
+- [ ] Madden
+- [ ] Guitar Hero 3
+- [x] Grand Theft Auto IV
+
+#### What illustrator left Marvel comics to form Image comics?
+
+- [x] Todd McFarlane
+- [ ] John Byrne
+- [ ] Jack Kirby
+
+#### Which of the following is traditionally an alcoholic drink?
+
+- [ ] Shirley Temple
+- [x] Daiquiri
+- [ ] Milkshake
+
+#### Complete the title of this Leo Tolstoy novel: "War and..."
+
+- [x] Peace
+- [ ] Peet's Coffee
+- [ ] Amanda Peet
+
+#### Which of these US cities is biggest by land area?
+
+- [x] Phoenix
+- [ ] Seattle
+- [ ] Cleveland
+
+#### Which of the following is a famous pirate?
+
+- [ ] Henry Fonda
+- [ ] Henry Ford
+- [x] Henry Morgan
+
+#### The cartoon "Arthur" airs on what network?
+
+- [ ] ABC
+- [x] PBS
+- [ ] NBC
