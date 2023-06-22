@@ -6005,3 +6005,45 @@
 - [ ] ABC
 - [x] PBS
 - [ ] NBC
+
+#### What newspaper has a well-known Bestseller list for Books?
+
+- [x] The New York Times
+- [ ] The Philadelphia Inquirer
+- [ ] The New York Post
+
+#### Trident, Eclipse, and Juicy Fruit are all brands of what?
+
+- [ ] Chips
+- [ ] Soda
+- [x] Gum
+
+#### Who wrote "The Great Gatsby"?
+
+- [x] F. Scott Fitzgerald
+- [ ] Dashiell Hammett
+- [ ] Harper Lee
+
+#### In "Pinocchio", what is the name of the whale that swallows Geppetto's boat?
+
+- [ ] Fred
+- [ ] Walt
+- [x] Monstro
+
+#### Where would you find the Taj Mahal?
+
+- [x] India
+- [ ] Egypt
+- [ ] Portugal
+
+#### Which of the following trees is NOT coniferous?
+
+- [ ] Spreading English Yew
+- [x] Mountain-Ash
+- [ ] Mountain Hemlock
+
+#### Which of the following would be considered an "acronym"?
+
+- [ ] USA
+- [x] NASA
+- [ ] FBI
