@@ -6047,3 +6047,63 @@
 - [ ] USA
 - [x] NASA
 - [ ] FBI
+
+#### Walt Disney World was almost built in what city?
+
+- [ ] Dallas
+- [x] St. Louis
+- [ ] Atlanta
+
+#### Which of these "Weird" Al parodies was suggested by the artist he was parodying?
+
+- [x] Like A Surgeon
+- [ ] Eat It
+- [ ] Another One Rides The Bus
+
+#### On Seinfeld, for which sports organization did George Constanza work?
+
+- [ ] Philadelphia Phillies
+- [x] New York Yankees
+- [ ] Florida Marlins
+
+#### "To be, or not to be"? is a soliloquy from what Shakespeare play?
+
+- [ ] Macbeth
+- [ ] Othello
+- [x] Hamlet
+
+#### Which of the following is NOT an ingredient in Ben & Jerry's Chubby Hubby ice cream?
+
+- [x] Sardines
+- [ ] Pretzels
+- [ ] Fudge
+
+#### On which Soap Opera was a character kidnapped by a gorilla?
+
+- [x] Ryan's Hope
+- [ ] Santa Barbara
+- [ ] The Edge of Night
+
+#### Who was the first president to invite an African American to dine with him in the White House?
+
+- [ ] Abraham Lincoln
+- [x] Theodore Roosevelt
+- [ ] John F. Kennedy
+
+#### Which of the following is NOT a Star Wars animated series?
+
+- [ ] Star Wars: Droids
+- [x] Foofur
+- [ ] Clone Wars
+
+#### Who was the Prime Minister of the United Kingdom during the Revolutionary War?
+
+- [x] Frederick North
+- [ ] Augustus Fitzroy
+- [ ] Charles Cornwallis
+
+#### On a standard analog clock, what does the long hand count?
+
+- [ ] Days
+- [ ] Hours
+- [x] Minutes
