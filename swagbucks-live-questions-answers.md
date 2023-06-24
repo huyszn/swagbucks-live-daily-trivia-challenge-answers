@@ -6107,3 +6107,57 @@
 - [ ] Days
 - [ ] Hours
 - [x] Minutes
+
+#### A gynocratic government is run exclusively by who?
+
+- [ ] Doctors
+- [x] Women
+- [ ] Business Owners
+
+#### Which of the following countries has a National Anthem with no lyrics?
+
+- [ ] China
+- [ ] Ghana
+- [x] Spain
+
+#### What creature's venom can cause a condition known as Irukandji syndrome?
+
+- [x] Jellyfish
+- [ ] Spider
+- [ ] Snake
+
+#### Who were Shakespeare's "Star-Crossed Lovers"?
+
+- [x] Romeo & Juliet
+- [ ] Captain & Tenille
+- [ ] Hall & Oates
+
+#### On "Bewitched", how did Samantha cast her spells?
+
+- [x] Twitching her nose
+- [ ] Blinking her eyes
+- [ ] Whistling
+
+#### What State is known as the "Show Me" State?
+
+- [ ] Louisiana
+- [x] Missouri
+- [ ] Arkansas
+
+#### Max Hatley's "The Dance of the Cuckoos" was also used as the theme for which comedy troupe?
+
+- [ ] Abbott & Costello
+- [x] Laurel & Hardy
+- [ ] The Three Stooges
+
+#### According to the saying, if you can't stand the heat, what are you supposed to do?
+
+- [x] Get out of the kitchen
+- [ ] Buy an air conditioner
+- [ ] Have a popsicle
+
+#### What type of poisoned fruit did The Evil Queen give to Snow White?
+
+- [ ] Banana
+- [ ] Pear
+- [x] Apple
