@@ -6161,3 +6161,51 @@
 - [ ] Banana
 - [ ] Pear
 - [x] Apple
+
+#### Gideon International places what book in hotel rooms?
+
+- [ ] The Dictionary
+- [x] The Bible
+- [ ] The Watchtower
+
+#### What would you wear to blend into an environment?
+
+- [ ] Chamomile
+- [x] Camouflage
+- [ ] Camelia
+
+#### Who ordered the first pizza for delivery?
+
+- [ ] Teddy Roosevelt
+- [x] The Queen of Italy
+- [ ] Napoleon
+
+#### Which of the following actors turned down the role of James Bond?
+
+- [ ] Sir Alec Guinness
+- [x] Cary Grant
+- [ ] Gregory Peck
+
+#### What kind of bird's head is on the handle of Mary Poppins' umbrella?
+
+- [ ] Raven
+- [ ] Vulture
+- [x] Parrot
+
+#### In which country does a witch fly around leaving candy coal for children the week after Christmas?
+
+- [x] Italy
+- [ ] Hungary
+- [ ] Wales
+
+#### Which of the following is a song by Aerosmith?
+
+- [ ] The Weight
+- [ ] Yesterday
+- [x] Dream on
+
+#### Which President was assassinated during a performance at the Ford Theater?
+
+- [ ] William McKinley
+- [ ] John F. Kennedy
+- [x] Abraham Lincoln
