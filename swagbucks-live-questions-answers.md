@@ -6209,3 +6209,57 @@
 - [ ] William McKinley
 - [ ] John F. Kennedy
 - [x] Abraham Lincoln
+
+#### Which of these is the name of a desert?
+
+- [ ] Sara Lee
+- [x] Sahara
+- [ ] Sarumon
+
+#### Which of the roles was NOT played by Adam Sandler?
+
+- [ ] Little Nicky
+- [ ] The Waterboy
+- [x] Michael Clayton
+
+#### In publishing, what does POD mean?
+
+- [x] Print On Demand
+- [ ] Probably Over Delaware
+- [ ] Paper Ogres Diving
+
+#### The Panchuker and Khanom Tokyo are both versions of what dish?
+
+- [ ] Pizza
+- [x] Hot Dog
+- [ ] Sushi
+
+#### The company that publishes Mad Libs books also publishes which series?
+
+- [x] Little Golden Books
+- [ ] Diary of a Wimpy Kid
+- [ ] The Berenstain Bears
+
+#### Which of the following colors is a dog unable to see?
+
+- [x] Red
+- [ ] Yellow
+- [ ] Blue
+
+#### Which of these is the closest to the average weight of a cumulus cloud?
+
+- [ ] One thousand pounds
+- [x] One million pounds
+- [ ] One billion pounds
+
+#### On which of these television shows does a character have superpowers?
+
+- [ ] Gilmore Girls
+- [x] The Flash
+- [ ] Chicago Hope
+
+#### What musical has the songs "Luck Be A Lady" and "A Bushel and a Peck"?
+
+- [ ] Phantom of the Opera
+- [x] Guys and Dolls
+- [ ] Les Miserables
