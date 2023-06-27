@@ -6263,3 +6263,51 @@
 - [ ] Phantom of the Opera
 - [x] Guys and Dolls
 - [ ] Les Miserables
+
+#### What "As Seen On TV" product is a blanket with sleeves?
+
+- [ ] ShamWow
+- [ ] P90X
+- [x] Snuggie
+
+#### What destroyed the ancient Roman city of Pompeii?
+
+- [ ] Bad vibes
+- [x] Volcanic Eruption
+- [ ] War
+
+#### Which of these scientific breakthroughs didn't happen in the same year as the other two?
+
+- [ ] Higgs Boson discovered
+- [ ] Curiosity lands on Mars
+- [x] AI beats a human player at GO
+
+#### In what year did the original production of "The Phantom of the Opera" debut on Broadway?
+
+- [x] 1988
+- [ ] 2008
+- [ ] 2018
+
+#### Gotham City is the home to what superhero?
+
+- [x] Batman
+- [ ] Iron Man
+- [ ] Forbush Man
+
+#### For the second season of "Gilligan's Island", which characters' names were added to the theme?
+
+- [ ] Ginger and Mary-Ann
+- [x] The Professor and Mary-Ann
+- [ ] The Professor and Ginger
+
+#### According to the title of his song, who does Michael Jackson claim is "not my lover"?
+
+- [x] Billie Jean
+- [ ] Billy Bob Thornton
+- [ ] Billy Crystal
+
+#### A sectional is what kind of furniture?
+
+- [x] Sofa
+- [ ] Sink
+- [ ] Bed
