@@ -6311,3 +6311,63 @@
 - [x] Sofa
 - [ ] Sink
 - [ ] Bed
+
+#### Which U.S. president was sworn in by his father?
+
+- [x] Calvin Coolidge
+- [ ] Franklin Pierce
+- [ ] John Quincy Adams
+
+#### Which of these fruits doesn't have a pit?
+
+- [x] Pineapple
+- [ ] Apricot
+- [ ] Cherry
+
+#### Which of the James Bond theme songs is NOT the name of a James Bond movie?
+
+- [x] Writing's on the Wall
+- [ ] The Living Daylights
+- [ ] Tomorrow Never Dies
+
+#### Which sport uses a penalty box?
+
+- [ ] Baseball
+- [x] Hockey
+- [ ] Golf
+
+#### Who won Tony awards for Hamilton and In The Heights?
+
+- [x] Lin-Manuel Miranda
+- [ ] Andrew Lloyd Webber
+- [ ] Stephen Sondheim
+
+#### Elon Musk is the founder of what car company?
+
+- [ ] Ford
+- [x] Tesla
+- [ ] Peugeot
+
+#### What cereal uses the catchphrase "They're G-r-r-r-reat!"?
+
+- [ ] Grape Nuts
+- [x] Frosted Flakes
+- [ ] Corn Flakes
+
+#### In the Nintendo series, what is the name of Mario's brother?
+
+- [ ] Wario
+- [x] Luigi
+- [ ] Toadstool
+
+#### King James and New English are versions of what text?
+
+- [ ] The Constitution
+- [ ] Moby Dick
+- [x] The Bible
+
+#### The Samoyed dog breed comes from what area?
+
+- [ ] Norway
+- [x] Siberia
+- [ ] Alaska
