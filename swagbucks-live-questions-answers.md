@@ -6371,3 +6371,57 @@
 - [ ] Norway
 - [x] Siberia
 - [ ] Alaska
+
+#### Superman, Batman, Wonder Woman and The Flash all teamed up in what 2017 movie?
+
+- [x] The Avengers
+- [ ] Justice League
+- [ ] The Suicide Squad
+
+#### Which of the following modern inventions owes a debt to Marie Van Brittan Brown?
+
+- [ ] Amazon Echo
+- [x] Ring cameras
+- [ ] Fitbit
+
+#### If Barbie married Ken and took his surname, what would her last name be?
+
+- [ ] Douglas
+- [x] Carson
+- [ ] Smith
+
+#### What country has 421 words for snow?
+
+- [x] Scotland
+- [ ] Sweden
+- [ ] Japan
+
+#### In albums, what does LP stand for?
+
+- [ ] Lotsa Piano
+- [x] Long Play
+- [ ] Little Pizzas
+
+#### Where do M&Ms claim to melt?
+
+- [x] Your mouth
+- [ ] Your hand
+- [ ] The microwave
+
+#### The Olympic motto "Citius, Altius, Fortius" translates to "Faster, Higher," what?
+
+- [ ] Smellier
+- [ ] Stretchier
+- [x] Stronger
+
+#### What piece of equipment do you need to play Double Dutch?
+
+- [ ] Rubber Ball
+- [ ] Pogo Stick
+- [x] Jump Rope
+
+#### Gordie Howe is a Hall of Famer in which sport?
+
+- [ ] Horse Racing
+- [x] Hockey
+- [ ] Skiing
