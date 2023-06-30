@@ -6425,3 +6425,57 @@
 - [ ] Horse Racing
 - [x] Hockey
 - [ ] Skiing
+
+#### Andrew Garfield, Tobey Maguire, and Tom Holland have all portrayed what comic book hero?
+
+- [x] Spider-Man
+- [ ] Thor
+- [ ] Plastic Man
+
+#### What song by The Weeknd became a Tik Tok trend in 2020?
+
+- [x] Blinding Lights
+- [ ] Somebody That I Used To Know
+- [ ] The Flow
+
+#### What are traditionally yellow in NYC but black in London?
+
+- [x] Taxicabs
+- [ ] Yield Signs
+- [ ] Subway Signs
+
+#### Which of these is made for parking your car?
+
+- [ ] Freeway
+- [ ] Causeway
+- [x] Driveway
+
+#### In the movie "Glengarry Glen Ross," which actor's character did not exist in Mamet's original stage play?
+
+- [x] Alec Baldwin
+- [ ] Al Pacino
+- [ ] Kevin Spacey
+
+#### In "The Wizard of Oz", what mathematical principle does the Scarecrow try to quote after receiving his "brain"?
+
+- [ ] Quadratic Equation
+- [x] Pythagorean Theorem
+- [ ] Four Square Theorem
+
+#### In which city do all of the major sports teams wear the same colors?
+
+- [ ] Dallas
+- [ ] Boston
+- [x] Pittsburgh
+
+#### What candy bar is made up of four "fingers" you can break off and share?
+
+- [x] Kit Kat
+- [ ] York Peppemint Pattie
+- [ ] Snickers
+
+#### Which of these actions would be considered impolite at the dinner table?
+
+- [ ] Using your napkin
+- [x] Chewing with your mouth open
+- [ ] Eating with a fork
