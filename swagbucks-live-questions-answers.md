@@ -6479,3 +6479,51 @@
 - [ ] Using your napkin
 - [x] Chewing with your mouth open
 - [ ] Eating with a fork
+
+#### In which of these TV shows or movies is the President single?
+
+- [ ] The West Wing
+- [x] The American President
+- [ ] Dave
+
+#### The Next Generation episode "A Matter of Time" was written for which actor to guest star?
+
+- [ ] Stephen Hawking
+- [ ] Whoopi Goldberg
+- [x] Robin Williams
+
+#### By what name is Aurora Borealis also known?
+
+- [ ] The Western Darkness
+- [x] The Northern Lights
+- [ ] The Southern Shine
+
+#### Complete this Led Zeppelin song title: "Stairway to..."
+
+- [ ] The Second Floor
+- [x] Heaven
+- [ ] Failure
+
+#### Dr. Benjamin Spock wrote a famous book about what?
+
+- [ ] French Cooking
+- [x] Babies
+- [ ] Travel
+
+#### Which of these art museums is NOT in New York?
+
+- [ ] The Metropolitan
+- [ ] The Guggenheim
+- [x] The Louvre
+
+#### What kind of athletic court would you find on the roof of the United States Supreme Court?
+
+- [ ] Sumo Wrestling
+- [x] Basketball
+- [ ] Football
+
+#### What TV Show featured President Jed Bartlet?
+
+- [ ] Veep
+- [x] The West Wing
+- [ ] 24
