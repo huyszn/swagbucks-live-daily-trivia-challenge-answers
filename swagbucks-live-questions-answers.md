@@ -6527,3 +6527,51 @@
 - [ ] Veep
 - [x] The West Wing
 - [ ] 24
+
+#### Where is the Sahara Desert?
+
+- [x] Africa
+- [ ] Asia
+- [ ] Europe
+
+#### The shortest and tallest NBA players in history played together on what team?
+
+- [ ] The Lakers
+- [x] The Bullets
+- [ ] The 76ers
+
+#### Where does Lord of the Rings take place?
+
+- [ ] Top Earth
+- [x] Middle Earth
+- [ ] Bottom Earth
+
+#### In 2018, YouTube removed videos centered around what household product?
+
+- [ ] Glade Plug-Ins
+- [x] Tide Pods
+- [ ] Toilet Paper
+
+#### "The Sopranos" actor James Gandolfini once appear on "Sesame Street" to talk about Zoe about what topic?
+
+- [ ] Sharing
+- [ ] Saying "please"
+- [x] Being scared
+
+#### Which of the following species is NOT extinct?
+
+- [x] Saola
+- [ ] Passenger Pigeon
+- [ ] Quagga
+
+#### Which of these Disney live action movies was NOT set in England?
+
+- [ ] Mary Poppins
+- [x] Pete's Dragon
+- [ ] Bedknobs and Broomsticks
+
+#### Ratt, Megadeth, and Slayer are all part of what genre of music?
+
+- [x] Heavy Metal
+- [ ] Easy Listening
+- [ ] Reggae
