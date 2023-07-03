@@ -6575,3 +6575,63 @@
 - [x] Heavy Metal
 - [ ] Easy Listening
 - [ ] Reggae
+
+#### What is the name of Will Ferrell's character in "Anchorman"?
+
+- [ ] Ron Mauve
+- [x] Ron Burgundy
+- [ ] Ron Purple
+
+#### Which MCU film inspired Disney to donate $1 million to Youth STEM programs?
+
+- [ ] Iron Man 3
+- [ ] Thor: The Dark World
+- [x] Black Panther
+
+#### Freezing is the term for what movement between states of matter?
+
+- [ ] Liquid to Gas
+- [x] Liquid to Solid
+- [ ] Gas to Solid
+
+#### Binary code is made up of which two digits?
+
+- [ ] One and Forty
+- [ ] Twenty Two and Three
+- [x] One and Zero
+
+#### What literary orphan exclaims "Please, sir, I want some more"?
+
+- [ ] Huckleberry Finn
+- [ ] Cosette
+- [x] Oliver Twist
+
+#### What children's TV show features the Muppet hero Super Grover?
+
+- [ ] Zoobilee Zoo
+- [ ] Shining Time Station
+- [x] Sesame Street
+
+#### What term is given to the lookout at the top of a mast?
+
+- [ ] Falcon's Nest
+- [x] Crow's Nest
+- [ ] Pigeon's Nest
+
+#### How many lines does a haiku have?
+
+- [x] Three
+- [ ] Five
+- [ ] Seven
+
+#### In January, an agate gemstone discovered inside of volcanic rock made headlines for its resemblance to whom?
+
+- [ ] Baby Yoda
+- [x] Cookie Monster
+- [ ] Elmo
+
+#### What is New York State's nickname?
+
+- [ ] The Keystone State
+- [ ] The Land of 1,000 Lakes
+- [x] The Empire State
