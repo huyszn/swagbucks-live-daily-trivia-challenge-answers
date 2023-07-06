@@ -6689,3 +6689,63 @@
 - [x] As Soon As Possible
 - [ ] Andy's Spicy Apple Pastries
 - [ ] Are Spiders Allowed, Pat?
+
+#### The Teddy Bear is named after which U.S. President?
+
+- [x] Theodore Roosevelt
+- [ ] Rutherford B. Hayes
+- [ ] John Adams
+
+#### Which of these oils is commonly used in cooking?
+
+- [x] Olive Oil
+- [ ] Baby Oil
+- [ ] Motor Oil
+
+#### On "Muppet Babies", what is the name of the human who takes care of everyone?
+
+- [x] Nanny
+- [ ] Nancy
+- [ ] Nonna
+
+#### Based on their name, which rock band would most likely use a rectifier?
+
+- [x] AC/DC
+- [ ] Nine Inch Nails
+- [ ] Led Zeppelin
+
+#### The Girls Next Door was a reality show that took place primarily in what location?
+
+- [ ] A farm
+- [ ] The International Space Station
+- [x] The Playboy Mansion
+
+#### Which "X-Men" actor has been on Broadway in "The Music Man", "The Boy From Oz", and "A Steady Rain"?
+
+- [ ] Ray Park
+- [ ] Michael Fassbender
+- [x] Hugh Jackman
+
+#### Where could you ride the world's fastest roller coaster?
+
+- [ ] Japan
+- [x] United Arab Emirates
+- [ ] The United States
+
+#### What pop culture-infused book was turned into a movie by Steven Spielberg?
+
+- [ ] Leonard Maltin's Movie Guide
+- [ ] Everything Bad is Good for You
+- [x] Ready Player One
+
+#### Which of these Marvel super heroes carries a shield?
+
+- [x] Captain America
+- [ ] Ant-Man
+- [ ] Wonder Woman
+
+#### What famous mother writes children's books with her daughter?
+
+- [x] Julie Andrews
+- [ ] Hillary Clinton
+- [ ] Rosie O'Donnell
