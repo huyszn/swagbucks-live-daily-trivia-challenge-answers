@@ -6635,3 +6635,57 @@
 - [ ] The Keystone State
 - [ ] The Land of 1,000 Lakes
 - [x] The Empire State
+
+#### What astronomical phenomenon first started being associated with bad things in the 18th century?
+
+- [ ] Full Moon
+- [ ] Halley's Comet
+- [x] Mercury in Retrograde
+
+#### According to legend, what causes a werewolf to transform?
+
+- [ ] Low blood sugar
+- [ ] Magic words
+- [x] A full moon
+
+#### In American Football, how do they decide who gets the ball first?
+
+- [ ] Drawing straws
+- [ ] Eeny Meeny Miney Moe
+- [x] Coin Toss
+
+#### Which of the following is NOT a term for marine debris?
+
+- [ ] Lagan
+- [ ] Derelict
+- [x] Dross
+
+#### What is the name of Tarzan's chimpanzee sidekick?
+
+- [ ] Fred
+- [x] Cheeta
+- [ ] Wendy
+
+#### By what name was LEGO originally known?
+
+- [ ] Build & Play
+- [ ] Little Architect
+- [x] Automatic Binding Bricks
+
+#### What psychological test uses ink blots to assess personality and feelings?
+
+- [ ] Stanford-Binet Test
+- [x] Rorschach Test
+- [ ] Wechsler Test
+
+#### Who has not been a voice in a Pixar movie?
+
+- [ ] Bill Hader
+- [ ] Hayden Panettiere
+- [x] Danny DeVito
+
+#### What does ASAP stand for?
+
+- [x] As Soon As Possible
+- [ ] Andy's Spicy Apple Pastries
+- [ ] Are Spiders Allowed, Pat?
