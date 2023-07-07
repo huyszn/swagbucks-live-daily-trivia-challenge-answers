@@ -6749,3 +6749,57 @@
 - [x] Julie Andrews
 - [ ] Hillary Clinton
 - [ ] Rosie O'Donnell
+
+#### Which restaurant chain was built around their ice cream with the slogan "28 Flavors"?
+
+- [ ] Friendly's
+- [x] Howard Johnson's
+- [ ] Dairy Queen
+
+#### What is Lightning McQueen's catchphrase?
+
+- [ ] Here I go!
+- [x] Ka-chow
+- [ ] Booyah
+
+#### What city hosted the second modern Olympiad?
+
+- [ ] Athens
+- [ ] London
+- [x] Paris
+
+#### Buttercup, Blossom, and Bubbles are collectively known by what name?
+
+- [ ] The Get Along Gang
+- [x] The Powerpuff Girls
+- [ ] The Justice League
+
+#### Which dog breed name translates to "gaped throat"?
+
+- [ ] Shar Pei
+- [ ] Bichon Frise
+- [x] Beagle
+
+#### In the song "There's a hole in my bucket", what's the boy's name?
+
+- [ ] Michael
+- [x] Henry
+- [ ] Ronny
+
+#### Based on how he was used prior to Sesame Street, which of these was NOT one of Cookie Monster's old jobs?
+
+- [ ] Training IBM employees
+- [ ] Selling corn chips
+- [x] Teaching kitchen safety
+
+#### Whitney Houston was almost cast on what 80s sitcom?
+
+- [ ] Facts of Life
+- [ ] Diff'rent Strokes
+- [x] The Cosby Show
+
+#### Which of these is a book by Frank McCourt?
+
+- [ ] Bossypants
+- [ ] Yes Please
+- [x] Angela's Ashes
