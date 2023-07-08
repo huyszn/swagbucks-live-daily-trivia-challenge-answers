@@ -6803,3 +6803,63 @@
 - [ ] Bossypants
 - [ ] Yes Please
 - [x] Angela's Ashes
+
+#### Which of the following sports never requires a helmet?
+
+- [ ] Football
+- [x] Basketball
+- [ ] Hockey
+
+#### For 24 years, what brand claimed "We bring good things to life"?
+
+- [ ] Honda
+- [ ] Maybelline
+- [x] General Electric
+
+#### "I've Had The Time of My Life" is a song from which 1987 summer blockbuster?
+
+- [ ] Summer School
+- [ ] Predator
+- [x] Dirty Dancing
+
+#### A banana split is typically made with bananas and what?
+
+- [ ] Spaghetti
+- [x] Ice Cream
+- [ ] Cereal
+
+#### What is the family name of the ruling dynasty of Monaco?
+
+- [ ] Hapsburg
+- [x] Grimaldi
+- [ ] Holstein
+
+#### The Miracle on Ice at the 1980 Olympics was a victory by the U.S. over which opponent?
+
+- [ ] Finland
+- [x] Soviet Union
+- [ ] Canada
+
+#### Which of these characters is a dog?
+
+- [ ] Puss in Boots
+- [ ] Gonzo
+- [x] Old Yeller
+
+#### Who won two Presidential elections in the 1990s?
+
+- [x] Bill Clinton
+- [ ] George H.W. Bush
+- [ ] George W. Bush
+
+#### How many total continents are there?
+
+- [ ] Six
+- [x] Seven
+- [ ] Eight
+
+#### Kelly Clarkson, Scott McCreery, and Carrie Underwood each won what reality singing competition?
+
+- [ ] The Voice
+- [ ] The Sing-Off
+- [x] American Idol
