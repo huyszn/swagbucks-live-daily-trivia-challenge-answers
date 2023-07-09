@@ -6863,3 +6863,63 @@
 - [ ] The Voice
 - [ ] The Sing-Off
 - [x] American Idol
+
+#### In standard Monopoly, what are the two types of card you can draw?
+
+- [ ] Credit and Business
+- [ ] Draw Four and Wild
+- [x] Chance and Community Chest
+
+#### What prop is integral to Lew Zealand's act?
+
+- [ ] Dynamite
+- [ ] The Muppaphone
+- [x] Boomerang Fish
+
+#### In "E = mc2", what does E stand for?
+
+- [ ] Mass
+- [x] Energy
+- [ ] The Speed of Light
+
+#### If she sang a verse of "Old MacDonald Had A Farm," which pop star would be singing the vowels of her name in order?
+
+- [x] Celine Dion
+- [ ] Whitney Houston
+- [ ] Demi Lovato
+
+#### What is the term for a species in peril of extinction?
+
+- [ ] Engendered
+- [x] Endangered
+- [ ] Ensnared
+
+#### What kind of transmissino requires the use of a clutch pedal?
+
+- [ ] Automatic
+- [ ] Tiptronic
+- [x] Manual
+
+#### What are the names of Beyoncé's twins?
+
+- [x] Sir & Rumi
+- [ ] Apple & Orange
+- [ ] Bay & Oncé
+
+#### Who does NOT appear on the original Sgt. Pepper's album cover?
+
+- [x] Charlie Chaplin
+- [ ] George Bernard Shaw
+- [ ] Fred Astaire
+
+#### Where did Napoleon fight his last battle?
+
+- [ ] Watertown
+- [ ] Waterford
+- [x] Waterloo
+
+#### The first sequel to "Bunnicula" was inspired by what author?
+
+- [x] Agatha Christie
+- [ ] Arthur Conan Doyle
+- [ ] Clive Barker
