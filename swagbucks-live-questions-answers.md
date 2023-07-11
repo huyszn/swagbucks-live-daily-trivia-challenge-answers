@@ -6923,3 +6923,45 @@
 - [x] Agatha Christie
 - [ ] Arthur Conan Doyle
 - [ ] Clive Barker
+
+#### Which of these teen movie characters attended East Great Falls High?
+
+- [ ] Andrew Clark
+- [x] Kevin Myers
+- [ ] Joey Donner
+
+#### The game of Monopoly as we know it today evolved from a game called what?
+
+- [x] The Landlord's Game
+- [ ] Capitalism
+- [ ] Laissez Faire
+
+#### What MLB player once traded a small percentage of his signing bonus in exchange for 50 cents to buy chocolate milk?
+
+- [ ] Mike Trout
+- [x] Justin Verlander
+- [ ] Bryce Harper
+
+#### Which of the following was Jeff Bezos's first name for Amazon?
+
+- [ ] Wishlist.com
+- [x] Cadabra.com
+- [ ] eShop.com
+
+#### Which of the following is NOT the actual name of a viking from history?
+
+- [ ] Hálfdan the Generous and the Stingy with Food
+- [x] Herjólfr The Goat-Legged
+- [ ] Hallgerðr Longpants
+
+#### Pinto, Garbanzo, and Great Northern are types of what?
+
+- [ ] Chips
+- [x] Beans
+- [ ] Milk
+
+#### From which actual book did JK Rowling get most of the plant names she used?
+
+- [x] Culpeper's Complete Herbal
+- [ ] A Curious Herbal
+- [ ] The Olde English Herbal
