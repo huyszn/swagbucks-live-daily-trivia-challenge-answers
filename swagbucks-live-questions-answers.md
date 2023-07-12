@@ -6965,3 +6965,51 @@
 - [x] Culpeper's Complete Herbal
 - [ ] A Curious Herbal
 - [ ] The Olde English Herbal
+
+#### In which decade did the Berlin Wall fall?
+
+- [ ] 1910s
+- [x] 1980s
+- [ ] 2010s
+
+#### Who currently hosts The Tonight Show?
+
+- [x] Jimmy Fallon
+- [ ] Johnny Carson
+- [ ] Seth Meyers
+
+#### Which of the following is NOT one of the seven continents of the world?
+
+- [ ] Asia
+- [ ] Europe
+- [x] Cleveland
+
+#### Which of the following American reality shows debuted first?
+
+- [x] Survivor
+- [ ] The Bachelor
+- [ ] Love Island
+
+#### Johnny Knoxville became famous on what MTV stunt show?
+
+- [ ] The Real World
+- [x] Jackass
+- [ ] Road Rules
+
+#### On which continent is India located?
+
+- [ ] Europe
+- [ ] Africa
+- [x] Asia
+
+#### According to Cyndi Lauper's song, "Girls Just Wanna Have" what?
+
+- [ ] A picnic
+- [ ] A shower
+- [x] Fun
+
+#### The Disney World Resort is roughly the size of what major U.S. city?
+
+- [ ] Chicago
+- [ ] Dallas
+- [x] San Francisco
