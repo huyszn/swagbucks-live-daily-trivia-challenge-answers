@@ -7013,3 +7013,63 @@
 - [ ] Chicago
 - [ ] Dallas
 - [x] San Francisco
+
+#### Who was thrown out of Andrew Jackson's funeral for a swearing outburst?
+
+- [ ] His son
+- [ ] John C. Calhoun
+- [x] A parrot
+
+#### Which song's lyrics invite you to "kick your pretty feet up on my dash"?
+
+- [x] Meant To Be
+- [ ] You Belong To Me
+- [ ] Dusk and Summer
+
+#### What song comes from the animated series "Rick and Morty"?
+
+- [x] Get Schwifty
+- [ ] The Star Spangled Banner
+- [ ] My Heart Will Go On
+
+#### Which automotive company is owned by Elon Musk?
+
+- [ ] Twittercars
+- [ ] SpaceX, but cars
+- [x] Tesla
+
+#### What is Auntie Anne's known for selling?
+
+- [ ] Cookies
+- [x] Pretzels
+- [ ] Candy Bars
+
+#### According to Mary Todd, what was Abraham Lincoln's hobby?
+
+- [ ] Wrestling
+- [ ] Talking
+- [x] Cats
+
+#### In the bible, on what day of the first week of creation does God say "it was good" twice?
+
+- [ ] Saturday
+- [ ] Monday
+- [x] Tuesday
+
+#### Complete the name of this sketch show: Monty Python's Flying...
+
+- [ ] Wombat
+- [ ] Spam
+- [x] Circus
+
+#### Which of these ghosts is supposed to appear when you say their name three times into a mirror?
+
+- [x] Bloody Mary
+- [ ] Marga Rita
+- [ ] Mom Osa
+
+#### Compasses generally point what direction?
+
+- [ ] East
+- [ ] West
+- [x] North
