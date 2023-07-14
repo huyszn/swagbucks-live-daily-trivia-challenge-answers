@@ -7073,3 +7073,63 @@
 - [ ] East
 - [ ] West
 - [x] North
+
+#### The project known as "Cave Game" eventually became what popular video game?
+
+- [ ] Tomb Raider
+- [x] Minecraft
+- [ ] Dig Dug
+
+#### Which of these would you take to help treat heartburn?
+
+- [ ] Theraflu
+- [ ] Nyquil
+- [x] Tums
+
+#### Which of the following pranks is activated when someone sits on it?
+
+- [ ] Snapping gum
+- [ ] Invisible Ink
+- [x] Whoopie Cushion
+
+#### What is the term for incumbent politicians of different parties creating districts together to win elections?
+
+- [x] Sweetheart gerrymandering
+- [ ] Partisan gerrymandering
+- [ ] Preventative gerrymandering
+
+#### What day of the year is widely recognized as Star Wars day?
+
+- [ ] December 25th
+- [x] May 4th
+- [ ] October 3rd
+
+#### What would you use a French Press to make?
+
+- [x] Coffee
+- [ ] Toast
+- [ ] Bacon
+
+#### What James Cameron film centers around a real-life disaster?
+
+- [x] Titanic
+- [ ] Aliens
+- [ ] The Terminator
+
+#### Who played Katniss Everdeen in the "Hunger Games" movies?
+
+- [x] Jennifer Lawrence
+- [ ] Eliza Dushku
+- [ ] Kirsten Dunst
+
+#### What is the term for only being able to see objects that are close to you?
+
+- [ ] Farsighted
+- [x] Nearsighted
+- [ ] Astigmatism
+
+#### Which of the following is a travel booking website?
+
+- [x] Priceline
+- [ ] HotOrNot
+- [ ] IMDb
