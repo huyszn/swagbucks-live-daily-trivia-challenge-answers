@@ -7193,3 +7193,63 @@
 - [ ] Queen
 - [x] Styx
 - [ ] Toto
+
+#### In the U.S., what day of the week in Thanksgiving celebrated?
+
+- [ ] Sunday
+- [x] Thursday
+- [ ] Tuesday
+
+#### What kind of creature was the super-patriotic Sam on "The Muppet Show"?
+
+- [x] Eagle
+- [ ] Monkey
+- [ ] Dog
+
+#### Which of the following is the WORST conductor of electricity?
+
+- [ ] Silver
+- [ ] Copper
+- [x] Rubber
+
+#### Which of the following people or places is mentioned the earliest in "We Didn't Start The Fire"?
+
+- [ ] Suez Canal
+- [ ] Disneyland
+- [x] James Dean
+
+#### What magazine does Elle Woods refer to as "the Bible" in Legally Blonde?
+
+- [ ] Vogue
+- [ ] Redbook
+- [x] Cosmopoliton
+
+#### According to the Gregorian calendar, when is next time the year will read the same when rotated 180 degrees?
+
+- [x] 6009
+- [ ] 8004
+- [ ] 9007
+
+#### The first known innoculation in England was against what disease?
+
+- [ ] Malaria
+- [x] Smallpox
+- [ ] Black Plague
+
+#### If you're "Tickling the Ivories", what instrument are you playing?
+
+- [ ] Kazoo
+- [ ] You're just clapping
+- [x] Piano
+
+#### Where was Yahtzee invented?
+
+- [x] A yacht
+- [ ] A school
+- [ ] The White House
+
+#### Gravity Falls is based on what Oregon city?
+
+- [x] Boring
+- [ ] Salem
+- [ ] Klamath Falls
