@@ -7133,3 +7133,63 @@
 - [x] Priceline
 - [ ] HotOrNot
 - [ ] IMDb
+
+#### Which fast food chain serves the Baconator?
+
+- [ ] McDonald's
+- [ ] Burger King
+- [x] Wendy's
+
+#### Which room is NOT on a traditional Clue board?
+
+- [ ] Library
+- [x] Attic
+- [ ] Kitchen
+
+#### Who is the NFL's all-time kick and punt return touchdown leader?
+
+- [x] Devin Hester
+- [ ] Brian Mitchell
+- [ ] Dante Hall
+
+#### Who created a painting of Monet creating a painting?
+
+- [ ] Degas
+- [ ] Monet
+- [x] Renoir
+
+#### Which of these newspapers is a satire of newspapers?
+
+- [ ] The Baltimore Sun
+- [x] The Onion
+- [ ] The Charleston Daily Mail
+
+#### What movie premiered the same year Sally Ride became the first woman in space?
+
+- [ ] Raiders of the Last Ark
+- [x] Flashdance
+- [ ] Sophie's Choice
+
+#### In soccer, what do you score?
+
+- [x] Goals
+- [ ] Touchdowns
+- [ ] Dunks
+
+#### What board game comes in a standard "Genus" edition?
+
+- [ ] Sorry
+- [x] Trivial Pursuit
+- [ ] Dominion
+
+#### Which professional wrestler trained the actors for Netflix series "GLOW"?
+
+- [ ] John Morrison
+- [x] Chavo Guerrero Jr.
+- [ ] Mando Guerrero
+
+#### Which of these band names was also the name of an ancient Greek river?
+
+- [ ] Queen
+- [x] Styx
+- [ ] Toto
