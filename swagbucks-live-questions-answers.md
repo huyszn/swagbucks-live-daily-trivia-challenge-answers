@@ -7253,3 +7253,57 @@
 - [x] Boring
 - [ ] Salem
 - [ ] Klamath Falls
+
+#### "Mastering the Art of French Cooking" was a hit for what famous TV chef?
+
+- [x] Julia Child
+- [ ] Emeril Lagasse
+- [ ] Guy Fieri
+
+#### Who played Deputy Kovacs in The Grand Budapest Hotel?
+
+- [x] Jeff Goldblum
+- [ ] Willem Dafoe
+- [ ] Ralph Fiennes
+
+#### The "Grill & Chill" is a chain of expanded restaurants for what brand?
+
+- [ ] Dunkin'
+- [x] Dairy Queen
+- [ ] Chipotle
+
+#### What TV and film series features messages that self-destruct?
+
+- [x] Mission: Impossible
+- [ ] The Addams Family
+- [ ] The Brady Bunch
+
+#### "Near and Far" is explained on Sesame Street by which blue muppet?
+
+- [ ] Big Bird
+- [x] Grover
+- [ ] Elmo
+
+#### Planters is known for selling what food product?
+
+- [x] Nuts
+- [ ] Juice
+- [ ] Steak
+
+#### In "The Jungle Book", what is the name of the man-cub?
+
+- [x] Mowgli
+- [ ] Shere Khan
+- [ ] King Louie
+
+#### Ozark is an original series on which streaming service?
+
+- [ ] Hulu
+- [ ] Disney+
+- [x] Netflix
+
+#### When something fits you exactly, you would say it fits like a what?
+
+- [x] Glove
+- [ ] Hat
+- [ ] Sock
