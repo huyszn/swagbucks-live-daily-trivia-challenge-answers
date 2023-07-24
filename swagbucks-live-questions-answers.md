@@ -7307,3 +7307,45 @@
 - [x] Glove
 - [ ] Hat
 - [ ] Sock
+
+#### The Tempest Prognosticator could supposedly predict the weather with the aid of what?
+
+- [ ] Rabbits
+- [x] Leeches
+- [ ] Magnets
+
+#### What movie was originally intended to be a spinoff of Home Alone?
+
+- [x] Bushwhacked
+- [ ] Curly Sue
+- [ ] Baby's Day Out
+
+#### In which Star Wars movie does Yoda first appear?
+
+- [ ] A New Hope
+- [x] The Empire Strikes Back
+- [ ] Return of the Jedi
+
+#### Former Justice Department worker Gerald Shur founded what program?
+
+- [ ] DNA Analysis
+- [ ] Cyber Crimes Division
+- [x] WITSEC
+
+#### In Checkers, how do you get a piece "Kinged"?
+
+- [ ] Capture an opponent's piece
+- [ ] Move it in a circle
+- [x] Move it to the other end of the board
+
+#### What city is home to Big Ben?
+
+- [ ] Chicago
+- [ ] Budapest
+- [x] London
+
+#### Which MCU hero does Tom Holland play?
+
+- [ ] Iron Man
+- [x] Spider-Man
+- [ ] Captain America
