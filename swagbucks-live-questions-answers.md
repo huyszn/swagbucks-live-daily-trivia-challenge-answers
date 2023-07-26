@@ -7349,3 +7349,57 @@
 - [ ] Iron Man
 - [x] Spider-Man
 - [ ] Captain America
+
+#### Which of these is NOT a character from a Victor Fleming film?
+
+- [ ] The Cowardly Lion
+- [ ] Joan of Arc
+- [x] Dr. Zaius
+
+#### In "The Phantom Menace", who discovers Anakin Skywalker?
+
+- [ ] Yoda
+- [x] Qui-Gon Jinn
+- [ ] The Sarlacc
+
+#### What Shakespeare character is known as The Melancholy Dane?
+
+- [ ] Romeo
+- [x] Hamlet
+- [ ] Puck
+
+#### Who writes the Robert Langdon book series?
+
+- [x] Dan Brown
+- [ ] James Patterson
+- [ ] John Grisham
+
+#### Sting became famous as a member of what band?
+
+- [ ] Mister Mister
+- [x] The Police
+- [ ] Wham!
+
+#### In which sport would you find a sand trap?
+
+- [ ] Tennis
+- [ ] Dog Racing
+- [x] Golf
+
+#### Attorney Atticus Finch is one of the main characters of what classic novel?
+
+- [x] To Kill A Mockingbird
+- [ ] The Sun Also Rises
+- [ ] The Great Gatsby
+
+#### From what country do we get Flamenco?
+
+- [ ] Italy
+- [ ] France
+- [x] Spain
+
+#### What kind of fruit makes a traditional holiday cider?
+
+- [ ] Blueberry
+- [ ] Peach
+- [x] Apple
