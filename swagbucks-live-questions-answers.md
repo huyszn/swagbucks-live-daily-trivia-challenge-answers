@@ -7403,3 +7403,57 @@
 - [ ] Blueberry
 - [ ] Peach
 - [x] Apple
+
+#### Which U.S. State only has 2 sets of escalators?
+
+- [ ] South Dakota
+- [x] Wyoming
+- [ ] Alaska
+
+#### The capital of Massachusetts rhymes the with the capital of what other State?
+
+- [ ] New York
+- [ ] New Mexico
+- [x] Texas
+
+#### The 1981 special "It's Magic, Charlie Brown" reveals that Snoopy's doghouse contains a piece from what artist?
+
+- [x] van Gogh
+- [ ] Picasso
+- [ ] Rembrandt
+
+#### "Bull Durham", "Major League", and "A League of Their Own" are movies about what sport?
+
+- [ ] Soccer
+- [x] Baseball
+- [ ] Hockey
+
+#### In which of the following games can you compete against another player in combat?
+
+- [x] Street Fighter
+- [ ] Donkey Kong
+- [ ] Super Mario Bros 2
+
+#### Who had a 1991 memoir called "Me: Stories of My Life"?
+
+- [x] Katharine Hepburn
+- [ ] Shirley MacLaine
+- [ ] Bette Davis
+
+#### "Hobbs and Shaw" is a spinoff of what movie franchise?
+
+- [x] The Fast and the Furious
+- [ ] Men in Black
+- [ ] Mission: Impossible
+
+#### In 1983, Moses Malone famously said "Fo, Fo, Fo." What would have been a more accurate prediction?
+
+- [ ] Fi, fo, fo
+- [ ] Fi, fi, fo
+- [x] Fo, fi, fo
+
+#### A 2014 study concluded that dogs experience what emotion?
+
+- [ ] Bashfulness
+- [ ] Nostalgia
+- [x] Jealously
