@@ -7457,3 +7457,63 @@
 - [ ] Bashfulness
 - [ ] Nostalgia
 - [x] Jealously
+
+#### On which game show did panelists try to guess the job of guests?
+
+- [ ] This Is Your Life
+- [x] What's My Line?
+- [ ] The Dating Game
+
+#### Which of the following animals is a primate?
+
+- [ ] Raccoon
+- [x] Gorilla
+- [ ] Hawk
+
+#### According to a report in The Atlantic, which of the following countries has the most Metal bands per capita?
+
+- [x] Finland
+- [ ] Norway
+- [ ] Sweden
+
+#### What animal's diet primarily consists of bamboo?
+
+- [ ] Koala bear
+- [x] Panda bear
+- [ ] Black bear
+
+#### Stove Top is a well-known brand of what food?
+
+- [ ] Cereal
+- [ ] Bananas
+- [x] Stuffing
+
+#### Which of the following YouTubers has launched a career as a WWE Superstar?
+
+- [ ] Jeffree Star
+- [ ] Felipe Neto
+- [x] Logan Paul
+
+#### In which Russian video game are you trying to turn falling pieces into horizontal lines?
+
+- [x] Tetris
+- [ ] The Legend of Zelda
+- [ ] Fortnite
+
+#### Which of these bands appeared in Purple Rain?
+
+- [ ] Infectious Grooves
+- [x] The Time
+- [ ] Parliament Funkadelic
+
+#### According to Beyoncé, "Who run the world?"
+
+- [ ] Dragons
+- [x] Girls
+- [ ] Three old dudes
+
+#### BMW uses what slogan?
+
+- [x] The Ultimate Driving Machine
+- [ ] It's Got 4 Wheels and a Motor
+- [ ] Toyota
