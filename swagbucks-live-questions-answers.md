@@ -7517,3 +7517,57 @@
 - [x] The Ultimate Driving Machine
 - [ ] It's Got 4 Wheels and a Motor
 - [ ] Toyota
+
+#### Where was Anna Kournikova born?
+
+- [ ] Sweden
+- [x] Russia
+- [ ] Iceland
+
+#### How many States make up the U.S.A.?
+
+- [x] 50
+- [ ] 102
+- [ ] 73
+
+#### What does Wonder Woman's lasso compel you to do?
+
+- [ ] Dance
+- [x] Tell the truth
+- [ ] Sleep
+
+#### Genealogy is concerned with what area of study?
+
+- [ ] Genomes
+- [ ] Denim pants
+- [x] Families and Family history
+
+#### In which country do Rice Krispies go "Cris! Cras! Cros!"?
+
+- [ ] France
+- [ ] Germany
+- [x] Spain
+
+#### If laughter is the best medicine, which character from "Hey Diddle Diddle" is the healthiest?
+
+- [x] The Dog
+- [ ] The Fiddle
+- [ ] The Moon
+
+#### The man behind the NBA logo is also behind what?
+
+- [ ] The Disco Ball
+- [x] The 1040EZ form
+- [ ] Pop Rocks
+
+#### In which country would you most likely celebrate St. Lucia's Day?
+
+- [ ] Wales
+- [ ] Russia
+- [x] Sweden
+
+#### In "Single Ladies" if you like it, what does Beyoncé think you should do?
+
+- [x] Put a ring on it
+- [ ] Buy it outright
+- [ ] Dance it out
