@@ -7571,3 +7571,57 @@
 - [x] Put a ring on it
 - [ ] Buy it outright
 - [ ] Dance it out
+
+#### Which actor is in the Cranberries video for their song Ridiculous Thoughts?
+
+- [x] Elijah Wood
+- [ ] Lukas Haas
+- [ ] Joseph Gordon Levitt
+
+#### On a standard traffic light, what color means "go"?
+
+- [ ] Red
+- [ ] Yellow
+- [x] Green
+
+#### What are the names of the two roommate muppets on Sesame Street?
+
+- [x] Bert & Ernie
+- [ ] Frank & Jim
+- [ ] Big Bird & Elmo
+
+#### According to Mental Floss, what would a muggle see if they came across Hogwarts?
+
+- [x] Ruins
+- [ ] Nothing
+- [ ] A lake
+
+#### Which of these U.S. cities would be considered "East Coast"?
+
+- [x] Portland, Maine
+- [ ] Seattle, Washington
+- [ ] Boise, Idaho
+
+#### Bilbo Baggins is the main character of what book?
+
+- [ ] A Wrinkle in Time
+- [x] The Hobbit
+- [ ] Ender's Game
+
+#### Which of these songs is NOT a song about a father and daughter?
+
+- [ ] Isn't She Lovely
+- [x] Father Figure
+- [ ] Temptation
+
+#### A cat named Blackie holds what Guinness World Record?
+
+- [ ] Fattest Cat
+- [ ] Smallest Adult Cat
+- [x] Wealthiest Cat
+
+#### What execution device was originally named after its physician designer?
+
+- [x] Guillotine
+- [ ] Punching Machine
+- [ ] Chuck Norris
