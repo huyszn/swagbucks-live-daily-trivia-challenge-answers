@@ -7625,3 +7625,51 @@
 - [x] Guillotine
 - [ ] Punching Machine
 - [ ] Chuck Norris
+
+#### When an office chair is designed for comfort and efficiency, what would we call it?
+
+- [x] Ergonomic
+- [ ] Egomaniacal
+- [ ] Egalitarian
+
+#### If you're "In high snuff", "Gassed", or "All callao", how are you feeling?
+
+- [x] Happy
+- [ ] Tired
+- [ ] Sick
+
+#### In "Who's On First?", what's the name of the Third Baseman?
+
+- [ ] What
+- [x] I Don't Know
+- [ ] I Don't Give A Darn
+
+#### Where would you most likely find announcer Howard Finkel working?
+
+- [ ] A boxing ring
+- [x] A wrestling ring
+- [ ] A baseball stadium
+
+#### What kind of dog is Snoopy?
+
+- [ ] Great Dane
+- [ ] Dalmatian
+- [x] Beagle
+
+#### Which of these breakfast foods is normally cooked in a toaster?
+
+- [ ] Pancakes
+- [x] Pop Tarts
+- [ ] Oatmeal
+
+#### The opening credits of "The Simpsons" usually end with a gag centered around what?
+
+- [ ] The family eating dinner
+- [ ] The family leaving the house
+- [x] The family sitting on their couch
+
+#### Who is Luke Skywalker's father?
+
+- [ ] Han Solo
+- [ ] Jabba the Hutt
+- [x] Darth Vader
