@@ -7673,3 +7673,57 @@
 - [ ] Han Solo
 - [ ] Jabba the Hutt
 - [x] Darth Vader
+
+#### What song was performed by Lady Gaga and Bradley Cooper at the 2019 Oscars?
+
+- [ ] Sha La La La
+- [x] Shallow
+- [ ] Shall We Dance
+
+#### This 1992 Best Picture Oscar winner would like to eat your liver with some fava beans and nice bottle of Chianti?
+
+- [x] Silence of the Lambs
+- [ ] American Beauty
+- [ ] The English Patient
+
+#### Which Tolkien character was named Bladorthin in early drafts?
+
+- [ ] Radagast
+- [ ] Golem
+- [x] Gandalf
+
+#### Who wrote "Fahrenheit 451"?
+
+- [ ] Agatha Christie
+- [ ] Dr. Phil
+- [x] Ray Bradbury
+
+#### What is the term for fake cities cartographers used to catch people who were copying them?
+
+- [ ] Trojan towns
+- [x] Paper towns
+- [ ] Fool's towns
+
+#### Which of these novels is considered Gothic?
+
+- [x] Dracula
+- [ ] How to Win Friends & Influence People
+- [ ] The Baby-Sitters Club
+
+#### According to the Beastie Boys song, "You gotta fight for your right to" what?
+
+- [ ] Nap
+- [ ] Snack
+- [x] Party
+
+#### What is the only fruit whose seeds are on the outside?
+
+- [ ] Banana
+- [x] Strawberry
+- [ ] Peach
+
+#### What question is asked at the end of Capital One commercials?
+
+- [ ] Do you have the time?
+- [x] What's in your wallet?
+- [ ] How am I doing?
