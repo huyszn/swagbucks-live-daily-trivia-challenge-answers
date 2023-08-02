@@ -7727,3 +7727,51 @@
 - [ ] Do you have the time?
 - [x] What's in your wallet?
 - [ ] How am I doing?
+
+#### What 1950's horror classic was based on an actual story from Philadelphia?
+
+- [ ] Day of the Triffids
+- [x] The Blob
+- [ ] Invasion of the Body Snatchers
+
+#### What ancient land was ruled by Pharaohs?
+
+- [x] Egypt
+- [ ] Saxony
+- [ ] Rome
+
+#### On "The Dick Van Dyke Show", what was Rob Petrie's profession?
+
+- [x] TV Comedy Writer
+- [ ] Dentist
+- [ ] Shoe salesman
+
+#### Which state's zip codes starts with the lowest number?
+
+- [x] Indiana
+- [ ] Texas
+- [ ] Missouri
+
+#### What smuggling route does Han Solo brag about running in less than 12 parsecs?
+
+- [x] The Kessel Run
+- [ ] The Corellian Strait
+- [ ] The Degobah Cycle
+
+#### Which playwright helped write the dialogue between Indiana Jones and his father?
+
+- [ ] Aaron Sorkin
+- [ ] Eric Bogosian
+- [x] Tom Stoppard
+
+#### Kenner released a wildly successful toy line based on what movie?
+
+- [ ] The Black Hole
+- [x] Star Wars
+- [ ] Conan the Barbarian
+
+#### "Diners, Drive-Ins & Dives" is hosted by what celebrity chef?
+
+- [x] Guy Fieri
+- [ ] Alton Brown
+- [ ] Bobby Flay
