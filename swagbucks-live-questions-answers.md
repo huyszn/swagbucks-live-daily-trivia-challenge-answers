@@ -7775,3 +7775,63 @@
 - [x] Guy Fieri
 - [ ] Alton Brown
 - [ ] Bobby Flay
+
+#### How high is a soccer goal?
+
+- [ ] 12 feet
+- [ ] 6 feet
+- [x] 8 feet
+
+#### Which of these drinks has ice cream as an ingredient?
+
+- [ ] Cream Soda
+- [x] Root Beer Float
+- [ ] Hot Toddy
+
+#### Which of these would be the closest blood relation?
+
+- [ ] Grandmother
+- [ ] Nephew
+- [x] Sister
+
+#### What childhood toy does the Banks family fly at the end of "Mary Poppins"?
+
+- [ ] Drone
+- [ ] Zeppelin
+- [x] Kite
+
+#### Who was the ninth U.S. President?
+
+- [ ] Martin Van Buren
+- [x] William Henry Harrison
+- [ ] John Tyler
+
+#### Which of the following actors never played Santa Claus in a movie?
+
+- [ ] John Goodman
+- [x] Dan Aykroyd
+- [ ] Jim Broadbent
+
+#### Which element on the periodic table is named after the devil?
+
+- [ ] Copper
+- [x] Nickel
+- [ ] Devlium
+
+#### What kind of hat is associated with cowboys?
+
+- [ ] Beany
+- [x] Stetson
+- [ ] Top hat
+
+#### What U.S. City is known as The Big Easy?
+
+- [ ] Seattle
+- [x] New Orleans
+- [ ] Boise
+
+#### In 1989, Michael Keaton donned the cape and cowl of what superhero?
+
+- [ ] Aquaman
+- [ ] Superman
+- [x] Batman
