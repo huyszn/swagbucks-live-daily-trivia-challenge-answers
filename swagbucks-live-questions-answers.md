@@ -7835,3 +7835,45 @@
 - [ ] Aquaman
 - [ ] Superman
 - [x] Batman
+
+#### Which of these TV shows took place in outer space?
+
+- [ ] Gilligan's Island
+- [ ] Wagon Train
+- [x] Star Trek
+
+#### Where are you supposed to store Otter Pops?
+
+- [ ] Microwave
+- [ ] Dishwasher
+- [x] Freezer
+
+#### Which reality show's 2nd season winner shares a name with a sandwich made with Russian dressing?
+
+- [ ] America's Got Talent
+- [x] American Idol
+- [ ] American Ninja Warrior
+
+#### In hockey, who protects the net?
+
+- [x] Goalie
+- [ ] Bodyguard
+- [ ] Zamboni
+
+#### What year did the People's Choice Awards begin?
+
+- [ ] 1883
+- [ ] 1901
+- [x] 1975
+
+#### Which historical leader is the subject of a biography titled "The Long Walk to Freedom"?
+
+- [ ] Martin Luther King, Jr.
+- [ ] Harriet Tubman
+- [x] Nelson Mandela
+
+#### What animal supposedly delivers Easter Eggs?
+
+- [ ] Dragon
+- [ ] Flea
+- [x] Bunny
