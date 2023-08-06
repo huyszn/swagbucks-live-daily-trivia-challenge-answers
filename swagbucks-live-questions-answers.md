@@ -7925,3 +7925,57 @@
 - [x] Archaeology
 - [ ] English
 - [ ] Philosophy
+
+#### Which restaurant chain is known for seafood?
+
+- [x] Long John Silver's
+- [ ] Chipotle
+- [ ] Subway
+
+#### Which word is NOT part of the acronym VHS?
+
+- [ ] Video
+- [ ] Home
+- [x] Sky Stallone
+
+#### In 2010, Florida governor Charlie Crist issued a pardon to what deceased rocker?
+
+- [ ] John Lennon
+- [ ] Jimi Hendrix
+- [x] Jim Morrison
+
+#### Who had a backup group called "The Pips"?
+
+- [ ] Smokey Robinson
+- [ ] David Bowie
+- [x] Gladys Knight
+
+#### What type of movie typically focuses on cowboys?
+
+- [x] Western
+- [ ] Sci-Fi
+- [ ] Thriller
+
+#### What comedian had an HBO special called Complaints and Grievances?
+
+- [ ] Jerry Seinfeld
+- [ ] Dennis Miller
+- [x] George Carlin
+
+#### North America has how many Great Lakes?
+
+- [ ] One
+- [x] Five
+- [ ] Twenty
+
+#### Which of the following bands was formed in California?
+
+- [x] The Beach Boys
+- [ ] The Rolling Stones
+- [ ] BTS
+
+#### A cat named Merlin holds what Guinness World Record?
+
+- [ ] Heaviest Cat
+- [ ] Smallest Cat
+- [x] Loudest Purr
