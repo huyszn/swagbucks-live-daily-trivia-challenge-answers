@@ -7877,3 +7877,51 @@
 - [ ] Dragon
 - [ ] Flea
 - [x] Bunny
+
+#### What term means you're close with someone?
+
+- [ ] Sharp as a tack
+- [x] Thick as thieves
+- [ ] On the cutting edge
+
+#### Which of these is NOT a WNBA team?
+
+- [ ] New York Liberty
+- [ ] Los Angeles Sparks
+- [x] Philadelphia 76ers
+
+#### Which two States have the only capitals that rhyme with one another?
+
+- [ ] California and Kansas
+- [ ] Rhode Island and Illinois
+- [x] Massachusetts and Texas
+
+#### Which of these is NOT the name of a villain in the Bioshock video game series?
+
+- [ ] Zachary Comstock
+- [ ] Frank Fontaine
+- [x] Sofia Levine
+
+#### Which U.S. State calls Nashville its capital?
+
+- [ ] West Virginia
+- [ ] North Carolina
+- [x] Tennessee
+
+#### Tropicana is owned by what soft drink company?
+
+- [x] PepsiCo
+- [ ] Jones Soda
+- [ ] Novamex
+
+#### In 1859, the U.S. almost went to war with Britain over what animal?
+
+- [x] Pig
+- [ ] Horse
+- [ ] Cow
+
+#### What college subject does Indiana Jones teach?
+
+- [x] Archaeology
+- [ ] English
+- [ ] Philosophy
