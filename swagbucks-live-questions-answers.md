@@ -7979,3 +7979,57 @@
 - [ ] Heaviest Cat
 - [ ] Smallest Cat
 - [x] Loudest Purr
+
+#### What is the sum of all natural numbers from 51 to 100?
+
+- [x] 3775
+- [ ] 5050
+- [ ] 4025
+
+#### What Sioux tribe did Sitting Bull belong to?
+
+- [ ] Apache
+- [ ] Dakota
+- [x] Lakota
+
+#### How many amendments to the U.S. constitution are in the original Bill of Rights?
+
+- [x] Ten
+- [ ] Twelve
+- [ ] Fifteen
+
+#### "Loss mitigation" or "retroactive" underwriting was invented after a fatal fire in which Las Vegas hotel?
+
+- [x] MGM Grand
+- [ ] Hilton Hotel
+- [ ] Pink Flamingo
+
+#### What slogan does Wheaties cereal use?
+
+- [ ] Look At All This Fiber
+- [x] The Breakfast of Champions
+- [ ] Sports Cereal
+
+#### Where did the famous U.S. revolutionary Tea Party take place?
+
+- [x] Boston
+- [ ] Trenton
+- [ ] Portland
+
+#### Vin Diesel voices which character in Guardians of the Galaxy?
+
+- [x] Groot
+- [ ] Both Belushi brothers
+- [ ] Howard the Duck
+
+#### The Beach Boys recorded a song about girls from what State?
+
+- [x] California
+- [ ] Wisconsin
+- [ ] Alaska
+
+#### In a standard game of Bingo, how many consecutive spaces do you have to fill in order to win?
+
+- [x] Five
+- [ ] Six
+- [ ] Seven
