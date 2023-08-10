@@ -8033,3 +8033,63 @@
 - [x] Five
 - [ ] Six
 - [ ] Seven
+
+#### Star Trek's phrase "To boldly go where no one has gone before" contains which grammar no-no?
+
+- [ ] Dangling Participle
+- [ ] Confused Homophones
+- [x] Split Infinitive
+
+#### Things that are common are said to be what?
+
+- [x] A dime a dozen
+- [ ] One of a kind
+- [ ] In a bind
+
+#### Which sea has no coastline?
+
+- [ ] Dead Sea
+- [x] Sargasso Sea
+- [ ] South China Sea
+
+#### Which European country is home to the Acropolis?
+
+- [x] Greece
+- [ ] Estonia
+- [ ] Latveria
+
+#### Based on the actress who played her, what other song could Elsa have sung in Frozen?
+
+- [x] Defying Gravity
+- [ ] Lily's Eyes
+- [ ] Castle on a Cloud
+
+#### What film is responsible for reviving the song "Foggy Mountain Breakdown"?
+
+- [ ] Deliverance
+- [x] Bonnie and Clyde
+- [ ] Butch Cassidy and the Sundance Kid
+
+#### Which of the following types of sushi doesn't contain fish?
+
+- [x] Rainbow Veggie Roll
+- [ ] Spicy Tuna Roll
+- [ ] Salmon Roll
+
+#### What Marvel character's name contains a nod to creator Jack Kirby?
+
+- [ ] Iron Man
+- [x] The Thing
+- [ ] Kingpin
+
+#### Which singer fronted a band that had both a color and animal in its name?
+
+- [ ] Eric Burdon
+- [ ] Ian Gillan
+- [x] Chris Robinson
+
+#### Which of the following is NOT a power up in the original Super Mario Bros?
+
+- [ ] Mushroom
+- [ ] Flower
+- [x] Hammer
