@@ -8093,3 +8093,63 @@
 - [ ] Mushroom
 - [ ] Flower
 - [x] Hammer
+
+#### What was the name of Roseanne Barr's sitcom?
+
+- [ ] Ellen
+- [x] Roseanne
+- [ ] Friends
+
+#### What are the colors of the pieces in a standard Connect Four game?
+
+- [ ] White and Blue
+- [ ] Purple and Green
+- [x] Red and Yellow
+
+#### In Operation, what part of Cavity Sam lights up when you make a mistake?
+
+- [ ] Eyes
+- [ ] Ears
+- [x] Nose
+
+#### What restaurant was built around the Insta-Burger Broiler?
+
+- [x] Burger King
+- [ ] Wendy's
+- [ ] McDonald's
+
+#### What sport uses terms like "Dinger", "Tater", and "Grand Salami"?
+
+- [x] Baseball
+- [ ] Rugby
+- [ ] Curling
+
+#### What U.S. city is known as Beantown?
+
+- [x] Boston
+- [ ] Tampa
+- [ ] Muskogee
+
+#### Hannibal Lecter debuted in which novel?
+
+- [ ] Manhunter
+- [ ] Silence of the Lambs
+- [x] Red Dragon
+
+#### Which magazine is the oldest?
+
+- [x] Boy's Life
+- [ ] Highlights
+- [ ] Reader's Digest
+
+#### What flavor was introduced by Baskin-Robbins to commemorate the Moon landing on July 20, 1969?
+
+- [ ] Honey Almond
+- [x] Lunar Cheesecake
+- [ ] Very Berry Strawberry
+
+#### Adios is a way to say goodbye in what language?
+
+- [ ] Farsi
+- [x] Spanish
+- [ ] Dutch
