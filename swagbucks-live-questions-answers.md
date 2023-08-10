@@ -8153,3 +8153,57 @@
 - [ ] Farsi
 - [x] Spanish
 - [ ] Dutch
+
+#### How would you greet the first chief of state to visit the United States in their native tongue?
+
+- [x] Aloha
+- [ ] ¡Hola!
+- [ ] Hello
+
+#### "Sin City" is the nickname for what U.S. city?
+
+- [ ] Salt Lake City
+- [ ] Albany
+- [x] Las Vegas
+
+#### Where would you find the longest river in the world?
+
+- [x] Africa
+- [ ] France
+- [ ] Cleveland
+
+#### Which of the following is NOT one of the U.S. states that meet at the Four Corners Monument?
+
+- [ ] Arizona
+- [ ] Utah
+- [x] Hawaii
+
+#### The Argonne Cross Memorial in Arlington, VA honors combatants from a battle in which war?
+
+- [ ] World War II
+- [x] World War I
+- [ ] The War of 1812
+
+#### Mrs. Frizzle is the driver of what mystical vehicle?
+
+- [x] The Magic School Bus
+- [ ] The Fantastical School Balloon
+- [ ] The Forbidden School Scooter
+
+#### What is the specific term for a room or building equipped for scientific experiments?
+
+- [ ] Annex
+- [ ] Garage
+- [x] Laboratory
+
+#### Who first said "Winning isn't everything, it's the only thing"?
+
+- [ ] Vince Lombardi
+- [x] Red Sanders
+- [ ] Casey Stengel
+
+#### Which of these fruits does not grow on trees?
+
+- [ ] Avocados
+- [ ] Citron
+- [x] Pineapples
