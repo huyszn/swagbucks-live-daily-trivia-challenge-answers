@@ -8207,3 +8207,45 @@
 - [ ] Avocados
 - [ ] Citron
 - [x] Pineapples
+
+#### Which of these films was NOT a Big Five winner at the Academy Awards?
+
+- [ ] Silence of the Lambs
+- [ ] It Happened One Night
+- [x] Gone With The Wind
+
+#### What Sesame Street character had a wildly popular "Tickle Me" doll?
+
+- [ ] Oscar the Grouch
+- [x] Elmo
+- [ ] Grover
+
+#### Kathmandu is the capital of which country?
+
+- [x] Nepal
+- [ ] Canada
+- [ ] Italy
+
+#### What dog-centric PBS series had episodes titled "Twisted Tail" and "Bone of Arc"?
+
+- [ ] Clifford
+- [x] Wishbone
+- [ ] Martha Speaks
+
+#### Chester the Cheetah is the mascot for which snack brand?
+
+- [ ] Planters
+- [x] Cheetos
+- [ ] M&Ms
+
+#### Which of the following inventions was directly influenced by technology from Star Trek?
+
+- [ ] Microwave oven
+- [x] Cell Phone
+- [ ] Electric Car
+
+#### In Star Trek, Mister Spock is half-human and half what?
+
+- [ ] Martian
+- [x] Vulcan
+- [ ] Biaviian
