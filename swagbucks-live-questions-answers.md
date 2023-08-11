@@ -8249,3 +8249,63 @@
 - [ ] Martian
 - [x] Vulcan
 - [ ] Biaviian
+
+#### England's Sovereign motto is in what language?
+
+- [ ] English
+- [ ] German
+- [x] French
+
+#### Who lost the battle of Zama?
+
+- [x] Hannibal
+- [ ] Alexander the Great
+- [ ] Xerxes
+
+#### Which of the these classic TV shows had a main character with magic powers?
+
+- [ ] M\*A\*S\*H
+- [x] Bewitched
+- [ ] Maude
+
+#### Which of the following species is considered "Endangered" by the WWF?
+
+- [ ] Black Spider Monkey
+- [x] Chimpanzee
+- [ ] Gorilla
+
+#### What kind of animal is Beatrix Potter's Mrs. Tiggy-Winkle?
+
+- [ ] Skunk
+- [x] Hedgehog
+- [ ] Rabbit
+
+#### What Hollywood legend was widely credited with an enormous drop in undershirt sales?
+
+- [ ] John Wayne
+- [x] Clark Gable
+- [ ] Humphrey Bogart
+
+#### What does Jerry's nemesis Newman do for a living?
+
+- [ ] Teacher
+- [x] Mailman
+- [ ] Bus Driver
+
+#### "Pecunia non olet" is a Latin phrase that refers to a tax on what substance?
+
+- [ ] Cooking Oil
+- [x] Urine
+- [ ] Internet
+
+#### What book by Ray Bradbury is also the temperature at which paper burns?
+
+- [ ] War of the Worlds
+- [x] Fahrenheit 451
+- [ ] Dandelion Wine
+
+#### What does a white dove symbolize?
+
+- [x] Peace
+- [ ] War
+- [ ] Fear
