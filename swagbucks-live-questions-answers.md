@@ -8309,3 +8309,63 @@
 - [x] Peace
 - [ ] War
 - [ ] Fear
+
+#### Which of these comedy directors is an EGOT winner?
+
+- [ ] Woody Allen
+- [ ] Billy Wilder
+- [x] Mike Nichols
+
+#### Palmistry is the art of telling the future by reading what?
+
+- [x] Palms
+- [ ] Scalps
+- [ ] The advice column
+
+#### Complete this common phrase: "Once bitten..."
+
+- [x] Twice shy
+- [ ] Bitten again
+- [ ] It's werewolf time
+
+#### Who became president immediately after the assassination of John F. Kennedy?
+
+- [ ] Bill Clinton
+- [ ] George W. Bush
+- [x] Lyndon B. Johnson
+
+#### Which of these instruments is generally the largest?
+
+- [ ] Flute
+- [x] Tuba
+- [ ] Violin
+
+#### What year did the United States officially declare their independence from England?
+
+- [ ] 1516
+- [ ] 1641
+- [x] 1776
+
+#### Comedian Jeff Foxworthy is associated with what joke?
+
+- [ ] Take My Wife, Please
+- [x] You Might Be A Redneck
+- [ ] I Don't Get No Respect
+
+#### What toy was created because the inventor's kids couldn't master catching?
+
+- [ ] Superballs
+- [ ] Wiffle Balls
+- [x] Koosh Balls
+
+#### Where in your body would you find gastric acids?
+
+- [x] Stomach
+- [ ] Heart
+- [ ] Brain
+
+#### What award-winning actor turned down the role of Michael Corleone in "The Godfather"?
+
+- [x] Jack Nicholson
+- [ ] Robert De Niro
+- [ ] Dustin Hoffman
