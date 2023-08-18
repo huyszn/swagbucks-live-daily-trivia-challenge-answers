@@ -8411,3 +8411,57 @@
 - [x] The Boss
 - [ ] The Executive Assistant
 - [ ] The Mid-Level Manager
+
+#### Which of these Disney Channel series debuted first?
+
+- [ ] Dog with a Blog
+- [x] So Random
+- [ ] Liv and Maddie
+
+#### What WWE program airs on Monday Night?
+
+- [x] Raw
+- [ ] Superstars
+- [ ] NXT
+
+#### According to the Judith Viorst book, what kind of day did Alexander have?
+
+- [ ] So-so
+- [ ] Foggy
+- [x] Terrible, horrible, no good, very bad
+
+#### The thimble, racecar, and iron are all pieces in what board game?
+
+- [ ] Life
+- [ ] Clue
+- [x] Monopoly
+
+#### Neil Young was once in a band with which funk icon?
+
+- [x] Rick James
+- [ ] James Brown
+- [ ] George Clinton
+
+#### Which of the following actors has NOT played characters in both Marvel and DC film adaptations?
+
+- [ ] Ben Affleck
+- [x] Benedict Cumberbatch
+- [ ] Sylvester Stallone
+
+#### What was the first balloon character in the Macy's Parade?
+
+- [ ] Snoopy
+- [ ] Betty Boop
+- [x] Felix the Cat
+
+#### Which Beatle wrote and recorded "Imagine"?
+
+- [ ] Paul McCartney
+- [x] John Lennon
+- [ ] George Harrison
+
+#### What is Yogi Bear constantly trying to steal from people in Jellystone Park?
+
+- [ ] Their keys
+- [ ] A kiss
+- [x] Picnic Baskets
