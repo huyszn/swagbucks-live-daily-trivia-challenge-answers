@@ -8465,3 +8465,67 @@
 - [ ] Their keys
 - [ ] A kiss
 - [x] Picnic Baskets
+
+
+#### Which of the following superheroes has adamantium claws in his forearms?
+
+- [ ] Vindicator
+- [ ] Northstar
+- [x] Wolverine
+
+
+
+#### On Knight Rider, what kind of car was K.I.T.T.?
+
+- [x] Pontiac Trans-Am
+- [ ] Lamborghini Diablo
+- [ ] Porsche 911
+
+
+#### When you roll a ball on a flat surface, when scientific force prevents it from rolling indefinitely?
+
+- [ ] Momentum
+- [x] Friction
+- [ ] Gravity
+ 
+
+#### Who hosts a reality competition show called "Drag Race"?
+- [x] RuPaul
+- [ ] Mario Andretti
+- [ ] Tyra Banks
+
+
+#### The Smurfs are constantly being antagonized by what human?
+- [ ] Gary
+- [ ] Greyhound
+- [x] Gargamel
+
+
+#### Which Dr. Seuss character "speaks for the trees, for the trees have no tongues"?
+- [x] The Lorax
+- [ ] The Grinch
+- [ ] Sam I Am
+
+
+#### Which character's name translates to "Generous One" in another language?
+- [ ] Jaq
+- [ ] Esmeralda
+- [x] Lilo
+
+
+#### Which U.S. President is known as The Great Emancipator?
+- [x] Abraham Lincoln
+- [ ] Ronald Regan
+- [ ] Calvin Coolidge
+
+
+#### Complete this Led Zeppelin lyric: "and she's buying a stairway to..."
+- [ ] Jersey
+- [ ] Tacos
+- [x] Heaven
+
+
+#### What animal lives in a sty?
+- [x] Pig
+- [ ] Hen
+- [ ] Dog
