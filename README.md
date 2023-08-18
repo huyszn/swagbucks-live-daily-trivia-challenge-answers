@@ -3,6 +3,8 @@ This is a repository of questions asked on the Swagbucks LIVE Daily Trivia Chall
 
 ## Question and Answer Format
 
+Different questions are separated by one line break, and a question and its answers are separated by one line break.
+
 #### A question?
 
 - [x] Correct answer
