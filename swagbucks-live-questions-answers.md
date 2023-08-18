@@ -8369,3 +8369,45 @@
 - [x] Jack Nicholson
 - [ ] Robert De Niro
 - [ ] Dustin Hoffman
+
+#### With which sport is the "Mulligan" primarily associated?
+
+- [ ] Boxing
+- [ ] Bowling
+- [x] Golf
+
+#### What kind of book lists the definitions of words?
+
+- [ ] Anthology
+- [x] Dictionary
+- [ ] Yearbook
+
+#### What is the highest number of children born to one woman?
+
+- [ ] 23
+- [ ] 38
+- [x] 69
+
+#### A Woj Bomb refers to trade news from an ESPN analyst for what sports league?
+
+- [ ] FIFA
+- [x] NBA
+- [ ] NHL
+
+#### Which of these words is not an acronym?
+
+- [ ] SWAT
+- [x] WiFi
+- [ ] Scuba
+
+#### Which of the following is NOT the name of a comic book superhero?
+
+- [ ] Iron Man
+- [ ] Thor
+- [x] All That Man
+
+#### By what nickname is Bruce Springsteen known?
+
+- [x] The Boss
+- [ ] The Executive Assistant
+- [ ] The Mid-Level Manager
