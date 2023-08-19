@@ -8687,3 +8687,63 @@
 - [ ] Lizard Lick Towing
 - [ ] Undercover Boss
 - [x] Cops
+
+#### Carol Danvers is better known as which Marvel superhero?
+
+- [ ] Spider-Man
+- [ ] Hawkeye
+- [x] Captain Marvel
+
+#### In what era was the original Star Trek set?
+
+- [x] 2200s
+- [ ] 2300s
+- [ ] 2400s
+
+#### What pop star released "Black is King" on Disney Plus?
+
+- [x] Beyoncé
+- [ ] Queen Latifah
+- [ ] Cardi B.
+
+#### Where does Homer Simpson work?
+
+- [x] Nuclear Power Plant
+- [ ] Springfield Elementary School
+- [ ] Moe's
+
+#### Which song is the only one Disney has never copyrighted?
+
+- [ ] When You Wish Upon A Star
+- [x] It's A Small World
+- [ ] Zip-a-dee-doo-dah
+
+#### Which of the following is a common professional wrestling maneuver?
+
+- [ ] Dropcloth
+- [ ] Drop the Beat
+- [x] Dropkick
+
+#### Gwen Stefani was the lead singer of which band?
+
+- [ ] Backstreet Boys
+- [ ] Nirvana
+- [x] No Doubt
+
+#### The Biathlon combines cross-country skiing with what other activity?
+
+- [ ] Freehand drawing
+- [x] Rifle Shooting
+- [ ] Pole vaulting
+
+#### In "Hamilton", Alexander Hamilton has the line "I am not throwing away my" what?
+
+- [x] Shot
+- [ ] Country
+- [ ] Time
+
+#### Which sitcom mother lived in Raytown?
+
+- [x] Thelma Harper
+- [ ] Eloise Curtis
+- [ ] Lily Munster
