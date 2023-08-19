@@ -8525,3 +8525,51 @@
 - [x] Pig
 - [ ] Hen
 - [ ] Dog
+
+#### What State was home to the first capital of the Confederacy?
+
+- [x] Alabama
+- [ ] South Carolina
+- [ ] Virginia
+
+#### In what country are you most likely to eat a soup called chlodnik?
+
+- [x] Poland
+- [ ] Hungary
+- [ ] Turkey
+
+#### The idea for Sesame Street came from what question?
+
+- [ ] Why is TV so bad for children?
+- [ ] Why don't preschoolers have their own show?
+- [x] Could television be used to educate kids?
+
+#### What country is home to the palace at Versailles?
+
+- [ ] Denmark
+- [x] France
+- [ ] Iran
+
+#### Which "Hocus Pocus" cast member is related to one of the victims of the Salem Witch Trials?
+
+- [ ] Kathy Najimy
+- [ ] Bette Midler
+- [x] Sarah Jessica Parker
+
+#### The man who painted the Sweet Valley High cover images also painted a portrait of which President?
+
+- [ ] Ronald Reagan
+- [x] John F. Kennedy
+- [ ] Lyndon B. Johnson
+
+#### What comedian's catchphrase is "Git 'Er Done"?
+
+- [ ] Ron White
+- [ ] Bill Engvall
+- [x] Larry the Cable Guy
+
+#### If Abraham Lincoln gave the Gettysburg address today, how would it begin?
+
+- [x] 12 Score and 2 Years Ago
+- [ ] 7 Score and 7 Years Ago
+- [ ] 22 Score and 6 Years Ago
