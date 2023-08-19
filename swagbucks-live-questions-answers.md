@@ -8573,3 +8573,63 @@
 - [x] 12 Score and 2 Years Ago
 - [ ] 7 Score and 7 Years Ago
 - [ ] 22 Score and 6 Years Ago
+
+#### How many times does Santa check his list?
+
+- [ ] Once
+- [x] Twice
+- [ ] Thrice
+
+#### What food mascot once rappelled down a Chicago skyscraper as a publicity stunt?
+
+- [ ] Ronald McDonald
+- [x] Colonel Sanders
+- [ ] The Burger King
+
+#### Which of these actresses started a clothing line with Kmart in 1985?
+
+- [x] Jaclyn Smith
+- [ ] Cheryl Ladd
+- [ ] Farrah Fawcett
+
+#### Which of the following devices is used to amplify your voice?
+
+- [ ] Potato
+- [ ] Jump Rope
+- [x] Microphone
+
+#### Which NBA team was originally known as the Gems?
+
+- [x] Los Angeles Lakers
+- [ ] Sacramento Kings
+- [ ] Denver Nuggets
+
+#### Which film features characters like Rhett Butler and Scarlett O'Hara?
+
+- [x] Gone With The Wind
+- [ ] It Happened One Night
+- [ ] The Birds
+
+#### Which founding President refused to declare Thanksgiving a holiday?
+
+- [ ] George Bush
+- [ ] Ronald Reagan
+- [x] Thomas Jefferson
+
+#### Which of the following numbers in Hamilton happens the earliest?
+
+- [x] Farmer Refuted
+- [ ] Meet Me Inside
+- [ ] You'll Be Back
+
+#### Under which political party did Theodore Roosevelt run for president in 1912?
+
+- [x] Progressive
+- [ ] Republican
+- [ ] Libertarian
+
+#### According to Wu Tang Clan, what part of your body should you protect?
+
+- [x] Ya neck
+- [ ] Your small intestine
+- [ ] Your uvula
