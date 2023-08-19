@@ -8633,3 +8633,57 @@
 - [x] Ya neck
 - [ ] Your small intestine
 - [ ] Your uvula
+
+#### Which of the following things is NOT mentioned in "Green Eggs and Ham"?
+
+- [ ] The dark
+- [x] The hall
+- [ ] a tree
+
+#### Which Brady Bunch actor is the oldest?
+
+- [x] Christopher Knight
+- [ ] Eve Plumb
+- [ ] Mike Lookinland
+
+#### Daniel-san uses the Crane Kick in which 80s movie?
+
+- [ ] Cobra
+- [x] The Karate Kid
+- [ ] The Last Dragon
+
+#### Which of these musicals uses the songs of ABBA?
+
+- [ ] Jersey Boys
+- [x] Mamma Mia
+- [ ] Movin' Out
+
+#### During feudal law, "Scutage" was also known as what?
+
+- [ ] Urine Tax
+- [ ] Servants Tax
+- [x] Shield Tax
+
+#### In which year was Justin Bieber's "Baby" released?
+
+- [ ] 1974
+- [ ] 1988
+- [x] 2010
+
+#### What natural material can kill a White Walker?
+
+- [ ] Valyrian Steel
+- [x] Dragonglass
+- [ ] Tears of Lys
+
+#### Julius Caesar was the leader of which empire?
+
+- [ ] Mongolian
+- [ ] Ottoman
+- [x] Roman
+
+#### "Bad Boys" is the theme song of what reality show?
+
+- [ ] Lizard Lick Towing
+- [ ] Undercover Boss
+- [x] Cops
