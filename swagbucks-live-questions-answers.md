@@ -8747,3 +8747,57 @@
 - [x] Thelma Harper
 - [ ] Eloise Curtis
 - [ ] Lily Munster
+
+#### Tech designer Abhishek Singh used augmented reality to recreate scenes from what horror film?
+
+- [ ] Saw
+- [ ] The Conjuring
+- [x] The Ring
+
+#### The term "Jump the Shark" comes from an episode of what sitcom?
+
+- [ ] Laverne & Shirley
+- [ ] M\*A\*S\*H
+- [x] Happy Days
+
+#### Jo Calderone was the alter ego of what pop star?
+
+- [ ] Christina Aguilera
+- [ ] Madonna
+- [x] Lady Gaga
+
+#### Which of the following dishes contains ice cream?
+
+- [ ] Beef Wellington
+- [ ] Shepherd's Pie
+- [x] Baked Alaska
+
+#### What item is needed to play Cat's Cradle?
+
+- [ ] A stick
+- [x] Some string
+- [ ] A ball
+
+#### Elepheba is the main character of which Broadway musical?
+
+- [ ] Guys and Dolls
+- [x] Wicked
+- [ ] Oklahoma
+
+#### What is the name of Batman's sidekick?
+
+- [x] Robin
+- [ ] Kid Flash
+- [ ] Aqualad
+
+#### Who played Mary Poppins in the original live action Disney film?
+
+- [ ] Angela Lansbury
+- [x] Julie Andrews
+- [ ] Donna Reed
+
+#### When was the original Sony Playstation first released in the U.S.?
+
+- [x] 1995
+- [ ] 2004
+- [ ] 2022
