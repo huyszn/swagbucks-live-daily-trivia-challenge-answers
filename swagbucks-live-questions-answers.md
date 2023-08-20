@@ -8855,3 +8855,63 @@
 - [ ] A sales person
 - [x] A rabbi
 - [ ] An artist
+
+#### In "Fantasia", what does Mickey bring to life as the Sorcerer's Apprentice?
+
+- [x] Mops
+- [ ] Hairbrushes
+- [ ] Toasters
+
+#### What number was calculated to be larger than the number of particles in the universe?
+
+- [x] Googolplex
+- [ ] Centillion
+- [ ] Nonagintillion
+
+#### Which science is the study of rocks?
+
+- [ ] Geography
+- [ ] Genealogy
+- [x] Geology
+
+#### The Apgar Score is used to measure the health of what?
+
+- [ ] WiFi signals
+- [x] Newborn children
+- [ ] Democracy
+
+#### The host of Robot Wars and Top Gear was the first person to own which toy?
+
+- [x] Paddington Bear
+- [ ] Hot Wheels
+- [ ] Transformers
+
+#### A situation that will cause problems when you deal with it is known by what term?
+
+- [ ] Can of corn
+- [ ] Can of soup
+- [x] Can of worms
+
+#### Which of the following restaurants is famous for its fondue?
+
+- [ ] Benihana
+- [x] The Melting Pot
+- [ ] Potbelly Sandwich Shop
+
+#### What is the only bird that can fly backwards for any length of time?
+
+- [ ] Sparrow
+- [ ] Falcon
+- [x] Hummingbird
+
+#### "Hangry" is a combination of what two states of being?
+
+- [ ] Happy & Angry
+- [ ] Hemophilia & Angry
+- [x] Hungry & Angry
+
+#### What is the world's biggest port?
+
+- [ ] Toronto
+- [ ] London
+- [x] Shanghai
