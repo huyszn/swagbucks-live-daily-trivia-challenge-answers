@@ -8801,3 +8801,57 @@
 - [x] 1995
 - [ ] 2004
 - [ ] 2022
+
+#### Which of the following is NOT one of the marshmallow shapes in a standard box of Lucky Charms?
+
+- [x] Anvils
+- [ ] Hearts
+- [ ] Stars
+
+#### Which species is classified as endangered by the World Wildlife Foundation?
+
+- [ ] Grizzly Bears
+- [ ] American Alligators
+- [x] Green Turtles
+
+#### What website collects and defines slang terms?
+
+- [ ] Duolingo
+- [ ] Geocities
+- [x] Urban Dictionary
+
+#### What Sugar Hill Gang single became the first rap song played on the radio?
+
+- [ ] The Breaks
+- [ ] The Message
+- [x] Rapper's Delight
+
+#### In the Bible, what is the name given to Joseph by Pharaoh?
+
+- [x] Zaphnath-Paaneah
+- [ ] Imhotep
+- [ ] Rhamaat Khan
+
+#### The unexplainable fits of Elizabeth "Betty" Parris and Abigail Williams were the start of what historic event?
+
+- [ ] The Bubonic Plague
+- [x] The Salem Witch Trials
+- [ ] The Renaissance
+
+#### Which of the following is NOT one of the National Lampoon's Vacation films?
+
+- [x] Space Camp
+- [ ] Vegas Vacation
+- [ ] The European Vacation
+
+#### What does the B in NBC stand for?
+
+- [x] Broadcasting
+- [ ] Billy-Bob
+- [ ] Bingo!
+
+#### Who invented Speed Dating?
+
+- [ ] A sales person
+- [x] A rabbi
+- [ ] An artist
