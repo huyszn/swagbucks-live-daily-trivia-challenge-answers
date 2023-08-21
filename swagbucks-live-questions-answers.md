@@ -8915,3 +8915,57 @@
 - [ ] Toronto
 - [ ] London
 - [x] Shanghai
+
+#### Which of these natural materials is the hardest?
+
+- [ ] Granite
+- [x] Diamond
+- [ ] Marble
+
+#### Vin Diesel voices which character in Guardians of the Galaxy?
+
+- [x] Groot
+- [ ] Both Belushi brothers
+- [ ] Howard the Duck
+
+#### Which of the following NFL teams does NOT have cheerleaders?
+
+- [ ] Philadelphia Eagles
+- [x] Pittsburgh Steelers
+- [ ] Detroit Lions
+
+#### What is the name of the dress commonly worn by ballerinas?
+
+- [x] Tutu
+- [ ] Teetee
+- [ ] Toto
+
+#### What is the deepest body of freshwater in Britain?
+
+- [ ] Loch Lomand
+- [ ] Loch Ness
+- [x] Loch Morar
+
+#### How many pins are there to knock down in a frame of bowling?
+
+- [ ] 0
+- [ ] 120
+- [x] 10
+
+#### What author worte romance novels under the pen name Mary Westmacott?
+
+- [ ] Ernest Hemingway
+- [ ] Sue Grafton
+- [x] Agatha Christie
+
+#### Which of these actors was in the movie High School Musical?
+
+- [ ] Paul Rudd
+- [ ] Tom Holland
+- [x] Zac Efron
+
+#### Who was the butler for The Addams Family?
+
+- [ ] Fester
+- [ ] Thing
+- [x] Lurch
