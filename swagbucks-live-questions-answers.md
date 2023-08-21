@@ -8969,3 +8969,45 @@
 - [ ] Fester
 - [ ] Thing
 - [x] Lurch
+
+#### According to the Merriam-Webster dictionary, where did people first "run amok"?
+
+- [ ] Russia
+- [x] Malaysia
+- [ ] Norway
+
+#### What weapon does Indiana Jones always have at his side?
+
+- [ ] Bazooka
+- [x] Bullwhip
+- [ ] Bastard Sword
+
+#### Which of these fashion houses is the oldest?
+
+- [ ] Gucci
+- [x] Burberry
+- [ ] Dior
+
+#### In BttF 2, which character uses a sports almanac from the future to get rich and open a casino in Hill Valley?
+
+- [x] Biff
+- [ ] Lorraine
+- [ ] George
+
+#### Which of the following is NOT the name of a popular comic strip?
+
+- [ ] Dick Tracy
+- [x] Bieber's Kidz
+- [ ] Peanuts
+
+#### Who is the long-lost member of the Snap-Crackle-Pop gang?
+
+- [x] Pow
+- [ ] Bam
+- [ ] Crunch
+
+#### Barry Gibb was the frontman of what band?
+
+- [ ] The Rutles
+- [ ] The Ataris
+- [x] The Bee Gees
