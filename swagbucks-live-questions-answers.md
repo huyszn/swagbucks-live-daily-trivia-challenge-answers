@@ -9024,7 +9024,8 @@
 - [ ] Milk
 - [x] Lettuce
 
-#### London socialite Tara Browne was the inspiration for what classic Beatles song
+#### London socialite Tara Browne was the inspiration for what classic Beatles song?
+
 - [ ] Michelle
 - [ ] Got To Get You Into My Life
 - [x] A Day in the Life
@@ -9035,7 +9036,7 @@
 - [x] Pride & Prejudice
 - [ ] Great Expectations
 
-#### Which brand built the first waterproof wristwatch??
+#### Which brand built the first waterproof wristwatch?
 
 - [x] Rolex
 - [ ] IWC Schafhausen
@@ -9124,3 +9125,57 @@
 - [x] Miles
 - [ ] Beers
 - [ ] Entrants
+
+#### Michelangelo famously painted the ceiling of what room?
+
+- [ ] House of Lords
+- [ ] Tower of London
+- [x] Sistine Chapel
+
+#### Complete this common phrase: "A bad workman blames his ..."
+
+- [ ] Agent
+- [x] Tools
+- [ ] Parents
+
+#### As a defense mechanism, Blue Jays can mimic the sounds of what other bird?
+
+- [ ] Raven
+- [ ] Vulture
+- [x] Hawk
+
+#### Baklava is a type of what?
+
+- [ ] Chicken
+- [x] Pastry
+- [ ] Sport
+
+#### Which of these games was first published for the Nintendo GameCube?
+
+- [ ] Nightcaster
+- [x] Pikmin
+- [ ] Firebugs
+
+#### In what year was the Toyota Celica first released?
+
+- [ ] 1965
+- [x] 1971
+- [ ] 1976
+
+#### Michael Jackson first became famous as a part of what family band?
+
+- [x] The Jackson 5
+- [ ] Mike and the Mechanics
+- [ ] The Jackson Experience
+
+#### What is the rough shape of the Earth?
+
+- [ ] Square
+- [x] Sphere
+- [ ] Rhombus
+
+#### Walt Disney passed away during the production of which 1967 film?
+
+- [ ] The Little Mermaid
+- [ ] Frozen
+- [x] The Jungle Book
