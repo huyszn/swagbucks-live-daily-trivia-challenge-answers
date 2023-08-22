@@ -9011,3 +9011,116 @@
 - [ ] The Rutles
 - [ ] The Ataris
 - [x] The Bee Gees
+
+#### Optimus Prime, Megatron, and Bumblebee are all part of what toy line?
+
+- [ ] G.I. Joe
+- [ ] Strawberry Shortcake
+- [x] Transformers
+
+#### Iceberg, Romaine, and Butter are all types of what?
+
+- [ ] Bacon
+- [ ] Milk
+- [x] Lettuce
+
+#### London socialite Tara Browne was the inspiration for what classic Beatles song
+- [ ] Michelle
+- [ ] Got To Get You Into My Life
+- [x] A Day in the Life
+
+#### "First Impressions" was the original title of what novel?
+
+- [ ] Crime & Punishment
+- [x] Pride & Prejudice
+- [ ] Great Expectations
+
+#### Which brand built the first waterproof wristwatch??
+
+- [x] Rolex
+- [ ] IWC Schafhausen
+- [ ] Ulysse Nardin
+
+#### Which of these awards is given out for journalism?
+
+- [ ] Obie
+- [ ] Clio
+- [x] Pulitzer
+
+#### While in development, what was Sonic the Hedgehog's name?
+
+- [ ] Speedy
+- [x] Mr. Needlemouse
+- [ ] Hambert
+
+#### A Virginia man buying what candy bar and a lotto ticket won $4 million?
+
+- [x] Payday
+- [ ] Snickers
+- [ ] Milky Way
+
+#### What are the names of the twins in Alice in Wonderland?
+
+- [x] Tweedledee and Tweedledum
+- [ ] Beavis and Butthead
+- [ ] Kornblau and Kornblau
+
+#### A Frappe is a drink generally madde with what base?
+
+- [ ] Tea
+- [ ] Orange Juice
+- [x] Coffee
+
+#### In which city would you find the statue of Hans Christian Andersen "Little Mermaid"?
+
+- [x] Copenhagen
+- [ ] Stockholm
+- [ ] Helsinki
+
+#### The first Gulf War started in what decade?
+
+- [ ] 1950s
+- [ ] 1970s
+- [x] 1990s
+
+#### If you "pull someone's leg", what are you doing?
+
+- [ ] Fighting
+- [x] Joking
+- [ ] Crying
+
+#### In the Garfield comics, what kind of animal is Odie?
+
+- [ ] Kitten
+- [ ] Bird
+- [x] Dog
+
+#### In the TV show "Breaking Bad", what was Walter White's former profession?
+
+- [x] Teacher
+- [ ] Lawyer
+- [ ] Doctor
+
+#### Star Trek actor George Takei once called for Star Trek and Star Wars fans to unite against what pop culture property?
+
+- [ ] The Hunger Games
+- [x] Twilight
+- [ ] Harry Potter
+
+#### What band had a hit with "Boulevard of Broken Dreams"?
+
+- [ ] Arctic Monkeys
+- [ ] Kings of Leon
+- [x] Green Day
+
+#### Actor Emily Jean Stone is better known by what name?
+
+- [x] Emma Stone
+- [ ] Emily Dickinson
+- [ ] Gwyneth Paltrow
+
+#### In the Indy 500 race, what does the 500 refer to?
+
+- [x] Miles
+- [ ] Beers
+- [ ] Entrants
