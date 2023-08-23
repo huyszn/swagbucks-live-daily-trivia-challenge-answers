@@ -9266,7 +9266,7 @@
 #### “Protecting the Earth from the Scum of the Universe” was the tagline to what 1997 sci-fi comedy?
 
 - [ ] Contact
-- [ ] Men in Black
+- [x] Men in Black
 - [ ] Alien: Resurrection
 
 #### “Klaatu barada nikto” is a key phrase in which sci-fi movie?
@@ -9292,3 +9292,51 @@
 - [ ] I Am Legend
 - [ ] Independence Day
 - [x] District 9
+
+#### What color is the majority of the Japanese flag?
+
+- [ ] Black
+- [x] White
+- [ ] Blue
+
+#### The first mass-produced, travel-size board game was a version of what game?
+
+- [ ] Battleship
+- [ ] Scrabble
+- [x] Life
+
+#### What "Holly Jolly Christmas" singer provided the voice for Sam the Snowman?
+
+- [ ] Bing Crosby
+- [ ] Frank Sinatra
+- [x] Burl Ives
+
+#### In the rap about Wrestlemania X, which of these wrestlers isn't mentioned by name?
+
+- [ ] Adam Bomb
+- [x] Jeff Jarrett
+- [ ] Luna Vachon
+
+#### In 2007, what piece of Star Wars memorabilia was brought to the International Space Station?
+
+- [ ] R2-D2
+- [ ] A Yoda puppet
+- [x] Luke Skywalker's Lightsaber
+
+#### Composer Richard Strauss wrote festival music to celebrate what country's 2600th birthday?
+
+- [ ] Turkey
+- [x] Japan
+- [ ] China
+
+#### Due to its high coefficient of expansion, what metal was used in the thermometers?
+
+- [x] Mercury
+- [ ] Iron
+- [ ] Tin
+
+#### Which Major League manager once punched the Phillie Phanatic?
+
+- [ ] Earl Weaver
+- [x] Tommy Lasorda
+- [ ] Bobby Cox
