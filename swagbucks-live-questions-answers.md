@@ -9179,3 +9179,116 @@
 - [ ] The Little Mermaid
 - [ ] Frozen
 - [x] The Jungle Book
+
+#### Which of the following sports does NOT have a goalie?
+
+- [x] Fistball
+- [ ] Hurling
+- [ ] Bandy
+
+#### What product was first released by the Hansen Natural Company in April 2002?
+
+- [ ] Rockstar Energy
+- [x] Monster Energy
+- [ ] Red Bull
+
+#### Frozone, Syndrome, and Bomb Voyage are characters from which Pixar movie?
+- [ ] Finding Dory
+- [x] The Incredibles
+- [ ] Coco
+
+#### Which of these is meant to keep your pants up?
+
+- [ ] Socks
+- [ ] Wristbands
+- [x] Belts
+
+#### What game show once facetiously offered an elephant as a prize?
+
+- [ ] Let’s Make a Deal
+- [x] The Price is Right
+- [ ] Wheel of Fortune
+
+#### Stevie Nicks was one of the lead singers of which band?
+
+- [x] Fleetwood Mac
+- [ ] Blondie
+- [ ] No Doubt
+
+#### What American novel was dismissed by H.L. Mencken as “no more than a glorified anecdote”?
+
+- [ ] The Sun Also Rises
+- [x] The Great Gatsby
+- [ ] To Kill a Mockingbird
+
+#### Grizzly Gramps was a character in what book series?
+
+- [x] The Berenstain Bears
+- [ ] Little Bear
+- [ ] Paddington Bear
+
+#### Which of the following vegetables is classified as a berry?
+
+- [ ] Lettuce
+- [x] Eggplant
+- [ ] Carrot
+
+#### What is the name of the primary starship from the original Star Trek TV series?
+
+- [x] Enterprise
+- [ ] Excelsior
+- [ ] Voyager
+
+#### Which of these Sci-fi shows was based on a movie of the same name?
+
+- [ ] Sliders
+- [ ] Quantum Leap
+- [x] Stargate: SG-1
+
+#### In “Inception”, who played Cobb, a thief who steals secrets in people’s dreams?
+
+- [ ] Tobey Maguire
+- [x] Leonardo DiCaprio
+- [ ] Billy Crudup
+
+#### The Richard Strauss tone poem “Also sprach Zarathustra” features heavily in what classic Sci-fi movie?
+
+- [ ] Forbidden Planet
+- [ ] A Clockwork Orange
+- [x] 2001: A Space Odyssey
+
+#### Who starred in the two sci-fi flops “Waterworld” and “The Postman”?
+
+- [x] Kevin Costner
+- [ ] Kevin Kline
+- [ ] Kevin Bacon
+
+#### “Protecting the Earth from the Scum of the Universe” was the tagline to what 1997 sci-fi comedy?
+
+- [ ] Contact
+- [ ] Men in Black
+- [ ] Alien: Resurrection
+
+#### “Klaatu barada nikto” is a key phrase in which sci-fi movie?
+
+- [x] The Day The Earth Stool Still
+- [ ] The Blob
+- [ ] Invasion of the Body Snatchers
+
+#### Grogu from “The Mandalorian” is better known by what nickname?
+
+- [ ] Li’l Fett
+- [x] Baby Yoda
+- [ ] Tiny Chewbacca
+
+#### In which sci-fi series does a Time Lord travel through space and time with a series of companions?
+
+- [x] Doctor Who
+- [ ] V
+- [ ] Orphan Black
+
+#### Which of the following sci-fi movies does NOT star Will Smith?
+
+- [ ] I Am Legend
+- [ ] Independence Day
+- [x] District 9
