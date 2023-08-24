@@ -9372,66 +9372,139 @@
 - [ ] Cup
 
 #### The Watergate Scandal forced which President to resign from office?
+
 - [ ] Gerald Ford
 - [x] Richard Nixon
 - [ ] Lyndon B. Johnson
 
 #### To date, how many U.S. Presidents have there been under the reign of Queen Elizabeth II?
+
 - [ ] 16
 - [ ] 15
 - [x] 13
 
 #### What term is given to the miniature versions of full-size candy?
+
 - [ ] Joy-size
 - [x] Fun-size
 - [ ] Wee ones
 
 #### Where would you go to visit the Smithsonian?
+
 - [x] Washington, D.C.
 - [ ] Paris, France
 - [ ] Mumbai, India
 
 #### When you’re by someone’s side no matter what, you’re said to be with them through:
+
 - [ ] Fric and Frac
 - [x] Thick and Thin
 - [ ] Tall and Short
 
 #### By which of the following nicknames is Madonna known?
+
 - [ ] Bocephus
 - [ ] The Queen of Soul
 - [x] The Material Girl
 
 #### In the early 2000s, which bird caused a series of blackouts around Japan?
+
 - [x] Crows
 - [ ] Owls
 - [ ] Hawks
 
 #### Stockholm Syndrome is when hostages bond with their captors. What city’s syndrome sees captors bond with their hostages?
+
 - [ ] Paris
 - [x] Lima
 - [ ] London
 
 #### “Knights of the Old Republic”, “The Force Unleashed”, and “Jedi: Survivor” are video games based on what franchise?
+
 - [x] Star Wars
 - [ ] Fast and Furious
 - [ ] Transformers
 
 #### Early in the run of the original “Star Trek”, what reason did NBC execs give for wanting to get rid of Spock?
+
 - [ ] He was too cold
 - [ ] He was boring
 - [x] He looked like the devil
 
 #### Rhumba is the term for a group of which creatures?
+
 - [ ] Trout
 - [x] Rattlesnakes
 - [ ] Chipmunks
 
 #### In 1666, which European capital famously suffered from a Great Fire?
+
 - [x] London
 - [ ] Athens
 - [ ] Oslo
 
 #### What Broadway character is “The Demon Barber of Fleet Street”?
+
 - [ ] Prof. Harold Hill
 - [ ] Alexander Hamilton
 - [x] Sweeney Todd
+
+#### What cop show has series subtitled "SVU" and "Criminal Intent"?
+
+- [ ] The Rookie
+- [ ] Sesame Street
+- [x] Law & Order
+
+#### Carrie was the first published novel of what author?
+
+- [ ] Dave Barry
+- [x] Stephen King
+- [ ] Christopher Moore
+
+#### How many signs of the zodiac are there?
+
+- [x] 12
+- [ ] 24
+- [ ] 48
+
+#### Who accompanied Dorothy on the Yellow Brick Road?
+
+- [ ] Big Bird
+- [x] The Tin Man
+- [ ] Warren Buffett
+
+#### In "Finding Nemo", what kind of fish is Nemo?
+
+- [ ] Trout
+- [ ] Swordfish
+- [x] Clownfish
+
+#### Which animal is the symbol for the zodiac sign Aries?
+
+- [ ] A swarm of bees
+- [ ] Three frogs
+- [x] Ram
+
+#### Where does the German Chocolate cake come from?
+
+- [ ] Germany
+- [x] Texas
+- [ ] London
+
+#### A popular Native American technique for predicting the weather involves using the grease of what animal?
+
+- [ ] Moose
+- [ ] Bison
+- [x] Bear
+
+#### What is the name of the pet chameleon in the Disney movie "Tangled"?
+
+- [ ] Pablo
+- [x] Pascal
+- [ ] Pietro
+
+#### In zero gravity, what color is a candle's flame?
+
+- [x] Blue
+- [ ] Green
+- [ ] Red
