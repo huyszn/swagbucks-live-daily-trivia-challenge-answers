@@ -9340,3 +9340,98 @@
 - [ ] Earl Weaver
 - [x] Tommy Lasorda
 - [ ] Bobby Cox
+
+#### How many bones are there in the human body?
+
+- [ ] 199
+- [x] 206 
+- [ ] 250
+
+#### Based on WWII Disney propaganda films, who could have starred in “The Man in the High Castle”?
+
+- [x] Donald Duck
+- [ ] Goofy
+- [ ] Mickey Mouse
+
+#### The Great Schism of 1054 broke up which church?
+
+- [ ] Church’s Chicken
+- [x] Christian Church
+- [ ] Church of Latter Day Saints
+
+#### What empire was the first empire in history?
+
+- [x] The Akkadians
+- [ ] The Romans
+- [ ] The Qing Dynasty
+
+#### Which of these measurements would hold the most liquid?
+
+- [ ] Teaspoon
+- [x] Gallon
+- [ ] Cup
+
+#### The Watergate Scandal forced which President to resign from office?
+- [ ] Gerald Ford
+- [x] Richard Nixon
+- [ ] Lyndon B. Johnson
+
+#### To date, how many U.S. Presidents have there been under the reign of Queen Elizabeth II?
+- [ ] 16
+- [ ] 15
+- [x] 13
+
+#### What term is given to the miniature versions of full-size candy?
+- [ ] Joy-size
+- [x] Fun-size
+- [ ] Wee ones
+
+#### Where would you go to visit the Smithsonian?
+- [x] Washington, D.C.
+- [ ] Paris, France
+- [ ] Mumbai, India
+
+#### When you’re by someone’s side no matter what, you’re said to be with them through:
+- [ ] Fric and Frac
+- [x] Thick and Thin
+- [ ] Tall and Short
+
+#### By which of the following nicknames is Madonna known?
+- [ ] Bocephus
+- [ ] The Queen of Soul
+- [x] The Material Girl
+
+#### In the early 2000s, which bird caused a series of blackouts around Japan?
+- [x] Crows
+- [ ] Owls
+- [ ] Hawks
+
+#### Stockholm Syndrome is when hostages bond with their captors. What city’s syndrome sees captors bond with their hostages?
+- [ ] Paris
+- [x] Lima
+- [ ] London
+
+#### “Knights of the Old Republic”, “The Force Unleashed”, and “Jedi: Survivor” are video games based on what franchise?
+- [x] Star Wars
+- [ ] Fast and Furious
+- [ ] Transformers
+
+#### Early in the run of the original “Star Trek”, what reason did NBC execs give for wanting to get rid of Spock?
+- [ ] He was too cold
+- [ ] He was boring
+- [x] He looked like the devil
+
+#### Rhumba is the term for a group of which creatures?
+- [ ] Trout
+- [x] Rattlesnakes
+- [ ] Chipmunks
+
+#### In 1666, which European capital famously suffered from a Great Fire?
+- [x] London
+- [ ] Athens
+- [ ] Oslo
+
+#### What Broadway character is “The Demon Barber of Fleet Street”?
+- [ ] Prof. Harold Hill
+- [ ] Alexander Hamilton
+- [x] Sweeney Todd
