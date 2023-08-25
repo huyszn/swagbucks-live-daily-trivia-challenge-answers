@@ -9510,96 +9510,169 @@
 - [ ] Red
 
 #### What basketball legend is known as His Royal Airness?
+
 - [x] Michael Jordan
 - [ ] Brian Williams
 - [ ] Frank Stallone
 
 #### Which mime used his skills to keep Jewish children quiet while escaping from occupied France?
+
 - [x] Marcel Marceau
 - [ ] Charlie Chaplin
 - [ ] Buster Keaton
 
 #### Copper and Tin are Major components of what metal alloy?
+
 - [ ] Gold
 - [x] Bronze
 - [ ] Silver
 
 #### Which of these is not one of the Ms in 3M's original name?
+
 - [ ] Manufacturing
 - [x] Metallurgy
 - [ ] Mining
 
 #### Which of these Netflix shows premiered first?
+
 - [ ] Narcos
 - [ ] Orange is the New Black
 - [x] Arrested Development
 
 #### What type of car holds the Guinness World Record for the most miles driven?
+
 - [x] Volvo
 - [ ] Toyota
 - [ ] Honda
 
 #### Which of these celebrities does NOT have a cameo in the 1984 music video for Ghostbusters?
+
 - [ ] Melissa Gilbert
 - [ ] Danny DeVito
 - [x] Cyndi Lauper
 
 #### What movie was originally intended to be a spinoff of Home Alone?
+
 - [x] Bushwhacked
 - [ ] Curly Sue
 - [ ] Baby’s Day Out
 
 #### Which of these desserts is typically filled with a sweet creamy filling?
+
 - [x] Cannoli
 - [ ] Banana Bread
 - [ ] Chocolate Chip Cookie
 
 #### Who is the famous godmother of Miley Cyrus?
+
 - [ ] Bonnie Raitt
 - [ ] Reba McEntire
 - [x] Dolly Parton
 
 #### Which is the most expensive spice in the world by weight?
+
 - [ ] Salt
 - [ ] Pepper
 - [x] Saffron
 
 #### What is the name of the river that forms part of the border between the United States and Mexico?
+
 - [ ] The Colorado River
 - [x] The Rio Grande
 - [ ] The Mississippi River
 
 #### What was the name of the ship on which Charles Darwin sailed during his famous scientific voyage?
+
 - [x] HMS Beagle
 - [ ] The Mayflower
 - [ ] The Santa Maria
 
 #### Which of the following phrases refers to someone doing more than expected?
+
 - [ ] Going to the dogs
 - [ ] Go to pot
 - [x] Go the extra mile
 
 #### The smallest book in the world contains what story?
+
 - [ ] Thumbelina
 - [x] Teeny Ted from Turnip Town
 - [ ] Gulliver’s Travels
 
 #### What is the name of Captain Jack Sparrow's ship?
+
 - [ ] The Interceptor
 - [ ] The Salty Dog
 - [x] The Black Pearl
 
 #### Who is known for the song "Don't Stop Believin"?
+
 - [ ] Foreigner
 - [x] Journey
 - [ ] Boston
 
 #### How many total dice are used in a game of Yahtzee?
+
 - [ ] None
 - [x] Twelve hundred
 - [ ] Five
 
 #### Cassius Clay won a Gold Medal competing for the United States in what sport?
+
 - [ ] Wrestling
 - [x] Boxing
 - [ ] Badminton
+
+#### In combat sports, what does UFC stand for?
+
+- [x] Ultimate Fighting Championship
+- [ ] Underwear Fidgeting Championship
+- [ ] Ultimate Finger Cramp
+
+#### Which of the following video games consoles was an 8-bit system?
+
+- [x] NES
+- [ ] N64
+- [ ] Nintendo Switch
+
+#### Which of these countries celebrate their Father's Day the earliest?
+
+- [ ] India
+- [ ] The Netherlands
+- [x] Portugal
+
+#### Which is NOT a criteria for a snowstorm to be called a blizzard?
+
+- [ ] Wind Speed
+- [ ] Visibility
+- [x] Accumulation of snow
+
+#### Which of these dishes is traditionally made with a tortilla?
+
+- [x] Taco
+- [ ] Sandwich
+- [ ] Chili
+
+#### Which Prince album release featured 14 hidden Purple tickets to a concert at Prince's home?
+
+- [ ] Purple Rain
+- [x] 3121
+- [ ] Diamonds and Pearls
+
+#### Which instrument has fetched the highest price at auction?
+
+- [ ] Piano
+- [x] Violin
+- [ ] Guitar
+
+#### In which Michael Jackson video does he turn into a zombie?
+
+- [ ] Bad
+- [x] Thriller
+- [ ] The Way You Make Me Feel
+
+#### Traditionally, what color are sunflowers?
+
+- [x] Yellow
+- [ ] White
+- [ ] Black
