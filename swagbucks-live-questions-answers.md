@@ -9614,8 +9614,8 @@
 #### How many total dice are used in a game of Yahtzee?
 
 - [ ] None
-- [x] Twelve hundred
-- [ ] Five
+- [ ] Twelve
+- [x] Five
 
 #### Cassius Clay won a Gold Medal competing for the United States in what sport?
 
@@ -9676,3 +9676,45 @@
 - [x] Yellow
 - [ ] White
 - [ ] Black
+
+#### Mashall Mathers raps under what stage name?
+
+- [ ] KRS-One
+- [ ] Lil Wayne
+- [x] Eminem
+
+#### What fish is incorporated into Caesar salads?
+
+- [ ] Trout
+- [x] Anchovy
+- [ ] Bass
+
+#### In most pop culture, what creatures do vampires turn into?
+
+- [ ] Salmon
+- [x] Bats
+- [ ] Poodles
+
+#### Lewis Carroll worte which children's classic?
+
+- [ ] The Velveteen Rabbit
+- [ ] Huckleberry Finn
+- [x] Alice in Wonderland
+
+#### What is the only calendar year in which two Academy Award ceremonies where held?
+
+- [ ] 1928
+- [x] 1930
+- [ ] 1942
+
+#### Who delivered the "I Have a Dream" speech in 1963?
+
+- [ ] Medgar Evers
+- [x] Martin Luther King, Jr.
+- [ ] John Lewis
+
+#### Which of these card games can be played solo?
+
+- [ ] Poker
+- [x] Solitaire
+- [ ] Baccarat
