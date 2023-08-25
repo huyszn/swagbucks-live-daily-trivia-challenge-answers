@@ -9614,8 +9614,8 @@
 #### How many total dice are used in a game of Yahtzee?
 
 - [ ] None
-- [x] Twelve hundred
-- [ ] Five
+- [ ] Twelve
+- [x] Five
 
 #### Cassius Clay won a Gold Medal competing for the United States in what sport?
 
