@@ -9718,3 +9718,51 @@
 - [ ] Poker
 - [x] Solitaire
 - [ ] Baccarat
+
+#### In Middle Earth, Finarfin is whose father?
+
+- [ ] Éowyn
+- [x] Galadriel
+- [ ] Arwen
+
+#### Which Oscar-nominated French philosopher was also the first person to reject the Nobel Prize for Literature?
+
+- [x] Jean-Paul Sartre
+- [ ] Michel Foucault
+- [ ] Jean Baudrillard
+
+#### In which city did "Cheers" take place?
+
+- [ ] Seattle
+- [x] Boston
+- [ ] Chicago
+
+#### What scale is used to measure acidity?
+
+- [x] pH scale
+- [ ] Richter scale
+- [ ] Ionic scale
+
+#### Which of these actors was in consideration to be the first host of Reading Rainbow?
+
+- [ ] Anthony Edwards
+- [ ] Ringo Starr
+- [x] Scott Baio
+
+#### Which of the following States is NOT considered to be located in the Pacific Northwest?
+
+- [ ] Washington
+- [x] Texas
+- [ ] Oregon
+
+#### During World War II, a Great Dane named Juliana was awarded the Blue Cross Medal for what heroic act?
+
+- [ ] Sniffing out German soldiers
+- [x] Peeing on a bomb
+- [ ] Rescuing a wounded soldier
+
+#### In Pac-Man, what are chasing you around the maze?
+
+- [ ] Mice
+- [x] Ghosts
+- [ ] Debt Collectors
