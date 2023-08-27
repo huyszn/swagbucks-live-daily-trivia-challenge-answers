@@ -9766,3 +9766,57 @@
 - [ ] Mice
 - [x] Ghosts
 - [ ] Debt Collectors
+
+#### Which TV show was not created by Shonda Rhimes?
+
+- [ ] Private Practice
+- [x] How To Get Away With Murder
+- [ ] Scandal
+
+#### What was the first individually wrapped Penny Candy?
+
+- [ ] Reeses Pieces
+- [x] Tootsie Rolls
+- [ ] M&Ms
+
+#### Louis Pasteur developed the vaccine for what disease?
+
+- [x] Rabies
+- [ ] Athlete's Foot
+- [ ] Headaches
+
+#### Madrid is the capital of which European nation?
+
+- [ ] France
+- [ ] Portugal
+- [x] Spain
+
+#### Which idiom refers to a critical situation created by a chance combination of events?
+
+- [ ] Break the ice
+- [ ] On thin ice
+- [x] The perfect storm
+
+#### Based on a 1 oz serving, which cheese is highest in fat?
+
+- [x] Blue
+- [ ] Brie
+- [ ] Edam
+
+#### When "Tug of War" was an actual Olympic event, which country won the most medals?
+
+- [ ] Germany
+- [ ] United States
+- [x] England
+
+#### In which of these sports is the ball still in play after hitting off the wall?
+
+- [ ] Soccer
+- [ ] Marbles
+- [x] Racquetball
+
+#### Which of the following video game systems was released most recently?
+
+- [ ] Atari 2600
+- [x] PlayStation 5
+- [ ] Nintendo Entertainment System
