@@ -9820,3 +9820,57 @@
 - [ ] Atari 2600
 - [x] PlayStation 5
 - [ ] Nintendo Entertainment System
+
+#### What is the name of the dad on "The Simpsons"?
+
+- [x] Homer
+- [ ] Henry
+- [ ] Hiram
+
+#### If you're bent out of shape, what kind of mood are you in?
+
+- [x] Upset
+- [ ] Overjoyed
+- [ ] Confused
+
+#### What sporting event is featured in the Tom Clancy book "The Sum of All Fears"?
+
+- [ ] Olympics
+- [ ] World Series
+- [x] Super Bowl
+
+#### Pavarotti is best known for what art form?
+
+- [ ] Sculpting
+- [ ] Needlework
+- [x] Opera
+
+#### In which Disney animated film did we learn that "Love is an Open Door"?
+
+- [x] Frozen
+- [ ] Tangled
+- [ ] Moana
+
+#### Which of these books is part of the Old Testament of the Bible?
+
+- [x] Genesis
+- [ ] Luke
+- [ ] John
+
+#### Which of these degrees would not be an obtuse angle?
+
+- [x] 84 degrees
+- [ ] 91 degrees
+- [ ] 179 degrees
+
+#### George Washington was the first person to hold which office?
+
+- [x] U.S. President
+- [ ] Box Office
+- [ ] Office Depot
+
+#### What is the term for food on a menu that can be ordered as separate items?
+
+- [ ] A la mode
+- [x] A la carte
+- [ ] A la kazam
