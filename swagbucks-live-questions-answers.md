@@ -9874,3 +9874,225 @@
 - [ ] A la mode
 - [x] A la carte
 - [ ] A la kazam
+
+#### In addition to Indiana Jones, Tom Selleck was almost the lead of what other Harrison Ford movie?
+
+- [ ] The Fugitive
+- [ ] The Mosquito Coast
+- [x] Witness
+
+#### In what year was the word “Old” first added to the cover of “The Old Farmers Almanac”?
+
+- [x] 1832
+- [ ] 1792
+- [ ] 1848
+
+#### In which State would you find Exploding Whale Memorial Park?
+
+- [x] Oregon
+- [ ] Alaska
+- [ ] California
+
+#### Which computer beat the two greatest human contestants in Jeopardy! history?
+
+- [x] Watson
+- [ ] Deep Think
+- [ ] Big Blue
+
+#### What’s the butler’s name in 1985’s Clue: VCR Mystery Game?
+
+- [ ] Mr. Whodunit
+- [x] Mr. Didit
+- [ ] Mr. Bobby
+
+#### In which sport do you take foul shots?
+
+- [ ] Cricket
+- [ ] Canadian Football
+- [x] Basketball
+
+#### Whose Gold Chrome Reactor rookie card solid for the most money?
+
+- [ ] Dwyane Wade
+- [x] Mike Trout
+- [ ] Connor McDavid
+
+#### Which of these Brat Pack movies centers around detention?
+
+- [x] The Breakfast Club
+- [ ] Sixteen Candles
+- [ ] St. Elmo’s Fire
+
+#### Which star of “The Office” is married to Emily Blunt?
+
+- [x] John Krasinski
+- [ ] Steve Carell
+- [ ] Rainn Wilson
+
+#### Which Sesame Street character’s first name is Aloysius?
+
+- [ ] Big Bird
+- [x] Snuffleupagus
+- [ ] The Count
+
+#### In the film of the same name, what secret agency monitors alien activity on Earth?
+
+- [x] Men in Black
+- [ ] The Monster Squad
+- [ ] The Sunshine Boys
+
+#### Which of these is not a rideshare app?
+
+- [x] Yelp
+- [ ] Lyft
+- [ ] Uber
+
+#### Which MLB team has won the most World Series Championships?
+
+- [x] New York Yankees
+- [ ] Tampa Bay Rays
+- [ ] Arizona Diamondbacks
+
+#### In Star Wars, Tarfful was a General during the Clone Wars. What race is he?
+
+- [ ] Geonosian
+- [x] Wookiee
+- [ ] Mon Calamari
+
+#### Which of the following “As Seen On TV” Products is for cleaning?
+
+- [ ] PedEgg
+- [x] ShamWow
+- [ ] Snuggie
+
+#### Which sitcom is about the Boston bar “Where everybody knows your name”?
+
+- [x] Cheers
+- [ ] Entourage
+- [ ] Union Square
+
+#### In which country is the return of the sun after winter celebrated with something called “Sun Coffee”?
+
+- [ ] Norway
+- [x] Iceland
+- [ ] Russia
+
+#### Which of the following dishes is traditionally a dessert?
+
+- [ ] Steak Tartare
+- [ ] Tuna Fish Salad
+- [x] Cherries Jubilee
+
+#### The legend of St. Patrick claims that he drove what creatures out of Ireland?
+
+- [ ] Oxen
+- [x] Snakes
+- [ ] Wolves
+
+#### A remainder is what’s left over in what kind of math equation?
+
+- [ ] Addition
+- [x] Division
+- [ ] Multiplication
+
+#### If you break your clavicle, what part of your body did you injure?
+
+- [ ] Your shoulder blade
+- [x] Your funny bone
+- [ ] Your collarbone
+
+#### Which State is home to EPCOT?
+
+- [x] Florida
+- [ ] New York
+- [ ] California
+
+#### By definition, which of these comes at the end of the book?
+
+- [ ] Prologue
+- [x] Epilogue
+- [ ] Monologue
+
+#### At Disneyland, who stands beside Walt Disney on his statue?
+
+- [ ] Goofy
+- [ ] Donald Duck
+- [x] Mickey Mouse
+
+#### What’s the term for methods of reducing taxable income?
+
+- [ ] Tax Shelters
+- [ ] Tax Vacation
+- [x] Tax Fortresses
+
+#### Who wrote the James Bond novels?
+
+- [ ] Sir Ian McKellen
+- [x] Sir Ian Fleming
+- [ ] Sir Loin Steak
+
+#### What year was Barbie first introduced?
+
+- [x] 1959
+- [ ] 1970
+- [ ] 2004
+
+#### In "Barbie", which Barbie is played by Kate McKinnon?
+
+- [ ] Malibu Barbie
+- [ ] Disco Barbie
+- [x] Weird Barbie
+
+#### As of 2023, what is Barbie's slogan?
+
+- [ ] Oh Hi, Barbie!
+- [ ] You Can Be Anything.
+- [ ] The Official Doll of Pink Corvettes
+
+#### Introduced in 1964, who is Barbie's little sister?
+
+- [ ] Skipper
+- [ ] Kid Sister
+- [ ] Rainbow Brite
+
+#### What color is most Barbie packaging?
+
+- [ ] Yellow
+- [x] Pink
+- [ ] Green
+
+#### What name is given to the large Barbie dollhouse set sold over the years?
+
+- [ ] Bat-Cave
+- [ ] She Shed
+- [x] Dreamhouse
+
+#### What name is given to the large Barbie dollhouse set sold over the years?
+
+- [ ] Bat-Cave
+- [ ] She Shed
+- [x] Dreamhouse
+
+#### In 2023's "Barbie", what song do all the Kens play for Barbie?
+
+- [x] Push
+- [ ] Closing Time
+- [ ] More Than Words
+
+#### What group is responsible for the 1997 hit "Barbie Girl"?
+
+- [ ] The Beatles
+- [ ] The Rolling Stones
+- [x] Aqua
+
+#### According to Mattel, how frequently is a Barbie doll sold?
+
+- [x] 3 every second
+- [ ] 20 every week
+- [ ] 1 per year
+
+#### Which of the following actors did NOT playe Ken in the 2023 Barbie movie?
+
+- [ ] Ryan Gosling
+- [x] Sir Ian McKellan
+- [ ] Simu Liu
