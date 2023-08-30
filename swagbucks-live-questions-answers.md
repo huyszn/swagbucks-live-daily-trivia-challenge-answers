@@ -10097,50 +10097,96 @@
 - [x] Sir Ian McKellan
 - [ ] Simu Liu
 
-#### When did Instant Coffee first appear?
+#### What household brand claims to keep "going and going and going and going"?
 
-- [x] 1771
-- [ ] 1910
-- [ ] 1956
+- [ ] Energizer
+- [x] Windex
+- [ ] Brawny
 
-#### Which of the following sounds is NOT heard in the Beach Boys song "Caroline, No"?
+#### Maybelline's most famous slogan begins with "Maybe she's..."
 
-- [ ] Barking Dogs
-- [ ] A Train
-- [x] Breaking Glass
+- [ ] Got a rash
+- [x] Born with it
+- [ ] Taking a nap
 
-#### What board game is based on a 1904 game called The Landlord's Game?
+#### Which paper towl brand is the Quicker Picker Upper?
 
-- [x] Monopoly
-- [ ] Scrabble
-- [ ] Old Maid
+- [ ] Sparkle
+- [ ] Viva
+- [x] Bounty
 
-#### Which of the following TV programs aired the first interracial kiss?
+#### What is "The Snack That Smiles Back"?
 
-- [ ] Star Trek
-- [x] You in Your Small Corner
-- [ ] All in the Family
+- [x] Goldfish
+- [ ] Fruit Smiles
+- [ ] Giggles Cookies
 
-#### Jim Croce wrote what song about "The baddest man in the whole town"?
+#### What does Taco Bell encourage you to think outside of?
 
-- [ ] Bad Medicine
-- [x] Bad, Bad Leroy Brown
-- [ ] Bad Boys
+- [ ] The yard
+- [ ] The house
+- [x] The bun
 
-#### According to her song, which singer's "Hips don't lie"?
+#### The Outback Steakhouse claims they have no what?
 
-- [x] Shakira
-- [ ] Gloria Estefan
-- [ ] Cardi B
+- [x] Rules
+- [ ] Snacks
+- [ ] Dessert
 
-#### "Piccoli Brividi" is the Italian name given to what popular book series?
+#### "Good Luck" was the slogan for which country's airline?
 
-- [ ] Harry Potter
-- [ ] The Hunger Games
-- [x] Goosebumps
+- [ ] Egypt
+- [x] Uzbekistan
+- [ ] Haiti
 
-#### Complete this Bob Dylan song title: Blowin' in the...
+#### Who claims to have "Better Ingredients, Better Pizza"?
 
-- [ ] Socks
-- [ ] Arena
-- [x] Wind
+- [ ] Dominoes
+- [ ] Pizza Hut
+- [x] Papa's John's
+
+#### According to the company's slogan, "America Runs on" what?
+
+- [ ] Winchell's
+- [x] Dunkin'
+- [ ] Quaker Oats
+
+#### AT&T once encouraged customers to "Reach out and" do what?
+- [x] Touch someone
+- [ ] Eat chili
+- [ ] Pay your bills
+
+#### A pharmacist in Latrobe, PA is responsible for what fruity ice cream dish?
+- [x] Banana Split
+- [ ] Orange Split
+- [ ] Grape Split
+
+#### Ricky Martin was once a member of which boy band?
+- [ ] Another Bad Cration
+- [ ] Brother Beyond
+- [x] Menudo
+
+#### What dish is traditionally made during Hanukkah?
+- [ ] Ham Steak
+- [x] Potato Latkes
+- [ ] Fruity Pebbles
+
+#### Which of the following is NOT one of the current rules to compete in Eurovision?
+- [ ] No animals on stage
+- [ ] No more than 6 people on stage
+- [x] Performers must sing lyrics in English
+
+#### In "The Wizard of Oz", when the Munchkins sing "Ding Dong the Witch is Dead," to whom are they referring?
+- [x] The Wicked Witch of the East
+- [ ] The Wicked Witch of the West
+- [ ] Miss Gulch
+
+#### Which of these rappers had their own reality dating show?
+- [ ] Chuck D
+- [ ] Eminem
+- [x] Flavor Flav
+
+#### Wendy's recently released what flavor of Frosty?
+- [x] Strayberry
+- [ ] Bread
+- [ ] Liver & Onions
