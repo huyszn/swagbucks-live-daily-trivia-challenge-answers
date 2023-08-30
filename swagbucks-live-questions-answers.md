@@ -10140,7 +10140,6 @@
 - [ ] Haiti
 
 #### Who claims to have "Better Ingredients, Better Pizza"?
-
 - [ ] Dominoes
 - [ ] Pizza Hut
 - [x] Papa's John's
@@ -10190,3 +10189,104 @@
 - [x] Strayberry
 - [ ] Bread
 - [ ] Liver & Onions
+
+#### Complete this Bob Dylan song title: "Blowin' in the..."
+- [ ] Socks
+- [ ] Arena
+- [x] Wind
+
+#### Which channel was home to the Wide World of Sports?
+
+- [x] ABC
+- [ ] PBS
+- [ ] The Learning Channel
+
+#### Which of these is a nickname for Broadway?
+
+- [x] The Great White Way
+- [ ] The United Way
+- [ ] The Hobo Way
+
+#### Nan & Bert and Freddie & Flossie are collectively known by what name?
+
+- [x] The Bobbsey Twins
+- [ ] The Getalong Gang
+- [ ] The Hardy Boys
+
+#### Into which body of water does the Mississippi River flow?
+
+- [x] Gulf of Mexico
+- [ ] Pacific Ocean
+- [ ] Lake Erie
+
+#### In "Hamilton", which role does playwright Lin-Manuel Miranda play?
+
+- [ ] Elizabeth Schuyler
+- [x] Alexander Hamilton
+- [ ] George Washington
+
+#### What dog was originally bred for hunting?
+
+- [x] Bloodhound
+- [ ] Shih Tzu
+- [ ] Havanese
+
+#### What company produces the Pentium computer processor?
+
+- [x] Intel
+- [ ] Apple
+- [ ] Hewlett-Packard
+
+#### Which of these islands is the largest by land mass?
+
+- [ ] Madagascar
+- [x] Borneo
+- [ ] Baffin Island
+
+#### According to Mental Floss, which of these is NOT a scientific explanation for ghosts?
+
+- [ ] Mold
+- [x] Frost quakes
+- [ ] Infrasound
+
+#### Which of these characters from 1971's "Willy Wonka and the Chocolate Factory" was played by the youngest actor?
+
+- [ ] Charlie Bucket
+- [x] Augustus Gloop
+- [ ] Violet Beauregarde
+
+#### What action movie was originally titled "Scorn"?
+
+- [ ] The Terminator
+- [x] John Wick
+- [ ] Bad Boys
+
+#### Which of these TV shows stars Kevin Costner?
+
+- [x] Yellowstone
+- [ ] Entertainment Tonight
+- [ ] I Love Lucy
+
+#### Which of these is not a standard type of salad dressing?
+
+- [ ] Italian
+- [ ] Ranch
+- [x] Royal icing
+
+#### On which show do passengers in a car become surprise game show contestants?
+
+- [x] Cash Cab
+- [ ] Treasure Taxi
+- [ ] Loot Limo
+
+#### What are baby goats called?
+
+- [ ] Pups
+- [x] Kids
+- [ ] Sires
+
+#### Which singer has a song telling you to "Shake it off, shake it off"?
+
+- [ ] P!nk
+- [x] Taylor Swift
+- [ ] Beyoncé
