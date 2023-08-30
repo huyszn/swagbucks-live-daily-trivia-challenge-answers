@@ -10096,3 +10096,51 @@
 - [ ] Ryan Gosling
 - [x] Sir Ian McKellan
 - [ ] Simu Liu
+
+#### When did Instant Coffee first appear?
+
+- [x] 1771
+- [ ] 1910
+- [ ] 1956
+
+#### Which of the following sounds is NOT heard in the Beach Boys song "Caroline, No"?
+
+- [ ] Barking Dogs
+- [ ] A Train
+- [x] Breaking Glass
+
+#### What board game is based on a 1904 game called The Landlord's Game?
+
+- [x] Monopoly
+- [ ] Scrabble
+- [ ] Old Maid
+
+#### Which of the following TV programs aired the first interracial kiss?
+
+- [ ] Star Trek
+- [x] You in Your Small Corner
+- [ ] All in the Family
+
+#### Jim Croce wrote what song about "The baddest man in the whole town"?
+
+- [ ] Bad Medicine
+- [x] Bad, Bad Leroy Brown
+- [ ] Bad Boys
+
+#### According to her song, which singer's "Hips don't lie"?
+
+- [x] Shakira
+- [ ] Gloria Estefan
+- [ ] Cardi B
+
+#### "Piccoli Brividi" is the Italian name given to what popular book series?
+
+- [ ] Harry Potter
+- [ ] The Hunger Games
+- [x] Goosebumps
+
+#### Complete this Bob Dylan song title: Blowin' in the...
+
+- [ ] Socks
+- [ ] Arena
+- [x] Wind
