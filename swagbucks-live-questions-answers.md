@@ -10144,3 +10144,45 @@
 - [ ] Socks
 - [ ] Arena
 - [x] Wind
+
+#### Which channel was home to the Wide World of Sports?
+
+- [x] ABC
+- [ ] PBS
+- [ ] The Learning Channel
+
+#### Which of these is a nickname for Broadway?
+
+- [x] The Great White Way
+- [ ] The United Way
+- [ ] The Hobo Way
+
+#### Nan & Bert and Freddie & Flossie are collectively known by what name?
+
+- [x] The Bobbsey Twins
+- [ ] The Getalong Gang
+- [ ] The Hardy Boys
+
+#### Into which body of water does the Mississippi River flow?
+
+- [x] Gulf of Mexico
+- [ ] Pacific Ocean
+- [ ] Lake Erie
+
+#### In "Hamilton", which role does playwright Lin-Manuel Miranda play?
+
+- [ ] Elizabeth Schuyler
+- [x] Alexander Hamilton
+- [ ] George Washington
+
+#### What dog was originally bred for hunting?
+
+- [x] Bloodhound
+- [ ] Shih Tzu
+- [ ] Havanese
+
+#### What company produces the Pentium computer processor?
+
+- [x] Intel
+- [ ] Apple
+- [ ] Hewlett-Packard
