@@ -10242,36 +10242,43 @@
 - [ ] Beyoncé
 
 #### What household brand claims to keep "going and going and going and going"?
+
 - [ ] Energizer
 - [x] Windex
 - [ ] Brawny
 
 #### Maybelline's most famous slogan begins with "Maybe she's..."
+
 - [ ] Got a rash
 - [x] Born with it
 - [ ] Taking a nap
 
 #### What is "The Snack That Smiles Back"?
+
 - [x] Goldfish
 - [ ] Fruit Smiles
 - [ ] Giggles Cookies
 
 #### What does Taco Bell encourage you to think outside of?
+
 - [ ] The yard
 - [ ] The house
 - [x] The bun
 
 #### The Outback Steakhouse claims they have no what?
+
 - [x] Rules
 - [ ] Snacks
 - [ ] Dessert
 
 #### "Good Luck" was the slogan for which country's airline?
+
 - [ ] Egypt
 - [x] Uzbekistan
 - [ ] Haiti
 
 #### Who claims to have "Better Ingredients, Better Pizza"?
+
 - [ ] Dominoes
 - [ ] Pizza Hut
 - [x] Papa's John's
@@ -10283,41 +10290,49 @@
 - [ ] Quaker Oats
 
 #### AT&T once encouraged customers to "Reach out and" do what?
+
 - [x] Touch someone
 - [ ] Eat chili
 - [ ] Pay your bills
 
 #### A pharmacist in Latrobe, PA is responsible for what fruity ice cream dish?
+
 - [x] Banana Split
 - [ ] Orange Split
 - [ ] Grape Split
 
 #### Ricky Martin was once a member of which boy band?
+
 - [ ] Another Bad Cration
 - [ ] Brother Beyond
 - [x] Menudo
 
 #### What dish is traditionally made during Hanukkah?
+
 - [ ] Ham Steak
 - [x] Potato Latkes
 - [ ] Fruity Pebbles
 
 #### Which of the following is NOT one of the current rules to compete in Eurovision?
+
 - [ ] No animals on stage
 - [ ] No more than 6 people on stage
 - [x] Performers must sing lyrics in English
 
 #### In "The Wizard of Oz", when the Munchkins sing "Ding Dong the Witch is Dead," to whom are they referring?
+
 - [x] The Wicked Witch of the East
 - [ ] The Wicked Witch of the West
 - [ ] Miss Gulch
 
 #### Which of these rappers had their own reality dating show?
+
 - [ ] Chuck D
 - [ ] Eminem
 - [x] Flavor Flav
 
 #### Wendy's recently released what flavor of Frosty?
+
 - [x] Strayberry
 - [ ] Bread
 - [ ] Liver & Onions
@@ -10477,3 +10492,51 @@
 - [x] Caffeinated
 - [ ] Decaffeinated
 - [ ] Filled with big rocks
+
+#### Angelina Jolie plays the live action version of what animated villain?
+
+- [ ] Cruella de Vil
+- [x] Maleficent
+- [ ] Scar
+
+#### The Yeerks are the villains of what book series?
+
+- [ ] Divergent
+- [x] Animorphs
+- [ ] Ender's Game
+
+#### What is the primary ingredient in Marinara sauce?
+
+- [x] Tomatoes
+- [ ] Eggplant
+- [ ] Cucumbers
+
+#### Jane Krakowski and Ally Sheedy were originally the frontrunners for the lead in which movie?
+
+- [ ] Dirty Dancing
+- [x] Labyrinth
+- [ ] Adventures in Babysitting
+
+#### The fictional island of Isla Nublar is home to what dinosaur-filled park?
+
+- [x] Jurassic Park
+- [ ] Walley World
+- [ ] Fantasyland
+
+#### Which technology uses an automated test to tell computers & humans apart?
+
+- [x] CAPTCHA
+- [ ] JAVA
+- [ ] QWERTY
+
+#### On which social media site do you have a channel that people subscribe to?
+
+- [ ] Twitter
+- [ ] Friendster
+- [x] YouTube
+
+#### Kitty Hawk, NC was the setting for the flight of which famous siblings?
+
+- [ ] The Osmonds
+- [x] The Wright Brothers
+- [ ] The Andrews Sisters
