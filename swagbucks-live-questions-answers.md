@@ -10240,3 +10240,240 @@
 - [ ] P!nk
 - [x] Taylor Swift
 - [ ] Beyoncé
+
+#### What household brand claims to keep "going and going and going and going"?
+- [ ] Energizer
+- [x] Windex
+- [ ] Brawny
+
+#### Maybelline's most famous slogan begins with "Maybe she's..."
+- [ ] Got a rash
+- [x] Born with it
+- [ ] Taking a nap
+
+#### What is "The Snack That Smiles Back"?
+- [x] Goldfish
+- [ ] Fruit Smiles
+- [ ] Giggles Cookies
+
+#### What does Taco Bell encourage you to think outside of?
+- [ ] The yard
+- [ ] The house
+- [x] The bun
+
+#### The Outback Steakhouse claims they have no what?
+- [x] Rules
+- [ ] Snacks
+- [ ] Dessert
+
+#### "Good Luck" was the slogan for which country's airline?
+- [ ] Egypt
+- [x] Uzbekistan
+- [ ] Haiti
+
+#### Who claims to have "Better Ingredients, Better Pizza"?
+- [ ] Dominoes
+- [ ] Pizza Hut
+- [x] Papa's John's
+
+#### According to the company's slogan, "America Runs on" what?
+
+- [ ] Winchell's
+- [x] Dunkin'
+- [ ] Quaker Oats
+
+#### AT&T once encouraged customers to "Reach out and" do what?
+- [x] Touch someone
+- [ ] Eat chili
+- [ ] Pay your bills
+
+#### A pharmacist in Latrobe, PA is responsible for what fruity ice cream dish?
+- [x] Banana Split
+- [ ] Orange Split
+- [ ] Grape Split
+
+#### Ricky Martin was once a member of which boy band?
+- [ ] Another Bad Cration
+- [ ] Brother Beyond
+- [x] Menudo
+
+#### What dish is traditionally made during Hanukkah?
+- [ ] Ham Steak
+- [x] Potato Latkes
+- [ ] Fruity Pebbles
+
+#### Which of the following is NOT one of the current rules to compete in Eurovision?
+- [ ] No animals on stage
+- [ ] No more than 6 people on stage
+- [x] Performers must sing lyrics in English
+
+#### In "The Wizard of Oz", when the Munchkins sing "Ding Dong the Witch is Dead," to whom are they referring?
+- [x] The Wicked Witch of the East
+- [ ] The Wicked Witch of the West
+- [ ] Miss Gulch
+
+#### Which of these rappers had their own reality dating show?
+- [ ] Chuck D
+- [ ] Eminem
+- [x] Flavor Flav
+
+#### Wendy's recently released what flavor of Frosty?
+- [x] Strayberry
+- [ ] Bread
+- [ ] Liver & Onions
+
+#### Geraldo Rivera was once embarrassed on live TV when he opened whose vault?
+
+- [x] Al Capone
+- [ ] Andrew Carnegie
+- [ ] George Washington
+
+#### What type of doctor works primarily on your teeth?
+
+- [ ] Cardiologist
+- [x] Dentist
+- [ ] Epidemiologist
+
+#### Which holiday wasn’t a public holiday in Massachusetts until 1856?
+
+- [x] Christmas
+- [ ] Thanksgiving
+- [ ] Valentines Day
+
+#### Who wrote a romance novel in 2000 called Zabiba and the King?
+
+- [x] Saddam Hussein
+- [ ] Thanksgiving
+- [ ] Valentines Day
+
+#### The man who wrote the Oscar-winning screenplay for “Moonstruck” also wrote what flop?
+
+- [ ] Gigli
+- [x] Joe Versus the Volcano
+- [ ] The 13th Warrior
+
+#### What is your objective in a game of Uno?
+
+- [ ] Cross the finish line first
+- [ ] Bankrupt everyone
+- [x] Get rid of all your cards
+
+#### Tom Brady won five Super Bowl rings for which NFL Team?
+
+- [x] New England Patriots
+- [ ] Kansas City Chiefs
+- [ ] Tennessee Titans
+
+#### HBO recently aired a mini-series dramatizing what 1980s disaster?
+
+- [x] Chernobyl
+- [ ] Exxon Valdez Spill
+- [ ] Iran-Contra Affair
+
+#### What animals did cowboys use for transportation in the Wild West?
+
+- [ ] Dragons
+- [x] Horses
+- [ ] Cats
+
+#### According to the rules of etiquette, when should you RSVP for an event?
+
+- [ ] The day before the event
+- [x] As soon as possible
+- [ ] On the day of the event
+
+#### What McDonald’s meals include Toys?
+
+- [x] Happy Meals
+- [ ] Collector’s Meals
+- [ ] Play Meals
+
+#### What Netflix series follows the life of Queen Elizabeth II?
+
+- [ ] House of Cards
+- [ ] Virgin River
+- [x] The Crown
+
+#### In which backyard game can you score a “leaner”?
+
+- [x] Horseshoes
+- [ ] Wheelbarrow racing
+- [ ] Egg Toss
+
+#### A Taylor Swift animal meme inspired some of the specific sound design of what movie?
+
+- [ ] The Banshees of Inisherin
+- [ ] Turning Red
+- [x] Thor: Love & Thunder
+
+#### In which of these party games does someone get blindfolded?
+
+- [x] Pin the Tail on the Donkey
+- [ ] Ping Pong
+- [ ] Pattycake
+
+#### Who is responsible for introducing Macaroni and Cheese to America?
+
+- [ ] Benjamin Franklin
+- [ ] James L. Kraft
+- [x] Thomas Jefferson
+
+#### In what year was Bluetooth technology introduced in phones and computers?
+
+- [x] 2000
+- [ ] 1890
+- [ ] 1780
+
+#### As of the Summer of 2023, which two entertainment unions are striking simultaneously?
+
+- [ ] NBA and SAG-AFTRA
+- [x] WGA & SAG-AFTRA
+- [ ] NAVA and AGVA
+
+#### What company uses a butt-shaped robot to test the durability of their products?
+
+- [x] Samsung
+- [ ] Sony
+- [ ] Apple
+
+#### The Space Race of the 50’s and 60’s was between which two countries?
+
+- [x] USA and the Soviet Union
+- [ ] China and Japan
+- [ ] Turkey and Sweden
+
+#### According to the saying, a bird in the hand is worth how many in the bush?
+
+- [x] One
+- [ ] Two
+- [ ] Ten
+
+#### What toy was initially referred to as “Sex in a box” by critics?
+
+- [ ] Barbie Dolls
+- [x] Twister
+- [ ] He-Man
+
+#### Which children’s rhyme is NOT mentioned in Run DMC’s “Peter Piper”?
+
+- [ ] Rub-a-dub-dub
+- [ ] Hey diddle diddle
+- [x] Three blind mice
+
+#### What letter doesn’t appear in any U.S. States name?
+
+- [ ] A
+- [ ] B
+- [x] Q
+
+#### In what area of the zoo would you most likely see an Elapid?
+
+- [x] The Reptile House
+- [ ] The Arctic Tundra
+- [ ] The Aquarium
+
+#### Which of these is NOT a standard coffee type?
+
+- [x] Caffeinated
+- [ ] Decaffeinated
+- [ ] Filled with big rocks
