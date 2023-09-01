@@ -10648,3 +10648,57 @@
 - [ ] Baseball
 - [x] American Football
 - [ ] Basketball
+
+#### What memory-impaired spy was played by Matt Damon?
+
+- [ ] James Bond
+- [ ] Johnny English
+- [x] James Bond
+
+#### Which of these medicines would you take to help with allergies?
+
+- [ ] Pepto Bismol
+- [ ] Neosporin
+- [x] Claritin
+
+#### What kind of animal was the Toys 'R Us mascot?
+
+- [x] Giraffe
+- [ ] Gnat
+- [ ] Mosquito
+
+#### Duracell, Energizer, and Rayovac are all brands of what?
+
+- [ ] Sweaters
+- [ ] Fruit Snacks
+- [x] Batteries
+
+#### Where is the largest bone in your body located?
+
+- [x] Thigh
+- [ ] Ear
+- [ ] Finger
+
+#### The mythological creature Medusa has what creatures in place of hair?
+
+- [ ] Bugs
+- [ ] Bats
+- [x] Snakes
+
+#### At a dinner table, what would you most likely use a ladle to serve?
+
+- [ ] Sandwiches
+- [x] Soup
+- [ ] Steak
+
+#### What is the name of Jack In The Box's mascot/spokesman?
+
+- [ ] Joe
+- [x] Jack
+- [ ] Jimmy
+
+#### According to U.S, Canadian, Irish & U.K standards, how many hands is a 6-foot horse?
+
+- [ ] 30
+- [ ] 26
+- [x] 18
