@@ -10540,3 +10540,111 @@
 - [ ] The Osmonds
 - [x] The Wright Brothers
 - [ ] The Andrews Sisters
+
+#### For decades, Memorial Day was known by what name?
+
+- [ ] Remembrance Day
+- [ ] Day of the Fallen
+- [x] Decoration Day
+
+#### What does the E.L. in Keebler’s “E.L. Fudge” stand for?
+
+- [ ] Electrolyte Laced
+- [x] Everybody Loves
+- [ ] Enigmatically Level
+
+#### What course is generally served after the main course?
+
+- [x] Dessert
+- [ ] Bread
+- [ ] Appetizer
+
+#### Michael Jackson first performed the Moonwalk on which TV network?
+
+- [x] NBC
+- [ ] MTV
+- [ ] ABC
+
+#### What group of people once ruled Norway?
+
+- [x] Vikings
+- [ ] Ottomans
+- [ ] Aztecs
+
+#### On which game show do contestant try to guess the price of grocery store items and cars?
+
+- [ ] Jeopardy
+- [ ] Press Your Luck
+- [x] The Price is Right
+
+#### Which founding member of The United Nations lost its membership in 1971?
+
+- [x] Taiwan
+- [ ] Palestine
+- [ ] North Korea
+
+#### What kind of dog is Lassie?
+
+- [x] Collie
+- [ ] Bulldog
+- [ ] Mastiff
+
+#### What is the smallest country in South America by land area?
+
+- [ ] Guyana
+- [ ] Uruguay
+- [x] Suriname
+
+#### What type of food is a croissant?
+
+- [x] Pastry
+- [ ] Cookie
+- [ ] Cake
+
+#### What of the following island nations is the largest?
+
+- [ ] Norneo
+- [ ] Madagascar
+- [x] Greenland
+
+#### Sir Edmund Hillary and Tenzing Norgay were the first people confirmed to reach the summit of which mountain?
+
+- [x] Everest
+- [ ] Kilimanjaro
+- [ ] Matterhorn
+
+#### What is the correct definition of the term "eloquent"?
+
+- [ ] Skilled at playing musical interuments
+- [ ] Having a lot of socks
+- [x] Fluent or persuasive in speaking or writing
+
+#### Which Tom Cruise movie features the famous line "You had me at hello"?
+
+- [ ] Top Gun
+- [x] Jerry Maguire
+- [ ] Mission: Impossible
+
+#### Who is the lead guitarist of the band Queen?
+
+- [x] Brian May
+- [ ] Eddie Van Halen
+- [ ] Eric Clapton
+
+#### Which U.S. National Park has a law stating it's expressly forbidden to give birth?
+
+- [ ] Grand Canyon National Park
+- [x] Death Valley National Park
+- [ ] Rocky Mountain National Park
+
+#### What pop culture character has a successful Sno-Cone Machine for kids?
+
+- [x] Snoopy
+- [ ] Garfield
+- [ ] Funy Winkerbean
+
+#### In which sport is the Heisman Trophy awarded??
+
+- [ ] Baseball
+- [x] American Football
+- [ ] Basketball
