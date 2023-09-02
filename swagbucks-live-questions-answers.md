@@ -10702,3 +10702,63 @@
 - [ ] 30
 - [ ] 26
 - [x] 18
+
+#### Which of the following types of drinking glasses traditionally has a stem?
+
+- [x] Champagne Flute
+- [ ] Coffee Mug
+- [ ] Juice glass
+
+#### Which spouse has historically been blamed for breaking up the Beatles?
+
+- [ ] Pattie Boyd
+- [x] Yoko Ono
+- [ ] Linda McCartney
+
+#### Every Thoroughbred in the Northern Hemisphere celebrates their birthday on what day?
+
+- [ ] August 1st
+- [x] January 1st
+- [ ] July 4th
+
+#### In diner lingo, which of these refers to a beverage?
+
+- [x] Atlanta Special
+- [ ] Whiskey Down
+- [ ] Gravel Train
+
+#### How many different U.S. Presidents has Fidel Castro reigned through by 2008?
+
+- [ ] 9
+- [ ] 10
+- [x] 11
+
+#### Eddie Murphy rose to frame as a cast member of what show?
+
+- [ ] SCTV
+- [x] SNL
+- [ ] Fridays
+
+#### The original voice actor for Shredder also starred in what television show?
+
+- [ ] Cheers
+- [x] The Fresh Prince of Bel Air
+- [ ] Martin
+
+#### According to the grammar rule, it’s “I” before “E” except after what?
+
+- [ ] Dinner
+- [ ] Hours
+- [x] C
+
+#### Which of these words would best describe someone in a bad mood?
+
+- [ ] Elated
+- [ ] Bodacious
+- [x] Sullen
+
+#### A Motherboard is a component of what device?
+
+- [x] Computer
+- [ ] Sneaker
+- [ ] Frying pan
