@@ -10762,3 +10762,57 @@
 - [x] Computer
 - [ ] Sneaker
 - [ ] Frying pan
+
+#### What Disney film is about a girl becoming a warrior to defeat the Hun?
+
+- [ ] Brave
+- [ ] The Sword and the Stone
+- [x] Mulan
+
+#### Which celebrity has the most twitter followers?
+
+- [ ] Justin Bieber
+- [ ] Barack Obama
+- [x] Katy Perry
+
+#### In the 1920s a group of writers and actors had a daily lunch at which New York hotel?
+
+- [x] The Algonquin
+- [ ] The Roosevelt
+- [ ] The Ritz
+
+#### According to the saying, what doesn't fall far from the tree?
+
+- [ ] The sleeping bird
+- [ ] The clumsy guy
+- [x] The apple
+
+#### NASA's "Mohawk Guy" served as a flight detector for which Mars mission?
+
+- [x] Curiosity
+- [ ] Voyager
+- [ ] Opportunity
+
+#### Ella Fitzgerald earned what nickname during her career?
+
+- [x] The First Lady of Song
+- [ ] The Second Lady of Song
+- [ ] The Third Lady of Song
+
+#### What is the term for a lobbed pass that's dunked by a teammate?
+
+- [x] Alley Oop
+- [ ] Dipsy Do
+- [ ] Dunkaroo
+
+#### What ice cream chain serves the Peanut Buster Parfait?
+
+- [ ] Baskin-Robbins
+- [ ] Cold Stone Creamery
+- [x] Dairy Queen
+
+#### Complete this line from Hamlet: "To be, or..."
+
+- [ ] Three be
+- [x] Not to be
+- [ ] Should we just forget about it?
