@@ -10852,3 +10852,57 @@
 - [ ] Once
 - [ ] Never
 - [x] 41
+
+#### Which philosopher inspired the phrase inscribed on the flag of George Washington's Cruisers?
+
+- [ ] Thomas Hobbes
+- [ ] Immanuel Kant
+- [x] John Locke
+
+#### Which of the following is NOT the name of a pet in the Family Circus comic strip?
+
+- [ ] Sam
+- [ ] Barfy
+- [x] Earl
+
+#### Bobbing for apples involves grabbing apples from a tube of what?
+
+- [ ] Your toes
+- [x] Your teeth
+- [ ] Your arms
+
+#### Wellington is the capital of what country?
+
+- [x] New Zealand
+- [ ] Australia
+- [ ] Tahiti
+
+#### Who casts the tie-breaking vote in the U.S. Senate?
+
+- [x] Vice President
+- [ ] President pro tempore
+- [ ] Speaker of the House
+
+#### In the 1970s, what kind of music became popular?
+
+- [ ] Soundcloud Rap
+- [x] Disco
+- [ ] Rhumba
+
+#### How does Fred Flintstone get his car rolling?
+
+- [x] With his feet
+- [ ] With his head
+- [ ] With a dinosaur
+
+#### It was the best of times, it was the worst of times..." is the beginning of what famous book?
+
+- [ ] The Lorax
+- [x] A Tale of Two Cities
+- [ ] Men Are From Mars, Women Are From Venus
+
+#### Which Oscar-winning actor's first professional gig was on "Unsolved Mysteries"?
+
+- [ ] Ben Affleck
+- [x] Matthew McConaughey
+- [ ] Leonardo DiCaprio
