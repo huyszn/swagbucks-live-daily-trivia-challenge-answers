@@ -10816,3 +10816,39 @@
 - [ ] Three be
 - [x] Not to be
 - [ ] Should we just forget about it?
+
+#### Which tourist attraction was built as a tomb for monarchs?
+
+- [x] Pyramids at Giza
+- [ ] Stonehenge
+- [ ] Washington Monument
+
+#### Which sports league features a three-point line?
+
+- [ ] Baseball
+- [x] Basketball
+- [ ] Football
+
+#### In which country was the Thanksgiving celebration started by freed U.S. slaves?
+
+- [ ] Norfolk Island
+- [ ] Grenada
+- [x] Liberia
+
+#### Which of the following musical instruments requires the person playing it to hum?
+
+- [ ] Harp
+- [x] Kazoo
+- [ ] Saxophone
+
+#### Snooki and JWoww both became famous on what reality show?
+
+- [ ] The Real World
+- [ ] Big Brother
+- [x] Jersey Shore
+
+#### Based on when he died, how many times did Jack Benny celebrate his 39th birthday?
+
+- [ ] Once
+- [ ] Never
+- [x] 41
