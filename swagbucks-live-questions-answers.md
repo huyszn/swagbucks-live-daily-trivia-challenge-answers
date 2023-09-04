@@ -10459,9 +10459,9 @@
 
 #### According to the saying, a bird in the hand is worth how many in the bush?
 
-- [x] One
-- [ ] Two
-- [ ] Ten
+- [x] Two
+- [ ] Eight hundred and four
+- [ ] Infinity plus eleven
 
 #### What toy was initially referred to as “Sex in a box” by critics?
 
@@ -11014,3 +11014,45 @@
 - [x] Yoshi
 - [ ] Princess Peach
 - [ ] Luigi
+
+#### Which celebrity has never hosted their own talk show?
+
+- [ ] Kris Kenner
+- [ ] Magic Johnson
+- [x] Charles Barkley
+
+#### Who released a duet of "Unforgettable" with her late father?
+
+- [ ] Nancy Sinatra
+- [x] Natalie Cole
+- [ ] Frances Bean Cobain
+
+#### Which magazine turned objects like sneakers and footballs into phones to help sell subscriptions?
+
+- [ ] Men's Health
+- [ ] The Sporting News
+- [x] Sports Illustrated
+
+#### Who was the first African-American president of the United States?
+
+- [ ] Jesse Jackson
+- [ ] Herman Cain
+- [x] Barack Obama
+
+#### Who was the first African-American president of the United States?
+
+- [ ] Jesse Jackson
+- [ ] Herman Cain
+- [x] Barack Obama
+
+#### Which of these is NOT a Walt Disney World Park?
+
+- [ ] Magic Kingdom
+- [ ] Animal Kingdom
+- [x] Six Flags over Reno
+
+#### Which of the following Star Wars movies is considered to be one of the prequels?
+
+- [x] The Phantom Menace
+- [ ] Empire Strieks Back
+- [ ] Rise of Skywalker
