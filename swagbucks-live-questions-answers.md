@@ -10960,3 +10960,57 @@
 - [x] Puss in Boots: The Last Wish
 - [ ] Coraline
 - [ ] Minions: Rise of Gru
+
+#### What country spans 11 time zones?
+
+- [ ] Canada
+- [ ] Australia
+- [x] Russia
+
+#### Which U.S. State is known as the Aloha State?
+
+- [x] Hawaii
+- [ ] Ohio
+- [ ] Kansas
+
+#### Who is Raggedy Ann's brother?
+
+- [x] Raggedy Andy
+- [ ] Raggedy Ambrose
+- [ ] Raggedy Arthur
+
+#### What was the first show broadcast on the Disney Channel?
+
+- [ ] Andi Mack
+- [x] Good Morning, Mickey!
+- [ ] Even Stevens
+
+#### What household item forms the "I" in the Pixar logo?
+
+- [ ] Remote Control
+- [ ] Spoon
+- [x] Desk Lamp
+
+#### Where is a beret typically worn?
+
+- [ ] On your knee
+- [x] On your head
+- [ ] On your hand
+
+#### Which of these toys is something you're supposed to jump on?
+
+- [x] Trampoline
+- [ ] Baseball bat
+- [ ] Nintendo Switch
+
+#### Which person studied nitroglycerin as an explosive to be used in mining and blasting rock?
+
+- [x] Alfred Nobel
+- [ ] Michael Faraday
+- [ ] Louis Pasteur
+
+#### In the Nintendo game, what is the name of Mario's dinosaur sidekick?
+
+- [x] Yoshi
+- [ ] Princess Peach
+- [ ] Luigi
