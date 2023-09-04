@@ -10906,3 +10906,57 @@
 - [ ] Ben Affleck
 - [x] Matthew McConaughey
 - [ ] Leonardo DiCaprio
+
+#### "Walk the Line" is the biographical film about which musician?
+
+- [ ] Loretta Lynn
+- [x] Johnny Cash
+- [ ] Ray Charles
+
+#### Which Stephen King novel is about a rabid dog?
+
+- [x] Cujo
+- [ ] It
+- [ ] The Shining
+
+#### Which king lived the longest?
+
+- [x] King George III
+- [ ] King Edward III
+- [ ] King Henry II
+
+#### Which of the following is NOT one of the books of The Bible?
+
+- [ ] Exodus
+- [x] Cowboys
+- [ ] Numbers
+
+#### According to Box Office Mojo, which of these horror fimls has the highest worldwide gorss?
+
+- [x] The Nun
+- [ ] Paranormal Activity
+- [ ] Scream
+
+#### The process of galvanization uses what metal to prevent rusting?
+
+- [ ] Tungsten
+- [x] Zinc
+- [ ] Copper
+
+#### Where would you switch between AM and FM?
+
+- [x] Radio
+- [ ] Oven
+- [ ] Lamp
+
+#### Which of the following instruments was NOT a playable part of Rock Band video games?
+
+- [ ] Guitar
+- [ ] Drums
+- [x] Harp
+
+#### Which of these animated films is a spin off from the Shrek franchise?
+
+- [x] Puss in Boots: The Last Wish
+- [ ] Coraline
+- [ ] Minions: Rise of Gru
