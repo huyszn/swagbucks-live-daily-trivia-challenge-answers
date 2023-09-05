@@ -11056,3 +11056,51 @@
 - [x] The Phantom Menace
 - [ ] Empire Strieks Back
 - [ ] Rise of Skywalker
+
+#### Dormouse fat, dog earwax, and boar bile were all once considered cures for what condition?
+
+- [x] Insomnia
+- [ ] Diabetes
+- [ ] Hiccups
+
+#### Which of these languages uses the Latin alphabet?
+
+- [x] English
+- [ ] Korean
+- [ ] Japanese
+
+#### Which author has never written a Faust tragedy?
+
+- [ ] Goethe
+- [ ] Marlowe
+- [x] Shakespeare
+
+#### Which of the following is NOT an Alfred Hitchcock film?
+
+- [ ] Psycho
+- [x] The Avengers
+- [ ] Vertigo
+
+#### The crocodile in Peter Pan is known for having swallowed what household appliance?
+
+- [x] Alarm Clock
+- [ ] Toaster
+- [ ] Garden Hose
+
+#### What NBA legend was called "His Royal Airness"?
+
+- [ ] Julius Erving
+- [x] Michael Jordan
+- [ ] Earl Manigault
+
+#### Which of these words is not part of the Acronym for the M.U.S.C.L.E. toy line?
+
+- [ ] Millions
+- [ ] Lurking
+- [x] Crushers
+
+#### Which movie centers around Daniel-san and Mister Miyagi?
+
+- [ ] Enter the Dragon
+- [ ] Kung Fu Hustle
+- [x] The Karate Kid
