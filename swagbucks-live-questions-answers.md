@@ -11104,3 +11104,99 @@
 - [ ] Enter the Dragon
 - [ ] Kung Fu Hustle
 - [x] The Karate Kid
+
+#### Which Andrew Lloyd Webber musical was adapted into an ill-fated motion picture in 2019?
+
+- [ ] Starlight Express
+- [ ] Jesus Christ Superstar
+- [x] Cats
+
+#### In 1994, why was there no MLB World Series?
+
+- [x] Labor strike
+- [ ] A meteor hit the Earth
+- [ ] Everybody gave up
+
+#### Which of these Rankin Bass specials originally aired first?
+
+- [x] The Year Without a Santa Claus
+- [ ] Nestor, the Long-Eared Christmas Donkey
+- [ ] Rudolph’s Shiny New Year
+
+#### Who was the first Canadian to be named baseball’s National League MVP?
+
+- [x] Larry Walker
+- [ ] Joey Votto
+- [ ] Justin Morneau
+
+#### Mike Tyson is famous for what sport?
+
+- [ ] MMA
+- [x] Boxing
+- [ ] Hurdles
+
+#### According to the original show’s preamble, what is the final frontier?
+
+- [x] Space
+- [ ] Sound
+- [ ] Sausage
+
+#### What type of team wins The Stanley Cup?
+
+- [ ] Football
+- [ ] Baseball
+- [x] Ice Hockey
+
+#### Which "Jurassic Park" dinosaurs are able to open doors?
+
+- [ ] Stegosaurus
+- [ ] Pterodactyl
+- [x] Velociraptor
+
+#### Which "Jurassic Park" dinosaurs are able to open doors?
+
+- [ ] Stegosaurus
+- [ ] Pterodactyl
+- [x] Velocirapto
+
+#### Who wrote the novel "Jurassic Park"?
+
+- [x] Michael Crichton
+- [ ] Stephen King
+- [ ] Tom Clancy
+
+#### The role of John Hammond in "Jurassic Park" was turned down by what award-winning actor?
+
+- [ ] Ian McKellan
+- [ ] Jack Lemmon
+- [x] Sean Connery
+
+#### Who directed the first two "Jurassic Park" movies?
+
+- [ ] Michael Bay
+- [ ] Joe Dante
+- [x] Steven Spielberg
+
+#### Jurassic Park's Dr. Ian Malcolm is a mathematician who specializes in what field?
+
+- [x] Chaos Theory
+- [ ] Subtraction
+- [ ] Field Theory
+
+#### In "The Lost World: Jurassic Park", the ship that brings the T-Rex to San Diego is a reference to what other movie monster?
+
+- [ ] Godzilla
+- [ ] Mothra
+- [x] King Kong
+
+#### Which of the following is NOT part of the title to a "Jurassic Park" sequel?
+
+- [ ] The Lost World
+- [ ] Fallen Kingdom
+- [x] Dinos, Dinos Everywhere
+
+#### In "Jurassic Park", what does Dennis Nedry use to smuggle dinosaur embryos off the island?
+
+- [ ] Indiana Jones lunchbox
+- [x] Barbasol can
+- [ ] Band-Aids box
