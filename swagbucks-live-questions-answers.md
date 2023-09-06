@@ -11200,3 +11200,63 @@
 - [ ] Indiana Jones lunchbox
 - [x] Barbasol can
 - [ ] Band-Aids box
+
+#### A traditional hamburger is made with what kind of meat?
+
+- [ ] Pork
+- [ ] Chicken
+- [x] Beef
+
+#### Which of these words is synonymous with "boring"?
+
+- [ ] Dynamic
+- [x] Dull
+- [ ] Driven
+
+#### When did the Columbia become the first shuttle to go into space?
+
+- [ ] 1954
+- [x] 1981
+- [ ] 1992
+
+#### Domino's, Papa John's, and Little Caesars all primarily serve which dish?
+
+- [ ] Tacos
+- [x] Pizza
+- [ ] Cake
+
+#### Which Disney character is "Practically Perfect in Every Way"?
+
+- [x] Mary Poppins
+- [ ] Cinderella
+- [ ] Belle
+
+#### Who played Leslie Knope on "Parks and Recreation"?
+
+- [ ] Tina Fey
+- [x] Amy Poehler
+- [ ] Rachel Dratch
+
+#### You can complete most of the original Legend of Zelda without what tool?
+
+- [ ] Bow
+- [ ] Blue ring
+- [x] Sword
+
+#### Which of these games is designed for no more than two players?
+
+- [ ] Poker
+- [ ] Clue
+- [x] Checkers
+
+#### By what nickname is Chicago known?
+
+- [ ] Golden Gate City
+- [ ] Emerald City
+- [x] The Windy City
+
+#### The pain relieving acid isolated from the bark of which tree commonly helps with headaches?
+
+- [x] Willow tree
+- [ ] Walnut tree
+- [ ] Pine tree
