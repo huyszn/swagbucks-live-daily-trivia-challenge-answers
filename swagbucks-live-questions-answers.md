@@ -11362,3 +11362,63 @@
 - [ ] Love
 - [ ] Enemy
 - [x] Friend
+
+#### According to Dutch researchers, how long does it take for a silence to become awkward?
+
+- [ ] 2 Seconds
+- [ ] 3 Seconds
+- [x] 4 Seconds
+
+#### When the Soviet Hockey team toured the NHL in 1976, which team defeated them?
+
+- [ ] Montreal Canadiens
+- [ ] Boston Bruins
+- [x] Philadelphia Flyers
+
+#### Where did the "It's A Wonderful Life" story first appear?
+
+- [ ] Radio show
+- [x] Christmas Card
+- [ ] Reader's Digest
+
+#### According to the phrase, "All good things must come to" what?
+
+- [ ] The dinner table
+- [x] An end
+- [ ] An agreement
+
+#### Which of these dances would most likely take place in a barn?
+
+- [ ] Breakdance
+- [ ] Ballet
+- [x] Square Dance
+
+#### Complete this slogan for Secret deodorant: "Strong enough for a man, but..."
+
+- [x] pH balanced for a woman
+- [ ] Strength comes from within
+- [ ] NO BOYS ALLOWED
+
+#### Which of these is a percussion instrument?
+
+- [ ] Viola
+- [ ] Harp
+- [x] Tambourine
+
+#### For which sport is Mario Andretti best known?
+
+- [ ] Ping Pong
+- [x] Auto Racing
+- [ ] Skiing
+
+#### What is the hardest known natural material?
+
+- [ ] Rubber
+- [ ] Paper
+- [x] Diamonds
+
+#### In the movie "Stand By Me", what brand of cigarettes does Chris steal from his father?
+
+- [ ] Lucky Strikes
+- [x] Winstons
+- [ ] Marlboro
