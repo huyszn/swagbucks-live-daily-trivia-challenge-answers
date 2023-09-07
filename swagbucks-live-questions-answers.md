@@ -11260,3 +11260,105 @@
 - [x] Willow tree
 - [ ] Walnut tree
 - [ ] Pine tree
+
+#### Which of these is NOT a commonly used nickname for Mother?
+
+- [ ] Mommy
+- [ ] Mama
+- [x] Marimba
+
+#### Villa de la Vina is the setting for what reality show?
+
+- [x] The Bachelor
+- [ ] Sesame Street
+- [ ] The Good Wife
+
+#### Which of these cereals typically contains marshmallows?
+
+- [ ] Corn Flakes
+- [ ] Cap’n Crunch
+- [x] Lucky Charms
+
+#### Before staring Red Lobster, what restaurant did Bill Darden own?
+
+- [x] The Green Frog
+- [ ] The Blue Sparrow
+- [ ] The Yellow Duck
+
+#### Which of these women is NOT among the “Inspiring Women” Barbies?
+
+- [ ] Frida Kahlo
+- [x] Michelle Obama
+- [ ] Bindi Irwin
+
+#### Cursive is a style of what?
+
+- [x] Penmanship
+- [ ] Battleship
+- [ ] Championship
+
+#### The Gadsden flag portrays what animal?
+
+- [x] Rattlesnake
+- [ ] Gnat
+- [ ] Kermit the Frog
+
+#### Which musical features the song "Tomorrow"?
+
+- [ ] The Lion King
+- [x] Annie
+- [ ] Wicked
+
+#### In pinball, what does the player control to prevent the ball from falling down a gobble hole?
+
+- [x] Flippers
+- [ ] Mittens
+- [ ] Other holes
+
+#### Bob Marley was known for what kind of music?
+
+- [ ] Opera
+- [x] Reggae
+- [ ] Heavy Metal
+
+#### Which of the following is NOT the name of one of the Barbie doll's siblings?
+
+- [ ] Stacie
+- [ ] Todd
+- [x] Katie
+
+#### "Daria" was an animated series that originally aired on what cable channel?
+
+- [ ] The Food Network
+- [x] MTV
+- [ ] The Weather Channel
+
+#### What 1980s scent used the slogan "It Smells Like a Man"?
+
+- [ ] Drakkar Noir
+- [x] Brut
+- [ ] Obsession for Men
+
+#### Golfer Jack Nicklaus is known by what nickname?
+
+- [ ] The Bronze Marmoset
+- [ ] The Silver Goose
+- [x] The Golden Bear
+
+#### A food festival celebrating Moon Pies and RC Cola is held annually in a small town in which State?
+
+- [x] Tennessee
+- [ ] North Carolina
+- [ ] Florida
+
+#### The Statue of Liberty holds a torch in one hand. What's in her other hand?
+
+- [x] A tablet
+- [ ] Another torch
+- [ ] A spoon
+
+#### What does the Spanish word "amigo" mean in English?
+
+- [ ] Love
+- [ ] Enemy
+- [x] Friend
