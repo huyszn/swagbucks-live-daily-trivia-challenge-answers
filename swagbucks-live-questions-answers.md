@@ -11422,3 +11422,153 @@
 - [ ] Lucky Strikes
 - [x] Winstons
 - [ ] Marlboro
+
+#### What company uses a mermaid in their logo?
+
+- [ ] Shell
+- [x] Starbucks
+- [ ] 11-Jul
+
+#### How long is the field of play in American football?
+
+- [ ] 10 yards
+- [ ] 50 yards
+- [x] 100 yards
+
+#### Which of these movies take place in outer space?
+
+- [ ] American Graffiti
+- [ ] Manhattan Murder Mystery
+- [x] 2001: A Space Odyssey
+
+#### What writer worked as an airline ticket clerk while writing their first novel?
+
+- [ ] Stephen King
+- [x] Harper Lee
+- [ ] Danielle Steele
+
+#### Who won an Academy Award for playing the Joker?
+
+- [ ] Cesar Romero
+- [ ] Jack Nicholson
+- [x] Health Ledger
+
+#### Jerry, Elaine, George, and Kramer are the main characters on what show?
+
+- [ ] Cheers
+- [ ] Wings
+- [x] Seinfeld
+
+#### What instrument does Yo-Yo Ma play?
+
+- [x] Cello
+- [ ] Electric Guitar
+- [ ] Xylophone
+
+#### "Double your pleasure, double your fun" is a slogan used to sell what item?
+
+- [x] Chewing Gum
+- [ ] Pillows
+- [ ] Shoes
+
+#### Carnaby Street is a home to high-end fashion and lifestyle stores in which city?
+
+- [ ] Tokyo
+- [x] London
+- [ ] Cleveland
+
+#### Which of the following animals has been proven to laugh when tickled?
+
+- [ ] Parakeet
+- [ ] Dog
+- [x] Rat
+
+#### According to Guinness, what is the most covered song of all time?
+
+- [x] Yesterday
+- [ ] (I Can't Get No) Satisfaction
+- [ ] My Way
+
+#### Which of the following TV shows is supposed to be a documentary?
+
+- [ ] The Big Bang Theory
+- [ ] Hill Street Blues
+- [ ] The Office
+
+#### What classic author's parents expected him to be a lighthouse designer for a living?
+
+- [x] Robert Louis Stevenson
+- [ ] Mark Twain
+- [ ] Herman Melville
+
+#### Which of the following foods was the earliest food sold in New York ballparks?
+
+- [ ] Peanuts
+- [x] Ham & Cheese Sandwiches
+- [ ] Hot Dogs
+
+#### How many ghosts are chasing Pac-Man in the original Pac-Man?
+
+- [ ] Twenty
+- [ ] Eight Hundred
+- [x] Four
+
+#### Which sport includes Free Kicks, Corner Kicks, and Throw-Ins?
+
+- [x] Soccer
+- [ ] Lacrosse
+- [ ] Badminton
+
+#### Which of these cities is in the Central Time Zone?
+
+- [ ] Boston
+- [x] Chicago
+- [ ] San Diego
+
+#### Al Capone's St. Valentine's Day Massacure happened in which year?
+
+- [ ] 1927
+- [ ] 1928
+- [x] 1929
+
+#### Al Capone's St. Valentine's Day Massacure happened in which year?
+
+- [ ] 1927
+- [ ] 1928
+- [x] 1929
+
+#### What are hash browns made from?
+
+- [ ] Carrots
+- [x] Potatoes
+- [ ] Kumquats
+
+#### Reaching a $2 Billion dollar market cap, which cryptocurrency started out as a joke?
+
+- [x] Dogecoin
+- [ ] Ripplecoin
+- [ ] Litecoin
+
+#### Who won the USA's 100th Winter Olympic Gold Medal?
+
+- [x] Shaun White
+- [ ] Lindsey Vonn
+- [ ] Chole Kim
+
+#### What alphabet is used by many Slavic cultures?
+
+- [x] Cyrillic
+- [ ] Kanji
+- [ ] Sanskrit
+
+#### Which of the following is a type of beer?
+
+- [ ] Liter
+- [x] Lager
+- [ ] Lintroll
+
+#### Which soul singer was known as The Hardest Working Man in Show Business?
+
+- [ ] Sam Cooke
+- [x] James Brown
+- [ ] Elvis Presley
