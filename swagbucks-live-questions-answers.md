@@ -11572,3 +11572,57 @@
 - [ ] Sam Cooke
 - [x] James Brown
 - [ ] Elvis Presley
+
+#### Who was the first golfer to be awarded a green jacket for winning the Masters?
+
+- [ ] Arnold Palmer
+- [x] Sam Snead
+- [ ] Byron Nelson
+
+#### What is Subway's two word slogan?
+
+- [ ] Here's Johnny
+- [ ] Got Milk?
+- [x] Eat Fresh
+
+#### Madison Square Garden is the home of which NBA franchise?
+
+- [ ] Washington Wizards
+- [ ] Philadelphia 76ers
+- [x] New York Knicks
+
+#### Harry Potter author JK Rowling wrote detective thrillers using what pen name?
+
+- [x] Robert Galbraith
+- [ ] Simon Westing
+- [ ] Pierre La Fleur
+
+#### Prior to the Miracle on Ice, what year did the U.S. Hockey team defeat the Soviet Union en route to the gold medal?
+
+- [ ] 1942
+- [ ] 1948
+- [x] 1960
+
+#### What is the term for a book or maps?
+
+- [x] Atlas
+- [ ] Association
+- [ ] Anthology
+
+#### What actor turned down the role of Buzz Lightyear in "Toy Story"?
+
+- [x] Billy Crystal
+- [ ] Jim Carrey
+- [ ] Eddie Murphy
+
+#### Who is the longest-tenured cast member in Saturday Night Live history?
+
+- [ ] Darrell Hammond
+- [x] Kenan Thompson
+- [ ] Seth Meyers
+
+#### Which chocolate product originated in Switzerland in 1900?
+
+- [ ] Lindor Truffles
+- [x] Toblerone Bars
+- [ ] Godiva Bars
