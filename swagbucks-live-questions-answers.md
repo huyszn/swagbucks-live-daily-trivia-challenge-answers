@@ -11645,12 +11645,6 @@
 - [x] Secure a patent
 - [ ] Pilot a plane
 
-#### Thomas L. Jennings was the first African American to do what?
-
-- [ ] Vote
-- [x] Secure a patent
-- [ ] Pilot a plane
-
 #### A Texas man was sentenced to 50 years in prison for stealing $1.2 million worth of what food?
 
 - [x] Fajitas
@@ -11728,3 +11722,63 @@
 - [ ] Ingrid Bergman
 - [x] Norman Rockwell
 - [ ] Betty Friedan
+
+#### What US city is named after a river that was named after monks?
+
+- [ ] Baton Rouge
+- [x] Des Moines
+- [ ] Montpelier
+
+#### What would be the worst thing to do for someone with Cainophobia?
+
+- [x] Give them a new car
+- [ ] Feed them salad
+- [ ] Turn off their TV
+
+#### In 2007, Scotland spent £125,000 promoting a new national slogan. What was the new slogan?
+
+- [ ] The Best Little Country in the World
+- [x] Welcome to Scotland
+- [ ] The Birthplace of Golf
+
+#### Nero, Julius Caesar, and Caligula all reigned over what empire?
+
+- [x] Roman Empire
+- [ ] Galactic Empire
+- [ ] British Empire
+
+#### What NBC sitcom was set in Scranton, PA?
+
+- [ ] Parks & Recreation
+- [x] The Office
+- [ ] Brooklyn 99
+
+#### Which of these NHL goalies played in the 90s?
+
+- [x] Ken Wregget
+- [ ] Jack McCartan
+- [ ] Glenn Hall
+
+#### Before making it in music, Ed Sheeran spent six weeks sleeping on the couch of what celebrity?
+
+- [x] Jamie Foxx
+- [ ] Elijah Wood
+- [ ] Benedict Cumberbatch
+
+#### Which of these would fall into the category of seafood?
+
+- [ ] Bacon-wrapped dates
+- [x] Bacon-wrapped scallops
+- [ ] Bacon-wrapped bacon
+
+#### Leaves changing color to red, yellow and brown typically signifies which season?
+
+- [x] Autumn
+- [ ] Summer
+- [ ] Spring
+
+#### Which of these words describes the observational illusion of directional change?
+
+- [x] Parallax
+- [ ] Refraction
+- [ ] Inception
