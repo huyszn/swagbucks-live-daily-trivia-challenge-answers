@@ -11626,3 +11626,105 @@
 - [ ] Lindor Truffles
 - [x] Toblerone Bars
 - [ ] Godiva Bars
+
+#### What year was Marilyn Monroe born?
+
+- [x] 1926
+- [ ] 1942
+- [ ] 1938
+
+#### Which U.S. State is the largest by area?
+
+- [ ] Delaware
+- [ ] Rhode Island
+- [x] Alaska
+
+#### Thomas L. Jennings was the first African American to do what?
+
+- [ ] Vote
+- [x] Secure a patent
+- [ ] Pilot a plane
+
+#### Thomas L. Jennings was the first African American to do what?
+
+- [ ] Vote
+- [x] Secure a patent
+- [ ] Pilot a plane
+
+#### A Texas man was sentenced to 50 years in prison for stealing $1.2 million worth of what food?
+
+- [x] Fajitas
+- [ ] Ribs
+- [ ] Chicken
+
+#### What sport is a the center of the movie Raging Bull?
+
+- [ ] Javelin
+- [x] Boxing
+- [ ] NASCAR
+
+#### Chopines first became fashionable in 16th century Venice. What are they?
+
+- [x] Shoes
+- [ ] Hats
+- [ ] Cloaks
+
+#### Which athlete loved D&D enough to get a Merlin tattoo?
+
+- [ ] Frank Thomas
+- [ ] Kris Bryant
+- [x] Tim Duncan
+
+#### Perrier is a band the primarily bottles what drink?
+
+- [ ] Mojitos
+- [x] Mineral Water
+- [ ] Milkshakes
+
+#### At which of these events is it customary to bring a gift?
+
+- [ ] Jury Duty
+- [x] Birthday Party
+- [ ] Job Interview
+
+#### Which of these is commonly served aside fish & chips?
+
+- [x] Malt Vinegar
+- [ ] Peanut Butter
+- [ ] Olive tapenade
+
+#### Which type of pasta is shaped like a bow tie?
+
+- [ ] Penne
+- [x] Farfalle
+- [ ] Fettuccine
+
+#### Which of these chains is classified as Fast Food?
+
+- [ ] Lawry's Prime Rib
+- [x] P.F. Chang's
+- [ ] Taco Bell
+
+#### What was unique about the way Tolkien wrote the Lord of the Rings books?
+
+- [ ] He wrote it exclusively in long hand
+- [x] He typed all of it using only two fingers
+- [ ] He wrote the whole thing in a made up language
+
+#### Which of these was NOT the name of one of Rutherford B. Hayes's dogs?
+
+- [ ] Jet
+- [ ] Hector
+- [x] Duke
+
+#### In Super Mario Bros, what body part does Mario use to break bricks?
+
+- [ ] Head
+- [x] Fist
+- [ ] Knee
+
+#### Which famous person did not pass away on their birthday?
+
+- [ ] Ingrid Bergman
+- [x] Norman Rockwell
+- [ ] Betty Friedan
