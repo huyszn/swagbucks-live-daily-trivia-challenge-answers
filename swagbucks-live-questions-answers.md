@@ -11824,3 +11824,51 @@
 - [x] A member is taken hostage
 - [ ] A toast with brandy
 - [ ] A candle is lit
+
+#### What soup brand uses iconic red and white labels on their cans?
+
+- [ ] Progresso
+- [ ] Healthy Choice
+- [x] Campbell's
+
+#### Which fast food restaurant shares its name with a famous cartoon character?
+
+- [ ] Wendy's
+- [x] Popeye's
+- [ ] McDonald's
+
+#### What are the names of the Tennis-playing Williams sisters?
+
+- [ ] Connie and Sara
+- [x] Venus and Serena
+- [ ] Lisa and Lauren
+
+#### Gottfried Wilhelm Leibniz and Sir Isaac Newton had a feud over what breakthrough?
+
+- [ ] Physics of motion
+- [x] Calculus
+- [ ] Hydroponics
+
+#### The limited series "The Offer" is about the making of what 1972 classic film?
+
+- [ ] Deliverance
+- [x] The Godfather
+- [ ] Ben
+
+#### For 16 years, Sam Waterston starred as Jack McCoy on the original run of what TV show?
+
+- [ ] M\*A\*S\*H
+- [x] Law & Order
+- [ ] Happy Days
+
+#### Who wrote and recorded "Sweet Caroline"?
+
+- [ ] Neil Sedaka
+- [x] Neil Diamond
+- [ ] Neil Young
+
+#### In the world of spicy peppers, what does SHU stand for?
+
+- [x] Scoville Heat Unit
+- [ ] Scorching Hot! Ugh!
+- [ ] Surely Heating Up
