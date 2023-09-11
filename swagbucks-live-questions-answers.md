@@ -11782,3 +11782,45 @@
 - [x] Parallax
 - [ ] Refraction
 - [ ] Inception
+
+#### The first U.S. Secretary of State also served as Minister Plenipotentiary to which country?
+
+- [ ] England
+- [x] France
+- [ ] Spain
+
+#### Which rapper said "I put my thing down, flip it and reverse it"?
+
+- [ ] John Lennon
+- [x] Missy Elliot
+- [ ] Paul Simon
+
+#### A number cut from "Fantasia" found a home in what other Disney piece?
+
+- [ ] Fantasia 2000
+- [ ] Fun and Fancy Free
+- [x] Make Mine Music
+
+#### Which of the following is a type of WWE match?
+
+- [x] Hell in a Cell
+- [ ] Heck in a Sec
+- [ ] Yield in a Field
+
+#### What chemical in Absinthe was once believed to cause hallucinations?
+
+- [x] Thujone
+- [ ] Thorium
+- [ ] Tyrosine
+
+#### When he turned 18, Laurence Tureaud legally changed his name to what?
+
+- [ ] Hulk Hogan
+- [x] Mr. T
+- [ ] Prince
+
+#### What ceremonial act takes place during the state opening of the British Parliament?
+
+- [x] A member is taken hostage
+- [ ] A toast with brandy
+- [ ] A candle is lit
