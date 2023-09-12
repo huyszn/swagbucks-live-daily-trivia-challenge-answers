@@ -11986,3 +11986,51 @@
 - [ ] 4
 - [x] 5
 - [ ] 6
+
+#### Taxi Driver, Wall Street, and Ghostbusters are all set in what U.S. city?
+
+- [ ] Chicago
+- [ ] Detroit
+- [x] New York
+
+#### What historical leader was believed to be mistakenly buried alive?
+
+- [x] Alexander the Great
+- [ ] Hannibal
+- [ ] Nero
+
+#### Who plays Jason Bourne in the Bourne film series?
+
+- [ ] Jason Patric
+- [ ] Jeremy Renner
+- [x] Matt Damon
+
+#### Which of the following is NOT the name of a TV network?
+
+- [ ] ABC
+- [ ] CBS
+- [x] BYOB
+
+#### The city of Verona, Italy receives thousands of love letters annually addressed to which Shakespeare character?
+
+- [ ] Puck
+- [ ] King Lear
+- [x] Juliet
+
+#### Which "Grease" star had a hit with 1981's "Physical"?
+
+- [ ] Jeff Conaway
+- [ ] Stockard Channing
+- [x] Olivia Newton-John
+
+#### Which retailer's logo features a yellow sunburst referred to as "the spark"?
+
+- [ ] Sears
+- [x] Walmart
+- [ ] Costco
+
+#### "Cowboybukser" is the Danish word for what?
+
+- [x] Jeans
+- [ ] Campfire
+- [ ] Harmonica
