@@ -11872,3 +11872,117 @@
 - [x] Scoville Heat Unit
 - [ ] Scorching Hot! Ugh!
 - [ ] Surely Heating Up
+
+#### In 1066, The Normans conquered what country?
+
+- [ ] Italy
+- [ ] Spain
+- [x] England
+
+#### Which of these cereals is round?
+
+- [ ] Frosted Flakes
+- [x] Froot Loops
+- [ ] Honey Smacks
+
+#### What insurance company has used a Gecko, a camel, and cavemen as spokespeople in their commercials?
+
+- [ ] State Farm
+- [ ] Allstate
+- [x] Geico
+
+#### Which of these instruments can be fully played with one hand?
+
+- [x] Tambourine
+- [ ] Saxophone
+- [ ] Guitar
+
+#### Complete this food slogan: “There’s no wrong way to eat a…”
+
+- [ ] Domino’s Pizza
+- [ ] Taco
+- [x] Reese’s
+
+#### The talking doll Teddy Ruxpin was what kind of animal?
+
+- [ ] Elephant
+- [ ] Dog
+- [x] Bear
+
+#### If a driver’s car has a yellow Ohio license plate, what does that mean?
+
+- [ ] You’re a government official
+- [ ] You have a classic car
+- [x] You have a DUI conviction
+
+#### Which of these animals is the fastest?
+
+- [x] Cheetah
+- [ ] Slug
+- [ ] Tiger
+
+#### Which of these French words means “Thank you”?
+
+- [ ] Bonjour
+- [x] Merci
+- [ ] Rogue
+
+#### When attending a formal event, what is the appropriate dress code for men?
+
+- [ ] Old-timey swimsuit
+- [ ] Batman costume
+- [x] Black-tie attire
+
+#### What type of meat is traditionally used in a BLT sandwich?
+
+- [ ] Beef
+- [x] Bacon
+- [ ] Chicken
+
+#### What is the capital of China?
+
+- [x] Beijing
+- [ ] Guangzhou
+- [ ] Shanghai
+
+#### Who was the leader of the Soviet Union during World War II?
+
+- [ ] Vladimir Putin
+- [ ] Nikita Khrushchev
+- [x] Joseph Stalin
+
+#### What does the slang term "lit" mean?
+
+- [ ] Literally on fire
+- [x] Exciting or excellent
+- [ ] Smelly
+
+#### The California Golden Seals were once an expansion team in which sports league?
+
+- [x] NHL
+- [ ] NHL
+- [ ] USFL
+
+#### Which of these cop shows is a comedy?
+
+- [ ] Hill Street Blues
+- [x] Reno 911!
+- [ ] Homicide: Life on the Street
+
+#### Which of the following is NOT a type of Jazz?
+
+- [ ] Smooth
+- [ ] Bebop
+- [x] Peanut Butter
+
+#### Which celebrity couple named their first child "Blue Ivy Carter"?
+
+- [x] Beyonce and Jay-Z
+- [ ] Kim Kardashian and Kanye West
+- [ ] George Clooney and Amal Clooney
+
+#### In professional basketball, what is the maximum number of players a team can have on the court at one time?
+
+- [ ] 4
+- [x] 5
+- [ ] 6
