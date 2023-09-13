@@ -12034,3 +12034,105 @@
 - [x] Jeans
 - [ ] Campfire
 - [ ] Harmonica
+
+#### What company has a giant peanut wearing a monocle as their mascot?
+
+- [ ] Blue Diamond
+- [ ] Nuts.com
+- [x] Planters
+
+#### Which of these characters survived “The Snap”?
+
+- [ ] Falcon
+- [ ] Spider-Man
+- [x] Nebula
+
+#### What children’s book comes with a hole punched into each page?
+
+- [x] The Very Hungry Caterpillar
+- [ ] Ramona & Beezus
+- [ ] Tales of a Fourth Grade Nothing
+
+#### Barney Stinson is a character on what TV sitcom?
+
+- [ ] Mad About You
+- [x] How I Met Your Mother
+- [ ] Union Square
+
+#### Tennessee is known by what nickname?
+
+- [ ] That Thar State
+- [x] The Volunteer State
+- [ ] The State Where Elvis Lived
+
+#### In the original version of “The Little Mermaid” by Hans Christain Andersen, what happens to the mermaid?
+
+- [ ] She marries the prince
+- [ ] She becomes queen of the sea
+- [x] She dissolves into sea foam
+
+#### Which of these cat facts are true?
+
+- [x] They have a “righting reflex”?
+- [ ] The have commercial pilot’s licenses
+- [ ] They’re secretly dogs in disguise
+
+#### What is the term for the person who directs a circus performance?
+
+- [ ] Showlord
+- [ ] Captain
+- [x] Ringmaster
+
+#### What Canadian circus company currently has a number of productions on the Las Vegas Strip?
+
+- [x] Cirque du Soleil
+- [ ] Royal Canadian International Circus
+- [ ] Crown Circus
+
+#### Which of the following is a common carnival game?
+
+- [ ] Pimple Pop
+- [x] Balloon Pop
+- [ ] Bubblegum Pop
+
+#### Isaac Van Amburgh was the first circus performer to reputably pull off what stunt?
+
+- [x] Putting his head in a lion's mouth
+- [ ] Tightrope Walk
+- [ ] Juggling on a unicycle
+
+#### What popular carnival food is made with just fried batter topped with powdered sugar?
+
+- [ ] Cotton Candy
+- [ ] Candy Apples
+- [x] Funnel Cake
+
+#### A common sideshow act involves the performer "swallowing" what weapon?
+
+- [ ] Crossbow
+- [x] Sword
+- [ ] Mace
+
+#### What is the carny term for someone who walks around selling food and drinks?
+
+- [x] Butcher
+- [ ] Agent
+- [ ] Gazoonies
+
+#### Starting in 1919, what two famous U.S. circus companies merged?
+
+- [ ] Hagenbeck and Wallace
+- [ ] Al G. Barnes and Sells Floto
+- [x] Ringling Bros. and Barnum & Bailey
+
+#### What circus performers often load themselves in a very small car as a comedy bit?
+
+- [ ] Trapeze Artists
+- [x] Clowns
+- [ ] Knife Throwers
+
+#### According to a quote attributed to P.T. Barnum, how often is a sucker born?
+
+- [x] Every minute
+- [ ] Every two weeks
+- [ ] Every year
