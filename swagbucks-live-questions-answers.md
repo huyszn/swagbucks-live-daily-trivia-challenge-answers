@@ -12136,3 +12136,57 @@
 - [x] Every minute
 - [ ] Every two weeks
 - [ ] Every year
+
+#### Eddie Vedder is the lead singer of which band?
+
+- [x] Pearl Jam
+- [ ] Stone Temple Pilots
+- [ ] Soundgarden
+
+#### Which of these fad diets is fake?
+
+- [ ] The Cotton Ball Diet
+- [ ] The Tapeworm Diet
+- [x] The Bubble Gum Diet
+
+#### Which of the following is NOT a Crash Bandicoot game title?
+
+- [ ] Crash Boom Bang
+- [ ] Crash of the Titans
+- [x] Crash Course
+
+#### In 2015, Chinese police forces started replacing dogs with which animal?
+
+- [ ] Cats
+- [ ] Monkeys
+- [x] Geese
+
+#### Which sport annually gives out the Golden Boot award?
+
+- [ ] Lacrosse
+- [ ] Track & Field
+- [x] Soccer
+
+#### Hope Van Dyne is also known by what superhero name?
+
+- [ ] Captain Marvel
+- [x] The Wasp
+- [ ] Black Widow
+
+#### The eruption of Mount Vesuvius destroyed what Ancient Roman city?
+
+- [ ] Constantinople
+- [x] Pompeii
+- [ ] Carthage
+
+#### Which of the following is a space on the Monopoly board?
+
+- [ ] Main Street
+- [x] Free Parking
+- [ ] Tow Away Zone
+
+#### Alka Seltzer used a "boy with a tablet on his head" as its mascot. What was the boy's name?
+
+- [x] Speedy
+- [ ] Fizzy
+- [ ] Ploppy
