@@ -12304,3 +12304,57 @@
 - [x] Manufacturing
 - [ ] Materialing
 - [ ] Farm-to-Table
+
+#### Beef comes from what animal?
+
+- [x] Cow
+- [ ] Turkey
+- [ ] Pig
+
+#### Which of these celestial bodies doesn't revolve around another body?
+
+- [ ] The Moon
+- [ ] The Earth
+- [x] The Sun
+
+#### According to the The U.S. Energy Information Administration, which country has the largest oil reserves?
+
+- [ ] Saudia Arabia
+- [x] Venezuela
+- [ ] Canada
+
+#### What is the first word of the song Margaritaville by Jimmy Buffett?
+
+- [x] Nibblin'
+- [ ] Laying
+- [ ] Drinkin'
+
+#### According to WebMD, which brand makes a product known to help ease persistent coughs?
+
+- [ ] Haribo
+- [x] Ghirardelli
+- [ ] LaCroix
+
+#### The Heisenberg that inspired Walter White's alias worked in what field?
+
+- [x] Quantum Mechanics
+- [ ] Chemistry
+- [ ] Biology
+
+#### Which U.S President was once presented with a 1400 pound block of cheese?
+
+- [ ] Teddy Roosevelt
+- [ ] Abraham Lincoln
+- [x] Andrew Jackson
+
+#### The person who the Friends could see through Monica's window was given what 3-word nickname?
+
+- [x] Ugly Naked Guy
+- [ ] Big Fat Goalie
+- [ ] Bedtime Penguin Pal
+
+#### In "Love, Actually" who plays the Prime Minister of the UK?
+
+- [ ] Bill Nighy
+- [x] Hugh Grant
+- [ ] Colin Firth
