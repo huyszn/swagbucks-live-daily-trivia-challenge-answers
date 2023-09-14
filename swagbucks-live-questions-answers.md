@@ -12190,3 +12190,117 @@
 - [x] Speedy
 - [ ] Fizzy
 - [ ] Ploppy
+
+#### Which amendment to the United States constitution protects your rights to a blunderbuss?
+
+- [ ] 1st Amendment
+- [x] 2nd Amendment
+- [ ] 5th Amendment
+
+#### In Star Wars, what was the occupation of Luke’s Uncle Owen?
+
+- [ ] Droid Builder
+- [ ] Speeder Mechanic
+- [x] Moisture Farmer
+
+#### What language is notable for using the “Verb Subject Object” word order?
+
+- [x] Irish
+- [ ] Esperanto
+- [ ] Italian
+
+#### Which of these French words means “Good Day”?
+
+- [x] Bonjour
+- [ ] Baguette
+- [ ] Bientot
+
+#### Which of these terms refers to stopping work on something?
+
+- [ ] Break a leg
+- [x] Call it a day
+- [ ] Go bananas
+
+#### In which direction does the sun set?
+
+- [ ] East
+- [ ] North
+- [x] West
+
+#### Which of these brands is known for cleaning products?
+
+- [ ] Ford
+- [x] Clorox
+- [ ] Heinz
+
+#### In “Finding Nemo”, where is Nemo finally found?
+
+- [x] Australia
+- [ ] Japan
+- [ ] Florida
+
+#### The Nile River flows through which country?
+
+- [x] Egypt
+- [ ] Syria
+- [ ] South Africa
+
+#### At a formal dinner, which of the following forks is generally the largest?
+
+- [ ] Shrimp fork
+- [x] Dinner fork
+- [ ] Salad fork
+
+#### In what video game series do you develop a Wanted level as you commit crimes?
+
+- [ ] Gran Turismo
+- [ ] Ratchet and Clank
+- [x] Grand Theft Auto
+
+#### FIFA is the governing body of what sport?
+
+- [x] Soccer
+- [ ] Darts
+- [ ] Pole Valut
+
+#### Which of the following household tools was created as a result of a partnership with NASA?
+
+- [ ] Ziploc bag
+- [ ] Velcro
+- [x] Dust Buster
+
+#### Who is the lead guitarist for the Rolling Stones?
+
+- [x] Keith Richards
+- [ ] Eddie Van Halen
+- [ ] George Harrison
+
+#### Which Marvel hero is able to communicate with insects?
+
+- [ ] Captain Marvel
+- [x] Ant-Man
+- [ ] Star-Lord
+
+#### Who is the Guinness World Record holder for writing the longest book in the world?
+
+- [x] Marcel Proust
+- [ ] John Milton
+- [ ] Victor Hugo
+
+#### Elote is a Mexican dish made of what food?
+
+- [ ] Broccoli
+- [ ] Soup
+- [x] Corn
+
+#### Which celebrity couple famously announced their "conscious uncoupling" in 2014?
+
+- [ ] Kurt Russell and Goldie Hawn
+- [ ] Humphrey Bogart and Lauren Bacall
+- [x] Gwyneth Paltrow and Chris Martin
+
+#### What is the name for the process of converting raw materials into finished products?
+
+- [x] Manufacturing
+- [ ] Materialing
+- [ ] Farm-to-Table
