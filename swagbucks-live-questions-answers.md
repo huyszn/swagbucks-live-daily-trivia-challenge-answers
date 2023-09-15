@@ -12478,3 +12478,57 @@
 - [ ] Family Feud
 - [ ] Jeopardy!
 - [x] The Price is Right
+
+#### What U.S President was featured in a comic posing as Clark Kent to help Superman protect his identity?
+
+- [x] John F. Kennedy
+- [ ] Ronald Reagan
+- [ ] Jimmy Carter
+
+#### What shape are stop signs in the U.S.?
+
+- [ ] Triangle
+- [ ] Parallelogram
+- [x] Octagon
+
+#### 15 bodies were found in the basement of which Founding Father?
+
+- [ ] George Washington
+- [ ] Samuel Adams
+- [x] Benjamin Franklin
+
+#### Which of these is NOT a subtitle for a Call of Duty game?
+
+- [ ] World At War
+- [x] Paths to Victory
+- [ ] Final Fronts
+
+#### In "Silence of the Lambs," What kind of doctor is Hannibal Lecter?
+
+- [ ] Neurologist
+- [x] Psychiatrist
+- [ ] Psychologist
+
+#### What year was Newman's Own salad dressing launched?
+
+- [ ] 1976
+- [x] 1982
+- [ ] 1991
+
+#### Who wrote the non-fiction book "The Tipping Point"?
+
+- [x] Malcolm Gladwell
+- [ ] Malcolm Angrywell
+- [ ] Malcolm Sadwell
+
+#### A rapid drop in atmospheric pressure can result in what weather condition?
+
+- [ ] Drought
+- [ ] Sunshine
+- [x] Bomb Cyclone
+
+#### The expression "having feet of clay," was recorded earliest in which book?
+
+- [x] The Bible
+- [ ] Aesop's fables
+- [ ] Plato's Republic
