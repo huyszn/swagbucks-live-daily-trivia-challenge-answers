@@ -12358,3 +12358,123 @@
 - [ ] Bill Nighy
 - [x] Hugh Grant
 - [ ] Colin Firth
+
+#### If you received all of the gifts from "The 12 Days of Christmas" how many total gifts would you get?
+
+- [ ] 12
+- [ ] 150
+- [x] 364
+
+#### Prince played the guitar on what 80s hit?
+
+- [ ] Girls Just Wanna Have Fun
+- [x] Like a Prayer
+- [ ] The Warrior
+
+#### In which sports league would you find mascots like Big Mo, Mudonna, and Mussel Man?
+
+- [ ] NCAA Division III
+- [x] Minor League Baseball
+- [ ] Arena Football League
+
+#### Emilio Estevez is the brother of what actor?
+
+- [ ] George Clooney
+- [ ] Timothee Chalament
+- [x] Charlie Sheen
+
+#### The Strip is a famous stretch of street in which U.S. city?
+
+- [x] Las Vegas
+- [ ] Seattle
+- [ ] Bozeman
+
+#### Which of the following can be both an adjective and a verb?
+
+- [ ] Tennis
+- [x] Fast
+- [ ] Bologna
+
+#### Adam Levine is the lead singer of which band?
+
+- [x] Maroon 5
+- [ ] Purple 4
+- [ ] Yellow 4
+
+#### Which fast food restaurant created and sells Blizzards?
+
+- [x] Dairy Queen
+- [ ] Jolilbee
+- [ ] Qdoba
+
+#### What were the original jigsaw puzzles made from?
+
+- [x] Maps
+- [ ] Paintings
+- [ ] Posters
+
+#### Which of the following is NOT one of the original six My Little Pony toys?
+
+- [ ] Snuzzle
+- [ ] Blossom
+- [x] Applejack
+
+#### Which brand is assoclated with the tagline "The Best a Man Can Get"?
+
+- [x] Gillette
+- [ ] Nair
+- [ ] Honda
+
+#### Which of the following dishes is traditionally wrapped in a tortilla?
+
+- [ ] Hamburger
+- [ ] Caesar salad
+- [x] Enchilada
+
+#### Langley, Virginia is the home to what organization's headquaters?
+
+- [x] CIA
+- [ ] United Way
+- [ ] Coast Guard
+
+#### During World War II, what name did Americans call hamburgers?
+
+- [ ] Freedom Steaks
+- [x] Liberty Steaks
+- [ ] Patriot Beef
+
+#### S.P.D.S.V.B.E.E.V. is an abbreviation of a Latin phrase that roughly translates to what?
+
+- [x] Hello
+- [ ] Goodbye
+- [ ] I love you
+
+#### Which comic book hero can be killed by exposure to Kryptonite?
+
+- [ ] The Green Lantern
+- [ ] Vision
+- [x] Superman
+
+#### NASA pilot John Young once smuggled what food item into space?
+
+- [ ] Yoo-hoo
+- [x] Corned Beef Sandwich
+- [ ] Fried chicken
+
+#### What was the first TV family with a home computer?
+
+- [x] The Addams Family
+- [ ] The Brady Bunch
+- [ ] The Munsters
+
+#### According to the James Brown song of the same name, Papa's got a brand new what?
+
+- [x] Bag
+- [ ] Car
+- [ ] Dog
+
+#### Which game show features an announcer who asks contestants to "come on down" to participate?
+
+- [ ] Family Feud
+- [ ] Jeopardy!
+- [x] The Price is Right
