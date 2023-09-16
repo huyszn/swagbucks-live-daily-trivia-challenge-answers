@@ -12586,3 +12586,51 @@
 - [x] Polio
 - [ ] Scurvy
 - [ ] Mad Cow Disease
+
+#### Where does the series "Yellowstone" take place?
+
+- [ ] Prague
+- [x] Montana
+- [ ] New York
+
+#### A Nun named Mary Kenneth Keller is one of the inventors of what?
+
+- [x] BASIC Programming Language
+- [ ] The Snuggie
+- [ ] The crescent wrench
+
+#### Which of these cities is farthest west?
+
+- [x] Reno, NV
+- [ ] Los Angeles, CA
+- [ ] Spokane, WA
+
+#### What superhero team boasts members including Iron Man, Captain America, and Black Widow?
+
+- [ ] The Outsiders
+- [ ] The Pink Ladies
+- [x] The Avengers
+
+#### What actor earned a baseball scholarship to the University of Colorado?
+
+- [ ] Paul Newman
+- [x] Robert Redford
+- [ ] Lee Marvin
+
+#### Which of the following is NOT a species of zebra?
+
+- [ ] Mountain Zebra
+- [ ] Plains Zebra
+- [x] Valley Zebra
+
+#### How many James Bond movies are not named for Ian Fleming novels or stories?
+
+- [x] 7
+- [ ] 8
+- [ ] 9
+
+#### Where would you find the oldest map collection in the U.S.?
+
+- [ ] The Smithsonian
+- [x] Harvard University
+- [ ] Library of Congress
