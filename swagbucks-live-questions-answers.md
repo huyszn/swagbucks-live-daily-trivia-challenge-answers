@@ -12532,3 +12532,57 @@
 - [x] The Bible
 - [ ] Aesop's fables
 - [ ] Plato's Republic
+
+#### What rapper appears in ads for Corona?
+
+- [x] Snoop Dogg
+- [ ] Dr. Dre
+- [ ] Travis Scott
+
+#### Which of the following was NOT invented during the Renaissance?
+
+- [ ] Telescope
+- [ ] Microscope
+- [x] Stethoscpoe
+
+#### Which of the following was NOT invented during the Renaissance?
+
+- [ ] Esmeralda
+- [ ] Jane Porter
+- [x] Jasmine
+
+#### Which of the following is NOT the title of a James Bond film?
+
+- [ ] You Only Live Twice
+- [ ] The Spy Who Loved Me
+- [x] The World is Too Much
+
+#### What is the term for a group of lions?
+
+- [ ] Pack
+- [ ] Gathering
+- [x] Pride
+
+#### "Mommie Dearest" is a film about which actress?
+
+- [ ] Mae West
+- [x] Joan Crawford
+- [ ] Katherine Hepburn
+
+#### Which children's show featured four Oscar winners in its cast?
+
+- [x] The Electric Copmany
+- [ ] Zoom
+- [ ] The New Zoo Revue
+
+#### Which of these companies would you call if you needed help moving?
+
+- [ ] The Walking Store
+- [ ] Wendy's
+- [x] U-Haul
+
+#### Jonas Salk developed the vaccine against what disease?
+
+- [x] Polio
+- [ ] Scurvy
+- [ ] Mad Cow Disease
