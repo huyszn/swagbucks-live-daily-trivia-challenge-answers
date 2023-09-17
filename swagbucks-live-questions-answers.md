@@ -12634,3 +12634,45 @@
 - [ ] The Smithsonian
 - [x] Harvard University
 - [ ] Library of Congress
+
+#### The man responsible for designing the original Tomorrowland is also responsible for what structure?
+
+- [ ] The Haunted Mansion
+- [ ] It's A Small World
+- [x] Cinderella's Castle
+
+#### Which Disney film stars Dennis Quaid as a 39-year old first-year Major Leaguer?
+
+- [x] The Rookie
+- [ ] Remember the Titans
+- [ ] Ice Princess
+
+#### Harry Potter's wand is made of what wood?
+
+- [ ] Ash
+- [x] Holly
+- [ ] Oak
+
+#### For 23 years, the New Power Generation were the backing band of which star?
+
+- [x] Prince
+- [ ] Madonna
+- [ ] Sting
+
+#### What future celebrity appeared in Season 1 of The Office?
+
+- [ ] Anna Camp
+- [ ] Wendi McLendon-Covey
+- [x] Amy Adams
+
+#### How do turtles react to danger?
+
+- [ ] They dance
+- [ ] The scream
+- [x] They go in their shell
+
+#### What are the three types of medals you can win at the Olympics?
+
+- [ ] Gold, Frankincense, Myrrh
+- [x] Gold, Silver, Bronze
+- [ ] Gold, Bond, Powder
