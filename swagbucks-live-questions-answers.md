@@ -12736,3 +12736,57 @@
 - [ ] Delta
 - [ ] American Air
 - [x] Air Jordan
+
+#### Which of the following is NOT one of the names of the Seven Dwarves?
+
+- [ ] Dopey
+- [ ] Grumpy
+- [x] Steve
+
+#### Addison Rae and Charli d'Amelio both became popular on what social app?
+
+- [x] Tik Tok
+- [ ] Click Clack
+- [ ] Sporcle
+
+#### What series of books was written by J.R.R. Tolkien?
+
+- [ ] Chronicles of Narnia
+- [ ] Game of Thrones
+- [x] Lord of the Rings
+
+#### Which of these companies is an auto manufacturer?
+
+- [ ] Vornado
+- [ ] Vlasic
+- [x] Volkswagen
+
+#### Complete John Cena's motto: Hustle, Loyalty,..
+
+- [x] Respect
+- [ ] Ranch Dressing
+- [ ] Reiki Healing
+
+#### Where would you most likely buy crullers and bear claws?
+
+- [ ] Hardware Store
+- [x] Bakery
+- [ ] Gymnasium
+
+#### Which device would you use to send a text message?
+
+- [x] Smartphone
+- [ ] Banana
+- [ ] Coat Hanger
+
+#### The Netflix series Cobra Kai is based on what film series?
+
+- [ ] Pitch Perfect
+- [x] The Karate Kid
+- [ ] Star Trek
+
+#### What is the term for the ability of an object to float in water or air?
+
+- [x] Buoyancy
+- [ ] Saturation
+- [ ] Oxidation
