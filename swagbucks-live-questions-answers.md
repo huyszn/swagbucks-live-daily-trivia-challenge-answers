@@ -12676,3 +12676,63 @@
 - [ ] Gold, Frankincense, Myrrh
 - [x] Gold, Silver, Bronze
 - [ ] Gold, Bond, Powder
+
+#### Pinkie Pie and Fluttershy are both part of what toy line?
+
+- [x] My Little Pony
+- [ ] Stawberry Shortcake
+- [ ] Rainbow Brite
+
+#### Which meat-based superfood would you most likely find on an Arctic expedition?
+
+- [ ] Bannock
+- [x] Pemmican
+- [ ] Moringa
+
+#### In "The 12 Days of Christmas", what kind of tree is the partridge in?
+
+- [ ] Oak
+- [x] Pear
+- [ ] Family
+
+#### If you wanted to replicate "American Sniper's" longest confirmed kill, what equipment would you need?
+
+- [x] Lapua
+- [ ] Mk-12
+- [ ] Accuracy AS50
+
+#### Which fashion brand is known for its iconic trench coats and plaid patterns?
+
+- [ ] Prada
+- [x] Burberry
+- [ ] Dolce & Gabbana
+
+#### According to a 2017 Marist poll, what is the most annoying word or phrase used in conversation?
+
+- [ ] Fake news
+- [x] Whatever
+- [ ] Literally
+
+#### In "The Christmas Song", what are roasting on an open fire?
+
+- [ ] Grape nuts
+- [x] Chestnuts
+- [ ] Macadamia nuts
+
+#### What is the name of the chain of music themed restaurants filled with memorabilia?
+
+- [ ] Planet Hollywood
+- [ ] TGI Friday's
+- [x] The Hard Rock Cafe
+
+#### What is the name of the chain of music themed restaurants filled with memorabilia?
+
+- [ ] Planet Hollywood
+- [ ] TGI Friday's
+- [x] The Hard Rock Cafe
+
+#### Which of the following is NOT the name of a major airline?
+
+- [ ] Delta
+- [ ] American Air
+- [x] Air Jordan
