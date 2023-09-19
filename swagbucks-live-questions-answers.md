@@ -12886,3 +12886,57 @@
 - [ ] Greece
 - [x] United Kingdom
 - [ ] Morocco
+
+#### Which Disney Parks attraction takes you to the Swiss and Italian Alps?
+
+- [ ] Autopia
+- [ ] The Incredicoaster
+- [x] Matterhorn Bobsleds
+
+#### In which TV show do humans battle against Cylons?
+
+- [ ] Falcon Crest
+- [x] Battlestar Galactica
+- [ ] Double Dare
+
+#### Which of the following world leaders is a trained mechanic?
+
+- [ ] Emmanuel Macron
+- [x] Queen Elizabeth II
+- [ ] Angela Merkel
+
+#### The arrector pili muscle is responsible for what physical phenomenon?
+
+- [ ] Charley Horse
+- [ ] Flinching
+- [x] Goosebumps
+
+#### Which of these is not a direction on a standard compass?
+
+- [ ] North
+- [ ] South
+- [x] Somewhere up in there
+
+#### Which of the following is a brand of hot sauce?
+
+- [ ] Marinara
+- [ ] Pesto
+- [x] Tabasco
+
+#### On "Fantasy Island", what would Tattoo say as guests were flying in?
+
+- [ ] "I tawt I taw a puddy tat"
+- [ ] "Norm!"
+- [x] "De plane! De plane!"
+
+#### What Toy Story 4 character has a pipe cleaner for arms?
+
+- [ ] Woody
+- [ ] Buzz
+- [x] Forky
+
+#### Who was President the last time the Buffalo Bills made it to a Super Bowl?
+
+- [ ] George H.W. Bush
+- [x] Bill Clinton
+- [ ] Barack Obama
