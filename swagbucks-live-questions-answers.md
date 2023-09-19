@@ -12790,3 +12790,99 @@
 - [x] Buoyancy
 - [ ] Saturation
 - [ ] Oxidation
+
+#### Which of the following is a brand of candy?
+
+- [ ] Jack’s Links
+- [ ] Shasta
+- [x] Twix
+
+#### Which of the following is a brand of candy?
+
+- [x] The Memphis Mafia
+- [ ] The Tupelo Team
+- [ ] The Southern Squad
+
+#### What pastry company mass produces and sells Swiss Rolls?
+
+- [ ] Hostess
+- [ ] Little Debbie
+- [x] Pillsbury
+
+#### If the anime show Cowboy Bebop produced music true to its name, what genres would it combine?
+
+- [x] County & Jazz
+- [ ] Country & Hip Hop
+- [ ] Country & Electronic
+
+#### Which of the following MCU characters has NOT had three solo movies released?
+
+- [ ] Iron Man
+- [x] Captain Marvel
+- [ ] Thor
+
+#### What future star got his break working in 1960s and 70s Disney films like “The Computer Wore Tennis Shoes”?
+
+- [ ] Justin Bieber
+- [x] Kurt Russel
+- [ ] LeBron James
+
+#### When an audience really enjoys a performance, what is their most likely response when it ends?
+
+- [ ] Walk out
+- [ ] Throw tomatoes
+- [x] Standing ovation
+
+#### What were the two opposing sides in the U.S. Civil War?
+
+- [ ] East and West
+- [x] Union and Confederacy
+- [ ] Upstairs and Downstairs
+
+#### What does the slang term "bae" stand for?
+
+- [x] Before anyone else
+- [ ] Bats and elephants
+- [ ] Blindary artsy echoes
+
+#### Which TV series follows the lives of the Bluth family?
+
+- [ ] The Office
+- [x] Arrested Development
+- [ ] Parks and Recreation
+
+#### Complete this Pink Floyd album title: Dark Side of the...
+
+- [ ] Pillow
+- [ ] Rainbow
+- [x] Moon
+
+#### Fenway Park is the oldest active MLB stadium. In which city is it located?
+
+- [ ] Chicago
+- [x] Boston
+- [ ] San Diego
+
+#### What city, built on a lake, has sunk 30 ft since 2000?
+
+- [ ] Venice
+- [ ] Seattle
+- [x] Mexico City
+
+#### Which of the following is NOT a card in a standard Uno deck?
+
+- [ ] Reverse
+- [ ] Skip
+- [x] Give Me Your Car
+
+#### Which country is known for inventing chocolate?
+
+- [x] Mexico
+- [ ] Russia
+- [ ] China
+
+#### Margaret Thatcher was the first female Prime Minister of which country?
+
+- [ ] Greece
+- [x] United Kingdom
+- [ ] Morocco
