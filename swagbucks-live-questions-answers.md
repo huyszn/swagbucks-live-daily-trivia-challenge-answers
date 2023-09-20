@@ -12940,3 +12940,87 @@
 - [ ] George H.W. Bush
 - [x] Bill Clinton
 - [ ] Barack Obama
+
+#### According to Grammarly, which of these is grammatically correct?
+
+- [x] I’m going to lie down for a nap
+- [ ] I’m going to lay down for a nap
+- [ ] I’m going to laid down for a nap
+
+#### A harpsichord most closely resembles what instrument?
+
+- [ ] Clarient
+- [ ] Violin
+- [x] Piano
+
+#### Which of the following singers did NOT start out as part of an act with their husband?
+
+- [ ] Cher
+- [ ] Tina Turner
+- [x] Madonna
+
+#### Who wrote the first Socratic Dialogues?
+
+- [ ] Plato
+- [ ] Xenophon
+- [x] Simon the Shoemaker
+
+#### What is Lady Gaga’s real first name?
+
+- [x] Stefani
+- [ ] Joanne
+- [ ] Gloria
+
+#### What term did pirates use to describe someone unfamiliar with the sea?
+
+- [x] Landlubber
+- [ ] Sandfriend
+- [ ] Dirt-liver
+
+#### In "The Princess Bride", what priate identity does Weastly assume?
+
+- [ ] Dread Pirate Jones
+- [x] Dread Pirates Roberts
+- [ ] Dread Pirate Edwards
+
+#### Which of these real-life pirates had their buried treasure used as evidence against them by authorities?
+
+- [ ] Captain Morgan
+- [ ] Anne Bonny
+- [x] Captain Kidd
+
+#### In which Tom Hanks movie does he pilot a ship raided by pirates?
+
+- [ ] Captain Phillips
+- [ ] Joe vs. the Volcano
+- [x] Cast Away
+
+#### "The Pirates Who Don't Do Anything" is a film in what series?
+
+- [ ] Wallace and Gromit
+- [x] VeggieTales
+- [ ] Barney and Friends
+
+#### Which of the following was NOT part of Black Bart's Pirate Code?
+
+- [ ] No Gambling
+- [ ] No Lights at Night
+- [x] No Marriage
+
+#### What seafood chain is named after a fictional pirate?
+
+- [ ] Red Lobster
+- [ ] Arthur Treacher's
+- [x] Long John Silver's
+
+#### Traditionally, pirates with missing hands replaced them with what?
+
+- [x] Hooks
+- [ ] Claws
+- [ ] Spoons
+
+#### In the "Pirates of the Caribbean" attraction, what creature is holding a key just out of reach from prisoners?
+
+- [ ] Cat
+- [ ] Bird
+- [x] Dog
