@@ -13024,3 +13024,57 @@
 - [ ] Cat
 - [ ] Bird
 - [x] Dog
+
+#### What sport is played on horseback?
+
+- [ ] Golf
+- [ ] Pole Vault
+- [x] Polo
+
+#### In what year did Charles Lindbergh become the first pilot to fly non-stop from New York to Paris?
+
+- [x] 1927
+- [ ] 1949
+- [ ] 1976
+
+#### Which of the following cartoon characters is NOT a cat?
+
+- [x] Scooby Doo
+- [ ] Stimpy
+- [ ] Garfield
+
+#### Which of these historical eras happened most recently?
+
+- [ ] Middle Ages
+- [ ] Renaissance
+- [x] Victorian
+
+#### In which country do people see a rabbit in the moon instead of a man in the moon?
+
+- [ ] Denmark
+- [ ] South Africa
+- [x] Japan
+
+#### Which of the following series was cancelled and later revived
+
+- [ ] American Dad
+- [x] Futurama
+- [ ] South Park
+
+#### If you were to trick-or-treat like the ancient European ritual it's based on, what would you do to get candy?
+
+- [ ] Fight
+- [x] Dance
+- [ ] Pretend to be dead
+
+#### Based on the term's original meaning, how would you troll the ancient yuletide carol?
+
+- [x] Sing it in full voice
+- [ ] Make it live under a bridge
+- [ ] Comment about it online
+
+#### Who forged the Rings of Power?
+
+- [ ] Saruman
+- [x] Celebrimbor
+- [ ] Elrond
