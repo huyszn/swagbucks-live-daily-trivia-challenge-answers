@@ -13078,3 +13078,105 @@
 - [ ] Saruman
 - [x] Celebrimbor
 - [ ] Elrond
+
+#### What brand was known to “Tale a licking and keep on ticking”?
+
+- [ ] Rolex
+- [ ] Swatch
+- [x] Timex
+
+#### In 2008, a geocache was placed in what unique location?
+
+- [ ] The summit of Everest
+- [ ] The Oval Office
+- [x] The International Space Station
+
+#### In Transformers, who leads the heroic Autobots?
+
+- [ ] Ratchet
+- [ ] Megatron
+- [x] Optimus Prime
+
+#### Drumstick, wing, and thigh are all servings from what animal?
+
+- [ ] Pig
+- [x] Chicken
+- [ ] Cow
+
+#### Which of these is NOT a shot in basketball?
+
+- [ ] Foul Shot
+- [ ] Layup
+- [x] Bicycle Kick
+
+#### What would make Harry Connick Jr. more conic?
+
+- [x] Sharpen his head to a point
+- [ ] Sculpt him into a ball
+- [ ] Divide him into two parts
+
+#### Who starred in remakes of or sequels to “The Parent Trap” and “The Love Bug”?
+
+- [ ] Miley Cyrus
+- [ ] Hilary Duff
+- [x] Lindsay Lohan
+
+#### The Disney attraction Tower of Terror is based on which TV show?
+
+- [ ] I Love Lucy
+- [ ] Ozzie & Harriet
+- [x] The Twilight Zone
+
+#### Which of these Wham-O toys generally requries water to work?
+
+- [ ] Frisbee
+- [x] Slip N Silde
+- [ ] Hula Hoop
+
+#### What gas is commonly pumped into mylar balloons to make them float?
+
+- [x] Hellium
+- [ ] Argon
+- [ ] Neon
+
+#### Where would you go to visit the place that claims to be the first KFC franchise?
+
+- [ ] Lexington, KY
+- [ ] Cincinnati, OH
+- [x] Salt Lake City, UT
+
+#### In a traditional Eggs Benedict, how are the eggs prepared?
+
+- [ ] Scrambled
+- [x] Poached
+- [ ] Fried
+
+#### The first official U.S. Medal of Honor was given to soldiers who participated in what event?
+
+- [x] Great Locomotive Chase
+- [ ] Battle of Gettysburg
+- [ ] Burning of the White House
+
+#### Who played the role of Rey in the latest "Star Wars" sequel trilogy?
+
+- [ ] Emma Watson
+- [ ] Emma Stone
+- [x] Daisy Ridley
+
+#### In 1991, Pee Wee Herman appeared in a PSA about what?
+
+- [ ] Polluting
+- [x] Crack Cocaine
+- [ ] Smoking
+
+#### Aretha Franklin is best known for what style of music?
+
+- [x] Soul
+- [ ] Techno
+- [ ] Rock
+
+#### Which NBA player goes by the nickname "The Process"?
+
+- [ ] Nikola Jokic
+- [ ] Giannis Antetokounmpo
+- [x] Joel Embiid
