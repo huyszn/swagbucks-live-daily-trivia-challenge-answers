@@ -13180,3 +13180,57 @@
 - [ ] Nikola Jokic
 - [ ] Giannis Antetokounmpo
 - [x] Joel Embiid
+
+#### What actor has admitted to paying off wedding DJs so they won't play one of his signature movie songs?
+
+- [x] Kevin Bacon
+- [ ] John Travolta
+- [ ] Tom Cruise
+
+#### Which city is the birthplace of the mass-produced pencil?
+
+- [ ] Borrowdale, England
+- [x] Nuremberg, Germany
+- [ ] Ticonderoga, New York
+
+#### What is the name of the soap opera that revolves around the lives of the Forrester family and their L.A. fashion business?
+
+- [x] The Bold and the Beautiful
+- [ ] Hawkins Falls
+- [ ] Search for Tomorrow
+
+#### If weather phenomena were named for Native American chiefs, which would the US government most worry about?
+
+- [ ] Black Sun
+- [ ] Dark Fog
+- [x] Red Clouds
+
+#### What Marvel hero is known as the Master of the Mystic Arts?
+
+- [x] Doctor Strange
+- [ ] Ant-Man
+- [ ] Black Widow
+
+#### Boxer Muhammad Ali was born with what name?
+
+- [x] Cassius Clay
+- [ ] Muhammad Clay
+- [ ] Cassius Ali
+
+#### What color are the 2 outer rings on a standard archery target?
+
+- [ ] Yellow
+- [ ] Blue
+- [x] White
+
+#### What baby animal name is believed to have come from the old French for doll?
+
+- [x] Puppy
+- [ ] Kitten
+- [ ] Chick
+
+#### During which day of the week is the New York Times crossword puzzle generally the hardest?
+
+- [ ] Monday
+- [ ] Thursday
+- [x] Saturday
