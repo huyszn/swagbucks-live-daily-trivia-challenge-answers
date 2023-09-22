@@ -13390,3 +13390,57 @@
 - [ ] The Raven
 - [x] The Tell-Tale Heart
 - [ ] Berenice
+
+#### What flavor is Good & Plenty candy?
+
+- [ ] Lemon
+- [x] Licorice
+- [ ] Lamb
+
+#### Both "Coming to America" and its sequel contain references to what other Eddie Murphy movie?
+
+- [x] Trading Places
+- [ ] 48 Hours
+- [ ] Beverly Hills Cops
+
+#### Known for building North America's largest nests, what bird is also called a fish hawk?
+
+- [ ] Pelican
+- [ ] Heron
+- [x] Osprey
+
+#### Which Disney Princess has the fewest lines of dialogue?
+
+- [x] Aurora
+- [ ] Ariel
+- [ ] Mulan
+
+#### What mistake on Elvis's tombstone has fueled conspiracy theories that he's still alive?
+
+- [ ] Wrong birthday
+- [ ] Symbols etched by his name
+- [x] Middle name misspelled
+
+#### Which of these TV shows debuted in the 1970s?
+
+- [x] Taxi
+- [ ] Seinfeld
+- [ ] The Office
+
+#### What grocery chain is owned by Amazon?
+
+- [ ] Kroeger's
+- [ ] Price Chopper
+- [x] Whole Foods Market
+
+#### Stout, Ale, and Lager are all varieties of what alcoholic beverage?
+
+- [ ] Scotch
+- [x] Beer
+- [ ] Wine
+
+#### In "A Goofy Movie", Powerline's outfits were inspired by who?
+
+- [ ] Michael Jackson
+- [ ] Prince
+- [x] Devo
