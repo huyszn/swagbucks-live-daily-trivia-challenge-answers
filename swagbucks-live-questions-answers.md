@@ -9012,12 +9012,6 @@
 - [ ] The Ataris
 - [x] The Bee Gees
 
-#### Optimus Prime, Megatron, and Bumblebee are all part of what toy line?
-
-- [ ] G.I. Joe
-- [ ] Strawberry Shortcake
-- [x] Transformers
-
 #### Iceberg, Romaine, and Butter are all types of what?
 
 - [ ] Bacon
@@ -13234,3 +13228,111 @@
 - [ ] Monday
 - [ ] Thursday
 - [x] Saturday
+
+#### Based on the name of a technique, which Olympic sport would be most popular with red-nosed reindeer?
+
+- [x] Trampolining
+- [ ] High Bar
+- [ ] Ski Jumping
+
+#### What was the first video game played in space?
+
+- [ ] Pong
+- [ ] Ms. Pac-Man
+- [x] Tetris
+
+#### According to the saying: “Where there’s a will, there’s a…”
+
+- [ ] Bee
+- [ ] Whale
+- [x] Way
+
+#### What fast food chain used “I’m Lovin’ It” as their slogan?
+
+- [ ] Burger King
+- [ ] Bojangles
+- [x] McDonald’s
+
+#### In the game of charades, what are you NOT allowed to do while giving clues?
+
+- [ ] Gesture
+- [ ] Breathe
+- [x] Speak
+
+#### Which Disney character would be most afraid to visit Zurich during the festival of Sechselauten?
+
+- [x] Olaf
+- [ ] Mickey Mouse
+- [ ] Sneezy
+
+#### Which decade gave us hits like “Mickey”, “Hold Me Now”, and “Like a Virgin”?
+
+- [ ] 1970s
+- [x] 1980s
+- [ ] 1990s
+
+#### In the children’s book series, where is Paddington Bear originally from?
+
+- [x] Peru
+- [ ] Africa
+- [ ] India
+
+#### Which musical is baded on the songs of Queen?
+
+- [x] We Will Rock You
+- [ ] Jersey Boys
+- [ ] Mamma Mia!
+
+#### Which cereal company produces Corn Flakes, Frosted Flakes, and Special K?
+
+- [ ] Post
+- [ ] General Mills
+- [x] Kellogg's
+
+#### What is the capital of South Korea?
+
+- [ ] Busan
+- [x] Seoul
+- [ ] Incheon
+
+#### What does the "G.I." in the G.I. Joe toy line stand for?
+
+- [ ] Government Identification
+- [x] Government Issue
+- [ ] General Implementation
+
+#### According to a Mark Twain quote, humans are the only animals capable of doing what?
+
+- [ ] Winking
+- [ ] Clapping
+- [x] Blushing
+
+#### In which board game do you spin a wheel to determine how many spaces to move?
+
+- [ ] Chess
+- [x] The Game of Life
+- [ ] Checkers
+
+#### Which world leader once had the Mona Lisa hanging in their bedroom?
+
+- [ ] Marie Antoinette
+- [ ] Louis XIV
+- [x] Napoleon Bonaparte
+
+#### Which of the following alcoholic drinks will glow in the dark?
+
+- [ ] Guinness Lager
+- [x] Gin & Tonic
+- [ ] Boilermaker
+
+#### Complete this phrase: "Keep your friends close and your enemies..."
+
+- [ ] Down the Block
+- [ ] Over There
+- [x] Closer
+
+#### Who was the first female artist to be inducted into the Rock and Roll Hall of Fame?
+
+- [x] Aretha Franklin
+- [ ] Paula Abdul
+- [ ] Doja Cat
