@@ -11147,12 +11147,6 @@
 - [ ] Pterodactyl
 - [x] Velociraptor
 
-#### Which "Jurassic Park" dinosaurs are able to open doors?
-
-- [ ] Stegosaurus
-- [ ] Pterodactyl
-- [x] Velocirapto
-
 #### Who wrote the novel "Jurassic Park"?
 
 - [x] Michael Crichton
@@ -13336,3 +13330,63 @@
 - [x] Aretha Franklin
 - [ ] Paula Abdul
 - [ ] Doja Cat
+
+#### What is the term for a single cell dividing into two identical cells?
+
+- [x] Mitosis
+- [ ] Mifingersis
+- [ ] Mylanta
+
+#### If you have ablutophobia, what are you most likely to avoid?
+
+- [ ] A clothing store
+- [x] A shower
+- [ ] An airport
+
+#### In which Indiana Jones movie do we meet Short Round?
+
+- [ ] Raiders of the Lost Ark
+- [ ] Dial of Destiny
+- [x] Temple of Doom
+
+#### Which of the following is the name of a flying reptile?
+
+- [x] Pterosaur
+- [ ] MyToeIsSaur
+- [ ] I'm Saurry
+
+#### Which of the following is a song by Elvis Presley?
+
+- [x] Viva Los Vegas
+- [ ] Hurray Lake Huron
+- [ ] Yay for Yazoo
+
+#### In the original story, what nationality is Aladdin?
+
+- [ ] Persian
+- [x] Chinese
+- [ ] African
+
+#### What number is at 12 o'clock on a standard dartboard?
+
+- [ ] 18
+- [ ] 12
+- [x] 20
+
+#### Which superhero is known as the Man of Steel?
+
+- [ ] Shazam
+- [x] Superman
+- [ ] The Spirit
+
+#### Who played Rachel Green on Friends?
+
+- [x] Jennifer Aniston
+- [ ] Courtney Cox
+- [ ] Lisa Kudrow
+
+#### Which Edgar Allan Poe short story has a character going mad because he keeps hearing a beating noise?
+
+- [ ] The Raven
+- [x] The Tell-Tale Heart
+- [ ] Berenice
