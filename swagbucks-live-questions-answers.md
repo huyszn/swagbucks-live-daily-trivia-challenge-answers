@@ -13498,3 +13498,57 @@
 - [ ] The Real World
 - [x] House Hunters
 - [ ] Dancing with the Stars
+
+#### Which of the follwing are designed to shield your eyes from bright light?
+
+- [x] Sunglasses
+- [ ] Mittens
+- [ ] Knee Pads
+
+#### Where does a syzygy take place?
+
+- [ ] Factory
+- [ ] Ocean
+- [x] Space
+
+#### The Sullivan Ordinance prohibited women from doing what activity in public?
+
+- [x] Smoking
+- [ ] Driving
+- [ ] Singing
+
+#### Which of the following is a spreadsheet program?
+
+- [ ] GarageBand
+- [x] Microsoft Excel
+- [ ] Napster
+
+#### What two famous movie monsters faced off in a 2021 film?
+
+- [ ] Alien and Predator
+- [x] Kong and Godzilla
+- [ ] Freddy and Jason
+
+#### Which astrological sign is least represented by US Presidents?
+
+- [x] Aries
+- [ ] Scorpio
+- [ ] Aquarius
+
+#### What snack food's slogan claims "Betcha Can't Eat Just One"?
+
+- [ ] Goldfish Crackers
+- [x] Scorpio
+- [ ] Aquarius
+
+#### Imelda Marcos famously had a collection of over 3,000 what?
+
+- [ ] Hats
+- [x] Paris of shoes
+- [ ] Dresses
+
+#### Which of these materials would you typically throw in a recycling bin?
+
+- [x] Soda can
+- [ ] Bowling Ball
+- [ ] A whole tree
