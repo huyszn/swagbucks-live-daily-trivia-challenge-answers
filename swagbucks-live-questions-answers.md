@@ -13444,3 +13444,57 @@
 - [ ] Michael Jackson
 - [ ] Prince
 - [x] Devo
+
+#### If someone is "amiable", that means they are:
+
+- [x] Friendly
+- [ ] Hungry
+- [ ] Tired
+
+#### At the end of most adaptations, what Tiny Tim line ends the story?
+
+- [ ] "That's All, Folks!"
+- [ ] "Rosebud!"
+- [x] "God bless us, every one!"
+
+#### What part of your body is made of bones?
+
+- [ ] Eyelashes
+- [ ] Lips
+- [x] Skeleton
+
+#### According to the saying, what animal never forgets?
+
+- [ ] Hawk
+- [ ] Snake
+- [x] Elephant
+
+#### The giant globe at Epcot houses what attraction?
+
+- [x] Spaceship Earth
+- [ ] The Matterhorn
+- [ ] Mickey's Fun Wheel
+
+#### Which of the following words describes the act of trampling?
+
+- [ ] Operiment
+- [x] Occulcation
+- [ ] Obaceration
+
+#### Whose treasure were the Goonies hunting for?
+
+- [x] One-Eyed Willy
+- [ ] Bonnie & Clyde
+- [ ] George Washington
+
+#### Which of these tire companies also made condoms?
+
+- [ ] Michelin
+- [ ] Goodyear
+- [x] Dunlop
+
+#### Which of these reality shows is about people buying a place to live?
+
+- [ ] The Real World
+- [x] House Hunters
+- [ ] Dancing with the Stars
