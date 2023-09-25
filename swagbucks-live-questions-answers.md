@@ -13552,3 +13552,63 @@
 - [x] Soda can
 - [ ] Bowling Ball
 - [ ] A whole tree
+
+#### Which of these NES games has a female protagonist?
+
+- [ ] Excitebike
+- [x] Metroid
+- [ ] Gyromite
+
+#### What are longer books generally broken up into?
+
+- [ ] Charters
+- [x] Chapters
+- [ ] Chanters
+
+#### What U.S. network originally aired America's Most Wanted?
+
+- [ ] CBS
+- [ ] NBC
+- [x] FOX
+
+#### The Japanese company YKK makes half of all what on earth?
+
+- [x] Zippers
+- [ ] Aglets
+- [ ] Pens
+
+#### Which band has a song called "All You Need Is Love"?
+
+- [ ] INXS
+- [x] The Beatles
+- [ ] Foghat
+
+#### After the breakup of Wham, who had a number one hit with the song "Faith"?
+
+- [ ] Andrew Ridgeley
+- [x] George Michael
+- [ ] Sting
+
+#### What is the capital of Pennsylvania?
+
+- [ ] Albany
+- [ ] Sacramento
+- [x] Harrisburg
+
+#### Which movie studio uses a mountain as its logo?
+
+- [ ] Disney
+- [x] Paramount
+- [ ] Warner Bros
+
+#### In 2014, Living Language released a course in what Game of Thrones language?
+
+- [x] Dothraki
+- [ ] Klingon
+- [ ] Esperanto
+
+#### What brand has a series of cows imploring you to "Eat Mor Chikin"?
+
+- [ ] Purdue
+- [x] Chick-fil-A
+- [ ] KFC
