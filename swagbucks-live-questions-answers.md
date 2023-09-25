@@ -13612,3 +13612,39 @@
 - [ ] Purdue
 - [x] Chick-fil-A
 - [ ] KFC
+
+#### What is the official currency of the European Union?
+
+- [x] The Euro
+- [ ] The Franc
+- [ ] The Pound
+
+#### In which of these games do you try to hit people with a ball?
+
+- [ ] Tennis
+- [x] Dodgeball
+- [ ] Basketball
+
+#### Which Fine Brothers React video has the most views?
+
+- [ ] Elders React to Eminem
+- [x] Kids React to Harlem Shake
+- [ ] YouTubers React to Japanese Commercials
+
+#### Who painted "The Last Supper"?
+
+- [ ] Peter Max
+- [x] Leonardo da Vinci
+- [ ] Rembrandt
+
+#### In which dense state of matter are molecules moving the LEAST?
+
+- [x] Solid
+- [ ] Liquid
+- [ ] Gas
+
+#### What is the capital of New York?
+
+- [x] Albany
+- [ ] Brooklyn
+- [ ] The R Train
