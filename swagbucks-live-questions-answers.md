@@ -13780,3 +13780,51 @@
 - [ ] Vulture
 - [ ] Warthog
 - [x] Dog
+
+#### Which of the following desserts is traditionally flambéed tableside?
+
+- [ ] Ladyfingers
+- [x] Cherries Jubilee
+- [ ] Lemon Meringue Pie
+
+#### Which of these is an emergency resuscitation procedure?
+
+- [x] CPR
+- [ ] CR-V
+- [ ] CBGB
+
+#### Which consumer brand "Brings Good Things to Life"?
+
+- [ ] Froot Loops
+- [x] General Electric
+- [ ] Huffy
+
+#### Traditionally, which of these foods is prepared via baking?
+
+- [ ] Scrambled Eggs
+- [x] Chocolate Chip Cookies
+- [ ] Gogurt
+
+#### What is the name of Mickey's pet dog?
+
+- [x] Pluto
+- [ ] Neptune
+- [ ] Venus
+
+#### According to their theme song, where did the Jeffersons move on up to?
+
+- [x] The East Side
+- [ ] Kalamazoo
+- [ ] The Yukon
+
+#### Which Peanuts character is a blood relative of Charlie Brown?
+
+- [ ] Lucy
+- [ ] Linus
+- [x] Sally
+
+#### What Halloween costume can be made by simply cutting two eye holes in a sheet and wearing it over your body?
+
+- [ ] Firefighter
+- [ ] Pilot
+- [x] Ghost
