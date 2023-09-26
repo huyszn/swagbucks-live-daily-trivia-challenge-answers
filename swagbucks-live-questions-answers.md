@@ -6374,8 +6374,8 @@
 
 #### Superman, Batman, Wonder Woman and The Flash all teamed up in what 2017 movie?
 
-- [x] The Avengers
-- [ ] Justice League
+- [ ] The Avengers
+- [x] Justice League
 - [ ] The Suicide Squad
 
 #### Which of the following modern inventions owes a debt to Marie Van Brittan Brown?
@@ -13648,3 +13648,135 @@
 - [x] Albany
 - [ ] Brooklyn
 - [ ] The R Train
+
+#### The Borg-Warner Trophy is given out in what sport?
+
+- [ ] Football
+- [ ] Ice Hockey
+- [x] Auto Racing
+
+#### Which of the following books was NOT turned into a game for the NES?
+
+- [x] The Adventures of Huckleberry Finn
+- [ ] The Great Gatsby
+- [ ] Dr. Jekyll & Mr. Hyde
+
+#### Which holiday song was the first song sung in space?
+
+- [ ] Silent Night
+- [ ] Joy to the World
+- [x] Jingle Bells
+
+#### Who recorded “I Will Always Love You” for “The Bodyguard” soundtrack?
+
+- [ ] Dolly Patron
+- [x] Whitney Houston
+- [ ] Mariah Carey
+
+#### According to theater superstition, what will happen if you wear the color yellow on stage?
+
+- [ ] The play will fail
+- [ ] You’ll get injured
+- [x] You’ll forget your lines
+
+#### What cereal owes its invention to Circus Peanuts?
+
+- [x] Lucky Charms
+- [ ] Frankenberry
+- [ ] Fruity Pebbles
+
+#### David Seale was caught on tape breaking into a building in California, followed by what odd activity?
+
+- [x] Breakdancing
+- [ ] Shopping
+- [ ] Cooking
+
+#### Which of these is NOT covered in FICA taxes?
+
+- [ ] Social Security
+- [ ] Medicare
+- [x] Hot Dogs
+
+#### Which of the following words form the acronym for a common data storage card?
+
+- [x] Secure Digital
+- [ ] Secure Data
+- [ ] Secure Disk
+
+#### Which of these is a kind of cooktop?
+
+- [x] Girdle
+- [ ] Gritty
+- [ ] Griddle
+
+#### In the second season of ALF, he has a crossover with what other TV show?
+
+- [x] Gilligan's Island
+- [ ] The Golden Girls
+- [ ] Sesame Street
+
+#### What are three dots at the end of a sentence known as?
+
+- [ ] Elevator
+- [ ] Ellie Goulding
+- [x] Ellipsis
+
+#### Which of these beverages is sold in pouches?
+
+- [ ] Hi-C
+- [x] Capri Sun
+- [ ] V8
+
+#### In which of these movies do you hear the word “Avengers” said aloud?
+
+- [ ] The Incredible Hulk
+- [ ] Captain America: The Winter Soldier
+- [x] Thor: Ragnarok
+
+#### What fairy tale is about a puppet who becomes a real boy?
+
+- [ ] Peter Pan
+- [ ] Cinderella
+- [x] Pinocchio
+
+#### What planet was the first to be called two different names depending if it was night or day?
+
+- [x] Venus
+- [ ] Mars
+- [ ] Saturn
+
+#### Who returned to play Obi-Wan Kenobi in his self-titled Disney+ series?
+
+- [ ] Sir Alec Guinness
+- [x] Ewan McGregor
+- [ ] James Arnold Taylor
+
+#### If you’re starting over, what are you said to be going back to?
+
+- [ ] The painting stool
+- [ ] The sculpting dress
+- [x] The drawing board
+
+#### Which band borrowed a chapter title from “Lord of the Flies” for one of their songs?
+
+- [ ] Metallica
+- [x] U2
+- [ ] R.E.M.
+
+#### What former Destiny’s Child star released the album “Lemonade”?
+
+- [ ] Adele
+- [ ] Cardi B
+- [x] Beyonce
+
+#### “Lemonade Lucy” was the first lady to which U.S. president?
+
+- [x] Rutherford B. Hayes
+- [ ] Theodore Roosevelt
+- [ ] Dwight D Eisenhower
+
+#### What kind of animal is Snoopy?
+
+- [ ] Vulture
+- [ ] Warthog
+- [x] Dog
