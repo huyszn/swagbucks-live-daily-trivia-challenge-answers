@@ -13828,3 +13828,160 @@
 - [ ] Firefighter
 - [ ] Pilot
 - [x] Ghost
+
+#### Outside of the U.S., by what name is Soccer known?
+
+- [ ] Toe-ball
+- [ ] Handsies
+- [x] Football
+
+#### Which of these books was written by Charles Dickens?
+
+- [ ] Emma
+- [ ] Tom Sawyer
+- [x] Great Expectations
+
+#### Which artist created the Obama “Hope” and Andre the Giant “Obey” images?
+
+- [ ] Banksy
+- [x] Shepard Fairey
+- [ ] Mr. Brainwash
+
+#### Which artist created the Obama “Hope” and Andre the Giant “Obey” images?
+
+- [ ] Banksy
+- [x] Shepard Fairey
+- [ ] Mr. Brainwash
+
+#### What company makes the Switch handheld game system?
+
+- [ ] Sega
+- [x] Nintendo
+- [ ] Microsoft
+
+
+#### What style of music had its heyday in the 1970s?
+
+- [ ] Rock & Roll
+- [ ] Jazz
+- [x] Disco
+
+#### How did 18th Century British Sailors test the alcohol content of their rum?
+
+- [ ] Drink it
+- [ ] Mix it with oil
+- [x] Set it on fire
+
+#### What is the term for the invisible line that divides the Earth into Northern and Southern Hemispheres?
+
+- [x] The Equator
+- [ ] The Ecuador
+- [ ] The Eczema
+
+#### Which “Red Hot Chili Peppers” band would be the hottest?
+
+- [ ] The Bhut Jolokia Chili Peppers
+- [ ] The Naga Viper Chili Peppers
+- [x] The Carolina Reaper Chili Peppers
+
+#### Which of the following English words has no equivalent in Irish Gaelic?
+
+- [ ] Glass
+- [ ] Mountain
+- [x] Yes
+
+#### Head and Shoulders is a brand of what?
+
+- [ ] Mouthwash
+- [ ] Toilet Tissue
+- [x] Shampoo
+
+#### What day immediately follows Thursday?
+
+- [ ] Monday
+- [ ] Sunday
+- [x] Friday
+
+#### Nick Lachey was married to which pop singer?
+
+- [ ] Christina Aguilera
+- [x] Jessica Simpson
+- [ ] Britney Spears
+
+#### Which of the following is NOT one of the six categories in the original Trivial Pursuit?
+
+- [ ] Arts & Literature
+- [x] People Named “Stu”
+- [ ] Geography
+
+#### Which of the following TV series did NOT feature an appearance by John Munch?
+
+- [ ] Sesame Street
+- [ ] Luther
+- [x] Chicago P.D.
+
+#### In 1772, Ben Franklin published an ode to a fallen family pet named Mungo; what kind of animal was he?
+
+- [ ] Dog
+- [ ] Chimpanzee
+- [x] Squirrel
+
+#### What two word slogan was used by Apple?
+
+- [ ] Costs Lots
+- [x] Think Different
+- [ ] Hello Moto
+
+#### Tom Brady and Patrick Mahomes have both been cover athletes for what video game series?
+
+- [ ] NBA 2K
+- [ ] Super Mario World
+- [x] Madden Football
+
+#### What two future Hall of Famers faced off in the 1979 NCAA Championship and later in the NBA finals with the Celtics and Lakers?
+
+- [ ] Steph Curry and LeBron James
+- [x] Larry Bird and Magic Johnson
+- [ ] Wilt Chamberlain and Bill Russell
+
+#### Which State is home to the only incorporated town with a population of one in the U.S.?
+
+- [x] Nebraska
+- [ ] Alaska
+- [ ] South Dakota
+
+#### Which of the following Wheel of Fortune spaces is fake?
+
+- [ ] Bankrupt
+- [x] We Get Your Wallet
+- [ ] Lose a Turn
+
+#### What is the mathematical constant (pi) approximately equal to?
+
+- [x] 3.14
+- [ ] 2.71
+- [ ] 1.62
+
+#### In 2009, Hong Kong hosted the largest ever ensemble of what instrument?
+
+- [ ] Flute
+- [x] Harmonica
+- [ ] Harp
+
+#### According to Sammy Hagar's song, he can't drive what speed?
+
+- [ ] 45
+- [x] 55
+- [ ] 65
+
+#### What former "Jeopardy" champion currently serves as one of its full-time hosts?
+
+- [x] Ken Jennings
+- [ ] Brad Rutter
+- [ ] Christine Valada
+
+#### What is the title of Fyodor Dostoevsky's novel about a man's internal struggle between good and evil?
+
+- [ ] White Nights
+- [x] Crime and Punishment
+- [ ] The Brothers Karamazov
