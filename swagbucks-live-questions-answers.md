@@ -13985,3 +13985,105 @@
 - [ ] White Nights
 - [x] Crime and Punishment
 - [ ] The Brothers Karamazov
+
+#### What do the 13 strips on the American flag represent?
+
+- [x] The original 13 colonies
+- [ ] The first 13 amendments
+- [ ] The first 13 presidents
+
+#### According to CNN and based on their fictional occupation’s salary, which TV dad makes the most money?
+
+- [x] George Jefferson
+- [ ] Tim Taylor
+- [ ] Frasier Crane
+
+#### In what country was the drink known as La Fee Verte invented?
+
+- [ ] France
+- [x] Switzerland
+- [ ] Czech Republic
+
+#### Which toy requires you to gyrate your hips to keep it from falling?
+
+- [ ] Pogo Stick
+- [ ] Wiffle Ball
+- [x] Hula Hoop
+
+#### What are you supposed to do to birthday candles after making a wish?
+
+- [ ] Light them
+- [x] Freeze them
+- [ ] Blow them out
+
+#### What is the smallest U.S. State?
+
+- [ ] Texas
+- [x] Rhode Island
+- [ ] Nebraska
+
+#### Manolo Blahnik is known primarily for what clothing item?
+
+- [ ] Neckties
+- [ ] Robes
+- [x] Shoes
+
+#### Jay-Z is married to which music superstar?
+
+- [ ] Chaka Khan
+- [ ] Barba Streisand
+- [x] Beyonce
+
+#### Which of these oddly-named U.S. cities is the farthest East?
+
+- [x] Screamer
+- [ ] Smackover
+- [ ] Slickpoo
+
+#### What is the capital of Mexico?
+
+- [ ] Cancun
+- [ ] Guadalajara
+- [x] Mexico City
+
+#### What does the phrase "to get cold feet" mean?
+
+- [ ] To feel physically cold
+- [x] To feel nervous or scared about something
+- [ ] To be excited about something
+
+#### Beijing has a museum dedicated to what drink?
+
+- [ ] Seltzer
+- [ ] Orange Juice
+- [x] Tap Water
+
+#### Which of the following food brands is partially named after a pro football player?
+
+- [ ] Jimmy John's
+- [ ] Famous Amos
+- [x] Otis Spunkmeyer
+
+#### Both 1883 and 1923 are spin offs of what Paramount series?
+
+- [ ] Family Ties
+- [x] Yellowstone
+- [ ] Mayor of Kingstown
+
+#### Digitized in 1971, what was scanned to become the first eBook?
+
+- [x] The Declaration of Independence
+- [ ] The Oxford English Dictionary
+- [ ] The King James Bible
+
+#### What does HVAC stand for?
+
+- [ ] Hey, velvet arms? Cool!
+- [ ] Heavy, Very Ample Crabs
+- [x] Heating, Ventilation, and Air Conditioning
+
+#### In hockey, what is the term for using your stick to restrain or affect the movement of another player?
+
+- [x] Hooking
+- [ ] Icing
+- [ ] Slashing
