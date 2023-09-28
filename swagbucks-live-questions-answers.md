@@ -14087,3 +14087,45 @@
 - [x] Hooking
 - [ ] Icing
 - [ ] Slashing
+
+#### "Under Pressure" was a duet between Freddie Mercury and who?
+
+- [ ] Mick Jagger
+- [x] David Bowie
+- [ ] Paul McCartney
+
+#### Which of these tv shows was about older women living together in Florida?
+
+- [ ] Friends
+- [ ] Law & Order
+- [x] Golden Girls
+
+#### Which of the following is NOT the name of a Star Wars animated series?
+
+- [ ] Clone Wars
+- [ ] Rebels
+- [x] Lizzie McGuire
+
+#### What do apples grow on?
+
+- [ ] Vines
+- [ ] Your shoulder
+- [x] Trees
+
+#### Why was Japanese 7-Eleven franchisee Mitoshi Matsumoto was sued by 7-Eleven?
+
+- [x] Shortening the store's hours
+- [ ] Refusing to sell Big Gulps
+- [ ] Allowing bare feet in the store
+
+#### Who hosts The Daily Show?
+
+- [x] Trevor Noah
+- [ ] Al Madrigal
+- [ ] John Hodgman
+
+#### Which of these is NOT the real name of a Batman villain?
+
+- [x] Quentin Beck
+- [ ] Matthew Hagen
+- [ ] Waylon Jones
