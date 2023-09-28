@@ -14129,3 +14129,57 @@
 - [x] Quentin Beck
 - [ ] Matthew Hagen
 - [ ] Waylon Jones
+
+#### "Goodbye" is a contraction of what phrase?
+
+- [ ] God is by you
+- [x] God be with you
+- [ ] Good things be with you
+
+#### With 200 total, which NASCAR racer has the most career wins?
+
+- [ ] Jeff Gordon
+- [ ] Rusty Wallace
+- [x] Richard Petty
+
+#### What city serves as the home of the train made famous by "The Polar Express"?
+
+- [ ] Mesabi Range, MN
+- [ ] Portland, ME
+- [x] Owosso, MI
+
+#### Which sport uses umpires to enforce rules?
+
+- [ ] Basketball
+- [ ] Hockey
+- [x] Baseball
+
+#### Siblings Derek and Julianne Hough became famous on what reality show?
+
+- [ ] American Idol
+- [x] Dancing with the Stars
+- [ ] The Great British Baking Show
+
+#### A red playground ball would be used for which of the following games?
+
+- [ ] Hopscotch
+- [x] Dodgeball
+- [ ] Jacks
+
+#### According to Visual Capitalist, what is the best-selling video game console of all time?
+
+- [ ] NES
+- [x] PlayStation 2
+- [ ] Xbox 360
+
+#### What question is posed at the end of Capital One commercials?
+
+- [ ] Do you like money?
+- [ ] What's the deal with airplane food?
+- [x] What's in YOUR wallet?
+
+#### What does the Japanese word "Hai" mean?
+
+- [x] Yes
+- [ ] Low
+- [ ] Plow
