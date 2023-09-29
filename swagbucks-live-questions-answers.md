@@ -10237,8 +10237,8 @@
 
 #### What household brand claims to keep "going and going and going and going"?
 
-- [ ] Energizer
-- [x] Windex
+- [x] Energizer
+- [ ] Windex
 - [ ] Brawny
 
 #### Maybelline's most famous slogan begins with "Maybe she's..."
@@ -14375,3 +14375,51 @@
 - [ ] Women's Tag Championship
 - [x] NXT Women's Championship
 - [ ] North American Championship
+
+#### "Stranger Things" season 4 caused what 80's song to chart again?
+
+- [ ] Walking on the Sunshine
+- [x] Running Up That Hill
+- [ ] Fly Away
+
+#### What is the capital of Italy?
+
+- [ ] Berlin
+- [ ] London
+- [x] Rome
+
+#### Which U.S. President returned to the Senate after leaving office?
+
+- [x] Andrew Johnson
+- [ ] John Quincy Adams
+- [ ] Martin Van Buren
+
+#### What part of the lemon is used in zesting?
+
+- [ ] The meat
+- [x] The peel
+- [ ] The fruit
+
+#### On what continent would you find the Great Pyramids at Giza?
+
+- [ ] Europe
+- [x] Africa
+- [ ] Asia
+
+#### Who were the first people to wear high heels?
+
+- [ ] Royalty
+- [x] Cavalrymen
+- [ ] Models
+
+#### Oh which game show do you spin a wheel?
+
+- [ ] Jeopardy
+- [x] Wheel of Fortune
+- [ ] Family Feud
+
+#### In the original Donkey Kong, what gets thrown at you in the first level?
+
+- [ ] Boxes
+- [x] Barrels
+- [ ] Boulders
