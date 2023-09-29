@@ -14183,3 +14183,147 @@
 - [x] Yes
 - [ ] Low
 - [ ] Plow
+
+#### What two presidents died on July 4th, 1826?
+
+- [x] Adams and Jefferson
+- [ ] Washington and Adams
+- [ ] Jefferson and Washington
+
+#### What show was the launchpad for the Olsan Twins?
+
+- [ ] Family Matters
+- [x] Full House
+- [ ] Step by Step
+
+#### Who was the losing pitcher in the longest MLB game over played?
+
+- [x] Chuck Porter
+- [ ] Rollie Fingers
+- [ ] Rick Waits
+
+#### Which of the following is NOT a common nickname for Abraham Lincoln?
+
+- [ ] Honest Abe
+- [x] Return to the Planet of the Abes
+- [ ] The Great Emancipator
+
+#### Chick Taylor’s are a line of shoes from what company?
+
+- [ ] Reebok
+- [x] Converse
+- [ ] Adidas
+
+#### Who is Mosag?
+
+- [ ] A Death Eater
+- [x] A Spider
+- [ ] A Goblin
+
+#### The Fantastic Beasts films are part of what popular franchise?
+
+- [x] Harry Potter
+- [ ] The Hunger Games
+- [ ] Despicable Me
+
+#### Which of the following is NOT one of the rules of Jason Statham’s character in “The Transporter”?
+
+- [ ] Never change the deal
+- [x] Always wear a seatbelt
+- [ ] No names
+
+#### Diana Prince is the alter ego of what superhero?
+
+- [x] Wonder Woman
+- [ ] Hawkgirl
+- [ ] Hawkeye
+
+#### Lake Superior State University issues hunting licenses for what mythical creature?
+
+- [x] Unicorn
+- [ ] Bigfoot
+- [ ] Abominable snowman
+
+#### Which of these books is by Dr. Seuss?
+
+- [ ] Baby and Child Care
+- [x] Cat in the Hat
+- [ ] I’m OK, You’re OK
+
+#### Stan and Jan Berenstain wrote a series of children’s books about what animals?
+
+- [ ] Fish
+- [ ] Eagles
+- [x] Bears
+
+#### What actual African language is used for the citizens of Wakanda in the MCU?
+
+- [x] Xhosa
+- [ ] Swahili
+- [ ] Fula
+
+#### In what country are birthdays celebrated by “Antiquing” the birthday boy or girl?
+
+- [x] Jamaica
+- [ ] Switzerland
+- [ ] Egypt
+
+#### Which cosmetic company uses the slogan "Because You're Worth It"?
+
+- [ ] Maybelline
+- [x] L'Oreal
+- [ ] Revlon
+
+#### Which country is widely considered the birthplace of pizza?
+
+- [x] Italy
+- [ ] Greece
+- [ ] Egypt
+
+#### The Tower of London is located on the banks of which river?
+
+- [ ] River Seine
+- [x] River Thames
+- [ ] River Danube
+
+#### Which "Masters of the Universe" fiture is baed on the original design concept for He-Man?
+
+- [ ] Faker
+- [ ] Beast Man
+- [x] Vikor
+
+#### On which of the following planets can it rain diamonds?
+
+- [ ] Saturn
+- [ ] Venus
+- [x] Mercury
+
+#### Which event marked the beginning of World War II?
+
+- [ ] Shot Heard Around the World
+- [ ] The Siege of Troy
+- [x] The Invasion of Poland
+
+#### What play holds the Guinness World Record for most costume changes in one stage production?
+
+- [x] Our House
+- [ ] Matilda the Musical
+- [ ] Arabian Nights
+
+#### Greenwich Mean Time is counted from the Royal Observatory in what country?
+
+- [ ] Switzerland
+- [ ] Canada
+- [x] England
+
+#### What board game gives you card with words you're not allowed to say on them?
+
+- [ ] Trivial Pursuit
+- [x] Taboo
+- [ ] Memory
+
+#### What was the codename for the American-led effort to develop the Atomic Bomb?
+
+- [ ] The Queens Project
+- [ ] The Bronx Project
+- [x] The Manhattan Project
