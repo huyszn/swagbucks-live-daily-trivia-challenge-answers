@@ -14327,3 +14327,51 @@
 - [ ] The Queens Project
 - [ ] The Bronx Project
 - [x] The Manhattan Project
+
+#### What country was once ruled by Pharaohs?
+
+- [ ] France
+- [x] Egypt
+- [ ] Wales
+
+#### The first Mr Men book was conceived when the author's son asked him what question?
+
+- [ ] What do giggles look like?
+- [ ] Can you call me Mister Happy?
+- [x] What does a tickle look like?
+
+#### In which modern country did Mount Vesuvius erupt?
+
+- [ ] Mexico
+- [x] Italy
+- [ ] Canada
+
+#### Which 1980's movie features a character saying " I feel the need... the need for speed"?
+
+- [ ] Days of Thunder
+- [ ] The Cannonball Run
+- [x] Top Gun
+
+#### Which of these phrases refers to something being easy?
+
+- [x] Piece of cake
+- [ ] Cut of pie
+- [ ] Slice of strudel
+
+#### Which of the following 2022 TV shows is based on a feature film?
+
+- [ ] The Resort
+- [ ] Life & Beth
+- [x] A League of Their Own
+
+#### Complete this common phrase: Don't count your chickens before they...
+
+- [ ] Cluck
+- [x] Hatch
+- [ ] Fly
+
+#### Which championship will be defended for the first time ever at this year's Wrestlemania?
+
+- [ ] Women's Tag Championship
+- [x] NXT Women's Championship
+- [ ] North American Championship
