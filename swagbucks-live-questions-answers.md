@@ -14423,3 +14423,45 @@
 - [ ] Boxes
 - [x] Barrels
 - [ ] Boulders
+
+#### Which of the following shows centers around an estate in England?
+
+- [ ] Sherlock
+- [ ] Killing Eve
+- [x] Downton Abbey
+
+#### Which of the following items would be most likely to hit a uvula?
+
+- [x] A tongue depressor
+- [ ] A roof duster
+- [ ] A baseball bat
+
+#### What Disney-owned PG movie helped usher in the PG-13 rating?
+
+- [ ] Red Dawn
+- [ ] Return of the Jedi
+- [x] Indiana Jones and the Temple of Doom
+
+#### Where was Karate invented?
+
+- [ ] Korea
+- [x] Japan
+- [ ] China
+
+#### Thousand Island dressing is named for land in what body of water?
+
+- [ ] Lake Ontario
+- [ ] Long Island Sound
+- [x] St. Lawrence River
+
+#### In which city do the NBA's Knicks play their home games?
+
+- [ ] Boston
+- [x] New York
+- [ ] Philadelphia
+
+#### "The Stand", "Cujo", and "Misery" were all written by which author?
+
+- [ ] R.L. Stine
+- [ ] Anne Rice
+- [x] Stephen King
