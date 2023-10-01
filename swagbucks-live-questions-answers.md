@@ -14465,3 +14465,45 @@
 - [ ] R.L. Stine
 - [ ] Anne Rice
 - [x] Stephen King
+
+#### What function publicly shares someone's tweet on Twitter?
+
+- [ ] Like
+- [ ] Direct Message
+- [x] Retweet
+
+#### Which of these is NOT one of the sections of the SATs?
+
+- [ ] Math
+- [ ] Writing
+- [x] Free Weights
+
+#### Which of these facts about Sandy Island is FALSE?
+
+- [ ] It doesn't exist
+- [x] It was supposedly discovered by James Cook
+- [ ] It didn't appear on natical maps until 1908
+
+#### Which restaurant chain opened first?
+
+- [ ] Applebee's
+- [x] TGI Friday's
+- [ ] Chili's
+
+#### What percentage of your brain is fats?
+
+- [ ] 90%
+- [x] 60%
+- [ ] 33%
+
+#### The actor who appears in every Pixar film is best known for what TV show?
+
+- [ ] Saturday Night Live
+- [x] Cheers
+- [ ] Firefly
+
+#### Who invented Bitcoin?
+
+- [ ] Vitalik Buterin
+- [ ] Tomohiro Nishikado
+- [x] Satoshi Nakamoto
