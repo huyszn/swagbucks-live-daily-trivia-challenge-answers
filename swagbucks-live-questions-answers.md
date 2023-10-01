@@ -14507,3 +14507,51 @@
 - [ ] Vitalik Buterin
 - [ ] Tomohiro Nishikado
 - [x] Satoshi Nakamoto
+
+#### Before they pioneered aviation, what would you have hired the Wright Brothers to do?
+
+- [x] Fix a flat tire
+- [ ] Connect your internet
+- [ ] Make a DVD
+
+#### Which of the following games uses a deck of playing cards?
+
+- [ ] Connect Four
+- [x] Crazy Eights
+- [ ] Pay Day
+
+#### Which of these two compass points are opposite one another?
+
+- [ ] North and East
+- [ ] South and West
+- [x] North and South
+
+#### The town of Santa Fe, Indiana changed its name to what?
+
+- [x] Santa Claus
+- [ ] Gary
+- [ ] Birdseye
+
+#### The Vezina Trophy is an award given in what sport?
+
+- [x] Hockey
+- [ ] Tennis
+- [ ] Soccer
+
+#### What was the last of the Dune novels to be written by original author Frank Herbert?
+
+- [ ] Dune Messiah
+- [ ] Children of Dune
+- [x] Chapterhouse: Dune
+
+#### The kingdoms of Denmark, Norway, and Sweden are collectively known as what?
+
+- [ ] Asgard
+- [x] Scandinavia
+- [ ] The Triforce
+
+#### Heloisa Eneida Menezes Paes Pinto was the inspiration for what famous song?
+
+- [ ] Ring of Fire
+- [x] Girl from Ipanema
+- [ ] In Your Eyes
