@@ -14555,3 +14555,51 @@
 - [ ] Ring of Fire
 - [x] Girl from Ipanema
 - [ ] In Your Eyes
+
+#### After Roger Bannister ran the first sub-4 minute mile, how long did his record last?
+
+- [x] 46 Days
+- [ ] 46 Weeks
+- [ ] 46 Years
+
+#### "The Mandalorian" turned a baby version of what character into a viral sensation?
+
+- [ ] Mara Jade
+- [x] Yoda
+- [ ] Admiral Thrawn
+
+#### Which U.S. President once physically threatened a critic who panned his daughter?
+
+- [ ] Richard Nixon
+- [x] Harry Truman
+- [ ] Teddy Roosevelt
+
+#### Which pop star sang that he was "Bringing Sexy Back"?
+
+- [ ] Adam Levine
+- [ ] Bruno Mars
+- [x] Justin Timberlake
+
+#### Which of the following was NOT invented in the 1970s?
+
+- [ ] The Walkman
+- [x] The modem
+- [ ] The digital camera
+
+#### What singer had a hit with “Since U Been Gone”?
+
+- [x] Kelly Clarkson
+- [ ] Britney Spears
+- [ ] Christina Aguilera
+
+#### In Pinocchio, what is Geppetto’s wish?
+
+- [x] For Pinocchio to be a real boy
+- [ ] A winning lottery ticket
+- [ ] More wishes
+
+#### What animals does Coca-Cola use in their holiday advertising?
+
+- [x] Polar Bears
+- [ ] Pelicans
+- [ ] Pitbull
