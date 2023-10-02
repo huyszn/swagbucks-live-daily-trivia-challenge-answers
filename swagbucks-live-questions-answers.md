@@ -14603,3 +14603,51 @@
 - [x] Polar Bears
 - [ ] Pelicans
 - [ ] Pitbull
+
+#### Where would you find the world's largest bowling alley?
+
+- [ ] United States
+- [x] Japan
+- [ ] Scotland
+
+#### On their Fox TV show, the Belcher Family runs what business?
+
+- [ ] Bob's Bratwurst
+- [ ] Bob's Burritos
+- [x] Bob's Burgers
+
+#### If you're birling, what kind of athlete are you?
+
+- [ ] Archer
+- [x] Lumberjack
+- [ ] Gymnast
+
+#### Albion is the earliest known name for what isle?
+
+- [x] Britain
+- [ ] Sicily
+- [ ] Malta
+
+#### What Fast Food chain was born in California?
+
+- [ ] Kentucky Fried Chicken
+- [x] McDonald's
+- [ ] Jersey Mike's Subs
+
+#### Which Star Wars character was almost played by a monkey?
+
+- [x] Yoda
+- [ ] Jawa
+- [ ] Salacious Crumb
+
+#### Which of these breakfast cereals is endorsed by a former prime time cartoon character?
+
+- [x] Fruity Pebbles
+- [ ] Frosted Flakes
+- [ ] Cheerios
+
+#### Which of these movies is based on an actual historical event?
+
+- [ ] Zardoz
+- [x] Titanic
+- [ ] Ocean's 11
