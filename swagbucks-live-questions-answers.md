@@ -14651,3 +14651,105 @@
 - [ ] Zardoz
 - [x] Titanic
 - [ ] Ocean's 11
+
+#### Which candy lets you “Taste the Rainbow”?
+
+- [x] Skittles
+- [ ] Hershey’s Kisses
+- [ ] Twizzlers
+
+#### Which of these women never challenged for the title at a Wrestlemania?
+
+- [x] Bull Nakano
+- [ ] Velvet McIntyre
+- [ ] Tori
+
+#### What won the Oscar for Best Picture in 1955?
+
+- [x] Marty
+- [ ] On the Waterfront
+- [ ] Ben Hur
+
+#### Who is known as the Material Girl?
+
+- [x] Madonna
+- [ ] Cyndi Lauper
+- [ ] Taylor Swift
+
+#### Which record label started first?
+
+- [ ] Def Jam Records
+- [x] Island Records
+- [ ] Shady Records
+
+#### In “101 Dalmatians”, what kind of house-pet is Sgt. Tibbs?
+
+- [ ] Sphinx
+- [x] Cat
+- [ ] Dragon
+
+#### Which mints claim to be “Curiously Strong”?
+
+- [ ] Life Savers
+- [x] Altoids
+- [ ] Tic Tac
+
+#### Where is mascara meant to be applied?
+
+- [ ] Mustache
+- [ ] Underarms
+- [x] Eyelashes
+
+#### "The Truth is Out There" was the tagline for what 1990s TV show?
+
+- [ ] Twin Peaks
+- [x] The X-Files
+- [ ] Eerie, Indiana
+
+#### Who is the host of "Survivor"?
+
+- [x] Jeff Probst
+- [ ] Howie Mandel
+- [ ] Gene Rayburn
+
+#### What odd item was successfully sold as a "pet" during the 1970s?
+
+- [ ] Stick
+- [ ] Belt
+- [x] Rock
+
+#### Which of the following restaurants commonly has Drive-Thru service?
+
+- [x] Chick-fil-A
+- [ ] Chipotle
+- [ ] Ruth's Chris
+
+#### Pachuca de Soto, Mexico is home to a building shaped and painted to look like what piece of sports equipment?
+
+- [x] Soccer Ball
+- [ ] Baseball
+- [ ] Tennis Racket
+
+#### Which of the following is NOT a programming language?
+
+- [ ] Python
+- [x] Photoshop
+- [ ] C++
+
+#### NBA Hall of Famer Dirk Nowitzki hails from what country?
+
+- [ ] England
+- [ ] Japan
+- [x] Germany
+
+#### Berry Gordy founded what legendary record label?
+
+- [ ] Sun Record
+- [ ] Columbia Records
+- [x] Motown
+
+#### Wonder Woman is a founding memeber of which comic book superteam?
+
+- [ ] The Avengers
+- [x] Justice League
+- [ ] X-Force
