@@ -14897,3 +14897,45 @@
 - [ ] Harriet Beecher Stowe
 - [x] Mark Twain
 - [ ] Miguel Cervantes
+
+#### Which of the following toys was first manufactured as a talking doll?
+
+- [ ] Raggedy Ann
+- [ ] Barbie
+- [x] Chatty Cathy
+
+#### Where is your cornea located?
+
+- [ ] Knee
+- [ ] Mouth
+- [x] Eye
+
+#### Jack Bauer was the lead character on what FOX show?
+
+- [x] 24
+- [ ] 227
+- [ ] 867-5309
+
+#### Complete the name of this classic party game: "Pin the Tail on the..."
+
+- [ ] Weather vane
+- [x] Donkey
+- [ ] Other tail
+
+#### Audrey II is a giant talking plant from which musical?
+
+- [x] Little Shop of Horrors
+- [ ] O, Calcutta!
+- [ ] She Loves Me
+
+#### Which Ghostbuster has a cameo in the 1995 movie "Casper, the Friendly Ghost"?
+
+- [ ] Egon Spengler
+- [ ] Winston Zeddemore
+- [x] Ray Stantz
+
+#### Virginia Dare is also known by what spooky nickname?
+
+- [ ] The Bell Witch
+- [x] The White Doe
+- [ ] The Greenbriar Ghost
