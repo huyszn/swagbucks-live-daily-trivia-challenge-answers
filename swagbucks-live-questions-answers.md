@@ -14939,3 +14939,57 @@
 - [ ] The Bell Witch
 - [x] The White Doe
 - [ ] The Greenbriar Ghost
+
+#### Which Avenger uses a bow and arrows?
+
+- [ ] Thor
+- [x] Hawkeye
+- [ ] Iron Man
+
+#### What type of onion is traditionally uses in French Onion Soup?
+
+- [x] Yellow onions
+- [ ] Sweet Onions
+- [ ] Red Onions
+
+#### Who is the all-time leading scorer in NHL history?
+
+- [x] Wayne Gretzky
+- [ ] Chris Pronger
+- [ ] Ron Hextall
+
+#### What type of cuisine is known for its use of fermented foods, such as kimchi and soy sauce?
+
+- [x] Korean
+- [ ] French
+- [ ] Spanish
+
+#### Steve Urkel was a character on what ABC sitcom?
+
+- [ ] According to Jim
+- [ ] The George Lopez Show
+- [x] Family Matters
+
+#### "Jurassic Park" takes place on what island?
+
+- [ ] Australia
+- [x] Isla Nublar
+- [ ] Staten Island
+
+#### Brisket is a cut of what meat?
+
+- [ ] Turkey
+- [x] Beef
+- [ ] Chicken
+
+#### The Minions got their start in what film?
+
+- [x] Despicable Me
+- [ ] Megamind
+- [ ] The Incredibles
+
+#### Which of these terms has an etymology that refers to nudity?
+
+- [ ] Forlorn
+- [x] Gymnasium
+- [ ] Porcelain
