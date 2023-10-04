@@ -14753,3 +14753,147 @@
 - [ ] The Avengers
 - [x] Justice League
 - [ ] X-Force
+
+#### What song did Stevie Wonder write for his daughter?
+
+- [ ] I Just Called to Say I Love You
+- [ ] My Cherie Amour
+- [x] Isn’t She Lovely
+
+#### A Pork Butt is actually a cut from what part of the pig?
+
+- [ ] Feet
+- [x] Shoulder
+- [ ] Face
+
+#### What musical features the song “I Won’t Grow Up”?
+
+- [x] Peter Pan
+- [ ] Oliver!
+- [ ] Come From Away
+
+#### What band released the albums “The Wall” and “Dark Side of the Moon”?
+
+- [ ] Yes
+- [x] Pink Floyd
+- [ ] Steely Dan
+
+#### Which of these was a winning horse in the Kentucky Derby?
+
+- [ ] Go for Gin
+- [x] Sea Horse Hero
+- [ ] Unbridled Patriot
+
+#### Which of these dishes is traditionally cooked in a banana leaf or corn husk?
+
+- [ ] Breakfast Cereal
+- [ ] Fruit Punch
+- [x] Tamale
+
+#### What pork dish is normally served on Christmas?
+
+- [ ] Ostrich
+- [ ] Snake
+- [x] Ham
+
+#### Leonard, Shelton, and Penny are all characters on what CBS sitcom?
+
+- [ ] King of Queens
+- [ ] Mom
+- [x] The Big Bang Theory
+
+#### Angela Merkel is the head of state for which country?
+
+- [ ] Lichtenstein
+- [x] Germany
+- [ ] Austria
+
+#### Bill Gates co-founded what company?
+
+- [ ] Telsa
+- [ ] Apple
+- [x] Microsoft
+
+#### If you tell someone to "Call it a day", what do you want them to do?
+
+- [ ] Continue
+- [ ] Start
+- [x] Stop
+
+#### What movie won Best Picture at the 2017 Oscars?
+
+- [ ] Xanadu
+- [x] Moonlight
+- [ ] Cheers
+
+#### In October, people wear pink ribbions to support awareness of what disease?
+
+- [x] Breast Cancer
+- [ ] Knee pain
+- [ ] The flu
+
+#### What President campaigned with buttons that read "I Like Ike"?
+
+- [ ] Richard Nixon
+- [ ] John F. Kennedy
+- [x] Dwight D. Eisenhower
+
+#### What brand once used the slogan "The original and best construction toy company"?
+
+- [ ] Nintendo
+- [ ] Barbie
+- [x] LEGO
+
+#### What is the term for the amount of water vapor present in the air?
+
+- [x] Humidity
+- [ ] Condensation
+- [ ] Temperature
+
+#### "What happens here, starys here" is the reworked slogan for which city's tourism board?
+
+- [ ] Detriot
+- [x] Las Vegas
+- [ ] Newark
+
+#### Which restaurant chain is known for its golden arches logo?
+
+- [ ] Wendy's
+- [ ] Chick-fil-A
+- [x] McDonald's
+
+#### In 1984, Dana Ivey made Tony Awards history by accomplishing what feat?
+
+- [ ] Nominated in four categories
+- [x] Nominated for both a play and a musical
+- [ ] Won awards for acting and directing
+
+#### What is the name of St. Louis's MLB team?
+
+- [ ] Royals
+- [ ] Cubs
+- [x] Cardinals
+
+#### The original 12-inch G.I. Joe line all shared what feature?
+
+- [x] Face Scar
+- [ ] Blue Eyes
+- [ ] Facial Hair
+
+#### What city is known as the Pearl of the Orient?
+
+- [ ] Bucharest
+- [ ] Paris
+- [x] Hong Kong
+
+#### What city is known as the Pearl of the Orient?
+
+- [x] Muhammad Ali
+- [ ] Mike Tyson
+- [ ] Floyd Mayweather Jr.
+
+#### "The Adventures of Tom Sawyer" takes place in a fictional Missouri town based on the hometown of what writer?
+
+- [ ] Harriet Beecher Stowe
+- [x] Mark Twain
+- [ ] Miguel Cervantes
