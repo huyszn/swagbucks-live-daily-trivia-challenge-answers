@@ -14993,3 +14993,122 @@
 - [ ] Forlorn
 - [x] Gymnasium
 - [ ] Porcelain
+
+#### Where are you supposed to put your teeth to get money from the Tooth Fairy?
+
+- [x] Under your pillow
+- [ ] In the floorboards
+- [ ] On toast
+
+#### At which fast food chain can you get the Frosty?
+
+- [ ] Burger King
+- [ ] Whataburger
+- [x] Wendy's
+
+#### What is the capital of Germany?
+
+- [ ] Frankfurt
+- [x] Berlin
+- [ ] Dusseldorf
+
+#### What is the only triply landlocked State in the U.S.?
+
+- [x] Nebraska
+- [ ] Kansas
+- [ ] South Dakota
+
+#### Which of the following companies is mainly known for toy trucks?
+
+- [ ] LeapFrog
+- [x] Tonka
+- [ ] Atari
+
+#### How old was Louis Braille when he developed the Braille System?
+
+- [x] 15
+- [ ] 30
+- [ ] 6
+
+#### Which of these sports has a goalie?
+
+- [ ] Basketball
+- [ ] Tennis
+- [x] Ice Hockey
+
+#### According to Book Riot, as of July 2021 which city has the most libraries per capita?
+
+- [ ] London
+- [x] Warsaw
+- [ ] Beijing
+
+#### Which McDonaldland character's birthday was celebrated with a limited edition purple milkshake?
+
+- [x] Grimace
+- [ ] The Hamburglar
+- [ ] Mayor McCheese
+
+#### What kind of animal is King Kong?
+
+- [ ] Lizard
+- [ ] Moth
+- [x] Ape
+
+#### Based on the origin of its name, what fruit could also be referring to one's family jewels?
+
+- [ ] Peaches
+- [ ] Grapes
+- [x] Avocados
+
+#### The company that became JPMorgan Chase & Co. was founded by which historical figure?
+
+- [ ] Abraham Lincoln
+- [x] Aaron Burr
+- [ ] Andrew Jackson
+
+#### Where are your taste buds primarily located?
+
+- [ ] Cheek
+- [ ] Lips
+- [x] Tongue
+
+#### What celebrity once famously jumped all over Oraph's couch after falling in love?
+
+- [ ] Whoopi Goldberg
+- [x] Tom Cruise
+- [ ] Eddie Murphy
+
+#### The editor of Michael Jackson's autobiography "Moonwalk" also held what position?
+
+- [ ] Choreographer
+- [x] First Lady
+- [ ] News Anchor
+
+#### Which of these is NOT a nickname for an MLB player?
+
+- [ ] Twinkie Toes Boscoe
+- [x] Grapes
+- [ ] Zamboni
+
+#### What was the highest rated debut for a Disney Channel Original Movie?
+
+- [ ] Camp Rock
+- [x] High School Musical 2
+- [ ] Wizards of Waverly Place: The Movie
+
+#### Mrs. Meyers is a well-known brand of what?
+
+- [x] Cleaning products
+- [ ] Snack Crackers
+- [ ] Dresses
+
+#### Which of these restaurants is primarily known for Mexican food?
+
+- [ ] Outback
+- [x] Chipotle
+- [ ] Olive Garden
+
+#### Which of these foods could a vegetarian eat?
+- [ ] Hot Dog
+- [x] Slice of Cheese Pizza
+- [ ] Chicken Nuggets
