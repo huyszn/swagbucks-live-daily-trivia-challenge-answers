@@ -15109,6 +15109,67 @@
 - [ ] Olive Garden
 
 #### Which of these foods could a vegetarian eat?
+
 - [ ] Hot Dog
 - [x] Slice of Cheese Pizza
 - [ ] Chicken Nuggets
+
+#### Which of the following is not another name for Aconite?
+
+- [x] Bubotuber
+- [ ] Wolfsbane
+- [ ] Monkshood
+
+#### "Call Me Ishmael" is the opening line of what classic novel?
+
+- [ ] Sense and Sensibility
+- [x] Moby Dick
+- [ ] Frankenstein
+
+#### Which of these shows is about narcotics officers in Baltimore?
+
+- [ ] NYPD Blue
+- [x] The Wire
+- [ ] CSI: Miami
+
+#### Who is the only US president elected unanimously by the electoral college?
+
+- [x] George Washington
+- [ ] Abraham Lincoln
+- [ ] Thomas Jefferson
+
+#### Which of the following lakes is NOT in the United States?
+
+- [ ] Lake Michigan
+- [ ] Lake Erie
+- [x] Gjende Lake
+
+#### Shel Silverstein wrote a children's book about what kind of tree?
+
+- [ ] Taking
+- [x] Giving
+- [ ] Hungry
+
+#### Chubby Checker had a hit song about what dance craze?
+
+- [ ] The Bop It
+- [x] The Twist
+- [ ] The Turn
+
+#### Simone Biles, Mary Lou Retton and Kerri Strug all won gold medals for which Olympic event?
+
+- [x] Gymnastics
+- [ ] Marathon
+- [ ] Slalom
+
+#### What board game has editions like Genus, Disney for All, and Pop Culture?
+
+- [ ] Candyland
+- [x] Trivial Pursuit
+- [ ] Boggle
+
+#### When you cook something by sous vide, what liquid do you cook it in?
+
+- [x] Water
+- [ ] Oil
+- [ ] Chocolate
