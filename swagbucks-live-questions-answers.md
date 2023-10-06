@@ -15173,3 +15173,57 @@
 - [x] Water
 - [ ] Oil
 - [ ] Chocolate
+
+#### What is the term for rocks formed by cooling magma?
+
+- [ ] Ignorant
+- [ ] Ignoble
+- [x] Igneous
+
+#### You can create a simple compass using a piece of string and what other object?
+
+- [x] Magnet
+- [ ] Tomato
+- [ ] Baseball bat
+
+#### Which of the following rock legends was NOT a member of the Traveling Wilburys?
+
+- [ ] Tom Petty
+- [ ] Bob Dylan
+- [x] Ringo Starr
+
+#### On which continent would you find the Colossus of Rhodes?
+
+- [x] Europe
+- [ ] North America
+- [ ] Central America
+
+#### What future hunk was a two-time loser on "The Dating Game"?
+
+- [ ] Don Johnson
+- [x] Tom Selleck
+- [ ] Burt Reynolds
+
+#### What kind of cheese is traditionally cooked inside of a lasagna?
+
+- [x] Ricotta
+- [ ] American
+- [ ] Cheddar
+
+#### How many kids does Homer Simpson have?
+
+- [ ] One
+- [x] Three
+- [ ] Ten
+
+#### What Hall of Famer once wound up being traded for a meal?
+
+- [x] Dave Winfield
+- [ ] Johnny Unitas
+- [ ] Wilt Chamberlain
+
+#### Lil Nas X, Billy Ray Cyrus and Mason Ramsey all appear together on what chart-topping song?
+
+- [x] Old Town Road
+- [ ] We Are The World
+- [ ] 9 to 5
