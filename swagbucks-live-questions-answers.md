@@ -15227,3 +15227,117 @@
 - [x] Old Town Road
 - [ ] We Are The World
 - [ ] 9 to 5
+
+#### What band got their name from an alias used by Paul McCartney?
+
+- [x] The Ramones
+- [ ] Jefferson Airplane
+- [ ] Pink Floyd
+
+#### Which of these is grammatically correct?
+
+- [x] “Three fewer questions”
+- [ ] “Three less questions”
+- [ ] Both are correct
+
+#### Which movie featured Pedro running for class president?
+
+- [ ] Sweet Sixteen
+- [x] Napoleon Dynamite
+- [ ] The Breakfast Club
+
+#### What singer is known as the “Empress of the Blues”?
+
+- [ ] Etta James
+- [ ] Billie Holiday
+- [x] Bessie Smith
+
+#### Which Dan Brown book was first released in the 90s?
+
+- [ ] The Da Vinci Code
+- [x] Digital Fortress
+- [ ] Deception Point
+
+#### “Digerati” is a portmanteau of what two words?
+
+- [ ] Digital and Culturati
+- [x] Digital and Literati
+- [ ] Digital and Illuminati
+
+#### How many Hydrogen atoms are needed to create water?
+
+- [ ] One
+- [x] Two
+- [ ] Three
+
+#### In “To Kill A Mockingbird”, what is the name of the Scout and Jem’s father?
+
+- [x] Atticus
+- [ ] Boo
+- [ ] James
+
+#### What kind of animal is Goofy?
+
+- [ ] Duck
+- [ ] Dolphin
+- [x] Dog
+
+#### This summer, which crossover song broke the record for consecutive weeks at #1?
+
+- [x] Old Town Road
+- [ ] Blurred Lines
+- [ ] Just the Way You Are
+
+#### Puppets from which Rankin-Bass 1960's Holiday special resurfaced on "Antiques Roadshow"?
+
+- [ ] The Star Wars Holiday Special
+- [x] Rudolph the Red-Nosed Raindeer
+- [ ] A Very Rugrats Christmas
+
+#### What U.S. city is home to Alcatraz?
+
+- [ ] New York
+- [ ] Detroit
+- [x] San Francisco
+
+#### In "The Matrix", what does Neo say after having combat techniques downloaded into his brain?
+
+- [ ] "I can Karate"
+- [x] "I know Kung Fu"
+- [ ] "I Box now"
+
+#### Coffee, eucalyputs, methol, and flower are all failed flavors of what candy?
+
+- [ ] Mentos
+- [ ] Life Savers
+- [x] Pez
+
+#### Which of these shopping-theme board games is the fake?
+
+- [ ] Meet Me At the Mall
+- [ ] Let's Go Shopping
+- [x] Mall Mania
+
+#### In a choir, which section generally sings the highest notes?
+
+- [ ] Alto
+- [ ] Bass
+- [x] Soprano
+
+#### Which of these Disney animal sidekicks can talk?
+
+- [ ] Abu
+- [x] Iago
+- [ ] Meeko
+
+#### Which Shakespeare work is nicknamed "The Scottish Play"?
+
+- [ ] Hamlet
+- [x] Macbeth
+- [ ] Romeo and Juliet
+
+#### Which NASA program landed people on the moon?
+
+- [x] Apollo
+- [ ] Gemini
+- [ ] Mercury
