@@ -15341,3 +15341,51 @@
 - [x] Apollo
 - [ ] Gemini
 - [ ] Mercury
+
+#### 72-year old Grandmother Jane Snowball was the first person to do what?
+
+- [ ] Beat Super Mario Bros
+- [ ] Use a hearing aid
+- [x] Shop online
+
+#### What is Dr. Seuss's real name?
+
+- [ ] Charlie Manson
+- [x] Theodor Geisel
+- [ ] Barbara Bush
+
+#### Which of the following books was NOT written by Stephen King?
+
+- [ ] It
+- [ ] The Stand
+- [x] Henry & Ribsy
+
+#### What is the name of Rankin/Bass' Long-Eared Christmas Donkey?
+
+- [ ] Nelson
+- [ ] Nickie
+- [x] Nestor
+
+#### In which century did the second U.S. Industrial Revolution happen?
+
+- [x] 19th
+- [ ] 3rd
+- [ ] 12th
+
+#### What playground game is played with a volleyball tied to a pole?
+
+- [ ] Dodgeball
+- [x] Tetherball
+- [ ] Pickleball
+
+#### In "It's A Wonderful Life", How did George lose the hearing in one of his ears?
+
+- [ ] Hit by Mr. Gower
+- [x] Saving his brother's life
+- [ ] Car accident
+
+#### Which of the following discontinued candies debuted most recently?
+
+- [x] PB Max
+- [ ] Gatorgum
+- [ ] Chicken Dinner Bar
