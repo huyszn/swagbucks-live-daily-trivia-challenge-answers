@@ -15497,3 +15497,39 @@
 - [x] The Iron Chancellor
 - [ ] The Paper Chaser
 - [ ] L'il O
+
+#### Which Disney character most cosely resembles a Rolls-Royce hood ornament?
+
+- [x] Tinkerbell
+- [ ] Thumper
+- [ ] Simba
+
+#### What kind of casserole was made popular by Campbell's soup in 1955?
+
+- [x] Green Bean
+- [ ] Carrot
+- [ ] Ham
+
+#### Which Oscar winner posed as their twin sibling to perform a monologue for a college course?
+
+- [ ] Jeff Bridges
+- [x] Rami Malek
+- [ ] Scarlett Johansson
+
+#### What chocolate treat has a malted milk ball center?
+
+- [ ] Goobers
+- [ ] Milk Duds
+- [x] Whoppers
+
+#### What pirate captain is the sworn enemy of Peter Pan?
+
+- [ ] Captain Morgan
+- [ ] Captain Solo
+- [x] Captain Hook
+
+#### What precious stone is generally used in engagement rings?
+
+- [x] Diamond
+- [ ] Sapphire
+- [ ] Ruby
