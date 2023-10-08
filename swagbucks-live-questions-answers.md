@@ -15437,3 +15437,63 @@
 - [ ] Isaac Asimov
 - [x] Philip K. Dick
 - [ ] Ray Bradbury
+
+#### Which of these words refers to something lucky happening?
+
+- [x] Fortuitous
+- [ ] Doldrums
+- [ ] Depressive
+
+#### What year did Amelia Earhart complete her solo flight across the Atlantic?
+
+- [ ] 1901
+- [x] 1932
+- [ ] 1955
+
+#### What party game involves throwing balls into cups?
+
+- [x] Beer pong
+- [ ] Quarters
+- [ ] Truth or Dare
+
+#### Which of the following is a self-help book?
+
+- [x] The Four Agreements
+- [ ] Everybody Poops
+- [ ] Brave New World
+
+#### What building serves as the office and home of the sitting U.S. President?
+
+- [ ] Library of Congress
+- [ ] The Washington Monument
+- [x] The White House
+
+#### Which of these vegan burger brands is fake?
+
+- [ ] Impossible Burger
+- [x] We Swear It's Not A Burger
+- [ ] Beyond Burger
+
+#### Who coined words like Mumchanciness, Skeeze, and Tattarrattat?
+
+- [ ] Lewis Carroll
+- [ ] William Shakespeare
+- [x] James Joyce
+
+#### Which of the following is NOT the title of one of Aesop's Fables?
+
+- [ ] The Ants & The Grasshopper
+- [ ] The Wolf & His Shadow
+- [x] Rizzoli & Isles
+
+#### Jay-Z is married to which music superstar?
+
+- [ ] Chaka Khan
+- [ ] Barbra Streisand
+- [x] Beyoncé
+
+#### Otto Von Bismarck went by what nickname?
+
+- [x] The Iron Chancellor
+- [ ] The Paper Chaser
+- [ ] L'il O
