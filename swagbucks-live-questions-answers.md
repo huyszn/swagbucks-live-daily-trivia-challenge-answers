@@ -15389,3 +15389,51 @@
 - [x] PB Max
 - [ ] Gatorgum
 - [ ] Chicken Dinner Bar
+
+#### In "Dirty Dancing", nobody puts Baby where?
+
+- [ ] On a pedestral
+- [ ] In the trunk
+- [x] In the corner
+
+#### Disney currently has a deal with Sony to co-produce films featuring which web-slingling MCU character?
+
+- [ ] Howard the Duck
+- [ ] Moon Knight
+- [x] Spider-Man
+
+#### Who led the Continental Army to victory over the British in the Revolutionary War?
+
+- [x] George Washington
+- [ ] Abraham Lincoln
+- [ ] Dwight Eisenhower
+
+#### Cheez-its are a brand of what?
+
+- [x] Snack Cracker
+- [ ] Ice Cream
+- [ ] Ginger Ale
+
+#### What are the two directions words generally go in a crossword puzzle?
+
+- [ ] Down & Out
+- [x] Down & Across
+- [ ] Down & Under
+
+#### What in the main ingredient in the Greek dish, moussaka?
+
+- [x] Eggplant
+- [ ] Zucchini
+- [ ] Squash
+
+#### What cosmetrics brand awards top sales reps with access to their Pink Cadillac "Career Cars"?
+
+- [ ] Ulta
+- [ ] Honest Co.
+- [x] Mary Kay
+
+#### In 2005, Hanson Robotics introduced an android version of what Sci-Fi author?
+
+- [ ] Isaac Asimov
+- [x] Philip K. Dick
+- [ ] Ray Bradbury
