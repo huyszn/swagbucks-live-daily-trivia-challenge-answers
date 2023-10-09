@@ -15533,3 +15533,63 @@
 - [x] Diamond
 - [ ] Sapphire
 - [ ] Ruby
+
+#### Which of these words is a verb?
+
+- [ ] Voracious
+- [x] Run
+- [ ] There
+
+#### What is the term for a book of maps?
+
+- [ ] At will
+- [ ] Attack
+- [x] Atlas
+
+#### What U.S. city is known as The Big Easy?
+
+- [ ] Chicago
+- [x] New Orleans
+- [ ] Miami
+
+#### The name PEZ comes from the German word for what?
+
+- [x] Peppermint
+- [ ] Neck
+- [ ] Whistle
+
+#### Which "Manos: The Hands of Fate" character delivers pizzas on MST3K?
+
+- [x] Torgo
+- [ ] The Master
+- [ ] Margaret
+
+#### In mathematics, what is the best way to represent a subset?
+
+- [ ] Pie Chart
+- [x] Venn Diagram
+- [ ] Table
+
+#### Chamber, Philharmonic, and Symphony are all types of what?
+
+- [x] Orchestras
+- [ ] Orchids
+- [ ] Orcs
+
+#### Who spun her successful afternoon talk show into O Magazine and the OWN Television Network?
+
+- [ ] Olivia Newton-John
+- [ ] Li'l Orphan Annie
+- [x] Oprah Winfrey
+
+#### Complete this slogan: "The Few. The Proud. The..."
+
+- [x] Marines
+- [ ] Hobgoblins
+- [ ] Atomic Weight of Boron
+
+#### Where was the first lending library in America opened?
+
+- [ ] Boston
+- [x] Philadelphia
+- [ ] New York
