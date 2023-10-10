@@ -15593,3 +15593,111 @@
 - [ ] Boston
 - [x] Philadelphia
 - [ ] New York
+
+#### Complete the title of this Margaret Miotchell novel: “Gone With The…”
+
+- [ ] Laundry
+- [ ] Motorcycle
+- [x] Wind
+
+#### What Italian city is famous for its leaning tower?
+
+- [ ] Florence
+- [x] Pisa
+- [ ] Rome
+
+#### Gustavo Olguin is credited with creating what classic snack food?
+
+- [ ] Oreos
+- [x] Fritos
+- [ ] Doritos
+
+#### If you’re Alektorophobic, which of restaurant would you most likely avoid?
+
+- [x] KFC
+- [ ] Arby’s
+- [ ] Olive Garden
+
+#### What year was the first eSports tournament held?
+
+- [x] 1972
+- [ ] 1981
+- [ ] 1966
+
+#### A hope chest collects items for what occasion?
+
+- [ ] The death of the owner
+- [x] The marriage of the owner
+- [ ] The birthday of the owner
+
+#### Who was responsible for writing Kevin Gnappor’s rap?
+
+- [ ] Tina Fey
+- [ ] Tim Meadows
+- [x] Amy Poehler
+
+#### What bird was called Walghvodel by the Dutch?
+
+- [ ] Vulture
+- [x] Dodo
+- [ ] Ostrich
+
+#### Which of the following is the highest waterfall in the world?
+
+- [x] Angel Falls
+- [ ] Niagara Falls
+- [ ] Victoria Falls
+
+#### In which movie does a pair of jeans magically fit four different friends?
+
+- [x] The Sisterhood of the Traveling Pants
+- [ ] Scream
+- [ ] Easy A
+
+#### Which of the following is NOT the name of one of the original Cinnamon Toast Crunch Bakers?
+
+- [ ] Quello
+- [ ] Wendell
+- [x] Charlie
+
+#### Where did the world’s oldest surviving musical composition originate?
+
+- [x] Greece
+- [ ] Egypt
+- [ ] China
+
+#### Which country uses the most time zones?
+
+- [ ] Russia
+- [x] France
+- [ ] China
+
+#### The Purple Pieman is the antagonist in what toy line?
+
+- [ ] Rainbow Brite
+- [x] Strawberry Shortcake
+- [ ] Jem
+
+#### What U.S. city’s name was meant to trick people into moving there?
+
+- [x] Zilwaukee
+- [ ] Miladelphia
+- [ ] New Yort City
+
+#### Which of these terms is NOT derived from indigenous American Language?
+
+- [ ] Hickory
+- [x] Hootenanny
+- [ ] Opossum
+
+#### Which of these languages was made up for TV or movies?
+
+- [ ] Esperanto
+- [x] Klingon
+- [ ] French
+
+#### In Longfellow’s poem “Paul Revere’s Ride”, how many lanterns signify an attack by sea?
+
+- [ ] One
+- [x] Two
+- [ ] Three
