@@ -15701,3 +15701,63 @@
 - [ ] One
 - [x] Two
 - [ ] Three
+
+#### In which area of the Disney Parks will Savi help you build your own lightsaber?
+
+- [ ] Critter Country
+- [ ] Mickey's Toontown
+- [x] Galaxy's Edge
+
+#### In which sport do you "check" your opponent into the boards?
+
+- [x] Hockey
+- [ ] Baseball
+- [ ] Fly fishing
+
+#### In 1968, which Founding Father got an honorary induction into the International Swimming Hall of Fame?
+
+- [x] Benjamin Franklin
+- [ ] George Washington
+- [ ] James Madison
+
+#### Levar Burton, Aaron Rodgers and Mayim Bialik have taken turns guest hosting what game show?
+
+- [ ] The Price Is Right
+- [x] Jeopardy
+- [ ] Wheel of Fortune
+
+#### What kind of music was Run DMC known for?
+
+- [ ] County
+- [x] Rap
+- [ ] Fusion
+
+#### Keith Richards is the lead guitar player for what classic rock band?
+
+- [x] The Rolling Stones
+- [ ] Cream
+- [ ] Blues Traveler
+
+#### A traditional black and white milkshake contains what two flavors?
+
+- [ ] Vanilla and Coffee
+- [x] Vanilla and Chocolate
+- [ ] Vanilla and Black Cherry
+
+#### Which of the following famous people died first?
+
+- [ ] Annie Oakley
+- [x] Harry Houdini
+- [ ] William Howard Taft
+
+#### The U.S. version of "The Office" takes place in which town?
+
+- [x] Scranton, PA
+- [ ] Utica, NY
+- [ ] Providence, RI
+
+#### What type of anniversary does a couple married 15 years celebrate?
+
+- [x] Crystal
+- [ ] Aluminum
+- [ ] Jade
