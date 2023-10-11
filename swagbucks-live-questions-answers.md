@@ -15918,12 +15918,6 @@
 - [ ] Thailand
 - [ ] Malaysia
 
-#### Which of these countries shares a border with China?
-
-- [x] Laos
-- [ ] Thailand
-- [ ] Malaysia
-
 #### In which month does the United States celebrate Labor Day?
 
 - [ ] July
@@ -15971,3 +15965,63 @@
 - [ ] It's A Living
 - [x] Baywatch
 - [ ] Small Wonder
+
+#### What animal can sleep for up to three years?
+
+- [ ] Sloth
+- [ ] Tortoise
+- [x] Snail
+
+#### When asked, why did the founder of Piggly Wiggly say he chose that name?
+
+- [ ] Pet pig from childhood
+- [x] So people would ask
+- [ ] A book of nursery rhymes
+
+#### Who was first proposed to play the title role in "The Terminator"?
+
+- [ ] Steve McQueen
+- [x] O.J. Simpson
+- [ ] Charles Bronson
+
+#### In 2005 Cate Blanchett won an Oscar for playing what other Oscar winner?
+
+- [ ] Frances McDormand
+- [x] Katharine Hepburn
+- [ ] Jane Fonda
+
+### In which country is a bowl of live shrimp considered a delicacy?
+
+- [ ] China
+- [ ] Vietnam
+- [x] Thailand
+
+### Whose moderator role on "The View" did Whoopi Goldberg take over?
+
+- [ ] Barbara Walters
+- [x] Rosie O'Donnell
+- [ ] Joy Behar
+
+### The first U.S. cookbook was published by whom?
+
+- [x] Amelia Simmons
+- [ ] Betty Crocker
+- [ ] Susannah Carter
+
+### Which of these people is the daughter of an Oscar-winning mother and a Grammy-winning father?
+
+- [ ] Shiloh Jolie-Pitt
+- [ ] Carrie Fisher
+- [x] Moses Martin
+
+### What is the name of the interstellar government Earth belongs to?
+
+- [ ] United Way
+- [x] United Federation of Planets
+- [ ] United Arab Emirates
+
+### Bulova made the first TV commercial. How much did they pay for the air time?
+
+- [ ] 75 cents
+- [ ] 5 dollars
+- [x] 9 dollars
