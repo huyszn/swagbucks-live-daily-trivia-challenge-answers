@@ -15761,3 +15761,213 @@
 - [x] Crystal
 - [ ] Aluminum
 - [ ] Jade
+
+#### Where does Dorthy Gale travel to Oz from?
+
+- [ ] Kentucky
+- [x] Kansas
+- [ ] Kathmandu
+
+#### What weather event carries Dorthy and her house to Oz?
+
+- [ ] Blizzard
+- [ ] Tsunami
+- [x] Tornado
+
+#### What is the name of the Good Witch of the North?
+
+- [x] Glinda
+- [ ] Gloria
+- [ ] Georgina
+
+#### Which of the following groups formally welcomes Dorothy to Munchkinland?
+
+- [ ] The Popsicle Union
+- [x] The Lollipop Guild
+- [ ] The Ice Cream Social Club
+
+#### In “The Wizard of Oz”, what is the Scarecrow seeking?
+
+- [x] A brain
+- [ ] His keys
+- [ ] Youthful innocence
+
+#### Which clothing item from the Wicked Witch of the East winds up on Dorothy?
+
+- [ ] Diamond headband
+- [ ] Sapphire scarf
+- [x] Ruby slippers
+
+#### Prior to playing The Wicked Witch of the West, what did Margaret Hamilton do for a living?
+
+- [ ] Nurse
+- [x] Kindergarten Teacher
+- [ ] Nun
+
+#### In The Wizard of Oz, which character is looking for courage?
+
+- [ ] The Frightened Ferret
+- [ ] The Scared Sable
+- [x] The Cowardly Lion
+
+#### What’s the name of Dorothy Gale’s dog?
+
+- [ ] Snoopy
+- [x] Toto
+- [ ] Odie
+
+#### What does Dorothy have to say while clicking her heels to return to Kansas?
+
+- [x] There’s no place like home
+- [ ] Calgon, take me away
+- [ ] Exit, stage left
+
+#### Emma Stone recently starred as a younger version of what Disney villainess?
+
+- [ ] Ursula
+- [x] Cruella De Vil
+- [ ] Maleficent
+
+#### What is a male chicken called?
+
+- [ ] Hen
+- [ ] Eagle
+- [x] Rooster
+
+#### The first depiction of a unicorn in western literature came from which country?
+
+- [ ] England
+- [x] Greece
+- [ ] France
+
+#### According to the Pringles slogan, “Once you pop”, what happens?
+
+- [x] The fun don’t stop
+- [ ] The rabbits hop
+- [ ] We call a cop
+
+#### Which classic book was originally published in two parts?
+
+- [ ] Dracula
+- [x] Little Women
+- [ ] Huckleberry Finn
+
+#### What movie’s tagline is “Houston, We Have A Problem”?
+
+- [x] Apollo 13
+- [ ] Little Women
+- [ ] Huckleberry Finn
+
+#### Who wrote “The Star Spangled Banner”?
+
+- [ ] Benjamin Franklin
+- [x] Francis Scott Key
+- [ ] George Washington
+
+#### What was Apple’s slogan from 1997 to 2002?
+
+- [x] Think Different
+- [ ] Pretty Machines
+- [ ] We’re Number One
+
+#### Hugh Jackman played which superhero?
+
+- [ ] The Human Torch
+- [ ] Iron Man
+- [x] Wolverine
+
+#### According to the saying, what are you supposed to let sleeping dogs do?
+
+- [ ] Bark
+- [x] Lie
+- [ ] Your taxes
+
+#### If Rod Serling hosted his TV show from the ocean, what ocean layer would he most likely host it from?
+
+- [ ] Abyssopelagic Zone
+- [ ] Hadalpelagic Zone
+- [x] Mesopelagic Zone
+
+#### Which of these summer flops was an adaptation of a Michael Crichton novel?
+
+- [ ] Ishtar
+- [x] The 13th Warrior
+- [ ] Stealth
+
+#### What country star turned his song “The Gambler” into a series of TV movies?
+
+- [ ] Clint Black
+- [x] Kenny Rogers
+- [ ] Garth Brooks
+
+#### Where was the infamous Sun Records studio located?
+
+- [ ] Memphis, TN
+- [x] Detroit, MI
+- [ ] Altoona, PA
+
+#### Which of the following Disney attractions did NOT originate at the 1964 World’s Fair?
+
+- [ ] Carousel of Progress
+- [ ] It’s a Small World
+- [x] Autopia
+
+#### Which of these countries shares a border with China?
+
+- [x] Laos
+- [ ] Thailand
+- [ ] Malaysia
+
+#### Which of these countries shares a border with China?
+
+- [x] Laos
+- [ ] Thailand
+- [ ] Malaysia
+
+#### In which month does the United States celebrate Labor Day?
+
+- [ ] July
+- [x] September
+- [ ] November
+
+#### What popular game is played with fiberglass rackets and plastic ball?
+
+- [ ] Dodgeball
+- [ ] Handball
+- [x] Pickleball
+
+#### In the MLB, what does the A's in Oakland A's stand for?
+
+- [x] Athletics
+- [ ] Americans
+- [ ] Argonauts
+
+#### What is the symbol used to indicate silence in sheet music?
+
+- [ ] Fermata
+- [x] Rest
+- [ ] Tie
+
+#### What percentage of hazelnuts worldwide wind up in Nutella?
+
+- [x] 25%
+- [ ] 50%
+- [ ] 75%
+
+#### How many emails do spammers send to get one reply?
+
+- [x] 125,000
+- [ ] 1,250,000
+- [ ] 12,500,000
+
+#### What is the name of Garfield's owner?
+
+- [x] Jon
+- [ ] Jim
+- [ ] Jack
+
+#### What syndicated TV show was about lifeguards?
+
+- [ ] It's A Living
+- [x] Baywatch
+- [ ] Small Wonder
