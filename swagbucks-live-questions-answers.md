@@ -16187,3 +16187,63 @@
 - [ ] Simon
 - [x] Wayne Campbell
 - [ ] Dieter
+
+#### Link is the hero of what video game series?
+
+- [x] Legend of Zelda
+- [ ] Super Mario Bros
+- [ ] Donkey Kong Country
+
+#### Edgar Rice Burroughs created what literary character?
+
+- [ ] Hamlet
+- [ ] Tom Sawyer
+- [x] Tarzan
+
+#### Which of these famous buildings can be found in London?
+
+- [ ] Sagrada Familia
+- [x] Big Ben
+- [ ] The Sears Tower
+
+#### Enterprise, Budget, and Avis are all companies that allow you to rent what?
+
+- [ ] Couches
+- [x] Cars
+- [ ] Cats
+
+#### NaCl is the chemical formula for what household item?
+
+- [ ] Sugar
+- [x] Salt
+- [ ] Ammonia
+
+#### What makes leaves green?
+
+- [x] Chlorophyll
+- [ ] Leprechaun paint
+- [ ] Envy
+
+#### What boxer was known as "The Louisville Lip"?
+
+- [ ] Joe Frazier
+- [ ] George Foreman
+- [x] Muhammad Ali
+
+#### A new app from Google takes your selfies and matches them with what?
+
+- [ ] Outfits
+- [x] Paintings
+- [ ] Family members
+
+#### Which of these is NOT a ghost from Pac-Man?
+
+- [ ] Inky
+- [ ] Pinky
+- [x] Casper the Friendly Ghost
+
+#### If you're ignoring someone, what are you said to be giving them?
+
+- [ ] The warm ankle
+- [x] The cold shoulder
+- [ ] The scalding eyes
