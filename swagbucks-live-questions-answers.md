@@ -16025,3 +16025,165 @@
 - [ ] 75 cents
 - [ ] 5 dollars
 - [x] 9 dollars
+
+#### Which airline used the slogan, “Life is a journey. Travel it well.”?
+
+- [ ] United
+- [x] Southwest
+- [ ] Pan Am
+
+#### In which sport do you shoot for Par?
+
+- [ ] Darts
+- [ ] Polo
+- [x] Golf
+
+#### According to popular legend, who sewed the first American flag?
+
+- [x] Betsy Ross
+- [ ] Betty Boop
+- [ ] Betty Crocker
+
+#### What candy bar ads feature a battle between the left and right bars?
+
+- [ ] Kit-Kat
+- [ ] Skor
+- [x] Twix
+
+#### What TV show featured lead characters named Chandler, Monica, and Phoebe?
+
+- [ ] NBC Nightly News
+- [ ] The Young Ones
+- [x] Friends
+
+#### Prego and Ragu are brands of what?
+
+- [x] Pasta Sauces
+- [ ] Car Wax
+- [ ] Flag
+
+#### Which of these sauces originated in Mississippi?
+
+- [ ] Kewpie Mayo
+- [ ] Mambo Sauce
+- [x] Comeback Sauce
+
+#### What field of study would help Super Mario grow?
+
+- [ ] Desmology
+- [ ] Enology
+- [x] Mycology
+
+#### In a division equation, what is the term for the solution?
+
+- [ ] Dividend
+- [ ] Divisor
+- [x] Quotient
+
+#### Which U.S. holiday comes first in a standard year?
+
+- [ ] Thanksgiving
+- [x] President’s Day
+- [ ] Labor Day
+
+#### Which of these is a character in the original 1987 Double Dragon game?
+
+- [x] Willy Mackey
+- [ ] Winston
+- [ ] Billy Low
+
+#### What country is home to the Kremlin?
+
+- [x] Russia
+- [ ] Czechoslovakia
+- [ ] Romania
+
+#### Who was the British Prime Minster during World War II?
+
+- [ ] Margaret Thatcher
+- [x] Winston Churchill
+- [ ] Tony Blair
+
+#### Which of these Mario games was released in 2016?
+
+- [x] Paper Mario: Color Splash
+- [ ] Super Mario Galaxy
+- [ ] Mario Odyssey
+
+#### Which airline uses the slogan “The Spirit of Australia”?
+
+- [ ] Delta Air Lines
+- [ ] United Airlines
+- [x] Qantas
+
+#### Which of the following landmarks is located in Paris?
+
+- [x] The Arc de Triomphe
+- [ ] The Parthenon
+- [ ] The Leaning Tower of Pisa
+
+#### Which popular kids toy was originally sold as wallpaper cleaner?
+
+- [ ] Silly Putty
+- [ ] Gak
+- [x] Play-Doh
+
+#### What year did Saturday Night Live debut?
+
+- [x] 1975
+- [ ] 1901
+- [ ] 1894
+
+#### What is the name of SNL's news segment that appears in each episode?
+
+- [ ] Not Necessarily The News
+- [x] Weekend Update
+- [ ] The Daily Show
+
+#### Which of the following performers was part of the original SNL cast?
+
+- [x] John Belushi
+- [ ] David Spade
+- [ ] Colin Jost
+
+#### The Roxbury Guys sketches always featured the characters bobbing their heads to what club song?
+
+- [ ] Beautiful Life
+- [x] What is Love
+- [ ] Pump Up The Jam
+
+#### What fromer Nickelodeon star is SNL's longest-tenured cast member?
+
+- [x] Kenan Thompson
+- [ ] Tim Meadows
+- [ ] Darrell Hammond
+
+#### Astronaut Jones, Brian Fellows, and Woodrow were characters played by which SNL cast member?
+
+- [x] Tracy Morgan
+- [ ] Will Ferrell
+- [ ] Martin Short
+
+#### Which SNL cast member played a foul-mouthed version of Gumby?
+
+- [ ] Joe Piscopo
+- [ ] Phil Hartman
+- [x] Eddie Murphy
+
+#### As of October of 2023, which of the following SNL hosts is NOT a member of the "5-Timers Club"?
+
+- [ ] Woody Harrelson
+- [x] Jim Carrey
+- [ ] Melissa McCarthy
+
+#### Dana Carvey's Church LAdy would often spout what catchphrase?
+
+- [x] "Well Isn't that special?"
+- [ ] "We are two wild and crazy guys!"
+- [ ] "I'm Chevy Chase and you're not."
+
+#### What Aurora Public Access host was played by Mike Myers?
+
+- [ ] Simon
+- [x] Wayne Campbell
+- [ ] Dieter
