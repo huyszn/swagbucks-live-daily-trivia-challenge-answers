@@ -16356,12 +16356,6 @@
 - [ ] Louis Vuitton
 - [ ] Prada
 
-#### Which luxury fashion brand is known for its iconic double-C logo?
-
-- [x] Chanel
-- [ ] Louis Vuitton
-- [ ] Prada
-
 #### What kind of beans are used to make traditional miso?
 
 - [ ] Garbanzo
@@ -16415,3 +16409,45 @@
 - [ ] Remote Control
 - [ ] Teen Jeopardy
 - [x] Double Dare
+
+#### After winning the Oscar for Best Picture in 1977 for this movie, Sly Stallone should have screamed "Yo Adrian! I DID IT!"
+
+- [ ] Traffic
+- [x] Rocky
+- [ ] The Sting
+
+#### What team broke an 86-year Championship drought in 2004?
+
+- [x] Boston Red Sox
+- [ ] Houston Astros
+- [ ] Colorado Rockies
+
+#### Which of these pasta sauces is made from tomatoes?
+
+- [x] Marinara
+- [ ] Alfredo
+- [ ] Pesto
+
+#### Which of these wars was fought the earliest?
+
+- [ ] World War I
+- [ ] The War on Drugs
+- [x] Peloponnesian War
+
+#### If you were following its root meaning, what would you use a cubicle for?
+
+- [ ] Food storage
+- [ ] Producing books
+- [x] Sleeping
+
+#### Chanbara are swashbuckling historical movies set in what country?
+
+- [ ] Italy
+- [x] Japan
+- [ ] India
+
+#### "Psycho" was the first movie to show what happening on screen?
+
+- [ ] A woman in the shower
+- [ ] Multiple Personality Disorder
+- [x] A toilet flushing
