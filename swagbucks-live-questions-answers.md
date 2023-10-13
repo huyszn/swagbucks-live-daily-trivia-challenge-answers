@@ -16247,3 +16247,171 @@
 - [ ] The warm ankle
 - [x] The cold shoulder
 - [ ] The scalding eyes
+
+#### Which one of these comedians has NOT hosted Family Feud?
+
+- [ ] Steve Harvey
+- [x] Drew Carey
+- [ ] Louie Anderson
+
+#### One the Atkins diet, which of the following are you allowed to consume in very limited amounts?
+
+- [x] Carbs
+- [ ] Meats
+- [ ] Water
+
+#### Harper Lee wrote a famous book called “To Kill A” what?
+
+- [ ] Hour
+- [ ] Buzz
+- [x] Mockingbird
+
+#### In 2017, “Never Say Die” took over the World Record for highest grossing live-action comedy. What film did it replace?
+
+- [ ] Ghostbusters
+- [ ] Home Alone
+- [x] There’s Something About Mary
+
+#### The 1920s Naval slag “Dobeying” refers to doing what?
+
+- [ ] Cooking
+- [x] Laundry
+- [ ] Dancing
+
+#### Which of these Oscar winning actresses has an Oscar-winning father?
+
+- [ ] Jane Fonda
+- [x] Jennifer Lawrence
+- [ ] Anne Hathaway
+
+#### What was recently found to be hidden in the streaming service Peacock’s User Agreement?
+
+- [ ] A monologue from The West Wing
+- [ ] The lyrics to the theme song from Cheers
+- [x] Kevin’s Chili recipe from The Office
+
+#### Which obstacle would you encounter on “American Ninja Warrior”?
+
+- [x] The Warped Wall
+- [ ] A pile of dryer lint
+- [ ] Chocolate Souffle
+
+#### “King Kong” was inspired by a real-life expedition to capture what creature?
+
+- [ ] Silverback Gorilla
+- [x] Komodo Dragon
+- [ ] Black Bear
+
+#### What was the name of Shakespeare’s mother?
+
+- [x] Mary
+- [ ] Jane
+- [ ] Ann
+
+#### In addition to President, what government role did William Howard Taft hold?
+
+- [ ] Secretary of the Treasury
+- [x] Chief Justice of the Supreme Court
+- [ ] Head of the Secret Service
+
+#### Who is the latest actor to play Batman in a major motion picture?
+
+- [ ] Michael Keaton
+- [ ] Ben Affleck
+- [x] Robert Pattinson
+
+#### Which of the following TV shows is animated?
+
+- [x] The Flintstones
+- [ ] Thirtysomething
+- [ ] Friends
+
+#### What flat Middle Eastern bread is often turned into a pocket-style sandwich?
+
+- [ ] Matzo
+- [ ] Naan
+- [x] Pita
+
+#### The first American team to play for a Stanley Cup hailed from what city?
+
+- [ ] Detroit
+- [x] Portland
+- [ ] Seattle
+
+#### On which of these planets would you weigh MORE than you would on Earth?
+
+- [ ] The Moon
+- [ ] Venus
+- [x] Neptune
+
+#### Babe Ruth, Willie Mays, and Derek Jeter are all enshrined in which sports Hall of Fame?
+
+- [x] Baseball
+- [ ] Rugby
+- [ ] Surfing
+
+#### Which luxury fashion brand is known for its iconic double-C logo?
+
+- [x] Chanel
+- [ ] Louis Vuitton
+- [ ] Prada
+
+#### Which luxury fashion brand is known for its iconic double-C logo?
+
+- [x] Chanel
+- [ ] Louis Vuitton
+- [ ] Prada
+
+#### What kind of beans are used to make traditional miso?
+
+- [ ] Garbanzo
+- [x] Soy
+- [ ] Kidney
+
+#### Annapolis is the capital of which State?
+
+- [ ] Florida
+- [ ] Illinois
+- [x] Maryland
+
+#### What entertainment industry awards were originally items like lighters and makeup compacts?
+
+- [x] Tonys
+- [ ] Grammys
+- [ ] Oscars
+
+#### A photoshopped ad led to the creation of what fast food sandwich?
+
+- [ ] Double Down
+- [ ] Arch Deluxe
+- [x] Meat Mountain
+
+#### What modeling clay brand is known for its Fun Factory?
+
+- [ ] Work-Doh
+- [x] Play-Doh
+- [ ] Rest-Doh
+
+#### Which Batman actor is such a fan he once had a Batcave entrance built in his house?
+
+- [ ] George Clooney
+- [x] Ben Affleck
+- [ ] Val Kilmer
+
+#### Which singer's name was inspired by a professional wrestler?
+
+- [ ] Pitfull
+- [ ] M.I.A.
+- [x] Bruno Mars
+
+#### Who won the 2023 NBA Finals?
+
+- [x] Denver Nuggets
+- [ ] Miami Heat
+- [ ] Boston Celtics
+
+#### What 1980s Nickelodeon game show featured physical challenges that involved messy stunts?
+
+- [ ] Remote Control
+- [ ] Teen Jeopardy
+- [x] Double Dare
