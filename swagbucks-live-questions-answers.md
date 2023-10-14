@@ -16547,3 +16547,57 @@
 - [ ] Ringer Tee
 - [ ] Mock Turtleneck
 - [x] Flannel
+
+#### The G-League is the developmental league for what sport?
+
+- [ ] Football
+- [x] Basketball
+- [ ] Baseball
+
+#### In 1955, Rosa Parks was arrested for what?
+
+- [ ] Identity theft
+- [ ] Embezzlement
+- [x] Civil disobedience
+
+#### According to a 2010 study, what does the smell of freshly cut grass convey to nearby insects?
+
+- [ ] Seasonal change
+- [x] Trauma
+- [ ] Fresh growth
+
+#### Which of the do you use to dry your hands?
+
+- [x] A towel
+- [ ] Raw hamburger
+- [ ] Cooked hamburger
+
+#### Which of the following is a brand of medicated powder?
+
+- [x] Gold Bond
+- [ ] Municipal Bond
+- [ ] Bond. James Bond
+
+#### "Miss Americana" was a Netflix documentary about what Singer-Songwriter?
+
+- [ ] Cardi B
+- [ ] James Taylor
+- [x] Taylor Swift
+
+#### Which celebrity was the guest timekeeper for the main event of Wrestlemania I?
+
+- [x] Liberace
+- [ ] Cyndi Lauper
+- [ ] Muhammad Ali
+
+#### What form of dance, incorporating gymnastics and martial arts, was born in NYC?
+
+- [x] Breakdancing
+- [ ] Merengue
+- [ ] Waltz
+
+#### Yasmin, Cloe, Sasha and Jade were the original four dolls in what toy line?
+
+- [x] Bratz
+- [ ] GI Joe
+- [ ] Transformers
