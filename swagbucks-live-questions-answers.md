@@ -16601,3 +16601,39 @@
 - [x] Bratz
 - [ ] GI Joe
 - [ ] Transformers
+
+#### Which entrepreneur's name contains the only letter in the English language that is never silent?
+
+- [ ] Sergey Brin
+- [ ] Mark Zuckerberg
+- [x] Gary Vaynerchuk
+
+#### What soap opera did fitness guru Richard Simmons appear on briefly in 1980?
+
+- [x] General Hospital
+- [ ] All My Children
+- [ ] As the World Turns
+
+#### In "The Empire Strikes Back", what does Willrow Hood appear to be carrying around Bespin?
+
+- [ ] A cat
+- [x] An ice cream maker
+- [ ] Star Wars toys
+
+#### Where are culottes meant to be worn?
+
+- [ ] Upper body
+- [ ] Head
+- [x] Lower body
+
+#### Who once went almost 10 years without losing a race?
+
+- [ ] Michael Johnson
+- [x] Edwin Moses
+- [ ] Usain Bolt
+
+#### In the mnemonic "Please Excuse My Dear Aunt Sally", what math function does "Sally" stand for?
+
+- [x] Subtraction
+- [ ] Sauce
+- [ ] Smeagol
