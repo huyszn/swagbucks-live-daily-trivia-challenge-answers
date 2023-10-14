@@ -10045,7 +10045,7 @@
 
 #### Introduced in 1964, who is Barbie's little sister?
 
-- [ ] Skipper
+- [x] Skipper
 - [ ] Kid Sister
 - [ ] Rainbow Brite
 
@@ -11026,12 +11026,6 @@
 - [ ] Men's Health
 - [ ] The Sporting News
 - [x] Sports Illustrated
-
-#### Who was the first African-American president of the United States?
-
-- [ ] Jesse Jackson
-- [ ] Herman Cain
-- [x] Barack Obama
 
 #### Who was the first African-American president of the United States?
 
@@ -16451,3 +16445,105 @@
 - [ ] A woman in the shower
 - [ ] Multiple Personality Disorder
 - [x] A toilet flushing
+
+#### What sport has batsmen, bowlers, and wickets?
+
+- [ ] Pole Vault
+- [ ] Tennis
+- [x] Cricket
+
+#### Goofy has a cameo as himself in which Disney film?
+
+- [ ] 101 Dalmatians
+- [x] The Little Mermaid
+- [ ] Aladdin
+
+#### On May 27, 2021, HBOMAX premiered the reunion special for what NBC sitcom?
+
+- [ ] The Single Guy
+- [ ] Caroline in the City
+- [x] Friends
+
+#### Which U.S. sports team is also known as the South Siders?
+
+- [ ] Cubs
+- [x] White Sox
+- [ ] Tigers
+
+#### What show was narrated by a guy telling the story of how he met his children's mother?
+
+- [ ] Hey! Is That Mom?
+- [ ] Family Slideshow
+- [x] How I Met Your Mother
+
+#### What is the term for slow cooking vacuum-sealed food in a water bath?
+
+- [ ] Fricassee
+- [x] Sous-Vide
+- [ ] Low n' Slow
+
+#### What type of container is traditionally filled with candy and given out at Easter?
+
+- [ ] Backpack
+- [x] Basket
+- [ ] Briefcase
+
+#### What does the Phantom of the Opera use to cover his face?
+
+- [ ] A paper bag
+- [ ] His hands
+- [x] A mask
+
+#### What brand asks the quesiton: "What's in YOUR wallet?"
+
+- [ ] Visa
+- [x] Capital One
+- [ ] Mastercard
+
+#### After the Great Fire of 1666, Sir Christopher Wren rebuilt what city?
+
+- [x] London
+- [ ] Paris
+- [ ] Barcelona
+
+#### What is the name of Barbie's little sister?
+
+- [ ] GI Joe
+- [x] Skipper
+- [ ] Teddy Ruxpin
+
+#### What document was written to separate the United States from England?
+
+- [x] The Declaration of Independence
+- [ ] The Paris Accords
+- [ ] The Magna Carta
+
+#### The first United States patent for a fruit tree produced what kind of fruit?
+
+- [ ] Avocado
+- [x] Peach
+- [ ] Apple
+
+#### What does the Latin "Fastidium" translate to?
+
+- [ ] Cleanliness
+- [x] Disgust
+- [ ] Wings
+
+#### What is the name of Al Pacino's character in "Scarface"?
+
+- [x] Tony Montana
+- [ ] Tony Nevada
+- [ ] Tony California
+
+#### Which fast food chain used a Chihuahua in their commercials from 1997 to 2000?
+
+- [ ] Burger King
+- [ ] Subway
+- [x] Taco Bell
+
+#### The 1990s Grunge momvement turned what kind of shirt into a fashion trend?
+
+- [ ] Ringer Tee
+- [ ] Mock Turtleneck
+- [x] Flannel
