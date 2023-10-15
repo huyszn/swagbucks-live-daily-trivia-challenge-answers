@@ -16691,3 +16691,99 @@
 - [ ] George
 - [ ] Elaine
 - [x] Kramer
+
+#### Button, Cremini, and Protobello are all varieties of what food?
+
+- [ ] Apple
+- [x] Mushroom
+- [ ] Chicken
+
+#### Which of the following is NOT a typical option at an ice cream shop?
+
+- [ ] Cone
+- [ ] Bowl
+- [x] In a hat
+
+#### Which of the following Disney Parks opened most recently?
+
+- [ ] Euro Disney
+- [ ] The Magic Kingdom
+- [x] Shanghai Disneyland
+
+#### Which snake has a “hood”?
+
+- [ ] Viper
+- [ ] Boa Constrictor
+- [x] Cobra
+
+#### Sophie Friederike Auguste von Anhalt-Zerbst is better known by what name?
+
+- [ ] Marie Antoinette
+- [ ] Cleopatra
+- [x] Catherine the Great
+
+#### Which of these area codes does NOT cover an entire State?
+
+- [ ] 208
+- [ ] 406
+- [x] 719
+
+#### What toy line features characters like Megatron and Blaster?
+
+- [ ] G.I. Joe
+- [ ] My Little Pony
+- [x] Transformers
+
+#### Which former Beatle started the band Wings?
+
+- [ ] George Harrison
+- [x] Paul McCartney
+- [ ] Ringo Starr
+
+#### Who said "Ask not what your country can do for you, ask what you can do for your country?"
+
+- [ ] Richard Nixon
+- [ ] Winston Churchill
+- [x] John F. Kennedy
+
+#### Which of these Disney Channel crossover titles is the fake?
+
+- [ ] That's So Suite Life of Hannah Montana
+- [x] Everybody in the House
+- [ ] Monstober Spooktacular Weekend
+
+#### Based on their biological makeup, which Little Mermaid character would never have to take a pee break?
+
+- [x] Scuttle
+- [ ] Sebastian
+- [ ] Flounder
+
+#### What do dendrochronologists use to tell the time?
+
+- [ ] Bear habitats
+- [x] Trees
+- [ ] The sun
+
+#### Based on their name, which man's Vice PResident would eat your liver with some fava beans and a nice Chianti?
+
+- [x] Abraham Lincoln
+- [ ] Rutherford B Hayes
+- [ ] Teddy Rossevelt
+
+#### Which State is slated to host two of the next four Super Bowls?
+
+- [ ] California
+- [x] Florida
+- [ ] Texas
+
+#### Shawn Corey Carter is better known by what name?
+
+- [ ] 50 Cent
+- [x] Jay-Z
+- [ ] Eminem
+
+#### Which of the following is NOT a type of book binding?
+
+- [ ] Hardcover
+- [ ] Softcover
+- [x] Undercover
