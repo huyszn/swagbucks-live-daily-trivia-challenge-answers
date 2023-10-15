@@ -16637,3 +16637,57 @@
 - [x] Subtraction
 - [ ] Sauce
 - [ ] Smeagol
+
+#### Which comedian hosted the show Chelsea Lately?
+
+- [x] Chelsea Handler
+- [ ] Chelsea Clinton
+- [ ] Chelsea Football Club
+
+#### Who was the first character to die on "Beverly Hills 90210"?
+
+- [ ] Kelly's friend Jimmy
+- [ ] Dylan's dad Jack
+- [x] David's friend Scott
+
+#### According to Guinness, what English word has the most definitions?
+
+- [x] Set
+- [ ] Go
+- [ ] Run
+
+#### Which of North America's Great Lakes is the largest?
+
+- [ ] Huron
+- [x] Superior
+- [ ] Michigan
+
+#### Where would you find The Kremlin?
+
+- [ ] London
+- [x] Moscow
+- [ ] Hong Kong
+
+#### Which "Mister Rogers' Neighborhood" character was played by an accomplished Jazz guitarist?
+
+- [ ] Fred Rogers
+- [x] Handyman Negri
+- [ ] Mr. Clemmons
+
+#### Which if these is NOT a sequel to Disney's Aladdin?
+
+- [ ] The King of Thieves
+- [x] The Genie's Freedom
+- [ ] The Return of Jafar
+
+#### How many ounces are in a pound?
+
+- [ ] 10
+- [ ] 12
+- [x] 16
+
+#### In the Seinfeld episode "The Contest", who is the first person out?
+
+- [ ] George
+- [ ] Elaine
+- [x] Kramer
