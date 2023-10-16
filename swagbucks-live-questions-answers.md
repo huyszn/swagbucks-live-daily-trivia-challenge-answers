@@ -16787,3 +16787,51 @@
 - [ ] Hardcover
 - [ ] Softcover
 - [x] Undercover
+
+#### Who was originally cast as Shrek?
+
+- [ ] Mike Myers
+- [ ] Jim Carrey
+- [x] Chris Farley
+
+#### Derek Jeter played his entire career for what MLB team?
+
+- [ ] Boston Red Sox
+- [x] New York Yankees
+- [ ] Tampa Bay Rays
+
+#### Who played Captain Kirk in the original Star Trek series and films?
+
+- [ ] Bruce Greenwood
+- [ ] Gil Gerard
+- [x] William Shatner
+
+#### In the 80s and 90s, Kevin Christopher McFadden published dozens of popular books for young adults using what pen name?
+
+- [ ] R.L. Stine
+- [ ] Francine Pascal
+- [x] Christopher Pike
+
+#### Which soap opera was known for its use of supernatural storylines, including vampires and witches?
+
+- [ ] The Secret Storm
+- [ ] Days of Our Lives
+- [x] Passions
+
+#### What scientific phenomenon did Albert Einstein refer to as "spooky action at a distance"?
+
+- [ ] Black Holes
+- [x] Quantum Entanglement
+- [ ] Quark Relativity
+
+#### Which iconic Peanuts moment was first animated in "It's the Great Pumpkin, Charlie Brown"?
+
+- [x] Lucy pulling away the football
+- [ ] Lucy offering psychiatric advice
+- [ ] Snoopy sleeping on top of his house
+
+#### When does a game of Jenga end?
+
+- [ ] When all of the bottom pieces are on top
+- [x] When the tower falls
+- [ ] When you run out of cards
