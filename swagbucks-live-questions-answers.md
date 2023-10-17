@@ -17003,3 +17003,51 @@
 - [x] Tom Brady
 - [ ] Aaron Rodgers
 - [ ] Payton Manning
+
+#### What 80s movie was the first to put live actors into a CGI environment?
+
+- [ ] Young Sherlock Holmes
+- [ ] Star Trek II: Wrath of Khan
+- [x] Tron
+
+#### Which of these dishes would you normally order at a Chinese restaurant?
+
+- [ ] Tuna Tartare
+- [ ] Chile Relleno
+- [x] Egg Rolls
+
+#### Which of these places has the lowest average temperature?
+
+- [ ] Arizona
+- [ ] Egypt
+- [x] Antarctica
+
+#### Which of these historic inventions came first?
+
+- [x] Barometer
+- [ ] Pendulum clock
+- [ ] Hot air balloon
+
+#### Who had a 4-disc album called Boats, Beaches, Bars, and Ballads?
+
+- [x] Jimmy Buffett
+- [ ] Zac Brown Band
+- [ ] Elvis Presley
+
+#### What kind of map is meant to accurately represent the physical features of an area?
+
+- [x] Topographical
+- [ ] Nautical
+- [ ] Cadastral
+
+#### Which of the following is NOT the name of a Transformer?
+
+- [ ] Bumblebee
+- [ ] Optimus Prime
+- [x] Steve
+
+#### Penny Marshall and Cindy Williams played which sitcom roommates?
+
+- [x] Laverne & Shirley
+- [ ] Phoebe & Rachel
+- [ ] Rizzoli & Isles
