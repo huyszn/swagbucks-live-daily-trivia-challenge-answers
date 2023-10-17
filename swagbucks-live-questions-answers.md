@@ -16835,3 +16835,171 @@
 - [ ] When all of the bottom pieces are on top
 - [x] When the tower falls
 - [ ] When you run out of cards
+
+#### “Bitch the pot” was 19th century slang for what?
+
+- [ ] Buying drugs
+- [ ] Changing Clothes
+- [x] Holding a tea party
+
+#### How many players typically take the field on each side in a game of baseball?
+
+- [x] Nine
+- [ ] One hundred
+- [ ] Zero
+
+#### What is the deepest oceanic trench on Earth?
+
+- [x] Mariana Trench
+- [ ] Maria’s Trench
+- [ ] Super-Deep Trench
+
+#### In “Mean Girls”, by what nickname are the popular girls known?
+
+- [x] The Plastics
+- [ ] The Papers
+- [ ] The Breakfast Club
+
+#### In “Mean Girls”, by what nickname are the popular girls known?
+
+- [x] The Plastics
+- [ ] The Papers
+- [ ] The Breakfast Club
+
+#### What power does Violet Parr from “The Incredibles” possess?
+
+- [ ] Super Strength
+- [x] Invisibility and Force Fields
+- [ ] Superhuman Speed
+
+#### Which object best represents the first Spanish word taught on Dora the Explorer?
+
+- [ ] A cat
+- [x] A mailbox
+- [ ] A banana
+
+#### Which of the following athletes is known as a gymnast?
+
+- [ ] Ronda Rousey
+- [x] Simone Biles
+- [ ] Megan Rapinoe
+
+#### Rogue is normally applied to what part of the body?
+
+- [x] Cheeks
+- [ ] Knees
+- [ ] Feet
+
+#### Which of these songs is NOT by the Sherman Brothers?
+
+- [ ] The Age of Not Believing
+- [x] Grin Grinning Ghosts
+- [ ] Scales and Arpeggios
+
+#### In what kind of sale do multiple people bid on an item?
+
+- [ ] Consignment
+- [ ] Yard Sale
+- [x] Auction
+
+#### Which book was NOT written by a President?
+
+- [ ] The Little Baby Snoogle-Fleejer
+- [ ] Year of Decisions
+- [x] Joined at the Heart
+
+#### What did JK Rowling invent after a fight with her then-boyfriend?
+
+- [ ] Dementors
+- [ ] The Sorting Hat
+- [x] Quidditch
+
+#### What river runs through the Grand Canyon?
+
+- [ ] Mississippi
+- [ ] Danube
+- [x] Colorado
+
+#### On average, how large of an English vocabulary can dogs understand?
+
+- [ ] 75 words
+- [x] 165 words
+- [ ] 215 words
+
+#### "Skyrim" is part of what popular video game series?
+
+- [x] Elder Scrolls
+- [ ] Donkey Kong
+- [ ] Mario Party
+
+#### Which of these is a computer sold by Apple?
+
+- [x] Macbook
+- [ ] Big Mac
+- [ ] Old MacDonald
+
+#### Nathan Fillion played what crime-solving writer on TV?
+
+- [ ] Clark Kent
+- [x] Richard Castle
+- [ ] Agatha Christie
+
+#### In the original Star Wars, what is the name of the giant base that the rebels attack?
+
+- [x] Death Star
+- [ ] Starkiller
+- [ ] Rogue One
+
+#### Which theme park is home to The Wizardling World of Harry Potter?
+
+- [x] Universal Studios
+- [ ] Six Flags
+- [ ] Disney World
+
+#### What is the process of cooking food in hot oil or fat called?
+
+- [ ] Baking
+- [x] Frying
+- [ ] Broiling
+
+#### Sunset Boulevard is a famous street in which U.S. city?
+
+- [ ] Seattle
+- [ ] Denver
+- [x] Los Angeles
+
+#### Who did John F. Kennedy defeat in the 1960 Presidential election?
+
+- [x] Richard Nixon
+- [ ] Lyndon B. Johnson
+- [ ] Spiro T. Agnew
+
+#### What is a common way of saying someone has passed away?
+
+- [ ] Gone the distance
+- [x] Kicked the bucket
+- [ ] Threaded the needle
+
+#### Which of the following European cities has its own Sewer Museum?
+
+- [ ] London
+- [ ] Venice
+- [x] Paris
+
+#### On the TV show "Friends," which character had a pet monkey named Marcel?
+
+- [x] Ross
+- [ ] Rachel
+- [ ] Monica
+
+#### Which celebrity has a daughter named Apple?
+
+- [ ] Angelina Jolie
+- [ ] Anna Faris
+- [x] Gwyneth Paltrow
+
+#### Which NFL QB announced his retirement for a second time in February of 2023?
+
+- [x] Tom Brady
+- [ ] Aaron Rodgers
+- [ ] Payton Manning
