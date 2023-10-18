@@ -17231,3 +17231,39 @@
 - [ ] Catch-22
 - [ ] The Bell Jar
 - [x] The Great Gatsby
+
+#### Who wrote the score to "The Nutcracker" ballet?
+
+- [ ] John Williams
+- [ ] Mozart
+- [x] Tchaikovsky
+
+#### What actor was a breakdancer behind Lionel Richie in the closing ceremony of the 1984 Olympics?
+
+- [ ] Vin Diesel
+- [x] Cuba Gooding Jr.
+- [ ] Sam Rockwell
+
+#### The leader of what country once said he would ban pineapple on pizza if he could?
+
+- [ ] France
+- [x] Iceland
+- [ ] United States
+
+#### The Glass Menagerie and Cat on a Hot Tin Roof were written by which playwright?
+
+- [ ] Thornton Wilder
+- [ ] Arthur Miller
+- [x] Tennessee Williams
+
+#### What is the term for the study of games and gaming, particularly video games?
+
+- [ ] Gameology
+- [ ] Compology
+- [x] Ludology
+
+#### The Gateway Arch is a popular landmark in what city?
+
+- [ ] Cleveland
+- [ ] Minneapolis
+- [x] St. Louis
