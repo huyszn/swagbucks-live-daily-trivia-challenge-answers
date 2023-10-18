@@ -11475,7 +11475,7 @@
 
 - [ ] The Big Bang Theory
 - [ ] Hill Street Blues
-- [ ] The Office
+- [x] The Office
 
 #### What classic author's parents expected him to be a lighthouse designer for a living?
 
@@ -17051,3 +17051,183 @@
 - [x] Laverne & Shirley
 - [ ] Phoebe & Rachel
 - [ ] Rizzoli & Isles
+
+#### Which of the following U.S. landmarks is also the name of a National Park?
+
+- [ ] Cadillac Ranch
+- [x] Grand Canyon
+- [ ] Empire State Building
+
+#### The Mount Rushmore monument has busts of what political figures craved into it?
+
+- [x] Presidents
+- [ ] Industrialists
+- [ ] Generals
+
+#### Traditionally, what color does the bride wear at a wedding?
+
+- [ ] Mauve
+- [x] White
+- [ ] Yellow
+
+#### In “Three Men and a Baby”, which actor plays the baby’s biological father?
+
+- [ ] Tom Selleck
+- [x] Ted Danson
+- [ ] Steve Guttenberg
+
+#### Will Ferrell plays Buddy in which holiday film?
+
+- [ ] A Christmas Story
+- [ ] Miracle on 34th Street
+- [x] Elf
+
+#### Diabetes is a result of issues with which organ?
+
+- [ ] Lungs
+- [ ] Heart
+- [x] Pancreas
+
+#### Flo is the spokesperson for which insurance brand?
+
+- [ ] Progesso
+- [x] Progressive
+- [ ] Prog Rock
+
+#### Which of these novels takes place during the Russian Revolution?
+
+- [ ] The Island of Doctor Moreau
+- [x] Dr. Zhivago
+- [ ] Catcher in the Rye
+
+#### Which show did NOT feature Bob Vila playing himself?
+
+- [ ] Sabrina the Teenage Witch
+- [ ] Home Improvement
+- [x] Family Guy
+
+#### James Abbott McNeill Whistler famously painted which of his family members?
+
+- [ ] Second Cousin
+- [ ] Great Grandchild
+- [x] Mother
+
+#### Modern laptop use a trackpad, which functions similarly to what other piece of computer hardware?
+
+- [x] Mouse
+- [ ] Keyboard
+- [ ] Disk drive
+
+#### Benjamin Stacy of Kentucky had a rare condition that caused his skin to be what color?
+
+- [ ] Green
+- [x] Blue
+- [ ] Gray
+
+#### What is the name of Thor's magical hammer?
+
+- [x] Mjolnir
+- [ ] Sif
+- [ ] Asgard
+
+#### In which city does the U.S. version of "The Office" take place?
+
+- [x] Scranton
+- [ ] Reading
+- [ ] Lancaster
+
+#### What is the name of the society for people with an IQ of 132 or higher?
+
+- [ ] Smarties
+- [x] Mensa
+- [ ] Witz End
+
+#### What does New Balance make and sell?
+
+- [x] Footwear
+- [ ] Cars
+- [ ] Potatoes
+
+#### What is the common term for your larynx?
+
+- [x] Voice box
+- [ ] Voice Over
+- [ ] This is The Voice
+
+#### Which of these TV shows was NOT rebooted in the 80s?
+
+- [ ] Leave it to Beaver
+- [ ] The Monkees
+- [x] WKRP in Cincinnati
+
+#### Which of the following people is NOT listed as a Disney Legend?
+
+- [x] Walt Disney
+- [ ] Bea Arthur
+- [ ] Frank Glifford
+
+#### Which city houses the Smithsonian Museum?
+
+- [ ] London, England
+- [x] Washington D.C.
+- [ ] Paris, France
+
+#### What is Honda's slogan?
+
+- [ ] Our Cars Go Vroom
+- [ ] We Also Make Boats
+- [x] Power of Dreams
+
+#### Which of the following is NOT an area on the Candyland board?
+
+- [ ] Gumdrop Pass
+- [ ] Lollipop Woods
+- [x] Hoagie Hallway
+
+#### In which sport do you hit a shuttercock over a net?
+
+- [ ] Polo
+- [x] Badminton
+- [ ] Mini Golf
+
+#### According to a report from Givetastic, what is the most popular wedding song of all time?
+
+- [x] I Wanna Dance with Somebody (Who Loves Me)
+- [ ] Marry You
+- [ ] Dancing Queen
+
+#### Which of the following musicians led a band called Cream?
+
+- [ ] Robert Plant
+- [x] Eric Clapton
+- [ ] Jimi Hendrix
+
+#### John Stamos rose to fame on which ABC sitcom?
+
+- [x] Full House
+- [ ] Anything But Love
+- [ ] Step By Step
+
+#### In 2023, Walmart released a collection of ice cream flavors based on what TV show?
+
+- [ ] The Office
+- [ ] Spongebob Squarepants
+- [x] Stranger Things
+
+#### Grilled Cheese is traditionally paired with what soup?
+
+- [ ] Matzo Ball
+- [x] Tomato
+- [ ] Navy Bean
+
+#### 1600 Pennsylvania Avenue in Washington D.C. is the address of what famous building?
+
+- [ ] U.S. Capitol
+- [ ] Washington Monument
+- [x] The White House
+
+#### Which of the following is an F. Scott Fitzgerald novel?
+
+- [ ] Catch-22
+- [ ] The Bell Jar
+- [x] The Great Gatsby
