@@ -17417,3 +17417,51 @@
 - [x] NBC
 - [ ] The Weather Channel
 - [ ] ESPN U
+
+#### Which 31 Flavors ice cream chain recently went through a brand makeover?
+
+- [x] Baskin-Robbins
+- [ ] Cold Stone Creamery
+- [ ] Haagen Daz
+
+#### Which of these bands is all-female?
+
+- [ ] Metallica
+- [ ] The Beatles
+- [x] The Go-Go's
+
+#### As of 2023, which of the following is the most expensive toy in the world?
+
+- [ ] Lamborghini Aventador Model Car
+- [ ] Steiff Louis Vuitton Teddy Bear
+- [x] Astolat Dollhouse Castle
+
+#### Which of the following cities has a plaque dedicated to dogs named Bummer and Lazarus?
+
+- [ ] Boston
+- [x] San Francisco
+- [ ] London
+
+#### Which of the following toys was NOT invented in the 1950s?
+
+- [ ] Hula Hoop
+- [ ] Mr. Potato Head
+- [x] Barrel of Monkeys
+
+#### Which of these games debuted in a disco?
+
+- [ ] Space Invaders
+- [x] Simon
+- [ ] Dance Dance Revolution
+
+#### Which of the following words is an antonym for hungry?
+
+- [ ] Slinky
+- [ ] Stylish
+- [x] Satiated
+
+#### In physics, which of these is the Greek letter "mu" NOT used to measure?
+
+- [ ] Coefficient of friction
+- [x] Permittivity of a medium
+- [ ] Permeability in electromagnetism
