@@ -17267,3 +17267,153 @@
 - [ ] Cleveland
 - [ ] Minneapolis
 - [x] St. Louis
+
+#### What is it called when an artist releases a different version of an already-released song?
+
+- [x] Remix
+- [ ] Rebound
+- [ ] Return
+
+#### What exercise equipment company is famous for its high-energy instructors?
+
+- [x] Peloton
+- [ ] Ab Roller
+- [ ] ThighMaster
+
+#### Complete this Stevie Wonder album title: “Songs in the Key of ___”
+
+- [ ] My Car
+- [ ] Pancakes
+- [x] Life
+
+#### Where would you find the world’s single largest rock?
+
+- [ ] Russia
+- [x] Australia
+- [ ] Alaska
+
+#### Which of the following is NOT a color in a standard M&M pack?
+
+- [x] Purple
+- [ ] Blue
+- [ ] Orange
+
+#### Which of these is a type of pollution?
+
+- [ ] Fog
+- [x] Smog
+- [ ] Wind
+
+#### Which food does Popeye eat to get super strong?
+
+- [ ] Celery
+- [ ] Broccoli
+- [x] Spinach
+
+#### What was the first living creature to be cloned?
+
+- [ ] Human
+- [x] Sheep
+- [ ] Cobra
+
+#### Which of the following is a subterranean creature?
+
+- [ ] Shark
+- [ ] Tiger
+- [x] Earthworm
+
+#### What tool is used to measure radiation?
+
+- [x] Geiger Counter
+- [ ] Seismograph
+- [ ] Oscillator
+
+#### The man who originally voiced Papa Smurf also voiced which cartoon dad?
+
+- [ ] Fred Flintstone
+- [x] Dr. Benton Quest
+- [ ] David Seville
+
+#### Which of the following restaurants is a steakhouse?
+
+- [ ] Olive Garden
+- [ ] Sweetgreen
+- [x] Ruth's Chris
+
+#### What is the name of the sprawling Tennessee estate where Elvis lived?
+
+- [ ] Paisley Park
+- [x] Graceland
+- [ ] The Compound
+
+#### Which movie's tagline is "There are 3.7 trillion fish in the ocean. There're looking for one"?
+
+- [ ] Deep Blue Sea
+- [x] Finding Nemo
+- [ ] Waterworld
+
+#### What food do you make inside of a special iron?
+
+- [ ] Pancake
+- [x] Waffle
+- [ ] French toast
+
+#### What is the name of the paper company where everyone works in "The Office"?
+
+- [x] Dunder Mifflin
+- [ ] Paper Town
+- [ ] Advanced Solutions
+
+#### On "The Office", what kind of farm does Dwight Schrute run?
+
+- [ ] Turnip
+- [ ] Dairy
+- [x] Beet
+
+#### On "The Office", Toby is obsessed with discovering the identity of what local criminal?
+
+- [x] The Scranton Strangler
+- [ ] Son of Sam
+- [ ] Jack the Ripper
+
+#### When Jim and Pam get married on "The Office", where is their secret ceremony held?
+
+- [ ] A gymnasium
+- [x] Maid of the Mist
+- [ ] A hotel broom closet
+
+#### In Season 5 of "The Office", what kind of school does Pam go away to attend?
+
+- [x] Art School
+- [ ] Culinary School
+- [ ] Driving School
+
+#### Jim Carrey's candidate for manager on "The Office" has come in from what area?
+
+- [ ] Lehigh Valley
+- [ ] Jersey Shore
+- [x] Finger Lakes
+
+#### On "The Office", which of the following Dunder Mifflin employees dated Michael Scott?
+
+- [ ] Jan
+- [ ] Phyllis
+- [x] Kelly
+
+#### On "The Office", what radio station's bumper sticker is prominently on display?
+
+- [ ] WKRZ
+- [x] Froggy 101
+- [ ] Q92
+
+#### What is the name of Michael Scott's homemade action movie on "The Office"?
+
+- [ ] Tremors
+- [ ] Beets, Bears, Battlestar Galactica
+- [x] Threat Level Midnight
+
+#### On which TV Network did the US version of "The Office" originally air?
+
+- [x] NBC
+- [ ] The Weather Channel
+- [ ] ESPN U
