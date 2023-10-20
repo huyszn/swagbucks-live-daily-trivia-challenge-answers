@@ -17705,3 +17705,111 @@
 - [ ] Checkers
 - [x] Chess
 - [ ] Twister
+
+#### In Lewis Carroll's "Alice's Adventures in Wonderland", who does Alice follow to get to Wonderland?
+
+- [ ] The Cheshire Cat
+- [ ] The Queen of Hearts
+- [x] The White Rabbit
+
+#### Puff Daddy's "I'll Be Missing You" was about what deceased artist?
+
+- [ ] The Big Bopper
+- [ ] Elvis Presley
+- [x] The Notorious B.I.G.
+
+#### What app was made to have food delivered to you from restaurants?
+
+- [ ] Lyft
+- [x] DoorDash
+- [ ] Instagram
+
+#### If you have an RC toy car, what does the RC stand for?
+
+- [ ] Royal Cola
+- [x] Remote Control
+- [ ] Rancid Cheese
+
+#### In The Sound of Music, when the nuns sing about solving a problem like "Maria," what metaphor do they use?
+
+- [x] Holding a moonbeam
+- [ ] Fighting Superman
+- [ ] Folding a gum wrapper
+
+#### Which of the following is a method of printing?
+
+- [ ] Biography
+- [x] Lithography
+- [ ] Geography
+
+#### Santiago is the capital of what country?
+
+- [x] Chile
+- [ ] Mexico
+- [ ] Germany
+
+#### What 18th century secret society required members to wear dog collars?
+
+- [ ] Freemasons
+- [x] Order of the Pug
+- [ ] Toastmasters
+
+#### What type of tail does the dog have in the song "How Much Is That Doggy In The Window?"
+
+- [ ] Wiggly
+- [x] Waggly
+- [ ] Scraggly
+
+#### Which of these people did NOT marry their cousin?
+
+- [ ] Edgar Allan Poe
+- [ ] Jerry Lee Lewis
+- [x] Zsa Zsa Gabor
+
+#### Which of these teams is a part of Major League Baseball?
+
+- [ ] Miami Dolphins
+- [ ] Miami Heat
+- [x] Miami Marlins
+
+#### Which of the following cities is not a State capital?
+
+- [ ] Phoenix, AZ
+- [x] Walla Walla, WA
+- [ ] Atlanta, GA
+
+#### In which hospital was the world's first coronary angiography performed?
+
+- [x] Cleveland Clinic
+- [ ] Mayo Clinic
+- [ ] Cedars Sinai
+
+#### Which of these exercises strengthens arm muscles?
+
+- [ ] Leg Press
+- [ ] Neck Roll
+- [x] Bicep Curl
+
+#### Which of these Disney live-action reboots does NOT star Lindsay Lohan?
+
+- [ ] Freaky Friday
+- [ ] The Parent Trap
+- [x] Flubber
+
+#### Peter Pan's Flight, Mad Tea Party, and Mr. Toad's Wild Ride all live in what area of Disneyland?
+
+- [x] Fantasyland
+- [ ] Tomorrowland
+- [ ] New Orleans Square
+
+#### Which of these contestants won their season of The Great British Baking Show first?
+
+- [ ] Frances Quinn
+- [x] Joanne Wheatley
+- [ ] Nancy Birtwhistle
+
+#### Siblings Oliver and Kate Hudson are the children of what celebrity?
+
+- [ ] Meryl Streep
+- [x] Goldie Hawn
+- [ ] Mimi Rogers
