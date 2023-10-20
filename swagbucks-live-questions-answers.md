@@ -10541,12 +10541,6 @@
 - [ ] Day of the Fallen
 - [x] Decoration Day
 
-#### What does the E.L. in Keebler’s “E.L. Fudge” stand for?
-
-- [ ] Electrolyte Laced
-- [x] Everybody Loves
-- [ ] Enigmatically Level
-
 #### What course is generally served after the main course?
 
 - [x] Dessert
@@ -17627,3 +17621,87 @@
 - [ ] Binky
 - [ ] Silly
 - [x] Chicken
+
+#### The Panama Canal connects which two oceans?
+
+- [x] Atlantic and Pacific
+- [ ] Indian and Atlantic
+- [ ] Arctic and Pacific
+
+#### "Nephelococcygia" is the practice of doing what?
+
+- [ ] Living with dead people
+- [x] Finding shapes in clouds
+- [ ] Sleeping with your eyes open
+
+#### In which European country did the practice of sanding Christmas cards become popularized?
+
+- [ ] United States
+- [ ] Australia
+- [x] England
+
+#### Which of these is a brand of cat food?
+
+- [x] Francy Feast
+- [ ] Keebler
+- [ ] Noxzema
+
+#### Which of these is a common topping for movie popcorn?
+
+- [x] Butter
+- [ ] Olives
+- [ ] French Dressing
+
+#### Which of these celebrities did not pass away in the same year as the other two?
+
+- [ ] Leslie Nielsen
+- [ ] Corey Haim
+- [x] Billy Mays
+
+#### Who is Tarzan's love interest?
+
+- [x] Jane
+- [ ] Frieda
+- [ ] Sally
+
+#### What is the name of the Motel in "Psycho"?
+
+- [ ] Motel 6
+- [x] Bates Motel
+- [ ] Holiday Inn
+
+#### What iclassic movie monster originates in Egypt?
+
+- [ ] Count Dracula
+- [x] The Mummy
+- [ ] Nosferatu
+
+#### Ferdinand Magellan was the first person to guide a crew to what feat?
+
+- [x] Circummnavigated the globe the globe
+- [ ] Climbed Mount Everest
+- [ ] Piloted a submarine
+
+#### Which of these is a type of wind?
+
+- [ ] Montclair
+- [ ] Mon Mothma
+- [x] Monsoon
+
+#### In his famous song, Jon Bon Jovi is livin' on a what?
+
+- [ ] Tugboat
+- [x] Prayer
+- [ ] Cloud
+
+#### Where does the series "Duck Tales" take place?
+
+- [x] Duckburg
+- [ ] Duckopolis
+- [ ] Duckville
+
+#### A version of the Arabic phrase "shah mat" is used in what game?
+
+- [ ] Checkers
+- [x] Chess
+- [ ] Twister
