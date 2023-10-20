@@ -17465,3 +17465,165 @@
 - [ ] Coefficient of friction
 - [x] Permittivity of a medium
 - [ ] Permeability in electromagnetism
+
+#### What is the name for a pronged utensil used for eating?
+
+- [ ] Willard Scott
+- [ ] Belt Sander
+- [x] Fork
+
+#### Which celebrity once appeared in a commercial for Super Nintendo?
+
+- [ ] Leonardo DiCaprio
+- [x] Paul Rudd
+- [ ] Stephen Colbert
+
+#### Which talk show host was born in a London Tube Station?
+
+- [x] Jerry Springer
+- [ ] Piers Morgan
+- [ ] Jenny Jones
+
+#### What is th term for the point of which a lever pivots?
+
+- [x] Fulcrum
+- [ ] Full of Crumbs
+- [ ] Who’s Harry Crumb?
+
+#### Ruffles, Lays, and Wise are all brands of what kind of chip?
+
+- [ ] Corn
+- [ ] Wheat
+- [x] Potato
+
+#### What fictional island famously sank to the bottom of the sea?
+
+- [ ] Machu Picchu
+- [x] Atlantis
+- [ ] Themyscira
+
+#### Which of the following this was NOT marketed by Hulk Hogan?
+
+- [ ] Blender
+- [x] Exercise Machine
+- [ ] Spaghetti Restaurant
+
+#### Only four European countries have no McDonald’s. Which of the following is one of them?
+
+- [ ] Liechtenstein
+- [ ] Andorra
+- [x] Macedonia
+
+#### What is Valentine’s Day named for?
+
+- [ ] A beloved pet
+- [ ] A sports franchise
+- [x] A saint
+
+#### What word means "knowledge on which to base belief"?
+
+- [ ] Charming
+- [x] Evidence
+- [ ] Chaos
+
+#### Approximately how much does it cost to make a dollar bill?
+
+- [x] 8 cents
+- [ ] 50 cents
+- [ ] 95 cents
+
+#### Snap, Crackle, and Pop are the spokeselves for what cereal?
+
+- [ ] Frosted Flakes
+- [ ] Corn Pops
+- [x] Rice Krispies
+
+#### What treat is commonly served on birthdays?
+
+- [ ] Meatloaf
+- [x] Cake
+- [ ] Salad
+
+#### Pteridomania was a Victorian-era craze that revolved around the collecting of what?
+
+- [ ] Dinosaur fossils
+- [x] Ferns
+- [ ] Human teeth
+
+#### What word would make the sentence "How __ you?" grammatically correct?
+
+- [ ] Was
+- [x] Are
+- [ ] Is
+
+#### Which of these is an example of Tsundoku?
+
+- [ ] A numerical puzzle
+- [ ] A pastry
+- [x] A pile of unread books
+
+#### What is the capital of Washington?
+
+- [ ] Austin
+- [ ] Olympia
+- [x] Tailahassee
+
+#### In which city does the Back to the Future trilogy take place?
+
+- [ ] Twin Peaks
+- [ ] Eureka
+- [x] Hill Valley
+
+#### In "Back to the Future", what causes Doc Brown to come up with the idea for the Flux Capacitor?
+
+- [x] He hits his head in the bathroom
+- [ ] A ghost tells him about it
+- [ ] A fortune cookie
+
+#### In "Back to the Future", what is the name of the dance where Marty's parents first kiss?
+
+- [ ] Fish Under The Sea
+- [x] Enchantment Under The Sea
+- [ ] Spring Fling
+
+#### At the end of "Back to the Future Part III", Doc Brown and Clara have named their sons after what author?
+
+- [x] Jules Verne
+- [ ] Mark Twain
+- [ ] Bram Stoker
+
+#### In "Back to the Future", what brand of gas station appears in the 1955, 1985, and 2015 versions of Hill Valley?
+
+- [ ] Sunoco
+- [ ] Exxon
+- [x] Texaco
+
+#### The Mr. Fusion added to Back to the Future's Delorean in 2015 allows it to generate power using what kind of fuel?
+
+- [x] Garbage
+- [ ] Candy
+- [ ] Solar energy
+
+#### In "Back to the Future Part II", which co-workers gets future Marty fired from his job?
+
+- [ ] Griff
+- [ ] Whitey
+- [x] Neddles
+
+#### In "Back to the Future Part III", what Western star's name does Marty use as his fake identity?
+
+- [x] Clint Eastwood
+- [ ] Gary Cooper
+- [ ] John Wayne
+
+#### In "Back to the Future", what instrument does Marty play?
+
+- [ ] Flugelhorn
+- [x] Guitar
+- [ ] Xylophone
+
+#### In the "Back to the Future" franchise, calling Marty McFly by what name makes him lose his cool?
+
+- [ ] Binky
+- [ ] Silly
+- [x] Chicken
