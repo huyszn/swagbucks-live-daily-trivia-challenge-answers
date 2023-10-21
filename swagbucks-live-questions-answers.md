@@ -17813,3 +17813,45 @@
 - [ ] Meryl Streep
 - [x] Goldie Hawn
 - [ ] Mimi Rogers
+
+#### Where would you find the world's oldest known living tree?
+
+- [ ] Sweden
+- [x] China
+- [ ] Kenya
+
+#### Which of the following Disney Princesses has a sister?
+
+- [ ] Aurora
+- [x] Ariel
+- [ ] Merida
+
+#### In which State do most of the people in Kansas City live?
+
+- [x] Missouri
+- [ ] Kansas
+- [ ] Nebraska
+
+#### What kind of drink is normally made in a percolator?
+
+- [x] Coffee
+- [ ] Milkshakes
+- [ ] Beer
+
+#### Which of these foods is considered dairy?
+
+- [ ] Raisins
+- [ ] Smaller raisins
+- [x] Whole milk
+
+#### A 2013 University of Tokyo study discovered what animals could distinguish between musical composers?
+
+- [x] Goldfish
+- [ ] Mice
+- [ ] Birds
+
+#### What TV show takes place on a cruise ship?
+
+- [x] The Love Boat
+- [ ] Fantasy Island
+- [ ] Survivor
