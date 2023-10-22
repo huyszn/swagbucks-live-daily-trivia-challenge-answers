@@ -17855,3 +17855,51 @@
 - [x] The Love Boat
 - [ ] Fantasy Island
 - [ ] Survivor
+
+#### What utensil is used to eat soup?
+
+- [ ] Fork
+- [ ] Knife
+- [x] Spoon
+
+#### According to their song, Starship "Built This City" on what?
+
+- [ ] A smaller city
+- [x] Rock and roll
+- [ ] A giant hole
+
+#### Despite what Outkast says, what type of instant picture are you NOT supposed to shake?
+
+- [ ] Selfie
+- [ ] DSLR
+- [x] Polaroid
+
+#### Which of these muppets has eyes that blink?
+
+- [ ] Miss Piggy
+- [ ] Waldorf
+- [x] Floyd Pepper
+
+#### What kind of clock has a bird or other feature that pops out and chimes on the hour?
+
+- [ ] Digital
+- [ ] Alarm
+- [x] Cuckoo
+
+#### What do you need to add to a Slip 'n Slide to make it work?
+
+- [x] Water
+- [ ] Sand
+- [ ] Dreams
+
+#### Which video game series centers around stealing cars and committing crimes?
+
+- [ ] NBA 2K
+- [x] Grand Theft Auto
+- [ ] Animal Crossing
+
+#### Phrases like "Wild goose chase" and "Off with his head" come from which writer?
+
+- [ ] Charles Dickens
+- [x] Lewis Carroll
+- [ ] William Shakespeare
