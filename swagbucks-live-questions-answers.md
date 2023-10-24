@@ -17903,3 +17903,147 @@
 - [ ] Charles Dickens
 - [x] Lewis Carroll
 - [ ] William Shakespeare
+
+#### Which character flies over the castle in the Disney films logo?
+
+- [ ] Dumbo
+- [x] Tinkerbell
+- [ ] Goofy on a rocket
+
+#### Which of these dishes generally includes breaded meat?
+
+- [ ] Pot Roast
+- [x] Chicken Parmigiana
+- [ ] Denver Omelet
+
+#### What ice cream chain mixes your flavors right in front of you?
+
+- [x] Cold Stone Creamery
+- [ ] Baskin-Robbins
+- [ ] Ben & Jerry’s
+
+#### On which show do passengers in a car become surprise game show contestants?
+
+- [x] Cash Cab
+- [ ] Treasure Taxi
+- [ ] Loot Limo
+
+#### Ben & Jerry learned to make ice cream from what University?
+
+- [ ] Iowa State
+- [ ] Vermont State
+- [x] Penn State
+
+#### The International Academy of Digital Arts and Sciences gives out which awards?
+
+- [x] The Webbys
+- [ ] The Streamys
+- [ ] The Golden Domains
+
+#### What type of doll, invented in the 1970s, is known for its unique scent and soft, rubbery body?
+
+- [ ] Cabbage Patch Kids
+- [x] Strawberry Shortcake
+- [ ] My Little Pony
+
+#### In “Silver Lining Playbook”, what team is Pat Solitano Sr. obsessed with?
+
+- [ ] Manchester United
+- [ ] Harlem Globetrotters
+- [x] Philadelphia Eagles
+
+#### If it's 4pm in Las Vegas, what time is it in Nashville, Tennessee?
+
+- [ ] 2:00 PM
+- [ ] 6:00 PM
+- [x] 7:00 PM
+
+#### Who is not typically found in the Nativity Scene?
+
+- [ ] Jesus
+- [ ] Mary
+- [x] Santa Claus
+
+#### Alec Baldwin's character got it wrong - what the does the "D" in marketing's A.I.D.A stand for?
+
+- [ ] Dedication
+- [ ] Decision
+- [x] Desire
+
+#### Who was President of the United States for the majority of the 1980s?
+
+- [ ] Jimmy Carter
+- [ ] George H.W. Bush
+- [x] Ronald Reagan
+
+#### What jungle wild man was created by author Edgar Rice Burroughs?
+
+- [ ] The Tasmanian Devil
+- [x] Tarzan
+- [ ] Beowulf
+
+#### On which show do chefs make dishes out of ingredients from a mystery basket?
+
+- [x] Chopped
+- [ ] Ace of Cakes
+- [ ] Cake Boss
+
+#### As of 2023, which of these countries has the largest total population?
+
+- [ ] Brazil
+- [ ] Laos
+- [x] India
+
+#### In a game of "I Spy", what kind of questions are you allowed to ask?
+
+- [ ] Open answer
+- [ ] Yes/No
+- [x] Multiple Choice
+
+#### In Soccer, what color card is shown by the on field referee as a caution?
+
+- [ ] Mauve
+- [ ] Taupe
+- [x] Yellow
+
+#### Who launched the wildly successful "Eras Tour" in 2023?
+
+- [ ] Shania Twain
+- [x] Taylor Swift
+- [ ] Harry Styles
+
+#### Who worte the novel "1984"?
+
+- [x] George Orwell
+- [ ] Aldous Huxley
+- [ ] Ray Bradbury
+
+#### The Wickquasgeck Trail is better known today by what name?
+
+- [ ] Park Avenue
+- [ ] Wall Street
+- [x] Broadway
+
+#### Which of the following utensils was created in China?
+
+- [x] Chopsticks
+- [ ] Fork
+- [ ] Butter knife
+
+#### What is the average distance from the Earth to the Sun?
+
+- [ ] 2 million miles
+- [ ] 55 million miles
+- [x] 95 million miles
+
+#### What is the slogan for AT&T?
+
+- [ ] "Think Different"
+- [x] "Rethink Possible"
+- [ ] "Just Do It"
+
+#### Which of the following is NOT a Quentin Tarantino movie?
+
+- [ ] Pulp Fiction
+- [x] Inception
+- [ ] Once Upon A Time In Hollywood
