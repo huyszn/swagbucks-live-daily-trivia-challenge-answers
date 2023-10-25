@@ -18047,3 +18047,153 @@
 - [ ] Pulp Fiction
 - [x] Inception
 - [ ] Once Upon A Time In Hollywood
+
+#### The Starting Lineup, Care Bears and Star Wars toy lines were originally distributed by what toy company?
+
+- [ ] Exxon
+- [ ] Verizon
+- [x] Kenner
+
+#### Which of these is NOT a Dan Brown novel?
+
+- [x] The Demon Within
+- [ ] Deception Point
+- [ ] Digital Fortress
+
+#### John Jay was the first person to serve the United States in which capacity?
+
+- [ ] President
+- [ ] Senator
+- [x] Chief Justice
+
+#### What color are most flamingos?
+
+- [ ] Green
+- [x] Pink
+- [ ] Yellow
+
+#### Maurice Sendak wrote which children’s book?
+
+- [ ] Percy Jackson & The Lightning Thief
+- [x] Where The Wild Things Are
+- [ ] Henry & Ribsy
+
+#### Who directed the movies “Vertigo”, “Psycho”, and “Rear Window”?
+
+- [x] Alfred Hitchcock
+- [ ] John Frankenheimer
+- [ ] Stanley Kubrick
+
+#### How many positive answers are there on a standard Magic 8 Ball?
+
+- [ ] 5
+- [ ] 7
+- [x] 10
+
+#### What is the capital of Rhode Island?
+
+- [x] Providence
+- [ ] Albany
+- [ ] Honolulu
+
+#### Who is widely credited with inventing the World Wide Web?
+
+- [x] Al Gore
+- [ ] Tim Berners-Lee
+- [ ] IBM
+
+#### Which Monopoly property is most expensive to purchase?
+
+- [ ] Atlantic Avenue
+- [x] Marvin Gardens
+- [ ] Ventnor Avenue
+
+#### Which of these scientific terms describes a substance NOT intentionally added to another substance?
+
+- [ ] Accelerant
+- [x] Contaminant
+- [ ] Enzyme
+
+#### A recent Tik Tok trend saw people dressing up in a formal attire to see what family movie?
+
+- [x] Minions: Rise of Gru
+- [ ] Ice Age 2: The Meltdown
+- [ ] Pippi Longstocking
+
+#### Who first suggested Mother's Day in the U.S.?
+
+- [ ] Anna Jarvis
+- [x] Julia Ward Howe
+- [ ] Woodrow Wilson
+
+#### What was the first item sold on Amazon?
+
+- [ ] CD
+- [ ] VHS Cassette
+- [x] Book
+
+#### What would be a more appropriate name for Sea Monkeys?
+
+- [ ] Li'l Krill
+- [x] Li'l Brine Shrimp
+- [ ] Li'l Barnacles
+
+#### In the original Star Wars, who played Princess Leia?
+
+- [ ] Laura Dern
+- [ ] Meryl Streep
+- [x] Carrie Fisher
+
+#### In the United States, what did the Prohibition of 1920-1933 ban?
+
+- [ ] Dancing
+- [ ] Pinball
+- [x] Alcoholic beverages
+
+#### Who starred as Ken in 2023's "Barbie"?
+
+- [x] Ryan Gosling
+- [ ] Ryan Reynolds
+- [ ] Chris Pine
+
+#### What game show involves contestants shopping in a grocery store?
+
+- [ ] Queen for a Day
+- [ ] You Bet Your Life
+- [x] Supermarket Sweep
+
+#### Which film franchise features the Weyland-Yutani Corporation?
+
+- [ ] Blade Runner
+- [x] Alien
+- [ ] Robocop
+
+#### 2022's video game Ragnarok is part of what series?
+
+- [ ] Fortnite
+- [ ] LEGO Star Wars
+- [x] God of War
+
+#### Which of the following NBA players did NOT post a Quadruple Double in the NBA?
+
+- [x] Wilt Chamberlain
+- [ ] Nate Thurmond
+- [ ] David Robinson
+
+#### What is the sum of interior angles in a triangle?
+
+- [ ] 45 degrees
+- [ ] 90 degrees
+- [x] 180 degrees
+
+#### Which instrument is commonly associated with jazz music?
+
+- [x] Saxophone
+- [ ] Kazoo
+- [ ] Washboard
+
+#### In the Lord of the Rings books, where do Frodo and Bilbo live?
+
+- [x] Hobbiton
+- [ ] Bywater
+- [ ] Tuchborough
