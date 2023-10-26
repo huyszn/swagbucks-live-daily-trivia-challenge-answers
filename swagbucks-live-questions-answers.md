@@ -18197,3 +18197,123 @@
 - [x] Hobbiton
 - [ ] Bywater
 - [ ] Tuchborough
+
+#### If you throw a coin into the Trevi Fountain, it’s supposed to guarantee your return to what country?
+
+- [ ] Spain
+- [x] Italy
+- [ ] France
+
+#### According to the saying, if you’re fast you “Run like the” what?
+
+- [ ] Goose
+- [x] Wind
+- [ ] Jaguar
+
+#### Which of these Starbucks drink sizes is the largest?
+
+- [ ] Tail
+- [ ] Grande
+- [x] Venti
+
+#### Which of these is NOT one of the names of the Three Wise Men?
+
+- [ ] Melchior
+- [ ] Balthasar
+- [x] Methuselah
+
+#### IBM’s Deep Blue was designed to play what strategy game?
+
+- [x] Chess
+- [ ] Risk
+- [ ] Bridge
+
+#### Which one of these scholars dated German philosopher Martin Heidegger?
+
+- [x] Hannah Arendt
+- [ ] Simone de Beauvoir
+- [ ] Ayn Rand
+
+#### Which of these is NOT part of a song?
+
+- [ ] Verse
+- [ ] Chorus
+- [x] Epilogue
+
+#### According to the popular song, what did grandma get run over by?
+
+- [ ] Zebra
+- [x] Reindeer
+- [ ] Snowplow
+
+#### Where are Bugatti cars made?
+
+- [ ] Italy
+- [x] France
+- [ ] Spain
+
+#### Each cell in a human will typically contain how many pairs of chromosomes?
+
+- [x] 23
+- [ ] 48
+- [ ] 101
+
+#### What brand uses the slogan "Tough on grease. Gentle on Planet"?
+
+- [ ] Gorilla Glue
+- [ ] Toyota
+- [x] Palmolive
+
+#### The Pierogi is the National Dish of which country?
+
+- [ ] Canada
+- [x] Poland
+- [ ] Mexico
+
+#### Which U.S. city is known as the City of Brotherly Love?
+
+- [x] Philadelphia
+- [ ] Trenton
+- [ ] Baltimore
+
+#### 1884's "A Sunday on La Grande Jatte" took which artist two years to complete?
+
+- [x] Georges-Pierre Seurat
+- [ ] Pablo Picasso
+- [ ] Paul Signac
+
+#### Mount Veron is the historic home of which Founding Father?
+
+- [x] George Washington
+- [ ] Thomas Jefferson
+- [ ] John Adams
+
+#### A cruciverbalist is someone who's skilled at what?
+
+- [ ] Making speeches
+- [x] Solving crossword puzzles
+- [ ] Saying prayers
+
+#### What is the correct meaning of the term "ubiquitous"?
+
+- [x] Present or found everywhere
+- [ ] Speedy
+- [ ] Foul tasting
+
+#### The end credits for Disney's "Frozen" featured a disclaimer about what?
+
+- [ ] Snowball Fights
+- [ ] Domesticating Reindeer
+- [x] Eating Boogers
+
+#### The TV series "Gotham" was set in the world of what superhero?
+
+- [ ] Spider-Man
+- [ ] Sandman
+- [x] Batman
+
+#### Which band wrote and recoreded "Hotel California"?
+
+- [ ] The Byrds
+- [x] The Eagles
+- [ ] The Black Crowes
