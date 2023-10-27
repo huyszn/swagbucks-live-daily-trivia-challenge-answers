@@ -16854,12 +16854,6 @@
 - [ ] The Papers
 - [ ] The Breakfast Club
 
-#### In “Mean Girls”, by what nickname are the popular girls known?
-
-- [x] The Plastics
-- [ ] The Papers
-- [ ] The Breakfast Club
-
 #### What power does Violet Parr from “The Incredibles” possess?
 
 - [ ] Super Strength
@@ -18449,3 +18443,87 @@
 - [ ] Get knocked out
 - [ ] Cry and Pout
 - [x] Twist and Shout
+
+#### The "Let's All go To The Lobby" short that played in movie theaters uses what tune?
+
+- [ ] Pop Goes The Weasle
+- [ ] Anchors Away
+- [x] For He's A Jolly Good Fellow
+
+#### How many feet are in a fathom?
+
+- [x] 6
+- [ ] 3
+- [ ] 11
+
+#### In American Football, which of these is worth the most points?
+
+- [x] Touchdown
+- [ ] Field Goal
+- [ ] Safety
+
+#### Which YouTube personality has the most subscribers?
+
+- [ ] Justin Bieber
+- [x] PewDiePie
+- [ ] DuePerfect
+
+#### Whose 1995 album Jagged Little Pill is one of the best selling albums of all time?
+
+- [ ] Jewel
+- [ ] Gwen Stefani
+- [x] Alanis Morissette
+
+#### In 1916, the National Park Service was signed into law by which president?
+
+- [ ] Ronald Reagan
+- [x] Woodrow Wilson
+- [ ] Jimmy Carter
+
+#### Which of these countries shares a land border with the United States?
+
+- [ ] Fiji
+- [ ] Austria
+- [x] Canada
+
+#### Which of the following animated movies has the highest score on Rotten Tomatoes?
+
+- [x] Inside Out
+- [ ] Spider-Man: Into The Spiderverse
+- [ ] Ratatouille
+
+#### The recycling logo is made of three what?
+
+- [ ] Clowns
+- [ ] Mugs
+- [x] Arrows
+
+#### Which "Peanuts" character is known for playing the piano?
+
+- [x] Schroeder
+- [ ] Linus
+- [ ] Franklin
+
+#### Which of these is a spin-off of "The Bachelor"?
+
+- [x] Bachelor in Paradise
+- [ ] Bachelor in Court
+- [ ] Bachelor in Trouble
+
+#### Which process turns organic materials into nutrient-rich soil?
+
+- [ ] Recycling
+- [x] Composting
+- [ ] Trashing
+
+#### What is the term for the protective cover on a hardback book?
+
+- [ ] Dust Hat
+- [ ] Dust Pants
+- [x] Dust Jacket
+
+#### On Wednesdays, what color do The Plastics from "Mean Girls" wear?
+
+- [ ] Blue
+- [x] Pink
+- [ ] White
