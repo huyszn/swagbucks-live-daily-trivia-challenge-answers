@@ -18317,3 +18317,135 @@
 - [ ] The Byrds
 - [x] The Eagles
 - [ ] The Black Crowes
+
+#### In the world of beer, what does IPA stand for?
+
+- [x] India Pale Ale
+- [ ] It’s Pure Alcohol
+- [ ] I Purchased Ale
+
+#### Which of the following dogs was NOT a World War I hero?
+
+- [ ] Stubby
+- [ ] Rags
+- [x] Swansea Jack
+
+#### Who is the lead singer of the Rolling Stones?
+
+- [ ] Paul McCartney
+- [x] Mick Jagger
+- [ ] Robert Plant
+
+#### Which game is won by getting your pieces into a line?
+
+- [x] Connect Four
+- [ ] Chess
+- [ ] Trivial Pursuit
+
+#### Toronto is located in which Canadian province?
+
+- [x] Ontario
+- [ ] Nova Scotia
+- [ ] Yukon
+
+#### Who invented the cotton gin?
+
+- [ ] Thomas Edison
+- [ ] Robert Fulton
+- [x] Eli Whitney
+
+#### Who played the title character in "Annie Hall"?
+
+- [ ] Madeline Kahn
+- [x] Diane Keaton
+- [ ] Goldie Hawn
+
+#### What does a Botanist mainly study?
+
+- [ ] The brain
+- [ ] Space
+- [x] Plants
+
+#### Boot, Ball, Bell, and Bone are all kinds of what?
+
+- [ ] China Patterns
+- [x] Chicken McNuggets
+- [ ] Shades of white
+
+#### What signature color did Johnny Cash war on stage?
+
+- [ ] White
+- [ ] Blue
+- [x] Black
+
+#### Which of the following attractions was originally conceived as a restaurant?
+
+- [x] Enchanted Tiki Room
+- [ ] Splash Mountain
+- [ ] Space Mountain
+
+#### What do the five guys of Five Guys Burgers and Fries have in common?
+
+- [ ] They're all award-winning chefs
+- [x] They're brothers
+- [ ] They founded other restaurant chains
+
+#### From Britney Spears: "Oh baby baby, opps I..."
+
+- [x] Did it again
+- [ ] Just lost a friend
+- [ ] Found the West End
+
+#### From The Beach Boys: "Everybody's goin surfin'..."
+
+- [ ] Let's go lead the way
+- [x] Surfin' USA
+- [ ] Get a serving tray
+
+#### From Nelly Furtado: "I'm Like a Bird..."
+
+- [x] I'll only fly away
+- [ ] I'm dating Marvin Gaye
+- [ ] My favorite month is May
+
+#### From Toto: "There's nothing that a hundred men or more could ever do..."
+
+- [ ] I've met the rains down in Africa
+- [x] I bless the rains down in Africa
+- [ ] I get the rains down in Africa
+
+#### From Madonna: "Papa Don't Preach..."
+
+- [ ] I'm in lunacy
+- [ ] The baby's mine to keep
+- [x] I've been losing sleep
+
+#### From Michael Jackson: "Billie Jean is not my lover..."
+
+- [x] She's just a girl who says that I am the one
+- [ ] She's just a girl who has a hamburger bun
+- [ ] She's kust a girl and girls just wanna have fun
+
+#### From Sister Sledge: "We are family..."
+
+- [x] I got all my sisters with me
+- [ ] I got all my brothers with me
+- [ ] I got all my siblings with me
+
+#### From Taylor Swift: "Cause karma is my..."
+
+- [ ] Best friend
+- [x] Boyfriend
+- [ ] Old friend
+
+#### From Lady Gaga: Can't read my, can't read my No, he can't read my..."
+
+- [x] Poker face
+- [ ] Yard of lace
+- [ ] Outer space
+
+#### From the Beatles: "Well shake it up baby now..."
+
+- [ ] Get knocked out
+- [ ] Cry and Pout
+- [x] Twist and Shout
