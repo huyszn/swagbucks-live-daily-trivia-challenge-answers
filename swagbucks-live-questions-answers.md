@@ -18527,3 +18527,51 @@
 - [ ] Blue
 - [x] Pink
 - [ ] White
+
+#### Which of these is a word in the NATO phonetic alphabet?
+
+- [x] Uniform
+- [ ] Mary
+- [ ] Victory
+
+#### Which of these musicians has won a Nobel Prize?
+
+- [ ] Bono
+- [ ] Woody Guthrie
+- [x] Bob Dylan
+
+#### If you "hit the canvas," what sort of athlete are you?
+
+- [x] Boxer
+- [ ] Pole Jumper
+- [ ] Fencer
+
+#### The Ernest Vincent Wright book "Gadsby" was written without what?
+
+- [ ] Adjectives
+- [x] The letter E
+- [ ] Punctuation
+
+#### Mario first appeared as the hero of what arcade game?
+
+- [ ] Dig Dug
+- [x] Donkey Kong
+- [ ] Defender
+
+#### What dog breed is typically used in racing?
+
+- [ ] St. Bernards
+- [x] Greyhounds
+- [ ] Chihuahuas
+
+#### A cast member from which 80s movie won Best Supporting Actor at the 2023 Oscars?
+
+- [x] The Goonies
+- [ ] On Golden Pond
+- [ ] Dead Calm
+
+#### Where was Kellogg's founded?
+
+- [x] Battle Creek, Michigan
+- [ ] Walla Walla, Washington
+- [ ] Lancaster, Pennsylvania
