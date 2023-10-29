@@ -18617,3 +18617,93 @@
 - [x] Blue
 - [ ] Day-Glo Yellow
 - [ ] Orange
+
+#### In which decade did the original woodstock festival take place?
+
+- [ ] 1950s
+- [x] 1960s
+- [ ] 1970s
+
+#### What kind of car does Doc Brown turn into a time machine?
+
+- [ ] Corvette
+- [ ] Nova
+- [x] DeLorean
+
+#### The hills were alive... with the sound of winning in 1966 for this Julie Andrews movie?
+
+- [ ] Victor/Victoria
+- [x] The Sound of Music
+- [ ] Marry Poppins
+
+#### When matter in space collapses on itself, what phenomenon forms?
+
+- [ ] Lake
+- [x] Black hole
+- [ ] Earthquake
+
+#### On a standard keyboard, what is the only vowel that is NOT on the top row?
+
+- [ ] O
+- [ ] U
+- [x] A
+
+#### Who was the first sitting president to throw out a pitch on Opening Day?
+
+- [ ] Calvin Coolidge
+- [x] William Howard Taft
+- [ ] Teddy Roosevelt
+
+#### Images in the "Graphic Interchange Format" go by what nickname?
+
+- [x] GIF
+- [ ] JPEG
+- [ ] TIFF
+
+#### Which of these actors has played Rev. Billy Graham?
+
+- [ ] Martin LAndau
+- [ ] Josh Turner
+- [x] Armie Hammer
+
+#### Which of these games is classified as a card game?
+
+- [x] Uno
+- [ ] Battleship
+- [ ] Perfection
+
+#### On the 2012 season finale of Two Broke Girls, who do the girls pitch their cupcakes to?
+
+- [x] Duff Goldman
+- [ ] Martha Stewart
+- [ ] Buddy Valastro
+
+#### "Who's there?" is part of the set up for what kind of joke?
+
+- [ ] Yo momma
+- [ ] "Have you ever noticed..."
+- [x] Knock Knock
+
+#### Who famously kept a bear in his college dorm room?
+
+- [ ] Teddy Rossevelt
+- [ ] Davy Crockett
+- [x] Lord Byron
+
+#### After metamorphosis, what do most catepillars become?
+
+- [ ] A honeybee
+- [ ] A wasp
+- [x] A moth
+
+#### A "Once you pop, you can't stop" is the slogan of which potato chip brand?
+
+- [ ] Ruffles
+- [ ] Lays
+- [x] Pringles
+
+#### Which of these surnames is NOT part of The Danish Royal Family's official last name?
+
+- [ ] Schleswig
+- [ ] Sonderburg
+- [x] Mountbatten
