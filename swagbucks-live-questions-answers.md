@@ -18575,3 +18575,45 @@
 - [x] Battle Creek, Michigan
 - [ ] Walla Walla, Washington
 - [ ] Lancaster, Pennsylvania
+
+#### What slogan is currently being used by Pizza Hut?
+
+- [x] Nobody outs pizzas the Hut
+- [ ] You call THAT a pizza?
+- [ ] From the over to to your tummy
+
+#### Which of the following was NOT one of the names of the park that became Dollywood?
+
+- [ ] Silver Dollar City
+- [ ] Rebel Railroad
+- [x] Smokey Junction
+
+#### "Business" is the collective noun for which animal?
+
+- [ ] Otter
+- [ ] Beaver
+- [x] Ferret
+
+#### Which of these animals has no bones?
+
+- [ ] Falcon
+- [x] Shark
+- [ ] Elephant
+
+#### Professor Plum, Colonel Mustard and Miss White are all characters in what board game?
+
+- [x] Clue
+- [ ] Sorry
+- [ ] Parcheesi
+
+#### Which Disney animated film takes place in New Orleans?
+
+- [ ] Tangled
+- [x] The Princess and the Frog
+- [ ] The Little Mermaid
+
+#### What color is a Himalayan poppy?
+
+- [x] Blue
+- [ ] Day-Glo Yellow
+- [ ] Orange
