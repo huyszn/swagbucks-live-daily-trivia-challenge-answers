@@ -18707,3 +18707,165 @@
 - [ ] Schleswig
 - [ ] Sonderburg
 - [x] Mountbatten
+
+#### What was once a sign of intelligence?
+
+- [x] Dunce caps
+- [ ] Dogs
+- [ ] False teeth
+
+#### Which animal has exactly one more heart than the fictional character Doctor Who?
+
+- [x] Octopus
+- [ ] Hagfish
+- [ ] Giraffe
+
+#### What did Mister Rogers put on at the beginning of each episode of his show?
+
+- [x] A sweater
+- [ ] Cowboy boots
+- [ ] A fedora
+
+#### Which of these geometric shapes has the most sides?
+
+- [ ] Pentagon
+- [ ] Triangle
+- [x] Octagon
+
+#### What does it mean when there’s a “White Christmas”?
+
+- [ ] It’s super bright out
+- [x] It’s snowing
+- [ ] There’s computer paper everywhere
+
+#### Where is The Great Pyramid located?
+
+- [ ] Johannesburg
+- [ ] Paris
+- [x] Giza
+
+#### Which of the following is NOT a vowel?
+
+- [ ] A
+- [ ] U
+- [x] D
+
+#### “Wishbone” brought Literature to life through what kind of animal?
+
+- [ ] Fish
+- [ ] Cat
+- [x] Dog
+
+#### Oreck is a company known for making what household item?
+
+- [ ] Sheets
+- [x] Vacuum Cleaners
+- [ ] Tables
+
+#### In "The One With the Cuffs", which volume of the encyclopedia does Joey buy?
+
+- [ ] K
+- [ ] S
+- [x] V
+
+#### In which decade did acid wash jeans become popular?
+
+- [ ] 1950s
+- [ ] 1980s
+- [x] 2000s
+
+#### In 1994, which Disney animated film's stage adaptation debuted on Broadway?
+
+- [ ] The Aristocats
+- [ ] Beauty and the Beast
+- [x] Oliver & Company
+
+#### What actor has appeared in "Jumanji", "Hobbs & Shaw", and "Jungle Cruise"?
+
+- [ ] Vin Diesel
+- [x] Dwayne Johnson
+- [ ] Kevin Hart
+
+#### Which Marvel hero got their own movie first?
+
+- [x] Iron Man
+- [ ] Captain Marvel
+- [ ] Black Panther
+
+#### What was Joan Rivers' catchphrase?
+
+- [ ] I don't get no respect!
+- [ ] Take my wife, please!
+- [x] Can we talk?
+
+#### Kevin Costner took home the Oscars for Best Picture AND Best Director in 1991 for this sweeping Western?
+
+- [x] Dances With Wolves
+- [ ] Silverado
+- [ ] Unforgiven
+
+#### Tonnarelli is a pasta shape that most closely resembles what other pasta shape?
+
+- [ ] Macaroni
+- [ ] Lasagna
+- [x] Spaghetti
+
+#### Jason Voorhees terrorizes counselors at what camp?
+
+- [ ] Camp David
+- [x] Camp Crystal Lake
+- [ ] Camp Anawanna
+
+#### Which of the following horror movies is about zombies?
+
+- [x] Night of the Living Dead
+- [ ] The Howling
+- [ ] The Kiss of the Vampire
+
+#### What is the name of the main villain in the “Saw” movies?
+
+- [ ] Pinhead
+- [ ] Hammerfists
+- [x] Jigsaw
+
+#### Which “Ghost with the Most” is summoned by saying his name 3 times?
+
+- [ ] Casper
+- [x] Beetlejuice
+- [ ] Candyman
+
+#### In “The Shining”, what phrase does Jack Torrance write over and over again?
+
+- [ ] My dog did NOT eat my homework
+- [ ] The quick brown fox jumped over the lazy dog
+- [x] All work and no play makes Jack a dull boy
+
+#### In which horror movie do the teens of Woodsboro, California get slaughtered by Ghostface?
+
+- [x] Scream
+- [ ] Jennifer’s Body
+- [ ] I Know What You Did Last Summer
+
+#### The real-life serial killer who inspired the character of Norman Bates also inspired what other movie killer?
+
+- [ ] Hannibal Lecter
+- [ ] Michael Myers
+- [x] Leatherface
+
+#### An electrical storm brings which movie monster to life?
+
+- [ ] Freddy Krueger
+- [ ] Dracula
+- [x] Frankenstein’s monster
+
+#### Which Universal movie monster was played by Bela Lugosi?
+
+- [x] Dracula
+- [ ] The Creature from the Black Lagoon
+- [ ] The Mummy
+
+#### What causes Larry Talbot to transform into the Wolfman?
+
+- [ ] Sleet
+- [x] A full moon
+- [ ] Sunrise
