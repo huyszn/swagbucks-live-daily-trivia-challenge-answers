@@ -18869,3 +18869,141 @@
 - [ ] Sleet
 - [x] A full moon
 - [ ] Sunrise
+
+#### The Mediterranean sea separates what two continents?
+
+- [ ] Africa and Asia
+- [ ] Asia and Europe
+- [x] Africa and Europe
+
+#### The Battle of the Severn took place in Maryland during which war?
+
+- [ ] The Revolutionary War
+- [ ] The American Civil War
+- [x] The English Civil War
+
+#### In Pac-Man, what do you eat to turn the ghosts blue?
+
+- [ ] Pancakes
+- [x] Power Pellet
+- [ ] Popcorn
+
+#### What golf club-head did astronaut Alan Shepard use on the moon?
+
+- [x] 6 iron
+- [ ] Sand wedge
+- [ ] 9 iron
+
+#### On average, approximately how many licks does it take to finish a single scoop ice cream cone?
+
+- [x] 50
+- [ ] 100
+- [ ] 150
+
+#### Which sport has running backs and safeties?
+
+- [ ] Basketball
+- [ ] Hockey
+- [x] Football
+
+#### In the David Mamet play "American Buffalo," what is Don Dubrow trying to steal?
+
+- [ ] A Native American feather
+- [ ] An ivory horn
+- [x] A rare nickel
+
+#### Which Social Media influencer starred in a Netflix remake of "She's All That" titled "He's All That"?
+
+- [ ] Adam Rose
+- [ ] Bella Poarch
+- [x] Addison Rae
+
+#### The phrase "Par for the course" comes from what sport?
+
+- [x] Golf
+- [ ] Billards
+- [ ] Polo
+
+#### Which baseball player hit the most home runs during the 1950s?
+
+- [ ] Mickey Mantle
+- [x] Duke Snider
+- [ ] Eddie Mathews
+
+#### If you "fabricate" something, that means you:
+
+- [ ] Upholster it
+- [x] Make it up
+- [ ] Bake it
+
+#### What is the term for an animal that exclusively eats plants?
+
+- [x] Herbivore
+- [ ] Carnivore
+- [ ] Omnivore
+
+#### Which of the following countries is NOT landlocked?
+
+- [ ] San Marino
+- [ ] Vatican City
+- [x] Kiribati
+
+#### What is traditionally handed out to Trick-or-Treaters on Halloween?
+
+- [x] Candy
+- [ ] Land
+- [ ] Neckties
+
+#### What gourd is traditionally carved as part of Halloween?
+
+- [ ] Cucumber
+- [x] Pumpkin
+- [ ] Muskmelon
+
+#### What New York village has Halloween celebrations centered around its Headless Horseman legend?
+
+- [ ] Nyack
+- [ ] Syracuse
+- [x] Sleepy Hollow
+
+#### What was the original purpose of wearing costumes on what would become Halloween?
+
+- [ ] Scaring the devil
+- [x] Hiding from ghosts
+- [ ] Banishing evil
+
+#### What kind of fruit do we commonly "bob" for around Halloween?
+
+- [x] Apples
+- [ ] Grapes
+- [ ] Cantaloupe
+
+#### What kind of cat usually accompanies witches in Halloween decorations?
+
+- [ ] White cat
+- [ ] Yellow cat
+- [x] Black cat
+
+#### What Mexican holiday almost immediately follows Halloween?
+
+- [ ] Cinco de Mayo
+- [x] Dia de los Muertos
+- [ ] Candelaria
+
+#### What country celebrates the Halloween-like costume festival called Kukeri?
+
+- [ ] Russia
+- [ ] China
+- [x] Bulgaria
+
+#### What nocturnal animals are heavily associated with Halloween?
+
+- [x] Bat
+- [ ] Glass Catfish
+- [ ] Raccoon
+
+#### Which of the following terms is NOT commonly used to describe the night before Halloween?
+
+- [ ] Mischief Night
+- [ ] Devil's Night
+- [x] Oh What A Night
