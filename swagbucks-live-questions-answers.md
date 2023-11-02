@@ -19127,3 +19127,51 @@
 - [ ] The Gap
 - [x] Men’s Wearhouse
 - [ ] Forever 21
+
+#### In which Sci-Fi movie does Harrison Ford hunt Replicants?
+
+- [ ] Minority Report
+- [ ] The Terminator
+- [x] Blade Runner
+
+#### In which century was Christmas set to December 25th?
+
+- [ ] 21st
+- [x] 4th
+- [ ] 22nd
+
+#### Where would you most likely find a yelve?
+
+- [x] Garden
+- [ ] International Space Station
+- [ ] Boxing Ring
+
+#### How does your skin feel?
+
+- [ ] With the cerebellum
+- [ ] With the occipital lobe
+- [x] With the thalamus
+
+#### What's the musical term for a chord where the notes are played one after another instead of all together?
+
+- [x] Arpeggio
+- [ ] Pizzicato
+- [ ] Allegretto
+
+#### Which of these sites allows you to rent vacation homes?
+
+- [ ] CNN.com
+- [x] AirBNB.com
+- [ ] ESPN.com
+
+#### Which of these games is traditionally played on a table?
+
+- [x] Ping Pong
+- [ ] Curling
+- [ ] American Football
+
+#### Which movie monster stars in the "Nightmare on Elm Street" series?
+
+- [ ] Pinhead
+- [x] Freddy Krueger
+- [ ] Damien
