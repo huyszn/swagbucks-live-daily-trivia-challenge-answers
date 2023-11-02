@@ -19007,3 +19007,123 @@
 - [ ] Mischief Night
 - [ ] Devil's Night
 - [x] Oh What A Night
+
+#### Ambidexterity is the ability to do what?
+
+- [x] Use both hands equally well
+- [ ] Use your feet to type
+- [ ] Chew with your mouth closed
+
+#### Which these would you use to travel up and down in a building?
+
+- [x] Elevator
+- [ ] Baconater
+- [ ] Darth Vader
+
+#### Which of the following prefixes means “Not”?
+
+- [x] il
+- [ ] co
+- [ ] re
+
+#### The Davis Cup is an event in what sport?
+
+- [x] Tennis
+- [ ] Badminton
+- [ ] Polo
+
+#### Who wrote “The Giving Tree”?
+
+- [x] Shel Silverstein
+- [ ] Truman Capote
+- [ ] F. Scott Fitzgerald
+
+#### In which romantic comedy does Annette Bening play environmental lobbyist Sydney Ellen Wade?
+
+- [ ] Dave
+- [x] The American President
+- [ ] A Few Good Men
+
+#### The Star Wars Holiday special was originally envisioned by George Lucas to be the Wookiee version of what holiday?
+
+- [ ] Easter
+- [x] Rosh Hashanah
+- [ ] Christmas
+
+#### During World War II, which country develope the Bob Semple Tank?
+
+- [ ] Canada
+- [ ] Britain
+- [x] New Zealand
+
+#### Mary Shelley wrote which gothic horror novel?
+
+- [ ] Frankenfurter
+- [ ] Frankensadie
+- [x] Frankenstein
+
+#### LeBron James has won an NBA championship with which of the following teams?
+
+- [x] Cleveland Cavaliers
+- [ ] Denver Nuggets
+- [ ] Seattle Supersonics
+
+#### Nathan’s Famous is famous for what dish?
+
+- [x] Hot Dog
+- [ ] Hamburger
+- [ ] Pizza
+
+#### What is the most expensive property to buy on a standard Monopoly board?
+
+- [ ] B&O Railroad
+- [x] Boardwalk
+- [ ] Baltic Ave
+
+#### Which of the following baseball pitches is considered to be “off-speed”?
+
+- [x] Changeup
+- [ ] 4-Seam Fastball
+- [ ] 2-Seam Fastball
+
+#### Forensic scientist Nicolas Minovici once conducted a study where he had his assistants do what to him?
+
+- [x] Hang him
+- [ ] Shoot him
+- [ ] Electrocute him
+
+#### What structure stands over the skyline of Seattle?
+
+- [x] Space Needle
+- [ ] Learning Tower
+- [ ] Empire State Building
+
+#### On an episode of “Inside the Actors Studio”, Sean Penn was asked a question by what future star?
+
+- [x] Matt Damon
+- [ ] Jermy Renner
+- [ ] Empire State Building
+
+#### What two Munchkinland groups welcome Dorothy in “The Wizard of Oz”?
+
+- [ ] The Tinkerbell Team & Sugarland Squad
+- [ ] The Local 87 & Ladies Who Lunch
+- [x] The Lollipop Guild & Lullabye League
+
+#### Edward Bulwer-Lytton is associated with what famous literary line?
+
+- [ ] Happily ever after
+- [x] It was a dark and stormy night
+- [ ] Little did they know
+
+#### Prince had a hit song about what kind of headwear?
+
+- [ ] Strawberry Headband
+- [ ] Blueberry Top Hat
+- [x] Raspberry Beret
+
+#### What clothing store line promises “You’re gonna love the way you look. I guarantee it!”?
+
+- [ ] The Gap
+- [x] Men’s Wearhouse
+- [ ] Forever 21
