@@ -19295,3 +19295,45 @@
 - [ ] Biologist
 - [ ] Priest
 - [x] Philosopher
+
+#### Who released "The Chronic" in 1992?
+
+- [ ] Ed Lover
+- [ ] Easy-E
+- [x] Dr. Dre
+
+#### Sandra Bullock won an Academy Award for her role in what film?
+
+- [ ] Demolition Man
+- [ ] The Proposal
+- [x] The Blind Side
+
+#### Which of the following is a Pixar movie?
+
+- [ ] The Toy
+- [ ] Toy Soliders
+- [x] Toy Story
+
+#### Who was caught lip syncing while performing on Saturday Night Live?
+
+- [ ] Vanilla Ice
+- [ ] Milli Vannilli
+- [x] Ashlee Simpson
+
+#### What is the school motto of Hogwarts?
+
+- [x] Never Tickle a Sleeping Dragon
+- [ ] Knowledge, Bravery, Kidness, and Ambition
+- [ ] Dedicated to the Learning Magic
+
+#### What kind of egg requires boiling water to cook?
+
+- [ ] Fired Eggs
+- [x] Poached Eggs
+- [ ] Scrambled Eggs
+
+#### 8-Ball and 9-Ball are versions of what game?
+
+- [ ] Ping Pong
+- [x] Pool
+- [ ] Shuffleboard
