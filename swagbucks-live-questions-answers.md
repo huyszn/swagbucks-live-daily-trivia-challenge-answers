@@ -19175,3 +19175,123 @@
 - [ ] Pinhead
 - [x] Freddy Krueger
 - [ ] Damien
+
+#### What hit video game was turned into an HBO series that debuted in 2023?
+
+- [ ] Resident Evil
+- [x] The Last of Us
+- [ ] Fortnite
+
+#### Where would you have to go to visit Machu Picchu?
+
+- [ ] Mexico
+- [x] Peru
+- [ ] Australia
+
+#### Dudley Dursley is the non-magical cousin of what literary character?
+
+- [x] Harry Potter
+- [ ] Dumbledore
+- [ ] Voldemort
+
+#### On what day of the week are the majority of professional American Football games played?
+
+- [ ] Thursday
+- [ ] Monday
+- [x] Sunday
+
+#### Who plate a character named Ling Woo on Ally McBeal?
+
+- [x] Lucy Liu
+- [ ] Sandra Oh
+- [ ] Constance Wu
+
+#### What is the indigenous faith of Japan?
+
+- [ ] Buddhism
+- [x] Shinto
+- [ ] Confucianism
+
+#### Which of the following strips is about a Viking and his family?
+
+- [ ] B.C.
+- [x] Hagar the Horrible
+- [ ] Foxtrot
+
+#### Which of these Star Wars characters is a Wookiee?
+
+- [ ] Darth Vader
+- [ ] Han Solo
+- [x] Chewbacca
+
+#### What does WWE stand for?
+
+- [x] World Wrestling Entertainment
+- [ ] Wet n’ Wild Elephants
+- [ ] Wiry Welsh Elevators
+
+#### What were Junior Mints named after?
+
+- [ ] A family member
+- [ ] A clothing brand
+- [x] A Broadway play
+
+#### Michael Stipe was the lead singer of what band?
+
+- [ ] Metallica
+- [ ] Pearl Jam
+- [x] R.E.M.
+
+#### What is the name of the Big Red Dog with his own book series?
+
+- [ ] Charlie
+- [x] Clifford
+- [ ] Clark
+
+#### What was the first fruit eaten on the moon?
+
+- [x] Peach
+- [ ] Apple
+- [ ] Banana
+
+#### Which of the Mean Girls was the offspring of the inventor of the Toaster Strudel?
+
+- [ ] Regina George
+- [x] Gretchen Wieners
+- [ ] Karen Smith
+
+#### “Parks & Recreation” mainly took place in which fictional town?
+
+- [ ] Eagleton
+- [ ] Wamapoke
+- [x] Pawnee
+
+#### Which musical features the song “All That Jazz”?
+
+- [x] Chicago
+- [ ] West Side Story
+- [ ] The Book of Mormon
+
+#### Which nut grows on apples?
+
+- [x] Cashews
+- [ ] Marcona almonds
+- [ ] Pili nuts
+
+#### The terms John and Jane Doe came out of what circumstance?
+
+- [ ] Witness protection
+- [x] Landlord/tenant disputes
+- [ ] Criminal prosecution
+
+#### Which children’s show featured the characters X the Owl, Daniel Tiger, and Lady Aberlin?
+
+- [ ] Xoom
+- [ ] Arthur
+- [x] Mister Rogers Neighborhood
+
+#### The person who first posited the theory of the Big Bang worked in what profession?
+
+- [ ] Biologist
+- [ ] Priest
+- [x] Philosopher
