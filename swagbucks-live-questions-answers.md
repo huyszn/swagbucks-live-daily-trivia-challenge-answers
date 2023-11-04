@@ -19337,3 +19337,45 @@
 - [ ] Ping Pong
 - [x] Pool
 - [ ] Shuffleboard
+
+#### Which of these performers created the touring "Wild West" show in 1883?
+
+- [ ] Annie Oakley
+- [x] Buffalo Bill Cody
+- [ ] Wild Bill Hickok
+
+#### Which Mad Men character hast the least eumelanin in her hair?
+
+- [x] Betty Draper
+- [ ] Peggy Olson
+- [ ] Joan Holloway
+
+#### What emperor was said to have fiddled while Rome burned?
+
+- [ ] Gaius
+- [ ] Julius Caesar
+- [x] Nero
+
+#### Margartet Thatcher was Prime Minister of which country?
+
+- [ ] India
+- [ ] Japan
+- [x] United Kingdom
+
+#### Easy Cheese is sold in what type of container?
+
+- [x] Spray can
+- [ ] Old shoe
+- [ ] Paper airplane
+
+#### The Apollo, Mercury, and Gemini were all programs of what government agency?
+
+- [x] NASA
+- [ ] Air Force
+- [ ] IRS
+
+#### Bacteria called Pseudomonas and Proteus are responsible for what animal phenomenon?
+
+- [ ] Skunk Spray
+- [x] Frito Feet
+- [ ] Caterwauling
