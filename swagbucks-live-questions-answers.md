@@ -19379,3 +19379,57 @@
 - [ ] Skunk Spray
 - [x] Frito Feet
 - [ ] Caterwauling
+
+#### Which of these inventions was a tribute to the inventor's father?
+
+- [ ] Life Preserver
+- [x] Drinking Fountain
+- [ ] Pipe Cleaner
+
+#### If I'm prognosticating, what am I doing?
+
+- [ ] Playing something
+- [ ] Delaying something
+- [x] Predicting something
+
+#### What year did the Cold War begin?
+
+- [ ] 1900
+- [x] 1947
+- [ ] 1972
+
+#### In Fahrenheit, which of the following would be in the range of normal body temperature?
+
+- [ ] 54.1 degrees
+- [x] 98.6 degrees
+- [ ] 101 degrees
+
+#### What are Yomiuri Shimbun and Asahi Shimbun?
+
+- [ ] Japanese baseball teams
+- [x] Japanese newspapers
+- [ ] Japanese beers
+
+#### How many NHL records does Wayne Gretzky hold or share?
+
+- [ ] 59
+- [ ] 60
+- [x] 61
+
+#### What game involves picking up pieces while bouncing a ball?
+
+- [x] Jacks
+- [ ] Hopscotch
+- [ ] Double Dutch
+
+#### In "Super Mario Bros", what makes Mario become larger?
+
+- [ ] Flower
+- [ ] Star
+- [x] Mushroom
+
+#### What kind of edible is normally given as a gift during Valentine's Day?
+
+- [x] Chocolates
+- [ ] Sticky Buns
+- [ ] Parsnips
