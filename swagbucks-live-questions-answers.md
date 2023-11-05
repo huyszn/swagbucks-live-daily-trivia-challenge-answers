@@ -19433,3 +19433,51 @@
 - [x] Chocolates
 - [ ] Sticky Buns
 - [ ] Parsnips
+
+#### Which of the following dishes is a dessert?
+
+- [x] Panna cotta
+- [ ] Chicken Curry
+- [ ] Gyros
+
+#### Which of these TV shows did not have a sequel series in the 80s?
+
+- [ ] The Monkees
+- [ ] Leave it to Beaver
+- [x] WKRP in Cincinnati
+
+#### The majority of Circus Peanuts are sold in what flavor?
+
+- [ ] Orange
+- [x] Banana
+- [ ] Cotton Candy
+
+#### What was the first Disney Feature Animated film to air on TV?
+
+- [ ] Snow White and the Seven Dwarfs
+- [ ] Fantasia
+- [x] Alice in Wonderland
+
+#### What are the names of Harry Potter's best friends?
+
+- [ ] Wormtail and Padfoot
+- [ ] Aragog and Hagrid
+- [x] Ron and Hermione
+
+#### Complete this slogan: "Reduce, Re-Use, ____"
+
+- [ ] Rock On
+- [ ] Reduce again
+- [x] Recycle
+
+#### Which condiment brand has a logo that includes a nod to its Pennsylvania roots?
+
+- [x] Heinz
+- [ ] Morton's Salt
+- [ ] Gulden's
+
+#### Which of the following European mountains has the highest peak?
+
+- [ ] Monte Rosa
+- [x] Mont Blanc
+- [ ] Matterhorn
