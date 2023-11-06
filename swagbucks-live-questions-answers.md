@@ -19481,3 +19481,39 @@
 - [ ] Monte Rosa
 - [x] Mont Blanc
 - [ ] Matterhorn
+
+#### What handheld item became popular in 2017?
+
+- [ ] Cell phone
+- [x] Fidget Spinner
+- [ ] Koosh Balls
+
+#### Which of these is a series of horror books for kids?
+
+- [ ] Duckbumps
+- [x] Goosebumps
+- [ ] Swanbumps
+
+#### When Sir Paul McCartney played at the opening ceremony of the 2012 Olympics, how much was he paid?
+
+- [x] 1 Pound
+- [ ] 500 Pounds
+- [ ] 3 million Pounds
+
+#### What video game was originally titled "Race 'n' Chase"?
+
+- [x] Grand Theft Auto
+- [ ] Mario Tennis
+- [ ] Pokémon Red and Blue
+
+#### In the comic books, what is the name of Garfield's owner?
+
+- [ ] Odie
+- [ ] Nermal
+- [x] Jon Arbuckle
+
+#### In "TAG", what title is given to the person who is chasing everyone else?
+
+- [ ] That
+- [x] It
+- [ ] King
