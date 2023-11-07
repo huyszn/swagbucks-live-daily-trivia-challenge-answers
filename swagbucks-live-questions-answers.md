@@ -19517,3 +19517,141 @@
 - [ ] That
 - [x] It
 - [ ] King
+
+#### What are croutons generally made from?
+
+- [x] Bread
+- [ ] Lettuce
+- [ ] Water
+
+#### What English word does “Uno” translate to?
+
+- [ ] Ice
+- [x] One
+- [ ] Dog
+
+#### The month Quintilis was renamed July in honor of which historical figure?
+
+- [x] Julius Caesar
+- [ ] Julie Andrews
+- [ ] Julio Iglesias
+
+#### Franco-American makes what canned food?
+
+- [ ] Beef Stew
+- [ ] SPAM
+- [x] Spaghettios
+
+#### Which celebrity was in the Main Even of the first-ever Wrestlemania?
+
+- [ ] Steve McQueen
+- [x] Mr. T
+- [ ] Cyndi Lauper
+
+#### Petrified dinosaur remains are known as what?
+
+- [x] Fossils
+- [ ] Crystals
+- [ ] Boulders
+
+#### What product are Ben & Jerry best known for making?
+
+- [x] Ice Cream
+- [ ] Fidget Spinners
+- [ ] Underwear
+
+#### In the comic strips, what is the name of Blondie's husband?
+
+- [ ] Arthur
+- [ ] Tank
+- [x] Dagwood
+
+#### Cartoonist Carl Barks created which wealthy Diseny Duck as a comic book character?
+
+- [ ] Scrooge McDuck
+- [ ] Huey
+- [x] Donald Duck
+
+#### What era of art gave away to artists like Botticelli, Donatello, and Michelangelo?
+
+- [ ] The Dark Ages
+- [x] The Renaissance
+- [ ] The Modern Era
+
+#### Boiled pigs legs, blood, salt, and vinegar was a stample soup of which ancient city?
+
+- [ ] Rome
+- [x] Sparta
+- [ ] Troy
+
+#### Who is Luke Skywalker's twin sister?
+
+- [ ] Rey Skywalker
+- [ ] Cara Dune
+- [x] Leia Organa
+
+#### What is the name of a book of maps and charts used to navigate?
+
+- [ ] Anthology
+- [ ] Encyclopedia
+- [x] Atlas
+
+#### Which of the following games can be played without any equipment?
+
+- [x] Pattycake
+- [ ] Jacks
+- [ ] Double Dutch
+
+#### Which of the following MLB players is NOT top 3 all-time in career home runs?
+
+- [ ] Hank Aaron
+- [x] Kevin Stocker
+- [ ] Babe Ruth
+
+#### The Hulu series "The Bear" centers around a character with what profession?
+
+- [ ] Park Ranger
+- [ ] Wrestler
+- [x] Chef
+
+#### Conor McGregor is famous for what sport?
+
+- [ ] Park Ranger
+- [ ] Wrestler
+- [x] Chef
+
+#### Which of the following is NOT a standard jelly donut flavor?
+
+- [ ] Raspberry
+- [x] Tuna
+- [ ] Strawberry
+
+#### What American holiday honors military personnel who were lost while serving?
+
+- [ ] Flag Day
+- [ ] Labor Day
+- [x] Memorial Day
+
+#### When did Golf officially become a sport?
+
+- [ ] 928 AD
+- [ ] 1489 AD
+- [x] 1744 AD
+
+#### What is the result of dividing any number by one?
+
+- [x] The number itself
+- [ ] 0
+- [ ] 1
+
+#### What is the result of dividing any number by one?
+
+- [x] The number itself
+- [ ] 0
+- [ ] 1
+
+#### Will Smith's rap career started as part of a duo with what DJ?
+
+- [ ] DJ Yella
+- [ ] Jam Master Jay
+- [x] DJ Jazzy Jeff
