@@ -19614,12 +19614,6 @@
 - [ ] Wrestler
 - [x] Chef
 
-#### Conor McGregor is famous for what sport?
-
-- [ ] Park Ranger
-- [ ] Wrestler
-- [x] Chef
-
 #### Which of the following is NOT a standard jelly donut flavor?
 
 - [ ] Raspberry
@@ -19638,20 +19632,44 @@
 - [ ] 1489 AD
 - [x] 1744 AD
 
-#### What is the result of dividing any number by one?
-
-- [x] The number itself
-- [ ] 0
-- [ ] 1
-
-#### What is the result of dividing any number by one?
-
-- [x] The number itself
-- [ ] 0
-- [ ] 1
-
 #### Will Smith's rap career started as part of a duo with what DJ?
 
 - [ ] DJ Yella
 - [ ] Jam Master Jay
 - [x] DJ Jazzy Jeff
+
+#### What is the name of the Central Perk employee who's in love with Rachel?
+
+- [ ] Hagar
+- [ ] Sven
+- [x] Gunther
+
+#### What MCU supergroup are known as "Earth's Mightiest Heroes"?
+
+- [ ] The Guardians of the Galaxy
+- [x] The Avengers
+- [ ] The Howling Commandos
+
+#### When something is a short distance away, what do we say it is?
+
+- [ ] A bop, flip, and a bump
+- [x] A hop, skip, and a jump
+- [ ] A wiggle, a giggle, and a tickle
+
+#### What is the only State with a one syllable name?
+
+- [ ] Vermont
+- [x] Maine
+- [ ] Georgia
+
+#### Which of these Muppets is a drummer?
+
+- [ ] Dr. Teeth
+- [ ] Rowlf
+- [x] Animal
+
+#### Which of the following is NOT one of the events in Wii Sports?
+
+- [ ] Tennis
+- [ ] Bowling
+- [x] Greco-Roman Wrestling
