@@ -19673,3 +19673,51 @@
 - [ ] Tennis
 - [ ] Bowling
 - [x] Greco-Roman Wrestling
+
+#### Which of the following is classified as a condiment?
+
+- [ ] Milk
+- [x] Mustard
+- [ ] Mutton
+
+#### In 1960, which celebrity was honored with the first star on the Hollywood Walk of Fame?
+
+- [ ] Marilyn Monroe
+- [x] Joanne Woodward
+- [ ] Frank Sinatra
+
+#### What actor got their start playing "Ranger Bob" on a children's show?
+
+- [x] William Shatner
+- [ ] Jim Carrey
+- [ ] George Clooney
+
+#### Radio Flyer is well-known for what children's toy?
+
+- [ ] Pinky ball
+- [x] Red Wagon
+- [ ] Kitchen playset
+
+#### What is the name for the process of baking oil into a cast iron pan?
+
+- [ ] Slicking
+- [ ] Pasteurizing
+- [x] Seasoning
+
+#### Explorer Edmund Hillary is known for being the first person to reach the summit of which mountain?
+
+- [x] Mount Everest
+- [ ] Mountain Dew
+- [ ] Mount Rushmore
+
+#### What kind of animal is the patriotic Sam?
+
+- [ ] Rat
+- [ ] Dog
+- [x] Eagle
+
+#### Charlotte Brontë is known for what book?
+
+- [ ] Huckleberry Finn
+- [ ] Chutzpah
+- [x] Jane Eyre
