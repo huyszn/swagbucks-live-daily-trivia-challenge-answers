@@ -19721,3 +19721,297 @@
 - [ ] Huckleberry Finn
 - [ ] Chutzpah
 - [x] Jane Eyre
+
+#### In “Love Shack” by the B-52’s, what animal is used to describe the size of the singer’s Chrysler?
+
+- [x] Whale
+- [ ] Elephant
+- [ ] Moose
+
+#### Who wrote books like “Journey to the Center of the Earth” and “Twenty Thousand Leagues Under the Sea”?
+
+- [ ] H.G. Wells
+- [x] Jules Verne
+- [ ] Isaac Asimov
+
+#### By what nickname is NBA legend Earvin Johnson better known?
+
+- [ ] The Captain
+- [ ] The Human Highlight Reel
+- [x] Magic
+
+#### In Super Mario Bros, what item gives Mario the ability to shoot fireballs?
+
+- [x] Fire Flower
+- [ ] Fire Tree
+- [ ] Fire Flag
+
+#### Which of the following States was part of the original Confederacy during the U.S. Civil War?
+
+- [ ] New York
+- [x] Alabama
+- [ ] Ohio
+
+#### In his signature siong, what kind of Christmas does Burl Ives want you to have?
+
+- [x] Holly Jolly
+- [ ] Wavy Gravy
+- [ ] Topsy Turvy
+
+#### In 1999, after 19 tries, Susan Lucci finally won an Emmy for her portrayal of what character?
+
+- [x] Erica Kane
+- [ ] Katherine Chancellor
+- [ ] Marlena Evans
+
+#### What country is known as “The Emerald Isle”?
+
+- [x] Ireland
+- [ ] Scotland
+- [ ] Wales
+
+#### What is the largest known land animal?
+
+- [ ] Giraffe
+- [ ] Chihuahua
+- [x] Elephant
+
+#### What was Gabe Lewis’ middle name?
+
+- [x] Susan
+- [ ] Gabriel
+- [ ] Linda
+
+#### Which of the following means a movie or show has consistently scored 75% or higher on the Tomatometer?
+
+- [ ] Rotten
+- [ ] Tasty Tomato
+- [x] Certified Fresh
+
+#### Which of the following is NOT one of the 5 themes of geography established by the Association of American Geographers?
+
+- [ ] Location
+- [ ] Human-Environment Interaction
+- [x] Climate
+
+#### David Copperfield is known for what type of entertainment?
+
+- [ ] Song and Dance
+- [x] Magic
+- [ ] DJing
+
+#### What writer intended a system for writing in the dark?
+
+- [ ] Mark Twain
+- [x] Lewis Carroll
+- [ ] Charles Dickens
+
+#### “Let’s Go Places” is the slogan of which auto company?
+
+- [x] Toyota
+- [ ] Tesla
+- [ ] Porsche
+
+#### What type of fish is the primary ingredient in Caesar salad dressing?
+
+- [ ] Flounder
+- [x] Anchovy
+- [ ] Salmon
+
+#### Guglielmo Marconi is most closely associated with which of the following inventions?
+
+- [x] Radio
+- [ ] Light Bulb
+- [ ] Airplane
+
+#### What was the first TV show to use “Google” as a verb?
+
+- [ ] Friends
+- [ ] Malcolm in the Middle
+- [x] Buffy the Vampire Slayer
+
+#### Which language uses the Cyrillic alphabet?
+
+- [ ] English
+- [x] Russian
+- [ ] French
+
+#### Lex Luthor is the archenemy of which superhero?
+
+- [x] Superman
+- [ ] The Flash
+- [ ] Spider-Man
+
+#### Which of the following books contains what was once the longest sentence ever printed?
+
+- [ ] War and Peace
+- [ ] Paradise Lost
+- [x] Les Misérables
+
+#### Which film features the iconic line “Here’s looking at you, kid.”?
+
+- [ ] Gone with the Wind
+- [x] Casablanca
+- [ ] Singin’ in the Rain
+
+#### Which band released the album “The Joshua Tree”?
+
+- [ ] Coldplay
+- [ ] Radiohead
+- [x] U2
+
+#### Actor Lisa Rinna is part of the cast of what reality show?
+
+- [ ] The Real Housewives of Beverly Hills
+- [ ] The Hills
+- [x] Road Rules
+
+#### If something is erroneous, what is it?
+
+- [ ] Correct
+- [ ] Smelly
+- [x] Wrong
+
+#### What term is used when something is becoming popular on social media?
+
+- [ ] On the up and up
+- [ ] Flamin’ Hot
+- [x] Trending
+
+#### What notable woman is credited with saying “Let them eat cake”?
+
+- [ ] Queen Elizabeth
+- [x] Marie Antoinette
+- [ ] Cleopatra
+
+#### What was the first item sold on eBay?
+
+- [x] Laser Pointer
+- [ ] Cordless Phone
+- [ ] Jacket
+
+#### Which of these instruments do you primarily play with your mouth?
+
+- [ ] Guitar
+- [x] Harmonica
+- [ ] Piano
+
+#### Which rap star changed the name of his publishing company from “Ghetto Gospel” to “Joshua’s Dream”?
+
+- [ ] Kanye West
+- [x] Tupac Shakur
+- [ ] Biggie Smalls
+
+#### Which of the following is NOT one of the original six American Girl dolls?
+
+- [x] Nellie O’Malley
+- [ ] Kirsten Larson
+- [ ] Molly McIntire
+
+#### Who won 8 Gold Medals in swimming at the 2008 Summer Olympics?
+
+- [x] Michael Phelps
+- [ ] Ryan Lochte
+- [ ] Dara Torres
+
+#### In the first level of the original Donkey Kong, what is Donkey Kong throwing at you?
+
+- [x] Barrels
+- [ ] Briefcases
+- [ ] Bananas
+
+#### What scientist is credited with discovering the Three Laws of Motion?
+
+- [ ] Copernicus
+- [ ] Leonardo da Vinci
+- [x] Sir Isaac Newton
+
+#### What is the proper split of helicopter into its two Greek terms?
+
+- [ ] He & licopter
+- [ ] Heli & copter
+- [x] Helico & pter
+
+#### In what decade was Pokemon created?
+
+- [ ] 1980s
+- [x] 1990s
+- [ ] 2000s
+
+#### Complete the name of this playground game: "Duck, Duck,..."
+
+- [x] Goose
+- [ ] Hawk
+- [ ] Chicken
+
+#### What mountain's peak is private property?
+
+- [ ] Mt. Everest
+- [x] Mt. Fuji
+- [ ] Mt. Chimborazo
+
+#### Who was the first reigning British monarch to visit the United States?
+
+- [ ] Queen Elizabeth II
+- [x] King George VI
+- [ ] Queen Victoria
+
+#### Crayola is best known for what product?
+
+- [x] Crayons
+- [ ] Toy Cars
+- [ ] Baby Dolls
+
+#### In which sport are all pitches thrown underhand?
+
+- [ ] Little League
+- [x] Softball
+- [ ] Baseball
+
+#### The "Grunge" look became popular in which decade?
+
+- [x] 1990s
+- [ ] 1890s
+- [ ] 1790s
+
+#### The condition Bromopnea is better known by what common name?
+
+- [ ] Pink Eye
+- [ ] Tennis Elbow
+- [x] Bad Breath
+
+#### A Hi-Hat is wht kind of percussion instrument?
+
+- [ ] Drum
+- [x] Cymbal
+- [ ] Triangle
+
+#### Writers Charles Dickens, W.B. Yeats, and Siegfried Sassoon were all members of what club?
+
+- [ ] Algonquin Round Table
+- [ ] Friars Club
+- [x] Ghost Club
+
+#### On "Mister Rogers Neighborhood", what kind of transportation took you to the Land of Make Believe?
+
+- [ ] Bus
+- [x] Trolley
+- [ ] Hovercraft
+
+#### Who was the first person to have more than 100 million likes on Facebook?
+
+- [x] Shakira
+- [ ] Lady Gaga
+- [ ] Madoona
+
+#### Which of the following U.S. holidays is a federal holiday?
+
+- [ ] Mardi Gras
+- [ ] Earth Day
+- [x] Labor Day
+
+#### In "Ants on a Log", what food typically represents the ants?
+
+- [x] Raisins
+- [ ] Cherries
+- [ ] Potato Chips
