@@ -20039,3 +20039,177 @@
 - [x] O
 - [ ] X
 - [ ] Y
+
+#### What TV network is home to the shows “Arthur”, “Sid the Science Kid”, and “Hero Elementary”?
+
+- [ ] Food Network
+- [x] PBS
+- [ ] Cinemark
+
+#### On “Doc McStuffins”, who are her patients?
+
+- [ ] Children
+- [ ] Animals
+- [x] Toys
+
+#### What did Mister Rogers change into at the beginning of every episode of his show?
+
+- [x] Sweater
+- [ ] Diving Suit
+- [ ] Chaps
+
+#### What did Mister Rogers change into at the beginning of every episode of his show?
+
+- [x] Sweater
+- [ ] Diving Suit
+- [ ] Chaps
+
+#### Which of the following shows NEVER won the Emmy for Outstanding Entertainment Children’s Series between 1974 and 1984?
+
+- [ ] Star Trek: The Animated Series
+- [x] Sesame Street
+- [ ] Zoom
+
+#### Which of the following shows NEVER won the Emmy for Outstanding Entertainment Children’s Series between 1974 and 1984?
+
+- [ ] Star Trek: The Animated Series
+- [x] Sesame Street
+- [ ] Zoom
+
+#### On which children’s show did they use a stand-in with a bucket when they ran out of time with their star?
+
+- [ ] Wizards of Waverly Place
+- [ ] Suite Life On Deck
+- [x] Zoey 101
+
+#### PAW Patrol is a group of which animals?
+
+- [ ] Lemurs
+- [x] Dogs
+- [ ] Armadillos
+
+#### Due to focus testing, which children’s show needed 9-10 months to produce a single episode?
+
+- [ ] Mr. Wizard
+- [ ] New Zoo Revue
+- [x] Blue’s Clues
+
+#### When Reading Rainbow had a Kickstarter, who pledged to match donations to help the show reach its goal toward the end?
+
+- [ ] Patrick Stewart
+- [ ] Seth MacFarlane
+- [x] Blue’s Clues
+
+#### Which of the following children’s show characters is a marionette?
+
+- [x] Howdy Doody
+- [ ] Arthur
+- [ ] Captain Kangaroo
+
+#### “Bluey” is produced in which country?
+
+- [ ] The Netherlands
+- [x] Australia
+- [ ] Estonia
+
+#### Who directed “Jurassic Park”?
+
+- [ ] George Lucas
+- [ ] Joe Dante
+- [x] Steven Spielberg
+
+#### Which of these was NOT a slogan for McDonald’s?
+
+- [ ] I’m Lovin It
+- [x] Honestly, Burger King’s better
+- [ ] Did Somebody Say McDonald’s?
+
+#### Which of these Disneyland attractions opened first?
+
+- [ ] It’s a Small World
+- [x] Enchanted Tiki Room
+- [ ] Haunted Mansion
+
+#### What is the term for molten rock beneath the Earth’s surface?
+
+- [ ] Magpies
+- [x] Magma
+- [ ] Mank
+
+#### In January of 2021, who overtook Jeff Bezos as the world’s richest person?
+
+- [ ] George Clooney
+- [ ] Bill Gates
+- [x] Elon Musk
+
+#### What kind of business would most likely use a chemical called Perchloroethylene?
+
+- [x] Dry Cleaner
+- [ ] Plumber
+- [ ] Exterminator
+
+#### Which of the following can be described as an interactive egg toy?
+
+- [x] Hatchimal
+- [ ] Frisbee
+- [ ] G.I. Joe
+
+#### What series of book has you searching pictures for a character in glasses and a knit cap?
+
+- [x] Where’s Waldo?
+- [ ] Have You Seen Harry?
+- [ ] I Can’t Find Isaac!
+
+#### How do you erase your drawing on an Etch-A-Sketch?
+
+- [ ] Dunk it in water
+- [ ] Wipe it with a cloth
+- [x] Shake it
+
+#### What single-named guitarist played with Guns n’ Roses?
+
+- [ ] Smash
+- [ ] Splash
+- [x] Slash
+
+#### What company introduced the first handheld calculator in 1967?
+
+- [x] Texas-Instruments
+- [ ] Casio
+- [ ] IBM
+
+#### Daniel Handler is the person behind what pen name?
+
+- [ ] O, Henry
+- [x] Lemony Snicket
+- [ ] George Orwell
+
+#### The night Colin Quinn took over SNL’s Weekend Update, what did Will Ferrell’s Harry Caray keep calling him?
+
+- [ ] Dennis
+- [x] Norm
+- [ ] Kevin
+
+#### Velveeta is a type of:
+
+- [x] Cheese
+- [ ] Soft Drink
+- [ ] Paper
+
+#### Who wrote Northanger Abbey, Persuasion, and Mansfield Park?
+
+- [ ] Charlotte Bronte
+- [ ] Elizabeth Barett Browing
+- [x] Jane Austen
+
+#### Which children’s show host composed his neighborly theme song?
+
+- [x] Fred Rogers
+- [ ] Big Bird
+- [ ] Bozo the Clown
+
+#### The warming of the Earth due to trapped gases is called what?
+
+- [ ] The Tom Green Effect
+- [ ] The Green Giant Effect
+- [x] The Greenhouse Effect
