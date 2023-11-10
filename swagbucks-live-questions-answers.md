@@ -20015,3 +20015,27 @@
 - [x] Raisins
 - [ ] Cherries
 - [ ] Potato Chips
+
+#### In Monopoly, when you pass “Go” how much money do you collect?
+
+- [ ] Ten Dollars
+- [x] Two Hundred Dollars
+- [ ] Five Million Dollars
+
+#### Which pencil manufacturer is known for their black and yellow striped pencil called the Noris?
+
+- [ ] Dixon Ticonderoga
+- [x] Staedtler
+- [ ] Crayola
+
+#### By what nickname was Willie Mays known?
+
+- [ ] Junior
+- [x] The Say Hey Kid
+- [ ] The Babe
+
+#### What is the symbol for Oxygen on the periodic table?
+
+- [x] O
+- [ ] X
+- [ ] Y
