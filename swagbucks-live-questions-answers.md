@@ -20369,3 +20369,63 @@
 - [x] Tom Brady
 - [ ] Terry Bradshaw
 - [ ] Johnny Unitas
+
+#### Which of the following is an antonym of "fresh"?
+
+- [ ] Clean
+- [x] Rancid
+- [ ] Fluid
+
+#### What region, located in the Atlantic Ocean, is rumored to be the site of several mysterious disappearances?
+
+- [ ] Bering Strait
+- [ ] Dead Sea
+- [x] Bermuda Triangle
+
+#### Which of the following games revolves around your character committing crimes?
+
+- [ ] Final Fantasy VII
+- [x] Grand Theft Auto
+- [ ] Donkey King
+
+#### According to a Purdue study, how many licks does it take to get the center of a Tootsie Pop on average?
+
+- [ ] 9
+- [x] 364
+- [ ] 411
+
+#### Which of the following charity names is fake?
+
+- [ ] Helping Hands Monkey Helpers
+- [x] Hats for Dogs
+- [ ] Zombie Squad
+
+#### What is the main component of Earth's atmosphere?
+
+- [ ] Neon
+- [ ] Carbon
+- [x] Nitrogen
+
+#### Who shot J.R.?
+
+- [ ] Sue Ellen Ewing
+- [x] Kristin Shepard
+- [ ] Cliff Barnes
+
+#### Which of the following lakes is NOT in the United States?
+
+- [ ] Lake Michigan
+- [ ] Lake Erie
+- [x] Gjende Lake
+
+#### What FX series about a chef became a hit in 2022?
+
+- [x] The Bear
+- [ ] Tulsa King
+- [ ] Black Bird
+
+#### Who hosted "The Joy of Painting" on PBS?
+
+- [x] Bob Ross
+- [ ] Michelangelo
+- [ ] Pablo Picasso
