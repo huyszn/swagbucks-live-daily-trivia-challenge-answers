@@ -20070,12 +20070,6 @@
 - [x] Sesame Street
 - [ ] Zoom
 
-#### Which of the following shows NEVER won the Emmy for Outstanding Entertainment Children’s Series between 1974 and 1984?
-
-- [ ] Star Trek: The Animated Series
-- [x] Sesame Street
-- [ ] Zoom
-
 #### On which children’s show did they use a stand-in with a bucket when they ran out of time with their star?
 
 - [ ] Wizards of Waverly Place
@@ -20273,3 +20267,51 @@
 - [ ] Narcissus
 - [x] Tantalus
 - [ ] Persephone
+
+#### What is the name of the award given out each year to the most outstanding College Football player?
+
+- [ ] Hank Aaron Award
+- [x] Heisman Trophy
+- [ ] Stanley Cup
+
+#### Which Broadway musical deals with the birth of the United States?
+
+- [ ] Phantom of the Opera
+- [ ] Les Misérables
+- [x] 1776
+
+#### Dwayne Johnson starred in a remake of what Robin Williams movie?
+
+- [x] Jumanji
+- [ ] Bicentennial Man
+- [ ] The Fisher King
+
+#### The Vine app allowed you to post videos that were approximately how long?
+
+- [ ] 5 hours
+- [ ] 3 days
+- [x] 6 seconds
+
+#### What would be a good gift for a horologist?
+
+- [x] A Tag Heuer
+- [ ] A Ferrari
+- [ ] A Greenhouse
+
+#### Who was the first performer banned from Saturday Night Live?
+
+- [x] Andy Kaufman
+- [ ] Milton Berle
+- [ ] Sinéad O'Connor
+
+#### Until the final letter was added to the Roman Alphabet, which name was impossible to spell?
+
+- [ ] Zachary
+- [x] Justin
+- [ ] Maxwell
+
+#### Which of the following characters was NOT played by Keanu Reeves?
+
+- [ ] John Wick
+- [ ] Ted "Theodore" Logan
+- [x] Wolverine
