@@ -20213,3 +20213,63 @@
 - [ ] The Tom Green Effect
 - [ ] The Green Giant Effect
 - [x] The Greenhouse Effect
+
+#### How long does it take light from the Sun to reach the Earth?
+
+- [ ] About 8 hours
+- [ ] About 8 seconds
+- [x] About 8 minutes
+
+#### Johannes Vermeer famously painted "Girl with a" what?
+
+- [ ] Persecution Complex
+- [x] Pearl Earring
+- [ ] Pizza Parlor
+
+#### A duet between Freddie Mercury and which opera singer was used for the 1992 Summer Olympics?
+
+- [x] Montserrat Caballe
+- [ ] Luciano Pavarotti
+- [ ] Cecilia Bartoli
+
+#### Which of the following dances evolved from a slow version of the Mambo?
+
+- [ ] The Twist
+- [ ] The Watusi
+- [x] Cha-Cha-Cha
+
+#### What Seinfeld-created celebration is "for the rest of us"?
+
+- [ ] Master of the House Day
+- [ ] Close Talker Day
+- [x] Festivus
+
+#### The actor who played Tony Soprano's mother also played the mother of what other TV character?
+
+- [x] Frasier Crane
+- [ ] Joey Tribbiani
+- [ ] Elaine Benes
+
+#### Which of the following sandwichees is traditionally served hot?
+
+- [ ] Tuna salad sandwich
+- [ ] Turkey Club
+- [x] Patty melt
+
+#### Joseph Stalin was the leader of which country?
+
+- [ ] Germany
+- [ ] France
+- [x] Russia
+
+#### In what film does Marty McFly travel back in time using a DeLorean?
+
+- [ ] Once Upon A Time in the West
+- [x] Back to the Future
+- [ ] An American Tail
+
+#### In Greek mythology, who was punished for stealing the nectar of the gods?
+
+- [ ] Narcissus
+- [x] Tantalus
+- [ ] Persephone
