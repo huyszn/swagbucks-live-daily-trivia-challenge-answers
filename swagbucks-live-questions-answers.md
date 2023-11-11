@@ -20315,3 +20315,57 @@
 - [ ] John Wick
 - [ ] Ted "Theodore" Logan
 - [x] Wolverine
+
+#### What awards are given out for excellence in recorded music?
+
+- [ ] Oscars
+- [x] Grammys
+- [ ] Clios
+
+#### The only Oscar to have won an "Oscar" won in which category?
+
+- [ ] Best Editing
+- [x] Best Original Song
+- [ ] Best Original Screenplay
+
+#### Which of the following is the best conductor of electricity?
+
+- [ ] Glass
+- [ ] Rubber
+- [x] Gold
+
+#### Who has the Major League record for home runs in a season?
+
+- [ ] Ken Griffey Jr.
+- [ ] Hank Aaron
+- [x] Barry Bonds
+
+#### Who played the film version of Harry Potter?
+
+- [ ] Haley Joel Osment
+- [ ] Rupert Grint
+- [x] Daniel Radcliffe
+
+#### In "Gangs of New York," what is the term for a woman who dresses up like a maid to rob houses?
+
+- [x] Turtle Dove
+- [ ] Lightlady
+- [ ] Trojan Horse
+
+#### Which piece of sports equipment gets its name from a punishment device used to grind grains?
+
+- [x] Treadmill
+- [ ] Kettlebell
+- [ ] Smith Machine
+
+#### Which celebrity entrepreneur began his career posting YouTUbe videos about wine?
+
+- [x] Gary Vaynerchuk
+- [ ] Mark Cuban
+- [ ] Seth Godin
+
+#### What NFL quarterback has been in the most Super Bowls?
+
+- [x] Tom Brady
+- [ ] Terry Bradshaw
+- [ ] Johnny Unitas
