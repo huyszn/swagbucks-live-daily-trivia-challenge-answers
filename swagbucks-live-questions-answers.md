@@ -20429,3 +20429,63 @@
 - [x] Bob Ross
 - [ ] Michelangelo
 - [ ] Pablo Picasso
+
+#### What popular TV show was about a group of Los Angeles lifeguards?
+
+- [x] Baywatch
+- [ ] Pacific Blue
+- [ ] Riptide
+
+#### How did the Bay City Rollers name their band?
+
+- [ ] Fan contest
+- [x] At random
+- [ ] After their hometown
+
+#### Trinity College Dublin publicly considered taking legal action after the release of what movie?
+
+- [x] Star Wars Episode II: Attack of the Clones
+- [ ] The Da Vinci Code
+- [ ] Braveheart
+
+#### In the standard game of Scrabble, what is the value of the letter "Z"?
+
+- [x] 10
+- [ ] 11
+- [ ] 12
+
+#### Who was the first baseball player to get permission to wear an insulin pump on the field?
+
+- [ ] Lou Brissie
+- [x] Jason Johnson
+- [ ] Freddy Sanchez
+
+#### What do you fill a balloon with to make it float?
+
+- [ ] Lead
+- [x] Helium
+- [ ] Water
+
+#### Leucism in animals is the equivalent of what in humans?
+
+- [ ] Alopecia
+- [x] Vitiligo
+- [ ] Dandruff
+
+#### According to the saying you can lead a horse to water, but you can't make it do what?
+
+- [ ] Bathe
+- [x] Drink
+- [ ] Swim
+
+#### Hefty and Glad are both brands of what?
+
+- [ ] Air Bags
+- [x] Trash Bags
+- [ ] Rosin Bags
+
+#### Who is the Material Girl?
+
+- [x] Madonna
+- [ ] MaSharona
+- [ ] MaGoodness
