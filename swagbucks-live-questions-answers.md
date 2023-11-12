@@ -20489,3 +20489,57 @@
 - [x] Madonna
 - [ ] MaSharona
 - [ ] MaGoodness
+
+#### The 1992 U.S. Men's Basketball team was known by what nickname?
+
+- [x] The Dream Team
+- [ ] Hoops Central
+- [ ] Legion of Doom
+
+#### What color is the label on a regular Coca-Cola bottle?
+
+- [ ] Gray
+- [x] Red
+- [ ] Gold
+
+#### The Mark Twain Prize is an annual award honoring work in what field?
+
+- [x] Humor
+- [ ] Tragedy
+- [ ] Fantasy
+
+#### In "Calvin & Hobbies", who is Hobbes?
+
+- [ ] A Little boy
+- [ ] A talking car
+- [x] A stuffed tiger
+
+#### What country is home to the Ganges river?
+
+- [x] India
+- [ ] Thailand
+- [ ] Turkey
+
+#### What does the D in an MD degree stand for?
+
+- [ ] Dinklage
+- [ ] Dribbling
+- [x] Doctor
+
+#### Complete the title of this James Brown song: "Papa's Got A Brand New..."
+
+- [ ] Dodge Dart
+- [ ] Loaf of Bread
+- [x] Bag
+
+#### Bojangles restaurants are known for what dish?
+
+- [x] Chicken and Biscuits
+- [ ] Spaghetti and Meatballs
+- [ ] Peanut Butter and Jelly
+
+#### In the song "Aaron Burr, Sir", what advice does Burr offer Hamilton?
+
+- [ ] Don't make trouble
+- [ ] Keep your head down
+- [x] Talk less, smile more
