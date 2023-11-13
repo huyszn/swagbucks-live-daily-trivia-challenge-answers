@@ -20543,3 +20543,51 @@
 - [ ] Don't make trouble
 - [ ] Keep your head down
 - [x] Talk less, smile more
+
+#### In the Star Wars saga, which episode is "A New Hope"?
+
+- [ ] Episode 1
+- [ ] Episode 3
+- [x] Episode 4
+
+#### What instrument was Jimi Hendrix best known for playing?
+
+- [ ] Flute
+- [x] Guitar
+- [ ] Maracas
+
+#### What determines the climate of a particular area?
+
+- [x] Latitude
+- [ ] Soil
+- [ ] Gravity
+
+#### Which of the following short stories was adapted into the movie "Blade Runner"?
+
+- [ ] Curious George Goes to the Dentist
+- [x] Do Androids Dream of Electric Sheep?
+- [ ] The Cat in the Hat
+
+#### What famous actor is married to Rita Wilson?
+
+- [ ] Leonardo DiCaprio
+- [x] Tom Hanks
+- [ ] Matt Damon
+
+#### What network aired Game of Thrones?
+
+- [ ] CBS
+- [ ] Discovery
+- [x] HBO
+
+#### The people who introduced videos on MTV were referred to by what name?
+
+- [x] VJs
+- [ ] DJs
+- [ ] PJs
+
+#### Charles Darwin is best known for what scientific theory?
+
+- [ ] Quantum Relativity
+- [x] Natural Selection
+- [ ] Inertia
