@@ -20591,3 +20591,111 @@
 - [ ] Quantum Relativity
 - [x] Natural Selection
 - [ ] Inertia
+
+#### What is the name of the Disney channel aimed towards ages 6-15?
+
+- [ ] Disney XOXO
+- [x] Disney XD
+- [ ] Disney LMAO
+
+#### Where does the musical “Rent” take place?
+
+- [ ] Detroit
+- [x] New York City
+- [ ] Los Angeles
+
+#### In the comics, what did Charlie Brown’s father do for a living?
+
+- [x] Barber
+- [ ] Architect
+- [ ] Veterinarian
+
+#### Where did Indiana Jones first develop his fear of snakes?
+
+- [ ] In a cave
+- [x] On a train
+- [ ] In a museum
+
+#### When did the U.S. Navy get its first African-American pilot?
+
+- [ ] 1940
+- [x] 1948
+- [ ] 1950
+
+#### Which of these Monster Movies came out first?
+
+- [ ] The Invisible Man
+- [ ] Frankenstein
+- [x] Dracula
+
+#### According to the nursery rhyme Little Tommy Tucker, what does Tommy sing for?
+
+- [ ] A new Tesla
+- [x] His supper
+- [ ] The Internet
+
+#### What city is known for its famous Opera House?
+
+- [x] Sydney
+- [ ] Sheboygan
+- [ ] St. Louis
+
+#### What city is home to Piccadilly Circus?
+
+- [ ] Copenhagen
+- [ ] Boise
+- [x] London
+
+#### What is the baseball term for a home run hit while the bases are loaded?
+
+- [ ] Bunt
+- [ ] Shut Out
+- [x] Grand Slam
+
+#### The tuba is part of which section of an orchestra?
+
+- [ ] Percussion
+- [x] Brass
+- [ ] Strings
+
+#### Which of the following Jimmys does NOT host a late night talk show?
+
+- [ ] Jimmy Kimmel
+- [ ] Jimmy Fallon
+- [x] Jimmy Connors
+
+#### In the shopping term BOGO, what does the B stand for?
+
+- [x] Buy
+- [ ] Big
+- [ ] Bird
+
+#### In which country was an amusement park built in an unfinished nuclear power plant?
+
+- [ ] Russia
+- [x] Germany
+- [ ] Japan
+
+#### Copper and Tin comprise what metal alloy?
+
+- [ ] Russia
+- [x] Germany
+- [ ] Japan
+
+#### On which competition show do contestants encounter the Warped Wall?
+
+- [x] American Ninja Warrior
+- [ ] Alone
+- [ ] The Apprentice
+
+#### Which of the following is a well-known book store?
+
+- [ ] Barnes and Barnes
+- [x] Barnes and Noble
+- [ ] Barnes and Peasant
+
+#### According to the saying, someone with more important things to do has bigger what to fry?
+
+- [x] Fish
+- [ ] Clams
+- [ ] Beef
