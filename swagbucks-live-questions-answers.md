@@ -20676,12 +20676,6 @@
 - [x] Germany
 - [ ] Japan
 
-#### Copper and Tin comprise what metal alloy?
-
-- [ ] Russia
-- [x] Germany
-- [ ] Japan
-
 #### On which competition show do contestants encounter the Warped Wall?
 
 - [x] American Ninja Warrior
@@ -20699,3 +20693,51 @@
 - [x] Fish
 - [ ] Clams
 - [ ] Beef
+
+#### Drums are part of which section of an Orchestra?
+
+- [ ] Strings
+- [ ] Brass
+- [x] Percussion
+
+#### IHOP is short for the "International House of" what?
+
+- [ ] Pierogies
+- [ ] Pork Rolls
+- [x] Pancakes
+
+#### Which of the following is an MMORPG?
+
+- [ ] Diablo III
+- [ ] Jumpman Jr.
+- [x] World of Warcraft
+
+#### Which of these is a shoe brand?
+
+- [ ] Conagra
+- [x] Converse
+- [ ] ConEd
+
+#### Which of the following Aerosmith songs was a hit off the "Armageddon" soundtrack?
+
+- [ ] Love in an Elevator
+- [ ] Dude Looks Like A Lady
+- [x] I Don't Wanna Miss A Thing
+
+#### Until 2003, who was the youngest person ever to be accepted into Julliard?
+
+- [ ] Robin Williams
+- [ ] Meryl Streep
+- [x] Val Kilmer
+
+#### Who is the captain of the Enterprise in Star Trek: The Next Generation?
+
+- [ ] Data
+- [x] Jean-Luc Picard
+- [ ] Geordi La Forge
+
+#### What NFL team is responsible for the NFL draft starting?
+
+- [ ] New York Giants
+- [x] Philadelphia Eagles
+- [ ] Chicago Bears
