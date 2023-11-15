@@ -20741,3 +20741,45 @@
 - [ ] New York Giants
 - [x] Philadelphia Eagles
 - [ ] Chicago Bears
+
+#### What song was written to convince Julie Andrews to play Mary Poppins?
+
+- [x] A Spoonful of Sugar
+- [ ] Jolly Holiday
+- [ ] Feed the Birds
+
+#### Who was the Greek god of sleep?
+
+- [ ] Zeus
+- [x] Hypnos
+- [ ] Frank Stallone
+
+#### According to the idiom, curiosity killed the what?
+
+- [ ] Mood
+- [ ] Romance
+- [x] Cat
+
+#### What biological system moves blood through your body?
+
+- [ ] Skeletal System
+- [ ] Nervous System
+- [x] Circulatory System
+
+#### Which of these songs was not originally sung and written by Bob Dylan?
+
+- [x] Stuck in the Middle With You
+- [ ] All Along the Watchtower
+- [ ] Make You Feel My Love
+
+#### Which film, directed by Tim Burton, is about the Headless Horseman?
+
+- [x] Sleepy Hollow
+- [ ] Big Fish
+- [ ] Pee-Wee's Big Adventure
+
+#### Which U.S. city is home to the Space Needle?
+
+- [ ] New York
+- [ ] Boise
+- [x] Seattle
