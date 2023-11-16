@@ -20783,3 +20783,267 @@
 - [ ] New York
 - [ ] Boise
 - [x] Seattle
+
+#### Which of the following movies stars Eddie Murphy?
+
+- [ ] Down and Out in Beverly Hills
+- [ ] Troop Beverly Hills
+- [x] Beverly Hills Cop
+
+#### What is the name of the Matterhorn’s Abominable Snowman?
+
+- [ ] Matty
+- [x] Harold
+- [ ] Snowy
+
+#### Which of these would a teenager most likely wear to prom?
+
+- [ ] Parachute
+- [ ] Water wings
+- [x] Tuxedo
+
+#### Who was the first President to fly in an airplane?
+
+- [x] Franklin D. Roosevelt
+- [ ] Abraham Lincoln
+- [ ] Thomas Jefferson
+
+#### Where is the “back of Bourke”?
+
+- [x] Australia
+- [ ] Scotland
+- [ ] South Africa
+
+#### In Michigan, there’s a tradition of hiding what ornament in the Christmas Tree?
+
+- [ ] Santa Claus
+- [x] Glass Pickle
+- [ ] Football
+
+#### What European city is home to the Arc de Triomphe?
+
+- [ ] London
+- [x] Paris
+- [ ] Barcelona
+
+#### If The Sundance Kid had taken his name from the State where Sundance was located, what would he be called?
+
+- [ ] Arizona
+- [x] Wyoming
+- [ ] New Mexico
+
+#### Complete this slogan: “There are some things money can’t buy. For everything else, there’s _____”
+
+- [ ] Discover
+- [x] Mastercard
+- [ ] American Express
+
+#### Which sports comedy featured a mock ESPN channel called “The Ocho”?
+
+- [ ] Discover
+- [x] Mastercard
+- [ ] American Express
+
+#### Where was the invasion of Normandy during World War II?
+
+- [x] France
+- [ ] Italy
+- [ ] Germany
+
+#### Which of the following is NOT one of the five basic tastes?
+
+- [ ] Sweet
+- [ ] Umami
+- [x] Corn
+
+#### Which of these Disneyland attractions is a roller coaster?
+
+- [ ] It’s A Small World
+- [x] Space Mountain
+- [ ] King Arthur’s Carousel
+
+#### Which spice gives curry its yellow color?
+
+- [x] Turmeric
+- [ ] Corlander
+- [ ] Paprika
+
+#### Des Moines is the capital of which State?
+
+- [ ] Idaho
+- [ ] Indiana
+- [x] Iowa
+
+#### Complaints about which movie’s makeup work being ignored by the Oscars led to the Best Makeup category debuting in 1981?
+
+- [x] The Elephant Man
+- [ ] An American Werewolf in London
+- [ ] Friday The 13th
+
+#### Who is credited with the invention of the printing press?
+
+- [x] Johannes Gutenberg
+- [ ] Isaac Newton
+- [ ] Galileo Galilei
+
+#### Clergyman Charles Webster Leadbeater once wrote a book claiming there was an evolutionary tree based on what creature?
+
+- [ ] Unicorns
+- [x] Fairies
+- [ ] Dragons
+
+#### Rich Uncle Pennybags is the mascot for which board game?
+
+- [ ] Trouble
+- [ ] Trivial Pursuit
+- [x] Monopoly
+
+#### Which sport has a Designated Hitter?
+
+- [ ] Boxing
+- [ ] Badminton
+- [x] Baseball
+
+#### What comedian is known for his “You Might Be A Redneck” jokes?
+
+- [x] Jeff Foxworthy
+- [ ] Larry the Cable Guy
+- [ ] Bill Engvall
+
+#### Which of these is the title of a Vin Diesel movie?
+
+- [ ] The Fast and the Furry Us
+- [x] The Fast and The Furious
+- [ ] The Fast and The Furnace
+
+#### A Thanksgiving mistake inspired what creation?
+
+- [ ] Instant Stuffing
+- [ ] The Gravy Boat
+- [x] TV Dinners
+
+#### How many eyes does the Raven have?
+
+- [ ] 1
+- [ ] 2
+- [x] 3
+
+#### In the Kelis song “Milkshake”, what does her milkshake do?
+
+- [x] Bring all the boys to the yard
+- [ ] Keep it real
+- [ ] Start the party
+
+#### According to the saying, “every dog has its” what?
+
+- [ ] Problems
+- [x] Day
+- [ ] Kibbles
+
+#### By what nickname is Hank Williams Jr. known?
+
+- [ ] The King of Swing
+- [x] Bocephus
+- [ ] The Godfather of Soul
+
+#### Which of these States is considered to be part of the American South?
+
+- [ ] Minnesota
+- [x] Mississippi
+- [ ] Maine
+
+#### Which of the following is NOT one of the four categories of Great Apes?
+
+- [x] Baboons
+- [ ] Gorillas
+- [ ] Orangutans
+
+#### A song by Earth, Wind, and Fire asks you "Do you remember/The 21st night of" which month?
+
+- [ ] December
+- [ ] November
+- [x] September
+
+#### Which Casino game are you playing if you double down?
+
+- [ ] Gin
+- [ ] Go Fish
+- [x] Blackjack
+
+#### Which of these is a foul in American Football?
+
+- [ ] Balking
+- [ ] Traveling
+- [x] Roughing the Passer
+
+#### Which musical instrument is played by squeezing it?
+
+- [ ] Flute
+- [ ] Banjo
+- [x] Accordion
+
+#### The Disney Channel's logo always features what?
+
+- [x] Mouse Ears
+- [ ] Chip and Dale
+- [ ] Duck Feet
+
+#### "Shankie", "Cludgie", and "Garderobe" are all terms for what item, found in the home?
+
+- [ ] Sink
+- [x] Tiolet
+- [ ] Hanger
+
+#### What breed of dog is Snoopy?
+
+- [ ] Wire Terrier
+- [ ] Great Dane
+- [x] Beagle
+
+#### Who is eternally pulling the football away from Charlie Brown?
+
+- [ ] Linus
+- [x] Lucy
+- [ ] Sally
+
+#### In Peanuts, what musical instrument does Schroeder play?
+
+- [x] Piano
+- [ ] Flute
+- [ ] Cello
+
+#### Under what title was Peanuts originally sold?
+
+- [ ] A Boy and His Dog
+- [ ] Charlie's Place
+- [x] Li'l Folks
+
+#### What kind of animal is Snoopy's best friend Woodstock?
+
+- [ ] Cat
+- [x] Bird
+- [ ] Dog
+
+#### Which of Snoopy's five siblings is considered to be the most intelligent one?
+
+- [ ] Belle
+- [ ] Andy
+- [x] Marbles
+
+#### The Little Redheaded Girl that Charlie Brown likes was only given a name in a TV special. What's her name?
+
+- [ ] Lisa
+- [x] Heather
+- [ ] Mary
+
+#### In Peanuts, what is the name of Charlie Brown's little sister?
+
+- [ ] Viola
+- [ ] Frieda
+- [x] Sally
+
+#### Snoopy's doghouse is transformed into a Sopwith Camel as he takes on the role of a flying ace from which war?
+
+- [x] World War I
+- [ ] Korean War
+- [ ] Hundred Years War
