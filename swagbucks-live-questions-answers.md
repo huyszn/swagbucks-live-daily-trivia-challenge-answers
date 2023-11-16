@@ -20196,7 +20196,7 @@
 - [ ] Elizabeth Barett Browing
 - [x] Jane Austen
 
-#### Which children’s show host composed his neighborly theme song?
+#### Which children's show host composed his neighborly theme song?
 
 - [x] Fred Rogers
 - [ ] Big Bird
@@ -20838,12 +20838,6 @@
 - [x] Mastercard
 - [ ] American Express
 
-#### Which sports comedy featured a mock ESPN channel called “The Ocho”?
-
-- [ ] Discover
-- [x] Mastercard
-- [ ] American Express
-
 #### Where was the invasion of Normandy during World War II?
 
 - [x] France
@@ -21047,3 +21041,45 @@
 - [x] World War I
 - [ ] Korean War
 - [ ] Hundred Years War
+
+#### French fries are an ingredient of Chipsi Mayai, which is served in what country?
+
+- [ ] Malaysia
+- [ ] Bora Bora
+- [x] Tanzania
+
+#### What is the name of Pete's Dragon?
+
+- [ ] Khaleesi
+- [ ] Smaug
+- [x] Elliot
+
+#### Which of these terms would you use to describe the feeling that you're not moving forward?
+
+- [ ] Running on broken glass
+- [x] Running in circles
+- [ ] Running a tight ship
+
+#### Which of the following is a kind of puppet?
+
+- [x] Marionette
+- [ ] Marinara
+- [ ] Marion Davies
+
+#### If the animal in the first YouTube video was named for a character of the same species, what would it be named?
+
+- [ ] Garfield
+- [x] Babar
+- [ ] Thumper
+
+#### National Allied Publications was the birthplace of what famous publisher?
+
+- [ ] Marvel
+- [x] DC
+- [ ] Random House
+
+#### What fictional author is attributed with poems like "Baa Baa Black Sheep" and "Humpty Dumpty"?
+
+- [ ] Father Duck
+- [ ] Sister Swan
+- [x] Mother Goose
