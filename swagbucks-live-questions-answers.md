@@ -12375,7 +12375,7 @@
 
 - [x] Maroon 5
 - [ ] Purple 4
-- [ ] Yellow 4
+- [ ] Yellow 3
 
 #### Which fast food restaurant created and sells Blizzards?
 
@@ -21096,12 +21096,6 @@
 - [x] Christopher Robin
 - [ ] Jiminy John
 
-#### What is the name of the boy who’s friends with Winnie the Pooh?
-
-- [ ] Frederick Edward
-- [x] Christopher Robin
-- [ ] Jiminy John
-
 #### “The Lion, The Witch, and The Wardrobe” takes place in what magical land?
 
 - [x] Narnia
@@ -21155,12 +21149,6 @@
 - [ ] Lady Gaga
 - [ ] Kelly Clarkson
 - [x] Katy Perry
-
-#### Black Panther is the King of which fictional African nation?
-
-- [ ] Krakatoa
-- [ ] Genosha
-- [x] Wakanda
 
 #### Black Panther is the King of which fictional African nation?
 
@@ -21239,3 +21227,39 @@
 - [x] Water Skiing
 - [ ] Jai Alai
 - [ ] Beach Volleyball
+
+#### Which of these Walt Disney facts is FALSE?
+
+- [x] Created the term "imagineer"
+- [ ] Has the most Oscars in history
+- [ ] Was a high school dropout
+
+#### By what euphemism is Shakespeare's MacBeth known?
+
+- [ ] The Stabby Play
+- [x] The Scottish Play
+- [ ] The Internet Play
+
+#### What event marked the start of the American Revolution?
+
+- [x] The Shot Heard Around The World
+- [ ] The Punch Heard Down The Block
+- [ ] The Kick Nobody Heard
+
+#### The inspiration for Seinfeld's "Soup Nazi" was referenced in what romantic comedy?
+
+- [ ] When Harry Met Sally
+- [ ] Annie Hall
+- [x] Sleepless in Seattle
+
+#### What game show is a giant version of Tic Tac Toe?
+
+- [ ] Let's Make A Deal
+- [x] Hollywood Squares
+- [ ] Match Game
+
+#### Which of these companies is known for their "Pop!" vinyl figures?
+
+- [ ] Hasbro
+- [x] Funko
+- [ ] Worlds of Wonder
