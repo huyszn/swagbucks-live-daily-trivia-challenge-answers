@@ -21083,3 +21083,159 @@
 - [ ] Father Duck
 - [ ] Sister Swan
 - [x] Mother Goose
+
+#### Where would you find a Shell gas station shaped like a shell?
+
+- [ ] Maine
+- [x] North Carolina
+- [ ] Illinois
+
+#### What is the name of the boy who’s friends with Winnie the Pooh?
+
+- [ ] Frederick Edward
+- [x] Christopher Robin
+- [ ] Jiminy John
+
+#### What is the name of the boy who’s friends with Winnie the Pooh?
+
+- [ ] Frederick Edward
+- [x] Christopher Robin
+- [ ] Jiminy John
+
+#### “The Lion, The Witch, and The Wardrobe” takes place in what magical land?
+
+- [x] Narnia
+- [ ] Xanth
+- [ ] Middle Earth
+
+#### What is the scientific term for the point at which a lever rests?
+
+- [ ] Vortex
+- [x] Fulcrum
+- [ ] Pinnacle
+
+#### The ooze that created the Teenage Mutant Ninja Turtles also?
+
+- [ ] Luke Cage
+- [x] Daredevil
+- [ ] Swamp Thing
+
+#### Which of the following video games is set in the Wild West?
+
+- [x] Red Dead Revolver
+- [ ] Animal Crossing: New Horizons
+- [ ] Joe Montana Football
+
+#### Mandy Moore starred on what TV show?
+
+- [ ] American Gods
+- [x] This Is Us
+- [ ] The Rookie
+
+#### What cereal once encouraged winking for free samples?
+
+- [ ] Raisin Bran
+- [ ] Cheerios
+- [x] Corn Flakes
+
+#### What genre of music is also something you dip your chips in?
+
+- [ ] Big Band
+- [ ] Electronic
+- [x] Salsa
+
+#### Crest, Colgate, amd Aquafresh all sell what product?
+
+- [ ] Sandals
+- [x] Toothpaste
+- [ ] Matches
+
+#### Which singer’s first hit was “I Kissed A Girl”?
+
+- [ ] Lady Gaga
+- [ ] Kelly Clarkson
+- [x] Katy Perry
+
+#### Black Panther is the King of which fictional African nation?
+
+- [ ] Krakatoa
+- [ ] Genosha
+- [x] Wakanda
+
+#### Black Panther is the King of which fictional African nation?
+
+- [ ] Krakatoa
+- [ ] Genosha
+- [x] Wakanda
+
+#### Mario Andretti is famous for what sport?
+
+- [ ] Ice dancing
+- [x] Auto racing
+- [ ] Pole vault
+
+#### What letter is worn by Hester Prynne in “The Scarlet Letter”?
+
+- [x] A
+- [ ] B
+- [ ] C
+
+#### A three-piece suit has what 3 matching components?
+
+- [x] Jacket, Pants, Vest
+- [ ] Snap, Krackle, Pop
+- [ ] Pots, Pans, Spoons
+
+#### What restaurant chain uses the slogan “It’s a Whole New Neighborhood”?
+
+- [ ] Olive Garden
+- [ ] Taco Bell
+- [x] Applebee’s
+
+#### Known for their unique wildlife, the Galapagos Islands are located near which country?
+
+- [ ] Italy
+- [x] Ecuador
+- [ ] China
+
+#### In 16th Century England, the upper classes were served Surprise Pie. What was the surprise?
+
+- [ ] Money
+- [x] A live animal
+- [ ] A land grant
+
+#### Which President was rumored to have died from eating cherries and milk?
+
+- [ ] Millard Fillmore
+- [ ] Franklin Pierce
+- [x] Zachary Taylor
+
+#### What board game features players trying to figure out the identity of someone selected by their opponent?
+
+- [x] Guess Who?
+- [ ] Boggle
+- [ ] Chutes and Ladders
+
+#### March 31, 1848 is wildly considered to be the start of what movement?
+
+- [ ] Mormonism
+- [x] Spiritualism
+- [ ] The Gold Rush
+
+#### Who bought the most expensive book in the world?
+
+- [ ] Elon Musk
+- [ ] Warren Buffett
+- [x] Bill Gates
+
+#### How many appendages does an octopus have?
+
+- [x] Eight
+- [ ] Ten
+- [ ] Twelve
+
+#### Which of these sports requires a speed boat?
+
+- [x] Water Skiing
+- [ ] Jai Alai
+- [ ] Beach Volleyball
