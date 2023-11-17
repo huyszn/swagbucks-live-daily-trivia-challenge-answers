@@ -21263,3 +21263,81 @@
 - [ ] Hasbro
 - [x] Funko
 - [ ] Worlds of Wonder
+
+#### How many Grammys did Elvis win in his career?
+
+- [ ] None
+- [x] Three
+- [ ] Eleven
+
+#### In “The 12 Days of Christmas”, which of the following gifts is given the latest?
+
+- [x] Five gold rings
+- [ ] A partridge in a pear tree
+- [ ] Two turtle doves
+
+#### In the book “Madeline”, what medical emergency does the main character go through?
+
+- [x] Appendicitis
+- [ ] Coal Miner’s Lung
+- [ ] Brian Cloud
+
+#### A 2023 Tik Tok trend touted the laxative properties of which exotic fruit?
+
+- [x] Yellow Dragon Fruit
+- [ ] Strawberry
+- [ ] Apple
+
+#### What year did Goofy’s Sky School open at Disney California Adventure?
+
+- [ ] 2001
+- [ ] 2007
+- [x] 2011
+
+#### In the Scientific Method, what is the term for something you measure that changes when other things affect it?
+
+- [ ] Bunsen Burner
+- [x] Dependent Variable
+- [ ] Lab
+
+#### What interactive children’s toy pecks its way out of a plastic egg?
+
+- [ ] Tamagotchi
+- [ ] Furby
+- [x] Hatchimal
+
+#### Mahatma Gandhi lobbied for which country’s independence from British rule?
+
+- [ ] China
+- [ ] Georgia
+- [x] India
+
+#### According to QSR magazine, which of the following restaurants has the fattest drive-thru?
+
+- [x] KFC
+- [ ] Arby’s
+- [ ] Burger King
+
+#### Which MCU character got their powers from a spider bite?
+
+- [x] Iron Man
+- [ ] Spider-Man
+- [ ] Black Panther
+
+#### In which college movie does John Belushi start a food fight?
+
+- [x] Animal House
+- [ ] Neighbors
+- [ ] Blues Brothers
+
+#### When spelled out, which of these numbers has its letters in alphabetical order?
+
+- [ ] One
+- [x] Forty
+- [ ] Sixty
+
+#### Which of the following “Star Trek: The Next Generation” characters is an android?
+
+- [ ] Wolf
+- [x] Data
+- [ ] Deanna Troi
