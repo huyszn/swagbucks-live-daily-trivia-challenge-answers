@@ -21341,3 +21341,51 @@
 - [ ] Wolf
 - [x] Data
 - [ ] Deanna Troi
+
+#### Austin is the capital of what State?
+
+- [ ] New Mexico
+- [x] Texas
+- [ ] Arizona
+
+#### Who played Dorothy in "The Wizard of Oz"?
+
+- [ ] Hedy Lamarr
+- [ ] Tatum O'Neal
+- [x] Judy Garland
+
+#### Which of these playground games doesn't require any equipment?
+
+- [ ] Dodgeball
+- [ ] Double Dutch
+- [x] Heads Up Seven Up
+
+#### According to his song of the same name, how many problems does Jay-Z have?
+
+- [ ] 0
+- [x] 99
+- [ ] 1
+
+#### Which episode of "Forky Asks A Question" is the fake?
+
+- [ ] What is Cheese?
+- [ ] What is a Computer?
+- [x] What is Playing?
+
+#### "Rise of Skywalker" is the subtitle of the latest film in what series?
+
+- [ ] Star Trek
+- [x] Star Wars
+- [ ] Battlestar Galactica
+
+#### In which book and movie series would you find the "One Ring to Rule Them All"?
+
+- [x] Lord of the Rings
+- [ ] Harry Potter
+- [ ] Divergent
+
+#### Which of these singers became famous after appearing on American Idol?
+
+- [x] Jennifer Hudson
+- [ ] Frank Sinatra
+- [ ] Alicia Keys
