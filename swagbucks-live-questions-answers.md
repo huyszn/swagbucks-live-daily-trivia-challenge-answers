@@ -14001,8 +14001,8 @@
 #### What are you supposed to do to birthday candles after making a wish?
 
 - [ ] Light them
-- [x] Freeze them
-- [ ] Blow them out
+- [ ] Freeze them
+- [x] Blow them out
 
 #### What is the smallest U.S. State?
 
@@ -21389,3 +21389,39 @@
 - [x] Jennifer Hudson
 - [ ] Frank Sinatra
 - [ ] Alicia Keys
+
+#### Where does the first Friday the 13th movie take place?
+
+- [x] Camp Crystal Lake
+- [ ] Camp David
+- [ ] Space Camp
+
+#### The first TV show inspired by Friday Night Lights featured which future Oscar winner?
+
+- [ ] Sam Rockwell
+- [x] Ben Affleck
+- [ ] Matthew McConaughey
+
+#### In what century did The Victorian Era begin?
+
+- [ ] 17th
+- [x] 19th
+- [ ] 21st
+
+#### If someone is a bibliophile, what do they love?
+
+- [ ] Overalls
+- [x] Books
+- [ ] Cooking
+
+#### According to Mental Floss, which of these urban legends is the oldest?
+
+- [ ] The Licked Hand
+- [x] The Girl With The Ribbon Around Her Neck
+- [ ] The Hook
+
+#### In "The Santa Caluse", what happens to the original Santa Claus?
+
+- [x] He fells off a roof
+- [ ] He's eaten by a lion
+- [ ] He gots shot into space
