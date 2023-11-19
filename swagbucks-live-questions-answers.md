@@ -21455,3 +21455,45 @@
 - [ ] Massachusetts
 - [x] Wyoming
 - [ ] Iowa
+
+#### The Hoover Dam sits on the border of which two States?
+
+- [ ] California and New York
+- [ ] Illinois and Texas
+- [x] Nevada and Arizona
+
+#### In which year did the United Nations form?
+
+- [ ] 1901
+- [ ] 1933
+- [x] 1945
+
+#### Which of these is NOT the title of one of Goofy’s instructional shorts?
+
+- [ ] How to Fish
+- [x] How to Drive a Car
+- [ ] How to Be a Sailor
+
+#### Which actress is currently asking “What’s in your wallet?” in Capital One commercials?
+
+- [x] Jennifer Garner
+- [ ] Jennifer Lopez
+- [ ] Jennifer Lawrence
+
+#### On February 18th, 2021, the Perseverance landed in the Jezero crater of which planet?
+
+- [x] Mars
+- [ ] Saturn
+- [ ] Neptune
+
+####High humidity is generally associated with what phenomenon?
+
+- [ ] Drought
+- [ ] Nighttime
+- [x] Rain
+
+#### What is the term for a group of pugs?
+
+- [ ] A wrinkle
+- [ ] A council
+- [x] A grumble
