@@ -21425,3 +21425,33 @@
 - [x] He fells off a roof
 - [ ] He's eaten by a lion
 - [ ] He gots shot into space
+
+#### What section of a newspaper traditionally includes job listings?
+
+- [x] Classifieds
+- [ ] Entertainment
+- [ ] Sports
+
+#### What wintery location serves as Santa Claus' official address?
+
+- [x] Finland
+- [ ] Kauai
+- [ ] Phoenix, Arizona
+
+#### Pickles are mainly made from which vegetable?
+
+- [ ] Celery
+- [x] Cucumber
+- [ ] Cauliflower
+
+#### According to the saying, you shouldn't count your chickens before they what?
+
+- [ ] Cluck
+- [ ] Merengue
+- [x] Hatch
+
+#### Which U.S. State was the first to have a woman as governor?
+
+- [ ] Massachusetts
+- [x] Wyoming
+- [ ] Iowa
