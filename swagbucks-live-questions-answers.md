@@ -9187,6 +9187,7 @@
 - [ ] Red Bull
 
 #### Frozone, Syndrome, and Bomb Voyage are characters from which Pixar movie?
+
 - [ ] Finding Dory
 - [x] The Incredibles
 - [ ] Coco
@@ -21486,7 +21487,7 @@
 - [ ] Saturn
 - [ ] Neptune
 
-####High humidity is generally associated with what phenomenon?
+#### High humidity is generally associated with what phenomenon?
 
 - [ ] Drought
 - [ ] Nighttime
@@ -21497,3 +21498,45 @@
 - [ ] A wrinkle
 - [ ] A council
 - [x] A grumble
+
+#### Which of these was not a Beetle Bailey character?
+
+- [ ] Miss Buxley
+- [ ] Zero
+- [x] Private Blimp
+
+#### What ice cream company has flavors named after Jerry Garcia, the band Phish, and Stephen Colbert?
+
+- [ ] Breyers
+- [x] Ben & Jerry's
+- [ ] Haagen Dazs
+
+#### Tide and All are products you buy to help you do what?
+
+- [ ] Clean Teeth
+- [x] Clean clothes
+- [ ] Clean your face
+
+#### Essie's Ballet Slippers was the only shade of nail polish worn by what celebrity?
+
+- [ ] Jackie Kennedy
+- [x] Queen Elizabeth II
+- [ ] Marilyn Monroe
+
+#### What future Oscar-winning actor once appeared in a commercial for Pac-Man cereal?
+
+- [x] Christian Bale
+- [ ] Gwyneth Paltrow
+- [ ] Leonardo DiCaprio
+
+#### Which of these countries was part of the Allied Forces during World War II?
+
+- [ ] Germany
+- [x] England
+- [ ] Italy
+
+#### Which cybernetic action hero was created by OCP to protect the city of Detroit?
+
+- [x] Robocop
+- [ ] Johnny Mnemonic
+- [ ] The Lawnmower Man
