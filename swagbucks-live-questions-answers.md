@@ -21642,3 +21642,27 @@
 - [x] Creme Brulee
 - [ ] Apple Pie
 - [ ] Taffy
+
+#### What does Boba Fett do for a living?
+
+- [ ] Cobbler
+- [ ] Butcher
+- [x] Bounty Hunter
+
+#### Which Charms lollipop has gum inside it?
+
+- [x] Tootsie Pops
+- [ ] Blow Pops
+- [ ] Taffy
+
+#### Which children's book in the Arthur series came out first?
+
+- [x] Arthur's Nose
+- [ ] Arthur's Halloween
+- [ ] Arthur's Pet Business
+
+#### According to urban legend, what drink was supposedly undetectable by breathalyzer?
+
+- [ ] Kahlua
+- [x] Zima
+- [ ] Goldschlager
