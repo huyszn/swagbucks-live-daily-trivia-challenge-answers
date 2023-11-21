@@ -21540,3 +21540,105 @@
 - [x] Robocop
 - [ ] Johnny Mnemonic
 - [ ] The Lawnmower Man
+
+#### Which movie features the famous line “YOU CAN’T HANDLE THE TRUTH!”?
+
+- [x] A Few Good Men
+- [ ] The American President
+- [ ] Molly’s Game
+
+#### Hershey’s Mr. Goodbar contains what filling?
+
+- [ ] Apples
+- [ ] Beef
+- [x] Peanuts
+
+#### What unit of measurement is used when weighing precious gems?
+
+- [ ] Peas
+- [x] Carats
+- [ ] Asparagus
+
+#### Which location is NOT mentioned in the hit Bruno Mars song “That’s What I Like”?
+
+- [x] Fiji
+- [ ] Puerto Rico
+- [ ] Manhattan
+
+#### In what swin event is the Berkoff Blastoff illegal?
+
+- [x] Backstroke
+- [ ] Butterfly
+- [ ] Freestyle
+
+#### The first female Olympic champion medaled in what sport?
+
+- [ ] Tennis
+- [x] Sailing
+- [ ] Equestrian
+
+#### In “Drumline”, what does Devon do to start the brawl that leads to his dismissal?
+
+- [ ] Argue with his section leader
+- [x] Play the drum of another team
+- [ ] Break formation on purpose
+
+#### What is the term for pouring juices or melted fat over meat to keep it juicy while cooking?
+
+- [x] Basting
+- [ ] Candying
+- [ ] Sous Vide
+
+#### Which of the following dishes is traditionally fried?
+
+- [ ] Almond Green Beans
+- [x] Hush Puppies
+- [ ] Wheat Bread
+
+#### What is generally the highest temperature setting for an oven?
+
+- [ ] Tepid
+- [ ] Hot-ish
+- [x] Broil
+
+#### What is the term for keeping something cooked in liquid kept just below the boiling point of water?
+
+- [ ] Saucing
+- [x] Simmering
+- [ ] Steaming
+
+#### What famous chef co-authored “Mastering the Art of French Cooking”?
+
+- [x] Julia Child
+- [ ] Gordon Ramsay
+- [ ] Jamie Oliver
+
+#### What Thanksgiving topping is served in a container called a “boat”?
+
+- [ ] Corn
+- [ ] Mashed Potatoes
+- [x] Gravy
+
+#### In a kitchen, what is a whisk used for?
+
+- [ ] Decorating
+- [x] Blending
+- [ ] Carving
+
+#### What is the term for baking an empty pie crust to fill later?
+
+- [ ] Double Bake
+- [ ] Torting
+- [x] Blind Bake
+
+#### Making a simple syrup involves combining water with what substance?
+
+- [ ] Cornstarch
+- [x] Sugar
+- [ ] Coffee
+
+#### Which of the following desserts traditionally use a torch to caramelize its top?
+
+- [x] Creme Brulee
+- [ ] Apple Pie
+- [ ] Taffy
