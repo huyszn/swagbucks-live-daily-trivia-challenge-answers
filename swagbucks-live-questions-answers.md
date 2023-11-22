@@ -10062,12 +10062,6 @@
 - [ ] She Shed
 - [x] Dreamhouse
 
-#### What name is given to the large Barbie dollhouse set sold over the years?
-
-- [ ] Bat-Cave
-- [ ] She Shed
-- [x] Dreamhouse
-
 #### In 2023's "Barbie", what song do all the Kens play for Barbie?
 
 - [x] Push
@@ -21666,3 +21660,57 @@
 - [ ] Kahlua
 - [x] Zima
 - [ ] Goldschlager
+
+#### Complete this book title: “Eat Pray”...
+
+- [x] Love
+- [ ] Bungee Jump
+- [ ] Repeat
+
+#### Where do Winnie the Pooh and his friends live?
+
+- [x] The Hundred Acre Wood
+- [ ] Bangladesh
+- [ ] Hogwarts
+
+#### Fuyu, Talvi, and Zima are all different languages’ word for what?
+
+- [ ] Fire
+- [x] Winter
+- [ ] Sleep
+
+#### If Christopher Columbus established the colony of La Isabela today, where would it be located?
+
+- [ ] Haiti
+- [x] Dominican Republic
+- [ ] Cuba
+
+#### Which rapper starred in the movie “8 Mile”?
+
+- [x] Eminem
+- [ ] Drake
+- [ ] Snickers
+
+#### What famous recording studio is also the title of a Beatles album?
+
+- [ ] Rubber Soul
+- [ ] Let It Be
+- [x] Abbey Road
+
+#### Who was the first person inducted as a performer into both the Country and Rock & Roll Hall of Fame?
+
+- [x] Johnny Cash
+- [ ] Elvis Presley
+- [ ] Jerry Lee Lewis
+
+#### Which gas if formed when a hydrogen bomb is detonated?
+
+- [ ] Radon
+- [x] Helium
+- [ ] Hydrogen
+
+#### What would you hire a dragoman to do?
+
+- [ ] Fight dragons
+- [x] Interpret
+- [ ] Pull a rickshaw
