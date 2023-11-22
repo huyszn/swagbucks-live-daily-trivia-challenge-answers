@@ -21714,3 +21714,51 @@
 - [ ] Fight dragons
 - [x] Interpret
 - [ ] Pull a rickshaw
+
+#### What classic line opens the Charles Dickens book "A Tale of Two Cities"?
+
+- [x] It was the best of times, it was the worst of times
+- [ ] It was a dark and stormy night
+- [ ] Call me Ishmael
+
+#### Randy Newman won his first Oscar for which Pixar film?
+
+- [ ] Toy Story
+- [x] Monsters, Inc.
+- [ ] Finding Nemo
+
+#### Which home gaming system originally came with a robot?
+
+- [ ] Intellivision
+- [x] NES
+- [ ] Atari 5200
+
+#### When it was first founded, the world's oldest animal charity focused on what?
+
+- [ ] Marine life
+- [x] Working animals
+- [ ] Stray dogs and cats
+
+#### What is Herbie the Love Bug's racing number?
+
+- [ ] 1
+- [ ] 22
+- [x] 53
+
+#### Flea is the bassist for what band?
+
+- [ ] Primus
+- [x] Red Hot Chili Peppers
+- [ ] No Doubt
+
+#### In what year did the Titanic sink?
+
+- [ ] 1897
+- [x] 1912
+- [ ] 1974
+
+#### In which desert State does Breaking Bad take place?
+
+- [ ] Rhode Island
+- [ ] Iowa
+- [x] New Mexico
