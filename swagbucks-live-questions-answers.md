@@ -21972,3 +21972,51 @@
 - [ ] Three's Company
 - [ ] Mad Men
 - [x] Breaking Bad
+
+#### What is the closest planet to the sun?
+
+- [ ] Mars
+- [ ] Venus
+- [x] Mercury
+
+#### What is London's Big Ben?
+
+- [ ] A bus
+- [ ] A theater
+- [x] A bell
+
+#### What letter/number combination is referenced in every Pixar movie?
+
+- [ ] THX1138
+- [x] A113
+- [ ] OP971
+
+#### Where does Walter hide the GPS coordinates to $80 million dollars?
+
+- [ ] A math textbook
+- [x] Lotto tickets
+- [ ] On a website
+
+#### Where would you go to visit the Toilet Seat Museum?
+
+- [ ] Germany
+- [x] Texas
+- [ ] Tokyo
+
+#### Which of the following is NOT opera terminology?
+
+- [ ] Claque
+- [ ] Bel Canto
+- [x] Arribago
+
+#### Who gave Buster Keaton his name?
+
+- [ ] Charlie Chaplin
+- [x] Harry Houdini
+- [ ] Louis B. Mayer
+
+#### What Lemon-Lime drink is one of Coca-Cola's brands?
+
+- [ ] Zevia
+- [x] Sprite
+- [ ] Culture Pop
