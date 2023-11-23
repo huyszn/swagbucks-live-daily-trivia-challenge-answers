@@ -15529,12 +15529,6 @@
 - [ ] Attack
 - [x] Atlas
 
-#### What U.S. city is known as The Big Easy?
-
-- [ ] Chicago
-- [x] New Orleans
-- [ ] Miami
-
 #### The name PEZ comes from the German word for what?
 
 - [x] Peppermint
@@ -21762,3 +21756,219 @@
 - [ ] Rhode Island
 - [ ] Iowa
 - [x] New Mexico
+
+#### Which of the following phrases is an example of the imperfect tense?
+
+- [ ] I won Swag IQ
+- [x] I was winning Swag IQ
+- [ ] I will win Swag IQ
+
+#### Where did the Apple Pie originate?
+
+- [ ] America
+- [x] England
+- [ ] Asia
+
+#### What is Vincenzo Peruggia’s claim to fame in the art world?
+
+- [ ] Discovering Picasso
+- [x] Stealing the Mona Lisa
+- [ ] Building the Louvre
+
+#### “Break a leg” is a term used to wish people in what profession good luck?
+
+- [ ] Horse racing
+- [ ] Forensic accounting
+- [x] Acting
+
+#### Which rapper always had a band aid or tape on his face for over a decade?
+
+- [x] Nelly
+- [ ] Shock G
+- [ ] Quavo
+
+#### How many current ways are there to make change for a dollar?
+
+- [ ] 150
+- [ ] 312
+- [x] 293
+
+#### Which of these movies takes place in a submarine?
+
+- [ ] Days of Thunder
+- [ ] Airplane!
+- [x] Crimson Tide
+
+#### Both Joey and Monica have both worn what part of a Thanksgiving meal over their heads?
+
+- [ ] Salad
+- [ ] Mashed Potatoes
+- [x] Turkey
+
+#### In the first Thanksgiving episode of “Friends”, the gang is trapped on the roof when they go to watch what holiday event?
+
+- [ ] Football game
+- [x] Escaped Parade Ballon
+- [ ] Solar Eclipse
+
+#### What real-life ex of Jennifer Aniston appeared on “Friends” in “The One with the Rumor” as a Thanksgiving guest?
+
+- [x] Brad Pitt
+- [ ] Justin Theroux
+- [ ] Bradley Cooper
+
+#### In one Friends Thanksgiving episode, what is Chandler’s punishment for kissing Joey’s girlfriend?
+
+- [ ] He’s not allowed to eat
+- [x] He has to say in a box
+- [ ] He has to be naked
+
+#### On Friends, Ross and Monica competed against each other as kids in the Geller Cup playing what Thanksgiving sport?
+
+- [x] Football
+- [ ] Lawn Darts
+- [ ] Volleyball
+
+#### On Friends, we learn that Monica’s parents hate Chandler because they thought he got high in college? Who actually got high?
+
+- [ ] Monica
+- [x] Ross
+- [ ] Rachel
+
+#### In the Friends episode “The One Where Ross Got High”, Rachel’s trifle accidentally includes items from what other dish?
+
+- [ ] Beef Wellington
+- [ ] London Stew
+- [x] Shepherd’s Pie
+
+#### In the Friends Thanksgiving episode where Ross won’t eat until he can name all 50 States from memory, who names 56 States?
+
+- [x] Joey
+- [ ] Rachel
+- [ ] Monica
+
+#### In the Friends episode “The One With Rachel’s Other Sister”, Christina Applegate plays the older sister of which Friend?
+
+- [ ] Ross
+- [x] Rachel
+- [ ] Monica
+
+#### Because she’s a chef, which “Friends” character is usually responsible for Thanksgiving dinner?
+
+- [x] Monica
+- [ ] Kathy
+- [ ] Bonnie
+
+#### Where did the Bay of Pigs invasion take place?
+
+- [x] Cuba
+- [ ] Uruguay
+- [ ] Madagascar
+
+#### Hershey is best known for what food?
+
+- [ ] Pie crust
+- [ ] Radishes
+- [x] Chocolate
+
+#### Florence Nightingale had a pet named Athena; what type of animal was she?
+
+- [ ] Kitten
+- [ ] Snake
+- [x] Owl
+
+#### James Hetfield is the lead singer of what band?
+
+- [ ] The Rolling Stones
+- [ ] The Who
+- [x] Metallica
+
+#### Which of these is a type of punch in boxing?
+
+- [x] Jab
+- [ ] Dab
+- [ ] Tab
+
+#### Beijing is the capital of what country?
+
+- [ ] Thailand
+- [ ] Japan
+- [x] China
+
+#### What is kept in the Tower of London?
+
+- [x] The Crown Jewels
+- [ ] The U.S. Gold Reserves
+- [ ] Nothing but hats
+
+#### Where is the Pro Football Hall of Fame?
+
+- [ ] Media, Pennsylvania
+- [x] Canton, Ohio
+- [ ] Needles, California
+
+#### What device is used to add, subtract, or multiply numbers?
+
+- [ ] Ruler
+- [x] Calculator
+- [ ] Wench
+
+#### For which holiday do people use Advent calendars?
+
+- [ ] Halloween
+- [x] Christmas
+- [ ] Thanksgiving
+
+#### The renowned marble Statue of David is housed in a museum in which city?
+
+- [ ] Paris, France
+- [x] New York, New York
+- [ ] Florence, Italy
+
+#### Which of the folowing dishes is a type of sandwich?
+
+- [ ] Schnitzel
+- [x] Sloppy Joe
+- [ ] Souvlaki
+
+#### In which country is the Autumnal Equinox observed by visting the graves of ancestors?
+
+- [x] Japan
+- [ ] Thailand
+- [ ] Columbia
+
+#### Sub Zero, Scorpion, and Liu Kang are characters from what video game series?
+
+- [x] Super Mario Bros.
+- [ ] Madden Football
+- [ ] Mortal Kombat
+
+#### What do the nouns Riches, Clothes, and Remains have in common?
+
+- [ ] They were coined by Shakespeare
+- [ ] They have no antonym
+- [x] They only have a plural form
+
+#### Which of the following is NOT a Track and Field event?
+
+- [x] Field Hockey
+- [ ] Discus
+- [ ] Long Jump
+
+#### Who was the last NHL player to play without a helemet?
+
+- [ ] Reggie Leach
+- [x] Craig MacTavish
+- [ ] Brad Marsh
+
+#### "All Along The Watchtower" was the only Top 40 single for which 1960s star?
+
+- [x] Jimi Hendrix
+- [ ] Eric Clapton
+- [ ] Janis Joplin
+
+#### Walter White, Jesse Pinkman, and Hank Schrader are characters from which TV show?
+
+- [ ] Three's Company
+- [ ] Mad Men
+- [x] Breaking Bad
