@@ -22092,3 +22092,63 @@
 - [ ] Daniel Craig
 - [x] Roger Moore
 - [ ] Pierce Brosnan
+
+#### Scurvy is caused by a deficiency in what?
+
+- [x] Vitamin C
+- [ ] Hydration
+- [ ] Carbs
+
+#### Dungarees are another term for what?
+
+- [x] Jeans
+- [ ] Underwear
+- [ ] Sandals
+
+#### Which of these major league teams is NOT based in California?
+
+- [ ] Dodgers
+- [x] Mariners
+- [ ] Athletics
+
+#### What would you do with the ultra-rare "Su filindeu" found in Sardinia?
+
+- [ ] Drink it
+- [x] Eat it
+- [ ] Read it
+
+#### What U.S State is home to the Redwood National Park?
+
+- [ ] Florida
+- [x] California
+- [ ] Maine
+
+#### What movie won the 2022 Oscar for Best Picture?
+
+- [ ] American Beauty
+- [ ] Patton
+- [x] CODA
+
+#### Which composer is credited with writing "Toccata and Fugue in D minor"?
+
+- [ ] Brahams
+- [ ] Mozart
+- [x] Bach
+
+#### The Dalai Lama hails from what country?
+
+- [x] Tibet
+- [ ] Sri Lanka
+- [ ] Vietnam
+
+#### Andy Warhol's work was primarily part of what art movement?
+
+- [ ] Renaissance
+- [x] Pop Art
+- [ ] Paint-by-numbers
+
+#### Which of these animals can sting you?
+
+- [ ] Butterfly
+- [x] Jellyfish
+- [ ] Rabbit
