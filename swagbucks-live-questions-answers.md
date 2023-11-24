@@ -22020,3 +22020,75 @@
 - [ ] Zevia
 - [x] Sprite
 - [ ] Culture Pop
+
+#### What State is Warren Buffett from?
+
+- [x] Nebraska
+- [ ] Iowa
+- [ ] Kansas
+
+#### In the “Halloween” movies, what is the name of the killer?
+
+- [ ] Laurie Strode
+- [x] Michael Myers
+- [ ] Dana Carney
+
+#### Which James Bond actor has also appeared in a Star Wars movie?
+
+- [ ] Sean Connery
+- [x] Daniel Craig
+- [ ] Timothy Dalton
+
+#### Which of the following is NOT an official base game expansion for Settlers of Catan?
+
+- [ ] Seafarers
+- [x] Vikings and Pirates
+- [ ] Traders and Barbarians
+
+#### What kind of creature is the video game character Spyro?
+
+- [x] Dragon
+- [ ] Gnome
+- [ ] Troll
+
+#### What phrase is commonly used to explain gravity?
+
+- [x] What goes up must come down
+- [ ] What’s love got to do with it
+- [ ] What’s the deal with airplane food
+
+#### In “Pac-Man”, what chases the title character around the maze?
+
+- [ ] Ghouls
+- [ ] Goblins
+- [x] Ghosts
+
+#### The E Street Band backs up which artist?
+
+- [ ] Billy Joel
+- [x] Bruce Springsteen
+- [ ] Elton John
+
+#### Which of the following NBA players is the same height as Abe Lincoln?
+
+- [x] Dwyane Wade
+- [ ] James Harden
+- [ ] Kobe Bryant
+
+#### If you’re holding Choker Holes, Cymbals, or Matrimony, what do you have in your hand?
+
+- [x] Doughnuts
+- [ ] Fabric
+- [ ] Woodworking tools
+
+#### When America declared its independence, how many colonies did it have?
+
+- [ ] 7
+- [x] 13
+- [ ] 50
+
+#### Which of these has actors played James Bond the most times?
+
+- [ ] Daniel Craig
+- [x] Roger Moore
+- [ ] Pierce Brosnan
