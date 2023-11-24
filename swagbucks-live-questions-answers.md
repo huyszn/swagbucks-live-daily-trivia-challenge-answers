@@ -22152,3 +22152,159 @@
 - [ ] Butterfly
 - [x] Jellyfish
 - [ ] Rabbit
+
+#### On Groundhog Day, what does it mean if the Groundhog sees its shadow?
+
+- [ ] An early Spring
+- [ ] Sailor’s delight
+- [x] 6 more weeks of Winter
+
+#### What three letters are commonly used as a distress signal?
+
+- [ ] LOL
+- [ ] OPP
+- [x] SOS
+
+#### What is the capital of Austria?
+
+- [x] Vienna
+- [ ] Berlin
+- [ ] London
+
+#### Geoffrey the Giraffe starred in holiday commercials for which toy store?
+
+- [ ] Kiddie City
+- [ ] Kay Bee Toys
+- [x] Toys “R” Us
+
+#### Who was America’s first official Chief Aeronaut?
+
+- [x] Thaddeus Lowe
+- [ ] Orville Wright
+- [ ] Charles Lindbergh
+
+#### What are the most common viruses for the common cold?
+
+- [ ] RVHs
+- [x] HRVs
+- [ ] HVRs
+
+#### What color pill does Neo take to wake up in The Matrix?
+
+- [x] Red
+- [ ] Yellow
+- [ ] Silver
+
+#### Which of these foods can a Vegan eat?
+
+- [x] Broccoli
+- [ ] Steak
+- [ ] Eggs Benedict
+
+#### Which of the following is NOT one of the benchmarks contained in the backronym APGAR?
+
+- [x] Resilience
+- [ ] Appearance
+- [ ] Grimace
+
+#### What force keeps the Earth revolving around the sun?
+
+- [ ] Friction
+- [ ] Magnetism
+- [x] Gravity
+
+#### If you’re going to “Catch 40 winks”, what are you about to do?
+
+- [x] Take a nap
+- [ ] Drive a car
+- [ ] Eat a meal
+
+#### Which of the following is another term for World War I?
+
+- [x] The Great War
+- [ ] Drive a car
+- [ ] Eat a meal
+
+#### On which game show do contestants try to solve word puzzles?
+
+- [ ] Jeopardy
+- [x] Wheel of Fortune
+- [ ] The Price Is Right
+
+#### Hippocrates used a mixture of opium, horseradish, pigeon droppings, beetroots, and spices to cure what?
+
+- [ ] Indigestion
+- [x] Baldness
+- [ ] Gout
+
+#### Which of the following is NOT one of the ingredients in Chunky Monkey ice cream?
+
+- [ ] Bananas
+- [ ] Nuts
+- [x] Maple syrup
+
+#### Who invented the school of Kung Fu called Wing Chun?
+
+- [x] Ng Mui
+- [ ] Yip Man
+- [ ] Bruce Lee
+
+#### What shopping holiday immediately follows American Thanksgiving?
+
+- [ ] Blue Tuesday
+- [x] Black Friday
+- [ ] Green Wednesday
+
+#### What is Walmart’s slogan?
+
+- [ ] We sell lots of stuff
+- [x] Save Money. Live Better.
+- [ ] Our parking spots are really wide
+
+#### What retail chain started in 1893 as a mail-away catalog business?
+
+- [x] Sears
+- [ ] Office Depot
+- [ ] Crumbl Cookies
+
+#### Which of the following retail chains is most likely to have locations with a Garden Center?
+
+- [ ] QVC
+- [ ] Lane Bryant
+- [x] The Home Depot
+
+#### Which of the following online stores specializes in licensed sportswear?
+
+- [ ] HSN
+- [x] Fanatics
+- [ ] The Honest Company
+
+#### What retail chain’s “Geek Squad” offers tech support, setup, and installation?
+
+- [x] Best Buy
+- [ ] Aidi
+- [ ] Old Navy
+
+#### NFC technology is used in retail stores for what customer service?
+
+- [ ] Shipping
+- [x] Contactless Payments
+- [ ] Returns
+
+#### What site connects you to local businesses via coupons and other deals?
+
+- [ ] Amway
+- [ ] Things Remembered
+- [x] Groupon
+
+#### What area of a shopping mall contains a group of eateries?
+
+- [x] Food Court
+- [ ] Help Desk
+- [ ] Anchor Store
+
+#### Jeff Bezos was the CEO of what online shopping giant?
+
+- [ ] PajamaGram
+- [ ] Chewy
+- [x] Amazon
