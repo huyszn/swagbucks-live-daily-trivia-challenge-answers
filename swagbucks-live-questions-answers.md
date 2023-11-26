@@ -22308,3 +22308,99 @@
 - [ ] PajamaGram
 - [ ] Chewy
 - [x] Amazon
+
+#### Genuphobia is a fear of what body part?
+
+- [ ] Elbow
+- [ ] Shoulder
+- [x] Knee
+
+#### Where is the world’slargest Comic Con held?
+
+- [x] San Diego
+- [ ] Dubuque
+- [ ] Allentown
+
+#### Which live-acton Disney movie features a family living in a tree house?
+
+- [ ] Treasure Island
+- [ ] Darby O’Gill and the Little People
+- [x] Swiss Family Robinson
+
+#### According to Mental Floss, the man who invented the process for frozen food also filed a patent for what?
+
+- [ ] A remote control boat
+- [ ] A cosmetic cream
+- [x] A harpoon gun
+
+#### What was the name of the oldest daughter on “The Brady Bunch”?
+
+- [x] Marica
+- [ ] Jan
+- [ ] Cindy
+
+#### Which of these was NOT one of the ships Columbus set sail with?
+
+- [ ] The Nina
+- [ ] The Pinta
+- [x] The S.S. Minnow
+
+#### What brand is known for making toothbrushes?
+
+- [x] Oral-B
+- [ ] General Motors
+- [ ] Nike
+
+#### Who was not a human character on Sesame Street?
+
+- [ ] Mr. Hooper
+- [ ] Mr. Noodle
+- [x] Mr. Hampton
+
+#### What movie musical started as a Broadway operetta?
+
+- [x] The Wizard of Oz
+- [ ] The Greatest Showman
+- [ ] Sweeney Todd
+
+#### The Knights of Columbus were founded in what U.S. State?
+
+- [ ] Ohio
+- [x] Connecticut
+- [ ] Massachusetts
+
+#### Which of these is a primary ingredient in cheesecake?
+
+- [x] Cream Cheese
+- [ ] Blue Cheese
+- [ ] Ranch Dressing
+
+#### What gray kitten was one of Garfield’s biggest enemies?
+
+- [ ] Lyman
+- [ ] Arlene
+- [x] Nermal
+
+#### What is the capital of the only State that begins with an “A” but doesn’t end with an “A”?
+
+- [ ] Phoenix
+- [ ] Juneau
+- [x] Little Rock
+
+#### In 1926, who designed the iconic “little black dress”?
+
+- [x] Coco Chanel
+- [ ] Tommy Hilfiger
+- [ ] Daymond John
+
+#### What classical composer was famously deaf?
+
+- [x] Beethoven
+- [ ] Brahams
+- [ ] Mozart
+
+#### Who wrote Slaughterhouse Five?
+
+- [x] Kurt Vonnegut
+- [ ] Charlotte Bronte
+- [ ] Leo Tolstoy
