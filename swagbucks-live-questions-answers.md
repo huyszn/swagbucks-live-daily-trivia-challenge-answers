@@ -22404,3 +22404,39 @@
 - [x] Kurt Vonnegut
 - [ ] Charlotte Bronte
 - [ ] Leo Tolstoy
+
+#### How do you say hello in Italian?
+
+- [ ] Mangia
+- [ ] Arrivederci
+- [x] Buongiorno
+
+#### Who released the hit song "Shape of You" in 2017?
+
+- [x] Ed Sheeran
+- [ ] Justin Bieber
+- [ ] Bruno Mars
+
+#### Jim Davis created what cartoon cat?
+
+- [x] Garfield
+- [ ] Heathcliff
+- [ ] Azrael
+
+#### In what year did Vanna White make her wheel of Fortune debut?
+
+- [ ] Doom
+- [x] Roller Coaster Tycoon
+- [ ] Myst
+
+#### What basketball innovation was first introduced in 1901?
+
+- [ ] Jump Shots
+- [ ] Layups
+- [x] Dribbling
+
+#### The Chicle tree was the original source of what food?
+
+- [ ] Agave
+- [x] Chewing gum
+- [ ] Pretzels
