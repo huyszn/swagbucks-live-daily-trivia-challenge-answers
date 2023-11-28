@@ -22440,3 +22440,129 @@
 - [ ] Agave
 - [x] Chewing gum
 - [ ] Pretzels
+
+#### What is the verb in the sentence “I won the grand prize”?
+
+- [ ] Grand Prize
+- [ ] I
+- [x] Won
+
+#### “These Are My Children” was the first soap opera to air on American TV. In which city did it first air?
+
+- [x] Chicago
+- [ ] New York
+- [ ] Philadelphia
+
+#### In “The One After Vegas”, what last name is added to all of the cast’s opening credits?
+
+- [ ] Jones
+- [ ] Littlefield
+- [x] Arquette
+
+#### What is the largest non-polar desert in the world?
+
+- [ ] Frank’s Desert
+- [ ] Just Deserts
+- [x] Sahara Desert
+
+#### Who played Captain America in the MCU?
+
+- [ ] Chris Evans
+- [ ] Chris Pine
+- [x] Chris Pratt
+
+#### George Harrison was a member of which band?
+
+- [ ] Wings
+- [ ] Run DMC
+- [x] The Beatles
+
+#### What children’s classic was partially inspired by hallucinations the author had while stranded?
+
+- [ ] The Lorax
+- [ ] Where the Wild Things Are
+- [x] The Little Prince
+
+#### What TV show introduced the world to Kelly Clarkson?
+
+- [x] American Idol
+- [ ] The X-Factor
+- [ ] The Sing-Off
+
+#### What is the name of the dog in Peanuts?
+
+- [x] Snoopy
+- [ ] Garfield
+- [ ] Heathcliff
+
+#### According to the saying, “Boys will be” what?
+
+- [ ] Snips and snails
+- [x] Boys
+- [ ] There for you
+
+#### What nutrient, found in milk, is said to be good for your bones?
+
+- [x] Calcium
+- [ ] Moacom
+- [ ] Vitamin C
+
+#### Whose Fairy Godmother sings “Bibbidi Boppity Boo”?
+
+- [x] Cinderella
+- [ ] Snow White
+- [ ] Sleepy Beauty
+
+#### Who wishes upon a star for Pinocchio to become a real boy?
+
+- [ ] Figaro
+- [x] Gepetto
+- [ ] Jimmy Cricket
+
+#### Which Pixar character is a Space Ranger for Star Command?
+
+- [ ] WALL-E
+- [ ] Hamm
+- [x] Buzz Lightyear
+
+#### Which of the following is NOT one of Bert’s instructions for jumping into the chalk drawing in “Mary Poppins”?
+
+- [ ] Think
+- [x] Buy a Chevy Nova
+- [ ] Do a Double Bink
+
+#### Arendelle is the primary location for which of the following Disney animated films?
+
+- [x] Frozen
+- [ ] Robin Hood
+- [ ] The Aristocats
+
+#### Chris Evans played which Star-Spangled hero in the Marvel Cinematic Universe?
+
+- [ ] U.S. Agent
+- [ ] Falcon
+- [x] Captain America
+
+#### Which Disney Princess winds up with Prince Florian?
+
+- [ ] Cinderella
+- [x] Snow White
+- [ ] Sleepy Beauty
+
+#### Luke Skywalker is the twin brother of what other Star Wars character?
+
+- [ ] Chewbacca
+- [ ] Han Solo
+- [x] Princess Leia
+
+#### Which Disney animated movie features Mickey Mouse as a sorcerer’s apprentice?
+
+- [x] Fantasia
+- [ ] Footloose and Fancy Free
+- [ ] The Black Cauldron
+
+#### What is the name of Captain Hook’s boatswain in “Peter Pan”?
+
+- [ ] Smitty
+- [ ] Smeagol
+- [x] Smee
