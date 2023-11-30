@@ -22639,6 +22639,54 @@
 - [ ] Eagle
 - [ ] Vulture
 
+#### What band went by names like Tea Set and The Screaming Abdabs in their early years?
+
+- [ ] Cream
+- [ ] The Rolling Stones
+- [x] Pink Floyd
+
+#### What are the Fairy Godmother's magic words?
+
+- [ ] Flippity-hibbity-hop
+- [ ] Jiggly-wiggly-doo
+- [x] Bibbidi-bobbidi-boo
+
+#### In which of the following board games is world domination the goal?
+
+- [ ] Boggle
+- [ ] Sorry!
+- [x] Risk
+
+#### If he had cast his first choice for the voice performer, what line could George Lucas have given to Darth Vader?
+
+- [ ] STELLA!
+- [ ] The name is Bond... James Bond.
+- [x] Rosebud...
+
+#### Which of these boxing divisions is the lightest weight?
+
+- [x] Flyweight
+- [ ] Bantamweight
+- [ ] Welterweight
+
+#### In "Operation", what do you use to remove ailments from Cavity Sam?
+
+- [ ] A fork
+- [x] Tweezers
+- [ ] Vacuum
+
+#### St. Patrick supposedly drove the snakes out of what country?
+
+- [ ] Scotland
+- [ ] Wales
+- [x] Ireland
+
+#### How many stars halo around the mountain in the current Paramount Pictures logo?
+
+- [x] 22
+- [ ] 24
+- [ ] 28
+
 #### What part of a planet primarily conducts light for photosynthesis?
 
 - [ ] Steam
