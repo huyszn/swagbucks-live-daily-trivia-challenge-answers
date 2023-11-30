@@ -22746,3 +22746,57 @@
 - [ ] Pierce Brosnan
 - [ ] Roger Moore
 - [x] Daniel Craig
+
+#### How many women signed Israel's Declaration of Independence?
+
+- [x] 2
+- [ ] 0
+- [ ] 4
+
+#### Where would you go to visit the oldest operating bar in the U.S.?
+
+- [x] Rhode Island
+- [ ] Pennsylvania
+- [ ] Massachusetts
+
+#### In "Humpty Dumpty", who tried to put him together again?
+
+- [ ] The Butcher, the Baker, the Candlestick Maker
+- [x] Three Blind Mice
+- [ ] All the King's Horses and All the King's Men
+
+#### What do you fill a ballon with to make it float?
+
+- [ ] Lead
+- [x] Helium
+- [ ] Water
+
+#### If Jimmy Hoffa had been an actual Teamster, what would he have done for a living?
+
+- [ ] Cut sheet metal
+- [ ] Manage equipment
+- [x] Drive a horse-drawn wagon
+
+#### What happens when you put a whole rotten egg in water?
+
+- [x] It floats
+- [ ] It explodes
+- [ ] It changes color
+
+#### From 1892 to 1954, what New York island famously housed an immigration inspection station?
+
+- [ ] Manhattan
+- [x] Ellis Island
+- [ ] Staten Island
+
+#### Who plays Captain Jack Sparrow in "Pirates of the Caribbean"?
+
+- [ ] Walt Disney
+- [ ] Wally Boag
+- [x] Johnny Depp
+
+#### Someone who's loquacious tends to do a lot of what?
+
+- [ ] Blinking
+- [x] Talking
+- [ ] Skipping
