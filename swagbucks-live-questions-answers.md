@@ -17542,8 +17542,8 @@
 #### What is the capital of Washington?
 
 - [ ] Austin
-- [ ] Olympia
-- [x] Tailahassee
+- [x] Olympia
+- [ ] Tailahassee
 
 #### In which city does the Back to the Future trilogy take place?
 
@@ -22566,3 +22566,261 @@
 - [ ] Smitty
 - [ ] Smeagol
 - [x] Smee
+
+#### A 2012 excavation in England discovered the grave of what former King?
+
+- [ ] King Arthur
+- [ ] William The Conqueror
+- [x] Richard III
+
+#### Who is NOT a member of Wu-Tang Clan?
+
+- [ ] Inspectah Deck
+- [x] Phife Dawg
+- [ ] Cappadoona
+
+#### In the Potterverse, which of these is NOT a house in the American wizarding school?
+
+- [ ] Thunderbird
+- [ ] Pukwudgie
+- [x] Wampart
+
+#### What non-food item also undergoes a process known as pickling?
+
+- [ ] Granite
+- [ ] Paper
+- [x] Steel
+
+#### Which of these words would describe someone who’s neat and orderly?
+
+- [ ] Slovenly
+- [ ] Ridiculous
+- [x] Fastidious
+
+#### Which member of the Fantastic Four declares “Flame On!” as they activate their power?
+
+- [ ] The Thing
+- [ ] Mr. Fantastic
+- [x] Human Torch
+
+#### Which of the Avengers normally carries a shield?
+
+- [ ] Iron Man
+- [x] Captain America
+- [ ] Thor
+
+#### Which artist was part of the Romanticism era?
+
+- [x] Henry Fuseli
+- [ ] Rembrandt
+- [ ] Peter Paul Rubens
+
+#### What 1985 time travel comedy was a huge summer hit, spawning sequels and an animated series?
+
+- [ ] Ice Pirates
+- [x] Back to the Future
+- [ ] Flight of the Navigator
+
+#### Anne Boleyn is one of the wives of what King of England?
+
+- [ ] Richard III
+- [x] Henry VIII
+- [ ] George II
+
+#### Which of the following words refers to something that is placed in the wrong time period?
+
+- [x] Anachronism
+- [ ] Boondoggle
+- [ ] Antithesis
+
+#### What planet does Superman come from?
+
+- [ ] Mars
+- [ ] Rigel-9
+- [x] Krypton
+
+#### What Major League baseball manager once returned to a game in disguise after being ejected?
+
+- [ ] Tommy Lasorda
+- [ ] Billy Martin
+- [x] Bobby Valentine
+
+#### In 1981, which actress became minister of culture in her country’s government?
+
+- [x] Melina Mercouri
+- [ ] Audrey Hepburn
+- [ ] Grace Kelly
+
+#### Which of the following items is NOT a ingredient in traditional Pico de Gallo?
+
+- [ ] Tomatoes
+- [ ] Onions
+- [x] Chocolate Chips
+
+#### Crinkle Cut, Curly, and Shoestring are varieties of what food?
+
+- [ ] Prime Rib
+- [x] French Fries
+- [ ] Pickles
+
+#### Which amendment to the U.S. constitution granted women the right to vote?
+
+- [x] 19th
+- [ ] 24th
+- [ ] 16th
+
+#### Which of the following cities does NOT have a Disney Park?
+
+- [ ] Anaheim, CA
+- [ ] Orlando, FL
+- [x] Vancouver, WA
+
+#### “Lapland” is a region in which country?
+
+- [x] Finland
+- [ ] Greece
+- [ ] India
+
+#### In the “Back to the Future” movies, what kind of vehicle is the primary mode of time travel?
+
+- [ ] Skateboard
+- [x] Car
+- [ ] Boat
+
+#### What toy’s slogan is “Sketch, Erase and Sketch Again”?
+
+- [x] Etch-A-Sketch
+- [ ] Hot Wheels
+- [ ] Game Boy
+
+#### What brand’s original logo featured Sir Isaac Newton?
+
+- [ ] Fig Newtons
+- [ ] IBM
+- [x] Apple
+
+#### Which of the following is NOT a Pop Tarts flavor?
+
+- [ ] Brown Sugar Cinnamon
+- [x] Sardlines
+- [ ] Frosted Strawberry
+
+#### In Italy, what date is feared in addition to Friday the 13th?
+
+- [x] Friday the 17th
+- [ ] Friday the 10th
+- [ ] Friday the 23rd
+
+#### What is known as “the most dangerous eight seconds in sports”?
+
+- [ ] Archery
+- [ ] Wrestling
+- [x] Bull Riding
+
+#### What style of music, first popular in the 20’s, 30’s and 40’s, made a comeback in the 1990’s?
+
+- [x] Swing
+- [ ] Yodeling
+- [ ] Baroque
+
+#### Who starred in the movies “Taxi Driver”, “The Godfather Part II”, and “Raging Bull”?
+
+- [x] Robert De Niro
+- [ ] Al Pacino
+- [ ] Robert Duvall
+
+#### A lexicon is another word for what kind of book?
+
+- [x] Dictionary
+- [ ] Bible
+- [ ] Thriller
+
+#### Where could you have ridden the Carolwood Pacific Railroad?
+
+- [ ] Missouri
+- [x] Walt’s Backyard
+- [ ] Disneyland
+
+#### In what country do elected officials serve in the Althing?
+
+- [ ] Switzerland
+- [x] Iceland
+- [ ] Germany
+
+#### Which of these kid’s movies is live action?
+
+- [x] Spy Kids
+- [ ] Spies in Disguise
+- [ ] Coco
+
+#### Which of these Broadway characters wears a mask?
+
+- [x] The Phantom of the Opera
+- [ ] Spies in Disguise
+- [ ] Coco
+
+#### What bird, when in captivity, can learn to talk better than a parrot?
+
+- [x] Raven
+- [ ] Eagle
+- [ ] Vulture
+
+#### What part of a planet primarily conducts light for photosynthesis?
+
+- [ ] Steam
+- [ ] Root
+- [x] Leaf
+
+#### What color are you supposed to wear when celebrating St. Patrick’s Day?
+
+- [ ] Turquoise
+- [x] Green
+- [ ] Yellow
+
+#### Which of the following is one of the main ingredients in traditional paella?
+
+- [x] Rice
+- [ ] Pasta
+- [ ] Potatoes
+
+#### Where would you go to visit the Crochet Museum?
+
+- [ ] Wilmette, IL
+- [x] Joshua Tree, CA
+- [ ] Charleston, SC
+
+#### Which of the following games is played with cards?
+
+- [x] Old Maid
+- [ ] Red Rover
+- [ ] Freeze Tag
+
+#### Adeline and Augusta Van Buren were the first women to cross the continental United States using what mode of transportation?
+
+- [x] Motorcycle
+- [ ] Automobile
+- [ ] Hot Air Balloon
+
+#### What is the term for the baseball pitch that floats erratically due to its lack of spin?
+
+- [ ] Fastball
+- [x] Knuckleball
+- [ ] Slider
+
+#### What type of eclipse creates the “Ring of Fire”?
+
+- [ ] Total Solar Eclipse
+- [x] Annular Solar Eclipse
+- [ ] Hybrid Solar Eclipse
+
+#### Which of the following words is a synonym for “exuberant”?
+
+- [x] Enthusiastic
+- [ ] Melancholic
+- [ ] Lethargic
+
+#### As of 2023, who is the most recent actor to play James Bond?
+
+- [ ] Pierce Brosnan
+- [ ] Roger Moore
+- [x] Daniel Craig
