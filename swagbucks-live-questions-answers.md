@@ -22800,3 +22800,171 @@
 - [ ] Blinking
 - [x] Talking
 - [ ] Skipping
+
+#### As of 2023, what is Coca-Cola's current slogan?
+
+- [x] Taste the Feeling
+- [ ] Along the Highway to Anywhere
+- [ ] The Great National Temperance Beverage
+
+#### Wearing green is supposed to help you avoid the pinches of what mythical creature?
+
+- [ ] Sasquatch
+- [ ] Yeti
+- [x] Leprechaun
+
+#### What children's classic was partially inspired by hallucinations the author had while stranded?
+
+- [ ] The Lorax
+- [ ] Where the Wild Things Are
+- [x] The Little Prince
+
+#### Which of hte following reality shows is a wilderness survival contest?
+
+- [ ] American Chopper
+- [ ] Miz & Mrs.
+- [x] Alone
+
+#### Before becoming Vice-President, Joe Biden represented what State in the US Senate?
+
+- [x] Delaware
+- [ ] Maine
+- [ ] Ohio
+
+#### Bob Ross hosted a show where he taught people to do what?
+
+- [ ] Dance
+- [ ] Cook
+- [x] Paint
+
+#### Kingston is the capital of what country?
+
+- [x] Jamaica
+- [ ] Haiti
+- [ ] Italy
+
+#### Which of the following paintings depicts the view from an asylum?
+
+- [ ] The Persistence of Memory
+- [x] Starry Night
+- [ ] Paris through the Window
+
+#### Which utensil would you normally use to eat soup?
+
+- [x] Spoon
+- [ ] Screwdriver
+- [ ] Belt Sander
+
+#### Which Shakespearean comedy features a fairy character named Puck?
+
+- [x] A Midsummer Night's Dream
+- [ ] Macbeth
+- [ ] The Merchant of Venice
+
+#### Which culinary technique inoves rapidly immersing food in boiling water, then in ice water?
+
+- [ ] Searing
+- [ ] Braising
+- [x] Blancing
+
+#### What appears on Turkey's flag?
+
+- [x] Star and Crescent
+- [ ] Double-headed Eagle
+- [ ] Tree
+
+#### In the 90's, the grotesques at Chapel of Bethlehem were replaced with film icons. Which of the following WASN'T included?
+
+- [ ] Xenomorph
+- [ ] Gizmo
+- [x] Terminator
+
+#### "Hide-Behind", "Duppy", and "Swogon" are all regional terms that refer to what?
+
+- [x] Ghosts
+- [ ] Storms
+- [ ] Fish
+
+#### In which Century was the Panama Canal completed?
+
+- [ ] 3rd
+- [x] 20th
+- [ ] 21st
+
+#### According to 2022's Science of Scare project, what is the scariest movie of all time?
+
+- [x] Host
+- [ ] The Exorcist
+- [ ] Insidious
+
+#### Amy Winehouse's "Me and Mr. Jones" is about what other artist?
+
+- [ ] Drake
+- [x] Nas
+- [ ] Nelly
+
+#### Which of the following movies is a sequel to "Minions"?
+
+- [ ] The Last Wish
+- [ ] Wakanda Forever
+- [x] Rise of Gru
+
+#### Which of these actors has won multiple acting Oscars?
+
+- [x] Meryl Streep
+- [ ] Martin Landau
+- [ ] Tobey Maguire
+
+#### Howard Hughes once demanded a Las Vegas hotel order 350 gallons of which Baskin Robbins flavor?
+
+- [ ] French Vanilla
+- [x] Banana Nut
+- [ ] Rocky Road
+
+#### Which of these shows took place in and around the White House?
+
+- [x] Step By Step
+- [x] The West Wing
+- [ ] News Radio
+
+#### Which historical figure allegedly said "Let them eat cake"?
+
+- [ ] Louis XIV
+- [ ] Joan of Arc
+- [x] Marie Antoinette
+
+#### In 2023, who broke Kareem Abdul-Jabbar's all-time scoring record?
+
+- [ ] Joel Embiid
+- [x] LeBron James
+- [ ] James Harden
+
+#### Which of the following is NOT a standard ingredient in chcolate chip cookies?
+
+- [ ] Vanilla
+- [ ] Flour
+- [x] Tomato
+
+#### If it's 11am in Colorado, what time is it in New York?
+
+- [ ] 2:00 PM
+- [ ] 9:00 AM
+- [x] 1:00 PM
+
+#### "No Time To Die" is the latest film to feature which action hero?
+
+- [ ] Ethan Hunt
+- [ ] Jack Ryan
+- [x] James Bond
+
+#### In 2012, Alexey Bykov used what peculiar method to propose to his girfriend?
+
+- [ ] Skydiving
+- [x] Faking his own death
+- [ ] Puppets
+
+#### Which cookie event happened first in the history of the Girl Scouts?
+
+- [x] Cookies sent to space
+- [ ] Cookie sales go online
+- [ ] Low fat and sugar free cookies added
