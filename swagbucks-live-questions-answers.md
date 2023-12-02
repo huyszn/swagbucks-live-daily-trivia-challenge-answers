@@ -22968,3 +22968,57 @@
 - [x] Cookies sent to space
 - [ ] Cookie sales go online
 - [ ] Low fat and sugar free cookies added
+
+#### Where does Spongebob Squarepants live?
+
+- [x] Bikini Bottom
+- [ ] Bikini Top
+- [ ] Swim Trunks Island
+
+#### What would you call an extreme tropical cyclone off the coast of Bermuda?
+
+- [ ] Typoon
+- [x] Hurricane
+- [ ] Tidal Wave
+
+#### What Apple TV+ show is about an English Football club?
+
+- [ ] The Morning Show
+- [ ] Black Bird
+- [x] Ted Lasso
+
+#### Which Brady Bunch actor is the oldest?
+
+- [x] Christopher Knight
+- [ ] Eve Plumb
+- [ ] Mike Lookinland
+
+#### What sport is Tony Hawk known for?
+
+- [ ] Motorcross
+- [ ] Diving
+- [x] Skateboarding
+
+#### Which sport begins its games with a face-off for control of the puck?
+
+- [x] Ice Hockey
+- [ ] Baseball
+- [ ] Jai Alai
+
+#### Which of these instruments requires air being forced through it to make a noise?
+
+- [x] Recorder
+- [ ] Piano
+- [ ] Tambourine
+
+#### Which car brand produces today's Mini Coopers?
+
+- [ ] Honda
+- [ ] Peugeot
+- [x] BMW
+
+#### Which mystery author's novels each began with a different letter of the alphabet?
+
+- [ ] James Patterson
+- [x] Sue Grafton
+- [ ] Harlan Coben
