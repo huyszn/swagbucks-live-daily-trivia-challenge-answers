@@ -23022,3 +23022,39 @@
 - [ ] James Patterson
 - [x] Sue Grafton
 - [ ] Harlan Coben
+
+#### An 18th Century European "vampire outbreak" is actually believed to be caused by what medical condition?
+
+- [ ] Dementia
+- [ ] Stoke
+- [x] Rabies
+
+#### Which competitive reality show centers around people locked in a house together?
+
+- [ ] Hunted
+- [x] Big Brother
+- [ ] Survivor
+
+#### What food storage system is known for its signature "burp"?
+
+- [ ] FoodSaver
+- [ ] Ziploc
+- [x] Tupperware
+
+#### At age 27, Walmart founder Sam Walton purchased a Ben Franklin store in which State?
+
+- [x] Arkansas
+- [ ] Louisiana
+- [ ] Mississippi
+
+#### Which of these words is synonymous with "Happy"?
+
+- [ ] Famished
+- [x] Merry
+- [ ] Heated
+
+#### What award-winning actor played Snizard on "Mighty Morphin' Power Rangers"?
+
+- [ ] J.K. Simmons
+- [x] Bryan Cranston
+- [ ] Mark Hamill
