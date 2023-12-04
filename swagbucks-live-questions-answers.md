@@ -23280,3 +23280,45 @@
 - [ ] Giraffe
 - [ ] Monkeyface Eel
 - [x] Camel
+
+#### The Minnesota Mining and Manufacturing Co. is better known by what name?
+
+- [x] 3M
+- [ ] Goodyear
+- [ ] Walmart
+
+#### What line of children's toys were fruit scented?
+
+- [ ] Lite Brite
+- [x] Strawberry Shortcake
+- [ ] Transformers
+
+#### Who was the first Oscar winner nominated for playing an Oscar Winner?
+
+- [x] Cate Blanchett
+- [ ] Robert Downey, Jr.
+- [ ] Meryl Streep
+
+#### Depeche Mode, Devo, and The Police were all part of what 1980's music genre?
+
+- [x] New Wave
+- [ ] Hip Hop
+- [ ] Neoclassical
+
+#### Which of these words means you're suggesting something indirectly?
+
+- [ ] Indicting
+- [x] Implying
+- [ ] Itching
+
+#### The town of Manning, South Carolina has a statue dedicated to which literary character?
+
+- [x] Amelia Bedelia
+- [ ] Ramona Quimby
+- [ ] Madeline
+
+#### In a normal Fluffernutter sandwich, what is the fluff made from?
+
+- [ ] Cotton Candy
+- [ ] Chocolate Mousse
+- [x] Marshmallow
