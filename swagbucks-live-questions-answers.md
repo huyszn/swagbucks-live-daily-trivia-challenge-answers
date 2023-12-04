@@ -10452,7 +10452,7 @@
 - [ ] Eight hundred and four
 - [ ] Infinity plus eleven
 
-#### What toy was initially referred to as “Sex in a box” by critics?
+#### What toy was initially referred to as "Sex in a box" by critics?
 
 - [ ] Barbie Dolls
 - [x] Twister
@@ -23322,3 +23322,45 @@
 - [ ] Cotton Candy
 - [ ] Chocolate Mousse
 - [x] Marshmallow
+
+#### Which of the following cooking methods involves placing your food in water?
+
+- [ ] Sauteing
+- [x] Boiling
+- [ ] Roasting
+
+#### Pinning what part of the body to the mat will result in an immediate win in amateur wrestling?
+
+- [x] Shoulders
+- [ ] Hands
+- [ ] Feet
+
+#### According to the Oxford English Dictionary, who coined the term "Mullet" to refer to the hairstyle?
+
+- [ ] Jeff Foxworthy
+- [x] The Beastie Boys
+- [ ] Burt Reynolds
+
+#### Albany is the capital of what State?
+
+- [ ] Pennsylvania
+- [ ] Maine
+- [x] New York
+
+#### Who made the first 3-pointer in NBA history?
+
+- [x] Chris Ford
+- [ ] Earl Monroe
+- [ ] Jerry West
+
+#### Who was the first black man to make the cover of Vogue magazine?
+
+- [ ] Barack Obama
+- [ ] Denzel Washington
+- [x] Lebron James
+
+#### At Chick-fil-A, employees replace "you're welcome" with what phrase?
+
+- [ ] No Problem
+- [ ] Have A Great Day
+- [x] My Pleasure
