@@ -23142,3 +23142,45 @@
 - [ ] Jacks
 - [ ] Etch-A-Sketch
 - [x] Silly Putty
+
+#### Which food should you avoid eating if you are taking antibiotics?
+
+- [x] Grapefruit
+- [ ] Kimchi
+- [ ] Cheddar Cheese
+
+#### What are Webkinz?
+
+- [x] Stuffed animals
+- [ ] Computers
+- [ ] Jeans
+
+#### Which of these fictional movies was not mentioned on "Seinfeld"?
+
+- [ ] Prognosis: Negative
+- [ ] Sack Lunch
+- [x] Stuck in the Rain
+
+#### What theory uses tectonic plates to explain how Pangaea broke into different continents?
+
+- [ ] Lincoln Continental
+- [x] Continental Drift
+- [ ] Continental Boom
+
+#### Which grocery chain is owned by Amazon?
+
+- [ ] Aldi
+- [x] Whole Foods Market
+- [ ] Trader Joe's
+
+#### Which country star has played the same guitar, named Trigger, for decades?
+
+- [ ] George Strait
+- [ ] Hank Williams Jr.
+- [x] Willie Nelson
+
+#### What does a Taxidermist do?
+
+- [x] Stuffs and mounts animals
+- [ ] Your taxes
+- [ ] Drives people around for money
