@@ -23058,3 +23058,57 @@
 - [ ] J.K. Simmons
 - [x] Bryan Cranston
 - [ ] Mark Hamill
+
+#### What movie centers around Adam Sandler becoming a father?
+
+- [ ] Mixed Nuts
+- [ ] Happy Gilmore
+- [x] Bid Daddy
+
+#### What country is known as the Land of Milk and Honey?
+
+- [x] Israel
+- [ ] Croatia
+- [ ] Scotland
+
+#### What NFL team's home jersey colors are red, black, white, and silver?
+
+- [ ] Kansas City Chiefs
+- [x] Atlanta Falcons
+- [ ] Green Bay Packers
+
+#### The Orphans and Colts were both earlier names of what current MLB franchise?
+
+- [ ] Pittsburgh Pirates
+- [ ] Cincinnati Reds
+- [x] Chicago Cubs
+
+#### In the movie "Dodgeball", what real life sports network gets a fictional channel called "The Ocho"?
+
+- [x] ESPN
+- [ ] Fox Sports West
+- [ ] The Golf Channel
+
+#### Which of the following is NOT a state of matter?
+
+- [ ] Solid
+- [ ] Liquid
+- [x] Euphoria
+
+#### The Diaclone and Microman toy lines were eventually repurposed into what popular 80's toys?
+
+- [ ] Masters of the Universe
+- [x] Transformers
+- [ ] Go-Bots
+
+#### What is the scientific term for the preserved remains of a once-living thing from another geological age?
+
+- [x] Fossil
+- [ ] Corpse
+- [ ] Mulch
+
+#### A Nest Protect unit protects you from fire and what odorless but deadly gas?
+
+- [ ] CO2
+- [ ] CL
+- [x] CO
