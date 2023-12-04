@@ -23232,3 +23232,51 @@
 - [x] AT&T
 - [ ] Clorox
 - [ ] Hanes
+
+#### Which Florida town has a park named after Burt Reynolds?
+
+- [ ] Ft. Lauderdale
+- [ ] Coral Gables
+- [x] Jupiter
+
+#### Actors Felicity Huffman and Lori Loughlin were part of a scandal revolving around what?
+
+- [x] College Admissions
+- [ ] Steroids
+- [ ] Lip-syncing
+
+#### All of Robert Ludlum's novels, except one, have what word to start their title?
+
+- [x] The
+- [ ] Why
+- [ ] You
+
+#### A love song by which singer proclaims they're the biggest fan of your life?
+
+- [ ] John Legend
+- [ ] Shania Twain
+- [x] Edwin McCain
+
+#### The video game adaptation "The Last of Us" airs first-run episodes on what network?
+
+- [ ] ESPN
+- [x] HBO
+- [ ] A&E
+
+#### In which sport do people "scrum" over the ball?
+
+- [x] Rugby
+- [ ] Darts
+- [ ] Baseball
+
+#### Complete this Journey song title: "Don't Stop..."
+
+- [x] Believin'
+- [ ] At A Yellow Light
+- [ ] For Me Argentina
+
+#### According to the Bible, which animal is not kosher to eat?
+
+- [ ] Giraffe
+- [ ] Monkeyface Eel
+- [x] Camel
