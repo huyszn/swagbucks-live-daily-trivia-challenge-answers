@@ -23184,3 +23184,51 @@
 - [x] Stuffs and mounts animals
 - [ ] Your taxes
 - [ ] Drives people around for money
+
+#### The Lynx, Liberty, and Mercury are all teams in what professional sports league?
+
+- [ ] PBA
+- [x] WNBA
+- [ ] NFL
+
+#### In the U.S. Revolutionary War, who was America fighting?
+
+- [ ] Fiji
+- [ ] Italy
+- [x] England
+
+#### In what sport is the ball pitched underhand?
+
+- [ ] Field Hockey
+- [x] Softball
+- [ ] Cross Country
+
+#### According to Mouse Rat's song, how many candles in the wind is Li'l Sebastian?
+
+- [x] 5,000
+- [ ] 10,000
+- [ ] 1,000,000
+
+#### What is a Cheviot?
+
+- [ ] A sports car
+- [x] A type of sheep
+- [ ] An hors d'oeuvre
+
+#### Who was known as The King of Rock & Roll?
+
+- [ ] Ritchie Valens
+- [ ] Buddy Holly
+- [x] Elvis Presley
+
+#### Which of the following is a word meaning confused?
+
+- [ ] Bewitched
+- [ ] Beguiled
+- [x] Befuddled
+
+#### What company used the slogan "Reach out and touch someone"?
+
+- [x] AT&T
+- [ ] Clorox
+- [ ] Hanes
