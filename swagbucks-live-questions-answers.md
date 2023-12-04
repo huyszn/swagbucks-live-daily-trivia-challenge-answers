@@ -23112,3 +23112,33 @@
 - [ ] CO2
 - [ ] CL
 - [x] CO
+
+#### Which of these children's book characters solves mysteries?
+
+- [ ] Curious George
+- [ ] Waldo
+- [x] Nancy Drew
+
+#### What two countries share the longest land border?
+
+- [x] Canada & USA
+- [ ] China & Mongolia
+- [ ] India & Bangladesh
+
+#### "Innovation that stops at nothing" is the slogan of what company?
+
+- [x] Dell
+- [ ] Bounty
+- [ ] Oscar Mayer
+
+#### Big Rally Blue Raspberry, Slammin' Strawberry, and Curveball Cotton Candy are all flavors of which 80s gum brand?
+
+- [ ] Chewels
+- [x] Big League Chew
+- [ ] Bubble Yum
+
+#### What toy was originally made by combining silicone oil and boric acid?
+
+- [ ] Jacks
+- [ ] Etch-A-Sketch
+- [x] Silly Putty
