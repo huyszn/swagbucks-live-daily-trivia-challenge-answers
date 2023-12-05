@@ -23364,3 +23364,63 @@
 - [ ] No Problem
 - [ ] Have A Great Day
 - [x] My Pleasure
+ 
+- #### "One Day In the Life of Ivan Denisovich" was based on whose life?
+
+- [ ] Fyodor Dostoevsky
+- [x] Aleksander Solzhenitsyn
+- [ ] Vladimir Nabokov
+
+#### What is Bruschetta traditionally served on?
+
+- [ ] Cheese Wheel
+- [x] Bread
+- [ ] Pasta
+
+#### At what awards show did Madonna, Britney Spears, and Christina Aguilera perform together?
+
+- [ ] Country Music Awards
+- [ ] Golden Golbes
+- [x] MTV Video Music Awards
+
+#### Which musical has an orphan singing "Tomorrow"?
+
+- [x] Annie
+- [ ] Oliver!
+- [ ] Hamilton
+
+#### What TV show replaces swear words with "Fork" and "Shirt"?
+
+- [ ] NCIS
+- [x] The Good Place
+- [ ] Superstore
+
+#### How many railroad spaces are there on a standard Monopoly board?
+
+- [ ] 2
+- [x] 4
+- [x] 6
+
+#### Which city is home to Major League Baseball's Dodgers?
+
+- [ ] Anaheim
+- [ ] San Diego
+- [x] Los Angeles
+
+#### What does the Spanish word "Hermano" translate to in English?
+
+- [x] Brother
+- [ ] Car
+- [ ] Alone
+
+#### Which of the following is a game creation system for kids?
+
+- [ ] Fornite
+- [x] Roblox
+- [ ] Minecraft
+
+#### In the armed forces, who are the MP?
+
+- [x] Military Police
+- [ ] Mighty Pants
+- [ ] Milk Ponies
