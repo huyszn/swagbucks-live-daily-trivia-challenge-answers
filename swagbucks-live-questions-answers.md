@@ -23520,3 +23520,57 @@
 - [x] California
 - [ ] New Jersey
 - [ ] New York
+
+#### Which of the following words is a synonym for happy?
+
+- [ ] Depressed
+- [ ] Shocked
+- [x] Joyful
+
+#### In 1977, what popular Science Fiction franchise had to sell Early Bird certiicates when their toys weren't ready?
+
+- [ ] Space: 1999
+- [ ] Battlestar Galactica
+- [x] Star Wars
+
+#### Which of the following words is a synonym for happy?
+
+- [ ] Depressed
+- [ ] Shocked
+- [x] Joyful
+
+#### In which of these games is the objective to find and make words?
+
+- [ ] Life
+- [ ] Operation
+- [x] Boggle
+
+#### "10 Things I Hate About You" is based on which Shakespearean work?
+
+- [ ] Comedy of Errors
+- [x] The Taming of the Shrew
+- [ ] As You Like It
+
+#### Who resigned from office amidst charges of not claiming income while Governor of Maryland?
+
+- [ ] Nelson Rockefeller
+- [ ] John C. Calhoun
+- [x] Spiro Agnew
+
+#### Which of the following artists has NOT recorded the title track to a James Bond film?
+
+- [ ] Garbage
+- [ ] Shocked
+- [x] Cher
+
+#### What is the legal term for a voluntary written statement made under oath?
+
+- [x] Affidavit
+- [ ] Injunction
+- [ ] Subpoena
+
+#### What European city is home to the Arc de Triomphe?
+
+- [ ] London
+- [x] Paris
+- [ ] Barcelona
