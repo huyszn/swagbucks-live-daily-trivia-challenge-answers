@@ -23364,3 +23364,159 @@
 - [ ] No Problem
 - [ ] Have A Great Day
 - [x] My Pleasure
+ 
+- #### "One Day In the Life of Ivan Denisovich" was based on whose life?
+
+- [ ] Fyodor Dostoevsky
+- [x] Aleksander Solzhenitsyn
+- [ ] Vladimir Nabokov
+
+#### What is Bruschetta traditionally served on?
+
+- [ ] Cheese Wheel
+- [x] Bread
+- [ ] Pasta
+
+#### At what awards show did Madonna, Britney Spears, and Christina Aguilera perform together?
+
+- [ ] Country Music Awards
+- [ ] Golden Golbes
+- [x] MTV Video Music Awards
+
+#### Which musical has an orphan singing "Tomorrow"?
+
+- [x] Annie
+- [ ] Oliver!
+- [ ] Hamilton
+
+#### What TV show replaces swear words with "Fork" and "Shirt"?
+
+- [ ] NCIS
+- [x] The Good Place
+- [ ] Superstore
+
+#### How many railroad spaces are there on a standard Monopoly board?
+
+- [ ] 2
+- [x] 4
+- [x] 6
+
+#### Which city is home to Major League Baseball's Dodgers?
+
+- [ ] Anaheim
+- [ ] San Diego
+- [x] Los Angeles
+
+#### What does the Spanish word "Hermano" translate to in English?
+
+- [x] Brother
+- [ ] Car
+- [ ] Alone
+
+#### Which of the following is a game creation system for kids?
+
+- [ ] Fornite
+- [x] Roblox
+- [ ] Minecraft
+
+#### In the armed forces, who are the MP?
+
+- [x] Military Police
+- [ ] Mighty Pants
+- [ ] Milk Ponies
+
+#### The original snake oil came from what snake?
+
+- [x] Chinese Water Snake
+- [ ] Rattlesnake
+- [ ] Flying Tree Snake
+
+#### What was the inspiration for David Bowie's "Space Oddity"?
+
+- [ ] The Moon Landing
+- [x] Stanley Kubrick's 2001
+- [ ] Lost in Space
+
+#### Which team lost the 1987 World Series?
+
+- [ ] Minnesota Twins
+- [x] St. Louis Cardinals
+- [ ] New York Mets
+
+#### What plan did Roosevelt implement to pull America out of the Great Depression?
+
+- [x] New Deal
+- [ ] Raw Deal
+- [ ] Dealer's Choice
+
+#### Who was NOT a Queen during the Middle Ages?
+
+- [ ] Eleanor of Aquitaine
+- [ ] Catherine of Valois
+- [x] Joan of Arc
+
+#### Chase bank is named after the person who appears on what denomination of money?
+
+- [ ] $1,000
+- [ ] $500
+- [x] $10,000
+
+#### What happens at the end of The Price is Right?
+
+- [x] Showcase Showdown
+- [ ] Final Jeopardy
+- [ ] Speed-Up Round
+
+#### Which of the following is an amusement park company?
+
+- [ ] Single Flag
+- [x] Six Flags
+- [ ] Double Rainbow Flags
+
+#### What 90's game, featuring a Slammer, is based on the game Milk caps?
+
+- [ ] Skip It
+- [ ] Othello
+- [x] Pogs
+
+#### The Miracle on Ice happened when the United States hockey team defeated which powerhouse?
+
+- [ ] Sweden
+- [x] Soviet Union
+- [ ] Canada
+
+#### BTS, BLACKPINK, and EXO are all bands from what country?
+
+- [x] South Korea
+- [ ] Taiwan
+- [ ] Japan
+
+#### Which U.S. State is home to the Haunted Chicken House?
+
+- [ ] Mississippi
+- [ ] Kentucky
+- [x] Alabama
+
+#### In "Taxi Driver", what question does Robert De Niro's Travis Bickle repeat into a mirror?
+
+- [x] "You lookin' at me?"
+- [ ] "Do you have any Grey Poupon?"
+- [ ] "Hot enough for ya?"
+
+#### The Man in the Yellow Hat appears in what book series?
+
+- [ ] Paddington
+- [ ] Madeleine
+- [x] Curious George
+
+#### What does the acronym ASAP stand for?
+
+- [x] As Soon As Possible
+- [ ] All Sails Are Portable
+- [ ] Are Snickers A Ploy?
+
+#### Which of the following States was NOT one of the 13 original American colonies?
+
+- [x] California
+- [ ] New Jersey
+- [ ] New York
