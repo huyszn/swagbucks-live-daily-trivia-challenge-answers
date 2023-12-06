@@ -20047,12 +20047,6 @@
 - [ ] Diving Suit
 - [ ] Chaps
 
-#### What did Mister Rogers change into at the beginning of every episode of his show?
-
-- [x] Sweater
-- [ ] Diving Suit
-- [ ] Chaps
-
 #### Which of the following shows NEVER won the Emmy for Outstanding Entertainment Children’s Series between 1974 and 1984?
 
 - [ ] Star Trek: The Animated Series
@@ -23574,3 +23568,57 @@
 - [ ] London
 - [x] Paris
 - [ ] Barcelona
+
+#### The first long track speed skating event took place in 1863 in what country?
+
+- [x] Norway
+- [ ] Finland
+- [ ] Russia
+
+#### What restaurant's slogan is "Eatin' Good in the Neighborhood"?
+
+- [ ] McDonald's
+- [x] Applebee's
+- [ ] T.G.I. Friday's
+
+#### Which member of The Byrds was the band's tambourine man?
+
+- [x] Gene Clark
+- [ ] David Crosby
+- [ ] Roger McGuinn
+
+#### Which of these States is farthest West?
+
+- [ ] New York
+- [ ] Illinois
+- [x] California
+
+#### Which of these clothing items did Mister Rogers change into at the beginning of each of his shows?
+
+- [ ] Jacket
+- [ ] Loafers
+- [x] Sneakers
+
+#### Who wrote the novel "Lincoln and the Bardo"?
+
+- [ ] David Foster Wallace
+- [x] George Saunders
+- [ ] Chuck Palahniuk
+
+#### Kenton, TN, Marionville, MO, and Exeter, Ontario all claim to be the hometown of what creature?
+
+- [x] White Squirrel
+- [ ] Bulldog
+- [ ] Sasquatch
+
+#### Which of these clothing items did Mister Rogers change into at the beginning of each of his shows?
+
+- [ ] Jacket
+- [ ] Loafers
+- [x] Sneakers
+
+#### When you do something immediately, you're doing it right off the what?
+
+- [x] Bat
+- [ ] Racket
+- [ ] Stick
