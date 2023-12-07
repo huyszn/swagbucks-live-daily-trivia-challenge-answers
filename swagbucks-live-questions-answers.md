@@ -20047,12 +20047,6 @@
 - [ ] Diving Suit
 - [ ] Chaps
 
-#### What did Mister Rogers change into at the beginning of every episode of his show?
-
-- [x] Sweater
-- [ ] Diving Suit
-- [ ] Chaps
-
 #### Which of the following shows NEVER won the Emmy for Outstanding Entertainment Children’s Series between 1974 and 1984?
 
 - [ ] Star Trek: The Animated Series
@@ -23574,6 +23568,120 @@
 - [ ] London
 - [x] Paris
 - [ ] Barcelona
+
+#### The first long track speed skating event took place in 1863 in what country?
+
+- [x] Norway
+- [ ] Finland
+- [ ] Russia
+
+#### What restaurant's slogan is "Eatin' Good in the Neighborhood"?
+
+- [ ] McDonald's
+- [x] Applebee's
+- [ ] T.G.I. Friday's
+
+#### Which member of The Byrds was the band's tambourine man?
+
+- [x] Gene Clark
+- [ ] David Crosby
+- [ ] Roger McGuinn
+
+#### Which of these States is farthest West?
+
+- [ ] New York
+- [ ] Illinois
+- [x] California
+
+#### Which of these clothing items did Mister Rogers change into at the beginning of each of his shows?
+
+- [ ] Jacket
+- [ ] Loafers
+- [x] Sneakers
+
+#### Who wrote the novel "Lincoln and the Bardo"?
+
+- [ ] David Foster Wallace
+- [x] George Saunders
+- [ ] Chuck Palahniuk
+
+#### Kenton, TN, Marionville, MO, and Exeter, Ontario all claim to be the hometown of what creature?
+
+- [x] White Squirrel
+- [ ] Bulldog
+- [ ] Sasquatch
+
+#### Which of these clothing items did Mister Rogers change into at the beginning of each of his shows?
+
+- [ ] Jacket
+- [ ] Loafers
+- [x] Sneakers
+
+#### When you do something immediately, you're doing it right off the what?
+
+- [x] Bat
+- [ ] Racket
+- [ ] Stick
+
+#### Old Navy is owned by what other clothing chain?
+
+- [x] Gap
+- [ ] H&M
+- [ ] Macy's
+
+#### Which of the following restaurant chains is a buffet?
+
+- [ ] McDonald's
+- [ ] Raising Cane's
+- [x] Golden Corral
+
+#### Bourbon Street is a famous place in what U.S. city?
+
+- [ ] Atlanta
+- [x] New Orleans
+- [ ] Miami
+
+#### As of 2023, what percentage of Earth is covered in permafrost?
+
+- [x] 11%
+- [ ] 3%
+- [ ] 22%
+
+#### Who directed the movie "Inception"?
+
+- [ ] Quentin Tarantino
+- [ ] Martin Scorsese
+- [x] Christopher Nolan
+
+#### What was the first movei to gross $100 million at the box office?
+
+- [ ] The Godfather
+- [x] Jaws
+- [ ] Star Wars
+
+#### What is the highest male voice range in singing?
+
+- [x] Tenor
+- [ ] Baritone
+- [ ] Bass
+
+#### Babe Ruth had to pay a fan to get back his 700th home run ball. How much did he pay?
+
+- [ ] One Cent
+- [x] Twenty Dollars
+- [ ] Ten Thousand Dollars
+
+#### In a frame of bowling, how many total pins are you trying to knock down
+
+- [ ] 1
+- [ ] 5
+- [x] 10
+
+#### What racing game was adapted into a 2023 movie?
+
+- [ ] Need for Speed
+- [x] Gran Turismo
+- [ ] Pole Position
 
 #### The movie "Ruby" is about an undersized kid who wants to play what college sport?
 
