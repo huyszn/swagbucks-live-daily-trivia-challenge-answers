@@ -23742,3 +23742,57 @@
 - [ ] Clubber Lang
 - [ ] Ivan Drago
 - [x] Apollo Creed
+
+#### What popular radio show was incorporated under the name "Dewey, Cheatem & Howe"?
+
+- [x] Car Talk
+- [ ] The Howard Stern Show
+- [ ] Loveline
+
+#### The book "Persepolis" is about growing up in what country?
+
+- [x] Iran
+- [ ] Afghanistan
+- [ ] Israel
+
+#### Which Disney Princess sings "Someday My Prince Will Come"?
+
+- [ ] Cinderella
+- [ ] Aurora
+- [x] Snow White
+
+#### In which century was the first formal Christmas greeting sold?
+
+- [ ] 23rd
+- [ ] 30th
+- [x] 19th
+
+#### In the PlayStation game, who was the original creator of the Twisted Metal tournament?
+
+- [x] Calypso
+- [ ] Darkside
+- [ ] Sweet Tooth
+
+#### Which of the following athletes is known for basketball?
+
+- [ ] Connor McGregor
+- [ ] Ted Williams
+- [x] Shaquile O'Neal
+
+#### Tilapia is a type of what?
+
+- [ ] Flower
+- [x] Fish
+- [ ] Exercise
+
+#### What two gasses make up the main part of the air we breathe?
+
+- [ ] Argon and Neon
+- [x] Nitrogen and Oxygen
+- [ ] Krypton and Radon
+
+#### What catchphrase does the Kool-Aid Man shout when he appears?
+
+- [ ] Bam!
+- [x] Oh yeah!
+- [ ] Excelsior!
