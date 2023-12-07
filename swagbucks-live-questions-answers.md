@@ -23682,3 +23682,63 @@
 - [ ] Need for Speed
 - [x] Gran Turismo
 - [ ] Pole Position
+
+#### The movie "Ruby" is about an undersized kid who wants to play what college sport?
+
+- [x] Football
+- [ ] Baseball
+- [ ] Basketball
+
+#### Which of the following is NOT one of Patches O'Houlihan's 5 D's of Dodgeball?
+
+- [ ] Duck
+- [ ] Dive
+- [x] Decrease
+
+#### What classic sports comedy has Bill Murray's Carl Spackler talking about an encounter with the Dalai Lama?
+
+- [ ] Meatballs
+- [x] Caddyshack
+- [ ] Foxcatcher
+
+#### Which of the following sports movies stars Adam Sandler?
+
+- [x] The Waterboy
+- [ ] Champions
+- [ ] American Underdog
+
+#### In "Little Big League", which MLB team does Billy Haywood inherit?
+
+- [ ] Chicago Cubs
+- [x] Minnesota Twins
+- [ ] Cleveland Indians
+
+#### In "Moneyball", who plays Oakland A's general manager Billy Beane?
+
+- [x] Brad Pitt
+- [ ] Johah Hill
+- [ ] Phillip Seymour Hoffman
+
+#### In "Rookie of the Year", who teaches Henry the "floater" pitch?
+
+- [ ] His father
+- [x] His mother
+- [ ] His grandfather
+
+#### Who starred in both "Tin Cup" and "Bull Durham"?
+
+- [ ] Tim Robbins
+- [ ] Kurt Russel
+- [x] Kevin Costner
+
+#### Which hockey movie features the Hanson Brothers?
+
+- [x] Slapshot
+- [ ] Mystery, Alaska
+- [ ] Goon
+
+#### In "Rocky" and "Rocky II", who does Rocky box?
+
+- [ ] Clubber Lang
+- [ ] Ivan Drago
+- [x] Apollo Creed
