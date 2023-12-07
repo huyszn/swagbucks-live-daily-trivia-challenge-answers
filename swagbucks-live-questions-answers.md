@@ -23622,3 +23622,63 @@
 - [x] Bat
 - [ ] Racket
 - [ ] Stick
+
+#### Old Navy is owned by what other clothing chain?
+
+- [x] Gap
+- [ ] H&M
+- [ ] Macy's
+
+#### Which of the following restaurant chains is a buffet?
+
+- [ ] McDonald's
+- [ ] Raising Cane's
+- [x] Golden Corral
+
+#### Bourbon Street is a famous place in what U.S. city?
+
+- [ ] Atlanta
+- [x] New Orleans
+- [ ] Miami
+
+#### As of 2023, what percentage of Earth is covered in permafrost?
+
+- [x] 11%
+- [ ] 3%
+- [ ] 22%
+
+#### Who directed the movie "Inception"?
+
+- [ ] Quentin Tarantino
+- [ ] Martin Scorsese
+- [x] Christopher Nolan
+
+#### What was the first movei to gross $100 million at the box office?
+
+- [ ] The Godfather
+- [x] Jaws
+- [ ] Star Wars
+
+#### What is the highest male voice range in singing?
+
+- [x] Tenor
+- [ ] Baritone
+- [ ] Bass
+
+#### Babe Ruth had to pay a fan to get back his 700th home run ball. How much did he pay?
+
+- [ ] One Cent
+- [x] Twenty Dollars
+- [ ] Ten Thousand Dollars
+
+#### In a frame of bowling, how many total pins are you trying to knock down
+
+- [ ] 1
+- [ ] 5
+- [x] 10
+
+#### What racing game was adapted into a 2023 movie?
+
+- [ ] Need for Speed
+- [x] Gran Turismo
+- [ ] Pole Position
