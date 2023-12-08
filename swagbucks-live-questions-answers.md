@@ -23742,3 +23742,111 @@
 - [ ] Clubber Lang
 - [ ] Ivan Drago
 - [x] Apollo Creed
+
+#### What popular radio show was incorporated under the name "Dewey, Cheatem & Howe"?
+
+- [x] Car Talk
+- [ ] The Howard Stern Show
+- [ ] Loveline
+
+#### The book "Persepolis" is about growing up in what country?
+
+- [x] Iran
+- [ ] Afghanistan
+- [ ] Israel
+
+#### Which Disney Princess sings "Someday My Prince Will Come"?
+
+- [ ] Cinderella
+- [ ] Aurora
+- [x] Snow White
+
+#### In which century was the first formal Christmas greeting sold?
+
+- [ ] 23rd
+- [ ] 30th
+- [x] 19th
+
+#### In the PlayStation game, who was the original creator of the Twisted Metal tournament?
+
+- [x] Calypso
+- [ ] Darkside
+- [ ] Sweet Tooth
+
+#### Which of the following athletes is known for basketball?
+
+- [ ] Connor McGregor
+- [ ] Ted Williams
+- [x] Shaquile O'Neal
+
+#### Tilapia is a type of what?
+
+- [ ] Flower
+- [x] Fish
+- [ ] Exercise
+
+#### What two gasses make up the main part of the air we breathe?
+
+- [ ] Argon and Neon
+- [x] Nitrogen and Oxygen
+- [ ] Krypton and Radon
+
+#### What catchphrase does the Kool-Aid Man shout when he appears?
+
+- [ ] Bam!
+- [x] Oh yeah!
+- [ ] Excelsior!
+
+#### What instrument did Paul McCartney primarily play for The Beatles?
+
+- [x] Bass
+- [ ] Trumpet
+- [ ] Accordion
+
+#### In 1964, what became the first Beatle song to hit #1 on the Billboard Hot 100?
+
+- [ ] Hey Jude
+- [ ] Paperback Writer
+- [x] I Want To Hold Your Hand
+
+#### Who performed the guitar solo for "While My Guitar Gently Weeps"?
+
+- [x] Eric Calpton
+- [ ] Keith Richards
+- [ ] George Harrison
+
+#### What keyboardist was one of the people referred to as "The Fifth Beatle"?
+
+- [ ] Stevie Wonder
+- [ ] Ray Charles
+- [x] Billy Preston
+
+#### What is the name of the legendary studio where the Beatles recorded 190 of their songs?
+
+- [ ] Trident Studio
+- [x] Abbey Road
+- [ ] Olympic Sound
+
+#### Pete Best was fired from The Beatles on August 16th, 1962. Who was hired to replace him?
+
+- [ ] Stu Sutcliffle
+- [ ] George Harrison
+- [x] Ringo Starr
+
+#### What British rock guitarist was called "The Teacher" by the Beatles?
+
+- [x] Tony Sheridan
+- [ ] Bert Weedon
+- [ ] Marty Wild
+
+#### According to the Beatles song, who picks up the rice in a church where a wedding has been?
+
+- [ ] Sexy Sadie
+- [x] Eleanor Rigby
+- [ ] Maxwell
+
+#### Which Beatles song was turned into an animated film?
+
+- [ ] Magical Mystery Tour
+- [ ] Back in the USSR
+- [x] Yellow Submarine
