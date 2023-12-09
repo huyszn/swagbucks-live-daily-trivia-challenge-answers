@@ -23850,3 +23850,111 @@
 - [ ] Magical Mystery Tour
 - [ ] Back in the USSR
 - [x] Yellow Submarine
+
+#### Approximately how long is an eon?
+
+- [ ] 6 months
+- [ ] 10 years
+- [x] 1 billion years
+
+#### On a molecular level, which two liquids do not mix?
+
+- [ ] Shampoo and Conditioner
+- [ ] Rum and Coke
+- [x] Oil and Water
+
+#### In a theater, what is the term for a lamp projecting a narrow beam directly onto a place or person?
+
+- [ ] Footlight
+- [x] Spotlight
+- [ ] Scrim
+
+#### What connects muscles to bones?
+
+- [x] Tendons
+- [ ] Cartilage
+- [ ] Sputum
+
+#### In a theater, what is the term for a lamp projecting a narrow beam directly onto a place or person?
+
+- [ ] Footlight
+- [x] Spotlight
+- [ ] Scrim
+
+#### What group serves as the house band for The Tonight Show with Jimmy Fallon?
+
+- [ ] Marcoon 5
+- [x] The Roots
+- [ ] Earth, Wind, & Fire
+
+#### Where does is term "Charley Horse" believed to come from?
+
+- [ ] Buckingham Palace
+- [ ] Prison
+- [x] Baseball
+
+#### What is the most populous city in the world?
+
+- [x] Shanghai, China
+- [ ] Anchorage, Alaska
+- [ ] Manchester, England
+
+#### What is an alternative name for Bigfoot?
+
+- [ ] Summersquatch
+- [x] Sasquatch
+- [ ] Squatch the Beef
+
+#### Which of these movie ratings is the most restrictive?
+
+- [ ] G
+- [ ] PG-13
+- [x] NC-17
+
+#### What Fast Food chain started in Miami, Florida?
+
+- [ ] Sbarro's
+- [x] Burger King
+- [ ] Chipotle Mexican Grill
+
+#### What do construction workers wear to protect their heads?
+
+- [x] Hard hats
+- [ ] Top hats
+- [ ] Cowboy hats
+
+#### Who hosted the Tonight Show for the shortest amount of time?
+
+- [ ] Conan O'Brien
+- [x] Jack Lescoulie
+- [ ] Jack Paar
+
+#### Toys "R" Us is widely credited with creating what business concept?
+
+- [x] Category Killer
+- [ ] Funderful
+- [ ] Big-Box Store
+
+#### What nutrient, found in milk, is said to be good for your bones?
+
+- [x] Calcium
+- [ ] Niacin
+- [ ] Vitamin C
+
+#### When you "Hit the Sack", what are you about to do?
+
+- [x] Sleep
+- [ ] Run
+- [ ] Paint
+
+#### What sauce is normally poured over turkey at Thanksgiving?
+
+- [x] Gravy
+- [ ] Corn Syrup
+- [ ] Apple Cider Vinegear
+
+#### Vension refers to meat that comes from what animal?
+
+- [x] Deer
+- [ ] Bull
+- [ ] Chicken
