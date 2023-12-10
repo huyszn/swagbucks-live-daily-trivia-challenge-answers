@@ -23958,3 +23958,51 @@
 - [x] Deer
 - [ ] Bull
 - [ ] Chicken
+
+#### What Encanto song topped the Billboard Hot 100 in 2022?
+
+- [ ] The Family Madrigal
+- [x] We Don't Talk About Bruno
+- [ ] Surface Pressure
+
+#### Which of these is NOT on the "Top 10 Most Expensive Stamps In the World" list?
+
+- [ ] Red Mercury
+- [ ] Hawaiian Missionaries
+- [x] Inverted Benny
+
+#### Which of these movies is set the earliest?
+
+- [x] Kidnapped
+- [ ] Tonka
+- [ ] Westward Ho, The Wagons!
+
+#### Who won pop vocal Grammys in 1987, 1993, and 1999?
+
+- [ ] Prince
+- [x] Sting
+- [ ] Madoona
+
+#### Peter Parker fights crime as what friendly neighborhood superhero?
+
+- [ ] Daredevil
+- [ ] Blue Beetle
+- [x] Spider-Man
+
+#### Which of these would most likely be a cetologist's favorite novel?
+
+- [ ] Boys of Brazil
+- [x] Moby Dick
+- [ ] Jurassic Park
+
+#### What is the term for something that is worthless but appears to have value?
+
+- [x] Boondoggle
+- [ ] Boon
+- [ ] Doggie
+
+#### The Super Soaker is a version of what other popular toy?
+
+- [ ] Slip n' Slide
+- [x] Water pistol
+- [ ] Splash pad
