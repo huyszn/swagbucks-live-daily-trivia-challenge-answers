@@ -24006,3 +24006,51 @@
 - [ ] Slip n' Slide
 - [x] Water pistol
 - [ ] Splash pad
+
+#### What is the term for the action of one suface or object rubbing against another?
+
+- [x] Friciton
+- [ ] Inertia
+- [ ] Gravity
+
+#### Which of these companies was founded first?
+
+- [ ] Memorex
+- [ ] Hardee's
+- [x] Hi-C
+
+#### What is the term for the words used to describe the relative locations of things?
+
+- [ ] Proposal
+- [x] Prepositions
+- [ ] Pre-Schoolers
+
+#### Which Ron Popeil invention was the first to receive an infomercial?
+
+- [ ] The Pocket Fisherman
+- [ ] The Veg-O-Matic
+- [x] The Chop-O-Matic
+
+#### What is the term for a word used to identify the name of a person, place, animal or thing?
+
+- [ ] Adjective
+- [x] Noun
+- [ ] Verb
+
+#### Which of these horror films is about zombies?
+
+- [ ] The Omen
+- [x] Night of the Living Dead
+- [ ] The Thing
+
+#### Sushi generally comes wrapped in what substance?
+
+- [ ] Hibiscus
+- [x] Seaweed
+- [ ] Cornmeal
+
+#### The Bedazzler was sold as a way to attach rhinestones to what?
+
+- [ ] Your car
+- [ ] Your head
+- [x] Your clothing
