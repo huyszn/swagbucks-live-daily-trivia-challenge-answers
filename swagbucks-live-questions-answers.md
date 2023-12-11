@@ -24054,3 +24054,39 @@
 - [ ] Your car
 - [ ] Your head
 - [x] Your clothing
+
+#### The Sugarhill Gang had the first rap single to chart on the Billboard Top 40. What was it?
+
+- [ ] Fight For Your Right To Party
+- [ ] Mama Said Knock You Out
+- [x] Rapper's Delight
+
+#### What is the term for the point where two rivers come together to form a larger stream?
+
+- [ ] Water-join-thingy
+- [ ] Pond
+- [x] Confluence
+
+#### What telescope recently delivered the deepest and sharpest infrared image of the distant universe to date?
+
+- [x] James Webb Telescope
+- [ ] Hubble Telescope
+- [ ] Spitzer Space Telescope
+
+#### Which Smurf always has a flower in their hat?
+
+- [ ] Smurfette
+- [x] Vanity Smurf
+- [ ] Wild Smurf
+
+#### What toy is made by Duncan?
+
+- [ ] Jump rope
+- [ ] Baseball gloves
+- [x] Yo-Yo
+
+#### Which of the following is a trading card game?
+
+- [ ] Milk Caps
+- [ ] Parcheesi
+- [x] Yu-Gi-Oh!
