@@ -24090,3 +24090,45 @@
 - [ ] Milk Caps
 - [ ] Parcheesi
 - [x] Yu-Gi-Oh!
+
+#### The Panama Canal connects the Atlantic Ocean to what other ocean?
+
+- [x] Pacific Ocean
+- [ ] Indian Ocean
+- [ ] Arctic Ocean
+
+#### If Dracula was a vampire bat what would he want to do to your blood?
+
+- [ ] Suck it
+- [ ] Chew it
+- [x] Lick it
+
+#### The Suffragettes were focused on what cause?
+
+- [x] Voting Rights
+- [ ] Traffic Laws
+- [ ] Food Purity
+
+#### Reed Richards, Sue Richards, Johnny Storm and Ben Grimm fight crime as what superhero group?
+
+- [ ] Greak Lakes Avengers
+- [x] Fantasic Four
+- [ ] Powerpuff Girls
+
+#### When you're going to have a good time, you would most likely say you're painting the town what?
+
+- [ ] Beigue
+- [x] Red
+- [ ] White
+
+#### Which of the following letters does not appear on the periodic table?
+
+- [ ] W
+- [x] J
+- [ ] V
+
+#### Mary Lou Retton scored Olympic gold in which year?
+
+- [x] 1984
+- [ ] 1996
+- [ ] 2012
