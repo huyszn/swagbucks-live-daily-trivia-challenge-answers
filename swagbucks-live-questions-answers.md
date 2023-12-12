@@ -24127,8 +24127,44 @@
 - [x] J
 - [ ] V
 
-#### Mary Lou Retton scored Olympic gold in which year?
+#### When Andy became Burt Macklin, who did April become?
 
-- [x] 1984
-- [ ] 1996
-- [ ] 2012
+- [ ] Vivian DeCrime
+- [x] Janet Snakehole
+- [ ] Arianna Putrenz
+
+#### Harvey Levin is the founder of what celebrity gossip website?
+
+- [ ] FYI
+- [x] TMZ
+- [ ] OMG
+
+#### Which of these is NOT a Dr. Seusss book?
+
+- [ ] If I Ran The Zoo
+- [ ] McElligott's Pool
+- [x] On Beyond Panda
+
+#### Who was the first U.S. president to travel abroad while in office?
+
+- [ ] Franklin Roosevelt
+- [x] Theodore Roosevelt
+- [ ] Woodrow Wilson
+
+#### What breed of dog is the standard Monopoly token?
+
+- [ ] Yorkshire Terrier
+- [ ] Wire Terrier
+- [x] Scottish Terrier
+
+#### Which of these games requires a ball?
+
+- [ ] Hopscotch
+- [ ] Simon Says
+- [x] Racquetball
+
+#### A Universal exec wanted to change the title of Back to the Future. What was his proposed title?
+
+- [ ] How I Met My Parents
+- [ ] Out of Time
+- [x] Spaceman from Pluto
