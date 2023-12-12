@@ -24006,3 +24006,129 @@
 - [ ] Slip n' Slide
 - [x] Water pistol
 - [ ] Splash pad
+
+#### What is the term for the action of one suface or object rubbing against another?
+
+- [x] Friciton
+- [ ] Inertia
+- [ ] Gravity
+
+#### Which of these companies was founded first?
+
+- [ ] Memorex
+- [ ] Hardee's
+- [x] Hi-C
+
+#### What is the term for the words used to describe the relative locations of things?
+
+- [ ] Proposal
+- [x] Prepositions
+- [ ] Pre-Schoolers
+
+#### Which Ron Popeil invention was the first to receive an infomercial?
+
+- [ ] The Pocket Fisherman
+- [ ] The Veg-O-Matic
+- [x] The Chop-O-Matic
+
+#### What is the term for a word used to identify the name of a person, place, animal or thing?
+
+- [ ] Adjective
+- [x] Noun
+- [ ] Verb
+
+#### Which of these horror films is about zombies?
+
+- [ ] The Omen
+- [x] Night of the Living Dead
+- [ ] The Thing
+
+#### Sushi generally comes wrapped in what substance?
+
+- [ ] Hibiscus
+- [x] Seaweed
+- [ ] Cornmeal
+
+#### The Bedazzler was sold as a way to attach rhinestones to what?
+
+- [ ] Your car
+- [ ] Your head
+- [x] Your clothing
+
+#### The Sugarhill Gang had the first rap single to chart on the Billboard Top 40. What was it?
+
+- [ ] Fight For Your Right To Party
+- [ ] Mama Said Knock You Out
+- [x] Rapper's Delight
+
+#### What is the term for the point where two rivers come together to form a larger stream?
+
+- [ ] Water-join-thingy
+- [ ] Pond
+- [x] Confluence
+
+#### What telescope recently delivered the deepest and sharpest infrared image of the distant universe to date?
+
+- [x] James Webb Telescope
+- [ ] Hubble Telescope
+- [ ] Spitzer Space Telescope
+
+#### Which Smurf always has a flower in their hat?
+
+- [ ] Smurfette
+- [x] Vanity Smurf
+- [ ] Wild Smurf
+
+#### What toy is made by Duncan?
+
+- [ ] Jump rope
+- [ ] Baseball gloves
+- [x] Yo-Yo
+
+#### Which of the following is a trading card game?
+
+- [ ] Milk Caps
+- [ ] Parcheesi
+- [x] Yu-Gi-Oh!
+
+#### The Panama Canal connects the Atlantic Ocean to what other ocean?
+
+- [x] Pacific Ocean
+- [ ] Indian Ocean
+- [ ] Arctic Ocean
+
+#### If Dracula was a vampire bat what would he want to do to your blood?
+
+- [ ] Suck it
+- [ ] Chew it
+- [x] Lick it
+
+#### The Suffragettes were focused on what cause?
+
+- [x] Voting Rights
+- [ ] Traffic Laws
+- [ ] Food Purity
+
+#### Reed Richards, Sue Richards, Johnny Storm and Ben Grimm fight crime as what superhero group?
+
+- [ ] Greak Lakes Avengers
+- [x] Fantasic Four
+- [ ] Powerpuff Girls
+
+#### When you're going to have a good time, you would most likely say you're painting the town what?
+
+- [ ] Beigue
+- [x] Red
+- [ ] White
+
+#### Which of the following letters does not appear on the periodic table?
+
+- [ ] W
+- [x] J
+- [ ] V
+
+#### Mary Lou Retton scored Olympic gold in which year?
+
+- [x] 1984
+- [ ] 1996
+- [ ] 2012
