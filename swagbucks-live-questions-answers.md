@@ -24228,3 +24228,57 @@
 - [ ] Distance
 - [ ] Depth
 - [x] Temperature
+
+#### What was the first video game console to have an RPG?
+
+- [ ] NES
+- [x] Atari 2600
+- [ ] ColecoVision
+
+#### A VW Beetle was once traded for partial ownership of which company?
+
+- [x] Domino's Pizza
+- [ ] Pizza Hut
+- [ ] Papa John's
+
+#### Paddy's Pub is the central location of what long-running sitcom?
+
+- [ ] Cheers
+- [ ] Night Court
+- [x] It's Always Sunny in Philadelphia
+
+#### Tinky Winky, Dipsy, Lala, and Po are collectively known as what?
+
+- [ ] The Warriors
+- [ ] The Get-Along Gang
+- [x] The Teletubbies
+
+#### Which of the following modern cities is not located in the "Fertile Crescent"?
+
+- [x] Riyadh
+- [ ] Kermanshah
+- [ ] Haifa
+
+#### What historical figure died while trying to freeze chicken?
+
+- [x] Francis Bacon
+- [ ] George Washington
+- [ ] Genghis Khan
+
+#### How many NBA titles did Michael Jordan win as a player?
+
+- [x] 6
+- [ ] 70
+- [ ] 0
+
+#### Copenhagen is the capital of what European nation?
+
+- [ ] Finland
+- [x] Denmark
+- [ ] Sweden
+
+#### Who recorded the album "Who made who?"
+
+- [ ] The Who
+- [x] AC/DC
+- [ ] Buffalo Springfield
