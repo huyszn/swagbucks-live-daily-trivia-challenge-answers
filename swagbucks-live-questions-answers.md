@@ -24168,3 +24168,63 @@
 - [ ] How I Met My Parents
 - [ ] Out of Time
 - [x] Spaceman from Pluto
+
+#### Where are you supposed to put your tooth if you want the Tooth Fairy to find it?
+
+- [x] Under your pillow
+- [ ] In a safe deposit box
+- [ ] Taped to your forehead
+
+#### A Universal exec wanted to change the title of Back to the Future. What was his proposed title?
+
+- [ ] How I Met My Parents
+- [ ] Out of Time
+- [x] Spaceman from Pluto
+
+#### French Fries are commonly made with which starch?
+
+- [ ] Rice
+- [x] Potatoes
+- [ ] Bread
+
+#### The Magna Carta, signed in 1215, limited the power of which English monarch?
+
+- [ ] Queen Elizabeth II
+- [x] King John
+- [ ] King Charlies III
+
+#### Since 1943, a board from what game has been aboard the U.S. Navy's oldest fast-attack submarine in the Pacific Fleet?
+
+- [ ] Battleship
+- [x] Cribbage
+- [ ] Parcheesi
+
+#### In which movie does Arnold Schwarzenegger say "Hasta la vista, baby."?
+
+- [x] Terminator 2: Judgment Day
+- [ ] Predator
+- [ ] Twins
+
+#### Who is known for the song "The Devil Went Down to Georgia"?
+
+- [ ] Shania Twain
+- [x] Charlie Daniels Band
+- [ ] Darius Rucker
+
+#### According to Guinness, where would you go to visit the world's oldest restaurant?
+
+- [ ] England
+- [ ] China
+- [x] Spain
+
+#### In the game of Perfection, what happens when the timer runs out?
+
+- [ ] There is no timer
+- [x] The board pops up
+- [ ] Extra pieces appears
+
+#### Celsius, Fahrenheit, and Kelvin are all systems of measurement for what?
+
+- [ ] Distance
+- [ ] Depth
+- [x] Temperature
