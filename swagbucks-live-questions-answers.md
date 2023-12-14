@@ -24282,3 +24282,51 @@
 - [ ] The Who
 - [x] AC/DC
 - [ ] Buffalo Springfield
+
+#### In "The Polar Express". what reference to Back to the Future can be seen in the Engine Room?
+
+- [ ] A Gremlin
+- [ ] A Batman doll
+- [x] A Flux Capacitor
+
+#### What electronics company invented the TV remote control?
+
+- [ ] RCA
+- [ ] Magnavox
+- [x] Zenith
+
+#### What "E.R." star proudly admitted to using a Flowbee to cut his own hair?
+
+- [ ] Brad Pitt
+- [ ] Matt Damon
+- [x] George Clooney
+
+#### Low-seeded teams that do well in the tournament are referred to as which Disney Princess?
+
+- [x] Cinderella
+- [ ] Sleeping Beauty
+- [ ] Snow White
+
+#### Who would be most likely to use Cryptophasia?
+
+- [ ] James Bond
+- [x] Nikki and Brie Bella
+- [ ] A Bigfoot Hunter
+
+#### The city of Jerusalem sits in which country?
+
+- [ ] Jordan
+- [ ] Egypt
+- [x] Israel
+
+#### What is the name of the hero in the Legend of Zelda series?
+
+- [ ] Kid Icarus
+- [ ] Sammus
+- [x] Link
+
+#### In which city was the Second City comedy theater born?
+
+- [ ] Miami
+- [ ] Seattle
+- [x] Chicago
