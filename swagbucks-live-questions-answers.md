@@ -24330,3 +24330,63 @@
 - [ ] Miami
 - [ ] Seattle
 - [x] Chicago
+
+#### Chapstick makes skin care products for what body part?
+
+- [x] Lips
+- [ ] Feet
+- [ ] Back
+
+#### What does the P in POTUS stand for?
+
+- [ ] Planters
+- [ ] Pizza
+- [x] President
+
+#### Fritos are chips made from what base?
+
+- [x] Corn
+- [ ] Wheat
+- [ ] Flax Seeds
+
+#### The movie "Underworld" was pitched as a combination of "Blade Runner", "The Howling", and what third movie?
+
+- [ ] The Matrix
+- [x] Romeo and Juliet
+- [ ] Star Wars
+
+#### Most Merry-Go-Rounds feature rideable statues of what animal?
+
+- [ ] Ant
+- [ ] Camel
+- [x] Horse
+
+#### Chuck Connors was the first professional athlete to accomplish what feat?
+
+- [x] Shatter a backboard
+- [ ] Get a hole in one
+- [ ] Score a touchdown
+
+#### In 2020, which sports league went into a "Bubble" at Disney World to finish their season?
+
+- [ ] NHL
+- [x] NBA
+- [ ] MLS
+
+#### In 1997, two Chicago news anchors quit due to their station hiring which controversial host?
+
+- [ ] Mauty Povich
+- [ ] Morton Downey Jr.
+- [x] Jerry Springer
+
+#### Who is known for the song "Purple Rain"?
+
+- [ ] David Bowie
+- [x] Prince
+- [ ] Jimi Hendrix
+
+#### What Shark movie got a theatrical sequel in the summer of 2023?
+
+- [x] The Meg
+- [ ] Jaws
+- [ ] Sharknado
