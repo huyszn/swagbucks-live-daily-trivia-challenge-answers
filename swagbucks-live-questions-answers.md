@@ -24390,3 +24390,51 @@
 - [x] The Meg
 - [ ] Jaws
 - [ ] Sharknado
+
+#### What is the only country to ever drop an atomic bomb?
+
+- [ ] Italy
+- [ ] England
+- [x] The United States
+
+#### Which TV network uses a Peacock as their logo?
+
+- [x] NBC
+- [ ] The Golf Channel
+- [ ] ESPN 3
+
+#### Gumbo is most closely associated with which U.S. State?
+
+- [ ] New York
+- [ ] Nevada
+- [x] Louisiana
+
+#### Former MLB catcher Harry Chiti holds what distinction?
+
+- [ ] First player to hit a HR in both leagues
+- [x] First player teaded for myself
+- [ ] Caught 4 perfect games
+
+#### In "Silver Linings Playbook", what NFL team does Pat Solitano root for?
+
+- [x] Philadelphia Eagles
+- [ ] Dallas Cowboys
+- [ ] New York Giants
+
+#### What has been the location for the majority of pro bowls?
+
+- [x] Hawaii
+- [ ] Alaska
+- [ ] Russia
+
+#### What is unique about the Monte Kaolino ski resort in Hirschau, Germany?
+
+- [x] The mountain is sand
+- [ ] It's on a glacier
+- [ ] It's for pets
+
+#### In Cool Hand Luke, what character says "What we've got here is failure to communicate"?
+
+- [ ] Luke
+- [x] Captain
+- [ ] Dragline
