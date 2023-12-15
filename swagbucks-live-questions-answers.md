@@ -24438,3 +24438,63 @@
 - [ ] Luke
 - [x] Captain
 - [ ] Dragline
+
+#### In "Home Alone", what name does Marvin give to himself and his parther in crime Harry?
+
+- [x] The Wet Bandits
+- [ ] The Diry Bandits
+- [ ] Smokey and the Bandit
+
+#### In "Elf", what does Buddy say is the best way to spread Christmas cheer?
+
+- [ ] Giving gifts throughout the year
+- [x] Singing loud for all to hear
+- [ ] Dancing around far and near
+
+#### Bill Murray's "Scrooged" is an adaptation of what other Christmas tale?
+
+- [ ] How the Grinch Stole Christmas
+- [x] It's A Wonderful Life
+- [ ] A Christmas Carol
+
+#### In "Santa Claus: The Movie", what Christmas object does the villain manufacture that makes people fly?
+
+- [ ] Gingerbread
+- [x] Candy Canes
+- [ ] Cookies
+
+#### Who wore a fat suit for their scenes in "Love, Actually"?
+
+- [ ] Colin Firth
+- [ ] Martin Freman
+- [x] Emma Thompson
+
+#### In "National Lampoon's Christmas Vacation", whose RV waste later leads to an explosion?
+
+- [x] Cousin Eddie
+- [ ] Clark
+- [ ] The neighbors
+
+#### In "The Muppet Christmas Carol" who plays the role of Charles Dickens?
+
+- [ ] Kermit the Frog
+- [ ] Fozzie Bear
+- [x] Gonzo
+
+#### Which of the following clasic Christmas movies was released in May?
+
+- [x] Miracle on 34th Street (1947)
+- [ ] A Christmas Story (1983)
+- [ ] The Nightmare Before Christmas (1997)
+
+#### In "It's A Wonderful Life", what happens every time a bell rings?
+
+- [ ] It's Dinnertime
+- [x] An angel gets its wings
+- [ ] The Christmas spirit visits
+
+#### Who plays multiple roles in "The Polar Express"?
+
+- [ ] Jim Carrey
+- [ ] Michael Keaton
+- [x] Tom Hanks
