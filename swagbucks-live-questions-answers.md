@@ -24438,3 +24438,147 @@
 - [ ] Luke
 - [x] Captain
 - [ ] Dragline
+
+#### In "Home Alone", what name does Marvin give to himself and his parther in crime Harry?
+
+- [x] The Wet Bandits
+- [ ] The Diry Bandits
+- [ ] Smokey and the Bandit
+
+#### In "Elf", what does Buddy say is the best way to spread Christmas cheer?
+
+- [ ] Giving gifts throughout the year
+- [x] Singing loud for all to hear
+- [ ] Dancing around far and near
+
+#### Bill Murray's "Scrooged" is an adaptation of what other Christmas tale?
+
+- [ ] How the Grinch Stole Christmas
+- [x] It's A Wonderful Life
+- [ ] A Christmas Carol
+
+#### In "Santa Claus: The Movie", what Christmas object does the villain manufacture that makes people fly?
+
+- [ ] Gingerbread
+- [x] Candy Canes
+- [ ] Cookies
+
+#### Who wore a fat suit for their scenes in "Love, Actually"?
+
+- [ ] Colin Firth
+- [ ] Martin Freman
+- [x] Emma Thompson
+
+#### In "National Lampoon's Christmas Vacation", whose RV waste later leads to an explosion?
+
+- [x] Cousin Eddie
+- [ ] Clark
+- [ ] The neighbors
+
+#### In "The Muppet Christmas Carol" who plays the role of Charles Dickens?
+
+- [ ] Kermit the Frog
+- [ ] Fozzie Bear
+- [x] Gonzo
+
+#### Which of the following clasic Christmas movies was released in May?
+
+- [x] Miracle on 34th Street (1947)
+- [ ] A Christmas Story (1983)
+- [ ] The Nightmare Before Christmas (1997)
+
+#### In "It's A Wonderful Life", what happens every time a bell rings?
+
+- [ ] It's Dinnertime
+- [x] An angel gets its wings
+- [ ] The Christmas spirit visits
+
+#### Who plays multiple roles in "The Polar Express"?
+
+- [ ] Jim Carrey
+- [ ] Michael Keaton
+- [x] Tom Hanks
+
+#### What movie series has Jedi using "The Force"?
+
+- [x] Star Wars
+- [ ] Star Trek
+- [ ] Starship Troopers
+
+#### Which Illinois city did NOT host a Lincoln-Douglas debate?
+
+- [x] Springfield
+- [ ] Charleston
+- [ ] Ottawa
+
+#### In season 7 of Seinfeld, how does George's fiance die?
+
+- [ ] Crossing the street
+- [x] Licking Envelopes
+- [ ] Riding an elevator
+
+#### Double Dutch is a game that requires what equipment?
+
+- [ ] Jungle Gym
+- [ ] Kickball
+- [x] Jump rope
+
+#### What is the name of the dog Garfield lives with?
+
+- [ ] Arlene
+- [ ] Nermal
+- [x] Odie
+
+#### McKinely Morganfield is the birthname of what music personality?
+
+- [ ] Bon Iver
+- [x] Muddy Waters
+- [ ] Skrillex
+
+#### What show holds the Guinness World Record for longest-running soap opera in the United States?
+
+- [ ] Love of Life
+- [ ] Valiant Lady
+- [x] The Guiding Light
+
+#### Baja Blast is an exclusive flavor of what soft drink?
+
+- [ ] 7-Up
+- [ ] Pibb Xtra
+- [x] Mountain Dew
+
+#### A cartoon rabbit is constantly being denied a bowl of what cereal?
+
+- [ ] Fruity Pebbles
+- [ ] Cocoa Pebbles
+- [x] Trix
+
+#### While filming "Gangs of NEw York", whose music did Daniel Day Lewis claim he listened to while on set?
+
+- [ ] Mozart
+- [ ] Jay-Z
+- [x] Eminem
+
+#### Which of these foods is unsafe to eat without cooking?
+
+- [ ] Apples
+- [ ] Carrots
+- [x] Chicken
+
+#### What are the witches from "Hocus Pocus" named?
+
+- [ ] The Sandstorm Sisters
+- [x] The Sanderson Sisters
+- [ ] The Sizzler Sisters
+
+#### Sir Ian Fleming created what character?
+
+- [ ] Sherlock Holmes
+- [ ] Jessica Fletcher
+- [x] James Bond
+
+#### Steve Wozniak started submitting his name backwards when Nintendo Power refused to print his scores for what game>
+
+- [ ] Super Mario Bros
+- [ ] Metroid
+- [x] Tetris
