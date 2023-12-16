@@ -24498,3 +24498,87 @@
 - [ ] Jim Carrey
 - [ ] Michael Keaton
 - [x] Tom Hanks
+
+#### What movie series has Jedi using "The Force"?
+
+- [x] Star Wars
+- [ ] Star Trek
+- [ ] Starship Troopers
+
+#### Which Illinois city did NOT host a Lincoln-Douglas debate?
+
+- [x] Springfield
+- [ ] Charleston
+- [ ] Ottawa
+
+#### In season 7 of Seinfeld, how does George's fiance die?
+
+- [ ] Crossing the street
+- [x] Licking Envelopes
+- [ ] Riding an elevator
+
+#### Double Dutch is a game that requires what equipment?
+
+- [ ] Jungle Gym
+- [ ] Kickball
+- [x] Jump rope
+
+#### What is the name of the dog Garfield lives with?
+
+- [ ] Arlene
+- [ ] Nermal
+- [x] Odie
+
+#### McKinely Morganfield is the birthname of what music personality?
+
+- [ ] Bon Iver
+- [x] Muddy Waters
+- [ ] Skrillex
+
+#### What show holds the Guinness World Record for longest-running soap opera in the United States?
+
+- [ ] Love of Life
+- [ ] Valiant Lady
+- [x] The Guiding Light
+
+#### Baja Blast is an exclusive flavor of what soft drink?
+
+- [ ] 7-Up
+- [ ] Pibb Xtra
+- [x] Mountain Dew
+
+#### A cartoon rabbit is constantly being denied a bowl of what cereal?
+
+- [ ] Fruity Pebbles
+- [ ] Cocoa Pebbles
+- [x] Trix
+
+#### While filming "Gangs of NEw York", whose music did Daniel Day Lewis claim he listened to while on set?
+
+- [ ] Mozart
+- [ ] Jay-Z
+- [x] Eminem
+
+#### Which of these foods is unsafe to eat without cooking?
+
+- [ ] Apples
+- [ ] Carrots
+- [x] Chicken
+
+#### What are the witches from "Hocus Pocus" named?
+
+- [ ] The Sandstorm Sisters
+- [x] The Sanderson Sisters
+- [ ] The Sizzler Sisters
+
+#### Sir Ian Fleming created what character?
+
+- [ ] Sherlock Holmes
+- [ ] Jessica Fletcher
+- [x] James Bond
+
+#### Steve Wozniak started submitting his name backwards when Nintendo Power refused to print his scores for what game>
+
+- [ ] Super Mario Bros
+- [ ] Metroid
+- [x] Tetris
