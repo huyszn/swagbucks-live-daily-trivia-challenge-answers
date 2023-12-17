@@ -24577,8 +24577,44 @@
 - [ ] Jessica Fletcher
 - [x] James Bond
 
-#### Steve Wozniak started submitting his name backwards when Nintendo Power refused to print his scores for what game>
+#### Steve Wozniak started submitting his name backwards when Nintendo Power refused to print his scores for what game?
 
 - [ ] Super Mario Bros
 - [ ] Metroid
 - [x] Tetris
+
+#### What is the maximum number of games in a single NBA playoff series?
+
+- [x] Seven
+- [ ] Eight
+- [ ] Nine
+
+#### After Alaska, what is the largest U.S. State?
+
+- [ ] Rhode Island
+- [ ] Oklahoma
+- [x] Texas
+
+#### Jackson Pollock's pieces that look like splattered paint were part of which art movement?
+
+- [x] Abstract Expressionism
+- [ ] Realism
+- [ ] Romanticism
+
+#### After Alaska, what is the largest U.S. State?
+
+- [ ] Rhode Island
+- [ ] Oklahoma
+- [x] Texas
+
+#### Which of the following is a song by Dolly Parton?
+
+- [ ] Billie Jean
+- [x] Jolene
+- [ ] Mandy
+
+#### In which country is illegal to import a specific "Transformers" figure?
+
+- [ ] Japan
+- [ ] Sweden
+- [x] Australia
