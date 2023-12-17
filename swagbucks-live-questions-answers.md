@@ -24618,3 +24618,45 @@
 - [ ] Japan
 - [ ] Sweden
 - [x] Australia
+
+#### New Zealand is named after a maritime province in which country?
+
+- [x] Netherlands
+- [ ] England
+- [ ] Belgium
+
+#### What is the practice of drawing maps called?
+
+- [ ] Mapography
+- [x] Cartography
+- [ ] Directiongraphy
+
+#### Which basketball player had their own series of sodas?
+
+- [ ] Michael Jordan
+- [ ] Charles Barkley
+- [x] Shaquille O'Neal
+
+#### Which Disney Princess winds up with Prince Florian?
+
+- [ ] Cinderella
+- [x] Snow White
+- [ ] Sleeping Beauty
+
+#### The movie "Great BAlls of Fire" is about what singer?
+
+- [ ] Jay-Z
+- [ ] Cher
+- [x] Jerry Lee Lewis
+
+#### The 1987 play "Ladies' Room" was spun off into what 90's comedy?
+
+- [x] Romy and Michelle's High School Reunion
+- [ ] Clueless
+- [ ] American Pie
+
+#### Which of these dishes is "The San Francisco Treat"?
+
+- [ ] Jerry Rice
+- [ ] Rice University
+- [x] Rice-A-Roni
