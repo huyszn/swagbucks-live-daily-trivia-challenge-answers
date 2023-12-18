@@ -23527,12 +23527,6 @@
 - [ ] Battlestar Galactica
 - [x] Star Wars
 
-#### Which of the following words is a synonym for happy?
-
-- [ ] Depressed
-- [ ] Shocked
-- [x] Joyful
-
 #### In which of these games is the objective to find and make words?
 
 - [ ] Life
@@ -24660,3 +24654,45 @@
 - [ ] Jerry Rice
 - [ ] Rice University
 - [x] Rice-A-Roni
+
+#### An ancient Roman trip to Caledonia would bring you to what modern day country?
+
+- [x] Scotland
+- [ ] Ireland
+- [ ] Wales
+
+#### Bernie Taupin is the song writing parther of what superstar?
+
+- [x] Elton John
+- [ ] Madonna
+- [ ] John Legend
+
+#### In Star Wars, who owns the Millenium Falcon?
+
+- [x] Han Solo
+- [ ] Luke Skywalker
+- [ ] Leia Organa
+
+#### In the episode of "The Office" with the fire drill, who sets off the alarm to start it?
+
+- [x] Dwight
+- [ ] Michael
+- [ ] Kevin
+
+#### The Maillard Reaction is the principle behind what?
+
+- [ ] Ripples in water
+- [ ] Bats flying
+- [x] Bread toasting
+
+#### The Baby Boom inspired Charles Lazarus to found what store?
+
+- [ ] KMart
+- [x] Toys "R" Us
+- [ ] Babies "R" Us
+
+#### "After The Final Rose" is the aftershow for what reality competition?
+
+- [ ] Survivor
+- [ ] Road Rules
+- [x] The Bachelor
