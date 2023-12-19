@@ -23527,12 +23527,6 @@
 - [ ] Battlestar Galactica
 - [x] Star Wars
 
-#### Which of the following words is a synonym for happy?
-
-- [ ] Depressed
-- [ ] Shocked
-- [x] Joyful
-
 #### In which of these games is the objective to find and make words?
 
 - [ ] Life
@@ -24660,3 +24654,105 @@
 - [ ] Jerry Rice
 - [ ] Rice University
 - [x] Rice-A-Roni
+
+#### An ancient Roman trip to Caledonia would bring you to what modern day country?
+
+- [x] Scotland
+- [ ] Ireland
+- [ ] Wales
+
+#### Bernie Taupin is the song writing parther of what superstar?
+
+- [x] Elton John
+- [ ] Madonna
+- [ ] John Legend
+
+#### In Star Wars, who owns the Millenium Falcon?
+
+- [x] Han Solo
+- [ ] Luke Skywalker
+- [ ] Leia Organa
+
+#### In the episode of "The Office" with the fire drill, who sets off the alarm to start it?
+
+- [x] Dwight
+- [ ] Michael
+- [ ] Kevin
+
+#### The Maillard Reaction is the principle behind what?
+
+- [ ] Ripples in water
+- [ ] Bats flying
+- [x] Bread toasting
+
+#### The Baby Boom inspired Charles Lazarus to found what store?
+
+- [ ] KMart
+- [x] Toys "R" Us
+- [ ] Babies "R" Us
+
+#### "After The Final Rose" is the aftershow for what reality competition?
+
+- [ ] Survivor
+- [ ] Road Rules
+- [x] The Bachelor
+
+#### A toboggan is a type of what?
+
+- [ ] Pipe
+- [x] Sled
+- [ ] Jazz
+
+#### What vegetable is commonly used on snowmen to create a nose?
+
+- [ ] Cucumber
+- [ ] Radish
+- [x] Carrot
+
+#### When groups of people go door-to-door wassailing, what are they doing?
+
+- [x] Singing
+- [ ] Hurling snowballs
+- [ ] Napping
+
+#### During the winter, houses are made using what kind of cookie as a base?
+
+- [ ] Chocolate Chip
+- [ ] Oatmeal
+- [x] Gingerbread
+
+#### People will cut holes in frozen ponds and lakes during the winter for what reason?
+
+- [x] Fishing
+- [ ] Submarines
+- [ ] Skiing
+
+#### The Iditarod is a race through the snow using sleds pulled by what animal?
+
+- [ ] Moose
+- [ ] Horse
+- [x] Dog
+
+#### Where did the first organized ice climing tournament take place?
+
+- [x] Italy
+- [ ] Alaska
+- [ ] Norway
+
+#### Which of hte following ski slope designations denotes the steepest and most difficult slope?
+
+- [ ] Bunny Slope
+- [ ] Yellow Diamond
+- [x] Dobule Black Diamond
+
+#### To aid in traction, what do snowmobiles have?
+
+- [ ] Balloons
+- [x] Treads
+- [ ] Brooms
+
+#### What is normally placed on top of hot cocoa?
+
+- [ ] Gumballs
+- [ ] Rice Krispies
+- [x] Marshmallows
