@@ -24756,3 +24756,45 @@
 - [ ] Gumballs
 - [ ] Rice Krispies
 - [x] Marshmallows
+
+#### In "Beverly Hills Cop", Axel Foley is a police officer from which city?
+
+- [ ] Chicago
+- [ ] New York
+- [x] Detroit
+
+#### What is the birth year of someone becoming a supercentenarian?
+
+- [x] 1908
+- [ ] 1898
+- [ ] 1917
+
+#### Based on the origin of the word, all throat lozenges should be what shape?
+
+- [ ] Square
+- [ ] Triangle
+- [x] Diamond
+
+#### "The Way of Water" is the sequel to which sci-fi hit?
+
+- [ ] Space: 1999
+- [x] Avatar
+- [ ] Transformers
+
+#### Who played Captain Kirk in the original Star Trek series and films?
+
+- [ ] Bruce Greenwood
+- [ ] Gil Gerald
+- [x] William Shatner
+
+#### From the 1930s to 1993, Tyco was known for manufacturing what kinds of toys?
+
+- [x] Model trains
+- [ ] Jump ropes
+- [ ] Rubber balls
+
+#### What is the official currency of the United Kingdom?
+
+- [ ] Drachma
+- [ ] Franc
+- [x] Pound Sterling
