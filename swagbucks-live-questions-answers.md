@@ -24696,3 +24696,63 @@
 - [ ] Survivor
 - [ ] Road Rules
 - [x] The Bachelor
+
+#### A toboggan is a type of what?
+
+- [ ] Pipe
+- [x] Sled
+- [ ] Jazz
+
+#### What vegetable is commonly used on snowmen to create a nose?
+
+- [ ] Cucumber
+- [ ] Radish
+- [x] Carrot
+
+#### When groups of people go door-to-door wassailing, what are they doing?
+
+- [x] Singing
+- [ ] Hurling snowballs
+- [ ] Napping
+
+#### During the winter, houses are made using what kind of cookie as a base?
+
+- [ ] Chocolate Chip
+- [ ] Oatmeal
+- [x] Gingerbread
+
+#### People will cut holes in frozen ponds and lakes during the winter for what reason?
+
+- [x] Fishing
+- [ ] Submarines
+- [ ] Skiing
+
+#### The Iditarod is a race through the snow using sleds pulled by what animal?
+
+- [ ] Moose
+- [ ] Horse
+- [x] Dog
+
+#### Where did the first organized ice climing tournament take place?
+
+- [x] Italy
+- [ ] Alaska
+- [ ] Norway
+
+#### Which of hte following ski slope designations denotes the steepest and most difficult slope?
+
+- [ ] Bunny Slope
+- [ ] Yellow Diamond
+- [x] Dobule Black Diamond
+
+#### To aid in traction, what do snowmobiles have?
+
+- [ ] Balloons
+- [x] Treads
+- [ ] Brooms
+
+#### What is normally placed on top of hot cocoa?
+
+- [ ] Gumballs
+- [ ] Rice Krispies
+- [x] Marshmallows
