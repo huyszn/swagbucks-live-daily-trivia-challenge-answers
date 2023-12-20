@@ -24798,3 +24798,57 @@
 - [ ] Drachma
 - [ ] Franc
 - [x] Pound Sterling
+
+#### How does Santa Claus usually enter homes on Christmas Eve?
+
+- [ ] Through the Window
+- [ ] From the Swewers
+- [x] Down the Chimney
+
+#### How many nights of Hanukkah are there?
+
+- [x] 8
+- [ ] 10
+- [ ] 12
+
+#### What celebration of African-American Culture starts each year the day after Christmas?
+
+- [ ] Juneteenth
+- [x] Kwanzaa
+- [ ] May Day
+
+#### Which of the following trees would you most likely find decorated in a home for Christmas?
+
+- [ ] Willow
+- [ ] Orange
+- [x] Douglas Fir
+
+#### In the Rankin-Bass version of "Rudolph the Red-Nosed Reindeer", which one of Santa's reindeer is Rudolph's father?
+
+- [x] Donner
+- [ ] Blitzen
+- [ ] Comet
+
+#### What plant is hung from doorways during Christmas?
+
+- [ ] Fern
+- [x] Mistletoe
+- [ ] Bearded Moss
+
+#### In "The Christmas Song", what is roasting on an open fire?
+
+- [ ] A suckling pig
+- [ ] A kettle
+- [x] Chestnuts
+
+#### The Hanukkah Dreidel is what kind of children's toy?
+
+- [ ] Yo-Yo
+- [x] Top
+- [ ] Ball
+
+#### What colors are a classic Candy Cane?
+
+- [ ] Blue and Green
+- [ ] Yellow and more Yellow
+- [x] Red and White
