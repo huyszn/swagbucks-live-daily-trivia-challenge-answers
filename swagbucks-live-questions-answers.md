@@ -24756,3 +24756,99 @@
 - [ ] Gumballs
 - [ ] Rice Krispies
 - [x] Marshmallows
+
+#### In "Beverly Hills Cop", Axel Foley is a police officer from which city?
+
+- [ ] Chicago
+- [ ] New York
+- [x] Detroit
+
+#### What is the birth year of someone becoming a supercentenarian?
+
+- [x] 1908
+- [ ] 1898
+- [ ] 1917
+
+#### Based on the origin of the word, all throat lozenges should be what shape?
+
+- [ ] Square
+- [ ] Triangle
+- [x] Diamond
+
+#### "The Way of Water" is the sequel to which sci-fi hit?
+
+- [ ] Space: 1999
+- [x] Avatar
+- [ ] Transformers
+
+#### Who played Captain Kirk in the original Star Trek series and films?
+
+- [ ] Bruce Greenwood
+- [ ] Gil Gerald
+- [x] William Shatner
+
+#### From the 1930s to 1993, Tyco was known for manufacturing what kinds of toys?
+
+- [x] Model trains
+- [ ] Jump ropes
+- [ ] Rubber balls
+
+#### What is the official currency of the United Kingdom?
+
+- [ ] Drachma
+- [ ] Franc
+- [x] Pound Sterling
+
+#### How does Santa Claus usually enter homes on Christmas Eve?
+
+- [ ] Through the Window
+- [ ] From the Swewers
+- [x] Down the Chimney
+
+#### How many nights of Hanukkah are there?
+
+- [x] 8
+- [ ] 10
+- [ ] 12
+
+#### What celebration of African-American Culture starts each year the day after Christmas?
+
+- [ ] Juneteenth
+- [x] Kwanzaa
+- [ ] May Day
+
+#### Which of the following trees would you most likely find decorated in a home for Christmas?
+
+- [ ] Willow
+- [ ] Orange
+- [x] Douglas Fir
+
+#### In the Rankin-Bass version of "Rudolph the Red-Nosed Reindeer", which one of Santa's reindeer is Rudolph's father?
+
+- [x] Donner
+- [ ] Blitzen
+- [ ] Comet
+
+#### What plant is hung from doorways during Christmas?
+
+- [ ] Fern
+- [x] Mistletoe
+- [ ] Bearded Moss
+
+#### In "The Christmas Song", what is roasting on an open fire?
+
+- [ ] A suckling pig
+- [ ] A kettle
+- [x] Chestnuts
+
+#### The Hanukkah Dreidel is what kind of children's toy?
+
+- [ ] Yo-Yo
+- [x] Top
+- [ ] Ball
+
+#### What colors are a classic Candy Cane?
+
+- [ ] Blue and Green
+- [ ] Yellow and more Yellow
+- [x] Red and White
