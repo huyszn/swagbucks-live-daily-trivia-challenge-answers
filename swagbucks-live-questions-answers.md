@@ -24895,6 +24895,60 @@
 - [ ] Cackowski
 - [x] Casper
 
+#### What Spanish phrase is Bart Simpson known for saying?
+
+- [ ] Aye, Dios Mio!
+- [x] Aye Carumba!
+- [ ] No Mas!
+
+#### How many canine teeth does an adult human have?
+
+- [ ] 2
+- [x] 4
+- [ ] 8
+
+#### What was the name of Andrew Jackson's Tennessee plantation?
+
+- [x] The Hermitage
+- [ ] Mount Vernon
+- [ ] Monticello
+
+#### If you "tread the boards" in a theater, what are you doing?
+
+- [x] Acting
+- [ ] Directing
+- [ ] Stage Managing
+
+#### Which of these cereals is currently advertised with a bear mascot?
+
+- [ ] Froot Loops
+- [ ] Honey Smacks
+- [x] Golden Crisp
+
+#### Which of these words refers to some being greedy?
+
+- [x] Rapacious
+- [ ] Rigid
+- [ ] Roasted
+
+#### Based on what he did before his cookies took off, what could Wally Amos have named his company?
+
+- [x] Famous Amos Cookies and Talent Agency
+- [ ] Famous Amos Cookies and Injury Law
+- [ ] Famous Amos Cookies and Real Estate
+
+#### Which of the following are Hilton, Hyatt, and Sheraton known for?
+
+- [ ] Stadiums
+- [x] Hotels
+- [ ] Rugs
+
+#### Which of the following is NOT one of the words used to activate the Winter Soldier in "Captain America: Civil War"?
+
+- [ ] Benign
+- [ ] Rusted
+- [x] Dusk
+
 #### "Dreidel, Dreidel, Dreidel, I made you out of..."
 
 - [x] Clay
