@@ -11502,12 +11502,6 @@
 - [ ] 1928
 - [x] 1929
 
-#### Al Capone's St. Valentine's Day Massacure happened in which year?
-
-- [ ] 1927
-- [ ] 1928
-- [x] 1929
-
 #### What are hash browns made from?
 
 - [ ] Carrots
@@ -25008,3 +25002,21 @@
 - [x] Glistening
 - [ ] Ruining the asphalt
 - [ ] Making my shoes wet
+
+#### The Joker, Catwoman and The Penguin are enemies of which superhero?
+
+- [ ] Iron Man
+- [x] Batman
+- [ ] Spawn
+
+#### Which of these comedies has the highest all-time, unadjusted global box office gross?
+
+- [ ] Meet The Parents
+- [x] 22 Jump Street
+- [ ] Austin Powers: The Spy Who Shagged Me
+
+#### Which ancient Roman Goddess would most likely believe the song "Strawberry Fields Forever" was about them?
+
+- [x] Venus
+- [ ] Diana
+- [ ] Minerva
