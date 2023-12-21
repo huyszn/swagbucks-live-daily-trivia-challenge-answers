@@ -24852,3 +24852,159 @@
 - [ ] Blue and Green
 - [ ] Yellow and more Yellow
 - [x] Red and White
+
+#### What is the name of the main character played by Alicia Silverstone in the movie Clueless?
+
+- [ ] Mia
+- [x] Cher
+- [ ] Penny
+
+#### Which reality competition show has a Disco Ball for its trophy?
+
+- [ ] The Voice
+- [x] Dancing with the Stars
+- [ ] Survivor
+
+#### What is the national sport of Japan?
+
+- [x] Sumo wreslting
+- [ ] Karate
+- [ ] Judo
+
+#### In Empire Strike Back, what's the last thing Han sayas before steering into an asteroid field?
+
+- [ ] Never tell me the odds
+- [x] Chewie, set 271
+- [ ] They'd be crazy to follow us
+
+#### Which was invented first?
+
+- [ ] Pencil Sharpener
+- [x] Fountain Pen
+- [ ] Pneumatic Drill
+
+#### What is the only U.S. State with no documented venomous snakes?
+
+- [x] Alaska
+- [ ] Arizona
+- [ ] Texas
+
+#### Which cartoon character is known as "The Friendly Ghost"?
+
+- [ ] Carlton
+- [ ] Cackowski
+- [x] Casper
+
+#### What Spanish phrase is Bart Simpson known for saying?
+
+- [ ] Aye, Dios Mio!
+- [x] Aye Carumba!
+- [ ] No Mas!
+
+#### How many canine teeth does an adult human have?
+
+- [ ] 2
+- [x] 4
+- [ ] 8
+
+#### What was the name of Andrew Jackson's Tennessee plantation?
+
+- [x] The Hermitage
+- [ ] Mount Vernon
+- [ ] Monticello
+
+#### If you "tread the boards" in a theater, what are you doing?
+
+- [x] Acting
+- [ ] Directing
+- [ ] Stage Managing
+
+#### Which of these cereals is currently advertised with a bear mascot?
+
+- [ ] Froot Loops
+- [ ] Honey Smacks
+- [x] Golden Crisp
+
+#### Which of these words refers to some being greedy?
+
+- [x] Rapacious
+- [ ] Rigid
+- [ ] Roasted
+
+#### Based on what he did before his cookies took off, what could Wally Amos have named his company?
+
+- [x] Famous Amos Cookies and Talent Agency
+- [ ] Famous Amos Cookies and Injury Law
+- [ ] Famous Amos Cookies and Real Estate
+
+#### Which of the following are Hilton, Hyatt, and Sheraton known for?
+
+- [ ] Stadiums
+- [x] Hotels
+- [ ] Rugs
+
+#### Which of the following is NOT one of the words used to activate the Winter Soldier in "Captain America: Civil War"?
+
+- [ ] Benign
+- [ ] Rusted
+- [x] Dusk
+
+#### "Dreidel, Dreidel, Dreidel, I made you out of..."
+
+- [x] Clay
+- [ ] Wood
+- [ ] Bricks
+
+#### "Oh the weather outside is frightful, but the fire is so..."
+
+- [ ] Warm
+- [x] Delightful
+- [ ] Extra
+
+#### "Rudolph with your nose so bright..."
+
+- [x] Won't you guide my sleigh tonight?
+- [ ] Can you please turn it down?
+- [ ] Is this the right way to Hardee's?
+
+#### "Well way up North where the air gets cold, THere's a tale about Chritmas That you've all been told, And a real famous..."
+
+- [ ] Guy with a beard and cap
+- [x] Cat all dressed up in red
+- [ ] Saint with a bag of toys
+
+#### "Round yon virgin, mother and child. Holy infant, so.."
+
+- [ ] Tired and cranky
+- [ ] Hungry and gassy
+- [x] Tender and mild
+
+#### "Run, run Rudolph, Santa's gotta make it to down. Santa, make him hurry..."
+
+- [x] Tell him he can take the freeway down
+- [ ] He's gotta help you hit the town
+- [ ] Tell him it's about to go down
+
+#### "Just hear those sleigh bells jingling, Ring ting tingling too! Come on, it's lovely weather..."
+
+- [ ] For a snowball fight
+- [x] For a sleigh ride together with you
+- [ ] For a quiet dinner at home
+
+#### "There'll be parties for hosting, Marshmallows for toasting..."
+
+- [x] And caroling out in the snow
+- [ ] And Christmases long, long ago
+- [ ] And merrily over we go
+
+#### "Come they told be, Pa rum pum pum pum. A new born king to see..."
+
+- [ ] And you won't believe what he's wearing
+- [ ] And he's SO nice
+- [x] Pa rum pum pum pum
+
+#### "Sleigh bell ring, are you listening? In the lane, snow is..."
+
+- [x] Glistening
+- [ ] Ruining the asphalt
+- [ ] Making my shoes wet
