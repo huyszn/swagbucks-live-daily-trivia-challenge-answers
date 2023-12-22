@@ -25020,3 +25020,93 @@
 - [x] Venus
 - [ ] Diana
 - [ ] Minerva
+
+#### Who painted the Mona Lisa?
+
+- [x] Leonardo Da Vinci
+- [ ] Michelangelo
+- [ ] Raphael
+
+#### Computer Science pioneer Alan Turing almost qualified for the Olympics in which event?
+
+- [x] Marathon
+- [ ] Cycling
+- [ ] Fencing
+
+#### Which of these do you bake in cups?
+
+- [ ] French fries
+- [x] Muffins
+- [ ] Steak
+
+#### In "The One With The Cop", how many times does Ross say he and Rachel have "Done it"?
+
+- [x] 298
+- [ ] 314
+- [ ] 73
+
+#### When Batman is wearing his mask, what part of his face is visible?
+
+- [ ] Ears
+- [x] Mouth
+- [ ] Nose
+
+#### In Snow White, what are the Seven Dwarfs mining for?
+
+- [ ] Coal
+- [x] Diamonds
+- [ ] Oil
+
+#### Which of these is an example of alliteration?
+
+- [ ] Bouncy Castle
+- [x] Taco Tuesday
+- [ ] Wango Tango
+
+#### Who was the first female artist over 50 to have a chart-topping single?
+
+- [ ] Madoona
+- [ ] Stevie Nicks
+- [x] Cher
+
+#### In what year was the NAACP founded?
+
+- [ ] 1774
+- [x] 1909
+- [ ] 1976
+
+#### A kid named Mikey was used in commercials to sell what cereal?
+
+- [ ] Quisp
+- [x] Life
+- [ ] Cheerios
+
+#### Michael Jackson dueted with which former Beatle on "Say, Say, Say" and "The Girl is Mine"?
+
+- [ ] George Harrison
+- [x] Paul McCartney
+- [ ] John Lennon
+
+#### Which of the following foods is NOT mentioned in "Take Me Out To The Ballgame"?
+
+- [ ] Peanuts
+- [ ] Crackerjack
+- [x] Lobster Thermidor
+
+#### Which President signed the bill recognizing Mother's Day as a national holiday?
+
+- [x] Woodrow Wilson
+- [ ] Theodore Roosevelt
+- [ ] Calvin Coolidge
+
+#### The Chatter Telephone, Rock-a-Stack, and Corn Popper are all toys put out by what famous company
+
+- [ ] Google
+- [ ] Merrill-Lynch
+- [x] Fisher-Price
+
+#### Who is the oldest of the Wayans siblings?
+
+- [ ] Damon Wayans
+- [x] Keenan Ivory Wayans
+- [ ] Kim Wayans
