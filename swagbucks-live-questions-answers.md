@@ -25110,3 +25110,39 @@
 - [ ] Damon Wayans
 - [x] Keenan Ivory Wayans
 - [ ] Kim Wayans
+
+#### In the song of the same name, who does Michael Jackson claim is not his lover?
+
+- [ ] Barbara Ann
+- [x] Billie Jean
+- [ ] Sallie Mae
+
+#### Which of these companies is known for cake mixes?
+
+- [ ] Campbells
+- [x] Duncan Hines
+- [ ] Grey Poupon
+
+#### What do the Big and Little Diomede allow you to do?
+
+- [ ] Sail from Hawaii to Australia
+- [ ] Navigate at night
+- [x] Walk form the U.S. to Russia
+
+#### Jean Valjean is prisoner 24601 in what musical?
+
+- [ ] West Side Story
+- [x] Les Miserables
+- [ ] Bye Bye Birdie
+
+#### Complete the title of this Tennessee Williams play: "A Streetcar Named..."
+
+- [ ] Frank
+- [ ] Sparkles
+- [x] Desire
+
+#### Joe Fixit is a persona of what superhero?
+
+- [ ] Moon Knight
+- [ ] Plastic Man
+- [x] The Hulk
