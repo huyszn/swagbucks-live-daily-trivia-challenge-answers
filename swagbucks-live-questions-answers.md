@@ -25146,3 +25146,57 @@
 - [ ] Moon Knight
 - [ ] Plastic Man
 - [x] The Hulk
+
+#### Which of the following terms refers to winning something easily or decisively?
+
+- [x] Hands down
+- [ ] Hands up
+- [ ] Hands out
+
+#### The Cubs and White Sox are professional baseball teams that call which city their home?
+
+- [ ] Detriot
+- [ ] New York
+- [x] Chicago
+
+#### Which rapper's real name is Chris Bridges?
+
+- [x] Ludacris
+- [ ] Ice Cube
+- [ ] 50 Cent
+
+#### What is prominently displayed in the logo for Disney films?
+
+- [ ] A wrench
+- [ ] Two wrenches
+- [x] A castle
+
+#### In July, who released a suprise album called "Folklore"?
+
+- [x] Taylor Swift
+- [ ] Justin Bieber
+- [ ] Cardi B
+
+#### Which of these machines would you use to fly?
+
+- [ ] Skateboard
+- [ ] Dump truck
+- [x] Helicopter
+
+#### "Digerati" is a portmanteau of what two words?
+
+- [ ] Digital and Culturati
+- [x] Digital and Literati
+- [ ] Digital and Illuminati
+
+#### Yars' Revenge was a game originally playable on what system?
+
+- [x] Atari
+- [ ] NES
+- [ ] Sega Genesis
+
+#### What was the original title for Sesame Street?
+
+- [x] 123 Avenue B
+- [ ] Around the Neighborhood
+- [ ] Fun City
