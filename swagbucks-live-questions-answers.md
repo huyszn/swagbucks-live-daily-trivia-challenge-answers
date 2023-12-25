@@ -25200,3 +25200,51 @@
 - [x] 123 Avenue B
 - [ ] Around the Neighborhood
 - [ ] Fun City
+
+#### Which of hte following is NOT one of the Canadian provinces?
+
+- [ ] British Columbia
+- [ ] Ontario
+- [x] The Pacific Northwest
+
+#### "Digerati" is a portmanteau of what two words?
+
+- [ ] Digital and Culturati
+- [x] Digital and Literati
+- [ ] Digital and Illuminati
+
+#### A conversation between Conan O'Brien and Andy Richter is an easter egg in what video game?
+
+- [ ] Kingdom Hearts 2
+- [ ] Grand Theft Auto V
+- [x] Halo 4
+
+#### Complete this Dickens quote: "It was the best of times..."
+
+- [ ] It was suppertime
+- [ ] It was showtime
+- [x] It was the worst of times
+
+#### Which of the following is a home shopping network?
+
+- [x] QVC
+- [ ] CNN
+- [ ] Fox Sports
+
+#### What bird was originally supposed to say "Nevermore" in Edgar Allan Poe's poem?
+
+- [x] Parrot
+- [ ] Eagle
+- [ ] Myna Bird
+
+#### What is Kimmy Schmidt's mother addicted to?
+
+- [ ] Painkillers
+- [ ] Energy Drinks
+- [x] Roller Coasters
+
+#### What pop star's conservatorship was finally ended by a Los Angeles judge on November 12th, 2021?
+
+- [ ] Kelly Clarkson
+- [ ] Madoona
+- [x] Britney Spears
