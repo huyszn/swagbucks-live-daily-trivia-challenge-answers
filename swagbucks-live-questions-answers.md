@@ -25248,3 +25248,99 @@
 - [ ] Kelly Clarkson
 - [ ] Madoona
 - [x] Britney Spears
+
+#### Which of the following disguises is NOT used in 2000's "Charlie's Angels"?
+
+- [x] Nuns
+- [ ] Business Men
+- [ ] Caterers
+
+#### When you order a drink "neat", what do you want?
+
+- [x] Just the drink in a glass
+- [ ] Shaken with Ice
+- [ ] Served warm
+
+#### When the World Cup trophy was stolen from England, who found it?
+
+- [ ] Scotland Yard
+- [x] A dog named Pickles
+- [ ] Nobody
+
+#### A biography about what U.S. historical figure inspired Lin-Manuel Miranda's most receont musical?
+
+- [ ] Thomas Jefferson
+- [ ] George Washington
+- [x] Alexander Hamilton
+
+#### Which of these Garth Brooks facts is false?
+
+- [x] He wrote a hit song on a vomit bag
+- [ ] He was a Javelin thrower
+- [ ] He worked as a bouncer
+
+#### What Japanese dish is served with raw fish?
+
+- [x] Sushi
+- [ ] Ramen
+- [ ] Mochi
+
+#### What film paved the way for the "Director's Cut"?
+
+- [ ] Apocalypse Now
+- [x] Close Encounters of the Third Kind
+- [ ] Blade Runner
+
+#### Which of the following movies cost the most to make?
+
+- [ ] Titanic
+- [x] Avengers: Age of Ultron
+- [ ] Justice League
+
+#### Which of these board games is set in a house?
+
+- [x] Clue
+- [ ] Parcheesi
+- [ ] Sorry
+
+#### Which of these characters turned 68 this year?
+
+- [x] Charlie Brown
+- [ ] Bugs Bunny
+- [ ] Fred Flintstone
+
+#### What giant item drops in Times Square to mark the new year?
+
+- [x] A ball
+- [ ] A champagne glass
+- [ ] A top hat
+
+#### Alan-a-Dale serves as the narrator of which Disney animated film?
+
+- [x] Robin Hood
+- [ ] The Sword in the Stone
+- [ ] The Black Cauldron
+
+#### What fruit snack is also made by the makers of Fruit Roll-Ups?
+
+- [x] Fruit by the Foot
+- [ ] Fruit by the Mile
+- [ ] Fruit bty the Metric Ton
+
+#### Which of the following games has no game pieces?
+
+- [ ] Jenga
+- [x] Charades
+- [ ] Trivial Pursuit
+
+#### Which line of dolls smell like food?
+
+- [ ] Rainbow Brite
+- [x] Strawberry Shortcake
+- [ ] My Buddy
+
+#### Which country has the most pyramids in the world?
+
+- [ ] Egypt
+- [x] Sudan
+- [ ] Jordan
