@@ -25344,3 +25344,45 @@
 - [ ] Egypt
 - [x] Sudan
 - [ ] Jordan
+
+#### What Broadway show featured bizarre items being turned into percussion instruments?
+
+- [x] Stomp
+- [ ] Carousel
+- [ ] Oklahoma
+
+#### What songwriting duo is known for songs like "A Hard Day's Night" and "Help"?
+
+- [ ] Lerner and Loewe
+- [ ] Rodgers and Hammerstein
+- [x] Lennon and McCartney
+
+#### What did Benjamin Franklin use to capture the electric charge of lightning?
+
+- [ ] A skeleton key
+- [x] A Leyden jar
+- [ ] A Chinese Kite
+
+#### What gas do humans exhale?
+
+- [x] Carbon Dioxide
+- [ ] Nitrogen
+- [ ] Hydrogen
+
+#### What is a chandelier used for?
+
+- [ ] Driving you around
+- [x] Lighting
+- [ ] Measuring weight
+
+#### How many total continents are there on Earth?
+
+- [x] Seven
+- [ ] Nine
+- [ ] Four
+
+#### What is the French word for bathroom?
+
+- [x] Salle de Bain
+- [ ] Bibliotheque
+- [ ] Velo
