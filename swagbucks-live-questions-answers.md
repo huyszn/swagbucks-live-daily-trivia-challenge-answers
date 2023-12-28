@@ -25386,3 +25386,51 @@
 - [x] Salle de Bain
 - [ ] Bibliotheque
 - [ ] Velo
+
+#### What kinds of rocks are created through a process known as cementation?
+
+- [ ] Alt Rock
+- [x] Sedimentary Rock
+- [ ] Igneous Rock
+
+#### Who starred in "Liar Liar", "The Mask", and "Bruce Almighty"?
+
+- [x] Jim Carrey
+- [ ] Jamie Kennedy
+- [ ] John Stewart
+
+#### Which Super Bowl winner was the first to visit the White House?
+
+- [x] Pittsburgh Steelers
+- [ ] Dallas Cowboys
+- [ ] Green Bay Packers
+
+#### What was the name of Grandmaster Flash's group?
+
+- [ ] The Fantastic Four
+- [x] The Furious Five
+- [ ] The Sinister Six
+
+#### What spaceship is piloted by Han Solo and Chewbacca?
+
+- [ ] Serenity
+- [ ] Enterprise
+- [x] Millenium Falcon
+
+#### What Disney animated film is a version of the Arthurian legend?
+
+- [x] The Sword in the Stone
+- [ ] The Black Cauldron
+- [ ] Oilver & Company
+
+#### What dessert was invented by a carpenter?
+
+- [x] Jell-O
+- [ ] Taffy
+- [ ] Fudge
+
+#### Which actor appeared in a Bubble Yum commercial before he was famous?
+
+- [x] Leonardo DiCaprio
+- [ ] Ryan Gosling
+- [ ] Ben Affleck
