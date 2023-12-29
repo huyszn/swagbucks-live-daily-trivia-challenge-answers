@@ -25434,3 +25434,45 @@
 - [x] Leonardo DiCaprio
 - [ ] Ryan Gosling
 - [ ] Ben Affleck
+
+#### Velveeta is a brand of what?
+
+- [x] Cheese
+- [ ] Chips
+- [ ] Steak
+
+#### What is the term for someone who speaks multiple languages?
+
+- [x] Polyglot
+- [ ] Polygamist
+- [ ] Roly Poly
+
+#### Christmas festivities in what U.S. city begin every November with the lightning of Temple Square?
+
+- [ ] Philadelphia
+- [x] Salt Lake City
+- [ ] Baton Rogue
+
+#### Who or what is Pearl Jam's first album named for?
+
+- [x] A basketball player
+- [ ] Another band
+- [ ] A childhood toy
+
+#### According to their website, what is the price of a 2 L bottle of Diet Coke at Target?
+
+- [x] $1.89
+- [ ] $1.98
+- [ ] $2.04
+
+#### Matchbox is a brand of what?
+
+- [x] Minature vehicles
+- [ ] Colestaw
+- [ ] Roller Skates
+
+#### The Abominable Snowman is also known by what name?
+
+- [x] Yeti
+- [ ] Chupacabra
+- [ ] Baba Yaga
