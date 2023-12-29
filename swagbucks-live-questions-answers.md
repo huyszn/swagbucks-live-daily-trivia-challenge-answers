@@ -25344,3 +25344,93 @@
 - [ ] Egypt
 - [x] Sudan
 - [ ] Jordan
+
+#### What Broadway show featured bizarre items being turned into percussion instruments?
+
+- [x] Stomp
+- [ ] Carousel
+- [ ] Oklahoma
+
+#### What songwriting duo is known for songs like "A Hard Day's Night" and "Help"?
+
+- [ ] Lerner and Loewe
+- [ ] Rodgers and Hammerstein
+- [x] Lennon and McCartney
+
+#### What did Benjamin Franklin use to capture the electric charge of lightning?
+
+- [ ] A skeleton key
+- [x] A Leyden jar
+- [ ] A Chinese Kite
+
+#### What gas do humans exhale?
+
+- [x] Carbon Dioxide
+- [ ] Nitrogen
+- [ ] Hydrogen
+
+#### What is a chandelier used for?
+
+- [ ] Driving you around
+- [x] Lighting
+- [ ] Measuring weight
+
+#### How many total continents are there on Earth?
+
+- [x] Seven
+- [ ] Nine
+- [ ] Four
+
+#### What is the French word for bathroom?
+
+- [x] Salle de Bain
+- [ ] Bibliotheque
+- [ ] Velo
+
+#### What kinds of rocks are created through a process known as cementation?
+
+- [ ] Alt Rock
+- [x] Sedimentary Rock
+- [ ] Igneous Rock
+
+#### Who starred in "Liar Liar", "The Mask", and "Bruce Almighty"?
+
+- [x] Jim Carrey
+- [ ] Jamie Kennedy
+- [ ] John Stewart
+
+#### Which Super Bowl winner was the first to visit the White House?
+
+- [x] Pittsburgh Steelers
+- [ ] Dallas Cowboys
+- [ ] Green Bay Packers
+
+#### What was the name of Grandmaster Flash's group?
+
+- [ ] The Fantastic Four
+- [x] The Furious Five
+- [ ] The Sinister Six
+
+#### What spaceship is piloted by Han Solo and Chewbacca?
+
+- [ ] Serenity
+- [ ] Enterprise
+- [x] Millenium Falcon
+
+#### What Disney animated film is a version of the Arthurian legend?
+
+- [x] The Sword in the Stone
+- [ ] The Black Cauldron
+- [ ] Oilver & Company
+
+#### What dessert was invented by a carpenter?
+
+- [x] Jell-O
+- [ ] Taffy
+- [ ] Fudge
+
+#### Which actor appeared in a Bubble Yum commercial before he was famous?
+
+- [x] Leonardo DiCaprio
+- [ ] Ryan Gosling
+- [ ] Ben Affleck
