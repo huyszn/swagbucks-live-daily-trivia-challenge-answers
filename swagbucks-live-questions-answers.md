@@ -25476,3 +25476,51 @@
 - [x] Yeti
 - [ ] Chupacabra
 - [ ] Baba Yaga
+
+#### Which of these Disney Junior shows is the fake?
+
+- [ ] PJ Masks
+- [ ] Choo Choo Souls
+- [x] Whisker Central
+
+#### Charles Darwin's famous expedition was aboard what ship?
+
+- [ ] Santa Maria
+- [x] HMS Beagle
+- [ ] Mayflower
+
+#### According to the lyrics, what will you do when dreidel is dry and ready?
+
+- [ ] Drive to Newark
+- [ ] Filet a salmon
+- [x] Play
+
+#### What kind of syrup do people generally put on pancakes?
+
+- [x] Maple Syrup
+- [ ] Corn Syrup
+- [ ] Karo Syrup
+
+#### In the universe of Doctor Who, you shouldn't blink around what alien species?
+
+- [x] Weeping Angels
+- [ ] Axons
+- [ ] Gelth
+
+#### Metamorphic, sedimentary, and igneous are types of what?
+
+- [ ] Bagels
+- [x] Rocks
+- [ ] Stories
+
+#### Where would you most likely find griffonage?
+
+- [ ] In the bird cage at the zoo
+- [x] On a prescription slip
+- [ ] In a stable
+
+#### According to FTD, what flower is most commonly associated with Mother's Day?
+
+- [x] Carnation
+- [ ] Daisy
+- [ ] Lily
