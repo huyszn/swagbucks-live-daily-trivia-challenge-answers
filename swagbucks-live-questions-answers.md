@@ -25524,3 +25524,45 @@
 - [x] Carnation
 - [ ] Daisy
 - [ ] Lily
+
+#### What is the first book in the Lord of the Rings trilogy?
+
+- [x] The Fellowship of the Ring
+- [ ] The Two Towers
+- [ ] The Return of the King
+
+#### Which of these films was not nominated for an Academy Award for Best Picture?
+
+- [ ] A Few Good Men
+- [ ] The Full Monty
+- [x] Pan's Labyrinth
+
+#### What real-life criminal is featured in the Netflix series "Narcos"?
+
+- [ ] Al Capone
+- [ ] Jack the Ripper
+- [x] Pablo Escobar
+
+#### What was notable about Abebe Bikila's gold medal for the 1960 Olympics Marathon?
+
+- [ ] He was only 15 years old
+- [x] He was barefoot
+- [ ] He didn't technically finish the race
+
+#### In "The Fugitive", who does Richard Kimble accuse of murdering his wife?
+
+- [x] The one-armed man
+- [ ] Bugs Bunny
+- [ ] Charlie Manson
+
+#### Kurt Cobain was the lead singer of what band?
+
+- [ ] The Beatles
+- [ ] N.W.A.
+- [x] Nirvana
+
+#### Which of the following is one of the phrases activated by Woody's drawstring?
+
+- [ ] To infinity... and beyond!
+- [ ] Let's get physical!
+- [x] There's a snake in my boot!
