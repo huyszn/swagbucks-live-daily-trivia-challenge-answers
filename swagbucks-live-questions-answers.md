@@ -25434,3 +25434,93 @@
 - [x] Leonardo DiCaprio
 - [ ] Ryan Gosling
 - [ ] Ben Affleck
+
+#### Velveeta is a brand of what?
+
+- [x] Cheese
+- [ ] Chips
+- [ ] Steak
+
+#### What is the term for someone who speaks multiple languages?
+
+- [x] Polyglot
+- [ ] Polygamist
+- [ ] Roly Poly
+
+#### Christmas festivities in what U.S. city begin every November with the lightning of Temple Square?
+
+- [ ] Philadelphia
+- [x] Salt Lake City
+- [ ] Baton Rogue
+
+#### Who or what is Pearl Jam's first album named for?
+
+- [x] A basketball player
+- [ ] Another band
+- [ ] A childhood toy
+
+#### According to their website, what is the price of a 2 L bottle of Diet Coke at Target?
+
+- [x] $1.89
+- [ ] $1.98
+- [ ] $2.04
+
+#### Matchbox is a brand of what?
+
+- [x] Minature vehicles
+- [ ] Colestaw
+- [ ] Roller Skates
+
+#### The Abominable Snowman is also known by what name?
+
+- [x] Yeti
+- [ ] Chupacabra
+- [ ] Baba Yaga
+
+#### Which of these Disney Junior shows is the fake?
+
+- [ ] PJ Masks
+- [ ] Choo Choo Souls
+- [x] Whisker Central
+
+#### Charles Darwin's famous expedition was aboard what ship?
+
+- [ ] Santa Maria
+- [x] HMS Beagle
+- [ ] Mayflower
+
+#### According to the lyrics, what will you do when dreidel is dry and ready?
+
+- [ ] Drive to Newark
+- [ ] Filet a salmon
+- [x] Play
+
+#### What kind of syrup do people generally put on pancakes?
+
+- [x] Maple Syrup
+- [ ] Corn Syrup
+- [ ] Karo Syrup
+
+#### In the universe of Doctor Who, you shouldn't blink around what alien species?
+
+- [x] Weeping Angels
+- [ ] Axons
+- [ ] Gelth
+
+#### Metamorphic, sedimentary, and igneous are types of what?
+
+- [ ] Bagels
+- [x] Rocks
+- [ ] Stories
+
+#### Where would you most likely find griffonage?
+
+- [ ] In the bird cage at the zoo
+- [x] On a prescription slip
+- [ ] In a stable
+
+#### According to FTD, what flower is most commonly associated with Mother's Day?
+
+- [x] Carnation
+- [ ] Daisy
+- [ ] Lily
