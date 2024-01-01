@@ -25566,3 +25566,45 @@
 - [ ] To infinity... and beyond!
 - [ ] Let's get physical!
 - [x] There's a snake in my boot!
+
+#### Which Lakers legend use the Skyhook as their signature shot?
+
+- [x] Kareem Abdul-Jabbar
+- [ ] Michael Cooper
+- [ ] Byron Scott
+
+#### Which of the following TV series is animated?
+
+- [ ] Blood & Treasure
+- [x] He-Man and the Masters of the Universe
+- [ ] Manifest
+
+#### When a product is popular, people would commonly say it's selling like what?
+
+- [ ] Waffles
+- [x] Hotcakes
+- [ ] Grits
+
+#### Where have the Tonys traditionally been held?
+
+- [ ] Dodgers Stadium
+- [ ] The International Space Station
+- [x] Radio City Music Hall
+
+#### In which of these card games is your goal to get rid of all your cards?
+
+- [ ] War
+- [ ] Poker
+- [x] Uno
+
+#### Copper and Tin comprise what metal alloy?
+
+- [ ] Aluminum
+- [ ] Lead
+- [x] Bronze
+
+#### Who wrote books like "War & Peace" and "Anna Karenina"?
+
+- [ ] Stephen King
+- [x] Leo Tolstoy
+- [ ] Beverly Cleary
