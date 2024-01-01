@@ -25608,3 +25608,99 @@
 - [ ] Stephen King
 - [x] Leo Tolstoy
 - [ ] Beverly Cleary
+
+#### Whose autobiography is titled "Kitchen Confidential"?
+
+- [ ] Patti Smith
+- [x] Anthony Bourdain
+- [ ] Ted Allen
+
+#### Complete this Pink Floyd album title: "Dark Side of ___"
+
+- [x] The Moon
+- [ ] The Transformers
+- [ ] The Ring
+
+#### Starting in 1999, what new toy was banned in schools?
+
+- [ ] Happenin' Hair Barbie
+- [x] Tech Decks
+- [ ] Tamagotchi
+
+#### Luke and Laura were one of the central couples on which soap opera?
+
+- [ ] Another World
+- [x] General Hospital
+- [ ] One Life To Live
+
+#### What breakfast cereal is advertised as "Magically Delicious"?
+
+- [ ] Oatmeal
+- [ ] Corn Flakes
+- [x] Lucky Charms
+
+#### How many wives did serial marrier Henry the VIII have?
+
+- [ ] None
+- [ ] One
+- [x] Six
+
+#### Which of these Broadway musicals centers around a murder trial?
+
+- [ ] Carousel
+- [ ] South Pacific
+- [x] Chicago
+
+#### Where did the world's first commercial flight travel to?
+
+- [ ] New York
+- [ ] Paris
+- [x] Florida
+
+#### Book of Mormon is a Broadway musical from the creators of what cartoon?
+
+- [ ] Looney Tunes
+- [x] South Park
+- [ ] Merrie Melodies
+
+#### What does Kellogg's make?
+
+- [ ] Seasoning
+- [x] Cereal
+- [ ] Pants
+
+#### Kevin Plank is the founder of what apparel brand?
+
+- [ ] True Religion
+- [x] Under Armour
+- [ ] Ecko Unltd
+
+#### What brand claims to keep "going and going and going"?
+
+- [x] Energizer
+- [ ] Ford
+- [ ] IBM
+
+#### Which of these novels is adapted from a radio play?
+
+- [ ] War of the Worlds
+- [x] Hitchhiker's Guide to the Galaxy
+- [ ] I, Robot
+
+#### Bronson Pinchot played what famous sitcom character?
+
+- [x] Balki Bartokomous
+- [ ] Barki Bartholomew
+- [ ] Banksy
+
+#### What video game series launched their wildly popular trading card game in 1999?
+
+- [ ] Super Mario Bros
+- [x] Pokemon
+- [ ] Tetris
+
+#### Which of these slogans wasn't used by Popeye's Chicken?
+
+- [ ] Louislana Fast
+- [x] The Chicken is Just OK
+- [ ] Love That Chicken From Popeyes
