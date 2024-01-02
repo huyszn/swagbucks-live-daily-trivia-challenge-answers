@@ -25704,3 +25704,51 @@
 - [ ] Louislana Fast
 - [x] The Chicken is Just OK
 - [ ] Love That Chicken From Popeyes
+
+#### Which of these quotes is from "Gladiator"?
+
+- [x] Are you not entertained?
+- [ ] I am Spartacus!
+- [ ] I am your father.
+
+#### Wolverine is part of what super team?
+
+- [ ] The Defenders
+- [ ] Great Lakes Avengers
+- [x] X-Men
+
+#### Which museum houses the Mona Lisa?
+
+- [x] The Louvre
+- [ ] The Guggenheim
+- [ ] LACMA
+
+#### Where did the actual Mary from the nursery rhyme have a little lamb?
+
+- [ ] England
+- [ ] New York
+- [x] Massachusetts
+
+#### What fruit is also known as "Bounceberries"?
+
+- [ ] Blueberry
+- [x] Cranberry
+- [ ] Grapes
+
+#### In which film would you hear the Twilight Bark?
+
+- [ ] Lady and the Tramp
+- [x] 101 Dalmatians
+- [ ] Aristocats
+
+#### The primary ingredients in a milkshake are milk and what?
+
+- [ ] Coffee
+- [ ] Brownie
+- [x] Ice cream
+
+#### What body part is a scarf meant to keep warm?
+
+- [ ] Waist
+- [ ] Ankles
+- [x] Neck
