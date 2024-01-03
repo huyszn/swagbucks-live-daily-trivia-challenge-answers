@@ -25860,3 +25860,51 @@
 - [x] The Roman Empire
 - [ ] Shoes
 - [ ] Chili
+
+#### What piece of lab equipment is used to produce a flame?
+
+- [ ] Rubber Tubing
+- [ ] Beaker
+- [x] Bunsen Burner
+
+#### The Port of Rotterdam in the Netherlands is the largest port on what continent?
+
+- [ ] Africa
+- [x] Europe
+- [ ] Australia
+
+#### Which of the following is NOT something a plant needs to grow?
+
+- [x] Punishment
+- [ ] Water
+- [ ] Sunlight
+
+#### What clothing item do you rarely see Donald Duck wearing?
+
+- [ ] Shirt
+- [x] Pants
+- [ ] Hat
+
+#### Which of these is NOT one of the events in a standard triathlon?
+
+- [ ] Cycling
+- [x] Personality
+- [ ] Swimming
+
+#### In 2009, what bizarre piece of home exercise equipment made its debut?
+
+- [x] Shake Weight
+- [ ] Nordictrack
+- [ ] Thighmaster
+
+#### What restaurant's founder lost the controlling share in his company to his partners in a game of poker?
+
+- [x] Hardee's
+- [ ] Carl's Jr.
+- [ ] Jack-in-the-Box
+
+#### According to its legal definition, if you are the persona non grata at a party, what are you?
+
+- [x] Unwelcome
+- [ ] The host
+- [ ] The waitress
