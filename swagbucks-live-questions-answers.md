@@ -25752,3 +25752,111 @@
 - [ ] Waist
 - [ ] Ankles
 - [x] Neck
+
+#### What are the colors of the American Flag?
+
+- [ ] Yellow, Green, and Brown
+- [ ] Purple, Purple, and Purple
+- [x] Red, White, and Blue
+
+#### Which astronaut had the longest life?
+
+- [x] Neil Armstrong
+- [ ] Yuri Gagarin
+- [ ] Alan Shepard
+
+#### Who was the first President of the United States?
+
+- [ ] Abraham Lincoln
+- [ ] Harry S. Truman
+- [x] George Washington
+
+#### Michelangelo famously painted the ceilling of what building?
+
+- [ ] White House
+- [x] Sistine Chapel
+- [ ] Madison Square Garden
+
+#### What holiday is celebrated in the U.S. on July 4th?
+
+- [ ] Flag Day
+- [x] Independence Day
+- [ ] Christmas
+
+#### Crisco is a type of what?
+
+- [ ] Sweater
+- [ ] Sandwich
+- [x] Shortening
+
+#### Which of the following is used to display roadside advertisements?
+
+- [x] Billboard
+- [ ] Billabong
+- [ ] Bill Withers
+
+#### Myrmecophaga Tridactyla is better known as what animal?
+
+- [ ] Bull Elephant
+- [x] Giant Anteater
+- [ ] Blue Whale
+
+#### What MLB team won its first ever World Series Championship in November of 2023?
+
+- [x] Texas Rangers
+- [ ] New York Yankees
+- [ ] San Francisco Giants
+
+#### What was the highest grossing movie of 2023?
+
+- [ ] The Holdovers
+- [x] Barbie
+- [ ] Thanksgiving
+
+#### In 2023, the entertainment industry was brought to a halt by simultaneous strikes from what two unions?
+
+- [ ] IATSE and Bakers Local #456
+- [ ] Steel Workers & Craft Services
+- [x] WGA and SAG-AFTRA
+
+#### In November of 2023, a man was apprehended for wandering naked around what Disneyland attraction?
+
+- [x] It's A Small World
+- [ ] Space Mountain
+- [ ] King Arthur's Carousel
+
+#### What 2023 TV show, based on a video game, was a big hit for HBO?
+
+- [ ] The Other Two
+- [x] The Last of Us
+- [ ] Julia
+
+#### June 12th, 2023 was the culmination of a big birthday celebration for what fast food icon?
+
+- [ ] Colonel Sanders
+- [ ] The Noid
+- [x] Grimace
+
+#### What 2023 Morgan Wallen song peaked at number 1 on the Billboard Hot 100?
+
+- [ ] Fast Car
+- [x] Last Night
+- [ ] I Remember Everything
+
+#### In 2023, who re-released "their version" of their albums Speak Now and 1989?
+
+- [ ] Miley Cyrus
+- [ ] Doja Cat
+- [x] Taylor Swift
+
+#### The video game company Activision Blizzard was acquired in 2023 for $68.7 billion by what Bill Gates company?
+
+- [x] Microsoft
+- [ ] Four Seasons
+- [ ] Berkshire Hathaway
+
+#### A 2023 TikTok trend claimed that men spend an inordinate amount of time thinking about what?
+
+- [x] The Roman Empire
+- [ ] Shoes
+- [ ] Chili
