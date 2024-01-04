@@ -25968,3 +25968,51 @@
 - [ ] Vanderpump Rules
 - [x] The Amazing Race
 - [ ] Survivor
+
+#### Which of these Disney World Animal Kingdom attractions opened in May of 2017?
+
+- [x] Pandora: The World of Avatar
+- [ ] Rivers of Light
+- [ ] The Jungle Book: Alive with Magic
+
+#### In the popular Transformers toy line, who is the leader of the Autobots?
+
+- [ ] Starscream
+- [ ] Megatron
+- [x] Optimus Prime
+
+#### Hannibal used elephants to cross which mountain range?
+
+- [x] The Alps
+- [ ] The Pyrenees
+- [ ] The Carpathians
+
+#### Which city is known as The Big Apple?
+
+- [x] New York City
+- [ ] Party City
+- [ ] Circuit City
+
+#### What is the name of Goofy's son?
+
+- [ ] Mike
+- [ ] Mark
+- [x] Max
+
+#### During the holidays people traditionally build houses out of what cookie?
+
+- [ ] Dunkaroos
+- [ ] Teddy Grahams
+- [x] Gingerbread
+
+#### Ferdinand III was the longest reigning monarch of what former Kingdom?
+
+- [x] Sicily
+- [ ] Gaul
+- [ ] Prussia
+
+#### Which of these phrases is in the past tense?
+
+- [ ] I'm winning Swagbucks LIVE
+- [ ] I will win Swagbucks LIVE
+- [x] I won Swagbucks LIVE
