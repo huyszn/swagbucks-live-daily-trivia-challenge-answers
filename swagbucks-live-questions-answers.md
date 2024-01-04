@@ -25908,3 +25908,63 @@
 - [x] Unwelcome
 - [ ] The host
 - [ ] The waitress
+
+#### Which of the following is commonly considered to bring bad luck?
+
+- [ ] Spitting on a bus
+- [x] Walking under an open ladder
+- [ ] Wearning blue to a mall
+
+#### Chick-fil-A restaurants are famously closed on what day of the week?
+
+- [ ] Monday
+- [ ] Friday
+- [x] Sunday
+
+#### Zendaya won a Best LEading Actress Emmy for her role on what TV show?
+
+- [ ] I Think You Should Leave
+- [x] Euphoria
+- [ ] And Just Like That...
+
+#### Which of the following food items is NOT sold at Disneyland?
+
+- [ ] Mayonnaise
+- [ ] Cilantro
+- [x] Gum
+
+#### Kenner Toys released the original action figure line of characters from what movie?
+
+- [ ] The Searchers
+- [x] Star Wars
+- [ ] Jaws
+
+#### "Gargoyle" derives from the French word for what?
+
+- [ ] Beast
+- [ ] Drain
+- [x] Throat
+
+#### Which of the following is NOT an Olympic Gymnastic event?
+
+- [x] Getting A Good Stretch
+- [ ] Balance Beam
+- [ ] Pommel Horse
+
+#### Who actually drew the portrait of Rose that appears in "Titanic"?
+
+- [ ] Kathy Bates
+- [ ] Leonardo DiCaprio
+- [x] James Cameron
+
+#### MC Hammer had a 1990 hit with what song?
+
+- [x] U Can't Touch This
+- [ ] U Just Touched That
+- [ ] U Won't Touch Anything
+
+#### What reality show features Roadblocks, Detours, and Pit Stops?
+
+- [ ] Vanderpump Rules
+- [x] The Amazing Race
+- [ ] Survivor
