@@ -26016,3 +26016,63 @@
 - [ ] I'm winning Swagbucks LIVE
 - [ ] I will win Swagbucks LIVE
 - [x] I won Swagbucks LIVE
+
+#### What kind of puzzles are you trying to solve on "Wheel of Fortune"?
+
+- [x] Word Puzzles
+- [ ] Jigsaw Puzzles
+- [ ] Rebus Puzzles
+
+#### What secret squares on the "Jeopardy!" board allow you to wager some or all of your money?
+
+- [ ] Let It Ride
+- [x] Daily Double
+- [ ] Wageriffic
+
+#### Before Drew Carey, who was the longtime host of "The Price is Right"?
+
+- [ ] Wink Martindale
+- [ ] Steve Harvey
+- [x] Bob Barker
+
+#### Michael Larson of Lebanon, OH rose to fame after figuring out how to beat what game show?
+
+- [ ] Double Dare
+- [x] Press Your Luck
+- [ ] $25,000 Pyramid
+
+#### The crew of Netflix's "The Floor Is Lava" got to vote on the scent of the lava slime. What did they pick?
+
+- [ ] Strawberries
+- [ ] Fresh Laundry
+- [x] Bubblegum
+
+#### Howie Mandel hosted what game show featuring a "Banker" and 26 mystery briefcases?
+
+- [x] Deal or No Deal
+- [ ] Card Sharks
+- [ ] High Rollers
+
+#### What game show legend wrote the theme to "Jeopardy!" in less than 30 seconds?
+
+- [ ] Chuck Barris
+- [x] Merv Griffin
+- [ ] Mark Goodson
+
+#### What comedy filmmaker won the grand prize on "The $25,000 Pyramid" and used the winnings to jumpstart his career?
+
+- [ ] Ivan Reitman
+- [ ] Todd Phillips
+- [x] Paul Feig
+
+#### The group Rockapella provided the live music for what children's game show?
+
+- [x] Where In The World Is Carmen Sandiego?
+- [ ] Pictureka
+- [ ] The Big Fib
+
+#### A paralegal once sued what show for airing a challenge so gross that he became sick?
+
+- [ ] Scrabble
+- [ ] Legend of the Hidden Temple
+- [x] Fear Factor
