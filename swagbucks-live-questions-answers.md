@@ -25524,3 +25524,495 @@
 - [x] Carnation
 - [ ] Daisy
 - [ ] Lily
+
+#### What is the first book in the Lord of the Rings trilogy?
+
+- [x] The Fellowship of the Ring
+- [ ] The Two Towers
+- [ ] The Return of the King
+
+#### Which of these films was not nominated for an Academy Award for Best Picture?
+
+- [ ] A Few Good Men
+- [ ] The Full Monty
+- [x] Pan's Labyrinth
+
+#### What real-life criminal is featured in the Netflix series "Narcos"?
+
+- [ ] Al Capone
+- [ ] Jack the Ripper
+- [x] Pablo Escobar
+
+#### What was notable about Abebe Bikila's gold medal for the 1960 Olympics Marathon?
+
+- [ ] He was only 15 years old
+- [x] He was barefoot
+- [ ] He didn't technically finish the race
+
+#### In "The Fugitive", who does Richard Kimble accuse of murdering his wife?
+
+- [x] The one-armed man
+- [ ] Bugs Bunny
+- [ ] Charlie Manson
+
+#### Kurt Cobain was the lead singer of what band?
+
+- [ ] The Beatles
+- [ ] N.W.A.
+- [x] Nirvana
+
+#### Which of the following is one of the phrases activated by Woody's drawstring?
+
+- [ ] To infinity... and beyond!
+- [ ] Let's get physical!
+- [x] There's a snake in my boot!
+
+#### Which Lakers legend use the Skyhook as their signature shot?
+
+- [x] Kareem Abdul-Jabbar
+- [ ] Michael Cooper
+- [ ] Byron Scott
+
+#### Which of the following TV series is animated?
+
+- [ ] Blood & Treasure
+- [x] He-Man and the Masters of the Universe
+- [ ] Manifest
+
+#### When a product is popular, people would commonly say it's selling like what?
+
+- [ ] Waffles
+- [x] Hotcakes
+- [ ] Grits
+
+#### Where have the Tonys traditionally been held?
+
+- [ ] Dodgers Stadium
+- [ ] The International Space Station
+- [x] Radio City Music Hall
+
+#### In which of these card games is your goal to get rid of all your cards?
+
+- [ ] War
+- [ ] Poker
+- [x] Uno
+
+#### Copper and Tin comprise what metal alloy?
+
+- [ ] Aluminum
+- [ ] Lead
+- [x] Bronze
+
+#### Who wrote books like "War & Peace" and "Anna Karenina"?
+
+- [ ] Stephen King
+- [x] Leo Tolstoy
+- [ ] Beverly Cleary
+
+#### Whose autobiography is titled "Kitchen Confidential"?
+
+- [ ] Patti Smith
+- [x] Anthony Bourdain
+- [ ] Ted Allen
+
+#### Complete this Pink Floyd album title: "Dark Side of ___"
+
+- [x] The Moon
+- [ ] The Transformers
+- [ ] The Ring
+
+#### Starting in 1999, what new toy was banned in schools?
+
+- [ ] Happenin' Hair Barbie
+- [x] Tech Decks
+- [ ] Tamagotchi
+
+#### Luke and Laura were one of the central couples on which soap opera?
+
+- [ ] Another World
+- [x] General Hospital
+- [ ] One Life To Live
+
+#### What breakfast cereal is advertised as "Magically Delicious"?
+
+- [ ] Oatmeal
+- [ ] Corn Flakes
+- [x] Lucky Charms
+
+#### How many wives did serial marrier Henry the VIII have?
+
+- [ ] None
+- [ ] One
+- [x] Six
+
+#### Which of these Broadway musicals centers around a murder trial?
+
+- [ ] Carousel
+- [ ] South Pacific
+- [x] Chicago
+
+#### Where did the world's first commercial flight travel to?
+
+- [ ] New York
+- [ ] Paris
+- [x] Florida
+
+#### Book of Mormon is a Broadway musical from the creators of what cartoon?
+
+- [ ] Looney Tunes
+- [x] South Park
+- [ ] Merrie Melodies
+
+#### What does Kellogg's make?
+
+- [ ] Seasoning
+- [x] Cereal
+- [ ] Pants
+
+#### Kevin Plank is the founder of what apparel brand?
+
+- [ ] True Religion
+- [x] Under Armour
+- [ ] Ecko Unltd
+
+#### What brand claims to keep "going and going and going"?
+
+- [x] Energizer
+- [ ] Ford
+- [ ] IBM
+
+#### Which of these novels is adapted from a radio play?
+
+- [ ] War of the Worlds
+- [x] Hitchhiker's Guide to the Galaxy
+- [ ] I, Robot
+
+#### Bronson Pinchot played what famous sitcom character?
+
+- [x] Balki Bartokomous
+- [ ] Barki Bartholomew
+- [ ] Banksy
+
+#### What video game series launched their wildly popular trading card game in 1999?
+
+- [ ] Super Mario Bros
+- [x] Pokemon
+- [ ] Tetris
+
+#### Which of these slogans wasn't used by Popeye's Chicken?
+
+- [ ] Louislana Fast
+- [x] The Chicken is Just OK
+- [ ] Love That Chicken From Popeyes
+
+#### Which of these quotes is from "Gladiator"?
+
+- [x] Are you not entertained?
+- [ ] I am Spartacus!
+- [ ] I am your father.
+
+#### Wolverine is part of what super team?
+
+- [ ] The Defenders
+- [ ] Great Lakes Avengers
+- [x] X-Men
+
+#### Which museum houses the Mona Lisa?
+
+- [x] The Louvre
+- [ ] The Guggenheim
+- [ ] LACMA
+
+#### Where did the actual Mary from the nursery rhyme have a little lamb?
+
+- [ ] England
+- [ ] New York
+- [x] Massachusetts
+
+#### What fruit is also known as "Bounceberries"?
+
+- [ ] Blueberry
+- [x] Cranberry
+- [ ] Grapes
+
+#### In which film would you hear the Twilight Bark?
+
+- [ ] Lady and the Tramp
+- [x] 101 Dalmatians
+- [ ] Aristocats
+
+#### The primary ingredients in a milkshake are milk and what?
+
+- [ ] Coffee
+- [ ] Brownie
+- [x] Ice cream
+
+#### What body part is a scarf meant to keep warm?
+
+- [ ] Waist
+- [ ] Ankles
+- [x] Neck
+
+#### What are the colors of the American Flag?
+
+- [ ] Yellow, Green, and Brown
+- [ ] Purple, Purple, and Purple
+- [x] Red, White, and Blue
+
+#### Which astronaut had the longest life?
+
+- [x] Neil Armstrong
+- [ ] Yuri Gagarin
+- [ ] Alan Shepard
+
+#### Who was the first President of the United States?
+
+- [ ] Abraham Lincoln
+- [ ] Harry S. Truman
+- [x] George Washington
+
+#### Michelangelo famously painted the ceilling of what building?
+
+- [ ] White House
+- [x] Sistine Chapel
+- [ ] Madison Square Garden
+
+#### What holiday is celebrated in the U.S. on July 4th?
+
+- [ ] Flag Day
+- [x] Independence Day
+- [ ] Christmas
+
+#### Crisco is a type of what?
+
+- [ ] Sweater
+- [ ] Sandwich
+- [x] Shortening
+
+#### Which of the following is used to display roadside advertisements?
+
+- [x] Billboard
+- [ ] Billabong
+- [ ] Bill Withers
+
+#### Myrmecophaga Tridactyla is better known as what animal?
+
+- [ ] Bull Elephant
+- [x] Giant Anteater
+- [ ] Blue Whale
+
+#### What MLB team won its first ever World Series Championship in November of 2023?
+
+- [x] Texas Rangers
+- [ ] New York Yankees
+- [ ] San Francisco Giants
+
+#### What was the highest grossing movie of 2023?
+
+- [ ] The Holdovers
+- [x] Barbie
+- [ ] Thanksgiving
+
+#### In 2023, the entertainment industry was brought to a halt by simultaneous strikes from what two unions?
+
+- [ ] IATSE and Bakers Local #456
+- [ ] Steel Workers & Craft Services
+- [x] WGA and SAG-AFTRA
+
+#### In November of 2023, a man was apprehended for wandering naked around what Disneyland attraction?
+
+- [x] It's A Small World
+- [ ] Space Mountain
+- [ ] King Arthur's Carousel
+
+#### What 2023 TV show, based on a video game, was a big hit for HBO?
+
+- [ ] The Other Two
+- [x] The Last of Us
+- [ ] Julia
+
+#### June 12th, 2023 was the culmination of a big birthday celebration for what fast food icon?
+
+- [ ] Colonel Sanders
+- [ ] The Noid
+- [x] Grimace
+
+#### What 2023 Morgan Wallen song peaked at number 1 on the Billboard Hot 100?
+
+- [ ] Fast Car
+- [x] Last Night
+- [ ] I Remember Everything
+
+#### In 2023, who re-released "their version" of their albums Speak Now and 1989?
+
+- [ ] Miley Cyrus
+- [ ] Doja Cat
+- [x] Taylor Swift
+
+#### The video game company Activision Blizzard was acquired in 2023 for $68.7 billion by what Bill Gates company?
+
+- [x] Microsoft
+- [ ] Four Seasons
+- [ ] Berkshire Hathaway
+
+#### A 2023 TikTok trend claimed that men spend an inordinate amount of time thinking about what?
+
+- [x] The Roman Empire
+- [ ] Shoes
+- [ ] Chili
+
+#### What piece of lab equipment is used to produce a flame?
+
+- [ ] Rubber Tubing
+- [ ] Beaker
+- [x] Bunsen Burner
+
+#### The Port of Rotterdam in the Netherlands is the largest port on what continent?
+
+- [ ] Africa
+- [x] Europe
+- [ ] Australia
+
+#### Which of the following is NOT something a plant needs to grow?
+
+- [x] Punishment
+- [ ] Water
+- [ ] Sunlight
+
+#### What clothing item do you rarely see Donald Duck wearing?
+
+- [ ] Shirt
+- [x] Pants
+- [ ] Hat
+
+#### Which of these is NOT one of the events in a standard triathlon?
+
+- [ ] Cycling
+- [x] Personality
+- [ ] Swimming
+
+#### In 2009, what bizarre piece of home exercise equipment made its debut?
+
+- [x] Shake Weight
+- [ ] Nordictrack
+- [ ] Thighmaster
+
+#### What restaurant's founder lost the controlling share in his company to his partners in a game of poker?
+
+- [x] Hardee's
+- [ ] Carl's Jr.
+- [ ] Jack-in-the-Box
+
+#### According to its legal definition, if you are the persona non grata at a party, what are you?
+
+- [x] Unwelcome
+- [ ] The host
+- [ ] The waitress
+
+#### Which of the following is commonly considered to bring bad luck?
+
+- [ ] Spitting on a bus
+- [x] Walking under an open ladder
+- [ ] Wearning blue to a mall
+
+#### Chick-fil-A restaurants are famously closed on what day of the week?
+
+- [ ] Monday
+- [ ] Friday
+- [x] Sunday
+
+#### Zendaya won a Best LEading Actress Emmy for her role on what TV show?
+
+- [ ] I Think You Should Leave
+- [x] Euphoria
+- [ ] And Just Like That...
+
+#### Which of the following food items is NOT sold at Disneyland?
+
+- [ ] Mayonnaise
+- [ ] Cilantro
+- [x] Gum
+
+#### Kenner Toys released the original action figure line of characters from what movie?
+
+- [ ] The Searchers
+- [x] Star Wars
+- [ ] Jaws
+
+#### "Gargoyle" derives from the French word for what?
+
+- [ ] Beast
+- [ ] Drain
+- [x] Throat
+
+#### Which of the following is NOT an Olympic Gymnastic event?
+
+- [x] Getting A Good Stretch
+- [ ] Balance Beam
+- [ ] Pommel Horse
+
+#### Who actually drew the portrait of Rose that appears in "Titanic"?
+
+- [ ] Kathy Bates
+- [ ] Leonardo DiCaprio
+- [x] James Cameron
+
+#### MC Hammer had a 1990 hit with what song?
+
+- [x] U Can't Touch This
+- [ ] U Just Touched That
+- [ ] U Won't Touch Anything
+
+#### What reality show features Roadblocks, Detours, and Pit Stops?
+
+- [ ] Vanderpump Rules
+- [x] The Amazing Race
+- [ ] Survivor
+
+#### Which of these Disney World Animal Kingdom attractions opened in May of 2017?
+
+- [x] Pandora: The World of Avatar
+- [ ] Rivers of Light
+- [ ] The Jungle Book: Alive with Magic
+
+#### In the popular Transformers toy line, who is the leader of the Autobots?
+
+- [ ] Starscream
+- [ ] Megatron
+- [x] Optimus Prime
+
+#### Hannibal used elephants to cross which mountain range?
+
+- [x] The Alps
+- [ ] The Pyrenees
+- [ ] The Carpathians
+
+#### Which city is known as The Big Apple?
+
+- [x] New York City
+- [ ] Party City
+- [ ] Circuit City
+
+#### What is the name of Goofy's son?
+
+- [ ] Mike
+- [ ] Mark
+- [x] Max
+
+#### During the holidays people traditionally build houses out of what cookie?
+
+- [ ] Dunkaroos
+- [ ] Teddy Grahams
+- [x] Gingerbread
+
+#### Ferdinand III was the longest reigning monarch of what former Kingdom?
+
+- [x] Sicily
+- [ ] Gaul
+- [ ] Prussia
+
+#### Which of these phrases is in the past tense?
+
+- [ ] I'm winning Swagbucks LIVE
+- [ ] I will win Swagbucks LIVE
+- [x] I won Swagbucks LIVE
