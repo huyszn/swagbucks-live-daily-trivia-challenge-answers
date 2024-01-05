@@ -26076,3 +26076,81 @@
 - [ ] Scrabble
 - [ ] Legend of the Hidden Temple
 - [x] Fear Factor
+
+#### What is the word order in English?
+
+- [x] Subject-Verb-Object
+- [ ] Verb-Verb-Subject
+- [ ] Object-Subject-Object
+
+#### Which of these is not caused by a virus?
+
+- [x] Plague
+- [ ] Polio
+- [ ] Herpes
+
+#### Who used the Infinity Gauntlet to get rid of half of all life in the universe?
+
+- [ ] Gamora
+- [ ] Star-Lord
+- [x] Thanos
+
+#### In 2001, National Geographic reported about what animal recognizing themselves in mirrors?
+
+- [x] Dolphins
+- [ ] Zebras
+- [ ] Ducks
+
+#### In what schoolyard game do you call for people to "come over"?
+
+- [ ] Dodgeball
+- [x] Red Rover
+- [ ] Freeze Tag
+
+#### Which of the following events happened in September of 1984?
+
+- [ ] Saturday Night Fever premieres
+- [ ] Walter Payton breaks rushing record
+- [x] First CD pressed in U.S.
+
+#### For years, Verizon Wireless featured a man walking around repeatedly asking what question?
+
+- [x] "Can you hear me now?"
+- [ ] "Does this taste funny to you?"
+- [ ] "Where's mom?"
+
+#### What actor's name was rumored to be Disney's last words?
+
+- [ ] David Tomlinson
+- [ ] Julie Andrews
+- [x] Kurt Russell
+
+#### A Fluffernutter sandwich contains peanut butter and what?
+
+- [ ] Jelly
+- [x] Marshmallow fluff
+- [ ] Sand
+
+#### What movie did NASA use in their management training film?
+
+- [ ] The Right Stuff
+- [ ] 2001: A Space Odyssey
+- [x] Armageddon
+
+#### Splash Mountain was closed in 2023 to be re-themed around which Disney film?
+
+- [ ] Elemental
+- [x] The Princess and the Frog
+- [ ] Up
+
+#### In "Raiders of the Lost Ark", who can you see in the glyphs of the Ark's Chamber?
+
+- [ ] Jaws
+- [x] C-3PO & R2D2
+- [ ] The "Trolo" Guy
+
+#### Dementia 13 was the mainstream film directing debut of what director?
+
+- [x] Franicis Ford Coppola
+- [ ] Alfred Hitchcock
+- [ ] Wes Craven
