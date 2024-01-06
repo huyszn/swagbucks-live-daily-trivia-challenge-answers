@@ -26154,3 +26154,57 @@
 - [x] Franicis Ford Coppola
 - [ ] Alfred Hitchcock
 - [ ] Wes Craven
+
+#### Which of the following holiday foods is the oldest?
+
+- [x] Cranberry Sauce
+- [ ] Peppermint Bark
+- [ ] Sweet Potatoes with marshmallows
+
+#### What magical creatures serve as Santa's helpers?
+
+- [ ] Giants
+- [x] Elves
+- [ ] Goblins
+
+#### Richard Pryor won his only Emmy writing for what other comedian?
+
+- [ ] Dick Gregory
+- [x] Lily Tomlin
+- [ ] Eddie Murphy
+
+#### Which of these idioms refers to making through rough times?
+
+- [x] Weather the storm
+- [ ] Under the weather
+- [ ] Keep a weather eye
+
+#### Which of these historical eras happened first?
+
+- [x] The Bronze Age
+- [ ] The Enlightenment
+- [ ] The French Revolution
+
+#### In Pittsburgh, what does the term "inclines" refer to?
+
+- [ ] Stairs
+- [ ] Elevators
+- [x] Trolleys
+
+#### Elaine, Kramer, and George are all lead characters from what sitcom?
+
+- [ ] Home Improvement
+- [ ] All in the Family
+- [x] Seinfeld
+
+#### Who is the voice of Woody in the Toy Story movies?
+
+- [ ] Tim Allen
+- [x] Tom Hanks
+- [ ] Billy Crystal
+
+#### Romance Languages are all derived from what mother language?
+
+- [ ] Esperanto
+- [x] Latin
+- [ ] Semaphore
