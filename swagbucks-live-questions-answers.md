@@ -26208,3 +26208,45 @@
 - [ ] Esperanto
 - [x] Latin
 - [ ] Semaphore
+
+#### What toy line claims to be "More than meets the eye"?
+
+- [x] Transformers
+- [ ] Crystar
+- [ ] Micronauts
+
+#### On which continent is Egypt located?
+
+- [ ] Europe
+- [ ] Asia
+- [x] Africa
+
+#### When you order pie ala modde, how is it served?
+
+- [ ] Frozen
+- [x] With ice cream
+- [ ] Over pasta
+
+#### The reporter who broke the Teapot Dome Scandal is also responsible for what invention?
+
+- [ ] Wrist Watch
+- [x] Parking Meter
+- [ ] Lie Detector
+
+#### Which of these countries has no rivers?
+
+- [ ] Iran
+- [ ] Iraq
+- [x] Saudi Arabia
+
+#### Which of the following is a game played with two jump ropes?
+
+- [x] Double Dutch
+- [ ] Double Finnish
+- [ ] Double Norwegian
+
+#### Which of the following is NOT a town in the U.S.?
+
+- [ ] Accident, Maryland
+- [ ] Chicken, Alaska
+- [x] Malice, Utah
