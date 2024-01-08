@@ -26016,3 +26016,237 @@
 - [ ] I'm winning Swagbucks LIVE
 - [ ] I will win Swagbucks LIVE
 - [x] I won Swagbucks LIVE
+
+#### What kind of puzzles are you trying to solve on "Wheel of Fortune"?
+
+- [x] Word Puzzles
+- [ ] Jigsaw Puzzles
+- [ ] Rebus Puzzles
+
+#### What secret squares on the "Jeopardy!" board allow you to wager some or all of your money?
+
+- [ ] Let It Ride
+- [x] Daily Double
+- [ ] Wageriffic
+
+#### Before Drew Carey, who was the longtime host of "The Price is Right"?
+
+- [ ] Wink Martindale
+- [ ] Steve Harvey
+- [x] Bob Barker
+
+#### Michael Larson of Lebanon, OH rose to fame after figuring out how to beat what game show?
+
+- [ ] Double Dare
+- [x] Press Your Luck
+- [ ] $25,000 Pyramid
+
+#### The crew of Netflix's "The Floor Is Lava" got to vote on the scent of the lava slime. What did they pick?
+
+- [ ] Strawberries
+- [ ] Fresh Laundry
+- [x] Bubblegum
+
+#### Howie Mandel hosted what game show featuring a "Banker" and 26 mystery briefcases?
+
+- [x] Deal or No Deal
+- [ ] Card Sharks
+- [ ] High Rollers
+
+#### What game show legend wrote the theme to "Jeopardy!" in less than 30 seconds?
+
+- [ ] Chuck Barris
+- [x] Merv Griffin
+- [ ] Mark Goodson
+
+#### What comedy filmmaker won the grand prize on "The $25,000 Pyramid" and used the winnings to jumpstart his career?
+
+- [ ] Ivan Reitman
+- [ ] Todd Phillips
+- [x] Paul Feig
+
+#### The group Rockapella provided the live music for what children's game show?
+
+- [x] Where In The World Is Carmen Sandiego?
+- [ ] Pictureka
+- [ ] The Big Fib
+
+#### A paralegal once sued what show for airing a challenge so gross that he became sick?
+
+- [ ] Scrabble
+- [ ] Legend of the Hidden Temple
+- [x] Fear Factor
+
+#### What is the word order in English?
+
+- [x] Subject-Verb-Object
+- [ ] Verb-Verb-Subject
+- [ ] Object-Subject-Object
+
+#### Which of these is not caused by a virus?
+
+- [x] Plague
+- [ ] Polio
+- [ ] Herpes
+
+#### Who used the Infinity Gauntlet to get rid of half of all life in the universe?
+
+- [ ] Gamora
+- [ ] Star-Lord
+- [x] Thanos
+
+#### In 2001, National Geographic reported about what animal recognizing themselves in mirrors?
+
+- [x] Dolphins
+- [ ] Zebras
+- [ ] Ducks
+
+#### In what schoolyard game do you call for people to "come over"?
+
+- [ ] Dodgeball
+- [x] Red Rover
+- [ ] Freeze Tag
+
+#### Which of the following events happened in September of 1984?
+
+- [ ] Saturday Night Fever premieres
+- [ ] Walter Payton breaks rushing record
+- [x] First CD pressed in U.S.
+
+#### For years, Verizon Wireless featured a man walking around repeatedly asking what question?
+
+- [x] "Can you hear me now?"
+- [ ] "Does this taste funny to you?"
+- [ ] "Where's mom?"
+
+#### What actor's name was rumored to be Disney's last words?
+
+- [ ] David Tomlinson
+- [ ] Julie Andrews
+- [x] Kurt Russell
+
+#### A Fluffernutter sandwich contains peanut butter and what?
+
+- [ ] Jelly
+- [x] Marshmallow fluff
+- [ ] Sand
+
+#### What movie did NASA use in their management training film?
+
+- [ ] The Right Stuff
+- [ ] 2001: A Space Odyssey
+- [x] Armageddon
+
+#### Splash Mountain was closed in 2023 to be re-themed around which Disney film?
+
+- [ ] Elemental
+- [x] The Princess and the Frog
+- [ ] Up
+
+#### In "Raiders of the Lost Ark", who can you see in the glyphs of the Ark's Chamber?
+
+- [ ] Jaws
+- [x] C-3PO & R2D2
+- [ ] The "Trolo" Guy
+
+#### Dementia 13 was the mainstream film directing debut of what director?
+
+- [x] Franicis Ford Coppola
+- [ ] Alfred Hitchcock
+- [ ] Wes Craven
+
+#### Which of the following holiday foods is the oldest?
+
+- [x] Cranberry Sauce
+- [ ] Peppermint Bark
+- [ ] Sweet Potatoes with marshmallows
+
+#### What magical creatures serve as Santa's helpers?
+
+- [ ] Giants
+- [x] Elves
+- [ ] Goblins
+
+#### Richard Pryor won his only Emmy writing for what other comedian?
+
+- [ ] Dick Gregory
+- [x] Lily Tomlin
+- [ ] Eddie Murphy
+
+#### Which of these idioms refers to making through rough times?
+
+- [x] Weather the storm
+- [ ] Under the weather
+- [ ] Keep a weather eye
+
+#### Which of these historical eras happened first?
+
+- [x] The Bronze Age
+- [ ] The Enlightenment
+- [ ] The French Revolution
+
+#### In Pittsburgh, what does the term "inclines" refer to?
+
+- [ ] Stairs
+- [ ] Elevators
+- [x] Trolleys
+
+#### Elaine, Kramer, and George are all lead characters from what sitcom?
+
+- [ ] Home Improvement
+- [ ] All in the Family
+- [x] Seinfeld
+
+#### Who is the voice of Woody in the Toy Story movies?
+
+- [ ] Tim Allen
+- [x] Tom Hanks
+- [ ] Billy Crystal
+
+#### Romance Languages are all derived from what mother language?
+
+- [ ] Esperanto
+- [x] Latin
+- [ ] Semaphore
+
+#### What toy line claims to be "More than meets the eye"?
+
+- [x] Transformers
+- [ ] Crystar
+- [ ] Micronauts
+
+#### On which continent is Egypt located?
+
+- [ ] Europe
+- [ ] Asia
+- [x] Africa
+
+#### When you order pie ala modde, how is it served?
+
+- [ ] Frozen
+- [x] With ice cream
+- [ ] Over pasta
+
+#### The reporter who broke the Teapot Dome Scandal is also responsible for what invention?
+
+- [ ] Wrist Watch
+- [x] Parking Meter
+- [ ] Lie Detector
+
+#### Which of these countries has no rivers?
+
+- [ ] Iran
+- [ ] Iraq
+- [x] Saudi Arabia
+
+#### Which of the following is a game played with two jump ropes?
+
+- [x] Double Dutch
+- [ ] Double Finnish
+- [ ] Double Norwegian
+
+#### Which of the following is NOT a town in the U.S.?
+
+- [ ] Accident, Maryland
+- [ ] Chicken, Alaska
+- [x] Malice, Utah
