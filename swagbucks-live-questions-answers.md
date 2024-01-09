@@ -26250,3 +26250,141 @@
 - [ ] Accident, Maryland
 - [ ] Chicken, Alaska
 - [x] Malice, Utah
+
+#### In which decade were the Oscars first held?
+
+- [x] 1920s
+- [ ] 1960s
+- [ ] 1980s
+
+#### Who is the first person to win an EGOT twice?
+
+- [x] Robert Lopez
+- [ ] Jonathan Tunick
+- [ ] Barbra Steisand
+
+#### How many pints are in 3 gallons?
+
+- [ ] 12
+- [ ] 16
+- [x] 24
+
+#### What is the name of Dr. Teeth's brand?
+
+- [ ] The Electric Ladyland
+- [ ] The Electric Company
+- [x] The Electric Mayhem
+
+#### What giant park sits in the middle of the island of Manhattan?
+
+- [ ] Gosford Park
+- [x] Central Park
+- [ ] Fairmount Park
+
+#### Which of the following is not considered a "primary" color?
+
+- [ ] Red
+- [ ] Yellow
+- [x] Black
+
+#### Which of the following bands is NOT made up of siblings?
+
+- [ ] Hanson
+- [ ] The Jonas Brothers
+- [x] The Killers
+
+#### Which Airline is based in New Zealand?
+
+- [ ] American Airlines
+- [x] Air New Zealand
+- [ ] British Airways
+
+#### What actor has a successful career as DJ Big Driis?
+
+- [ ] Elijah Wood
+- [ ] Shaquille O'Neal
+- [x] Idris Elba
+
+#### Which of the following is NOT the name of a Kardashian sister?
+
+- [ ] Kim
+- [ ] Khole
+- [x] Kensington
+
+#### What youth organization holds an annual, nationwide ready-to-eat cookie sale?
+
+- [ ] Future Farmers of America
+- [x] Girl Scouts of America
+- [ ] Montessori
+
+#### What cable channel gives out the Kids' Choice Awards?
+
+- [ ] Lifetime
+- [x] Nickelodeon
+- [ ] ESPN 2
+
+#### The creator of the coupon was also the owner of what copmany?
+
+- [x] Coca-Cola
+- [ ] Jolly Green Giant
+- [ ] General Mills
+
+#### Where in New York City does the giant ball drop on New Year's Eve?
+
+- [ ] Central Park
+- [ ] Wall Street
+- [x] Times Square
+
+#### What Southern U.S. city is known as The Big Peach?
+
+- [x] Atlanta
+- [ ] Charleston
+- [ ] Jackson
+
+#### Which of these comic strip characters is a detective?
+
+- [ ] Cathy
+- [x] Dick Tracy
+- [ ] Marmaduke
+
+#### "Fun to play with, not to eat" was a slogan for what toy brand?
+
+- [x] Play Doh
+- [ ] Yahtzee
+- [ ] Pound Puppies
+
+#### What is the name of the tissue that connects muscles to bones?
+
+- [ ] Abs
+- [x] Tendons
+- [ ] Pecs
+
+#### What secret society uses the motto "LIBERTY, EQUALITY, FRATERNITY, SOLIDARITY"?
+
+- [ ] The Illuminati
+- [ ] Skull & Bones
+- [x] Freemasons
+
+#### William "The Fridge" Perry was famous for playing what sport?
+
+- [ ] Tennis
+- [x] American Football
+- [ ] Baseball
+
+#### What band put out songs like Wish You Were Here, Money, and The Wall?
+
+- [x] Pink Floyd
+- [ ] Fleetwood Mac
+- [ ] The Band
+
+#### Complete this quote from The Godfather, Part II: "Keep your friends close, but your enemies...?
+
+- [ ] In your car
+- [ ] At room temperature
+- [x] Closer
+
+#### Which of the following dishes is generally an hors-d'oeuvre?
+
+- [x] Pigs in a Blanket
+- [ ] Ice Cream Sundae
+- [ ] Bone-In Ribeye
