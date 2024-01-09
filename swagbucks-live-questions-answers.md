@@ -26388,3 +26388,27 @@
 - [x] Pigs in a Blanket
 - [ ] Ice Cream Sundae
 - [ ] Bone-In Ribeye
+
+#### Who created "Family Guy"?
+
+- [x] Seth MacFarlane
+- [ ] Matt Groening
+- [ ] Bob Clampett
+
+#### In the song "Frosty the Snowman", what happened when the magic hat was first put on his head?
+
+- [ ] He screamed
+- [x] He began to dance around
+- [ ] He flew into space
+
+#### Nesquik Chocolate Powder uses what animal as a mascot?
+
+- [ ] Turtle
+- [x] Rabbit
+- [ ] Bear
+
+#### What is the name for the process of making solid, three-dimensional objects from a digital file?
+
+- [ ] TRON-ing
+- [x] 3D Printing
+- [ ] Scanning
