@@ -26472,3 +26472,27 @@
 - [ ] Magnets
 - [ ] An Alaskan cruise
 - [x] The truth
+
+#### In which State was Johnny Appleseed born?
+
+- [ ] Indiana
+- [ ] Oregon
+- [x] Massachusetts
+
+#### Which of the following played a part in Milton Bradley's decision to start making board games?
+
+- [x] Lincoln's beard
+- [ ] The Civil War
+- [ ] Breakfast food
+
+#### Which of hte following is a kind of tree?
+
+- [x] Oak
+- [ ] Oat
+- [ ] Oar
+
+#### Which of these Disney shows ties directly into the Marvel Cinematic Universe?
+
+- [ ] The Mandalorian
+- [x] WandaVision
+- [ ] On Pointe
