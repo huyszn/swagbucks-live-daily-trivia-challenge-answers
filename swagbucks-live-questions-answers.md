@@ -26412,3 +26412,63 @@
 - [ ] TRON-ing
 - [x] 3D Printing
 - [ ] Scanning
+
+#### In which pub game are you trying to get your score down to zero?
+
+- [x] Darts
+- [ ] Billiards
+- [ ] Shuffleboard
+
+#### Domenico Dolce is the co-founder of what fashion brand?
+
+- [ ] Gucci
+- [x] Dolce & Gabbana
+- [ ] Jimmy Choo
+
+#### What color are standard pieces of Twizzlers candy?
+
+- [ ] Green
+- [ ] Yellow
+- [x] Red
+
+#### When would you find a structure that was recently believed to be unearthed as the world's oldest pyramid?
+
+- [ ] Egypt
+- [ ] Mexico
+- [x] Indonesia
+
+#### In "The Wizard of Oz", what is Dorothy supposed to say while clicking the ruby slippers together?
+
+- [ ] "Jane, get me off this crazy thing"
+- [x] "There's no place like home"
+- [ ] "I'll be back"
+
+#### What is the name for the part of the song with a different chord progression or key/tempo that connects two other parts?
+
+- [x] Bridge
+- [ ] Ladder
+- [ ] Bucket
+
+#### When texting, you would use IJBOL to convey what?
+
+- [ ] That you'll be late
+- [x] That you're laughing
+- [ ] That you're tired
+
+#### Which of the following is the name of a desert?
+
+- [ ] Grand Tetons
+- [x] Death Valley
+- [ ] Yosemite
+
+#### The remains of Babylon can be found in what modern-day country?
+
+- [x] Iraq
+- [ ] Italy
+- [ ] Iceland
+
+#### According to the saying, what will set you free?
+
+- [ ] Magnets
+- [ ] An Alaskan cruise
+- [x] The truth
