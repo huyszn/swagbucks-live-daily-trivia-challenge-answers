@@ -26532,3 +26532,63 @@
 - [x] A jar of farts
 - [ ] Fire
 - [ ] Leeches
+
+#### In which decade did the mini skirt first come into fashion?
+
+- [x] 1960's
+- [ ] 1840's
+- [ ] 1710's
+
+#### The double G logo is the logo of what fashion brand?
+
+- [ ] Ralph Lauren
+- [x] Gucci
+- [ ] Burberry
+
+#### Flare pants are also known by what name?
+
+- [ ] Bell tops
+- [x] Bell Bottoms
+- [ ] Jorts
+
+#### Which George Michael song had a video filled with Super Models lip syncing to the lyrics?
+
+- [ ] Thriller
+- [ ] Material Girl
+- [x] Freedom! '90
+
+#### "Friends" inspired a hair trend named for which character?
+
+- [x] Rachel
+- [ ] Marcel
+- [ ] Gunther
+
+#### In 1907, Annette Kellerman was arrested in Boston for wearing what piece of clothing in public?
+
+- [ ] Bra
+- [x] One piece swumsuit
+- [ ] Men's tuxedo
+
+#### According to tradition, what color are you NOT supposed to wear after Labor Day?
+
+- [ ] Black
+- [ ] Green
+- [x] White
+
+#### In Men's Fashion, a rule states that you should have no more than how many points of interest on your body at one time?
+
+- [ ] 100
+- [x] 7
+- [ ] 1,000
+
+#### Which pop star famously wore a dress made of meat to the 2010 MTV Video Music Awards?
+
+- [x] Lady Gaga
+- [ ] Britney Spears
+- [ ] Cyndi LAuper
+
+#### When she was a teenager, Brooke Shields famously appeared in ads for what fashion brand?
+
+- [ ] American Eagle Outfitters
+- [x] Calvin Klein
+- [ ] Old Navy
