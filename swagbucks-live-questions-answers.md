@@ -26485,7 +26485,7 @@
 - [ ] The Civil War
 - [ ] Breakfast food
 
-#### Which of hte following is a kind of tree?
+#### Which of the following is a kind of tree?
 
 - [x] Oak
 - [ ] Oat
@@ -26496,3 +26496,39 @@
 - [ ] The Mandalorian
 - [x] WandaVision
 - [ ] On Pointe
+
+#### Which of the following is a country in Hawaii?
+
+- [ ] Los Angeles
+- [x] Kauai
+- [ ] Philadelphia
+
+#### What color is the play button in the YouTube logo?
+
+- [ ] Blue
+- [ ] Yellow
+- [x] Red
+
+#### Which of the following is a kind of tree?
+
+- [x] Oak
+- [ ] Oat
+- [ ] Oar
+
+#### What city is known for Deep Dish Pizza?
+
+- [x] Chicago
+- [ ] New York
+- [ ] Los Angeles
+
+#### MIT is short for the Massachusetts Institute of what?
+
+- [x] Technology
+- [ ] Toothpicks
+- [ ] Tweens
+
+#### What were 17th Century Londoners advised to keep on hand to fight the Great Plague?
+
+- [x] A jar of farts
+- [ ] Fire
+- [ ] Leeches
