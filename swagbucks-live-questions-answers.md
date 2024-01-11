@@ -26592,3 +26592,27 @@
 - [ ] American Eagle Outfitters
 - [x] Calvin Klein
 - [ ] Old Navy
+
+#### How does a mood ring indicate your mood?
+
+- [ ] With a sound
+- [ ] By vibrating
+- [x] By changing color
+
+#### Where does the "Lolli" in Lollipop come from?
+
+- [ ] Old English for sweet
+- [x] Old English for tongue
+- [ ] Old English for candy
+
+#### Who wrote the semi-autobiographical book "Star Struck"?
+
+- [ ] Paris Hilton
+- [x] Pamela Anderson
+- [ ] Tila Tequila
+
+#### In what order are the Kwanzaa candles lit?
+
+- [x] Black, Red, Green
+- [ ] Green, Black, Red
+- [ ] Red, Green, Black
