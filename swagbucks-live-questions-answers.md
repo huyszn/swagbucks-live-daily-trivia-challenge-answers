@@ -26616,3 +26616,63 @@
 - [x] Black, Red, Green
 - [ ] Green, Black, Red
 - [ ] Red, Green, Black
+
+#### Which of the following is a brand of credit card?
+
+- [x] Discover
+- [ ] Experiment
+- [ ] Hypothesize
+
+#### Cobb, Caesar, and Waldorf are all varieties of what dish?
+
+- [ ] Soup
+- [x] Salad
+- [ ] Breadsticks
+
+#### Which of these cities is actually a country?
+
+- [ ] Oklahoma City
+- [ ] Mexico City
+- [x] Vatican City
+
+#### Bentley & Son's rejection letter for Mobu-Dick was said to include what note about the book?
+
+- [x] "Does it have to be a whale?"
+- [ ] "Who is Ahab?"
+- [ ] "What if it was on land?"
+
+#### What term is used for the people who design ballons for the Macy's Thanksgiving Day Parade?
+
+- [ ] Balloonies
+- [ ] Balloonists
+- [x] Balloonatics
+
+#### John Goodman played Dan Conner on what ABC sitcom?
+
+- [x] Roseanne
+- [ ] Family Ties
+- [ ] Seinfeld
+
+#### Twister became a hit after Johnny Carson played it on the Tonight Show. Who did he play it with?
+
+- [ ] Jane Fonda
+- [ ] Raquel Welch
+- [x] Eva Gabor
+
+#### Who is known as the mother of Modern Medicine?
+
+- [ ] Florence Nightingale
+- [x] Henrietta Lacks
+- [ ] Marie Curie
+
+#### Fill in the blanks and complete this Whitney Houston song title: "I Wanna ____ With Somebody"
+
+- [x] Dance
+- [ ] Fish
+- [ ] Rollerskate
+
+#### Which of the following sports uses a dimpled ball?
+
+- [ ] Tennis
+- [ ] Volleyball
+- [x] Golf
