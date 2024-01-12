@@ -26676,3 +26676,45 @@
 - [ ] Tennis
 - [ ] Volleyball
 - [x] Golf
+
+#### Which of the following is NOT the name of a Stark Direwolf?
+
+- [ ] Shaggydog
+- [x] Nykia
+- [ ] Ghost
+
+#### What natural phenomenon accounts for 95% of why sand dunes move?
+
+- [ ] Suspension
+- [x] Saltation
+- [ ] Creeping
+
+#### Which Star Wars movie used the title "Blue Harvest" during filming to avoid the press?
+
+- [x] Return of the Jedi
+- [ ] The Empire Strikes Back
+- [ ] The Force Awakens
+
+#### What Russian nuclear plant famously suffered a meltdown in 1986?
+
+- [x] Chernobyl
+- [ ] Three Mile Island
+- [ ] Gravelines
+
+#### Which #1 draft pick has the most championship rings?
+
+- [ ] Michael Jordan
+- [x] Kareem Abdul-Jabbar
+- [ ] Tim Duncan
+
+#### March 31, 1848 is widley considered to be the start of what movement?
+
+- [ ] Mormonism
+- [x] Spiritualism
+- [ ] The Gold Rush
+
+#### What Hebrew word is another term used for the Hanukkah menorah?
+
+- [x] Chanukiah
+- [ ] Eight-Lighter
+- [ ] Fire Keeper
