@@ -26718,3 +26718,57 @@
 - [x] Chanukiah
 - [ ] Eight-Lighter
 - [ ] Fire Keeper
+
+#### How should you address someone in a formal letter if you don't known their name?
+
+- [ ] Hey You
+- [ ] Dear Whatsername
+- [x] Dear Sir/Madam
+
+#### What awards are given out for excellence in live theater on Broadway?
+
+- [ ] Emmys
+- [ ] Golden Globes
+- [x] Tonys
+
+#### Shiloh, Maddox, an dPax are the names of the children of Brad Pitt and what ex-wife?
+
+- [ ] Jennifer Aniston
+- [x] Angelina Jolie
+- [ ] Carrie-Anne Moss
+
+#### What does the J in "PB & J" stand for?
+
+- [ ] Jingle
+- [ ] Jumpers
+- [x] Jelly
+
+#### Which of these was not a title of a Rembrandit painting?
+
+- [ ] The Night Watch
+- [ ] The Polish Rider
+- [x] The Swedish Fool
+
+#### At almost 200 lbs, in 2018 an Indiana soap store created the world's largest what?
+
+- [ ] Loofah
+- [ ] Bar of Soap
+- [x] Bath Bomb
+
+#### In Scrabble, what do you use your tiles to create?
+
+- [ ] Math problems
+- [x] Words
+- [ ] Cake
+
+#### What game is won by getting three x's or three o's in a row?
+
+- [ ] Go Fish
+- [ ] Othello
+- [x] Tic Tac Toe
+
+#### Who wrote an autobiography title "I Know Why The Caged Bird Sings"?
+
+- [ ] Andre Agassi
+- [x] Maya Angelou
+- [ ] Tina Fey
