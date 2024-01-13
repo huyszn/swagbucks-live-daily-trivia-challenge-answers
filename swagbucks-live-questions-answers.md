@@ -26772,3 +26772,33 @@
 - [ ] Andre Agassi
 - [x] Maya Angelou
 - [ ] Tina Fey
+
+#### What was the name of Harry S. Tryman's train on his 1984 Whistle Stop speech tour?
+
+- [x] Magellan
+- [ ] Columbus
+- [ ] Independence
+
+#### Michael Jordan won all of his championships with which NBA team?
+
+- [ ] Washington Wizards
+- [ ] Los Angeles Lakers
+- [x] Chicago Bulls
+
+#### When you ask someone to pull themselves together, what do you want them to do?
+
+- [ ] Go faster
+- [ ] Speak louder
+- [x] Calm down
+
+#### Which Disney animated movie has the song "Under The Sea"?
+
+- [ ] Aladdin
+- [x] The Little Mermaid
+- [ ] Beauty and the Beast
+
+#### In 2017, a man sued Papa John's for what reason?
+
+- [ ] Raw meat in a piza
+- [ ] Refusing him service
+- [x] Sending too many texts
