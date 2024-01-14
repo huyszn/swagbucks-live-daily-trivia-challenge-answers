@@ -26802,3 +26802,51 @@
 - [ ] Raw meat in a piza
 - [ ] Refusing him service
 - [x] Sending too many texts
+
+#### Which department store's 1955 ad misprint led to the NORAD Santa Tracker?
+
+- [x] Sears
+- [ ] Amazon
+- [ ] Petsmart
+
+#### Catherine of Aragon is one of the wives of which often-married King of England?
+
+- [x] Henry VIII
+- [ ] Richard III
+- [ ] Prince Charles
+
+#### Which of these has never been on a McDonalds' menu?
+
+- [ ] Arch Deluxe
+- [x] McReuben
+- [ ] Mighty Wings
+
+#### In the "Beadknobs & Broomsticks" song "Portobello Road", which item is NOT mentioned?
+
+- [x] Persian rug
+- [ ] Pistols
+- [ ] Cigar clipper
+
+#### The Genesis, the Saturn, and the Game Gear were all game systems released by which company?
+
+- [ ] Atari
+- [ ] Nintendo
+- [x] Sega
+
+#### Which of these Black Mirror episodes is ordered earliest in its listing?
+
+- [ ] Men Against Fire
+- [x] The Waldo Moments
+- [ ] White Christmas
+
+#### Ottawa is the capital of what country?
+
+- [x] Canada
+- [ ] Mexico
+- [ ] Australia
+
+#### Which of the following was NOT the nickname of one of the Spice Girls?
+
+- [ ] Scary
+- [ ] Posh
+- [x] Dopey
