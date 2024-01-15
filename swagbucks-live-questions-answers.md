@@ -26850,3 +26850,39 @@
 - [ ] Scary
 - [ ] Posh
 - [x] Dopey
+
+#### Philadelphia is the place where what historic document was signed?
+
+- [ ] The Magna Carta
+- [x] The Declaration of Independence
+- [ ] The Treaty of Versailles
+
+#### Pasteurization is used to kill pathogens in which of the following grocery items?
+
+- [ ] Beef
+- [x] Milk
+- [ ] Fish
+
+#### The Disney World Resort is roughly the size of what major U.S. city?
+
+- [ ] Chicago
+- [ ] Dallas
+- [x] San Francisco
+
+#### Which of the following is NOT an answer on a standard Magic 8-Ball?
+
+- [ ] Yes
+- [ ] Ask again later
+- [x] New phone, who dis?
+
+#### Jennifer Aniston was once married to which Oscar winner?
+
+- [ ] Tom Hanks
+- [ ] Meryl Streep
+- [x] Brad Pitt
+
+#### Who was the first celebrity guest on Sesame Street?
+
+- [x] James Earl Jones
+- [ ] Buzz Aldrin
+- [ ] Carol Burnett
