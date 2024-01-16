@@ -26886,3 +26886,99 @@
 - [x] James Earl Jones
 - [ ] Buzz Aldrin
 - [ ] Carol Burnett
+
+#### What company claims their food is "Finger Lickin' Good"?
+
+- [ ] Popeye's
+- [ ] Burger King
+- [x] KFC
+
+#### Which of the following is a nickname for a wrestling ring?
+
+- [ ] The Rectangled Triangle
+- [ ] The Rhombused Oval
+- [x] The Squared Circle
+
+#### The famous "I'm a Toys 'R' Us Kid" jingle was co-written by what author?
+
+- [x] James Patterson
+- [ ] Stephen King
+- [ ] Sue Grafton
+
+#### Which of the following roles was NOT offered to James Caan?
+
+- [ ] Randall McMurphy
+- [ ] Superman
+- [x] Jake Gittes
+
+#### What was the name of the ship that brough the Pilgrims to America?
+
+- [x] The Mayflower
+- [ ] The Juneflower
+- [ ] The Octoberflower
+
+#### What pro athlete nicknamed themselves "M.D.E."?
+
+- [ ] Michael Jordan
+- [ ] Delon Sanders
+- [x] Shaquille O'Neal
+
+#### What is the name of the wizardlign and witchcraft school Harry Potter attends?
+
+- [ ] Beauxbatons
+- [x] Hogwarts
+- [ ] Durmstrang
+
+#### In "The Hobbit", from whom does Bilbo get The One Ring?
+
+- [x] Gollum
+- [ ] Saruman
+- [ ] Aragorn
+
+#### In what fantasy novel and movie does Inigo Montoya seek revenge against the Six-Fingered Man?
+
+- [ ] Dragonlance
+- [ ] Artemis Fowl
+- [x] The Princess Bride
+
+#### Smaug, Toothless, and Mushu are all versions of what mythical beast?
+
+- [x] Dragon
+- [ ] Ogre
+- [ ] Cyclops
+
+#### What "Stranger Things" creature is named for a Dungeon's & Dragons monster?
+
+- [ ] Beholder
+- [ ] Gelatinous Cube
+- [x] Demogorgon
+
+#### What is the name of the dog on "Adventure Time"?
+
+- [ ] Lassie
+- [x] Jake
+- [ ] Santa's Little Helper
+
+#### What comic book and film character made their debut in the fantasy magazine "Weird Tales"?
+
+- [ ] Spider-Man
+- [ ] Howard the Duck
+- [x] Conan the Barbarian
+
+#### Which of the following is one of the names used to describe Daenerys Targaryen in "Games of Thrones"?
+
+- [ ] Sister of Dragons
+- [x] Mother of Dragons
+- [ ] Cousin of Dragons
+
+#### Which rock star plays Jareth in "Labyrinth"?
+
+- [x] David Bowie
+- [ ] Mick Jagger
+- [ ] Dave Grohl
+
+#### What kind of mythical monster is Shrek?
+
+- [ ] Pegasus
+- [x] Ogre
+- [ ] Harpy
