@@ -26485,7 +26485,7 @@
 - [ ] The Civil War
 - [ ] Breakfast food
 
-#### Which of hte following is a kind of tree?
+#### Which of the following is a kind of tree?
 
 - [x] Oak
 - [ ] Oat
@@ -26496,3 +26496,543 @@
 - [ ] The Mandalorian
 - [x] WandaVision
 - [ ] On Pointe
+
+#### Which of the following is a country in Hawaii?
+
+- [ ] Los Angeles
+- [x] Kauai
+- [ ] Philadelphia
+
+#### What color is the play button in the YouTube logo?
+
+- [ ] Blue
+- [ ] Yellow
+- [x] Red
+
+#### Which of the following is a kind of tree?
+
+- [x] Oak
+- [ ] Oat
+- [ ] Oar
+
+#### What city is known for Deep Dish Pizza?
+
+- [x] Chicago
+- [ ] New York
+- [ ] Los Angeles
+
+#### MIT is short for the Massachusetts Institute of what?
+
+- [x] Technology
+- [ ] Toothpicks
+- [ ] Tweens
+
+#### What were 17th Century Londoners advised to keep on hand to fight the Great Plague?
+
+- [x] A jar of farts
+- [ ] Fire
+- [ ] Leeches
+
+#### In which decade did the mini skirt first come into fashion?
+
+- [x] 1960's
+- [ ] 1840's
+- [ ] 1710's
+
+#### The double G logo is the logo of what fashion brand?
+
+- [ ] Ralph Lauren
+- [x] Gucci
+- [ ] Burberry
+
+#### Flare pants are also known by what name?
+
+- [ ] Bell tops
+- [x] Bell Bottoms
+- [ ] Jorts
+
+#### Which George Michael song had a video filled with Super Models lip syncing to the lyrics?
+
+- [ ] Thriller
+- [ ] Material Girl
+- [x] Freedom! '90
+
+#### "Friends" inspired a hair trend named for which character?
+
+- [x] Rachel
+- [ ] Marcel
+- [ ] Gunther
+
+#### In 1907, Annette Kellerman was arrested in Boston for wearing what piece of clothing in public?
+
+- [ ] Bra
+- [x] One piece swumsuit
+- [ ] Men's tuxedo
+
+#### According to tradition, what color are you NOT supposed to wear after Labor Day?
+
+- [ ] Black
+- [ ] Green
+- [x] White
+
+#### In Men's Fashion, a rule states that you should have no more than how many points of interest on your body at one time?
+
+- [ ] 100
+- [x] 7
+- [ ] 1,000
+
+#### Which pop star famously wore a dress made of meat to the 2010 MTV Video Music Awards?
+
+- [x] Lady Gaga
+- [ ] Britney Spears
+- [ ] Cyndi LAuper
+
+#### When she was a teenager, Brooke Shields famously appeared in ads for what fashion brand?
+
+- [ ] American Eagle Outfitters
+- [x] Calvin Klein
+- [ ] Old Navy
+
+#### How does a mood ring indicate your mood?
+
+- [ ] With a sound
+- [ ] By vibrating
+- [x] By changing color
+
+#### Where does the "Lolli" in Lollipop come from?
+
+- [ ] Old English for sweet
+- [x] Old English for tongue
+- [ ] Old English for candy
+
+#### Who wrote the semi-autobiographical book "Star Struck"?
+
+- [ ] Paris Hilton
+- [x] Pamela Anderson
+- [ ] Tila Tequila
+
+#### In what order are the Kwanzaa candles lit?
+
+- [x] Black, Red, Green
+- [ ] Green, Black, Red
+- [ ] Red, Green, Black
+
+#### Which of the following is a brand of credit card?
+
+- [x] Discover
+- [ ] Experiment
+- [ ] Hypothesize
+
+#### Cobb, Caesar, and Waldorf are all varieties of what dish?
+
+- [ ] Soup
+- [x] Salad
+- [ ] Breadsticks
+
+#### Which of these cities is actually a country?
+
+- [ ] Oklahoma City
+- [ ] Mexico City
+- [x] Vatican City
+
+#### Bentley & Son's rejection letter for Mobu-Dick was said to include what note about the book?
+
+- [x] "Does it have to be a whale?"
+- [ ] "Who is Ahab?"
+- [ ] "What if it was on land?"
+
+#### What term is used for the people who design ballons for the Macy's Thanksgiving Day Parade?
+
+- [ ] Balloonies
+- [ ] Balloonists
+- [x] Balloonatics
+
+#### John Goodman played Dan Conner on what ABC sitcom?
+
+- [x] Roseanne
+- [ ] Family Ties
+- [ ] Seinfeld
+
+#### Twister became a hit after Johnny Carson played it on the Tonight Show. Who did he play it with?
+
+- [ ] Jane Fonda
+- [ ] Raquel Welch
+- [x] Eva Gabor
+
+#### Who is known as the mother of Modern Medicine?
+
+- [ ] Florence Nightingale
+- [x] Henrietta Lacks
+- [ ] Marie Curie
+
+#### Fill in the blanks and complete this Whitney Houston song title: "I Wanna ____ With Somebody"
+
+- [x] Dance
+- [ ] Fish
+- [ ] Rollerskate
+
+#### Which of the following sports uses a dimpled ball?
+
+- [ ] Tennis
+- [ ] Volleyball
+- [x] Golf
+
+#### Which of the following is NOT the name of a Stark Direwolf?
+
+- [ ] Shaggydog
+- [x] Nykia
+- [ ] Ghost
+
+#### What natural phenomenon accounts for 95% of why sand dunes move?
+
+- [ ] Suspension
+- [x] Saltation
+- [ ] Creeping
+
+#### Which Star Wars movie used the title "Blue Harvest" during filming to avoid the press?
+
+- [x] Return of the Jedi
+- [ ] The Empire Strikes Back
+- [ ] The Force Awakens
+
+#### What Russian nuclear plant famously suffered a meltdown in 1986?
+
+- [x] Chernobyl
+- [ ] Three Mile Island
+- [ ] Gravelines
+
+#### Which #1 draft pick has the most championship rings?
+
+- [ ] Michael Jordan
+- [x] Kareem Abdul-Jabbar
+- [ ] Tim Duncan
+
+#### March 31, 1848 is widley considered to be the start of what movement?
+
+- [ ] Mormonism
+- [x] Spiritualism
+- [ ] The Gold Rush
+
+#### What Hebrew word is another term used for the Hanukkah menorah?
+
+- [x] Chanukiah
+- [ ] Eight-Lighter
+- [ ] Fire Keeper
+
+#### How should you address someone in a formal letter if you don't known their name?
+
+- [ ] Hey You
+- [ ] Dear Whatsername
+- [x] Dear Sir/Madam
+
+#### What awards are given out for excellence in live theater on Broadway?
+
+- [ ] Emmys
+- [ ] Golden Globes
+- [x] Tonys
+
+#### Shiloh, Maddox, an dPax are the names of the children of Brad Pitt and what ex-wife?
+
+- [ ] Jennifer Aniston
+- [x] Angelina Jolie
+- [ ] Carrie-Anne Moss
+
+#### What does the J in "PB & J" stand for?
+
+- [ ] Jingle
+- [ ] Jumpers
+- [x] Jelly
+
+#### Which of these was not a title of a Rembrandit painting?
+
+- [ ] The Night Watch
+- [ ] The Polish Rider
+- [x] The Swedish Fool
+
+#### At almost 200 lbs, in 2018 an Indiana soap store created the world's largest what?
+
+- [ ] Loofah
+- [ ] Bar of Soap
+- [x] Bath Bomb
+
+#### In Scrabble, what do you use your tiles to create?
+
+- [ ] Math problems
+- [x] Words
+- [ ] Cake
+
+#### What game is won by getting three x's or three o's in a row?
+
+- [ ] Go Fish
+- [ ] Othello
+- [x] Tic Tac Toe
+
+#### Who wrote an autobiography title "I Know Why The Caged Bird Sings"?
+
+- [ ] Andre Agassi
+- [x] Maya Angelou
+- [ ] Tina Fey
+
+#### What was the name of Harry S. Tryman's train on his 1984 Whistle Stop speech tour?
+
+- [x] Magellan
+- [ ] Columbus
+- [ ] Independence
+
+#### Michael Jordan won all of his championships with which NBA team?
+
+- [ ] Washington Wizards
+- [ ] Los Angeles Lakers
+- [x] Chicago Bulls
+
+#### When you ask someone to pull themselves together, what do you want them to do?
+
+- [ ] Go faster
+- [ ] Speak louder
+- [x] Calm down
+
+#### Which Disney animated movie has the song "Under The Sea"?
+
+- [ ] Aladdin
+- [x] The Little Mermaid
+- [ ] Beauty and the Beast
+
+#### In 2017, a man sued Papa John's for what reason?
+
+- [ ] Raw meat in a piza
+- [ ] Refusing him service
+- [x] Sending too many texts
+
+#### Which department store's 1955 ad misprint led to the NORAD Santa Tracker?
+
+- [x] Sears
+- [ ] Amazon
+- [ ] Petsmart
+
+#### Catherine of Aragon is one of the wives of which often-married King of England?
+
+- [x] Henry VIII
+- [ ] Richard III
+- [ ] Prince Charles
+
+#### Which of these has never been on a McDonalds' menu?
+
+- [ ] Arch Deluxe
+- [x] McReuben
+- [ ] Mighty Wings
+
+#### In the "Beadknobs & Broomsticks" song "Portobello Road", which item is NOT mentioned?
+
+- [x] Persian rug
+- [ ] Pistols
+- [ ] Cigar clipper
+
+#### The Genesis, the Saturn, and the Game Gear were all game systems released by which company?
+
+- [ ] Atari
+- [ ] Nintendo
+- [x] Sega
+
+#### Which of these Black Mirror episodes is ordered earliest in its listing?
+
+- [ ] Men Against Fire
+- [x] The Waldo Moments
+- [ ] White Christmas
+
+#### Ottawa is the capital of what country?
+
+- [x] Canada
+- [ ] Mexico
+- [ ] Australia
+
+#### Which of the following was NOT the nickname of one of the Spice Girls?
+
+- [ ] Scary
+- [ ] Posh
+- [x] Dopey
+
+#### Philadelphia is the place where what historic document was signed?
+
+- [ ] The Magna Carta
+- [x] The Declaration of Independence
+- [ ] The Treaty of Versailles
+
+#### Pasteurization is used to kill pathogens in which of the following grocery items?
+
+- [ ] Beef
+- [x] Milk
+- [ ] Fish
+
+#### The Disney World Resort is roughly the size of what major U.S. city?
+
+- [ ] Chicago
+- [ ] Dallas
+- [x] San Francisco
+
+#### Which of the following is NOT an answer on a standard Magic 8-Ball?
+
+- [ ] Yes
+- [ ] Ask again later
+- [x] New phone, who dis?
+
+#### Jennifer Aniston was once married to which Oscar winner?
+
+- [ ] Tom Hanks
+- [ ] Meryl Streep
+- [x] Brad Pitt
+
+#### Who was the first celebrity guest on Sesame Street?
+
+- [x] James Earl Jones
+- [ ] Buzz Aldrin
+- [ ] Carol Burnett
+
+#### What company claims their food is "Finger Lickin' Good"?
+
+- [ ] Popeye's
+- [ ] Burger King
+- [x] KFC
+
+#### Which of the following is a nickname for a wrestling ring?
+
+- [ ] The Rectangled Triangle
+- [ ] The Rhombused Oval
+- [x] The Squared Circle
+
+#### The famous "I'm a Toys 'R' Us Kid" jingle was co-written by what author?
+
+- [x] James Patterson
+- [ ] Stephen King
+- [ ] Sue Grafton
+
+#### Which of the following roles was NOT offered to James Caan?
+
+- [ ] Randall McMurphy
+- [ ] Superman
+- [x] Jake Gittes
+
+#### What was the name of the ship that brough the Pilgrims to America?
+
+- [x] The Mayflower
+- [ ] The Juneflower
+- [ ] The Octoberflower
+
+#### What pro athlete nicknamed themselves "M.D.E."?
+
+- [ ] Michael Jordan
+- [ ] Delon Sanders
+- [x] Shaquille O'Neal
+
+#### What is the name of the wizardlign and witchcraft school Harry Potter attends?
+
+- [ ] Beauxbatons
+- [x] Hogwarts
+- [ ] Durmstrang
+
+#### In "The Hobbit", from whom does Bilbo get The One Ring?
+
+- [x] Gollum
+- [ ] Saruman
+- [ ] Aragorn
+
+#### In what fantasy novel and movie does Inigo Montoya seek revenge against the Six-Fingered Man?
+
+- [ ] Dragonlance
+- [ ] Artemis Fowl
+- [x] The Princess Bride
+
+#### Smaug, Toothless, and Mushu are all versions of what mythical beast?
+
+- [x] Dragon
+- [ ] Ogre
+- [ ] Cyclops
+
+#### What "Stranger Things" creature is named for a Dungeon's & Dragons monster?
+
+- [ ] Beholder
+- [ ] Gelatinous Cube
+- [x] Demogorgon
+
+#### What is the name of the dog on "Adventure Time"?
+
+- [ ] Lassie
+- [x] Jake
+- [ ] Santa's Little Helper
+
+#### What comic book and film character made their debut in the fantasy magazine "Weird Tales"?
+
+- [ ] Spider-Man
+- [ ] Howard the Duck
+- [x] Conan the Barbarian
+
+#### Which of the following is one of the names used to describe Daenerys Targaryen in "Games of Thrones"?
+
+- [ ] Sister of Dragons
+- [x] Mother of Dragons
+- [ ] Cousin of Dragons
+
+#### Which rock star plays Jareth in "Labyrinth"?
+
+- [x] David Bowie
+- [ ] Mick Jagger
+- [ ] Dave Grohl
+
+#### What kind of mythical monster is Shrek?
+
+- [ ] Pegasus
+- [x] Ogre
+- [ ] Harpy
+
+#### Tide and All are brands of what household product?
+
+- [ ] Coffee
+- [x] Laundry Detergent
+- [ ] Salad Dressing
+
+#### What does the word "Halloween" mean?
+
+- [x] Holy Night
+- [ ] Hollow Een
+- [ ] Srange smell
+
+#### Until 2011, what country classified beer as a soft drink?
+
+- [ ] Germany
+- [ ] Thailand
+- [x] Russia
+
+#### Which of these sports uses a racquet?
+
+- [ ] Wiffle Ball
+- [ ] Wallball
+- [x] Pickleball
+
+#### Which of these famous sites is in Los Angeles?
+
+- [x] La Brea Tar Pits
+- [ ] Central Park
+- [ ] Golden Gate Bridge
+
+#### If anti-matter was named after the man who predicted its existence, what would it be called?
+
+- [x] Dirac Matter
+- [ ] Euler's Matter
+- [ ] Einstein's Matter
+
+#### How many bases are there on a baseball diamond?
+
+- [x] Four
+- [ ] Five
+- [ ] Six
+
+#### "Mean Girls" inspired what pop star to record a song in 2009?
+
+- [ ] Katy Perry
+- [ ] Taylor Swift
+- [x] Mariah Carey
+
+#### In what State did more than 1,600 people set a new world record for moose calling in 2018
+
+- [ ] Minnesota
+- [ ] Alaska
+- [x] Maine
