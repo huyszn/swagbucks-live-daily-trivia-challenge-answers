@@ -26982,3 +26982,57 @@
 - [ ] Pegasus
 - [x] Ogre
 - [ ] Harpy
+
+#### Tide and All are brands of what household product?
+
+- [ ] Coffee
+- [x] Laundry Detergent
+- [ ] Salad Dressing
+
+#### What does the word "Halloween" mean?
+
+- [x] Holy Night
+- [ ] Hollow Een
+- [ ] Srange smell
+
+#### Until 2011, what country classified beer as a soft drink?
+
+- [ ] Germany
+- [ ] Thailand
+- [x] Russia
+
+#### Which of these sports uses a racquet?
+
+- [ ] Wiffle Ball
+- [ ] Wallball
+- [x] Pickleball
+
+#### Which of these famous sites is in Los Angeles?
+
+- [x] La Brea Tar Pits
+- [ ] Central Park
+- [ ] Golden Gate Bridge
+
+#### If anti-matter was named after the man who predicted its existence, what would it be called?
+
+- [x] Dirac Matter
+- [ ] Euler's Matter
+- [ ] Einstein's Matter
+
+#### How many bases are there on a baseball diamond?
+
+- [x] Four
+- [ ] Five
+- [ ] Six
+
+#### "Mean Girls" inspired what pop star to record a song in 2009?
+
+- [ ] Katy Perry
+- [ ] Taylor Swift
+- [x] Mariah Carey
+
+#### In what State did more than 1,600 people set a new world record for moose calling in 2018
+
+- [ ] Minnesota
+- [ ] Alaska
+- [x] Maine
