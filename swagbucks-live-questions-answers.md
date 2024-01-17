@@ -27031,8 +27031,68 @@
 - [ ] Taylor Swift
 - [x] Mariah Carey
 
-#### In what State did more than 1,600 people set a new world record for moose calling in 2018
+#### In what State did more than 1,600 people set a new world record for moose calling in 2018?
 
 - [ ] Minnesota
 - [ ] Alaska
 - [x] Maine
+
+#### Which ancident civilization built the Great Pyramids of Giza?
+
+- [ ] Mayans
+- [ ] Mesopotamians
+- [x] Egyptians
+
+#### Which of the following games features players being eliminated?
+
+- [ ] Pin The Tail On The Donkey
+- [ ] Charades
+- [x] Musical Chairs
+
+#### Kobe Bryant played his entire NBA career for which franchise?
+
+- [x] Los Angeles Lakers
+- [ ] New York Knicks
+- [ ] Detriot Pistons
+
+#### In 2023, what snack brand introduced AI software that silences food crunching noises while on Zoom?
+
+- [ ] Four
+- [ ] Five
+- [x] Doritos
+
+#### The actor who played Ming Ming the Elf in "Elf" is most famous  for starring in what other holiday classic?
+
+- [ ] The Polar Express
+- [x] A Christmas Story
+- [ ] National Lampoon's Christmas Vacation
+
+#### Which of the following Jimmys is a famous fashion designer?
+
+- [x] Jimmy Choo
+- [ ] Jimmy Butler
+- [ ] Jimmy Stewart
+
+#### The Ben Affleck/Matt Damon movie "Air" is about Nike signing a deal with which athlete?
+
+- [ ] Charles Barkley
+- [x] Michael Jordan
+- [ ] John Stockton
+
+#### The extreme Japanese sport of kiotoshi involves what?
+
+- [x] Log Riding
+- [ ] Monster Wrestling
+- [ ] Drunk Bowling
+
+#### "Somebody once told me/The world is gonna roll me" is the opening line of what Smash Mouth song?
+
+- [ ] Then The Morning Comes
+- [ ] Walkin' On The Sun
+- [x] All Star
+
+#### Emily Blunt is married to which star of "The Office"?
+
+- [x] John Krasinski
+- [ ] Rainn Wilson
+- [ ] Steve Carell
