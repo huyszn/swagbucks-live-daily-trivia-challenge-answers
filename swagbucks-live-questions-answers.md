@@ -11031,7 +11031,7 @@
 #### Which of the following Star Wars movies is considered to be one of the prequels?
 
 - [x] The Phantom Menace
-- [ ] Empire Strieks Back
+- [ ] Empire Strikes Back
 - [ ] Rise of Skywalker
 
 #### Dormouse fat, dog earwax, and boar bile were all once considered cures for what condition?
@@ -27096,3 +27096,69 @@
 - [x] John Krasinski
 - [ ] Rainn Wilson
 - [ ] Steve Carell
+
+#### In the movie "E.T.", what does E.T. stand for?
+
+- [ ] Edgy Testimonials
+- [x] Extra Terrestrial
+- [ ] Edgar Turnbull
+
+#### When you use your thumb to make a hose spray faster, what scientific principle is at work?
+
+- [ ] Noether's theorem
+- [x] Bernoulli's Principle
+- [ ] Newton's 3rd Law
+
+#### Klammeraffe, grisehale, and chiocciola are all nicknames for what symbol?
+
+- [ ] The hashtag
+- [x] The @ symbol
+- [ ] The exclamation point
+
+#### Going by lyrics, which 80's singer would have already read the manual to a board game you were going to play?
+
+- [x] Rick Astley
+- [ ] Madonna
+- [ ] George Michael
+
+#### What singer-turned-actress stars in "A Walk To Remember"?
+
+- [ ] Lady Gaga
+- [ ] Jennifer Hudson
+- [x] Mandy Moore
+
+#### What is the main dish in a traditional Thanksgiving dinner?
+
+- [ ] Hamburger
+- [ ] Omelets
+- [x] Turkey
+
+#### Which of these would you take when you have a sore throat?
+
+- [ ] Metamucil
+- [x] Halls
+- [ ] Neosporin
+
+#### In 2021, what Korean drama became a hit on Netflix?
+
+- [ ] Octopus Play
+- [ ] Shrimp Toy
+- [x] Squid Game
+
+#### In 2018, what State adopted the tourism slogan "Honestly, it's not for everyone"?
+
+- [x] Nebraska
+- [ ] Idaho
+- [ ] Nevada
+
+#### Which of the following toys was invented by a NASA engineer?
+
+- [ ] Slinky
+- [x] Super Soaker
+- [ ] Play-Doh
+
+#### In which sport do you have a pit crew?
+
+- [x] Auto racing
+- [ ] Pickleball
+- [ ] Table Tennis
