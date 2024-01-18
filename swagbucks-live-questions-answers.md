@@ -27222,3 +27222,39 @@
 - [ ] Jason Statham
 - [x] Keanu Reeves
 - [ ] Tom Cruise
+
+#### How many chambers does the human heart have?
+
+- [x] Four
+- [ ] Eight
+- [ ] Ten
+
+#### What mythological creature's gaze turned people into stone?
+
+- [ ] The Hydra
+- [ ] Cerebus
+- [x] Medusa
+
+#### Which rapper is the youngest?
+
+- [x] Chance the Rapper
+- [ ] Tyler, The Creator
+- [ ] Logic
+
+#### The American term for "Footy" comes from what word?
+
+- [ ] Socks
+- [ ] Sucker
+- [x] Association
+
+#### What are scones used for?
+
+- [ ] Painting
+- [x] Lighting
+- [ ] Cooking
+
+#### Cacao seeds are used to make what food?
+
+- [ ] Cheez-Its
+- [x] Chocolate
+- [ ] Cherry Cola
