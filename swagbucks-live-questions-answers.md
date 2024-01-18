@@ -27162,3 +27162,63 @@
 - [x] Auto racing
 - [ ] Pickleball
 - [ ] Table Tennis
+
+#### What retail chain calls their limited time reduced prices "Rollbacks"?
+
+- [ ] Old Navy
+- [x] Walmart
+- [ ] Kroeger
+
+#### The Yosemite, Sequoia, and Joshua Tree National Parks are located in which State?
+
+- [ ] Hawaii
+- [ ] New Jersey
+- [x] California
+
+#### Which pizza chain offers the Shaq-a-Roni Pizza?
+
+- [ ] Papa John's
+- [ ] Pizza Rev
+- [x] Cici's Pizza
+
+#### How many days each calender year are there no professional sports games in the U.S.?
+
+- [ ] None
+- [ ] Five
+- [x] Two
+
+#### Which of hte following games is meant for only two players?
+
+- [ ] Scrabble
+- [x] Chess
+- [ ] Monopoly
+
+#### Choreographer Willi Ninja is credited with popularizing which of the following dances?
+
+- [x] Voguing
+- [ ] Nae Nae
+- [ ] The Twist
+
+#### When the water droplets in a cloud condense to the point that the cloud becomes too heavy, what happens?
+
+- [ ] Drought
+- [x] Rain
+- [ ] Wind
+
+#### On his debut album, how many instruments did Prince play?
+
+- [ ] None
+- [ ] 15
+- [x] 27
+
+#### "Under Pressure" was a duet between Freddie Mercury and what other superstar?
+
+- [ ] Jim Morrison
+- [ ] Buddy Holly
+- [x] David Bowie
+
+#### Who plays John Wick?
+
+- [ ] Jason Statham
+- [x] Keanu Reeves
+- [ ] Tom Cruise
