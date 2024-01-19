@@ -27258,3 +27258,105 @@
 - [ ] Cheez-Its
 - [x] Chocolate
 - [ ] Cherry Cola
+
+#### Which of the following landmarks would be found in Pairs?
+
+- [ ] The Grand CAnyon
+- [x] The Eiffel Tower
+- [ ] Big Ben
+
+#### On what day of the week do Americans observe Labor Day?
+
+- [x] Monday
+- [ ] Sunday
+- [ ] Friday
+
+#### What 14th century disease wiped out two thirds of Europe?
+
+- [ ] Smallpox
+- [ ] Diverticulitis
+- [x] Bubonic Plague
+
+#### Which of the following is a synonym for tired?
+
+- [x] Exhausted
+- [ ] Extinguished
+- [ ] Exhilarated
+
+#### What's is the name of the tow truck from the Cars movies?
+
+- [ ] Larry
+- [x] Mater
+- [ ] Pickup
+
+#### Which candy bar came out first?
+
+- [ ] Three Musketeers
+- [ ] 5th Avenue Bar
+- [x] Oh Henry!
+
+#### Which of thexe Pixar films had the highest U.S. box office gross?
+
+- [ ] Toy Story 3
+- [x] Incredibles 2
+- [ ] Finding Dory
+
+#### A red bovine is the mascot for which food brand?
+
+- [ ] Cheetos
+- [x] Laughing Cow
+- [ ] Kraft Mac & Cheese
+
+#### Which of the following is the name of a Palace where the UK's royal family resides?
+
+- [x] Buckingham Palace
+- [ ] Taj Mahal
+- [ ] Palace at Versailles
+
+#### Which of these restaurant chains is known for their buffet?
+
+- [ ] Olive Garden
+- [ ] Outback Steakhouse
+- [x] Golden Corral
+
+#### Which of the following items does TSA allow you to bring on a plane in your carry-on bag?
+
+- [ ] Cooking Spray
+- [x] Christmas Lights
+- [ ] Magic 8 Ball
+
+#### Which country uses the most languages?
+
+- [ ] Indonesia
+- [ ] Nigeria
+- [x] Papua New Guinea
+
+#### What is the name of Barbie's longtime boyfriend?
+
+- [x] Ken
+- [ ] Bob
+- [ ] Timmy
+
+#### In 2017, a creature named Leonie laid eggs without being near a male for 3 years. What kind of creature is she?
+
+- [ ] Eagle
+- [ ] Salamander
+- [x] Shark
+
+#### How many teams competed in the first NCAA Men's Basketball Tournament?
+
+- [x] 8
+- [ ] 16
+- [ ] 32
+
+#### Who hosts "Wheel of Fortnue"?
+
+- [ ] Drew Carey
+- [x] Pat Sajak
+- [ ] Wayne Brady
+
+#### Sting was a founding member of what band?
+
+- [ ] Van Halen
+- [ ] Metallica
+- [x] The Police
