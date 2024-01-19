@@ -27349,7 +27349,7 @@
 - [ ] 16
 - [ ] 32
 
-#### Who hosts "Wheel of Fortnue"?
+#### Who hosts "Wheel of Fortune"?
 
 - [ ] Drew Carey
 - [x] Pat Sajak
@@ -27360,3 +27360,81 @@
 - [ ] Van Halen
 - [ ] Metallica
 - [x] The Police
+
+#### Before Smokey the Bear, who was used as a mascot to prevent forest fires?
+
+- [ ] Donald Duck
+- [ ] Bugs Bunny
+- [x] Bambi
+
+#### What kind of animal does Rocket from "Guardians of the Galaxy" most cosely resemble?
+
+- [ ] Fox
+- [x] Raccoon
+- [ ] Rabbit
+
+#### Which character takes their name from Jane Austen's "Mansfield Park"?
+
+- [ ] Peter Pettigew
+- [x] Mrs. Norris
+- [ ] Neville Longbottom
+
+#### In what year was the first Final Fantasy game released?
+
+- [x] 1987
+- [ ] 1990
+- [ ] 1984
+
+#### Drew LAchey and Cheryl Burke have both won what reality competition show?
+
+- [ ] Love is Blind
+- [ ] The Circle
+- [x] Dancing with the Stars
+
+#### What NBA Legend was called "His Royal Airness"?
+
+- [ ] Julius Erving
+- [x] Michael Jordan
+- [ ] Earl Manigault
+
+#### Which of these is the name of a common ice cream dish?
+
+- [x] Sundae
+- [ ] Fridae
+- [ ] Mondae
+
+#### Which ancient people are credited with the birth of Astrology?
+
+- [ ] Mayans
+- [ ] Greeks
+- [x] Babylonians
+
+#### Which brand calls itself "The King of Beers"?
+
+- [ ] Guinness
+- [ ] Old Milwaukee
+- [x] Budweiser
+
+#### What game show involves contestants shopping in a grocery store?
+
+- [ ] Queen for a Day
+- [ ] You Bet Your Life
+- [x] Supermarket Sweep
+
+#### Which of the following was invented by a Disney animator?
+
+- [x] Storyboarding
+- [ ] Technicolor
+- [ ] Playback monitors
+
+#### Cyprus is a country that can be found in what body of water?
+
+- [ ] The Pacific Ocean
+- [x] The Mediterranea Sea
+- [ ] The Mississippi River
+
+#### According to Mental Floss, which of these dating tips is NOT in Casanova's autobiography?
+
+- [x] Don't Dwell On The Past
+- [ ] Trust No One
+- [ ] Be Mysterious
