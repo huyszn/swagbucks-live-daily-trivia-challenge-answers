@@ -27438,3 +27438,45 @@
 - [x] Don't Dwell On The Past
 - [ ] Trust No One
 - [ ] Be Mysterious
+
+#### Who wrote Moby Dick?
+
+- [x] Herman Melville
+- [ ] Mark Twain
+- [ ] Victor Hugo
+
+#### Harriet Lane acted as first lady for her President-uncle. Who was he?
+
+- [ ] Benjamin Harrison
+- [x] James Buchanan
+- [ ] Chester A. Arthur
+
+#### Which of the following is NOT a type of pitch in baseball?
+
+- [ ] Silder
+- [ ] Rollerball
+- [x] Curveball
+
+#### Tungsten is a type of:
+
+- [ ] Jelly
+- [x] Metal
+- [ ] Cloth
+
+#### Who manufactured Pong?
+
+- [x] Atari
+- [ ] Hasbro
+- [ ] IBM
+
+#### The Trevi Fountain can be found in what European city?
+
+- [x] Rome
+- [ ] Vienna
+- [ ] Glasgow
+
+#### What foam ball line was introduced in 1969?
+
+- [ ] Koosh
+- [x] Nerf
+- [ ] Spalding
