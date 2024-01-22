@@ -27480,3 +27480,45 @@
 - [ ] Koosh
 - [x] Nerf
 - [ ] Spalding
+
+#### Which of these shows was NOT created by Darren Star?
+
+- [ ] Beverly Hills, 90120
+- [ ] Grosse Pointe
+- [x] The Heights
+
+#### The movie "Hobbs & Shaw" was a spinoff from what film franchise?
+
+- [x] Fast & Furious
+- [ ] Mission: Impossible
+- [ ] Despicable Me
+
+#### According to myth, what part of Achilles' body was the most vulnerable?
+
+- [ ] Neck
+- [ ] Arm
+- [x] Heel
+
+#### Sting had a number of hits as the lead singer of what 80s pop punk band?
+
+- [ ] Hall & Oates
+- [x] The Police
+- [ ] The Cure
+
+#### What is the golfing term for the number of strokes a first-class player should normally require for a particular hole?
+
+- [x] Par
+- [ ] Bogey
+- [ ] Putt
+
+#### The Ralph Lauren logo features what kind of athlete?
+
+- [ ] Swimmer
+- [x] Polo Player
+- [ ] Runner
+
+#### Which of these statues comes the closest to "Tebowing"?
+
+- [x] Rodin's Thinker
+- [ ] Alexandro's Venus de Milo
+- [ ] Michelangelo's David
