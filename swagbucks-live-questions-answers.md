@@ -27522,3 +27522,63 @@
 - [x] Rodin's Thinker
 - [ ] Alexandro's Venus de Milo
 - [ ] Michelangelo's David
+
+#### In which reality show are the contenstants cut off from the outside world?
+
+- [ ] The Amazing Race
+- [ ] The Real World
+- [x] Big Brother
+
+#### Complete this Disney title: "The Nightmare Before":
+
+- [ ] Dawn
+- [ ] Halloween
+- [x] Christmas
+
+#### A Newton is a unit of measurement for what?
+
+- [x] Force
+- [ ] Speed
+- [ ] Depth
+
+#### Detroit goes by what nickname?
+
+- [ ] The Big Apple
+- [ ] The Big Easy
+- [x] Motor City
+
+#### What foam ball line was introduced in 1969?
+
+- [ ] Koosh
+- [x] Nerf
+- [ ] Spalding
+
+#### In "Mike Tyson's Punch-out", which character do you fight the earliest?
+
+- [ ] Great Tiger
+- [x] Piston Honda
+- [ ] Don Flamenco
+
+#### Who had the infamous "Wardrobe Malfunction" during the Super Bowl XXXVIII Halftime Show?
+
+- [x] Janet Jackson
+- [ ] Britney Spears
+- [ ] Madonna
+
+#### How many signs of the zodiac are there?
+
+- [x] 12
+- [ ] 24
+- [ ] 48
+
+#### Nobel prize founder Alfred Nobel was famous for holding a patent for what invention?
+
+- [x] Dynamite
+- [ ] Bulletproof Vest
+- [ ] Stainless Steel
+
+#### According to the children's song, what do the wheels on the bus do?
+
+- [ ] Balance work and family
+- [x] Go round and round
+- [ ] Git 'er done
