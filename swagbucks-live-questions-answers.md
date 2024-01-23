@@ -27636,3 +27636,27 @@
 - [x] Dean Martin
 - [ ] Drake
 - [ ] Ed Sheeran
+
+#### Which of the following couentries is NOT home to part of the Alps?
+
+- [ ] France
+- [ ] Switzerland
+- [x] Brazil
+
+#### Instead of genders, the Valyrian language from HBO's Game of Thrones has how many elements?
+
+- [ ] One
+- [ ] Three
+- [x] Four
+
+#### Which female celebrity was also an extremely talent sniper?
+
+- [ ] Martha Stewart
+- [ ] Judge Judy
+- [x] Doctor Ruth
+
+#### "Love and Thunder" is the latest movie to star which Marvel hero?
+
+- [ ] The Hulk
+- [x] Thor
+- [ ] Spider-Man
