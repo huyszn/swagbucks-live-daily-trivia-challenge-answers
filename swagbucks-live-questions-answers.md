@@ -27547,12 +27547,6 @@
 - [ ] The Big Easy
 - [x] Motor City
 
-#### What foam ball line was introduced in 1969?
-
-- [ ] Koosh
-- [x] Nerf
-- [ ] Spalding
-
 #### In "Mike Tyson's Punch-out", which character do you fight the earliest?
 
 - [ ] Great Tiger
@@ -27582,3 +27576,63 @@
 - [ ] Balance work and family
 - [x] Go round and round
 - [ ] Git 'er done
+
+#### Complete this classic joke setup: "Why did the _____ cross the road?"
+
+- [ ] Moose
+- [x] Chicken
+- [ ] Pig
+
+#### In which Farrelly Brothers movie are Harry Dunne and Lloyd Christmas trying to deliver a briefcase to Aspen, Colorado?
+
+- [x] Dumb and Dumber
+- [ ] Hall Pass
+- [ ] Me, Myself, & Irene
+
+#### In addition to writing and directing the "Clerks" movies, what role does Kevin Smith play?
+
+- [ ] Jay
+- [ ] Dante
+- [x] Silent Bob
+
+#### What sitcom character used to delare "Lucy! I'm home!"?
+
+- [ ] Mike Brady
+- [x] Ricky Ricardo
+- [ ] Rob Petrie
+
+#### Which of the following comedians hosted a long-running daytime talk show?
+
+- [ ] Richard Pryor
+- [ ] Caroline Rhea
+- [x] Ellen Degeneres
+
+#### Jim Carry was a breakout star on what network sketch series?
+
+- [x] In Living Color
+- [ ] Fridays
+- [ ] The State
+
+#### Which comedian had a hit song with "Party All The Time"?
+
+- [ ] Jamie Foxx
+- [ ] Sarah Silverman
+- [x] Eddie Murphy
+
+#### Which of the following was NOT one of Steve Urkel's catchphrases?
+
+- [ ] "Did I do that?"
+- [x] "Nanu, Nanu!"
+- [ ] "No, sweat, my pet!"
+
+#### What style of comedian is Carrot Top?
+
+- [x] Prop comic
+- [ ] Observation comic
+- [ ] Improvisational comic
+
+#### Jerry Lewis was part of a duo with which crooner?
+
+- [x] Dean Martin
+- [ ] Drake
+- [ ] Ed Sheeran
