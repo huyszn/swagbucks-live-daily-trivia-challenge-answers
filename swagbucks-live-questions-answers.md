@@ -27660,3 +27660,63 @@
 - [ ] The Hulk
 - [x] Thor
 - [ ] Spider-Man
+
+#### A cardigan is a specific type of what clothing?
+
+- [ ] Boot
+- [ ] Pant
+- [x] Sweater
+
+#### In "Rock, Paper, Scissors", what beats Rock?
+
+- [ ] Rock
+- [x] Paper
+- [ ] Scissors
+
+#### Which company developepd the Android operating system?
+
+- [ ] Apple
+- [ ] IBM
+- [x] Google
+
+#### What country is home to Earth's greatest sheer vertical drop?
+
+- [x] Canada
+- [ ] United States
+- [ ] Switzerland
+
+#### What game show's format is based on Tic Tac Toe?
+
+- [ ] Match Game
+- [x] Hollywood Squares
+- [ ] Legends of the Hidden Temple
+
+#### Beyonce's song "Single Ladies" encourages you to do what?
+
+- [ ] Use sun tan lotion
+- [ ] Vote Nixon
+- [x] Put a ring on it
+
+#### The "Stronsay Beast" as a mysterious globster that washed ashore in what country?
+
+- [ ] France
+- [x] Scotland
+- [ ] Canada
+
+#### Which two "Sesame Street" characters are roommates?
+
+- [x] Bert & Ernie
+- [ ] Big Bird & Elmo
+- [ ] Oscar the Grouch & The Count
+
+#### What does the common abbreviation FWIW stand for?
+
+- [x] For What It's Worth
+- [ ] Five Wiggling Icy Walruses
+- [ ] Flying Water Ice Wings
+
+#### Shallots are similar to what other vegetable?
+
+- [ ] Rhubarb
+- [x] Onion
+- [ ] Carrot
