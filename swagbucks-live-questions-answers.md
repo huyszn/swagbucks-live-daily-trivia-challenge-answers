@@ -27720,3 +27720,51 @@
 - [ ] Rhubarb
 - [x] Onion
 - [ ] Carrot
+
+#### What European country is known as Helvetia?
+
+- [x] Switzerland
+- [ ] England
+- [ ] France
+
+#### Which of the following animals would be considered a primate?
+
+- [ ] Raccoon
+- [x] Gorilla
+- [ ] Cricket
+
+#### From what classic novel did House of Pain get their name?
+
+- [ ] For Whom The Bell Tolls
+- [ ] Dracula
+- [x] The Island of Dr. Moreau
+
+#### What gigantic structure stands next to the pizza restaurant in "Toy Story"?
+
+- [x] Rocket
+- [ ] Pizza
+- [ ] Alien
+
+#### Which of the following words is a pronoun?
+
+- [ ] Car
+- [ ] Swiftly
+- [x] They
+
+#### June Carter was the longtime wife of which country star?
+
+- [ ] Willie Nelson
+- [ ] Hank Williams
+- [x] Johnny Cash
+
+#### Which birthday is Swagbucks celebrating this week?
+
+- [ ] 5th
+- [ ] 10th
+- [x] 14th
+
+#### The Disney Channel Movie "Camp Rock" starred what celebrity siblings?
+
+- [x] The Jonas Brothers
+- [ ] Hanson
+- [ ] The Andrews Sisters
