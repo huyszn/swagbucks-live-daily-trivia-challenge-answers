@@ -27828,3 +27828,57 @@
 - [ ] Penny
 - [x] Quarter
 - [ ] Dime
+
+#### Which country is famous for producing Parmesan cheese?
+
+- [ ] Norway
+- [ ] The Philippines
+- [x] Italy
+
+#### Which of these words refers to a type of fabric?
+
+- [ ] Aluminum
+- [x] Tweed
+- [ ] Smog
+
+#### In the nursery rhyme, why did Jack and Jill go up the hill?
+
+- [ ] Geographical survey
+- [ ] Because it was there
+- [x] To fetch a pail of water
+
+#### Which U.S. President was assassinated in 1963?
+
+- [ ] Abraham Lincoln
+- [ ] James Garfield
+- [x] John F. Kennedy
+
+#### The Half Pipe is an event in which sport?
+
+- [ ] Aerobics
+- [ ] Soccer
+- [x] Skateboarding
+
+#### What Netflix reality series centers around contestants communicating only via a social network?
+
+- [ ] Love is Blind
+- [x] The Circle
+- [ ] The Movies That Made Us
+
+#### Which Big Bang Theory actor is the oldest?
+
+- [ ] Johnny Galecki
+- [x] Jim Parsons
+- [ ] Simon Helberg
+
+#### Which of the following is the term for land surrounded on all sides by water?
+
+- [ ] Continent
+- [ ] Peninsula
+- [x] Island
+
+#### Most cheese is made from what liquid?
+
+- [ ] Cider
+- [ ] Soda
+- [x] Milk
