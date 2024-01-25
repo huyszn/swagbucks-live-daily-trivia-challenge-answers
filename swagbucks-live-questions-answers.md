@@ -27768,3 +27768,63 @@
 - [x] The Jonas Brothers
 - [ ] Hanson
 - [ ] The Andrews Sisters
+
+#### Which restaurant chain is kown for it's "Endless Shrimp" promotion?
+
+- [x] Red Lobster
+- [ ] Longhorn Steakhouse
+- [ ] Panera Bread
+
+#### The real-life Matterhorn is located in what mountain range?
+
+- [ ] Appalachians
+- [x] Alps
+- [ ] Rockies
+
+#### Someone who doesn't consume a lot of food is said to eat like what kind of animal?
+
+- [ ] Fish
+- [ ] Snake
+- [x] Bird
+
+#### Sheryl Lee Ralph was the second Black woman to win the Emmy for Supporting Actress in a Comedy Series. Who was the first?
+
+- [ ] Phylicia Rashad
+- [x] Jackee Harry
+- [ ] Tisha Campbell
+
+#### Which of the following toy companies is mainly known for making and selling Yo-Yos?
+
+- [x] Duncan
+- [ ] Hasbro
+- [ ] Mattel
+
+#### In which country are illustrated "Jumping out children" used to prevent traffic accidents?
+
+- [ ] Brazil
+- [ ] Germany
+- [x] Japan
+
+#### Who discovered penicillin?
+
+- [x] Alexander Fleming
+- [ ] Niels Bohr
+- [ ] Alexander Graham Bell
+
+#### Whose headstone reads "I will not be right back after this messsage"?
+
+- [ ] Johnny Carson
+- [ ] Bob Barker
+- [x] Merv Griffin
+
+#### Which of the following is generally considered to be good manners during a conversation?
+
+- [x] Eye contact
+- [ ] Walking away suddenly
+- [ ] Constant belching
+
+#### Which U.S. currency features an image of George Washington?
+
+- [ ] Penny
+- [x] Quarter
+- [ ] Dime
