@@ -27882,3 +27882,141 @@
 - [ ] Cider
 - [ ] Soda
 - [x] Milk
+
+#### What kind of animal is Chuck E. Cheese?
+
+- [x] Mouse
+- [ ] Dog
+- [ ] Gorilla
+
+#### Which of the following dishes is breaded?
+
+- [ ] Turkey Chili
+- [ ] Fried Rice
+- [x] Chicken Fried Steak
+
+#### Niagara Falls sits at the border shared by Canada and which U.S. State?
+
+- [ ] Florida
+- [x] New York
+- [ ] Texas
+
+#### The world's oldest operating amusement park opened in what year?
+
+- [x] 1583
+- [ ] 1741
+- [ ] 1827
+
+#### "Yield the crow a puddling" is an old slang term for what?
+
+- [ ] Drunkenness
+- [x] Death
+- [ ] Hunger
+
+#### Which of the following is NOT a standard category in Charades?
+
+- [ ] Movie
+- [ ] Book
+- [x] Fried Cuisine
+
+#### In what year was the first color television demonstrated?
+
+- [x] 1922
+- [ ] 1937
+- [ ] 1945
+
+#### Which of the following toys was designed by an engineer who used to work for the Pentagon?
+
+- [ ] Hula Hoop
+- [x] Barbie
+- [ ] Rock 'Em Sock 'Em Robots
+
+#### In which city is the Wimbledon tennis tournament held?
+
+- [x] London
+- [ ] New York
+- [ ] Paris
+
+#### Who directed the movies "Beetlejuice", "Big Fish", and "Batman"?
+
+- [ ] David Lynch
+- [ ] Martin Scorsese
+- [x] Tim Burton
+
+#### In Biz Markie's 1989 song, what does the girl he's pursuing keep saying about the other man she's with?
+
+- [x] He's just a friend
+- [ ] He's the one
+- [ ] He ain't nothing
+
+#### "They'll fight over it when you're dead", is the tagline of a company that makes what?
+
+- [x] Leather Bags
+- [ ] Swiss Watches
+- [ ] Cars
+
+#### If you're naughty, what will Santa bring you instead of gifts?
+
+- [x] Coal
+- [ ] Ice
+- [ ] Dirt
+
+#### In 2018, what web-slinging hero got a highly praised game on the PlayStation 4?
+
+- [ ] Thor
+- [ ] Iron Man
+- [x] Spider-Man
+
+#### Which of the following is an ingredient in a Bloody Mary?
+
+- [x] Tomato Juice
+- [ ] Pineapple Juice
+- [ ] Grape Juice
+
+#### Who is the only player with more than 600 career home runs to never win an MVP?
+
+- [ ] Sammy Sosa
+- [x] Jim Thome
+- [ ] Hank Aaron
+
+#### What rock star once released a single as Laary Lurex?
+
+- [ ] Jim Morrison
+- [x] Feddie Mercury
+- [ ] Billy Joel
+
+#### The Anaheim Bullfrogs were two-time champs in what defunct league?
+
+- [ ] ABA
+- [ ] International Volleyball Association
+- [x] Roller Hockey International
+
+#### At Super Bowl XXIII, Joe Montana interrupted a huddle because he thought he saw which actor in the stands?
+
+- [ ] Robert De Niro
+- [x] John Candy
+- [ ] Don Johnson
+
+#### Which of the following is NOT a standard ingredient in mayonnaise?
+
+- [ ] Egg Yolks
+- [ ] Mustard
+- [x] Beef tallow
+
+#### On The Muppet Show, what kind of animal is Kermit?
+
+- [ ] Bear
+- [x] Frog
+- [ ] Weirdo
+
+#### Which of these is the name of an actual Barbie playset?
+
+- [x] Barbie Dream House
+- [ ] Barbie Nightmare Condo
+- [ ] Barbie's Tercel
+
+#### A droid named Rex was the original guide on what Tomorrowland attraction?
+
+- [x] Star Tours
+- [ ] Space Mountain
+- [ ] Astro Orbiter
