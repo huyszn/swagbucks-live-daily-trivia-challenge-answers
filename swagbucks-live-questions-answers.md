@@ -28020,3 +28020,87 @@
 - [x] Star Tours
 - [ ] Space Mountain
 - [ ] Astro Orbiter
+
+#### In "The Breakfast Club", where are the kids spending their Saturday?
+
+- [ ] A football game
+- [ ] At home
+- [x] Detention
+
+#### Who coined the word vegan?
+
+- [ ] Gandhi
+- [ ] Prof. Arnold Ehret
+- [x] Donald Watson
+
+#### In which sport do you strike out your opponent?
+
+- [ ] Soccer
+- [x] Baseball
+- [ ] Hockey
+
+#### In "Hot Fuzz", what Oscar-winning actress plays Nicholas Angel's girlfriend Janine?
+
+- [x] Cate Blanchett
+- [ ] Kate Winslet
+- [ ] Keira Knightley
+
+#### What shape is the scar on Harry Potter's forehead?
+
+- [ ] Question Mark
+- [x] Lightning Bolt
+- [ ] Heart
+
+#### Which artist once made a piece out of painting a mustache on the Mona Lisa?
+
+- [ ] Andy Warhol
+- [x] Marcel Duchamp
+- [ ] Salvador Dali
+
+#### Ryan Reynolds plays which wisecracking superhero?
+
+- [ ] Green Arrow
+- [ ] Moon Knight
+- [x] Deadpool
+
+#### Which of these methods was NOT used to kill Rasputin?
+
+- [ ] Poisoning
+- [x] Hanging
+- [ ] Drowing
+
+#### What former talk show host has a production company called Harpo?
+
+- [ ] Brad Pitt
+- [ ] Drew Barrymore
+- [x] Oprah Winfrey
+
+#### In "Jaws", what kind of creature is terrorizing Amity Island?
+
+- [ ] Bigfoot
+- [ ] Bear
+- [x] Shark
+
+#### What do you place on a table or counter to protect it from a hot pan?
+
+- [ ] Rivet
+- [ ] Ribbit
+- [x] Trivet
+
+#### In Aladdin, what kind of animal is Abu?
+
+- [ ] Snake
+- [ ] Parrot
+- [x] Monkey
+
+#### What field of medicine deals with your teeth?
+
+- [ ] Cardiology
+- [ ] Neurology
+- [x] Dentistry
+
+#### If a server at a diner tells the cook to "Put out the lights and cry", what are they asking for?
+
+- [ ] Onion soup
+- [ ] Prime Rib with Horseradish
+- [x] Liver and Onions
