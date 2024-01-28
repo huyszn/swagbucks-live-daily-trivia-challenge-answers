@@ -28104,3 +28104,57 @@
 - [ ] Onion soup
 - [ ] Prime Rib with Horseradish
 - [x] Liver and Onions
+
+#### Which fast food chain is known for the "Chalupa"?
+
+- [ ] McDonald's
+- [x] Taco Bell
+- [ ] Sonic
+
+#### What country does the band BTS come from?
+
+- [x] South Korea
+- [ ] England
+- [ ] Mexico
+
+#### What pecious metal is stored in Fort Knox?
+
+- [x] Gold
+- [ ] Tin Foil
+- [ ] Kryptonite
+
+#### The author of "The Hunger Games" was also a writer on what TV show?
+
+- [ ] Xena, Warrior Princess
+- [x] Clarissa Explains It All
+- [ ] ER
+
+#### In what decade did Bell Bottom jeans become popular?
+
+- [ ] 1910s
+- [ ] 1940s
+- [x] 1970s
+
+#### What is the official language of Brazil?
+
+- [x] Portuguese
+- [ ] French
+- [ ] Italian
+
+#### Which planet in our solar system is closest to the sun?
+
+- [ ] Venus
+- [ ] Earth
+- [x] Mercury
+
+#### Which of these cities is in the Pacific Time Zone?
+
+- [ ] Detroit
+- [ ] Miami
+- [x] Sacramento
+
+#### The first telephone directory served what area?
+
+- [ ] New York, NY
+- [x] New Haven, CT
+- [ ] Menlo Park, NJ
