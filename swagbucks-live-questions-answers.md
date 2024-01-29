@@ -10041,7 +10041,7 @@
 #### As of 2023, what is Barbie's slogan?
 
 - [ ] Oh Hi, Barbie!
-- [ ] You Can Be Anything.
+- [x] You Can Be Anything.
 - [ ] The Official Doll of Pink Corvettes
 
 #### Introduced in 1964, who is Barbie's little sister?
@@ -28158,3 +28158,33 @@
 - [ ] New York, NY
 - [x] New Haven, CT
 - [ ] Menlo Park, NJ
+
+#### What was the nationality of the first woman in space?
+
+- [x] Russian
+- [ ] American
+- [ ] Canadian
+
+#### What U.S. President kept a coded diary that was deciphered in 1972?
+
+- [ ] Abraham Lincoln
+- [x] Franklin D. Roosevelt
+- [ ] John Adams
+
+#### Which U.S. president signed the law that officially made Thanksgiving the last Thursday in November?
+
+- [x] Franklin Roosevelt
+- [ ] Abraham Lincoln
+- [ ] George Washington
+
+#### Steve Jobs co-founded which computer company?
+
+- [ ] IBM
+- [ ] Dell
+- [x] Apple
+
+#### The Bill of Rights encompasses how many of the amendments to the Constitution?
+
+- [ ] Thirteen
+- [x] Ten
+- [ ] Twenty
