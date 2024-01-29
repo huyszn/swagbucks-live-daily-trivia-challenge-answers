@@ -10041,7 +10041,7 @@
 #### As of 2023, what is Barbie's slogan?
 
 - [ ] Oh Hi, Barbie!
-- [ ] You Can Be Anything.
+- [x] You Can Be Anything.
 - [ ] The Official Doll of Pink Corvettes
 
 #### Introduced in 1964, who is Barbie's little sister?
@@ -28020,3 +28020,171 @@
 - [x] Star Tours
 - [ ] Space Mountain
 - [ ] Astro Orbiter
+
+#### In "The Breakfast Club", where are the kids spending their Saturday?
+
+- [ ] A football game
+- [ ] At home
+- [x] Detention
+
+#### Who coined the word vegan?
+
+- [ ] Gandhi
+- [ ] Prof. Arnold Ehret
+- [x] Donald Watson
+
+#### In which sport do you strike out your opponent?
+
+- [ ] Soccer
+- [x] Baseball
+- [ ] Hockey
+
+#### In "Hot Fuzz", what Oscar-winning actress plays Nicholas Angel's girlfriend Janine?
+
+- [x] Cate Blanchett
+- [ ] Kate Winslet
+- [ ] Keira Knightley
+
+#### What shape is the scar on Harry Potter's forehead?
+
+- [ ] Question Mark
+- [x] Lightning Bolt
+- [ ] Heart
+
+#### Which artist once made a piece out of painting a mustache on the Mona Lisa?
+
+- [ ] Andy Warhol
+- [x] Marcel Duchamp
+- [ ] Salvador Dali
+
+#### Ryan Reynolds plays which wisecracking superhero?
+
+- [ ] Green Arrow
+- [ ] Moon Knight
+- [x] Deadpool
+
+#### Which of these methods was NOT used to kill Rasputin?
+
+- [ ] Poisoning
+- [x] Hanging
+- [ ] Drowing
+
+#### What former talk show host has a production company called Harpo?
+
+- [ ] Brad Pitt
+- [ ] Drew Barrymore
+- [x] Oprah Winfrey
+
+#### In "Jaws", what kind of creature is terrorizing Amity Island?
+
+- [ ] Bigfoot
+- [ ] Bear
+- [x] Shark
+
+#### What do you place on a table or counter to protect it from a hot pan?
+
+- [ ] Rivet
+- [ ] Ribbit
+- [x] Trivet
+
+#### In Aladdin, what kind of animal is Abu?
+
+- [ ] Snake
+- [ ] Parrot
+- [x] Monkey
+
+#### What field of medicine deals with your teeth?
+
+- [ ] Cardiology
+- [ ] Neurology
+- [x] Dentistry
+
+#### If a server at a diner tells the cook to "Put out the lights and cry", what are they asking for?
+
+- [ ] Onion soup
+- [ ] Prime Rib with Horseradish
+- [x] Liver and Onions
+
+#### Which fast food chain is known for the "Chalupa"?
+
+- [ ] McDonald's
+- [x] Taco Bell
+- [ ] Sonic
+
+#### What country does the band BTS come from?
+
+- [x] South Korea
+- [ ] England
+- [ ] Mexico
+
+#### What pecious metal is stored in Fort Knox?
+
+- [x] Gold
+- [ ] Tin Foil
+- [ ] Kryptonite
+
+#### The author of "The Hunger Games" was also a writer on what TV show?
+
+- [ ] Xena, Warrior Princess
+- [x] Clarissa Explains It All
+- [ ] ER
+
+#### In what decade did Bell Bottom jeans become popular?
+
+- [ ] 1910s
+- [ ] 1940s
+- [x] 1970s
+
+#### What is the official language of Brazil?
+
+- [x] Portuguese
+- [ ] French
+- [ ] Italian
+
+#### Which planet in our solar system is closest to the sun?
+
+- [ ] Venus
+- [ ] Earth
+- [x] Mercury
+
+#### Which of these cities is in the Pacific Time Zone?
+
+- [ ] Detroit
+- [ ] Miami
+- [x] Sacramento
+
+#### The first telephone directory served what area?
+
+- [ ] New York, NY
+- [x] New Haven, CT
+- [ ] Menlo Park, NJ
+
+#### What was the nationality of the first woman in space?
+
+- [x] Russian
+- [ ] American
+- [ ] Canadian
+
+#### What U.S. President kept a coded diary that was deciphered in 1972?
+
+- [ ] Abraham Lincoln
+- [x] Franklin D. Roosevelt
+- [ ] John Adams
+
+#### Which U.S. president signed the law that officially made Thanksgiving the last Thursday in November?
+
+- [x] Franklin Roosevelt
+- [ ] Abraham Lincoln
+- [ ] George Washington
+
+#### Steve Jobs co-founded which computer company?
+
+- [ ] IBM
+- [ ] Dell
+- [x] Apple
+
+#### The Bill of Rights encompasses how many of the amendments to the Constitution?
+
+- [ ] Thirteen
+- [x] Ten
+- [ ] Twenty
