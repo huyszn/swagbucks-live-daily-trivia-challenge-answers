@@ -28188,3 +28188,111 @@
 - [ ] Thirteen
 - [x] Ten
 - [ ] Twenty
+
+#### In which reality show do you find hidden immunity idols?
+
+- [ ] Road Rules
+- [ ] The Amazing Racer
+- [x] Survivor
+
+#### Holland also goes by what name?
+
+- [x] The Netherlands
+- [ ] Lichtenstein
+- [ ] The Bowery
+
+#### In which language would you say "Ciao" when arriving or leaving?
+
+- [ ] Hebrew
+- [ ] Greek
+- [x] Italian
+
+#### Which of these books' authors died first?
+
+- [ ] Slaughterhouse Five
+- [ ] Fahenheit 451
+- [x] Cathedral
+
+#### Which Beatle was married to Yoko Ono?
+
+- [ ] George Harrison
+- [ ] Paul McCartney
+- [x] John Lennon
+
+#### Who is the villian in the Nightmare on Elm Street movies?
+
+- [ ] Jason Voorhees
+- [ ] Pinhead
+- [x] Freddy Krueger
+
+#### What soft drink had the lithium removed from it in 1950?
+
+- [ ] Dr. Pepper
+- [x] 7-Up
+- [ ] Pepsi
+
+#### Wicked is a musical based on what story?
+
+- [x] The Wizard of Oz
+- [ ] Huckleberry Finn
+- [ ] The Boy Who Cried Wolf
+
+#### How many evil stepsisters does Cinderella have?
+
+- [x] Two
+- [ ] Five
+- [ ] Sixteen
+
+#### Which fairy tale character challenged the Queen to guess his name?
+
+- [ ] The Gingerbread Man
+- [ ] Jack
+- [x] Rumplestiltskin
+
+#### In Hansel and Gretel, what is the witch's house made of?
+
+- [ ] Chicken Feathers
+- [x] Candy
+- [ ] Corn
+
+#### In Goldilocks and the Three Bears, what food does she sample?
+
+- [ ] Honey
+- [ ] Berries
+- [x] Porridge
+
+#### What does The Little Mermaid give up to get her legs?
+
+- [x] Her voice
+- [ ] Her hair
+- [ ] Her eyes
+
+#### In one fairy tale, a girl is revealed to be a princess after feelign what object beneath a pile of mattresses?
+
+- [ ] Marble
+- [ ] Twig
+- [x] Pea
+
+#### Which of these fairy tale characters dies in the Brothers Grimm version of their story?
+
+- [ ] Snow White
+- [ ] Rapunzel
+- [x] Little Red Riding Hood
+
+#### In Little Red Riding Hood, the Big Bad Wolf disguises himself as what person?
+
+- [x] Her Grandmother
+- [ ] Her Cousin
+- [ ] Her Daughter
+
+#### In Jack & The Beanstalk, what does Jack steal from the giant?
+
+- [ ] Diamonds
+- [x] The Goose that laid the Golden Egg
+- [ ] Food
+
+#### How many dwarfs does Snow White live with?
+
+- [x] Seven
+- [ ] Eight
+- [ ] Nine
