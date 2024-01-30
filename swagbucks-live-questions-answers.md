@@ -22303,7 +22303,7 @@
 - [ ] Shoulder
 - [x] Knee
 
-#### Where is the world’slargest Comic Con held?
+#### Where is the world’s largest Comic Con held?
 
 - [x] San Diego
 - [ ] Dubuque
@@ -28296,3 +28296,39 @@
 - [x] Seven
 - [ ] Eight
 - [ ] Nine
+
+#### Which of the following is a term for the bottom of the ocean?
+
+- [ ] Bobby Jones's Locker
+- [x] Davy Jones's Locker
+- [ ] Daniel Jones's Locker
+
+#### Who squeezed 1,560 words into a 6 minute rap song in 2014?
+
+- [ ] Busta Rhymes
+- [x] Eminem
+- [ ] Kanye West
+
+#### What is the capital of Thailand?
+
+- [x] Bangkok
+- [ ] Madrippor
+- [ ] Hat Yai
+
+#### Which of these continents is not landlocked on any side?
+
+- [ ] Asia
+- [ ] Europe
+- [x] Australia
+
+#### What is the largest continent on Earth?
+
+- [ ] Africa
+- [ ] Antarctica
+- [x] Asia
+
+#### What theme park is home to the Wizardling World of Harry Potter?
+
+- [x] Universal Studios
+- [ ] Busch Gardens
+- [ ] Six Flags
