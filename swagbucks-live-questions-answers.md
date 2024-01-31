@@ -28332,3 +28332,99 @@
 - [x] Universal Studios
 - [ ] Busch Gardens
 - [ ] Six Flags
+
+#### Which of these thigns is personaified as a father?
+
+- [ ] Earth
+- [x] Time
+- [ ] The Starship Enterprise
+
+#### Who were the title charactesr in "When Harry Met Sally..." based on?
+
+- [ ] Nora Ephron's parents
+- [ ] Rob Reiner and Penny Marshall
+- [x] Rob Reiner and Nora Ephron
+
+#### Who played Gandalf in the "Lord of the Rings" movies?
+
+- [ ] Christopher Lee
+- [ ] Patrick Stewart
+- [x] Ian McKellen
+
+#### Which of the following words was added to the Merriam-Webster Dictionary in September 2022?
+
+- [ ] Bit rot
+- [x] Sponcon
+- [ ] Teraflop
+
+#### The Macchiato is a drink you would order at what chain?
+
+- [ ] Chick-fil-A
+- [x] Starbucks
+- [ ] Subway
+
+#### What is the name of Amazon's eReader?
+
+- [x] Kiddle
+- [ ] Candle
+- [ ] Tinder
+
+#### goop is a lifestyle brand owned by which celebrity?
+
+- [ ] Jessica Alba
+- [x] Gwyneth Paltrow
+- [ ] Scarlett Johansson
+
+#### Funko makes what popular collectibles?
+
+- [ ] Popples
+- [ ] Pound Puppies
+- [x] Pop! Vinyls
+
+#### What is the name of ESPN's extreme sports competition?
+
+- [x] X Games
+- [ ] Y Games
+- [ ] Z Games
+
+#### What do Koscot Interplanetary, Holiday Magic, and BurnLounge have in common?
+
+- [ ] They're all owned by Warren Bufett
+- [ ] They all sold for the same price
+- [x] They're all pyramid schemes
+
+#### Which of the following is a string instrument?
+
+- [ ] Maracas
+- [ ] Theremin
+- [x] Mandolin
+
+#### Which of the folloiwng Disney Animated films has NOT gotten a live action adaptation?
+
+- [x] The Fox and the Hound
+- [ ] The Jungle Book
+- [ ] Cinderella
+
+#### If you order a "barm" in England, what will the server bring you?
+
+- [ ] Beef
+- [ ] Pasta
+- [x] Bread
+
+#### What is The Kool Aid Man's catchphrase?
+
+- [ ] "Sorry About Your Wall..."
+- [x] "Oh Yeah!"
+- [ ] "Anyone Thirsty?"
+
+#### Which U.S. Sate has the nickname "The First State"?
+
+- [ ] Alaska
+- [ ] Florida
+- [x] Delaware
+
+#### Which city has sports teams that play home games in Madison Square Garden?
+
+- [x] New York
+- [ ] Boston
+- [ ] Chicago
