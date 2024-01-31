@@ -28428,3 +28428,27 @@
 - [x] New York
 - [ ] Boston
 - [ ] Chicago
+
+#### The 1800s are considered to be which century?
+
+- [ ] 18th
+- [x] 19th
+- [ ] 20th
+
+#### In which of her songs does Madonna repeatedly ask you to "Strike A Pose"?
+
+- [ ] Ray of Light
+- [ ] Borderline
+- [x] Vogue
+
+#### Which deceased artist has a 200 CD boxed set?
+
+- [ ] Prince
+- [x] Mozart
+- [ ] John Lennon
+
+#### What does the Fairy Godmother use to create a carriage for Cinderella?
+
+- [ ] A spoon
+- [x] A pumpkin
+- [ ] A dress
