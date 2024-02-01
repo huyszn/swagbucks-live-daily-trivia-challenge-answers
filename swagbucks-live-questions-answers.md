@@ -28452,3 +28452,57 @@
 - [ ] A spoon
 - [x] A pumpkin
 - [ ] A dress
+
+#### In the U.S., which birthday year commonly includes a "Sweet" party thrown for teenage girls?
+
+- [x] Sixteen
+- [ ] Eighteenth
+- [ ] Fourteenth
+
+#### Which of the following is one of the main ingredients for French Toast?
+
+- [ ] Water
+- [x] Eggs
+- [ ] Soda
+
+#### The American Sign Language for "Hug" is used prominently in which MCU film?
+
+- [x] Black Panther
+- [ ] Guardians of the Galaxy Vol. 2
+- [ ] Captain America and the Winter Solider
+
+#### Wordle was purchased in 2022 by what newspaper?
+
+- [ ] National Enquirer
+- [x] New York Times
+- [ ] Syracuse Herald Journal
+
+#### King James II banned golf in 1457 because he thought it was a distraction from what?
+
+- [x] Archery
+- [ ] Prayer
+- [ ] Marriage
+
+#### The Monaco Grand Prix is what kind of race?
+
+- [ ] Horse
+- [ ] Relay
+- [x] Formula One
+
+#### Which of the following things was first invented as a childbirth aid?
+
+- [ ] Kettle
+- [x] Chainsaw
+- [ ] Shoe Horn
+
+#### Who had a hit single in 2002 with "Cry Me A River"?
+
+- [ ] Ariana Grande
+- [ ] Cher
+- [x] Justin Timberlake
+
+#### Jonah Hill and Channing Tatum starred in a movie adaptation of what Johnny Depp TV show?
+
+- [ ] The Waltons
+- [ ] That's Incredible!
+- [x] 21 Jump Street
