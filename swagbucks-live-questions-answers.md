@@ -28656,3 +28656,75 @@
 - [ ] Harvey Wallbanger
 - [x] Shirley Temple
 - [ ] Martini
+
+#### Who won Super Bowl LIII?
+
+- [x] New England Patriots
+- [ ] Los Angeles Rams
+- [ ] New Orleans Saints
+
+#### In which sport do the players typically wear helments?
+
+- [x] Ice Hockey
+- [ ] Soccer
+- [ ] Basketball
+
+#### Which of these Disney parks riders is a roller coaster?
+
+- [ ] It's A Small World
+- [x] Space Mountain
+- [ ] Mad Tea Party
+
+#### Theoretically, which sitting U.S. President could have been a contestant on "The Bachelorette"?
+
+- [x] James Buchanan
+- [ ] Theodore Roosevelt
+- [ ] Grover Clevland
+
+#### What is the term for an additional performance called for by audience members?
+
+- [ ] Curtain Call
+- [x] Encore
+- [ ] Intermission
+
+#### What brand had a series of commercials in the 70's asking "Wouldn't You Like To Be A Pepper Too"?
+
+- [ ] Tabasco Sauce
+- [ ] McCormick spices
+- [x] Dr. Pepper
+
+#### The Cartivision was an early version of what technology?
+
+- [ ] Interactive TV
+- [x] TV Recording
+- [ ] Video Game System
+
+#### When was the first time people physically visited the deepest point on earth?
+
+- [ ] 2012
+- [ ] 1890
+- [x] 1960
+
+#### What is the official motto of the Royal Canadian Mounted Police?
+
+- [ ] We always get our man
+- [ ] Defending the Law
+- [x] Uphold the right
+
+#### In 1983, who was nominated for two acting Oscars?
+
+- [ ] Dustin Hoffman
+- [x] Jessica Lange
+- [ ] Meryl Streep
+
+#### In which of these sports do you serve the ball?
+
+- [x] Volleyball
+- [ ] Lacrosse
+- [ ] Hockey
+
+#### Lionel Messi is known for what sport?
+
+- [x] Soccer
+- [ ] Hockey
+- [ ] Cricket
