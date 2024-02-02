@@ -28506,3 +28506,63 @@
 - [ ] The Waltons
 - [ ] That's Incredible!
 - [x] 21 Jump Street
+
+#### On "Friends", which two characters have a baby together?
+
+- [x] Ross and Rachel
+- [ ] Phoebe and Chandler
+- [ ] Joey and Monica
+
+#### On what data is the Tournament of Rosses Parade held?
+
+- [x] January 1st
+- [ ] December 25th
+- [ ] July 4th
+
+#### Snap, Crackle, & Pop are the mascots for which cereal?
+
+- [ ] Wheaties
+- [ ] Raisin Bran
+- [x] Rice Krispies
+
+#### In what country would you find the mouths of the river Rhine?
+
+- [x] Netherlands
+- [ ] Germany
+- [ ] Denmark
+
+#### What profession involves drawing up blueprints for buildings?
+
+- [ ] Anesthesiologist
+- [ ] Archaeologist
+- [x] Architect
+
+#### Who is the current reigning monarch in England?
+
+- [ ] Prince Harry
+- [x] King Charles
+- [ ] Prince William
+
+#### What grocery store chain has an area dubbed "The Aisle of Shame"?
+
+- [ ] Trader Joe's
+- [x] Aidi
+- [ ] Whole Foods Market
+
+#### In which actual language does "Hakuna Matata" mean no worries?
+
+- [ ] Italian
+- [ ] French
+- [x] Swahili
+
+#### What actress and singer is married to Tom Hanks?
+
+- [ ] Reba McEntire
+- [ ] Taylor Swift
+- [x] Rita Wilson
+
+#### Which of the following names was used for The Beatles?
+
+- [ ] The Four Seasons
+- [ ] The Fantastic Four
+- [x] The Fab Four
