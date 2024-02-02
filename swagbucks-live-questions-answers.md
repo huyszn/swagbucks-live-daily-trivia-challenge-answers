@@ -28566,3 +28566,93 @@
 - [ ] The Four Seasons
 - [ ] The Fantastic Four
 - [x] The Fab Four
+
+#### What creature mauls Luke Skywalker in the beginning of "The Empire Strikes Back"?
+
+- [x] Wampa
+- [ ] Wamprat
+- [ ] Sarlacc
+
+#### What two friends turned celebrities wrote "Good Will Hunting"?
+
+- [ ] Jonah Hill and Adam Levine
+- [x] Matt Damon and Ben Afleck
+- [ ] Paris Hilton and Nicole Riche
+
+#### In the 1940s, someone who wanted to be "genned up" was looking for what?
+
+- [ ] A date
+- [ ] Alcohol
+- [x] Information
+
+#### Finish this saying: "Easy come..."
+
+- [ ] Easy money
+- [ ] Easy go
+- [x] Easy peasy
+
+#### What movie interrupted Back to the Future's streak of weekends at #1?
+
+- [x] National Lampoon's European Vacation
+- [ ] The Care Bears Movie
+- [ ] Rambo: First Blood Part II
+
+#### "Brexit" refers to Britain's exit from what?
+
+- [ ] The NBA
+- [x] The E.U.
+- [ ] The IT department
+
+#### If you're dejected, how are you feeling?
+
+- [ ] Curious
+- [ ] Angry
+- [x] Sad
+
+#### What do bees collect from flowers to make honey?
+
+- [x] Nectar
+- [ ] Wax
+- [ ] Carbon Dioxide
+
+#### When did the verb form of "unfriended" first appear?
+
+- [x] 1659
+- [ ] 1995
+- [ ] 2005
+
+#### What video game series has subtitles like "Modern Warfare" and "Black Ops"?
+
+- [x] Call of Duty
+- [ ] Pac-Man
+- [ ] Need for Speed
+
+#### When you're dining "Al Fresco", where are you eating?
+
+- [ ] Underwater
+- [ ] On Pluto
+- [x] Outdoors
+
+#### Which of the following is NOT a music album released by an actor or their band?
+
+- [ ] Heartbeat
+- [ ] Our Little Visionary
+- [x] This is Our Art
+
+#### Frank Lloyd Wright is primarily known for what?
+
+- [x] Architecture
+- [ ] Competitive Eating
+- [ ] Techno music
+
+#### Elephaba is the main character of which Broadway musical?
+
+- [ ] Guys and Dolls
+- [x] Wicked
+- [ ] Oklahoma
+
+#### Which of these drinks is traditionally non-alcoholic?
+
+- [ ] Harvey Wallbanger
+- [x] Shirley Temple
+- [ ] Martini
