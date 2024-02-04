@@ -28728,3 +28728,87 @@
 - [x] Soccer
 - [ ] Hockey
 - [ ] Cricket
+
+#### Yogi Bear and Boo-Boo live in what fictional park?
+
+- [ ] Jelly Roll
+- [ ] Jelly Donut
+- [x] Jellystone
+
+#### Yale's Woolsey Hall has a custom built seat to accommodate which historical figure?
+
+- [ ] George Washington
+- [ ] Albert Einstein
+- [x] William Howard Taft
+
+#### What auto brand once claimed to be "The Heartbeat of America"?
+
+- [x] Chevrolet
+- [ ] Nissan
+- [ ] Ferrari
+
+#### Mandarin and Cantonese are varieties of which language?
+
+- [ ] French
+- [x] Chinese
+- [ ] Spanish
+
+#### Which of these is a Hulu original documentary?
+
+- [ ] Exit Thhrough the Gift Shop
+- [ ] Icarus
+- [x] Batman & Bill
+
+#### According to the saying, "Necessity is the Mother of" what?
+
+- [x] Invention
+- [ ] Invasion
+- [ ] Interrogation
+
+#### A 2016 Michigan State University study found what to be helpful in passing kidney stones?
+
+- [ ] White Wine
+- [x] Big Thunder Mountain
+- [ ] Classical Music
+
+#### In "A Christmas Story," what store did Ralphie visit to ask Santa for a Red Ryder BB Gun?
+
+- [ ] Macy's
+- [x] Higbee's
+- [ ] Harrods
+
+#### What famous statue is located at the Giza Pyramids?
+
+- [x] The Sphinx
+- [ ] Leon Spinks
+- [ ] The Kitchen Sink
+
+#### What country's 1969 invasion of Anguilla was dubbed "The Bay of Piglets"?
+
+- [x] Great Britain
+- [ ] France
+- [ ] Italy
+
+#### Which of these criteria does NOT determine whether a show is "Broadway" or "Off-Broadway"?
+
+- [x] Length of run
+- [ ] Number of seats
+- [ ] Location
+
+#### Which of these elements is classified as a metalloid on the Periodic Table?
+
+- [ ] Argon
+- [ ] Selenium
+- [x] Boron
+
+#### The Smurfs primarily eat what fruit as part of their diet?
+
+- [ ] Grapes
+- [x] Smurfberries
+- [ ] Loquats
+
+#### Marshall MAthers raps under what stage name?
+
+- [ ] KRS-One
+- [ ] Lil Wayne
+- [x] Eminem
