@@ -28807,8 +28807,44 @@
 - [x] Smurfberries
 - [ ] Loquats
 
-#### Marshall MAthers raps under what stage name?
+#### Marshall Mathers raps under what stage name?
 
 - [ ] KRS-One
 - [ ] Lil Wayne
 - [x] Eminem
+
+#### What sitcom has been described as a "Show about nothing"?
+
+- [ ] It's A Living
+- [ ] The Donna Reed Show
+- [x] Seinfeld
+
+#### Which one of these quotes is NOT Shakespeare?
+
+- [ ] Now is the winter of our discontent
+- [x] To all the seeds that follow me, Protect your essence.
+- [ ] It is a wise father that knows his own child.
+
+#### According to a John Lennon lyric, "Life is what happens when you're busy" doing what?
+
+- [x] Making other plans
+- [ ] Dirty laundry
+- [ ] Your hair
+
+#### in 1911, what famous painting was stolen from the Louvre?
+
+- [x] Mona Lisa
+- [ ] Starry Night
+- [ ] The Kiss
+
+#### Which of these military ranks is the highest?
+
+- [ ] Private
+- [ ] Sergeant
+- [x] Major
+
+#### Labor Day was originally a rally in support of what?
+
+- [ ] Equal pay
+- [x] An 8-hour work day
+- [ ] Ending child labor
