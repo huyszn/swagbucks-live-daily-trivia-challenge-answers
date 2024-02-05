@@ -28848,3 +28848,63 @@
 - [ ] Equal pay
 - [x] An 8-hour work day
 - [ ] Ending child labor
+
+#### Which of these units of measurement is specific to the depth of water?
+
+- [ ] Quart
+- [ ] Inch
+- [x] Fathom
+
+#### Snake River forms a portion of the Northeast border of which US State?
+
+- [ ] Idaho
+- [x] Oregon
+- [ ] Wyoming
+
+#### According to The Robb Report, which car manufacturer still has 65% of all the cars they've made still out on the road?
+
+- [ ] Volkswagen
+- [ ] Rolls Royce
+- [x] Porsche
+
+#### Which of the following is currently a rule violation in the NBA?
+
+- [x] Traveling
+- [ ] Slam Dunk
+- [ ] Free Throw
+
+#### The spinal column meets what part of the body at the sacroiliac joints?
+
+- [x] Pelvis
+- [ ] Neckbone
+- [ ] Shoulder Blade
+
+#### Tighty whites are a nicname for what piece of men's clothing?
+
+- [ ] Dress shirt
+- [x] Underwear
+- [ ] Socks
+
+#### What colors are on a standard Twister mat?
+
+- [ ] Black, white, gold, and platinum
+- [x] Red, blue, yellow, and green
+- [ ] Purple, magenta, violet, and mauve
+
+#### In which city would you find the Academy Museum of Motion Pictures?
+
+- [ ] Dallas
+- [ ] Chicago
+- [x] Los Angeles
+
+#### What's the correct response to a joke that starts with "Knock Knock"?
+
+- [x] Who's there?
+- [ ] Go away
+- [ ] Hot hot is it?
+
+#### What NFL quarterback's fist-ever completion was to himself?
+
+- [ ] Dan Marino
+- [x] Brett Favre
+- [ ] Steve Young
