@@ -28968,3 +28968,57 @@
 - [ ] I Made Onions
 - [x] In My Opinion
 - [ ] Itchy Mittens Only
+
+#### What do you use to make tiny integrated circuits?
+
+- [ ] Silicone
+- [x] Silicon
+- [ ] Silicate
+
+#### Which woman was famous for her work with radioactive materials?
+
+- [ ] Goldie Hawn
+- [x] Marie Curie
+- [ ] Sarah Palin
+
+#### What do you use to make tiny integrated circuits?
+
+- [ ] Silicone
+- [x] Silicon
+- [ ] Silicate
+
+#### Which woman was famous for her work with radioactive materials?
+
+- [ ] Goldie Hawn
+- [x] Marie Curie
+- [ ] Sarah Palin
+
+#### Chef Boyardee primarily makes what kind of food?
+
+- [ ] Frozen food
+- [x] Canned food
+- [ ] Powdered food
+
+#### What decade is commonly referred to as "Roaring"?
+
+- [x] The 20's
+- [ ] The 40's
+- [ ] The 60's
+
+#### In the Middle Ages, how did people choose their Valentine?
+
+- [ ] With a matchmaker
+- [ ] Rolling dice
+- [x] By lottery
+
+#### What is the name of the Supervisor droid that worked in Jabba the Hutt's palace in "Return of the Jedi"?
+
+- [x] EV-9D9
+- [ ] TC-14
+- [ ] 4-LOM
+
+#### Which of these dog breeds is typically the largest?
+
+- [ ] Bichon Frise
+- [ ] Boston Terrier
+- [x] Saint Bernard
