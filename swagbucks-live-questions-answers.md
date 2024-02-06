@@ -28908,3 +28908,63 @@
 - [ ] Dan Marino
 - [x] Brett Favre
 - [ ] Steve Young
+
+#### Which of the following is a chain of amusement parks?
+
+- [ ] Just One Flag
+- [ ] Maybe Two Flags
+- [x] Six Flags
+
+#### What toy line caters to newborns, toddlers, and preschoolers?
+
+- [x] Fisher-Price
+- [ ] Transformers
+- [ ] Barbie
+
+#### "Clear eyes, full hearts, can't lost" was a constant quote on what TV show?
+
+- [ ] Entourage
+- [x] Friday Night Lights
+- [ ] Ballers
+
+#### Chiefs tight end Travis Kelce is in a relationship with what singer?
+
+- [x] Taylor Swift
+- [ ] Demi Lovato
+- [ ] Miley Cyrus
+
+#### Which artist has had hits like "vampire", "Good 4 U", and "get him back!"?
+
+- [ ] Edie Brickell
+- [x] Olivia Rodrigo
+- [ ] Cher
+
+#### Due to its chemical composition, comets partially smell like what food?
+
+- [x] Almonds
+- [ ] Broccoli
+- [ ] Chocolate
+
+#### In "Peanuts", what is the name of Snoopy's bird pal?
+
+- [ ] Syosset
+- [ ] Ithaca
+- [x] Woodstock
+
+#### What structure, that stands on a plain in Southern England, was once believed to be the ruins of a druid temple?
+
+- [ ] Westminster Abbey
+- [x] Stonehenge
+- [ ] Big Ben
+
+#### Which of the following is the name of a crewing gum brand?
+
+- [x] Big Red
+- [ ] Microscopic Red
+- [ ] Regular-Size Red
+
+#### What does the common abbreviation IMO stand for?
+
+- [ ] I Made Onions
+- [x] In My Opinion
+- [ ] Itchy Mittens Only
