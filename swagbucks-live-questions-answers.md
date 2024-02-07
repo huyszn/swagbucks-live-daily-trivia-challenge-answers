@@ -29082,3 +29082,33 @@
 - [x] Three
 - [ ] Twenty
 - [ ] Two Hundred
+
+#### How many teaspoons are in a tablepoon?
+
+- [ ] One
+- [x] Three
+- [ ] Four
+
+#### Muhammad Ali famously said "Float like a butterfly, sting like a" what?
+
+- [ ] Hornet
+- [x] Bee
+- [ ] Wasp
+
+#### Who wrote "Romeo and Juliet"?
+
+- [x] William Shakespeare
+- [ ] Arthur Miller
+- [ ] Edward Albee
+
+#### What American computer company is known as Big Blue?
+
+- [ ] Apple
+- [ ] Texas Instruments
+- [x] IBM
+
+#### Where would you find The Kremlin?
+
+- [ ] London
+- [x] Moscow
+- [ ] Hong Kong
