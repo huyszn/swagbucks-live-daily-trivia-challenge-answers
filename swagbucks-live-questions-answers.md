@@ -29022,3 +29022,63 @@
 - [ ] Bichon Frise
 - [ ] Boston Terrier
 - [x] Saint Bernard
+
+#### Where is Sheldon from?
+
+- [ ] New Zealand
+- [x] Texas
+- [ ] Canada
+
+#### What government agency does Wolowitz join?
+
+- [x] NASA
+- [ ] IRS
+- [ ] FBI
+
+#### Who does Leonard wind up marrying?
+
+- [ ] Amy
+- [ ] Bernadette
+- [x] Penny
+
+#### Which of the following famous people did NOT appear on The Big Bang Theory as themselves?
+
+- [x] Steve Jobs
+- [ ] Charlie Sheen
+- [ ] Kevin Smith
+
+#### Which Big Bang Theory character's mother was heard but never seen?
+
+- [ ] Raj
+- [x] Wolowitz
+- [ ] Leonard
+
+#### What is Penny's job at the beginning of the series?
+
+- [ ] Pharmacist
+- [ ] Grocer
+- [x] Waitress
+
+#### What does Sheldon call his grandmother?
+
+- [ ] Gam Gam
+- [x] Meemaw
+- [ ] Nana
+
+####In which city does The Big Bang Theory take place?
+
+- [x] Pasadena, California
+- [ ] Tokyo, Japan
+- [ ] Woodstock, New York
+
+#### The Big Bang Theory theme song is performed by what band?
+
+- [ ] Disturbed
+- [ ] The Soggy Bottom Boys
+- [x] Barenaked Ladies
+
+#### Sheldon knocks on doors in bursts of how many knocks?
+
+- [x] Three
+- [ ] Twenty
+- [ ] Two Hundred
