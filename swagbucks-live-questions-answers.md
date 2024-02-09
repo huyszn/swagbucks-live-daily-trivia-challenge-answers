@@ -29202,3 +29202,51 @@
 - [ ] Peanut Butter
 - [ ] Chocolate
 - [x] Vanilla
+
+#### Which State is home to Mount Rushmore?
+
+- [ ] Oregon
+- [x] South Dakota
+- [ ] Alabama
+
+#### Which of these snack foods was introduced the earliest?
+
+- [ ] Oreo Cakesters
+- [ ] Dunkaroos
+- [x] Bagle Bites
+
+#### Due to shifting tectonic plates, which ocean is getting smaller each year?
+
+- [ ] Atlantic Ocean
+- [x] Pacific Ocean
+- [ ] Indian Ocean
+
+#### As of 2023, what sandbox game is the best selling video game in history?
+
+- [x] Minecraft
+- [ ] Borderlands 3
+- [ ] Jumpman Jr.
+
+#### What is the term for a group of apes?
+
+- [ ] Ganthering
+- [ ] Bale
+- [x] Shrewdness
+
+#### In "Zombieland", which celebrity has a cameo playing themself?
+
+- [ ] Sigourney Weaver
+- [x] Bill Murray
+- [ ] Sylvester Stallone
+
+#### What was the first single released by The Beatles?
+
+- [x] Love Me Do
+- [ ] Sgt. Pepper's Lonely Hearts Club Band
+- [ ] Let It Be
+
+#### Which TV Newtork's logo is a peacock?
+
+- [ ] ABC
+- [ ] CBS
+- [x] NBC
