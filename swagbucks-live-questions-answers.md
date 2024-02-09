@@ -29172,3 +29172,33 @@
 - [ ] Reba McEntire
 - [x] Dolly Parton
 - [ ] Wynonna Judd
+
+#### In 2010, the U.S. Air Force used what gaming consoles to build a supercomputer?
+
+- [x] PlayStation 3
+- [ ] Nintendo Wii
+- [ ] Xbox 360
+
+#### Which of these styles of music heavily features the banjo?
+
+- [ ] Heavy Metal
+- [x] Bluegrass
+- [ ] Classical
+
+#### What is the main difference between Brut and Extra Brut?
+
+- [x] Sugar
+- [ ] Carbonation
+- [ ] Alcohol content
+
+#### The common superstition is that breaking a mirror leads to how many years of bad luck?
+
+- [x] Seven
+- [ ] Thirteen
+- [ ] Nine
+
+#### What flavor is the creme inside a standard Oreo cookie?
+
+- [ ] Peanut Butter
+- [ ] Chocolate
+- [x] Vanilla
