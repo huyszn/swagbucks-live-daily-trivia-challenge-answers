@@ -29112,3 +29112,63 @@
 - [ ] London
 - [x] Moscow
 - [ ] Hong Kong
+
+#### If Hasbro had never switched to toys, what item would you most likely buy from them?
+
+- [ ] Wagon Wheel
+- [ ] Dry Cereal
+- [x] Pencil Box Covers
+
+#### "Enter Sandman" is a hit song from which band?
+
+- [ ] The Doobie Brothers
+- [x] Metallica
+- [ ] Toad the Wet Sprocket
+
+#### Which of the following is NOT a conlang?
+
+- [x] Tamil
+- [ ] Dothraki
+- [ ] Klingon
+
+#### Which language is primarily spoken in Brazil?
+
+- [ ] Italian
+- [ ] Mandarin
+- [x] Portuguese
+
+#### "She's The Man" and "Just One Of The Guys" are both loose adaptations of which Shakespeare comedy?
+
+- [x] Twelfth Night
+- [ ] The Comedy of Erros
+- [ ] The Tempest
+
+#### Nike started out making shoes for what purpose?
+
+- [ ] Dancing
+- [ ] Construction
+- [x] Running
+
+#### Which of the following is used as a sweetener?
+
+- [ ] Cilantro
+- [x] Agave
+- [ ] Mustard
+
+#### What multi-sport athlete has a town in Pennsylvania named for them?
+
+- [ ] Bo Jackson
+- [ ] George Halas
+- [x] Jim Thorpe
+
+#### Which of the following was NOT one of the commands of the original Bop-it?
+
+- [ ] Bop it!
+- [ ] Twist it!
+- [x] Refinance it!
+
+#### Who is Miley Cyrus's godmother?
+
+- [ ] Reba McEntire
+- [x] Dolly Parton
+- [ ] Wynonna Judd
