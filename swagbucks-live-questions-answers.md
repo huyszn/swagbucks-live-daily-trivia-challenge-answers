@@ -18760,8 +18760,8 @@
 #### In 1994, which Disney animated film's stage adaptation debuted on Broadway?
 
 - [ ] The Aristocats
-- [ ] Beauty and the Beast
-- [x] Oliver & Company
+- [x] Beauty and the Beast
+- [ ] Oliver & Company
 
 #### What actor has appeared in "Jumanji", "Hobbs & Shaw", and "Jungle Cruise"?
 
@@ -29250,3 +29250,81 @@
 - [ ] ABC
 - [ ] CBS
 - [x] NBC
+
+#### Which of these singing groups does NOT include siblings?
+
+- [ ] The Osmonds
+- [ ] The Carpenters
+- [x] The White Stripes
+
+#### What German region did good King Wenceslas oversee?
+
+- [ ] Saxony
+- [ ] Prussia
+- [x] Bavaria
+
+#### What is the term for the glass containers used to hold liquids in a lab?
+
+- [ ] Saucer
+- [ ] Li'l Jug
+- [x] Beaker
+
+#### After its initial move, which of these pieces on a chess board can only move one square at a time?
+
+- [ ] Queen
+- [ ] Bishop
+- [x] Pawn
+
+#### In the MCU, which of the Infinity Stones is the first to appear in a movie?
+
+- [ ] Mind Stone
+- [x] Space Stone
+- [ ] Power Stone
+
+#### What trees give us acorns?
+
+- [ ] Palm
+- [ ] Spruce
+- [x] Oak
+
+#### According to the saying, laughter is the best what?
+
+- [ ] Chaperone
+- [ ] Bodyguard
+- [x] Medicine
+
+#### Who was the first NHL player to become majority owner of his former team?
+
+- [ ] Wayne Gretzky
+- [x] Mario Lemieux
+- [ ] Mark Messier
+
+#### In which city would you find a hiking trail decorated with disembodied doll heads?
+
+- [ ] Portland, OR
+- [ ] Austin, TX
+- [x] Atlanta, GA
+
+#### The Montagues and Capulets are central to which Shakespeare play?
+
+- [ ] The Merchant of Venice
+- [ ] The Tempest
+- [x] Romeo and Juliet
+
+#### What modern toy is hidden around the house to "watch" children & report to Santa?
+
+- [ ] Dwarf On The Wharf
+- [ ] Gnome In The Home
+- [x] Elf On The Shelf
+
+#### Which of the following animals are not found in the official version Minecraft?
+
+- [ ] Fox
+- [ ] Pig
+- [x] Deer
+
+#### Roald Dahl's "James and the Giant Peach" ends with the peach implaed on what building?
+
+- [ ] State of Liberty
+- [ ] Chrysler Building
+- [x] Emprie State Building
