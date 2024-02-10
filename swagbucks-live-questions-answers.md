@@ -29328,3 +29328,33 @@
 - [ ] State of Liberty
 - [ ] Chrysler Building
 - [x] Emprie State Building
+
+#### On Valentune's Day in 1990, Michael Jordan wore the number 12 for a game against the Magic. Why?
+
+- [ ] For his wife
+- [ ] Superstition
+- [x] His jersey was stolen
+
+#### When he was 17, Buddy Holly was the opening act for what singer?
+
+- [ ] Jerry Lee Lewis
+- [ ] Chuck Berry
+- [x] Elvis Presley
+
+#### A "Conspiracy" is agroup of which animals?
+
+- [ ] Snakes
+- [ ] Chipmunks
+- [x] Lemus
+
+#### What fruit is customarily given to teachers as a gift?
+
+- [x] Apples
+- [ ] Grapes
+- [ ] Kumquats
+
+#### My marrying Prince Rainier, Grace Kelly became princess of what nation?
+
+- [ ] Spain
+- [x] Monaco
+- [ ] Austria
