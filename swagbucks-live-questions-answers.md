@@ -29358,3 +29358,27 @@
 - [ ] Spain
 - [x] Monaco
 - [ ] Austria
+
+#### Which of these clothing items did Mister Rogers change into at the beginning of each of his shows?
+
+- [ ] Jacket
+- [ ] Loafers
+- [x] Sneakers
+
+#### According to the saying, when you have to restart something you're going back to what?
+
+- [x] Square One
+- [ ] Square Two
+- [ ] Square Three
+
+#### What famous park is in the middle of Manhattan in New York?
+
+- [ ] Rucker Park
+- [x] Central Park
+- [ ] Yankee Stadium
+
+#### Which of the following is a common version of the Bible?
+
+- [ ] King Koopa
+- [ ] Ol' King Cole
+- [x] King James
