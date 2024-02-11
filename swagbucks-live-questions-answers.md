@@ -29341,7 +29341,7 @@
 - [ ] Chuck Berry
 - [x] Elvis Presley
 
-#### A "Conspiracy" is agroup of which animals?
+#### A "Conspiracy" is a group of which animals?
 
 - [ ] Snakes
 - [ ] Chipmunks
@@ -29382,3 +29382,45 @@
 - [ ] King Koopa
 - [ ] Ol' King Cole
 - [x] King James
+
+#### Who was the oldest active MLB player of all time?
+
+- [ ] Charley O'Brien
+- [ ] Jamie Moyer
+- [x] Satchel Paige
+
+#### What board game was originally called "Death Valley"?
+
+- [ ] Clue
+- [x] Operation
+- [ ] Settlers of Catan
+
+#### What was the name of Marcel Marceau's most famous character?
+
+- [ ] Bap
+- [x] Bip
+- [ ] Bob
+
+#### Earlier this year, a newly discovered breed of millipede was named in honor of what singer?
+
+- [x] Taylor Swift
+- [ ] Cher
+- [ ] Dolly Parton
+
+#### Which of these vehicle names is another term for "Underwater"?
+
+- [x] Submarine
+- [ ] Motorcycle
+- [ ] Airplane
+
+#### The word "jay" in "jaywalker" was a slang word for what type of person?
+
+- [ ] Dangerous
+- [x] Foolish
+- [ ] Mischievous
+
+#### "The Captain's Mistress" was the nickname for what game, constantly played by Captain Cook?
+
+- [ ] Checkers
+- [ ] Othello
+- [x] Connect Four
