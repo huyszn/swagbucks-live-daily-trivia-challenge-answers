@@ -29424,3 +29424,39 @@
 - [ ] Checkers
 - [ ] Othello
 - [x] Connect Four
+
+#### John Krasinski is related by marriage to what Oscar-nominated actor?
+
+- [ ] Amy Adams
+- [ ] Beau Bridges
+- [x] Stanley Tucci
+
+#### Which of the following is NOT one of the seven musical notes?
+
+- [ ] F
+- [ ] A
+- [x] Z
+
+#### Which of the following is a proper example of a possessive?
+
+- [ ] Sallays car
+- [x] Sally's car
+- [ ] Sallyeez car
+
+#### Which of the folllowing shows did NOT star Neil Patrick Harris?
+
+- [ ] Doogie Howser, M.D.
+- [x] Suddenly Susan
+- [ ] How I Met Your Mother
+
+#### What Broadway musical features characters from The Wizard of Oz?
+
+- [ ] Rent
+- [ ] She Loves Me
+- [x] Wicked
+
+#### Which Seth Rogen movie would someone with tokophobia most likely avoid?
+
+- [ ] The 40-Year Old Virgin
+- [ ] Pineapple Express
+- [x] Knocked Up
