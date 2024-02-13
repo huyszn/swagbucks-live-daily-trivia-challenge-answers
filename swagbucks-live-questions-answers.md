@@ -29502,3 +29502,63 @@
 - [ ] IBM.com
 - [ ] Think.com
 - [x] Symbolics.com
+
+#### During which holiday do people traditionally wear green?
+
+- [x] St. Patrick's Day
+- [ ] Easter
+- [ ] Halloween
+
+#### Which of the following is LEGO's slogan?
+
+- [ ] They Hurt When You Step On Theme
+- [ ] The Flat Thingie Is A Brick Separator
+- [x] Only The Best Is Good Enough
+
+#### What celestial body causes a solar eclipse?
+
+- [ ] Venus
+- [x] The Moon
+- [ ] Saturn
+
+#### The Duke University Basketball Team plays their home games in which State?
+
+- [ ] Wyoming
+- [ ] Nevada
+- [x] North Carolina
+
+#### Which Oscar-winning Boston celebrity appeared in 2023 Dunkin' Donuts commercials with Ice Spice?
+
+- [x] Ben Affleck
+- [ ] Eliza Dushku
+- [ ] Uma Thurman
+
+#### Elton John is known for what instrument?
+
+- [ ] Zther
+- [ ] Piccolo
+- [x] Piano
+
+#### The Northern Hemisphere is farthest from the Sun around which of these days?
+
+- [ ] Vernal Equinox
+- [ ] Autummal Equinox
+- [x] Hibernal Solstice
+
+#### Which TV alien was played by Robin Williams?
+
+- [x] Mork from Ork
+- [ ] Uncle Martin
+- [ ] Mister Spock
+
+#### Which of the following sandwiches originated in New Orleans?
+
+- [ ] Cheesesteak
+- [ ] Lobster Roll
+- [x] Po' boy
+
+#### In the Mother Goose rhyme, why does Old Mother Hubbard go to the cupboard?
+
+- [ ] To get some jam
+- [x] To get her poor dog a bone
+- [ ] To get down and boogie
