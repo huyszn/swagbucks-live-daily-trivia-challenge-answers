@@ -29562,3 +29562,51 @@
 - [ ] To get some jam
 - [x] To get her poor dog a bone
 - [ ] To get down and boogie
+
+#### In Return of the Jedi, on what price for Chewbacca do Boushh and Jabba settle?
+
+- [x] 35,000
+- [ ] 45,000
+- [ ] 50,000
+
+#### In which year the did Titanic sink?
+
+- [ ] 1901
+- [ ] 1908
+- [x] 1912
+
+#### Who is Donald Duck's sister?
+
+- [ ] Delia Duck
+- [x] Dumbella Duck
+- [ ] Donna Duck
+
+#### The Munros are the largest mountains in what country?
+
+- [x] Scotland
+- [ ] Ireland
+- [ ] England
+
+#### Based on its original slang meaning, what could you call a jaywalker?
+
+- [x] Rubewalker
+- [ ] Criminalwalker
+- [ ] Fastwalker
+
+#### Which of these wrestlers was known as "The Nature Boy"?
+
+- [ ] Stan Stasiak
+- [ ] David Flair
+- [x] Buddy Rogers
+
+#### Who was the first astronaut to float untethered in space?
+
+- [x] Bruce McCandless
+- [ ] Neil Armstrong
+- [ ] Buzz Aldrin
+
+#### Which book of the Bible comes first?
+
+- [ ] Numbers
+- [ ] Exodus
+- [x] Genesis
