@@ -25183,12 +25183,6 @@
 - [ ] Dump truck
 - [x] Helicopter
 
-#### "Digerati" is a portmanteau of what two words?
-
-- [ ] Digital and Culturati
-- [x] Digital and Literati
-- [ ] Digital and Illuminati
-
 #### Yars' Revenge was a game originally playable on what system?
 
 - [x] Atari
@@ -25206,12 +25200,6 @@
 - [ ] British Columbia
 - [ ] Ontario
 - [x] The Pacific Northwest
-
-#### "Digerati" is a portmanteau of what two words?
-
-- [ ] Digital and Culturati
-- [x] Digital and Literati
-- [ ] Digital and Illuminati
 
 #### A conversation between Conan O'Brien and Andy Richter is an easter egg in what video game?
 
@@ -29460,3 +29448,57 @@
 - [ ] The 40-Year Old Virgin
 - [ ] Pineapple Express
 - [x] Knocked Up
+
+#### What is the term for a mixed drink of wine or distilled liquor with at least two ingredients?
+
+- [ ] Juice
+- [ ] Lager
+- [x] Cocktail
+
+#### What is the term for the colors from which all other colors can be made via mixing?
+
+- [ ] Basic colors
+- [ ] Single colors
+- [x] Primary colors
+
+#### Which tech company's name is an example of a portmanteau?
+
+- [x] Instagram
+- [ ] Google
+- [ ] Oracle
+
+#### Which of these words is a contronym?
+
+- [x] Seed
+- [ ] Cry
+- [ ] Peace
+
+#### Anthony Perkins plays Norman Bates in which Hitchcock thriller?
+
+- [ ] The Birds
+- [ ] Rear Window
+- [x] Psycho
+
+#### Which of these refers to bees?
+
+- [ ] Avian
+- [ ] Apoidian
+- [x] Apiarian
+
+#### Indiana Jones is afraid of snakes. What is his father afraid of?
+
+- [ ] Bats
+- [ ] Cats
+- [x] Rats
+
+#### Lex Luthor is the archrival of which superhero?
+
+- [x] Superman
+- [ ] Iron Man
+- [ ] The Flash
+
+#### Which of the following was the first registered "dot com" domain name?
+
+- [ ] IBM.com
+- [ ] Think.com
+- [x] Symbolics.com
