@@ -29670,3 +29670,63 @@
 - [ ] Orange Juice
 - [ ] Walkies
 - [x] Close-up
+
+#### Which of the following museums can be found in London?
+
+- [ ] The Prado
+- [ ] The Louvre
+- [x] The British Museum
+
+#### In 1919, Ray Caldwell pitched a complete game despite what setback?
+
+- [ ] He broke his arm
+- [ ] He fell asleep
+- [x] He was hit by lightning
+
+#### What kind of edible is normally given as a gift during Valentine's Day?
+
+- [x] Chocolates
+- [ ] Sticky Buns
+- [ ] Parsnips
+
+#### What is the term for a piece of land ALMOST entireluy surrounded by water?
+
+- [x] Peninsula
+- [ ] Crater
+- [ ] Delta
+
+#### Who is Olive Oyl's boyfriend?
+
+- [x] Popeye
+- [ ] Wimpy
+- [ ] Castor Oyl
+
+#### The island of Cyprus is known by what nickname?
+
+- [x] The Island of Love
+- [ ] The Stinky Island
+- [ ] the Island of Denny's
+
+#### Which of these toy lines is an elite fighting force?
+
+- [ ] Strawberry Shortcake
+- [x] G.I. Joe
+- [ ] My Buddy
+
+#### What was the first Harry Potter book?
+
+- [x] The Philosopher's Tone
+- [ ] The Goblet of Fire
+- [ ] The Deathly Hallows
+
+#### In Ice cube's "It Was A Good Day", which NBA team gets namechecked?
+
+- [x] Seattle Supersonics
+- [ ] New Jersey Nets
+- [ ] Los Angeles Clippers
+
+#### Which of the following entrees comes wrapped in a puff pastry?
+
+- [x] Beef Wellington
+- [ ] Veal Parmigiana
+- [ ] Braised Short Ribs
