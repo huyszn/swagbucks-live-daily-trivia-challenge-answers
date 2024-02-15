@@ -29730,3 +29730,105 @@
 - [x] Beef Wellington
 - [ ] Veal Parmigiana
 - [ ] Braised Short Ribs
+
+#### What was the first video game to show blood?
+
+- [ ] Splatterhouse
+- [ ] Mortal Kombat
+- [x] Chiller
+
+#### Before the Washingtoni Monument, what was the world's tallest man made structure?
+
+- [x] The Cologne Cathedral
+- [ ] The Statue of Liberty
+- [ ] The Eiffel Tower
+
+#### What kind of plant is the peanut?
+
+- [ ] Vine
+- [ ] Fruit
+- [x] Legume
+
+#### Which chocolate food is the oldest?
+
+- [ ] Nutella
+- [x] Goobers
+- [ ] M&M's
+
+#### What sitcom star headlines the sci-fi comedy "Galaxy Quest"?
+
+- [ ] Steve Carell
+- [ ] Ray Romano
+- [x] Tim Allen
+
+#### Which of these is NOT mentioned in Kendrick Lamar's "Humble"?
+
+- [ ] Grey Poupon
+- [ ] Tetris
+- [x] A crown
+
+#### In which movie does Keanu Reeves discover he's been plugged into a giant computer for his entire life?
+
+- [ ] Johnny Mnemonic
+- [ ] John Wick
+- [x] The Matrix
+
+#### In the original "Back to the Future", what year does Marty travel back to?
+
+- [ ] 1985
+- [ ] 1962
+- [x] 1955
+
+#### Biff Tannen and his ancestor Mad Dog Tannen are both humiliatingly coated in what substance?
+
+- [ ] Wet cement
+- [x] Manure
+- [ ] Garbage
+
+#### After seeing his underwear, what does Lorraine assume is Marty's name?
+
+- [x] Calvin Klein
+- [ ] Ralph Lauren
+- [ ] Mack Weldon
+
+#### When Lorraine's father rolls their TV into the dining room, what show is playing?
+
+- [ ] The Donna Reed Show
+- [ ] You Bet Your Life
+- [x] The Honeymooners
+
+#### Which of the following "Back to the Future" cast members did NOT return for new scenes in Part II?
+
+- [x] Crispin Glover
+- [ ] Lea Thompson
+- [ ] Michael J. Fox
+
+#### When Marty's parents finally kiss, what song is he playing with the band?
+
+- [ ] Johnny B. Goode
+- [x] Earth Angel
+- [ ] Book of Love
+
+#### In "Back to the Future, Part III", Doc Brown has a giant machine in his shop that serves what purpose?
+
+- [ ] Computer
+- [x] Refrigerator
+- [ ] Soda Machine
+
+#### When Marty poses as an alien to intimdidate his father, what sci-fi name does he use?
+
+- [x] Darth Vader
+- [ ] Spock
+- [ ] Tron
+
+#### Who recorded "Back in Time" and "The Power of Love" for the Back to the Future soundtrack?
+
+- [ ] Lindsey Buckingham
+- [ ] Timbuk 3
+- [x] Huey Lewis and The News
+
+#### Which 1955 Hill Valley building is struck by lightning in "Back to the Future"?
+
+- [x] Clock Tower
+- [ ] Movie Theater
+- [ ] Gas Station
