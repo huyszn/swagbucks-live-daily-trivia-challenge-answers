@@ -29832,3 +29832,45 @@
 - [x] Clock Tower
 - [ ] Movie Theater
 - [ ] Gas Station
+
+#### Ophthalmology is the study and treatment of what?
+
+- [ ] Ostriches
+- [x] Eyes
+- [ ] Teeth
+
+#### Which of the following is NOT a track from "Christmas in the Stars"?
+
+- [ ] What Can You Get A Wookiee For Christmas
+- [x] I Am Your Father (Christmas)
+- [ ] The Odds Against Christmas
+
+#### Which of the following is a Darkwing Duck catchphrase?
+
+- [ ] Cowabunga, dude!
+- [x] Let's get dangerous!
+- [ ] Yoins, and away!
+
+#### What soul musician was known as "The 5th Beatle"?
+
+- [x] Billy Preston
+- [ ] Marvin Gaye
+- [ ] Stevie Wonder
+
+#### What musician starred in the 1980s movie Purple Rain?
+
+- [x] Prince
+- [ ] Michael Jackson
+- [ ] Madonna
+
+#### Steve Martin often performed stand-up with what sticking through his head?
+
+- [x] An Arrow
+- [ ] A Rainbow
+- [ ] A Dollar Bill
+
+#### What topping is traditionally added to movie popcorn?
+
+- [x] Butter
+- [ ] Whipped Cream
+- [ ] Maple Syrup
