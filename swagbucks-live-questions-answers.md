@@ -29874,3 +29874,63 @@
 - [x] Butter
 - [ ] Whipped Cream
 - [ ] Maple Syrup
+
+#### Bob ross was the longtime host of what cultural instruction show?
+
+- [ ] Cookin' Cajun Style
+- [x] The Joy of Painting
+- [ ] Sulpting Like A Rock Star
+
+#### Which of the following sauces is traditionally made with meat?
+
+- [x] Bolognese
+- [ ] Presto
+- [ ] Alfredo
+
+#### The Beatles recorded their later albums at a famous studio on what London street?
+
+- [ ] Baker Street
+- [x] Abbey Road
+- [ ] Carney Avenue
+
+#### Which of the following TV shows once broadcast a live episode?
+
+- [ ] The Big Bang Theory
+- [x] The West Wing
+- [ ] Sports Night
+
+#### What story is believed to have been written while the author was on cocaine?
+
+- [ ] The Great Gatsby
+- [ ] Tess of the d'Urbervilles
+- [x] The Strange Case of Dr. Jekyll and Mr. Hyde
+
+#### Which thse toys is a type of modeling clay?
+
+- [ ] Hot Wheels
+- [x] Play Doh
+- [ ] Slime
+
+#### A grotesque of what pop culture figure andorns the Washington National Cathedral?
+
+- [x] Darth Vader
+- [ ] Kermit the frog
+- [ ] Count Chocula
+
+#### If bottles of Dom Perignon sported an image of the real Dom Perignon, what would you see on the label?
+
+- [ ] A Doctor
+- [x] A Monk
+- [ ] A King
+
+#### Julia Louis-Dreyfus won six consecutive Emmys for her work on what HBO comedy?
+
+- [ ] The Sopranos
+- [ ] Ballers
+- [x] Veep
+
+#### Puerto Rican rapper and singer Benito Martinez Ocasio is better known by what name?
+
+- [ ] Mase
+- [x] Bad Bunny
+- [ ] Lady Gaga
