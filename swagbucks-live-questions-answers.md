@@ -18760,8 +18760,8 @@
 #### In 1994, which Disney animated film's stage adaptation debuted on Broadway?
 
 - [ ] The Aristocats
-- [ ] Beauty and the Beast
-- [x] Oliver & Company
+- [x] Beauty and the Beast
+- [ ] Oliver & Company
 
 #### What actor has appeared in "Jumanji", "Hobbs & Shaw", and "Jungle Cruise"?
 
@@ -22303,7 +22303,7 @@
 - [ ] Shoulder
 - [x] Knee
 
-#### Where is the world’slargest Comic Con held?
+#### Where is the world’s largest Comic Con held?
 
 - [x] San Diego
 - [ ] Dubuque
@@ -25183,12 +25183,6 @@
 - [ ] Dump truck
 - [x] Helicopter
 
-#### "Digerati" is a portmanteau of what two words?
-
-- [ ] Digital and Culturati
-- [x] Digital and Literati
-- [ ] Digital and Illuminati
-
 #### Yars' Revenge was a game originally playable on what system?
 
 - [x] Atari
@@ -25206,12 +25200,6 @@
 - [ ] British Columbia
 - [ ] Ontario
 - [x] The Pacific Northwest
-
-#### "Digerati" is a portmanteau of what two words?
-
-- [ ] Digital and Culturati
-- [x] Digital and Literati
-- [ ] Digital and Illuminati
 
 #### A conversation between Conan O'Brien and Andy Richter is an easter egg in what video game?
 
@@ -28296,3 +28284,1653 @@
 - [x] Seven
 - [ ] Eight
 - [ ] Nine
+
+#### Which of the following is a term for the bottom of the ocean?
+
+- [ ] Bobby Jones's Locker
+- [x] Davy Jones's Locker
+- [ ] Daniel Jones's Locker
+
+#### Who squeezed 1,560 words into a 6 minute rap song in 2014?
+
+- [ ] Busta Rhymes
+- [x] Eminem
+- [ ] Kanye West
+
+#### What is the capital of Thailand?
+
+- [x] Bangkok
+- [ ] Madrippor
+- [ ] Hat Yai
+
+#### Which of these continents is not landlocked on any side?
+
+- [ ] Asia
+- [ ] Europe
+- [x] Australia
+
+#### What is the largest continent on Earth?
+
+- [ ] Africa
+- [ ] Antarctica
+- [x] Asia
+
+#### What theme park is home to the Wizardling World of Harry Potter?
+
+- [x] Universal Studios
+- [ ] Busch Gardens
+- [ ] Six Flags
+
+#### Which of these thigns is personaified as a father?
+
+- [ ] Earth
+- [x] Time
+- [ ] The Starship Enterprise
+
+#### Who were the title charactesr in "When Harry Met Sally..." based on?
+
+- [ ] Nora Ephron's parents
+- [ ] Rob Reiner and Penny Marshall
+- [x] Rob Reiner and Nora Ephron
+
+#### Who played Gandalf in the "Lord of the Rings" movies?
+
+- [ ] Christopher Lee
+- [ ] Patrick Stewart
+- [x] Ian McKellen
+
+#### Which of the following words was added to the Merriam-Webster Dictionary in September 2022?
+
+- [ ] Bit rot
+- [x] Sponcon
+- [ ] Teraflop
+
+#### The Macchiato is a drink you would order at what chain?
+
+- [ ] Chick-fil-A
+- [x] Starbucks
+- [ ] Subway
+
+#### What is the name of Amazon's eReader?
+
+- [x] Kiddle
+- [ ] Candle
+- [ ] Tinder
+
+#### goop is a lifestyle brand owned by which celebrity?
+
+- [ ] Jessica Alba
+- [x] Gwyneth Paltrow
+- [ ] Scarlett Johansson
+
+#### Funko makes what popular collectibles?
+
+- [ ] Popples
+- [ ] Pound Puppies
+- [x] Pop! Vinyls
+
+#### What is the name of ESPN's extreme sports competition?
+
+- [x] X Games
+- [ ] Y Games
+- [ ] Z Games
+
+#### What do Koscot Interplanetary, Holiday Magic, and BurnLounge have in common?
+
+- [ ] They're all owned by Warren Bufett
+- [ ] They all sold for the same price
+- [x] They're all pyramid schemes
+
+#### Which of the following is a string instrument?
+
+- [ ] Maracas
+- [ ] Theremin
+- [x] Mandolin
+
+#### Which of the folloiwng Disney Animated films has NOT gotten a live action adaptation?
+
+- [x] The Fox and the Hound
+- [ ] The Jungle Book
+- [ ] Cinderella
+
+#### If you order a "barm" in England, what will the server bring you?
+
+- [ ] Beef
+- [ ] Pasta
+- [x] Bread
+
+#### What is The Kool Aid Man's catchphrase?
+
+- [ ] "Sorry About Your Wall..."
+- [x] "Oh Yeah!"
+- [ ] "Anyone Thirsty?"
+
+#### Which U.S. Sate has the nickname "The First State"?
+
+- [ ] Alaska
+- [ ] Florida
+- [x] Delaware
+
+#### Which city has sports teams that play home games in Madison Square Garden?
+
+- [x] New York
+- [ ] Boston
+- [ ] Chicago
+
+#### The 1800s are considered to be which century?
+
+- [ ] 18th
+- [x] 19th
+- [ ] 20th
+
+#### In which of her songs does Madonna repeatedly ask you to "Strike A Pose"?
+
+- [ ] Ray of Light
+- [ ] Borderline
+- [x] Vogue
+
+#### Which deceased artist has a 200 CD boxed set?
+
+- [ ] Prince
+- [x] Mozart
+- [ ] John Lennon
+
+#### What does the Fairy Godmother use to create a carriage for Cinderella?
+
+- [ ] A spoon
+- [x] A pumpkin
+- [ ] A dress
+
+#### In the U.S., which birthday year commonly includes a "Sweet" party thrown for teenage girls?
+
+- [x] Sixteen
+- [ ] Eighteenth
+- [ ] Fourteenth
+
+#### Which of the following is one of the main ingredients for French Toast?
+
+- [ ] Water
+- [x] Eggs
+- [ ] Soda
+
+#### The American Sign Language for "Hug" is used prominently in which MCU film?
+
+- [x] Black Panther
+- [ ] Guardians of the Galaxy Vol. 2
+- [ ] Captain America and the Winter Solider
+
+#### Wordle was purchased in 2022 by what newspaper?
+
+- [ ] National Enquirer
+- [x] New York Times
+- [ ] Syracuse Herald Journal
+
+#### King James II banned golf in 1457 because he thought it was a distraction from what?
+
+- [x] Archery
+- [ ] Prayer
+- [ ] Marriage
+
+#### The Monaco Grand Prix is what kind of race?
+
+- [ ] Horse
+- [ ] Relay
+- [x] Formula One
+
+#### Which of the following things was first invented as a childbirth aid?
+
+- [ ] Kettle
+- [x] Chainsaw
+- [ ] Shoe Horn
+
+#### Who had a hit single in 2002 with "Cry Me A River"?
+
+- [ ] Ariana Grande
+- [ ] Cher
+- [x] Justin Timberlake
+
+#### Jonah Hill and Channing Tatum starred in a movie adaptation of what Johnny Depp TV show?
+
+- [ ] The Waltons
+- [ ] That's Incredible!
+- [x] 21 Jump Street
+
+#### On "Friends", which two characters have a baby together?
+
+- [x] Ross and Rachel
+- [ ] Phoebe and Chandler
+- [ ] Joey and Monica
+
+#### On what data is the Tournament of Rosses Parade held?
+
+- [x] January 1st
+- [ ] December 25th
+- [ ] July 4th
+
+#### Snap, Crackle, & Pop are the mascots for which cereal?
+
+- [ ] Wheaties
+- [ ] Raisin Bran
+- [x] Rice Krispies
+
+#### In what country would you find the mouths of the river Rhine?
+
+- [x] Netherlands
+- [ ] Germany
+- [ ] Denmark
+
+#### What profession involves drawing up blueprints for buildings?
+
+- [ ] Anesthesiologist
+- [ ] Archaeologist
+- [x] Architect
+
+#### Who is the current reigning monarch in England?
+
+- [ ] Prince Harry
+- [x] King Charles
+- [ ] Prince William
+
+#### What grocery store chain has an area dubbed "The Aisle of Shame"?
+
+- [ ] Trader Joe's
+- [x] Aidi
+- [ ] Whole Foods Market
+
+#### In which actual language does "Hakuna Matata" mean no worries?
+
+- [ ] Italian
+- [ ] French
+- [x] Swahili
+
+#### What actress and singer is married to Tom Hanks?
+
+- [ ] Reba McEntire
+- [ ] Taylor Swift
+- [x] Rita Wilson
+
+#### Which of the following names was used for The Beatles?
+
+- [ ] The Four Seasons
+- [ ] The Fantastic Four
+- [x] The Fab Four
+
+#### What creature mauls Luke Skywalker in the beginning of "The Empire Strikes Back"?
+
+- [x] Wampa
+- [ ] Wamprat
+- [ ] Sarlacc
+
+#### What two friends turned celebrities wrote "Good Will Hunting"?
+
+- [ ] Jonah Hill and Adam Levine
+- [x] Matt Damon and Ben Afleck
+- [ ] Paris Hilton and Nicole Riche
+
+#### In the 1940s, someone who wanted to be "genned up" was looking for what?
+
+- [ ] A date
+- [ ] Alcohol
+- [x] Information
+
+#### Finish this saying: "Easy come..."
+
+- [ ] Easy money
+- [ ] Easy go
+- [x] Easy peasy
+
+#### What movie interrupted Back to the Future's streak of weekends at #1?
+
+- [x] National Lampoon's European Vacation
+- [ ] The Care Bears Movie
+- [ ] Rambo: First Blood Part II
+
+#### "Brexit" refers to Britain's exit from what?
+
+- [ ] The NBA
+- [x] The E.U.
+- [ ] The IT department
+
+#### If you're dejected, how are you feeling?
+
+- [ ] Curious
+- [ ] Angry
+- [x] Sad
+
+#### What do bees collect from flowers to make honey?
+
+- [x] Nectar
+- [ ] Wax
+- [ ] Carbon Dioxide
+
+#### When did the verb form of "unfriended" first appear?
+
+- [x] 1659
+- [ ] 1995
+- [ ] 2005
+
+#### What video game series has subtitles like "Modern Warfare" and "Black Ops"?
+
+- [x] Call of Duty
+- [ ] Pac-Man
+- [ ] Need for Speed
+
+#### When you're dining "Al Fresco", where are you eating?
+
+- [ ] Underwater
+- [ ] On Pluto
+- [x] Outdoors
+
+#### Which of the following is NOT a music album released by an actor or their band?
+
+- [ ] Heartbeat
+- [ ] Our Little Visionary
+- [x] This is Our Art
+
+#### Frank Lloyd Wright is primarily known for what?
+
+- [x] Architecture
+- [ ] Competitive Eating
+- [ ] Techno music
+
+#### Elephaba is the main character of which Broadway musical?
+
+- [ ] Guys and Dolls
+- [x] Wicked
+- [ ] Oklahoma
+
+#### Which of these drinks is traditionally non-alcoholic?
+
+- [ ] Harvey Wallbanger
+- [x] Shirley Temple
+- [ ] Martini
+
+#### Who won Super Bowl LIII?
+
+- [x] New England Patriots
+- [ ] Los Angeles Rams
+- [ ] New Orleans Saints
+
+#### In which sport do the players typically wear helments?
+
+- [x] Ice Hockey
+- [ ] Soccer
+- [ ] Basketball
+
+#### Which of these Disney parks riders is a roller coaster?
+
+- [ ] It's A Small World
+- [x] Space Mountain
+- [ ] Mad Tea Party
+
+#### Theoretically, which sitting U.S. President could have been a contestant on "The Bachelorette"?
+
+- [x] James Buchanan
+- [ ] Theodore Roosevelt
+- [ ] Grover Clevland
+
+#### What is the term for an additional performance called for by audience members?
+
+- [ ] Curtain Call
+- [x] Encore
+- [ ] Intermission
+
+#### What brand had a series of commercials in the 70's asking "Wouldn't You Like To Be A Pepper Too"?
+
+- [ ] Tabasco Sauce
+- [ ] McCormick spices
+- [x] Dr. Pepper
+
+#### The Cartivision was an early version of what technology?
+
+- [ ] Interactive TV
+- [x] TV Recording
+- [ ] Video Game System
+
+#### When was the first time people physically visited the deepest point on earth?
+
+- [ ] 2012
+- [ ] 1890
+- [x] 1960
+
+#### What is the official motto of the Royal Canadian Mounted Police?
+
+- [ ] We always get our man
+- [ ] Defending the Law
+- [x] Uphold the right
+
+#### In 1983, who was nominated for two acting Oscars?
+
+- [ ] Dustin Hoffman
+- [x] Jessica Lange
+- [ ] Meryl Streep
+
+#### In which of these sports do you serve the ball?
+
+- [x] Volleyball
+- [ ] Lacrosse
+- [ ] Hockey
+
+#### Lionel Messi is known for what sport?
+
+- [x] Soccer
+- [ ] Hockey
+- [ ] Cricket
+
+#### Yogi Bear and Boo-Boo live in what fictional park?
+
+- [ ] Jelly Roll
+- [ ] Jelly Donut
+- [x] Jellystone
+
+#### Yale's Woolsey Hall has a custom built seat to accommodate which historical figure?
+
+- [ ] George Washington
+- [ ] Albert Einstein
+- [x] William Howard Taft
+
+#### What auto brand once claimed to be "The Heartbeat of America"?
+
+- [x] Chevrolet
+- [ ] Nissan
+- [ ] Ferrari
+
+#### Mandarin and Cantonese are varieties of which language?
+
+- [ ] French
+- [x] Chinese
+- [ ] Spanish
+
+#### Which of these is a Hulu original documentary?
+
+- [ ] Exit Thhrough the Gift Shop
+- [ ] Icarus
+- [x] Batman & Bill
+
+#### According to the saying, "Necessity is the Mother of" what?
+
+- [x] Invention
+- [ ] Invasion
+- [ ] Interrogation
+
+#### A 2016 Michigan State University study found what to be helpful in passing kidney stones?
+
+- [ ] White Wine
+- [x] Big Thunder Mountain
+- [ ] Classical Music
+
+#### In "A Christmas Story," what store did Ralphie visit to ask Santa for a Red Ryder BB Gun?
+
+- [ ] Macy's
+- [x] Higbee's
+- [ ] Harrods
+
+#### What famous statue is located at the Giza Pyramids?
+
+- [x] The Sphinx
+- [ ] Leon Spinks
+- [ ] The Kitchen Sink
+
+#### What country's 1969 invasion of Anguilla was dubbed "The Bay of Piglets"?
+
+- [x] Great Britain
+- [ ] France
+- [ ] Italy
+
+#### Which of these criteria does NOT determine whether a show is "Broadway" or "Off-Broadway"?
+
+- [x] Length of run
+- [ ] Number of seats
+- [ ] Location
+
+#### Which of these elements is classified as a metalloid on the Periodic Table?
+
+- [ ] Argon
+- [ ] Selenium
+- [x] Boron
+
+#### The Smurfs primarily eat what fruit as part of their diet?
+
+- [ ] Grapes
+- [x] Smurfberries
+- [ ] Loquats
+
+#### Marshall Mathers raps under what stage name?
+
+- [ ] KRS-One
+- [ ] Lil Wayne
+- [x] Eminem
+
+#### What sitcom has been described as a "Show about nothing"?
+
+- [ ] It's A Living
+- [ ] The Donna Reed Show
+- [x] Seinfeld
+
+#### Which one of these quotes is NOT Shakespeare?
+
+- [ ] Now is the winter of our discontent
+- [x] To all the seeds that follow me, Protect your essence.
+- [ ] It is a wise father that knows his own child.
+
+#### According to a John Lennon lyric, "Life is what happens when you're busy" doing what?
+
+- [x] Making other plans
+- [ ] Dirty laundry
+- [ ] Your hair
+
+#### in 1911, what famous painting was stolen from the Louvre?
+
+- [x] Mona Lisa
+- [ ] Starry Night
+- [ ] The Kiss
+
+#### Which of these military ranks is the highest?
+
+- [ ] Private
+- [ ] Sergeant
+- [x] Major
+
+#### Labor Day was originally a rally in support of what?
+
+- [ ] Equal pay
+- [x] An 8-hour work day
+- [ ] Ending child labor
+
+#### Which of these units of measurement is specific to the depth of water?
+
+- [ ] Quart
+- [ ] Inch
+- [x] Fathom
+
+#### Snake River forms a portion of the Northeast border of which US State?
+
+- [ ] Idaho
+- [x] Oregon
+- [ ] Wyoming
+
+#### According to The Robb Report, which car manufacturer still has 65% of all the cars they've made still out on the road?
+
+- [ ] Volkswagen
+- [ ] Rolls Royce
+- [x] Porsche
+
+#### Which of the following is currently a rule violation in the NBA?
+
+- [x] Traveling
+- [ ] Slam Dunk
+- [ ] Free Throw
+
+#### The spinal column meets what part of the body at the sacroiliac joints?
+
+- [x] Pelvis
+- [ ] Neckbone
+- [ ] Shoulder Blade
+
+#### Tighty whites are a nicname for what piece of men's clothing?
+
+- [ ] Dress shirt
+- [x] Underwear
+- [ ] Socks
+
+#### What colors are on a standard Twister mat?
+
+- [ ] Black, white, gold, and platinum
+- [x] Red, blue, yellow, and green
+- [ ] Purple, magenta, violet, and mauve
+
+#### In which city would you find the Academy Museum of Motion Pictures?
+
+- [ ] Dallas
+- [ ] Chicago
+- [x] Los Angeles
+
+#### What's the correct response to a joke that starts with "Knock Knock"?
+
+- [x] Who's there?
+- [ ] Go away
+- [ ] Hot hot is it?
+
+#### What NFL quarterback's fist-ever completion was to himself?
+
+- [ ] Dan Marino
+- [x] Brett Favre
+- [ ] Steve Young
+
+#### Which of the following is a chain of amusement parks?
+
+- [ ] Just One Flag
+- [ ] Maybe Two Flags
+- [x] Six Flags
+
+#### What toy line caters to newborns, toddlers, and preschoolers?
+
+- [x] Fisher-Price
+- [ ] Transformers
+- [ ] Barbie
+
+#### "Clear eyes, full hearts, can't lost" was a constant quote on what TV show?
+
+- [ ] Entourage
+- [x] Friday Night Lights
+- [ ] Ballers
+
+#### Chiefs tight end Travis Kelce is in a relationship with what singer?
+
+- [x] Taylor Swift
+- [ ] Demi Lovato
+- [ ] Miley Cyrus
+
+#### Which artist has had hits like "vampire", "Good 4 U", and "get him back!"?
+
+- [ ] Edie Brickell
+- [x] Olivia Rodrigo
+- [ ] Cher
+
+#### Due to its chemical composition, comets partially smell like what food?
+
+- [x] Almonds
+- [ ] Broccoli
+- [ ] Chocolate
+
+#### In "Peanuts", what is the name of Snoopy's bird pal?
+
+- [ ] Syosset
+- [ ] Ithaca
+- [x] Woodstock
+
+#### What structure, that stands on a plain in Southern England, was once believed to be the ruins of a druid temple?
+
+- [ ] Westminster Abbey
+- [x] Stonehenge
+- [ ] Big Ben
+
+#### Which of the following is the name of a crewing gum brand?
+
+- [x] Big Red
+- [ ] Microscopic Red
+- [ ] Regular-Size Red
+
+#### What does the common abbreviation IMO stand for?
+
+- [ ] I Made Onions
+- [x] In My Opinion
+- [ ] Itchy Mittens Only
+
+#### What do you use to make tiny integrated circuits?
+
+- [ ] Silicone
+- [x] Silicon
+- [ ] Silicate
+
+#### Which woman was famous for her work with radioactive materials?
+
+- [ ] Goldie Hawn
+- [x] Marie Curie
+- [ ] Sarah Palin
+
+#### What do you use to make tiny integrated circuits?
+
+- [ ] Silicone
+- [x] Silicon
+- [ ] Silicate
+
+#### Which woman was famous for her work with radioactive materials?
+
+- [ ] Goldie Hawn
+- [x] Marie Curie
+- [ ] Sarah Palin
+
+#### Chef Boyardee primarily makes what kind of food?
+
+- [ ] Frozen food
+- [x] Canned food
+- [ ] Powdered food
+
+#### What decade is commonly referred to as "Roaring"?
+
+- [x] The 20's
+- [ ] The 40's
+- [ ] The 60's
+
+#### In the Middle Ages, how did people choose their Valentine?
+
+- [ ] With a matchmaker
+- [ ] Rolling dice
+- [x] By lottery
+
+#### What is the name of the Supervisor droid that worked in Jabba the Hutt's palace in "Return of the Jedi"?
+
+- [x] EV-9D9
+- [ ] TC-14
+- [ ] 4-LOM
+
+#### Which of these dog breeds is typically the largest?
+
+- [ ] Bichon Frise
+- [ ] Boston Terrier
+- [x] Saint Bernard
+
+#### Where is Sheldon from?
+
+- [ ] New Zealand
+- [x] Texas
+- [ ] Canada
+
+#### What government agency does Wolowitz join?
+
+- [x] NASA
+- [ ] IRS
+- [ ] FBI
+
+#### Who does Leonard wind up marrying?
+
+- [ ] Amy
+- [ ] Bernadette
+- [x] Penny
+
+#### Which of the following famous people did NOT appear on The Big Bang Theory as themselves?
+
+- [x] Steve Jobs
+- [ ] Charlie Sheen
+- [ ] Kevin Smith
+
+#### Which Big Bang Theory character's mother was heard but never seen?
+
+- [ ] Raj
+- [x] Wolowitz
+- [ ] Leonard
+
+#### What is Penny's job at the beginning of the series?
+
+- [ ] Pharmacist
+- [ ] Grocer
+- [x] Waitress
+
+#### What does Sheldon call his grandmother?
+
+- [ ] Gam Gam
+- [x] Meemaw
+- [ ] Nana
+
+####In which city does The Big Bang Theory take place?
+
+- [x] Pasadena, California
+- [ ] Tokyo, Japan
+- [ ] Woodstock, New York
+
+#### The Big Bang Theory theme song is performed by what band?
+
+- [ ] Disturbed
+- [ ] The Soggy Bottom Boys
+- [x] Barenaked Ladies
+
+#### Sheldon knocks on doors in bursts of how many knocks?
+
+- [x] Three
+- [ ] Twenty
+- [ ] Two Hundred
+
+#### How many teaspoons are in a tablepoon?
+
+- [ ] One
+- [x] Three
+- [ ] Four
+
+#### Muhammad Ali famously said "Float like a butterfly, sting like a" what?
+
+- [ ] Hornet
+- [x] Bee
+- [ ] Wasp
+
+#### Who wrote "Romeo and Juliet"?
+
+- [x] William Shakespeare
+- [ ] Arthur Miller
+- [ ] Edward Albee
+
+#### What American computer company is known as Big Blue?
+
+- [ ] Apple
+- [ ] Texas Instruments
+- [x] IBM
+
+#### Where would you find The Kremlin?
+
+- [ ] London
+- [x] Moscow
+- [ ] Hong Kong
+
+#### If Hasbro had never switched to toys, what item would you most likely buy from them?
+
+- [ ] Wagon Wheel
+- [ ] Dry Cereal
+- [x] Pencil Box Covers
+
+#### "Enter Sandman" is a hit song from which band?
+
+- [ ] The Doobie Brothers
+- [x] Metallica
+- [ ] Toad the Wet Sprocket
+
+#### Which of the following is NOT a conlang?
+
+- [x] Tamil
+- [ ] Dothraki
+- [ ] Klingon
+
+#### Which language is primarily spoken in Brazil?
+
+- [ ] Italian
+- [ ] Mandarin
+- [x] Portuguese
+
+#### "She's The Man" and "Just One Of The Guys" are both loose adaptations of which Shakespeare comedy?
+
+- [x] Twelfth Night
+- [ ] The Comedy of Erros
+- [ ] The Tempest
+
+#### Nike started out making shoes for what purpose?
+
+- [ ] Dancing
+- [ ] Construction
+- [x] Running
+
+#### Which of the following is used as a sweetener?
+
+- [ ] Cilantro
+- [x] Agave
+- [ ] Mustard
+
+#### What multi-sport athlete has a town in Pennsylvania named for them?
+
+- [ ] Bo Jackson
+- [ ] George Halas
+- [x] Jim Thorpe
+
+#### Which of the following was NOT one of the commands of the original Bop-it?
+
+- [ ] Bop it!
+- [ ] Twist it!
+- [x] Refinance it!
+
+#### Who is Miley Cyrus's godmother?
+
+- [ ] Reba McEntire
+- [x] Dolly Parton
+- [ ] Wynonna Judd
+
+#### In 2010, the U.S. Air Force used what gaming consoles to build a supercomputer?
+
+- [x] PlayStation 3
+- [ ] Nintendo Wii
+- [ ] Xbox 360
+
+#### Which of these styles of music heavily features the banjo?
+
+- [ ] Heavy Metal
+- [x] Bluegrass
+- [ ] Classical
+
+#### What is the main difference between Brut and Extra Brut?
+
+- [x] Sugar
+- [ ] Carbonation
+- [ ] Alcohol content
+
+#### The common superstition is that breaking a mirror leads to how many years of bad luck?
+
+- [x] Seven
+- [ ] Thirteen
+- [ ] Nine
+
+#### What flavor is the creme inside a standard Oreo cookie?
+
+- [ ] Peanut Butter
+- [ ] Chocolate
+- [x] Vanilla
+
+#### Which State is home to Mount Rushmore?
+
+- [ ] Oregon
+- [x] South Dakota
+- [ ] Alabama
+
+#### Which of these snack foods was introduced the earliest?
+
+- [ ] Oreo Cakesters
+- [ ] Dunkaroos
+- [x] Bagle Bites
+
+#### Due to shifting tectonic plates, which ocean is getting smaller each year?
+
+- [ ] Atlantic Ocean
+- [x] Pacific Ocean
+- [ ] Indian Ocean
+
+#### As of 2023, what sandbox game is the best selling video game in history?
+
+- [x] Minecraft
+- [ ] Borderlands 3
+- [ ] Jumpman Jr.
+
+#### What is the term for a group of apes?
+
+- [ ] Ganthering
+- [ ] Bale
+- [x] Shrewdness
+
+#### In "Zombieland", which celebrity has a cameo playing themself?
+
+- [ ] Sigourney Weaver
+- [x] Bill Murray
+- [ ] Sylvester Stallone
+
+#### What was the first single released by The Beatles?
+
+- [x] Love Me Do
+- [ ] Sgt. Pepper's Lonely Hearts Club Band
+- [ ] Let It Be
+
+#### Which TV Newtork's logo is a peacock?
+
+- [ ] ABC
+- [ ] CBS
+- [x] NBC
+
+#### Which of these singing groups does NOT include siblings?
+
+- [ ] The Osmonds
+- [ ] The Carpenters
+- [x] The White Stripes
+
+#### What German region did good King Wenceslas oversee?
+
+- [ ] Saxony
+- [ ] Prussia
+- [x] Bavaria
+
+#### What is the term for the glass containers used to hold liquids in a lab?
+
+- [ ] Saucer
+- [ ] Li'l Jug
+- [x] Beaker
+
+#### After its initial move, which of these pieces on a chess board can only move one square at a time?
+
+- [ ] Queen
+- [ ] Bishop
+- [x] Pawn
+
+#### In the MCU, which of the Infinity Stones is the first to appear in a movie?
+
+- [ ] Mind Stone
+- [x] Space Stone
+- [ ] Power Stone
+
+#### What trees give us acorns?
+
+- [ ] Palm
+- [ ] Spruce
+- [x] Oak
+
+#### According to the saying, laughter is the best what?
+
+- [ ] Chaperone
+- [ ] Bodyguard
+- [x] Medicine
+
+#### Who was the first NHL player to become majority owner of his former team?
+
+- [ ] Wayne Gretzky
+- [x] Mario Lemieux
+- [ ] Mark Messier
+
+#### In which city would you find a hiking trail decorated with disembodied doll heads?
+
+- [ ] Portland, OR
+- [ ] Austin, TX
+- [x] Atlanta, GA
+
+#### The Montagues and Capulets are central to which Shakespeare play?
+
+- [ ] The Merchant of Venice
+- [ ] The Tempest
+- [x] Romeo and Juliet
+
+#### What modern toy is hidden around the house to "watch" children & report to Santa?
+
+- [ ] Dwarf On The Wharf
+- [ ] Gnome In The Home
+- [x] Elf On The Shelf
+
+#### Which of the following animals are not found in the official version Minecraft?
+
+- [ ] Fox
+- [ ] Pig
+- [x] Deer
+
+#### Roald Dahl's "James and the Giant Peach" ends with the peach implaed on what building?
+
+- [ ] State of Liberty
+- [ ] Chrysler Building
+- [x] Emprie State Building
+
+#### On Valentune's Day in 1990, Michael Jordan wore the number 12 for a game against the Magic. Why?
+
+- [ ] For his wife
+- [ ] Superstition
+- [x] His jersey was stolen
+
+#### When he was 17, Buddy Holly was the opening act for what singer?
+
+- [ ] Jerry Lee Lewis
+- [ ] Chuck Berry
+- [x] Elvis Presley
+
+#### A "Conspiracy" is a group of which animals?
+
+- [ ] Snakes
+- [ ] Chipmunks
+- [x] Lemus
+
+#### What fruit is customarily given to teachers as a gift?
+
+- [x] Apples
+- [ ] Grapes
+- [ ] Kumquats
+
+#### My marrying Prince Rainier, Grace Kelly became princess of what nation?
+
+- [ ] Spain
+- [x] Monaco
+- [ ] Austria
+
+#### Which of these clothing items did Mister Rogers change into at the beginning of each of his shows?
+
+- [ ] Jacket
+- [ ] Loafers
+- [x] Sneakers
+
+#### According to the saying, when you have to restart something you're going back to what?
+
+- [x] Square One
+- [ ] Square Two
+- [ ] Square Three
+
+#### What famous park is in the middle of Manhattan in New York?
+
+- [ ] Rucker Park
+- [x] Central Park
+- [ ] Yankee Stadium
+
+#### Which of the following is a common version of the Bible?
+
+- [ ] King Koopa
+- [ ] Ol' King Cole
+- [x] King James
+
+#### Who was the oldest active MLB player of all time?
+
+- [ ] Charley O'Brien
+- [ ] Jamie Moyer
+- [x] Satchel Paige
+
+#### What board game was originally called "Death Valley"?
+
+- [ ] Clue
+- [x] Operation
+- [ ] Settlers of Catan
+
+#### What was the name of Marcel Marceau's most famous character?
+
+- [ ] Bap
+- [x] Bip
+- [ ] Bob
+
+#### Earlier this year, a newly discovered breed of millipede was named in honor of what singer?
+
+- [x] Taylor Swift
+- [ ] Cher
+- [ ] Dolly Parton
+
+#### Which of these vehicle names is another term for "Underwater"?
+
+- [x] Submarine
+- [ ] Motorcycle
+- [ ] Airplane
+
+#### The word "jay" in "jaywalker" was a slang word for what type of person?
+
+- [ ] Dangerous
+- [x] Foolish
+- [ ] Mischievous
+
+#### "The Captain's Mistress" was the nickname for what game, constantly played by Captain Cook?
+
+- [ ] Checkers
+- [ ] Othello
+- [x] Connect Four
+
+#### John Krasinski is related by marriage to what Oscar-nominated actor?
+
+- [ ] Amy Adams
+- [ ] Beau Bridges
+- [x] Stanley Tucci
+
+#### Which of the following is NOT one of the seven musical notes?
+
+- [ ] F
+- [ ] A
+- [x] Z
+
+#### Which of the following is a proper example of a possessive?
+
+- [ ] Sallays car
+- [x] Sally's car
+- [ ] Sallyeez car
+
+#### Which of the folllowing shows did NOT star Neil Patrick Harris?
+
+- [ ] Doogie Howser, M.D.
+- [x] Suddenly Susan
+- [ ] How I Met Your Mother
+
+#### What Broadway musical features characters from The Wizard of Oz?
+
+- [ ] Rent
+- [ ] She Loves Me
+- [x] Wicked
+
+#### Which Seth Rogen movie would someone with tokophobia most likely avoid?
+
+- [ ] The 40-Year Old Virgin
+- [ ] Pineapple Express
+- [x] Knocked Up
+
+#### What is the term for a mixed drink of wine or distilled liquor with at least two ingredients?
+
+- [ ] Juice
+- [ ] Lager
+- [x] Cocktail
+
+#### What is the term for the colors from which all other colors can be made via mixing?
+
+- [ ] Basic colors
+- [ ] Single colors
+- [x] Primary colors
+
+#### Which tech company's name is an example of a portmanteau?
+
+- [x] Instagram
+- [ ] Google
+- [ ] Oracle
+
+#### Which of these words is a contronym?
+
+- [x] Seed
+- [ ] Cry
+- [ ] Peace
+
+#### Anthony Perkins plays Norman Bates in which Hitchcock thriller?
+
+- [ ] The Birds
+- [ ] Rear Window
+- [x] Psycho
+
+#### Which of these refers to bees?
+
+- [ ] Avian
+- [ ] Apoidian
+- [x] Apiarian
+
+#### Indiana Jones is afraid of snakes. What is his father afraid of?
+
+- [ ] Bats
+- [ ] Cats
+- [x] Rats
+
+#### Lex Luthor is the archrival of which superhero?
+
+- [x] Superman
+- [ ] Iron Man
+- [ ] The Flash
+
+#### Which of the following was the first registered "dot com" domain name?
+
+- [ ] IBM.com
+- [ ] Think.com
+- [x] Symbolics.com
+
+#### During which holiday do people traditionally wear green?
+
+- [x] St. Patrick's Day
+- [ ] Easter
+- [ ] Halloween
+
+#### Which of the following is LEGO's slogan?
+
+- [ ] They Hurt When You Step On Theme
+- [ ] The Flat Thingie Is A Brick Separator
+- [x] Only The Best Is Good Enough
+
+#### What celestial body causes a solar eclipse?
+
+- [ ] Venus
+- [x] The Moon
+- [ ] Saturn
+
+#### The Duke University Basketball Team plays their home games in which State?
+
+- [ ] Wyoming
+- [ ] Nevada
+- [x] North Carolina
+
+#### Which Oscar-winning Boston celebrity appeared in 2023 Dunkin' Donuts commercials with Ice Spice?
+
+- [x] Ben Affleck
+- [ ] Eliza Dushku
+- [ ] Uma Thurman
+
+#### Elton John is known for what instrument?
+
+- [ ] Zther
+- [ ] Piccolo
+- [x] Piano
+
+#### The Northern Hemisphere is farthest from the Sun around which of these days?
+
+- [ ] Vernal Equinox
+- [ ] Autummal Equinox
+- [x] Hibernal Solstice
+
+#### Which TV alien was played by Robin Williams?
+
+- [x] Mork from Ork
+- [ ] Uncle Martin
+- [ ] Mister Spock
+
+#### Which of the following sandwiches originated in New Orleans?
+
+- [ ] Cheesesteak
+- [ ] Lobster Roll
+- [x] Po' boy
+
+#### In the Mother Goose rhyme, why does Old Mother Hubbard go to the cupboard?
+
+- [ ] To get some jam
+- [x] To get her poor dog a bone
+- [ ] To get down and boogie
+
+#### In Return of the Jedi, on what price for Chewbacca do Boushh and Jabba settle?
+
+- [x] 35,000
+- [ ] 45,000
+- [ ] 50,000
+
+#### In which year the did Titanic sink?
+
+- [ ] 1901
+- [ ] 1908
+- [x] 1912
+
+#### Who is Donald Duck's sister?
+
+- [ ] Delia Duck
+- [x] Dumbella Duck
+- [ ] Donna Duck
+
+#### The Munros are the largest mountains in what country?
+
+- [x] Scotland
+- [ ] Ireland
+- [ ] England
+
+#### Based on its original slang meaning, what could you call a jaywalker?
+
+- [x] Rubewalker
+- [ ] Criminalwalker
+- [ ] Fastwalker
+
+#### Which of these wrestlers was known as "The Nature Boy"?
+
+- [ ] Stan Stasiak
+- [ ] David Flair
+- [x] Buddy Rogers
+
+#### Who was the first astronaut to float untethered in space?
+
+- [x] Bruce McCandless
+- [ ] Neil Armstrong
+- [ ] Buzz Aldrin
+
+#### Which book of the Bible comes first?
+
+- [ ] Numbers
+- [ ] Exodus
+- [x] Genesis
+
+#### Which of the following is a brand of energy drink?
+
+- [ ] Perrier
+- [ ] Evian
+- [x] Full Throttle
+
+#### Santa Fe is the capital of which State?
+
+- [x] New Mexico
+- [ ] Arizona
+- [ ] Delaware
+
+#### Complete this quote from "Jerry Maguire": You had me at ____
+
+- [x] Hello
+- [ ] Goodbye
+- [ ] Yes
+
+#### Which of the following trade roads is the oldest?
+
+- [ ] The Silk Road
+- [x] The Amber Road
+- [ ] The Incense Route
+
+#### What board game is known as "The Classic Naval Combat Game"?
+
+- [x] Battleship
+- [ ] Stratego
+- [ ] Risk
+
+#### What is the term for a number of chemical events triggered by the same inital event?
+
+- [ ] Rope Reaction
+- [ ] Link Reaction
+- [x] Chain Reaction
+
+#### In Rene Magritte's "The Son Of Man", what object obscures the man's face?
+
+- [ ] Umbrella
+- [ ] Bird
+- [x] Apple
+
+#### The Maracana in Rio de Janeiro is a stadium that's known for what sport?
+
+- [x] Soccer
+- [ ] Basketball
+- [ ] Curling
+
+#### Which of the folllowing musical instruments has a mouthpiece?
+
+- [ ] Snare drum
+- [x] Clarient
+- [ ] Violin
+
+#### Complete the movie quote: "All right, Mr. DeMille, I'm ready for my..."
+
+- [ ] Orange Juice
+- [ ] Walkies
+- [x] Close-up
+
+#### Which of the following museums can be found in London?
+
+- [ ] The Prado
+- [ ] The Louvre
+- [x] The British Museum
+
+#### In 1919, Ray Caldwell pitched a complete game despite what setback?
+
+- [ ] He broke his arm
+- [ ] He fell asleep
+- [x] He was hit by lightning
+
+#### What kind of edible is normally given as a gift during Valentine's Day?
+
+- [x] Chocolates
+- [ ] Sticky Buns
+- [ ] Parsnips
+
+#### What is the term for a piece of land ALMOST entireluy surrounded by water?
+
+- [x] Peninsula
+- [ ] Crater
+- [ ] Delta
+
+#### Who is Olive Oyl's boyfriend?
+
+- [x] Popeye
+- [ ] Wimpy
+- [ ] Castor Oyl
+
+#### The island of Cyprus is known by what nickname?
+
+- [x] The Island of Love
+- [ ] The Stinky Island
+- [ ] the Island of Denny's
+
+#### Which of these toy lines is an elite fighting force?
+
+- [ ] Strawberry Shortcake
+- [x] G.I. Joe
+- [ ] My Buddy
+
+#### What was the first Harry Potter book?
+
+- [x] The Philosopher's Tone
+- [ ] The Goblet of Fire
+- [ ] The Deathly Hallows
+
+#### In Ice cube's "It Was A Good Day", which NBA team gets namechecked?
+
+- [x] Seattle Supersonics
+- [ ] New Jersey Nets
+- [ ] Los Angeles Clippers
+
+#### Which of the following entrees comes wrapped in a puff pastry?
+
+- [x] Beef Wellington
+- [ ] Veal Parmigiana
+- [ ] Braised Short Ribs
+
+#### What was the first video game to show blood?
+
+- [ ] Splatterhouse
+- [ ] Mortal Kombat
+- [x] Chiller
+
+#### Before the Washingtoni Monument, what was the world's tallest man made structure?
+
+- [x] The Cologne Cathedral
+- [ ] The Statue of Liberty
+- [ ] The Eiffel Tower
+
+#### What kind of plant is the peanut?
+
+- [ ] Vine
+- [ ] Fruit
+- [x] Legume
+
+#### Which chocolate food is the oldest?
+
+- [ ] Nutella
+- [x] Goobers
+- [ ] M&M's
+
+#### What sitcom star headlines the sci-fi comedy "Galaxy Quest"?
+
+- [ ] Steve Carell
+- [ ] Ray Romano
+- [x] Tim Allen
+
+#### Which of these is NOT mentioned in Kendrick Lamar's "Humble"?
+
+- [ ] Grey Poupon
+- [ ] Tetris
+- [x] A crown
+
+#### In which movie does Keanu Reeves discover he's been plugged into a giant computer for his entire life?
+
+- [ ] Johnny Mnemonic
+- [ ] John Wick
+- [x] The Matrix
+
+#### In the original "Back to the Future", what year does Marty travel back to?
+
+- [ ] 1985
+- [ ] 1962
+- [x] 1955
+
+#### Biff Tannen and his ancestor Mad Dog Tannen are both humiliatingly coated in what substance?
+
+- [ ] Wet cement
+- [x] Manure
+- [ ] Garbage
+
+#### After seeing his underwear, what does Lorraine assume is Marty's name?
+
+- [x] Calvin Klein
+- [ ] Ralph Lauren
+- [ ] Mack Weldon
+
+#### When Lorraine's father rolls their TV into the dining room, what show is playing?
+
+- [ ] The Donna Reed Show
+- [ ] You Bet Your Life
+- [x] The Honeymooners
+
+#### Which of the following "Back to the Future" cast members did NOT return for new scenes in Part II?
+
+- [x] Crispin Glover
+- [ ] Lea Thompson
+- [ ] Michael J. Fox
+
+#### When Marty's parents finally kiss, what song is he playing with the band?
+
+- [ ] Johnny B. Goode
+- [x] Earth Angel
+- [ ] Book of Love
+
+#### In "Back to the Future, Part III", Doc Brown has a giant machine in his shop that serves what purpose?
+
+- [ ] Computer
+- [x] Refrigerator
+- [ ] Soda Machine
+
+#### When Marty poses as an alien to intimdidate his father, what sci-fi name does he use?
+
+- [x] Darth Vader
+- [ ] Spock
+- [ ] Tron
+
+#### Who recorded "Back in Time" and "The Power of Love" for the Back to the Future soundtrack?
+
+- [ ] Lindsey Buckingham
+- [ ] Timbuk 3
+- [x] Huey Lewis and The News
+
+#### Which 1955 Hill Valley building is struck by lightning in "Back to the Future"?
+
+- [x] Clock Tower
+- [ ] Movie Theater
+- [ ] Gas Station
+
+#### Ophthalmology is the study and treatment of what?
+
+- [ ] Ostriches
+- [x] Eyes
+- [ ] Teeth
+
+#### Which of the following is NOT a track from "Christmas in the Stars"?
+
+- [ ] What Can You Get A Wookiee For Christmas
+- [x] I Am Your Father (Christmas)
+- [ ] The Odds Against Christmas
+
+#### Which of the following is a Darkwing Duck catchphrase?
+
+- [ ] Cowabunga, dude!
+- [x] Let's get dangerous!
+- [ ] Yoins, and away!
+
+#### What soul musician was known as "The 5th Beatle"?
+
+- [x] Billy Preston
+- [ ] Marvin Gaye
+- [ ] Stevie Wonder
+
+#### What musician starred in the 1980s movie Purple Rain?
+
+- [x] Prince
+- [ ] Michael Jackson
+- [ ] Madonna
+
+#### Steve Martin often performed stand-up with what sticking through his head?
+
+- [x] An Arrow
+- [ ] A Rainbow
+- [ ] A Dollar Bill
+
+#### What topping is traditionally added to movie popcorn?
+
+- [x] Butter
+- [ ] Whipped Cream
+- [ ] Maple Syrup
+
+#### Bob ross was the longtime host of what cultural instruction show?
+
+- [ ] Cookin' Cajun Style
+- [x] The Joy of Painting
+- [ ] Sulpting Like A Rock Star
+
+#### Which of the following sauces is traditionally made with meat?
+
+- [x] Bolognese
+- [ ] Presto
+- [ ] Alfredo
+
+#### The Beatles recorded their later albums at a famous studio on what London street?
+
+- [ ] Baker Street
+- [x] Abbey Road
+- [ ] Carney Avenue
+
+#### Which of the following TV shows once broadcast a live episode?
+
+- [ ] The Big Bang Theory
+- [x] The West Wing
+- [ ] Sports Night
+
+#### What story is believed to have been written while the author was on cocaine?
+
+- [ ] The Great Gatsby
+- [ ] Tess of the d'Urbervilles
+- [x] The Strange Case of Dr. Jekyll and Mr. Hyde
+
+#### Which thse toys is a type of modeling clay?
+
+- [ ] Hot Wheels
+- [x] Play Doh
+- [ ] Slime
+
+#### A grotesque of what pop culture figure andorns the Washington National Cathedral?
+
+- [x] Darth Vader
+- [ ] Kermit the frog
+- [ ] Count Chocula
+
+#### If bottles of Dom Perignon sported an image of the real Dom Perignon, what would you see on the label?
+
+- [ ] A Doctor
+- [x] A Monk
+- [ ] A King
+
+#### Julia Louis-Dreyfus won six consecutive Emmys for her work on what HBO comedy?
+
+- [ ] The Sopranos
+- [ ] Ballers
+- [x] Veep
+
+#### Puerto Rican rapper and singer Benito Martinez Ocasio is better known by what name?
+
+- [ ] Mase
+- [x] Bad Bunny
+- [ ] Lady Gaga
