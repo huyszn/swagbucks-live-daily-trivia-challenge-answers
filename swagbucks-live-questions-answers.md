@@ -19081,11 +19081,11 @@
 - [ ] Learning Tower
 - [ ] Empire State Building
 
-#### On an episode of “Inside the Actors Studio”, Sean Penn was asked a question by what future star?
+#### On an episode of "Inside the Actors Studio", Sean Penn was asked a question by what future star?
 
 - [x] Matt Damon
-- [ ] Jermy Renner
-- [ ] Empire State Building
+- [ ] Jeremy Renner
+- [ ] Bradley Cooper
 
 #### What two Munchkinland groups welcome Dorothy in “The Wizard of Oz”?
 
@@ -21841,7 +21841,7 @@
 - [x] Rachel
 - [ ] Monica
 
-#### Because she’s a chef, which “Friends” character is usually responsible for Thanksgiving dinner?
+#### Because she's a chef, which "Friends" character is usually responsible for Thanksgiving dinner?
 
 - [x] Monica
 - [ ] Kathy
@@ -29934,3 +29934,39 @@
 - [ ] Mase
 - [x] Bad Bunny
 - [ ] Lady Gaga
+
+#### Which of these is a type of pasta?
+
+- [x] Macaroni
+- [ ] Macaroons
+- [ ] Macabre
+
+#### Which of the following characters is NOT part of Disney's "Fab Five"?
+
+- [ ] Pluto
+- [ ] Mickey Mouse
+- [x] Bugs Bunny
+
+#### How would you have referred to Jackie Mason before he became a comedian?
+
+- [ ] Judge Mason
+- [ ] Dr. Mason
+- [x] Rabbi Mason
+
+#### Which of these is a type of pasta?
+
+- [x] Macaroni
+- [ ] Macaroons
+- [ ] Macabre
+
+#### Which of the following people did NOT sign the Declaration of Independence?
+
+- [ ] Josiah Bartlett
+- [x] George Washington
+- [ ] Samuel Chase
+
+#### What is Mister Burns' catchphrase?
+
+- [x] "Excellent."
+- [ ] "Awesome."
+- [ ] "Gnarly."
