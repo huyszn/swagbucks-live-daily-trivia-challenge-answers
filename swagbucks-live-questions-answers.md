@@ -29970,3 +29970,45 @@
 - [x] "Excellent."
 - [ ] "Awesome."
 - [ ] "Gnarly."
+
+#### "All Quiet on the Western Front" is a film set during which war?
+
+- [x] World War I
+- [ ] Operation: Desert Storm
+- [ ] Spanish-American War
+
+#### Which of the following words is an adjective?
+
+- [ ] Toast
+- [ ] Ran
+- [x] Beautiful
+
+#### In 2014, British police released an emergency from a woman who had what minor complaint?
+
+- [ ] McDonald's forgot her fries
+- [x] Her ice cream didn't have enough sprinkles
+- [ ] A grocery store wouldn't let her use the bathroom
+
+#### What brand's albums include "Dookie" and "American Idiot"?
+
+- [ ] Alice in Chains
+- [ ] Nirvana
+- [x] Green Day
+
+#### In 1967, 7-11 released what novelty promotional single?
+
+- [ ] Always Open For You
+- [ ] Slurpee Madness
+- [x] Dance the Slurp
+
+#### Thomas Edison was "the Wizard of Menlo Park" in what U.S. State?
+
+- [ ] California
+- [x] New Jersey
+- [ ] Florida
+
+#### Which of these shows is a workplace comedy?
+
+- [ ] L.A. Law
+- [x] The Office
+- [ ] NBC Nightly News
