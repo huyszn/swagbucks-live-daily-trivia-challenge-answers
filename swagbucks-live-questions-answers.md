@@ -8016,12 +8016,6 @@
 - [ ] Trenton
 - [ ] Portland
 
-#### Vin Diesel voices which character in Guardians of the Galaxy?
-
-- [x] Groot
-- [ ] Both Belushi brothers
-- [ ] Howard the Duck
-
 #### The Beach Boys recorded a song about girls from what State?
 
 - [x] California
@@ -14862,12 +14856,6 @@
 - [ ] Bucharest
 - [ ] Paris
 - [x] Hong Kong
-
-#### What city is known as the Pearl of the Orient?
-
-- [x] Muhammad Ali
-- [ ] Mike Tyson
-- [ ] Floyd Mayweather Jr.
 
 #### "The Adventures of Tom Sawyer" takes place in a fictional Missouri town based on the hometown of what writer?
 
@@ -30012,3 +30000,57 @@
 - [ ] L.A. Law
 - [x] The Office
 - [ ] NBC Nightly News
+
+#### Who owns the world's largest door?
+
+- [x] NASA
+- [ ] The Trump Organization
+- [ ] The Boring Company
+
+#### Which company's logo contains the color red?
+
+- [ ] Starbucks
+- [ ] Subway
+- [x] Mastercard
+
+#### In 1931, what famous U.S. building was completed?
+
+- [x] Empire State Building
+- [ ] White House
+- [ ] Washington Monument
+
+#### What band first released the song "Dancing Queen" in 1976?
+
+- [x] ABBA
+- [ ] The Bee Gees
+- [ ] Led Zeppelin
+
+#### The Orient Express, The Hogwarts Express, and the TGV are all types of what?
+
+- [ ] Scooters
+- [ ] Bicycles
+- [x] Trains
+
+#### In the MCU, which of these characters does NOT draw their powers from an Infinity Stone?
+
+- [ ] Scarlet Witch
+- [x] Groot
+- [ ] Vision
+
+#### Who wrote the 1965 hit "Turn! Turn! Turn! (to Everything There Is a Season)"?
+
+- [ ] David Crosby
+- [x] Pete Seeger
+- [ ] John Lennon
+
+#### Which of these board games features a version of a Rube Goldberg machine?
+
+- [ ] Chutes & Ladders
+- [ ] Ticket to Ride
+- [x] Mouse Trap
+
+#### When the official stops a match because one of the boxers is deemed unable to continue, what is the result?
+
+- [x] Technical Knockout
+- [ ] Draw
+- [ ] Tie-up
