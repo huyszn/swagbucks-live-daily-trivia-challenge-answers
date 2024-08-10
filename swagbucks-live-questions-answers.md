@@ -30054,3 +30054,39 @@
 - [x] Technical Knockout
 - [ ] Draw
 - [ ] Tie-up
+
+#### Which of the following TV shows was a Western?
+
+- [ ] The Donna Reed Show
+- [ ] Make Room For Daddy
+- [x] Gunsmoke
+
+#### If you don't crack under pressure, you are as cool as...
+
+- [ ] A torch
+- [ ] A banana
+- [x] A cucumber
+
+#### Which of the following is the name of a popular syndicated advice column?
+
+- [ ] Dear Beauregard
+- [ ] Dear Forrest
+- [x] Dear Abby
+
+#### What is the lowest score you can get on a single hole of golf?
+
+- [x] Hole-in-One
+- [ ] Albatross
+- [ ] Bogey
+
+#### What is the term for a book or story that divulges someone's secrets?
+
+- [x] Tell-All
+- [ ] Penn and Teller
+- [ ] Tell-Em
+
+#### If you had the flu, who would be most interested in studying you?
+
+- [x] Pathologist
+- [ ] Flueologist
+- [ ] Rheumatologist
