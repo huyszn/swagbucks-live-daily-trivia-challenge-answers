@@ -3608,8 +3608,8 @@
 
 #### What animal is used to describe a market where stock prices are rising?
 
-- [ ] Bull
-- [x] Bandicoot
+- [x] Bull
+- [ ] Bandicoot
 - [ ] Beatle
 
 #### What is the only country Portugal shares a border with?
@@ -27153,9 +27153,9 @@
 
 #### Which pizza chain offers the Shaq-a-Roni Pizza?
 
-- [ ] Papa John's
+- [x] Papa John's
 - [ ] Pizza Rev
-- [x] Cici's Pizza
+- [ ] Cici's Pizza
 
 #### How many days each calender year are there no professional sports games in the U.S.?
 
