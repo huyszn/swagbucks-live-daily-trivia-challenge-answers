@@ -54184,7 +54184,7 @@
 #### Russell Shearman won an Academy Award for "It's A Wonderful Life". Why did he win it?
 
 - [x] Invented new fake snow
-- [ ] Created the original sotry
+- [ ] Created the original story
 - [ ] Wardrobe
 
 #### What future comedy star auditioned for the role of Santa in "Home Alone"?
@@ -54204,3 +54204,45 @@
 - [x] Airport
 - [ ] Grocery Store
 - [ ] Amusement Park
+
+#### The Statue of Liberty overlooks what city?
+
+- [ ] Chicago
+- [x] New York City
+- [ ] Stamford
+
+#### Which of these actors hosted SNL before their 18th birthday?
+
+- [x] Jodie Foster
+- [ ] Miley Cyrus
+- [ ] Josh Hutcherson
+
+#### Who plays Ethan Hunt in the "Mission: Impossible" movies?
+
+- [ ] Tom Selleck
+- [x] Tom Cruise
+- [ ] Tom Bosley
+
+#### Istanbul is a city in which country?
+
+- [ ] Greece
+- [ ] Bosnia
+- [x] Turkey
+
+#### Who did George Foreman face in the Rumble in the Jungle?
+
+- [ ] Tommy Lister
+- [ ] Mike Tyson
+- [x] Muhammad Ali
+
+#### What is the name of Dr. Bunsen Honeydew's assistant?
+
+- [ ] Flute
+- [x] Beaker
+- [ ] Tongs
+
+#### Rhizomes are used to make what condiment?
+
+- [ ] Ketchup
+- [x] Wasabi
+- [ ] Giardniera
