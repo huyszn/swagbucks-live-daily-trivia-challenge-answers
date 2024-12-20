@@ -54204,3 +54204,45 @@
 - [x] Airport
 - [ ] Grocery Store
 - [ ] Amusement Park
+
+#### Which State's capital was named after a US President?
+
+- [ ] Tennessee
+- [ ] North Carolina
+- [x] Missouri
+
+#### In Romeo & Juliet, which of the star crossed lovers dies first?
+
+- [x] Romeo
+- [ ] Juliet
+- [ ] They die at the same time
+
+#### When someone is "Doin' it for the 'Gram", what app are they referring to?
+
+- [ ] Tik Tok
+- [ ] Facebook
+- [x] Instagram
+
+#### Who provides the voice of Lightning McQueen for the "Cars" movies?
+
+- [ ] Luke Wilson
+- [ ] Matthew McConaughey
+- [x] Owen Wilson
+
+#### In "Super Mario Bros", what punctuation appears on the Mystery Boxes?
+
+- [ ] Comma
+- [ ] Hyphen
+- [x] Question Mark
+
+#### What part of your body is in pain if you're suffering from bursitis?
+
+- [x] Joints
+- [ ] Feet
+- [ ] Tongue
+
+#### What band scored hits in the 90s with songs like "The Sign", "All That She Wants", and "Beautiful Life"?
+
+- [ ] Aqua
+- [x] Ace of Base
+- [ ] Alice in Chains
