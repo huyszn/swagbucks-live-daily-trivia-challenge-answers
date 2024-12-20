@@ -1,6 +1,8 @@
 # Swagbucks LIVE Daily Trivia Challenge Answers
 This is a repository of questions asked on the Swagbucks LIVE Daily Trivia Challenge and their answers. Go to the [swagbucks-live-questions-answers.md](swagbucks-live-questions-answers.md) file and see the questions and answers. Feel free to create a PR to add questions and their answers not in the repo by using the [format](#question-and-answer-format).
 
+[Click here to access the raw file.](https://raw.githubusercontent.com/huyszn/swagbucks-live-daily-trivia-challenge-answers/main/swagbucks-live-questions-answers.md)
+
 ## Question and Answer Format
 
 Different questions are separated by one line break, and a question and its answers are separated by one line break.
