@@ -26599,7 +26599,7 @@
 - [ ] "Who is Ahab?"
 - [ ] "What if it was on land?"
 
-#### What term is used for the people who design ballons for the Macy's Thanksgiving Day Parade?
+#### What term is used for the people who design balloons for the Macy's Thanksgiving Day Parade?
 
 - [ ] Balloonies
 - [ ] Balloonists
@@ -38687,7 +38687,7 @@
 
 - [x] Whistler's Mother
 - [ ] Whistler's Uncle
-- [ ] Whistler's Adoped Cousin
+- [ ] Whistler's Adopted Cousin
 
 #### What item of clothing is not worn by Hobbits?
 
@@ -45931,7 +45931,7 @@
 - [ ] Rob Roy
 - [x] Ocean's 11
 
-#### What was the prefered pencil of artists like Chuck Jones, John Steinbeck and Stephen Sondheim?
+#### What was the preferred pencil of artists like Chuck Jones, John Steinbeck and Stephen Sondheim?
 
 - [ ] Dixon Ticonderoga
 - [x] Blackwing 602
@@ -45946,7 +45946,7 @@
 #### Before moving to Indianapolis, where did the Colts play?
 
 - [ ] Prague
-- [x] Baitimore
+- [x] Baltimore
 - [ ] Tokyo
 
 #### Slapshots, Wrist shots, and Backhands are all ways to score in what sport?
@@ -45958,7 +45958,7 @@
 #### Who recorded and released the song "Enter Sandman"?
 
 - [ ] Megadeth
-- [x] Metalica
+- [x] Metallica
 - [ ] Marcy Playground
 
 #### Which cast member kept their job as a waiter when they were first cast?
@@ -45973,7 +45973,7 @@
 - [ ] One where his brother is president
 - [x] One where he'd never been born
 
-#### In 1997, Mabel Fairbanks became the first Black person industed into what sport's Hall of Fame?
+#### In 1997, Mabel Fairbanks became the first Black person inducted into what sport's Hall of Fame?
 
 - [ ] Tennis
 - [x] Figure Skating
@@ -54246,3 +54246,33 @@
 - [ ] Ketchup
 - [x] Wasabi
 - [ ] Giardniera
+
+#### In "The Little Mermaid", what kind of animal is Sebastian?
+
+- [ ] Flounder
+- [x] Crab
+- [ ] Eel
+
+#### What future guitar legend said he quit playing at 13 because it was "too hard"?
+
+- [ ] Jimi Hendrix
+- [x] Eric Clapton
+- [ ] Jonh Mayer
+
+#### Elwood Edwards is the voice behind what famous sound?
+
+- [ ] The Wilhelm Scream
+- [x] "You've Got Mail!"
+- [ ] The AFLAC Quack
+
+#### Which Pink Floyd album title is also a chapter in The Wind in the Willows?
+
+- [ ] Animals
+- [x] The Piper at the Gates of Dawn
+- [ ] The Wall
+
+#### Which of the following is a card game?
+
+- [x] Crazy Eights
+- [ ] Yahtzee
+- [ ] Connect Four
