@@ -54276,3 +54276,15 @@
 - [x] Crazy Eights
 - [ ] Yahtzee
 - [ ] Connect Four
+
+#### Which actor was NOT born in Canada?
+
+- [ ] Will Arnett
+- [x] Steve Carell
+- [ ] Ryan Reynolds
+
+#### Wauconda is a real U.S. city getting vibranium requests. Which State is it in?
+
+- [x] Illinois
+- [ ] Indiana
+- [ ] Iowa
