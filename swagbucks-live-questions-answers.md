@@ -42707,15 +42707,15 @@
 
 - [ ] Cannibal Capers
 - [ ] Frolicking Fish
-- [x] Racing Raccons
+- [x] Racing Raccoons
 
 #### Which African country's capital was named "La Coquette" by its former Emperor?
 
 - [ ] Ivory Coast
-- [ ] Deomcratic Republic of Congo
+- [ ] Democratic Republic of Congo
 - [x] Central African Republic
 
-#### What would McDonaldd's not be allowed to serve in the Chew comics universe?
+#### What would McDonald's not be allowed to serve in the Chew comics universe?
 
 - [x] McNuggets
 - [ ] Filet-O-Fish
@@ -54257,7 +54257,7 @@
 
 - [ ] Jimi Hendrix
 - [x] Eric Clapton
-- [ ] Jonh Mayer
+- [ ] John Mayer
 
 #### Elwood Edwards is the voice behind what famous sound?
 
@@ -54288,3 +54288,33 @@
 - [x] Illinois
 - [ ] Indiana
 - [ ] Iowa
+
+#### Which of the following shows was a sitcom?
+
+- [ ] Dr. Kildare
+- [x] Seinfeld
+- [ ] Chicago Hope
+
+#### MCA, Mike D, and Ad-Rock were collectively known by what name?
+
+- [x] Beastie Boys
+- [ ] De La Soul
+- [ ] A Tribe Called Quest
+
+#### Adam Levine is the lead singer of what band?
+
+- [ ] Pearl Jam
+- [x] Maroon 5
+- [ ] Goo Goo Dolls
+
+#### What is the name for the vessels that carry blood away from the heart?
+
+- [x] Arteries
+- [ ] Ventricles
+- [ ] Aorta
+
+#### How many letters is the answer to the daily Wordle puzzle?
+
+- [ ] 3
+- [x] 5
+- [ ] 7
