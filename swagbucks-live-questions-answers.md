@@ -54318,3 +54318,27 @@
 - [ ] 3
 - [x] 5
 - [ ] 7
+
+#### Crystal A. Caramels was founded by the candy magnate behind what brand?
+
+- [ ] Cadbury
+- [x] Hershey
+- [ ] Nestle
+
+#### Danica Patrick is famous for competing in which sport?
+
+- [ ] Basketball
+- [x] Auto Racing
+- [ ] Tennis
+
+#### Flik the Ant is the leading character in which Pixar film?
+
+- [ ] Monsters Inc
+- [ ] Wall-E
+- [x] A Bug's Life
+
+#### Which of these superheroes wields a flying hammer?
+
+- [ ] Ant-Man
+- [ ] The Hulk
+- [x] Thor
