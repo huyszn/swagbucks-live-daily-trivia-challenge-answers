@@ -1,5 +1,29 @@
 ## Swagbucks LIVE Questions and Answers
 
+#### According to legend, where was the Eiffel Tower originally supposed to be built?
+
+- [ ] New York City
+- [ ] London
+- [x] Barcelona
+
+#### Point guard Anthony "Spud" Webb played for the Atlanta Hawks, among other teams, in which professional sports league?
+
+- [ ] MLB
+- [x] NBA
+- [ ] NHL
+
+#### On which continent is Lake Victoria the largest lake?
+
+- [ ] Asia
+- [x] Africa
+- [ ] South America
+
+#### What is Dwight Schrute's title in the pilot?
+
+- [ ] Assistant Regional Manager
+- [ ] Associate of the Regional Manager
+- [x] Assistant to the Regional Manager
+
 #### What Andrew Lloyd Webber musical is based on a collection of poems by T.S. Eliot?
 
 - [ ] Phantom of the Opera
