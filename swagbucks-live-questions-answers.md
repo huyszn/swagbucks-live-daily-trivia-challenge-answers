@@ -9690,7 +9690,7 @@
 - [x] Bats
 - [ ] Poodles
 
-#### Lewis Carroll worte which children's classic?
+#### Lewis Carroll wrote which children's classic?
 
 - [ ] The Velveteen Rabbit
 - [ ] Huckleberry Finn
@@ -54342,3 +54342,57 @@
 - [ ] Ant-Man
 - [ ] The Hulk
 - [x] Thor
+
+#### In the 1985 computer game Oregon Trail, what was the last landmark you'd reach before arriving in Oregon?
+
+- [ ] Independence Rock
+- [ ] South Pas
+- [x] Columbia River
+
+#### Which Christmas song was the second song ever broadcast on radio?
+
+- [ ] Hark the Herald Angels Sing
+- [x] O Holy ight
+- [ ] O Tannebaum
+
+#### Which of these is NOT a typical color found in candy corn?
+
+- [x] Purple
+- [ ] Yellow
+- [ ] Orange
+
+#### On which continent was the Inca Empire built?
+
+- [ ] Africa
+- [x] South America
+- [ ] Europe
+
+#### If Kleenex were only used for its original intended purpose, where would you find them?
+
+- [ ] The Bathroom
+- [ ] A Freezer
+- [x] A Gas Mask
+
+#### Which of the following musicians wrote "Blue Suede Shoes"?
+
+- [x] Carl Lee Perkins
+- [ ] Elvis Presley
+- [ ] Jerry Lee Lewis
+
+#### Which of these theaters is known for improvisational comedy?
+
+- [ ] The Winter Garden Theater
+- [ ] Carnegie Hall
+- [x] The Second City
+
+#### What toy craze started in the 1950s?
+
+- [ ] Teddy Bears
+- [ ] Pt Rocks
+- [x] Hula Hoops
+
+#### For 2016's "Deadpool", Ryan Reynolds paid $10,000 out of his own pocket for the rights to use what?
+
+- [ ] The song "Careless Whisper"
+- [ ] The name of a DC character
+- [x] A shirt with Bea Arthur on it
