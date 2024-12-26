@@ -14821,9 +14821,9 @@
 - [ ] Condensation
 - [ ] Temperature
 
-#### "What happens here, starys here" is the reworked slogan for which city's tourism board?
+#### "What happens here, stays here" is the reworked slogan for which city's tourism board?
 
-- [ ] Detriot
+- [ ] Detroit
 - [x] Las Vegas
 - [ ] Newark
 
@@ -54396,3 +54396,21 @@
 - [ ] The song "Careless Whisper"
 - [ ] The name of a DC character
 - [x] A shirt with Bea Arthur on it
+
+#### According to the rhyme, which of these is a sailor's delight?
+
+- [x] Rainbow a night
+- [ ] Rainbow at morning
+- [ ] Lunchtime Rainbow
+
+#### During the U.S. Civil War, which of the following States was NOT in the Confederacy?
+
+- [ ] Georgia
+- [x] New York
+- [ ] Florida
+
+#### Andie and Duckie were originally supposed to end up together at the end of what movie?
+
+- [ ] Sixteen Candles
+- [x] Pretty In Pink
+- [ ] For Keeps?
