@@ -54414,3 +54414,27 @@
 - [ ] Sixteen Candles
 - [x] Pretty In Pink
 - [ ] For Keeps?
+
+#### Which of these shows takes place in a hospital?
+
+- [ ] NYPD Blue
+- [x] Grey's Anatomy
+- [ ] Batterstar Galactica
+
+#### The Berlin Wall divided the city into what two sections?
+
+- [ ] North and South
+- [x] East and West
+- [ ] Inside and Outside
+
+#### What animated series takes place underwater?
+
+- [ ] Elena of Avalor
+- [x] Spongebob Squarepants
+- [ ] Doug
+
+#### Epidemiologists used data from what game to study how diseases spread?
+
+- [ ] Fortnite
+- [ ] Command and Conquer
+- [x] World of Warcraft
