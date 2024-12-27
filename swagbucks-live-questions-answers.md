@@ -28297,7 +28297,7 @@
 - [x] Time
 - [ ] The Starship Enterprise
 
-#### Who were the title charactesr in "When Harry Met Sally..." based on?
+#### Who were the title characters in "When Harry Met Sally..." based on?
 
 - [ ] Nora Ephron's parents
 - [ ] Rob Reiner and Penny Marshall
@@ -32533,7 +32533,7 @@
 - [ ] Easyflix
 - [x] Kibble
 
-#### The Netflix seires "The Queen's Gambit" centered around what game?
+#### The Netflix series "The Queen's Gambit" centered around what game?
 
 - [x] Chess
 - [ ] Checkers
@@ -33769,7 +33769,7 @@
 - [ ] Wants
 - [x] Means
 
-#### What fmaous twins played Michelle Tanner on "Full House"
+#### What famous twins played Michelle Tanner on "Full House"
 
 - [ ] Tweedle Dee and Tweedle Dum
 - [ ] The Bobbsey Twins
@@ -54419,7 +54419,7 @@
 
 - [ ] NYPD Blue
 - [x] Grey's Anatomy
-- [ ] Batterstar Galactica
+- [ ] Battlestar Galactica
 
 #### The Berlin Wall divided the city into what two sections?
 
@@ -54438,3 +54438,15 @@
 - [ ] Fortnite
 - [ ] Command and Conquer
 - [x] World of Warcraft
+
+#### Patrick Mahomes, Tom Brady, and Barry Sanders have all been over athletes for what video game franchise?
+
+- [x] Madden
+- [ ] Fight Night
+- [ ] NBA 2K
+
+#### Who makes the Xbox?
+
+- [ ] Electronic Arts
+- [x] Microsoft
+- [ ] Bandai
