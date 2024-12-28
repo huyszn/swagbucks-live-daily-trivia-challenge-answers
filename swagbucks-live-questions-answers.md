@@ -28546,8 +28546,8 @@
 #### Finish this saying: "Easy come..."
 
 - [ ] Easy money
-- [ ] Easy go
-- [x] Easy peasy
+- [x] Easy go
+- [ ] Easy peasy
 
 #### What movie interrupted Back to the Future's streak of weekends at #1?
 
@@ -54450,3 +54450,21 @@
 - [ ] Electronic Arts
 - [x] Microsoft
 - [ ] Bandai
+
+#### Which of these animals has horns?
+
+- [x] Bull
+- [ ] Dog
+- [ ] Cat
+
+#### Which of the following is NOT one of the events in horse racing's Triple Crown?
+
+- [ ] The Kentucky Derby
+- [x] The Indianapolis 500
+- [ ] The Belmont Stakes
+
+#### What actor appeared in both "Rebel Without a Cause" and "Easy Rider"?
+
+- [ ] Jack Nicolson
+- [ ] Peter Fonda
+- [x] Dennis Hopper
