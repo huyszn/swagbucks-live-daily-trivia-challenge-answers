@@ -54468,3 +54468,21 @@
 - [ ] Jack Nicolson
 - [ ] Peter Fonda
 - [x] Dennis Hopper
+
+#### In which sport do Jockeys compete?
+
+- [ ] Skydiving
+- [x] Horse racing
+- [ ] Luge
+
+#### Which of the following songs does NOT appear in 1964's "Mary Poppins"?
+
+- [ ] Pavement Artist
+- [x] Nowhere to Go But Up
+- [ ] A Man Has Dreams
+
+#### One of the songs cut from "My Fair Lady" eventually appeared in what movie musical?
+
+- [ ] Hello, Dolly!
+- [x] Gigi
+- [ ] Sound of Music
