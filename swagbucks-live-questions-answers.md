@@ -54486,3 +54486,21 @@
 - [ ] Hello, Dolly!
 - [x] Gigi
 - [ ] Sound of Music
+
+#### Which of the following is the name of one of the Transformers?
+
+- [x] Optimus Prime
+- [ ] Optimus Subprime
+- [ ] Poptimus Rhyme
+
+#### Who was the first president to have their child born in the White House?
+
+- [x] Grover Cleveland
+- [ ] Benjamin Harrison
+- [ ] Andrew Johnson
+
+#### Which of these times would be considered part of "The Witching Hour"?
+
+- [x] Midnight
+- [ ] 4:15 PM
+- [ ] 11:30 AM
