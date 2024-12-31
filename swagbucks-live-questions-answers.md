@@ -54504,3 +54504,51 @@
 - [x] Midnight
 - [ ] 4:15 PM
 - [ ] 11:30 AM
+
+#### Which movie was the first time that Bugs Bunny and Mickey Mouse appeared together in a scene?
+
+- [ ] E.T
+- [ ] Pretty in Pink
+- [x] Who Framed Roger Rabbit?
+
+#### According to the song, who does Michael Jackson claim is not his lover?
+
+- [ ] Carribean Queen
+- [ ] Dirty Diana
+- [x] Billie Jean
+
+#### Which of the following was NOT the name of an ABA franchise?
+
+- [ ] Tams
+- [x] Conquerors
+- [ ] Mavericks
+
+#### If the U.S. and Canada wanted to honor workers the same time as Europeans, when would Labor Day be held?
+
+- [ ] January
+- [x] May
+- [ ] October
+
+#### Jim Morrison was the lead singer of what band?
+
+- [ ] The Moody Blues
+- [x] The Doors
+- [ ] Cream
+
+#### What sport was included in the 1996 Olympics, then removed in 2012 and reintroduced in 2020?
+
+- [ ] Skateboarding
+- [ ] Sailing
+- [x] Softball
+
+#### How old was skiier Bode Miller at the 2002 Salt Lake City Winter Olympics?
+
+- [ ] 19
+- [x] 24
+- [ ] 26
+
+#### "Dance of the Sugar Plum Fairy" comes from which holiday ballet?
+
+- [ ] Swan Lake
+- [ ] La Bayadere
+- [x] The Nutcracker
