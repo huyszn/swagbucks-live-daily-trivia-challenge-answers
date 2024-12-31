@@ -54552,3 +54552,27 @@
 - [ ] Swan Lake
 - [ ] La Bayadere
 - [x] The Nutcracker
+
+#### After a downpour, light refracting through water droplets results in what phenomenon?
+
+- [ ] Drought
+- [ ] Tornado
+- [x] Rainbow
+
+#### Which of the following dog breed names comes from a fictional character?
+
+- [x] Dandie Dinmont Terrier
+- [ ] Wheaten Terrier
+- [ ] Jack Russell Terrier
+
+#### On average, approximately how many licks does it take to finish a single scoop ice cream cone?
+
+- [x] 50
+- [ ] 100
+- [ ] 150
+
+#### Gertrude Stein found the use of what punctuation to be "degrading"?
+
+- [ ] Exclamation point
+- [ ] Hyphen
+- [x] Comma
