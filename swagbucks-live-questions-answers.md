@@ -29273,9 +29273,9 @@
 
 - [ ] State of Liberty
 - [ ] Chrysler Building
-- [x] Emprie State Building
+- [x] Empire State Building
 
-#### On Valentune's Day in 1990, Michael Jordan wore the number 12 for a game against the Magic. Why?
+#### On Valentine's Day in 1990, Michael Jordan wore the number 12 for a game against the Magic. Why?
 
 - [ ] For his wife
 - [ ] Superstition
@@ -54576,3 +54576,39 @@
 - [ ] Exclamation point
 - [ ] Hyphen
 - [x] Comma
+
+#### Who wrote the book "The Wonderful Wizard of Oz"?
+
+- [ ] Halsey
+- [ ] Oprah Winfrey
+- [x] L. Frank Baum
+
+#### Whose books include "James and the Giant Peach" and "Charlie and the Chocolate Factory"?
+
+- [ ] Stephen King
+- [x] Roald Dahl
+- [ ] Dr. Seuss
+
+#### On Hanukkah, children often receive chocolates wrapped to look like what?
+
+- [x] Coins
+- [ ] Wrenches
+- [ ] Shoes
+
+#### What language is notable for using the "Verb Subject Object" word order?
+
+- [x] Irish
+- [ ] Esperanto
+- [ ] Italian
+
+#### What Fahrenheit temperature is water's boiling point?
+
+- [ ] 100 degrees
+- [x] 212 degrees
+- [ ] 325 degrees
+
+#### When a liquid evaporates, what does it become?
+
+- [ ] A bicycle
+- [ ] A solid
+- [x] A gas
