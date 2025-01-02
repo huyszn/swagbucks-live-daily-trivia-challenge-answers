@@ -54612,3 +54612,69 @@
 - [ ] A bicycle
 - [ ] A solid
 - [x] A gas
+
+#### Which children's show had a segment where kids would give book recommendations?
+
+- [ ] Ask The Storybots
+- [x] Reading Rainbow
+- [ ] Ready Jet Go!
+
+#### How does a hen help her eggs hatch?
+
+- [ ] She roots them on
+- [ ] She pays their tuition
+- [x] She sits on them
+
+#### Which board game was invented by a dental technician?
+
+- [ ] Operation
+- [x] Settlers of Catan
+- [ ] Payday
+
+#### According to the saying, what rises to the top?
+
+- [x] The cream
+- [ ] A balloon
+- [ ] Steam
+
+#### What band released the albums "The Wall" and "Dark Side of the Moon"?
+
+- [ ] Yes
+- [x] Pink Floy
+- [ ] Steely Dan
+
+#### "Spoken From he Heart" was a book by which former First Lady?
+
+- [ ] Martha Washington
+- [ ] Nancy Reagan
+- [x] Laura Bush
+
+#### In which country did The Mighty Five try to establish a national school of music?
+
+- [ ] Italy
+- [x] Russia
+- [ ] Austria
+
+#### Which of the following words is NOT used to describe the Gummi Bears in their theme songs?
+
+- [ ] Faithful
+- [ ] Dashing
+- [x] Crappy
+
+#### The Alka Selzer slogan includes what noises?
+
+- [x] Plop plop fizz fizz
+- [ ] Bang boom
+- [ ] Tick Tick Bom
+
+#### Which of the following video games debuted first?
+
+- [ ] Pacific Rim
+- [ ] Portal 2
+- [x] Pong
+
+#### Which magazine reached 1 million paid subscribers the fastest?
+
+- [x] Nintendo Power
+- [ ] Playboy
+- [ ] Sports Illustrated
