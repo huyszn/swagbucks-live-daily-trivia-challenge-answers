@@ -9132,7 +9132,7 @@
 - [x] Tools
 - [ ] Parents
 
-#### As a defense mechanism, Blue Jays can mimic the sounds of what other bird?
+#### As a defense mechanism, Blue Jays can mimic the sound of what other bird?
 
 - [ ] Raven
 - [ ] Vulture
@@ -54780,3 +54780,27 @@
 - [ ] Kevin Durant
 - [x] Lebron James
 - [ ] Nikola Jokic
+
+#### Louis XIV was known by what nickname
+
+- [x] The Sun King
+- [ ] Burger King
+- [ ] Alaskan King Crab
+
+#### Which of the following dinosaurs was an herbivore?
+
+- [x] Stegosaurus
+- [ ] Tyrannosaurus Rex
+- [ ] Velociraptor
+
+#### What Disney V show once featured a young Annette Funicello and a young Justin Timberlake?
+
+- [ ] Phineas and Ferb
+- [x] The Mickey Mouse Club
+- [ ] Suit Life on Deck
+
+#### What kind of food is wonton?
+
+- [x] Dumpling
+- [ ] Sweetbread
+- [ ] Pasta
