@@ -54678,3 +54678,105 @@
 - [x] Nintendo Power
 - [ ] Playboy
 - [ ] Sports Illustrated
+
+#### A dog named Gidget became famous for what role?
+
+- [ ] Spuds Mackenzie
+- [ ] Lassie
+- [x] The Taco Bell Chihuahua
+
+#### The college from "The Absent-Minded Professor is also the setting for what Disney Film?
+
+- [ ] The Shaggy Dog
+- [x] The Computer Wore Tennis Shoes
+- [ ] Merlin Jones
+
+#### Which of these ands does not have at least two members who are siblings?
+
+- [ ] Radiohead
+- [ ] The National
+- [x] The White Stripes
+
+#### What popular chocolate chip cookie is sold by Nabisco?
+
+- [x] Chips Ahoy!
+- [ ] Thar Be Chips!
+- [ ] Yo Ho, Y Ho A Cookie's Life For Me
+
+#### TransUnion and Equifax are both services that check what?
+
+- [ ] Your oil
+- [ ] Your teeth
+- [x] Your credit
+
+#### Which of the following is one of the names used to describe Daenerys Targaryen in "Game of Thrones"?
+
+- [ ] Sister of Dragons
+- [x] Mother of Dragons
+- [ ] Cousin of Dragons
+
+#### In the original Die Hard, where does John McClane find himself trapped?
+
+- [ ] Dulles International Airport
+- [ ] A Theme ark
+- [x] Nakatomi Plaza
+
+#### What movie won Best Picture at the 2024 Oscars?
+
+- [ ] Barbie
+- [ ] The Holdovers
+- [x] Oppenheimer
+
+#### What hurricane made landfall in Florida on September 26th, 2024?
+
+- [x] Helene
+- [ ] Deborah
+- [ ] Amy
+
+#### Which daytime talk show host passed away in 2024?
+
+- [ ] Johnny Carson
+- [x] Phil Donahue
+- [ ] Barbara Walters
+
+#### Rachael Raygun" Gunn created a viral moment in which 2024 Olympic event?
+
+- [ ] Gymnastics
+- [ ] Kayak
+- [x] Breaking
+
+#### In 2024, whose "Eras" Tour helped make her the world's first musician to become a billionaire solely from songs and concerts?
+
+- [x] Taylor Swift
+- [ ] Madonna
+- [ ] Olivia Rodrigo
+
+#### On July 24th, 2024, what Pixar movie became the highest-grossing animated film ever?
+
+- [ ] Cars 4
+- [x] Inside Out 2
+- [ ] Toy Story 5
+
+#### In 2024 a cargo ship rammed into the Francis Scott Ky bridge, causing its collapse into which city's waters
+
+- [ ] Oakland
+- [ ] Cincinnati
+- [x] Baltimore
+
+#### In 2024, the Philadelphia Eagles beat the Green Bay Packers in the NFL's first game played in which country?
+
+- [x] Brazil
+- [ ] The United States
+- [ ] England
+
+#### What iconic kitchen storage brand filed for bankruptcy in 2024?
+
+- [x] Tupperware
+- [ ] Rubbermaid
+- [ ] OXO
+
+#### In 2024, which NBA superstar became half of the first father-son duo to play in an NBA game together?
+
+- [ ] Kevin Durant
+- [x] Lebron James
+- [ ] Nikola Jokic
