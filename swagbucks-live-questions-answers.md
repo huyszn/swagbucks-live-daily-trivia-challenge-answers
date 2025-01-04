@@ -45163,7 +45163,7 @@
 - [x] Roping steer
 - [ ] Surfing
 
-#### Accoridng to tscientific data, where does the rain in Spain mainly fall?
+#### According to scientific data, where does the rain in Spain mainly fall?
 
 - [ ] The plains
 - [ ] The beach
@@ -54793,7 +54793,7 @@
 - [ ] Tyrannosaurus Rex
 - [ ] Velociraptor
 
-#### What Disney V show once featured a young Annette Funicello and a young Justin Timberlake?
+#### What Disney TV show once featured a young Annette Funicello and a young Justin Timberlake?
 
 - [ ] Phineas and Ferb
 - [x] The Mickey Mouse Club
@@ -54804,3 +54804,45 @@
 - [x] Dumpling
 - [ ] Sweetbread
 - [ ] Pasta
+
+#### Which Beatle was born first?
+
+- [ ] John Lennon
+- [ ] Paul McCarney
+- [x] Ringo Starr
+
+#### Complete this sitcom title: "Everybody Loves..."
+
+- [ ] Pizza
+- [x] Raymond
+- [ ] A parade
+
+#### According to Mental Floss, which of these Funko Pops is most valuable?
+
+- [x] Clown Dumbo
+- [ ] Holographic Darth Maul
+- [ ] Headless Ned Stark
+
+#### Who is Bluetooth technology named after?
+
+- [ ] Its Inventor
+- [x] A European king
+- [ ] A pet
+
+#### Which of the following people was NOT in the original cast of "Saturday Night Live"?
+
+- [ ] Jane Curtin
+- [ ] Chevy Chase
+- [x] Kate McKinnon
+
+#### Which actress was Ronald Reagan's first wife?
+
+- [x] Jane Wyman
+- [ ] Joan Fontaine
+- [ ] Elizabeth Taylor
+
+#### Sodium Chloride is more commonly known by what name?
+
+- [ ] Acid
+- [x] Salt
+- [ ] Pepper
