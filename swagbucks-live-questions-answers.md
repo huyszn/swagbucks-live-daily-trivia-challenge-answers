@@ -54876,3 +54876,75 @@
 - [ ] Ambassador to France
 - [x] Supreme Court Justice
 - [ ] Senator
+
+#### Formula 1 is e highest class of what sport?
+
+- [ ] Soccer
+- [x] Auto racing
+- [ ] Marathon
+
+#### Catherine the eat ruled over which country?
+
+- [x] Russia
+- [ ] Canada
+- [ ] Belize
+
+#### Which of these cereal monsters is FAKE?
+
+- [ ] Bee Berry
+- [ ] Count Chocula
+- [x] Creature from Marshmallow Lagoon
+
+#### Which of these mythical creatures is known to be small in size?
+
+- [ ] Dragon
+- [x] Gnome
+- [ ] Giant
+
+#### Which of the following is NOT of the three found foundational sires of Thoroughbred horses?
+
+- [ ] Darley Arabian
+- [ ] Byerley Turk
+- [x] Cedric Appaloosa
+
+#### What makes coffee an Irish coffee?
+
+- [ ] Guinness
+- [x] Whiskey
+- [ ] Brandy
+
+#### Which animal is commonly known as "Man's Best Friend"?
+
+- [ ] Skunk
+- [ ] Bumblebee
+- [x] Dog
+
+#### Which former U.S. president was once recorded saying he might have been a rapper?
+
+- [x] Richard Nixon
+- [ ] Barack Obama
+- [ ] Bill Clinton
+
+#### Where is Thor from?
+
+- [x] Asgard
+- [ ] Cleveland
+- [ ] Machu Picchu
+
+#### In Celsius, at what temperature does water freeze?
+
+- [ ] 100 degrees
+- [ ] 32 degrees
+- [x] 0 degrees
+
+#### In "Three Men and a Baby", which actor plays the baby's biological father?
+
+- [ ] Tom Selleck
+- [x] Ted Danson
+- [ ] Steve Guttenberg
+
+#### 17th Century Dutch lens maker Hans Lippersey is widely credited with inventing what scientific tool?
+
+- [ ] Forceps
+- [x] Telescope
+- [ ] Lab coat
