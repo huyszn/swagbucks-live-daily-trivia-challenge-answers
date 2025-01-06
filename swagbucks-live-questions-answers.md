@@ -54846,3 +54846,33 @@
 - [ ] Acid
 - [x] Salt
 - [ ] Pepper
+
+#### Which of the following is used to measure the quality of bedsheets?
+
+- [ ] Cloudiness
+- [ ] Fold-ability
+- [x] Thread Count
+
+#### What country singer's $1 million helped partially fund the Moderna vaccine for COVID-19?
+
+- [x] Dolly Parton
+- [ ] Carrie Underwood
+- [ ] Reba McEntire
+
+#### Which Big Bang Theory actor is the oldest?
+
+- [ ] Johnny Galecki
+- [x] Jim Parsons
+- [ ] Simon Helberg
+
+#### What automotive brand once claimed to be "The Heartbeat of America"?
+
+- [x] Chevrolet
+- [ ] Ferrari
+- [ ] Jaguar
+
+#### Sandra Day O'Connor was the first woman appointed to what position?
+
+- [ ] Ambassador to France
+- [x] Supreme Court Justice
+- [ ] Senator
