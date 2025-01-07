@@ -43423,7 +43423,7 @@
 - [ ] Leghorn
 - [x] Cornish Cross
 
-#### What British game involves 3 sstrikes and seeds?
+#### What British game involves 3 strikes and seeds?
 
 - [ ] Cricket
 - [x] Conkers
@@ -43431,7 +43431,7 @@
 
 #### Which of the following accessories is worn for support?
 
-- [ ] Nicklace
+- [ ] Necklace
 - [ ] Earring
 - [x] Girdle
 
@@ -54948,3 +54948,87 @@
 - [ ] Forceps
 - [x] Telescope
 - [ ] Lab coat
+
+#### What two sides fought in the Torjan War?
+
+- [x] Troy and Greece
+- [ ] Seattle and Houston
+- [ ] Paris and Cairo
+
+#### Based on his old commercial work, what cereal might you see Neo eating in "The Matrix"?
+
+- [x] Corn Flakes
+- [ ] Frosted Flakes
+- [ ] Raisin Bran
+
+#### What kind of vehicle was the Supersonic Transport?
+
+- [x] Jet
+- [ ] Bicycle
+- [ ] Van
+
+#### What was the first streaming show to win an Emmy for Best Drama Series?
+
+- [ ] Orange is the New Black
+- [ ] House of Cards
+- [x] The Handmaid's Tale
+
+#### In "The Empire Strikes Back", who is revealed to be Luke Skywalker's father?
+
+- [ ] Obi Wan Kenobi
+- [ ] Yoda
+- [x] Darth Vader
+
+#### Who won an Academy Award for playing young Vito Corleone in "The Godfather Part II"
+
+- [ ] Al Pacino
+- [x] Robert De Niro
+- [ ] James Caan
+
+#### "The Wrath of Khan" is a sequel in which film series?
+
+- [x] Star Trek
+- [ ] Chronicles of Narnia
+- [ ] Avatar
+
+#### In "Indiana Jones and the Last Crusade", what artifact is Indy chasing?
+
+- [ ] The Sankara Stones
+- [x] The Holy Grail
+- [ ] The Ark of the Covenant
+
+#### George Clooney's "Oceans 11" is a remake of a 1960s film starring which crooner?
+
+- [x] Frank Sinatra 
+- [ ] Mel Torme
+- [ ] Bing Crosby
+
+#### Which of the following sequels begins right after the previous film's ending?
+
+- [ ] Captain America: The Winter Solider
+- [x] John Wick: Chapter 3
+- [ ] Batman Begins
+
+#### Which of these MCU movies did NOT a direct sequel?
+
+- [x] The Incredible Hulk
+- [ ] Iron Man
+- [ ] The Avengers
+
+#### In "Back to the Future Part II", what item from the future does Biff use to make himself rich?
+
+- [ ] Lottery Ticket
+- [x] Sports Almanac
+- [ ] Credit Card
+
+#### Which of the following James Bond sequels starred Daniel Craig as 007?
+
+- [ ] Thunderball
+- [ ] Moonraker
+- [x] Skyfall
+
+#### Lindsay Lohan starred in a remake of which 1960s Disney movie?
+
+- [x] The Parent Trap
+- [ ] Pollyanna
+- [ ] Swiss Family Robinson
