@@ -55032,3 +55032,39 @@
 - [x] The Parent Trap
 - [ ] Pollyanna
 - [ ] Swiss Family Robinson
+
+#### In "Humpty Dumpty", who tried to put him together again?
+
+- [ ] The Butcher, the Baker, the Candlestick Maker
+- [ ] Three Blind Mice
+- [x] All the King's Horses and All the King's Men
+
+#### Angela Cavallo famously provided an example of what mothering ability?
+
+- [ ] Mother's Intuition
+- [ ] Lie Detection
+- [x] Mom Strength
+
+#### The Sahara Desert sits in which continent?
+
+- [x] Africa
+- [ ] Asia
+- [ ] Europe
+
+#### In "Return of the Jedi", who kills Jabba the Hutt?
+
+- [ ] Han Solo
+- [ ] Luke Skywalker
+- [x] Princess Leia
+
+#### What color rose represents love and romance?
+
+- [ ] Orange
+- [x] Red
+- [ ] Green
+
+#### What was the name of Buster Brown's dog?
+
+- [x] Tige
+- [ ] Snoopy
+- [ ] Spuds Mackenzie
