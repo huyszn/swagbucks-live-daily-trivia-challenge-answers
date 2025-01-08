@@ -55068,3 +55068,63 @@
 - [x] Tige
 - [ ] Snoopy
 - [ ] Spuds Mackenzie
+
+#### Suits with huge shoulder pads were fashionable in  which decade?
+
+- [x] 1980s 
+- [ ] 2000s
+- [ ] 2020s
+
+#### In Poker, what is the term for the forced bet all players must put in before the cards are dealt?
+
+- [ ] River
+- [x] Ante
+- [ ] Full Boat
+
+#### Which of the following is NOT a fossil fuel?
+
+- [ ] Coal
+- [ ] Oil
+- [x] Wind
+
+#### Who was slapped by Will Smith at the 2022 Oscars?
+
+- [ ] Chris Pratt
+- [x] Chris Rock
+- [ ] Chris Evans
+
+#### What is the official drink of Kentucky?
+
+- [ ] Bourbon
+- [ ] Lager
+- [x] Milk
+
+#### In an Adele hit, she sings about rolling in the what?
+
+- [ ] Dough
+- [ ] Dusk
+- [x] Deep
+
+#### What is the most horsepower an actual horse can generate?
+
+- [ ] 1 hp
+- [x] 15 hp
+- [ ] 24 hp
+
+#### Pigs are used to find what expensive natural ingredient?
+
+- [x] Truffles
+- [ ] Saffron
+- [ ] Lobster
+
+#### "Delulu" is slang derived from what word?
+
+- [ ] Delayed
+- [ ] Diluted
+- [x] Delusional
+
+#### The "Creed" movies take place in the same world as what other movie series?
+
+- [x] Rocky
+- [ ] The Terminator
+- [ ] Top Gun
