@@ -1,5 +1,77 @@
 ## Swagbucks LIVE Questions and Answers
 
+#### For "The Gates" art installation in Central Park, 23 miles of pathways were lined with what?
+
+- [x] Orange Flags
+- [ ] Light Projections
+- [ ] Picket Fences
+
+#### Who was NOT a contestant on Season 25 of Dancing with the Stars?
+
+- [ ] Frankie Muniz
+- [ ] Nick Lachey
+- [x] Simone Biles
+
+#### "Rudy" was the credited film debut for what actor?
+
+- [x] Vince Vaughn
+- [ ] Ben Stiller
+- [ ] Jon Hamm
+
+#### Which celebrity shares a birth State with Iggy Pop?
+
+- [x] Francis Ford Coppola
+- [ ] George Clooney
+- [ ] Richard Pryor
+
+#### Before SNL, Kenan Thompson was in the cast of a sketch show on what children's cable channel?
+
+- [x] Nickleodeon
+- [ ] Disney Jr
+- [ ] BabyFirst
+
+#### Which of these famous works of art is on permanent display in Austria?
+
+- [ ] The Scream
+- [ ] Girl with a Pearl Earring
+- [x] The Kiss
+
+#### In what year did Nathan's Famous Hot Dog Eating Contest become a regular annual event?
+
+- [ ] 1972
+- [ ] 1974
+- [x] 1978
+
+#### Which of the following foreign language words translates to "green"?
+
+- [ ] Enfant
+- [x] Verde
+- [ ] Cacio
+
+#### Pittsburgh is known by what nickname?
+
+- [x] Steel City
+- [ ] City of Brotherly Love
+- [ ] Magic City
+
+#### West Side Story's "One Hand, One Heart" was originally writen for which musical?
+
+- [ ] Peter Pan
+- [ ] On The Town
+- [x] Candide
+
+#### As of May 2023, how many MCU characters have been able to wield Mjolnir?
+
+- [ ] 4
+- [ ] 5
+- [x] 6
+
+#### Hamburger Helper boxes and commercials feature an anthropomorphic version of what item?
+
+- [x] Glove
+- [ ] Spoon
+- [ ] Pan
+
 #### According to legend, where was the Eiffel Tower originally supposed to be built?
 
 - [ ] New York City
