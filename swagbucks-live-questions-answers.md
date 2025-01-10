@@ -16228,8 +16228,8 @@
 #### In 2017, “Never Say Die” took over the World Record for highest grossing live-action comedy. What film did it replace?
 
 - [ ] Ghostbusters
-- [ ] Home Alone
-- [x] There’s Something About Mary
+- [x] Home Alone
+- [ ] There’s Something About Mary
 
 #### The 1920s Naval slag “Dobeying” refers to doing what?
 
@@ -19543,7 +19543,7 @@
 - [x] The Renaissance
 - [ ] The Modern Era
 
-#### Boiled pigs legs, blood, salt, and vinegar was a stample soup of which ancient city?
+#### Boiled pigs legs, blood, salt, and vinegar was a sample soup of which ancient city?
 
 - [ ] Rome
 - [x] Sparta
@@ -22291,7 +22291,7 @@
 - [ ] Dubuque
 - [ ] Allentown
 
-#### Which live-acton Disney movie features a family living in a tree house?
+#### Which live-action Disney movie features a family living in a tree house?
 
 - [ ] Treasure Island
 - [ ] Darby O’Gill and the Little People
@@ -30007,7 +30007,7 @@
 - [x] The Babadook
 - [ ] It
 
-#### In 1963, tthe AL, NL, and NFL MVPs all wore what jersey number?
+#### In 1963, the AL, NL, and NFL MVPs all wore what jersey number?
 
 - [ ] 7
 - [ ] 16
@@ -38227,7 +38227,7 @@
 - [ ] Loren Bouchard
 - [x] Stephen Hillenburg
 
-#### What talkg show host played Doug's sister on King of Queens?
+#### What talk show host played Doug's sister on King of Queens?
 
 - [ ] Leah Remini
 - [x] Ricki Lake
@@ -55128,3 +55128,225 @@
 - [x] Rocky
 - [ ] The Terminator
 - [ ] Top Gun
+
+#### Which of the following is NOT a brand of fabric softener?
+
+- [ ] Downy
+- [ ] Bounce
+- [x] Jolt
+
+#### The robbery scene in White Men Can't Jump" mirrors an incident with which former NBA player?
+
+- [ ] JJ Hickson
+- [x] Reggie Harding
+- [ ] Ron Artest
+
+#### According to the fourth stance of the Star Spangled Banner, what "be our motto"?
+
+- [x] In God is Our Trust
+- [ ] E Pluribus Unum
+- [ ] Live Free Or Die
+
+#### The Beatles drew inspiration for their name from which legend's band?
+
+- [ ] Elvis Presley
+- [ ] Bill Haley
+- [x] Buddy Hollytoys
+
+#### In which decade did Fidget Spinners become popular?
+
+- [ ] 1780s
+- [ ] 1840s
+- [x] 2010s
+
+#### Which of the following dishes is normally served "sizzling"?
+
+- [x] Fajitas
+- [ ] Ice cream sundae
+- [ ] Oatmeal
+
+#### Nikola Tesla is known for his work with what physical phenomenon?
+
+- [ ] Earthquakes
+- [x] Electricity
+- [ ] Wind
+
+#### What date was originally Tax Day in the U.S.?
+
+- [ ] April 10th
+- [x] March 1st
+- [ ] March 15th
+
+#### Grey Poupon is a brand of what condiment?
+
+- [ ] Ketchup
+- [ ] Hazelnut Spread
+- [x] Mustard
+
+#### An animal named Doulas became famous starring in a Pippi Longstocking film adaptation. What kind of animal was he?
+
+- [ ] Horse
+- [ ] Dog
+- [x] Parrot
+
+#### Which of the following is NOT the name of a "Law & Order" TV series?
+
+- [ ] Special Victims Unit
+- [ ] Criminal Intent
+- [x] Park Violations
+
+#### Which of the following bad movies got a "Thumbs Up" from Roger Ebert?
+
+- [x] Paul Blart: Mall Cop
+- [ ] Highlander 2: The Quickening
+- [ ] Holy Man
+
+#### Sade had a hit song about which kind of operator?
+
+- [x] Smooth Operator
+- [ ] Rough Operator
+- [ ] Sleepy Operator
+
+#### Caitlin Clark is known for what sport?
+
+- [ ] Soccer
+- [ ] Track
+- [x] Basketball
+
+#### What company advertised a feedback harness for adult use during Super Bowl parties?
+
+- [ ] Glad
+- [x] Reynolds
+- [ ] Rubbermaid
+
+#### What bank uses a wagon in their logo?
+
+- [ ] Citibank
+- [x] Wells Fargo
+- [ ] Bank of America
+
+#### Before cooking meth as Walter White, what medical product did Bryan Cranston appear in ads for?
+
+- [ ] Bayer
+- [x] Preparation H
+- [ ] Nyquil
+
+#### What is the one thing you cannot do to your Acnestis without help?
+
+- [x] Scratch it
+- [ ] Rinse it
+- [ ] Raise it
+
+#### What 1950's horror classic's based on an actual story from Philadelphia?
+
+- [ ] Day of the Triffids
+- [x] The Blob
+- [ ] Invasion of the Body Snatchers
+
+#### The man behind Chuck  E. Cheese also founded what other company?
+
+- [x] Activision
+- [ ] Atari
+- [ ] Electronic Arts
+
+#### What is the name of Google's email service?
+
+- [ ] Wave
+- [ ] Google Plus
+- [x] Gmail
+
+#### "Auld Lang Syne" is traditionally played during which holiday?
+
+- [ ] Arbor Day
+- [x] New Year's Eve
+- [ ] Easter
+
+#### Roast Beef sandwiches are the signature item at which fast food chain?
+
+- [ ] Burger King
+- [ ] KFC
+- [x] Arby's
+
+#### What is the capital of Austria?
+
+- [x] Vienna
+- [ ] Berlin
+- [ ] Paris
+
+#### What movie featured Jim Carrey's feature film debut?
+
+- [x] All in Good Taste
+- [ ] Once Bitten
+- [ ] Rubberface
+
+#### Which of the following facts about Rembrandt's "The Night Watch" is TRUE?
+
+- [ ] All of the people are versions of Rembrandt
+- [ ] It wasn't painted by Rembrandt
+- [x] It's not set at night
+
+#### What natural disaster sequel hit theaters in July of 2024?
+
+- [ ] Hurricanes
+- [x] Twisters
+- [ ] Flash Floods
+
+#### Where would you go to take the shortest commercial flight in the world?
+
+- [x] Scotland
+- [ ] Liechtenstein
+- [ ] Alaska
+
+#### Which of the following celebrities was buried with red wine and a power saw?
+
+- [ ] Tony Curtis
+- [ ] Elizabeth Taylor
+- [x] Roald Dahl
+
+#### Who became the highest paid baseball player in history after signing a $700 million dollar deal with the Dodgers?
+
+- [x] Shohei Ohtani
+- [ ] Aaron Judge
+- [ ] Bryce Harper
+
+#### In which of the following games do you draw pictures to represent words or phrases?
+
+- [ ] Mastermind
+- [x] Pictionary
+- [ ] Phase 10
+
+#### Dunder Mifflin is located in what U.S. city?
+
+- [x] Scranton
+- [ ] Las Vegas
+- [ ] New Orleans
+
+#### Who both recorded "Power of Live" AND appeared in "Back to the Future"?
+
+- [ ] Daryl Hall
+- [ ] El DeBarg
+- [x] Huey Lewis
+
+#### Which of the following is an NBA team?
+
+- [ ] Boston Burins
+- [ ] Florida Marlin
+- [x] Oklahoma City Thunder
+
+#### What junk food-related Guinness Record belongs to the Spirit of Texas Festival?
+
+- [x] Longest Ice Cream Desert
+- [ ] Most small hamburgers eaten in one minute
+- [ ] Largest Serving of Nachos
+
+#### Which of these philosophers was Alexander the Great's teacher?
+
+- [ ] Socrates
+- [ ] Plate
+- [x] Aristotle
+
+#### Which of these films was NOT nominated for a Best Picture Oscar in the 90s?
+
+- [ ] The Furtive
+- [ ] Ghost
+- [x] The Sixth Sense
