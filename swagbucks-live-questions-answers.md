@@ -28357,7 +28357,7 @@
 - [ ] Theremin
 - [x] Mandolin
 
-#### Which of the folloiwng Disney Animated films has NOT gotten a live action adaptation?
+#### Which of the following Disney Animated films has NOT gotten a live action adaptation?
 
 - [x] The Fox and the Hound
 - [ ] The Jungle Book
@@ -34681,7 +34681,7 @@
 - [x] Aquarius
 - [ ] Gemini
 
-#### Which stae's official bird is named after another state?
+#### Which state's official bird is named after another state?
 
 - [x] Utah
 - [ ] Colorado
@@ -43837,7 +43837,7 @@
 - [ ] Oneida
 - [ ] Alhambra
 
-#### 84-year old Clara Peller starred in a series of videos for Wndy's where she asked what question?
+#### 84-year old Clara Peller starred in a series of videos for Wendy's where she asked what question?
 
 - [ ] Are we there yet?
 - [x] Where's the beef?
@@ -55350,3 +55350,75 @@
 - [ ] The Furtive
 - [ ] Ghost
 - [x] The Sixth Sense
+
+#### Which of these is considered a string instrument?
+
+- [ ] Accordion
+- [x] Ukulee
+- [ ] Cymbals
+
+#### Before reaching the Owl, what other creatures are asked how many licks it takes to get to the center of a Tootsie Pop?
+
+- [ ] Dog & Turtle & Horse
+- [x] Cow & Fox & Turtle
+- [ ] Turtle & Cat & Snake
+
+#### Which Disney animated film takes place in Ancient Greece?
+
+- [x] Hercules
+- [ ] Tangled
+- [ ] Frozen
+
+#### Which WWE Hall of Famer Min Evented the first three WrestleManias?
+
+- [x] Hulk Hogan
+- [ ] Bruno Sammartino
+- [ ] Buddy Rogers
+
+#### Which of these is an official State soft drink?
+
+- [x] Moxie
+- [ ] Cheerwine
+- [ ] Faygo
+
+#### Who plays Jim's Dad in "American Pie"?
+
+- [ ] Al Pacino
+- [ ] Robert De Niro
+- [x] Eugene Levy
+
+#### Complete Buzz Lightyear's catchphrase "To Infinity and..."?
+
+- [ ] Next Door
+- [x] Beyond
+- [ ] Over the hill
+
+#### Who scored the most points in a single NCAA tournament game?
+
+- [ ] David Robinson
+- [ ] Bill Bradley
+- [x] Austin Carr
+
+#### What is the term for sound made by combining two vowels?
+
+- [x] Diphthong
+- [ ] Bean Dip
+- [ ] Thong Song
+
+#### Aaron Copland wrote music for a ballet on what famous gunslinger?
+
+- [x] Billy the Kid
+- [ ] Genghis Khan
+- [ ] Zorro
+
+#### What is geography the study?
+
+- [ ] Outer space
+- [x] The Earth's surface features
+- [ ] Underwater life
+
+#### In the film "Being There," what is the name erroneously given to Peter Sellers's character?
+
+- [x] Chauncey Gardiner
+- [ ] Chauncey Farmer
+- [ ] Chancey Gardhouse
