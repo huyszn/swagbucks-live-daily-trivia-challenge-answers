@@ -55422,3 +55422,27 @@
 - [x] Chauncey Gardiner
 - [ ] Chauncey Farmer
 - [ ] Chancey Gardhouse
+
+#### Which of the following is NOT one of the three foundational sire of Thoroughbred horses?
+
+- [ ] Darley Arablan
+- [ ] Byeley Tuck
+- [x] Cedric Appaloosa
+
+#### Which game's world championship is held in Las Vegas?
+
+- [ ] Hopscotch
+- [x] Poker
+- [ ] Checkers
+
+#### Who has the Major League record for home runs in a season?
+
+- [ ] Ken Griffey Jr.
+- [ ] Hank Aaron
+- [x] Barry Bonds
+
+#### Which Jonas Brother married the Queen of North?
+
+- [ ] Nick
+- [ ] Kevin
+- [x] Joe
