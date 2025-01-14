@@ -10080,7 +10080,7 @@
 - [ ] 20 every week
 - [ ] 1 per year
 
-#### Which of the following actors did NOT playe Ken in the 2023 Barbie movie?
+#### Which of the following actors did NOT played Ken in the 2023 Barbie movie?
 
 - [ ] Ryan Gosling
 - [x] Sir Ian McKellan
@@ -55446,3 +55446,69 @@
 - [ ] Nick
 - [ ] Kevin
 - [x] Joe
+
+#### Which of the following spa treatments is for your fingernails?
+
+- [ ] Grape
+- [ ] Orange
+- [x] Kumquat
+
+#### Which movie studio has its own theme parks?
+
+- [x] Universal
+- [ ] A24
+- [ ] Columbia
+
+#### According to Benjamin Franklin, "Well done is better than" what
+
+- [x] Well said
+- [ ] A punch in the face
+- [ ] Watching "Madame Web"
+
+#### Which of the following shows is a spinoff of "Game of Thrones"?
+
+- [ ] Ardor
+- [x] House of the Dragon
+- [ ] The Penguin
+
+#### Where is the Mercator Projection used?
+
+- [ ] Economics
+- [ ] Sports
+- [x] Maps
+
+#### In the game "Twenty Questions", what kind of questions are you asking?
+
+- [x] Yes/No
+- [ ] Open-Ended
+- [ ] Rhetorical
+
+#### Which of the following is a result of a caterpillar's metamorphosis?
+
+- [ ] Jackal
+- [x] Butterfly
+- [ ] A sightly larger caterpillar
+
+#### Which MLB team's 2016 World Series Championship ended a 108-year drought?
+
+- [x] Chicago Cubs
+- [ ] Tampa Bay Rays
+- [ ] Detroit Tigers
+
+#### Utah Jazz forward Karl Malone went by what nickname, which is also a type of civil servant?
+
+- [ ] The Clerk
+- [ ] The District Attorney
+- [x] The Mailman
+
+#### Which of these amusement park rides typically moves the fastest?
+
+- [ ] Merry Go Round
+- [x] Coaster
+- [ ] Ferris Wheel
+
+#### In Trivial Pursuit, how many wedges do you need to collect to win?
+
+- [ ] One
+- [x] Six
+- [ ] Ten
