@@ -17635,7 +17635,7 @@
 - [x] Bates Motel
 - [ ] Holiday Inn
 
-#### What iclassic movie monster originates in Egypt?
+#### What classic movie monster originates in Egypt?
 
 - [ ] Count Dracula
 - [x] The Mummy
@@ -35017,7 +35017,7 @@
 - [ ] Chips Avast
 - [ ] Arr! Chips!
 
-#### Meatlof is usually served with what side dish?
+#### Meatloaf is usually served with what side dish?
 
 - [ ] Jelly Beans
 - [x] Mashed potatoes
@@ -55512,3 +55512,93 @@
 - [ ] One
 - [x] Six
 - [ ] Ten
+
+#### Which of the following movies does NOT star Leonardo DiCaprio?
+
+- [x] The Omen
+- [ ] The Revenant
+- [ ] The Departed
+
+#### Complete this quote: "Genius is one percent inspiration and ninety-nine percent..."
+
+- [ ] Motor Oil
+- [ ] Turkey
+- [ ] Perspiration
+
+#### As of 2024, which of the following people has NOT won the Mark Twain Prize for American Humor?
+
+- [ ] Tina Fey
+- [ ] Neil Simon
+- [x] Conan O'Brien
+
+#### The co-creators of "The Book of Mormon" also created what popular cartoon?
+
+- [ ] Powerpuff Girls
+- [ ] Family Guy
+- [x] South Park
+
+#### Who broke Lou Gehrig's MLB record for consecutive games played?
+
+- [x] Cal Ripken Jr.
+- [ ] Aaron Judge
+- [ ] Bryce Harper
+
+#### What body part does a lizard use to smell?
+
+- [ ] Feet
+- [ ] Tail
+- [x] Tongue
+
+#### Which toy company introduced the Easy-Bake Oven in 1963?
+
+- [ ] Sony
+- [x] Kenner
+- [ ] Bandai
+
+#### Which of the following characters is NOT a mascot for McDonald's?
+
+- [x] Colonel Sanders
+- [ ] The Hamburglar
+- [ ] Grimace
+
+#### According to legend, what fictional island is submerged under the sea?
+
+- [x] Atlantis
+- [ ] El Dorado
+- [ ] Royllo
+
+#### If you wanted to woo actress Sofia Vergara with her native country's #1 legal export, what would you send her?
+
+- [ ] Sugar
+- [x] Crude Oil
+- [ ] Coffee
+
+#### According to Leviticus, which of the following should you NOT do?
+
+- [x] Pick up fallen grapes
+- [ ] Ride a horse to market
+- [ ] Wear tassels
+
+#### Which J.K. Rowling character has a lighting bolt scar?
+
+- [ ] Hermione
+- [ ] Ron
+- [x] Harry
+
+#### What is the name of Eminem's alter ego?
+
+- [ ] Questlove
+- [ ] Shock G
+- [x] Slim Shady
+
+#### Which board game started as a college project?
+
+- [x] Operation
+- [ ] Trivial Pursuit
+- [ ] Monopoly
+
+#### Bobby Fischer was famous for his achievements in what?
+
+- [ ] Fishing
+- [x] Chess
+- [ ] Mountain Climbing
