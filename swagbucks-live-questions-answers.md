@@ -33460,7 +33460,7 @@
 #### The King of Swing sings which signature Disney tune?
 
 - [ ] Bout Time
-- [ ] Ev'rybody Wants to Be a Cat
+- [ ] Everybody Wants to Be a Cat
 - [x] I Wanna Be Like You
 
 #### How many feet are in a mile?
@@ -33473,7 +33473,7 @@
 
 - [x] Andy's Chest
 - [ ] Wild Walker
-- [ ] Satelite of Stars
+- [ ] Satellite of Stars
 
 #### Which legendary guitarist is also known as Slowhand?
 
@@ -38377,7 +38377,7 @@
 - [ ] Absinthe
 - [ ] Sulphate
 
-#### What toy manufacturer has released a new playset called "Crokscrew Crash Track"?
+#### What toy manufacturer has released a new playset called "Corkscrew Crash Track"?
 
 - [x] Hot Wheels
 - [ ] My Little Pony
@@ -55602,3 +55602,111 @@
 - [ ] Fishing
 - [x] Chess
 - [ ] Mountain Climbing
+
+#### The politician behind Earth Day represented a state with what motto?
+
+- [x] Forward
+- [ ] Freedom and Unity
+- [ ] Hope
+
+#### Who relentlessly pursued Moby Dick?
+
+- [x] Captain Ahab
+- [ ] Captain Cook
+- [ ] Captain Kirk
+
+#### Why are wild salmon pink?
+
+- [ ] Exposure to sunlight
+- [ ] Microbes in the water
+- [x] Eating shrimp and krill
+
+#### What cereal claimed to be "Mother Approved" in its original slogan?
+
+- [x] Kix
+- [ ] Apple Jacks
+- [ ] Fruity Pebbles
+
+#### St. Patrick is the patron Saint of what country?
+
+- [x] Ireland
+- [ ] Scotland
+- [ ] Wales
+
+#### In "Married with Children", what did Al Bundy do for a living?
+
+- [ ] Teacher
+- [ ] Bus Driver
+- [x] Shoe Salesman
+
+#### Michael J. Fox rose to stardom on which 80s sitcom?
+
+- [ ] Webster
+- [x] Family Ties
+- [ ] A Different World
+
+#### Balki Bartokomous from "Perfect Strangers" is a native of which fictional Mediterranean island?
+
+- [ ] Crete
+- [ ] Carpi
+- [x] Meepos
+
+#### Which of the following 80s sitcoms had an entirely instrumental theme song?
+
+- [x] What's Happening Now!!
+- [ ] Who's The Boss?
+- [ ] Punky Brewster
+
+#### In "Who's the Boss?", former baseball player Tony Micelli takes what job with Angela Bower?
+
+- [ ] Security Guard
+- [ ] Copywriter
+- [x] Housekeeper
+
+#### In "The Greatest American Hero", why can't Ralph Hinkley properly use his power suit?
+
+- [ ] He doesn't speak the right language
+- [x] He lost the instructions
+- [ ] It's under alien control
+
+#### "Joanie Loves Chachi" was a spinoff of what 70s sitcom?
+
+- [x] Happy Days
+- [ ] All In The Family
+- [ ] Barney Miller
+
+#### Which of the following 80s sitcoms consistently broke the 4th wall?
+
+- [ ] My Secret Identity
+- [ ] Head of the Class
+- [x] It's Garry Shandling's Show
+
+#### Where was the 80s sitcom "Cheers" primarily set?
+
+- [ ] A post office
+- [x] A bar
+- [ ] An apartment
+
+#### On "ALF", what planet was ALF from?
+
+- [x] Melmac
+- [ ] Earth
+- [ ] Venus
+
+#### In the original Space Jam, what is the game of the opposing team?
+
+- [ ] The Goon Squad
+- [x] The Monstars
+- [ ] The Ball Hogs
+
+#### John McEnroe was famous for his temper while playing what sport?
+
+- [ ] Soccer
+- [x] Tennis
+- [ ] Rugby
+
+#### Which of these Monkees songs was #1 on the Billboard Hot 100 for the longest?
+
+- [ ] Daydream Believer
+- [ ] Last Train to Clarksville
+- [x] I'm A Believer
