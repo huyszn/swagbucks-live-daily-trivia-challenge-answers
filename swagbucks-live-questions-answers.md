@@ -25885,7 +25885,7 @@
 - [ ] Friday
 - [x] Sunday
 
-#### Zendaya won a Best LEading Actress Emmy for her role on what TV show?
+#### Zendaya won a Best Leading Actress Emmy for her role on what TV show?
 
 - [ ] I Think You Should Leave
 - [x] Euphoria
@@ -26995,7 +26995,7 @@
 - [ ] Alaska
 - [x] Maine
 
-#### Which ancident civilization built the Great Pyramids of Giza?
+#### Which ancient civilization built the Great Pyramids of Giza?
 
 - [ ] Mayans
 - [ ] Mesopotamians
@@ -44503,7 +44503,7 @@
 - [ ] Snake
 - [ ] Giraffe
 
-#### A kayak is a verison of what type of boat?
+#### A kayak is a version of what type of boat?
 
 - [ ] Schooner
 - [x] Canoe
@@ -45559,7 +45559,7 @@
 - [x] Direct Current
 - [ ] Dank Clothing
 
-#### Somehting that's too expensive is said to cost which two body parts?
+#### Something that's too expensive is said to cost which two body parts?
 
 - [ ] An ear and a nose
 - [ ] A hand and a foot
@@ -54739,7 +54739,7 @@
 - [x] Phil Donahue
 - [ ] Barbara Walters
 
-#### Rachael Raygun" Gunn created a viral moment in which 2024 Olympic event?
+#### Rachael "Raygun" Gunn created a viral moment in which 2024 Olympic event?
 
 - [ ] Gymnastics
 - [ ] Kayak
@@ -55710,3 +55710,129 @@
 - [ ] Daydream Believer
 - [ ] Last Train to Clarksville
 - [x] I'm A Believer
+
+#### What kinds of books feature images that jump off the page?
+
+- [x] Pop-up book
+- [ ] Jungle book
+- [ ] Book 'Em, Dano
+
+#### How old is the girl from the beginning of the Beatles song "I Saw Her Standing There"?
+
+- [x] 17
+- [ ] 1
+- [ ] 412
+
+#### Which team didn't make the 1978 World Cup finals despite not losing a single game?
+
+- [ ] Spain
+- [x] Brazil
+- [ ] Netherlands
+
+#### Which of these is a stringed instrument?
+
+- [x] Harp
+- [ ] Cymbal
+- [ ] Flute
+
+#### Which Lord of the Rings character shares a nickname with a mystical Jewish creature?
+
+- [x] Smeagol
+- [ ] Gimli
+- [ ] Aragorn
+
+#### Which soft drink was invented first?
+
+- [ ] A&W Root Beer
+- [x] Dr Pepper
+- [ ] 7-Up
+
+#### What blonde bombshell was born Norma Jan Baker?
+
+- [ ] Madonna
+- [ ] Anna Nicole Smith
+- [x] Marilyn Monroe
+
+#### What two elements combine to make salt?
+
+- [ ] Oxygen and Nitrogen
+- [ ] Neon and Zinc
+- [x] Sodium and Chloride
+
+#### The Christ the Redeemer statue can be found in which city?
+
+- [ ] Paris, France
+- [x] Rio De Janeiro, Brazil
+- [ ] Florence, Italy
+
+#### Which of the following is NOT one of the original thirteen United States colonies?
+
+- [ ] Pennsylvania
+- [ ] New York
+- [x] Hawaii
+
+#### Divergent, Convergent, and Transform are the main type of boundaries for what?
+
+- [x] Tectonic Plates 
+- [ ] Red & White Blood Cells
+- [ ] Molecules
+
+#### Which British monarch was known as "The Virgin Queen"
+
+- [ ] Queen Victoria
+- [ ] Queen Mary I
+- [x] Queen Elizabeth I
+
+#### What ancient civilization built the pyramids of Giza?
+
+- [ ] Romans 
+- [x] Egyptians
+- [ ] Greeks
+
+#### What did the five interlocking rings on the Olympic flag originally represent?
+
+- [ ] The five events
+- [ ] The Olympic motto
+- [x] The five inhabited continents
+
+#### What is the largest reptile in the world?
+
+- [ ] Burmese Python
+- [x] Saltwater Crocodile
+- [ ] Asian Water Monitor
+
+#### Paper is believed to have been invented in which country?
+
+- [x] China
+- [ ] Egypt
+- [ ] Scotland
+
+#### Which MLB team has won the most World Series Championships?
+
+- [ ] Arizona Diamondbacks
+- [x] New York Yankees
+- [ ] Miami Marlins
+
+#### As of October 2023, which of the following SNL hosts is NOT a member of the "5-Timers Club"?
+
+- [ ] Woody Harrelson
+- [x] Jim Carrey
+- [ ] Melissa McCarthy
+
+#### Outside of Christmas, what scent is pumped onto Main Street via the "Smellitzer"?
+
+- [x] Vanilla
+- [ ] Cotton Cand
+- [ ] Popcorn
+
+#### What makes up the majority of a Giant Panda's diet?
+
+- [ ] Palm leaves
+- [ ] Bugs
+- [x] Bamboo
+
+#### Which of the following is NOT a street in New York City?
+
+- [ ] Broadway
+- [ ] Wall Street
+- [x] Sunset Boulevard
