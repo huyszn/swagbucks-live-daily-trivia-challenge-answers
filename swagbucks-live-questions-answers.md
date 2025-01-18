@@ -55836,3 +55836,39 @@
 - [ ] Broadway
 - [ ] Wall Street
 - [x] Sunset Boulevard
+
+#### What did the television shows E.R. and E/R have in common?
+
+- [ ] Both aired on NBC
+- [x] Both had George Clooney
+- [ ] Both won 23 Emmys
+
+#### What kind of music would Mozart's compositions be classified as?
+
+- [ ] Reggae
+- [x] Classical
+- [ ] Electronica
+
+#### Which of the following is defined as a sugar cereal?
+
+- [ ] Corn Chex
+- [ ] Special K
+- [x] Fruity Pebbles
+
+#### Where is the Dole plantation?
+
+- [ ] Arizona
+- [x] Hawaii
+- [ ] Vermont
+
+#### What was the name of the oldest daughter on "The Brandy Bunch"?
+
+- [x] Marcia
+- [ ] Jan
+- [ ] Cindy
+
+#### What Marvel hero/lawyer appeared in the first season of "Marvel's She-Hulk"?
+
+- [ ] Jeryn Hogarth
+- [x] Matt Murdock
+- [ ] Foggy Nelson
