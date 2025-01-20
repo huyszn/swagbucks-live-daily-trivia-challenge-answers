@@ -24837,11 +24837,11 @@
 
 #### What is the national sport of Japan?
 
-- [x] Sumo wreslting
+- [x] Sumo wrestling
 - [ ] Karate
 - [ ] Judo
 
-#### In Empire Strike Back, what's the last thing Han sayas before steering into an asteroid field?
+#### In Empire Strike Back, what's the last thing Han says before steering into an asteroid field?
 
 - [ ] Never tell me the odds
 - [x] Chewie, set 271
@@ -33703,7 +33703,7 @@
 - [ ] 6 Months
 - [x] Five Years
 
-#### What Federation enemy once |assimilated" Captain Picard and turned him into Locutus on "Star Trek: The Next Generation"?
+#### What Federation enemy once "assimilated" Captain Picard and turned him into Locutus on "Star Trek: The Next Generation"?
 
 - [ ] Klingons
 - [x] Borg
@@ -36799,7 +36799,7 @@
 - [ ] Website
 - [x] Wall
 
-#### Which of these words describes the obervational illusion of directional change?
+#### Which of these words describes the observational illusion of directional change?
 
 - [x] Parallax
 - [ ] Refraction
@@ -55872,3 +55872,57 @@
 - [ ] Jeryn Hogarth
 - [x] Matt Murdock
 - [ ] Foggy Nelson
+
+#### What company made America's top-selling car in 1991?
+
+- [ ] Honda
+- [x] Little Tikes
+- [ ] Mattel
+
+#### "Can You Feel the Love Tonight" won an Academy Award for what singer?
+
+- [ ] Beyonce
+- [x] Elton John
+- [ ] Huey Lewis
+
+#### How many Hippos ae there in a standard Hungry, Hungry, Hippos game?
+
+- [x] Four
+- [ ] Eight
+- [ ] Twelve
+
+#### Of the 41 Broadway theaters how many of them are actually ON Broadway?
+
+- [x] 3
+- [ ] 7
+- [ ] 10
+
+#### If you're "putting pen to paper", what are you doing?
+
+- [x] Writing
+- [ ] Riding
+- [ ] Wriggling
+
+#### The boat may have sunk, but this James Cameron's epic about it floated to the top, winning the Oscar for Best Picture in 1998?
+
+- [ ] Braveheart
+- [ ] Wings
+- [x] Titanic
+
+#### Ingesting two tablespoons of what spice are said to be enough to trigger hallucinations?
+
+- [x] Nutmeg
+- [ ] Cinnamon
+- [ ] Saffron
+
+#### Who was the first king of Israel?
+
+- [ ] Abraham
+- [ ] David
+- [x] Saul
+
+#### The Aroostook War took place over the border of New Brunswick and what U.S. State?
+
+- [ ] Vermont
+- [x] Maine
+- [ ] New Hampshire
