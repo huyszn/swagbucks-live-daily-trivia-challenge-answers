@@ -55926,3 +55926,87 @@
 - [ ] Vermont
 - [x] Maine
 - [ ] New Hampshire
+
+#### Collecting what postal item peaked in popularity during the mid-20th Century?
+
+- [ ] Envelopes
+- [ ] Paper
+- [x] Stamps
+
+#### In collecting, which of the following implies a collectible is in the best possible condition?
+
+- [x] Gem Mint
+- [ ] Very Good
+- [ ] Fine
+
+#### The first baseball trading cards were promotional pieces for what item?
+
+- [ ] Spinach
+- [x] Tobacco
+- [ ] Airplanes
+
+#### Which of the following is NOT one of the original Beanie Babies?
+
+- [ ] Spot the Dog
+- [ ] Patti the Platypus
+- [x] Sherman Greenblatt, MD
+
+#### The 1849 Double Gold Eagle is the world's most valuable item in what collectible category?
+
+- [x] Coins
+- [ ] Postcards
+- [ ] Handkerchiefs
+
+#### Turntable record albums are generally made of what material?
+
+- [ ] Copper
+- [x] Vinyl
+- [ ] Felt
+
+#### A 1989 Fleer Baseball card featured what player with a swear word written on his bat?
+
+- [x] Billy Ripken
+- [ ] Jose Oquendo
+- [ ] Steve Jeltz
+
+#### Which of the following companies is known for making wristwatches?
+
+- [ ] Rolo
+- [ ] Rolls Royce
+- [x] Rolex
+
+#### Glitter or insoluble soap flakes are often used to simulate precipitation in which collectables?
+
+- [x] Snow Globes
+- [ ] Stickers
+- [ ] Pencil Sharpeners
+
+#### On "Sesame Street", what common office item does Bert collect?
+
+- [ ] Thumbtacks
+- [x] Paper Clips
+- [ ] Binders
+
+#### Which song is NOT by the rapper Logic?
+
+- [ ] Flexicution
+- [ ] Like Whoa
+- [x] Old Jeebus
+
+#### "Jingle Jangle: A Christmas Journey" centers around what kind of business?
+
+- [x] Toymaker
+- [ ] Actuary
+- [ ] Newspaper
+
+#### Which of the following is a type of programming language?
+
+- [ ] A-
+- [ ] B+
+- [x] C++
+
+#### Justin Timberlake was a member of which boy band?
+
+- [ ] Backstreet Boys
+- [ ] Menudo
+- [x] NSYNC
