@@ -56010,3 +56010,99 @@
 - [ ] Backstreet Boys
 - [ ] Menudo
 - [x] NSYNC
+
+#### Topps, Bowman, Fleer, and Upper Deck all manufacture and sell what collectible?
+
+- [x] Trading Cards
+- [ ] Milk
+- [ ] Concert Tickets
+
+#### Willow Tree sells figurines craved from what material?
+
+- [ ] Slime
+- [x] Resin
+- [ ] Fog
+
+#### In the beginning of "Back to the Future", Doc Brown's garage walls are adorned with multiple versions of what?
+
+- [x] Clocks
+- [ ] Wooden Owls
+- [ ] Macrame
+
+#### In "The Glass Menagerie", Laura has a collection of glass figurines. What do they resemble?
+
+- [ ] Buildings
+- [ ] People
+- [x] Animals
+
+#### What does a philatelist collect?
+
+- [ ] Coins
+- [x] Stamps
+- [ ] Toys
+
+#### In "Star Wars Episode III: Revenge of the Sith" what does General Grievous collect from fallen Jedi?
+
+- [x] Lightsabers
+- [ ] Braids
+- [ ] Robes
+
+#### Which basketball player's signature shoe, launched in 1985, is still highly collectible today?
+
+- [ ] Charles Barkley
+- [ ] Hakeem Olajuwon
+- [x] Michael Jordan
+
+#### The "Grand Watermelon" not sold at auction for $3.29 million. What denomination is the actual note?
+
+- [x] One thousand dollars 
+- [ ] One hundred dollars
+- [ ] Fifty dollars
+
+#### Which doll line has stores where you can take your doll to tea or to a salon for a haircut?
+
+- [ ] Barbie
+- [ ] Cabbage Patch Kids
+- [x] American Girl
+
+#### A signed 1934 ticket to what sporting event is valued at $600,000?
+
+- [ ] eSports World Championship
+- [ ] Pickleball Invitational
+- [x] The Masters
+
+#### Which musical act was NOT a headliner at Dick Clark's Rockin' Eve 2015?
+
+- [ ] Carrie Underwood
+- [ ] Luke Bryan
+- [x] Mariah Carey
+
+#### How old was King of Charles III when he was named Price of Wales?
+
+- [x] 9
+- [ ] 15
+- [ ] 21
+
+#### What is notable about physicist Jack Hetherington's co-author F.D.C. Willard?
+
+- [ ] He was an alternative personality
+- [x] He was a cat
+- [ ] He was a cartoon character
+
+#### In addition to playing Walt Disney, what other connection to him does Tom Hanks have?
+
+- [x] They related
+- [ ] His first job was for Disney
+- [ ] He worked at Disneyland
+
+#### Which of these foods is traditionally served on a stick?
+
+- [ ] Nachos
+- [ ] Popcorn
+- [x] Corn Dog
+
+#### The phrase "Do unto others as you would have them do uno you" is also known by what name?
+
+- [ ] The Golden Standard
+- [x] The Golden Rule
+- [ ] The Golden Oldie
