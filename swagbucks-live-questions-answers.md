@@ -44107,7 +44107,7 @@
 - [ ] Honolulu
 - [x] Little Rock
 
-#### In which Shakespearean tradedy does a character say "Et tu Brute"?
+#### In which Shakespearean tragedy does a character say "Et tu Brute"?
 
 - [x] Julius Caesar
 - [ ] Othello
@@ -56106,3 +56106,105 @@
 - [ ] The Golden Standard
 - [x] The Golden Rule
 - [ ] The Golden Oldie
+
+#### What company's line of vinyl "Pop!" figures is highly collectible?
+
+- [x] Funko
+- [ ] Parker Brothers
+- [ ] Sega
+
+#### Which of the following wine is a red wine?
+
+- [ ] Chardonnay
+- [x] Merlot
+- [ ] Sauvignon Blanc
+
+#### Which of these celebrities famously used a circle to dot the "i" in their autograph?
+
+- [x] Walt Disney
+- [ ] Elvis Presley
+- [ ] John Wayne
+
+#### As of February 2024, who appears on the most expensive baseball card ever sold?
+
+- [ ] Honus Wagner
+- [ ] Sandy Koufax
+- [x] Mickey Mantle
+
+#### In 2013, designers David and Phillipe Blond created a "Pink Diamond" version of which toy, valued at $15,000?
+
+- [ ] G.I. Joe
+- [x] Barbie
+- [ ] Transformers
+
+#### The Amazing Spider-Man issue 31 features what other heroes on the cover?
+
+- [ ] The Avengers
+- [x] The Fantastic Four
+- [ ] The Justice League
+
+#### Benicio del Toro plays Taneleer Tivan AKA The Collector in which film series?
+
+- [ ] The Fast and the Furious
+- [ ] Sex and the City
+- [x] The MCU
+
+#### What is the most expensive video game sold to collectors?
+
+- [x] Super Mario Bros
+- [ ] The Legend of Zelda
+- [ ] Tetris
+
+#### A 1931 "Dracula" movie poster is considered highly valuable. Who played Dracula in that movie?
+
+- [ ] Willem Dafoe
+- [ ] Gary Oldman
+- [x] Bela Lugosi
+
+#### What folk legend's second album has pressings that go for $15,000 or more?
+
+- [x] Bob Dylan
+- [ ] Machine Gun Kelly
+- [ ] Jelly Roll
+
+#### In "Alice in Wonderland", what has the Rabbit in a hurry?
+
+- [ ] He has to use the restroom
+- [ ] His stock took a dive
+- [x] He's late
+
+#### Which word is NOT mentioned in the lyrics to Limp Bizkit's Break Stuff?
+
+- [ ] Chainsaw
+- [x] Lunatic
+- [ ] Manic
+
+#### Which of these voice types sings in the highest register?
+
+- [ ] Bass
+- [ ] Alto
+- [x] Soprano
+
+#### What Star Wars Expended Universe Character's ship appears in the special edition of Episode IV?
+
+- [ ] Mara Jade
+- [x] Dash Rendar
+- [ ] Admiral Thrawn
+
+#### How fast did Han Solo claim to make the Kessel Run?
+
+- [ ] Less than 48 years
+- [ ] Less than 8 nights
+- [x] Less than 12 parsecs
+
+#### Which novel was the movie "Schindler's List" based on?
+
+- [ ] Schindler's List
+- [x] Schindler's Ark
+- [ ] Schindler's Choice
+
+#### What was the first country to picture Albert Einstein on its currency?
+
+- [ ] Austria
+- [ ] Switzerland
+- [x] Israel
