@@ -28783,7 +28783,7 @@
 - [ ] Dirty laundry
 - [ ] Your hair
 
-#### in 1911, what famous painting was stolen from the Louvre?
+#### In 1911, what famous painting was stolen from the Louvre?
 
 - [x] Mona Lisa
 - [ ] Starry Night
@@ -56208,3 +56208,81 @@
 - [ ] Austria
 - [ ] Switzerland
 - [x] Israel
+
+#### Hot Wheels with what feature on the wheels are considered highly collectable?
+
+- [x] A red line
+- [ ] The lyrics to "Stairway to Heaven"
+- [ ] A clown hat
+
+#### Which country owns the Mona Lisa?
+
+- [ ] Spain
+- [ ] England
+- [x] France
+
+#### In the 90s, kids traded and collected what plastic disks?
+
+- [ ] Kid Coinz
+- [x] Pogs
+- [ ] L'il Chippers
+
+#### Which of the following celebrities is known as an art collector?
+
+- [x] Steve Martin
+- [ ] Martin Short
+- [ ] Al Pacino
+
+#### Who appears on the cover of the most expensive comic book of all time?
+
+- [ ] Flash Gordon
+- [ ] Batman
+- [x] Superman
+
+#### Which 1980s toy line was scented?
+
+- [x] Strawberry Shortcake
+- [ ] My Buddy
+- [ ] Teddy Ruxpin
+
+#### Charlie Chaplin, James Earl Jones, and Patrick Dempsey have all publicly spoken about their love of collecting what?
+
+- [ ] Coins
+- [ ] Movie Posters
+- [x] Stamps
+
+#### Westmoreland Paneled Grape and Fenton Silver Crest are considered highly desirable to collectors of what items?
+
+- [x] Milk Glass
+- [ ] Watches
+- [ ] Jewelry
+
+#### As bonze and similar metals age, what is the term for the green or brown ilm that develops on the surface?
+
+- [ ] Yoda skin
+- [x] Patina
+- [ ] Dirt
+
+#### For a long time, packs of baseball card contained what consumable?
+
+- [ ] Aspirin
+- [ ] Mints
+- [x] Bubblegum
+
+#### In which game would you ask an opponent to "King you"?
+
+- [ ] Chess
+- [x] Checkers
+- [ ] Trouble
+
+#### The Scarab was a religious symbol to which ancient people?
+
+- [ ] Mayans
+- [x] Egyptians
+- [ ] Ottomans
+
+#### What Christmas song is heard at the beginning of "Lethal Weapon"?
+
+- [ ] Have Yourself A Merry Little Christmas
+- [ ] Rockin' Around the Christmas Tree
+- [x] Jingle Bell Rock
