@@ -56286,3 +56286,45 @@
 - [ ] Have Yourself A Merry Little Christmas
 - [ ] Rockin' Around the Christmas Tree
 - [x] Jingle Bell Rock
+
+#### Which two cities care featured in Charles Dickens' "A Tale of Two Cities"?
+
+- [ ] Luxembourg and Philadelphia
+- [x] London and Paris
+- [ ] Little Rock and Pittsburgh
+
+#### How many suits are in a standard deck of cards?
+
+- [ ] 52
+- [ ] 26
+- [x] 4
+
+#### Which of these food items allows you to blow bubbles?
+
+- [ ] Filet Mignon
+- [ ] Celery
+- [x] Bubble Gum
+
+#### What other puppet used the same eyes made the Chucky doll from "Child's Play"?
+
+- [ ] Yoda
+- [ ] The T-1000
+- [x] The Crypt Keeper
+
+#### Gene Kelly is best known for what kind of dancing?
+
+- [ ] Line Dancing
+- [ ] Krumping
+- [x] Tap Dancing
+
+#### What two particles reside inside a nucleus?
+
+- [ ] Atom and Dust
+- [x] Proton and Neutron
+- [ ] Salt and Pepper
+
+#### On "The Big Bang Theory" which character goes into space?
+
+- [ ] Sheldon Cooper
+- [ ] Bernadette Rostenkowski
+- [x] Howard Wolowitz
