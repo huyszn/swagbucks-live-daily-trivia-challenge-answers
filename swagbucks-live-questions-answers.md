@@ -15277,7 +15277,7 @@
 - [x] "I know Kung Fu"
 - [ ] "I Box now"
 
-#### Coffee, eucalyputs, methol, and flower are all failed flavors of what candy?
+#### Coffee, eucalyptus, menthol, and flower are all failed flavors of what candy?
 
 - [ ] Mentos
 - [ ] Life Savers
@@ -50681,7 +50681,7 @@
 
 - [ ] Honey Bunches of Oats
 - [x] Fruity Pebbles
-- [ ] French Toasst Crunch
+- [ ] French Toast Crunch
 
 #### Who are the enemies of Cap'n Crunch?
 
@@ -55369,7 +55369,7 @@
 - [ ] Tangled
 - [ ] Frozen
 
-#### Which WWE Hall of Famer Min Evented the first three WrestleManias?
+#### Which WWE Hall of Famer Main Evented the first three WrestleManias?
 
 - [x] Hulk Hogan
 - [ ] Bruno Sammartino
@@ -56328,3 +56328,33 @@
 - [ ] Sheldon Cooper
 - [ ] Bernadette Rostenkowski
 - [x] Howard Wolowitz
+
+#### What character shouts "Off with her head!"?
+
+- [x] The Queen of Hearts
+- [ ] Ursula
+- [ ] Cruella de Vil
+
+#### Which U.S. State is partially shaped like an oven mitt?
+
+- [ ] California
+- [ ] Hawaii
+- [x] Michigan
+
+#### Who was the composer for all 9 of the Skywalker Saga movies?
+
+- [x] John Williams
+- [ ] Biggie Smalls
+- [ ] "Weird" Al Yankoic
+
+#### In the original "Coming to America", how many roles did Eddie Murphy play?
+
+- [ ] Three
+- [x] Four
+- [ ] Five
+
+#### Which of these was NOT an edible item in the original Pacman?
+
+- [ ] Key
+- [x] Hammer
+- [ ] Bell
