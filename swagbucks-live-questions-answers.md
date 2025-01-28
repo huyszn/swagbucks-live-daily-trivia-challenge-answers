@@ -4893,7 +4893,7 @@
 #### The Oscar-winning song "Shallow" appeared in which film?
 
 - [x] A Star Is Born
-- [ ] Jugas and the Black Messiah
+- [ ] Judas and the Black Messiah
 - [ ] 8 Mile
 
 #### Daniel Whitney is better known by what name?
@@ -25131,7 +25131,7 @@
 
 #### The Cubs and White Sox are professional baseball teams that call which city their home?
 
-- [ ] Detriot
+- [ ] Detroit
 - [ ] New York
 - [x] Chicago
 
@@ -34693,7 +34693,7 @@
 - [x] Mark Twain
 - [ ] Logan Swanson
 
-#### Which Disney animated film takes place in Ancident Greece?
+#### Which Disney animated film takes place in Ancient Greece?
 
 - [x] Hercules
 - [ ] Tangled
@@ -46789,7 +46789,7 @@
 - [x] Bifocals
 - [ ] Blue Light Glasses
 
-#### Which of the following restaurant chains is a bufflet?
+#### Which of the following restaurant chains is a buffet?
 
 - [x] Golden Corral
 - [ ] Firehouse Subs
@@ -56358,3 +56358,129 @@
 - [ ] Key
 - [x] Hammer
 - [ ] Bell
+
+#### Which of the following shares its name with one of Noah's sons?
+
+- [x] Ham Tetrazzini
+- [ ] Graham Crackers
+- [ ] Sloppy Joe
+
+#### Which U.S. State is made up of a chain of islands?
+
+- [ ] Maine
+- [ ] Alaska
+- [x] Hawaii
+
+#### For three decades, Ella Slack has been a stand-in for what famous woman?
+
+- [ ] Barbra Streisand
+- [ ] Betty White
+- [x] Queen Elizabeth II
+
+#### Which video game system is made by Sony?
+
+- [ ] Xbox
+- [x] PlayStation 
+- [ ] Switch
+
+#### Mick Jagger's unique dance moves were taught to him by what other singer?
+
+- [ ] Elvis Presley
+- [x] Tina Turner
+- [ ] James Brown
+
+#### Domino's, Papa John's, and Little Caesars all primarily serve which dish?
+
+- [ ] Tacos
+- [x] Pizza
+- [ ] Cake
+
+#### Alecia Moore s the real name of what pop diva?
+
+- [ ] Lady Gaga
+- [x] P!nk
+- [ ] Madonna
+
+#### What animal appears on IZOD shirts?
+
+- [ ] Gorilla
+- [ ] Boa Constrictor
+- [x] Crocodile
+
+#### Mandarin is the official language of which country?
+
+- [ ] Spain
+- [x] China
+- [ ] Haiti
+
+#### "My Neighbor Totoro", "Howl's Moving Castle", and "Spirited Away" are all animated films from what studio?
+
+- [x] Studio Ghibli
+- [ ] Pixar
+- [ ] DreamWorks
+
+#### In Sudoku, what are you trying to arrange in a grid?
+
+- [ ] Letters
+- [x] Numbers
+- [ ] Pictures
+
+#### Malaco produces a food product called Swedish Fish. What kind of food product is it?
+
+- [ ] Bread
+- [x] Candy
+- [ ] Soup
+
+#### What is the name of Bruce Springsteen's backing group?
+
+- [ ] The Avenue X Band
+- [ ] The Holiday Road Band
+- [x] The E Street Band
+
+#### The Daschund was originally bred to hunt which animals?
+
+- [x] Badgers
+- [ ] Birds
+- [ ] Fish
+
+#### What American street is closely associated with Theater and Musicals?
+
+- [ ] Lombard Street
+- [ ] South Street
+- [x] Broadway
+
+#### Which of the following Emperors did NOT rule over the Roman Empire?
+
+- [x] Qin Shi Huang
+- [ ] Nero
+- [ ] Caligula
+
+#### What does Popeye do for a living?
+
+- [ ] Actuary
+- [ ] Tailor
+- [x] Sailor
+
+#### The Saturn Awards are given out to films in what three genres?
+
+- [ ] Romance Comedy and Docudrama
+- [x] Science Fiction, Fantasy and Horror
+- [ ] Normcore, Indie, Historical Drama
+
+#### How many members of the "Miracle on Ice" hockey team went on to play in the NHL?
+
+- [x] 13
+- [ ] 15
+- [ ] 20
+
+#### What cereal uses a leprechaun as their mascot?
+
+- [x] Lucky Charms
+- [ ] Cookie Crisp
+- [ ] Corn Pops
+
+#### In which Disney film does the "Sing Sweet Nightingale" appear?
+
+- [ ] Sleeping Beauty
+- [x] Cinderella
+- [ ] Snow White and the Seven Dwarfs
