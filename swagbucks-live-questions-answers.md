@@ -27388,7 +27388,7 @@
 #### Cyprus is a country that can be found in what body of water?
 
 - [ ] The Pacific Ocean
-- [x] The Mediterranea Sea
+- [x] The Mediterranean Sea
 - [ ] The Mississippi River
 
 #### According to Mental Floss, which of these dating tips is NOT in Casanova's autobiography?
@@ -42082,7 +42082,7 @@
 #### What does a Sucrologist collect?
 
 - [ ] Postcards
-- [x] Sugar packet
+- [x] Sugar packets
 - [ ] Candy
 
 #### In which country would you find traffic lights featuring Elvis and Karl Marx on the lights?
@@ -43123,7 +43123,7 @@
 - [x] Hawaii
 - [ ] Florida
 
-#### In 1493, what ceatures did Christopher Columbus mistake for mermaids?
+#### In 1493, what creatures did Christopher Columbus mistake for mermaids?
 
 - [x] Manatees
 - [ ] Horses
@@ -56484,3 +56484,99 @@
 - [ ] Sleeping Beauty
 - [x] Cinderella
 - [ ] Snow White and the Seven Dwarfs
+
+#### What series of NASA missions included the first Moon landing?
+
+- [ ] Mercury
+- [x] Apollo
+- [ ] Gemini
+
+#### What landmark sits on the Champ de Mars in Paris, France?
+
+- [ ] The London Tower
+- [x] The Eiffel Tower
+- [ ] St. Peter's Basilica
+
+#### What creature crossing your path is considered bad luck?
+
+- [ ] Walrus
+- [ ] Spider
+- [x] Black Cat
+
+#### Lucha Libre wrestling originated in which country?
+
+- [ ] Canada
+- [x] Mexico
+- [ ] Ireland
+
+#### What two ingredients are used in school science experiments to create a volcano?
+
+- [x] Vinegar and Baking Soda
+- [ ] Water and Oil
+- [ ] Fire and Rocks
+
+#### Which of the following puddings is savory?
+
+- [ ] Eton Mess
+- [x] Groaty Pudding
+- [ ] Figgy Pudding
+
+#### What kind of game is Dungeons & Dragons?
+
+- [ ] Deck-Building Game
+- [ ] Arithmetic Game
+- [x] Role Playing Game
+
+#### Which of the following video games directly led to the creation of the ESRB?
+
+- [ ] Resident Evil
+- [x] Mortal Kombat
+- [ ] Myst
+
+#### Buff Beer is a fictional brand that appears regularly on which animated show?
+
+- [ ] Bugs Bunny Builders
+- [ ] Adventure Time
+- [x] The Simpsons
+
+#### Which magazine is known for its socially and poticially satrical cartoons?
+
+- [x] The New Yorker
+- [ ] Popular Mechanics
+- [ ] Highlights for Children
+
+#### Dark Side of the Moon is an album by which band?
+
+- [ ] Bread
+- [x] Pink Floyd
+- [ ] Oingo Boingo
+
+#### The Detroit Lions, Green Bay Packers, and Chicago Bears all play in what sports league?
+
+- [ ] WFL
+- [x] NFL
+- [ ] XFL
+
+#### Which of the following tools would you use to smooth a rogue suface?
+
+- [ ] Miter saw
+- [x] Sander
+- [ ] Drill press
+
+#### John Elway, Dan Marino, and Peyton Manning all played what position?
+
+- [ ] Linebacker
+- [x] Quarterback
+- [ ] Safety
+
+#### Where would you be most likely to contact sphenopalatine ganglioneuralgia?
+
+- [ ] In a submarine
+- [x] Baskin-Robbins
+- [ ] In a sauna
+
+#### The store on Sesame Street is named for what former character?
+
+- [ ] Maria
+- [ ] Linda
+- [x] Mister Hooper
