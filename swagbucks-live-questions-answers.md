@@ -56580,3 +56580,93 @@
 - [ ] Maria
 - [ ] Linda
 - [x] Mister Hooper
+
+#### In which month do we celebrate Valentine's Day?
+
+- [ ] January
+- [x] February
+- [ ] March
+
+#### In "Back to the Future", what Doc Brown invention makes time travel possible?
+
+- [ ] Amplifier
+- [ ] Hoverboard
+- [x] Flux Capacitor
+
+#### DJ Jazzy Jeff and the Fresh Prince won the first ever Grammy in what category?
+
+- [ ] Jazz
+- [x] Rap
+- [ ] World Music
+
+#### Which of the folllowing movies does NOT pass the Bechdel Test?
+
+- [ ] Matilda
+- [ ] Alien
+- [x] Shrek
+
+#### Which of these Olympic events involves jumping?
+
+- [ ] Dressage
+- [x] Hurdles
+- [ ] Marathon
+
+#### Who has the single-season NBA record for Points per Game?
+
+- [x] Wilt Chamberlain
+- [ ] Michael Jordan
+- [ ] Kareem Abdul-Jabbar
+
+#### Which of the following gases is lighter than air?
+
+- [ ] Butane
+- [ ] Chlorine
+- [x] Helium
+
+#### The "fight or flight" response comes from which nervous system?
+
+- [x] Sympathetic
+- [ ] Parasympathetic
+- [ ] Enteric
+
+#### Where would you go to visit the Great Barrier Reef?
+
+- [ ] Hawaii
+- [ ] Greece
+- [x] Australia
+
+#### Which of these foods is typically measured by Scoville units?
+
+- [x] Hot Sauce
+- [ ] Breakfast Cereal
+- [ ] Milkshakes
+
+#### Where would you find a statue of a politician that's purposely upside down?
+
+- [ ] Russia
+- [ ] Canada
+- [x] Australia
+
+#### Dancer Richard Silver is responsible for choreographing which dance craze?
+
+- [x] The Electric Slide
+- [ ] Voquing
+- [ ] The Turkey Trot
+
+#### What singer had a hit with "All I Want For Christmas Is You?"
+
+- [ ] Jonh Lennon
+- [ ] Ariana Grande
+- [x] Mariah Carey
+
+#### Who was the first person to fly solo and non-stop across the Atlantic ocean?
+
+- [ ] Amelia Earhart
+- [ ] Chuck Teager
+- [x] Charles Lindbergh
+
+#### Which nation colonized Albany, NY as a trading post in 1614?
+
+- [x] The Netherlands
+- [ ] England
+- [ ] France
