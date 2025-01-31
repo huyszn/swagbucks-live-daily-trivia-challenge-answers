@@ -56670,3 +56670,63 @@
 - [x] The Netherlands
 - [ ] England
 - [ ] France
+
+#### Which of the following is a nickname given to The Beatles?
+
+- [x] The Fab Four
+- [ ] The Fantastic Four
+- [ ] The Fingerpicking Four
+
+#### Which of the Beatles was the main drummer?
+
+- [ ] John
+- [ ] George
+- [x] Ringo
+
+#### Complete this Beatles song title: "I Want to Hold Your..."
+
+- [x] Hand
+- [ ] Purse
+- [ ] Tongue
+
+#### In Peter Jackson's documentary series "Get Back", which Beatle walks out on the group in the first episode?
+
+- [ ] John
+- [x] George
+- [ ] Ringo
+
+#### Who insisted on listening to "Sgt. Pepper's Lonely Hearts Club Band" before giving permission to appear on the cover?
+
+- [ ] Bob Dylan
+- [ ] Marlon Brando
+- [x] Shirley Temple
+
+#### Which Beatles song subject "Picks up the rice in the church where a wedding has been"?
+
+- [ ] Lovely Rita
+- [x] Eleanor Rigby
+- [ ] Sexy Sadie
+
+#### Neil Aspinall, Tony Sherdian, and Murray the K have all laid claim to what Beatles-related title?
+
+- [ ] Manager
+- [ ] Producer
+- [x] The Fifth Beatle
+
+#### The final song performed during The Beatles 1966 tour was an homage to which artist?
+
+- [ ] Chuck Berry
+- [x] Little Richard
+- [ ] Elvis Presley
+
+#### Which Beatles album was the soundtrack to an animated film?
+
+- [ ] Help!
+- [x] Yellow Submarine
+- [ ] A Hard Day's Night
+
+#### On which variety show did The Beatles make their big American splash in 1964?
+
+- [ ] The Tonight Show
+- [ ] The Hollywood Palace
+- [x] The Ed Sullivan Show
