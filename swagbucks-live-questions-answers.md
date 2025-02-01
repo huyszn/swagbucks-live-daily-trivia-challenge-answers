@@ -28713,7 +28713,7 @@
 
 #### Which of these is a Hulu original documentary?
 
-- [ ] Exit Thhrough the Gift Shop
+- [ ] Exit Through the Gift Shop
 - [ ] Icarus
 - [x] Batman & Bill
 
@@ -56730,3 +56730,63 @@
 - [ ] The Tonight Show
 - [ ] The Hollywood Palace
 - [x] The Ed Sullivan Show
+
+#### Who was the first runner up in season one of American Idol?
+
+- [ ] Jennifer Hudson
+- [ ] Clay Aiken
+- [x] Justin Guarini
+
+#### What is a group of cats called?
+
+- [x] Clowder
+- [ ] Thingie
+- [ ] Pack
+
+#### The "Clifford" books are about a dog whose fur is what color?
+
+- [ ] Black and White
+- [x] Red
+- [ ] Green
+
+#### What color is Shrek?
+
+- [x] Green
+- [ ] Red
+- [ ] Blue
+
+#### Someone who's getting an opportunity to try something new is said to be getting what body part in the door?
+
+- [x] Foot
+- [ ] Hand
+- [ ] Nose
+
+#### In 2005 what store brand started using an "Easy" button in their ads?
+
+- [x] Staples
+- [ ] Office Depot
+- [ ] OfficeMax
+
+#### Ringling Bros and Barnum & Bailey were both famous for what type of entertainment?
+
+- [ ] Film
+- [x] Circus
+- [ ] Musicals
+
+#### Fanta is a brand of:
+
+- [ ] Cotton Candy
+- [x] Soda
+- [ ] Underwear
+
+#### Which celebrity couple got married on the Rock of Gibraltar on March 20, 1969?
+
+- [x] John Lennon and Yoko Ono
+- [ ] Richard Burton & Elizabeth Taylor
+- [ ] Duke of Windsor & Walls Simpson
+
+#### On March 1st, 1998, which film reached $1 Billion in worldwide box office?
+
+- [x] Titanic
+- [ ] Follow That Bird
+- [ ] Frank Stallone
