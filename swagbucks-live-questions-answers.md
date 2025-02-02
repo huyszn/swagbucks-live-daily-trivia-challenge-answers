@@ -43059,7 +43059,7 @@
 
 #### What does the "I" in an ISDN line stand for?
 
-- [x] Intergrated
+- [x] Integrated
 - [ ] Internal
 - [ ] International
 
@@ -56790,3 +56790,39 @@
 - [x] Titanic
 - [ ] Follow That Bird
 - [ ] Frank Stallone
+
+#### Which of these phrases refers to being dressed to perfection?
+
+- [x] To the nines
+- [ ] To the nines and the twos
+- [ ] To the elevens
+
+#### What is the term for the row of seats in the upper floor of a theater?
+
+- [ ] Baloney
+- [ ] Pit
+- [x] Balcony
+
+#### On which show do passengers in a car become surprise game show contestants?
+
+- [x] Cash Cab
+- [ ] Treasure Taxi
+- [ ] Loot Limo
+
+#### Which of these words is used to communicate hunger?
+
+- [x] Famished
+- [ ] Blemished
+- [ ] Berett
+
+#### What is the value of the geometric ratio made popular in Dan Brown's "Da Vinci Code"?
+
+- [ ] 1.414
+- [x] 1.618
+- [ ] 3.142
+
+#### What does the acronym ASAP stand for?
+
+- [x] As Soon As Possible
+- [ ] All Sails Are Portable
+- [ ] Are Snickers A Poly
