@@ -28621,7 +28621,7 @@
 - [ ] Los Angeles Rams
 - [ ] New Orleans Saints
 
-#### In which sport do the players typically wear helments?
+#### In which sport do the players typically wear helmets?
 
 - [x] Ice Hockey
 - [ ] Soccer
@@ -39436,7 +39436,7 @@
 #### In which U.S. State would you find a piece of land permanently leased to England?
 
 - [ ] New York
-- [ ] Virgina
+- [ ] Virginia
 - [x] North Carolina
 
 #### What would you use to measure atmospheric pressure?
@@ -43078,7 +43078,7 @@
 #### Who offered $1 Billion to anyone who could pick a perfect March Madness Bracket?
 
 - [ ] Elon Musk
-- [x] Warren Bufflett
+- [x] Warren Buffett
 - [ ] Mark Cuban
 
 #### Which of these States has a capital that starts with a vowel?
@@ -50559,7 +50559,7 @@
 
 #### Which of these animals lays eggs?
 
-- [ ] Giraffle
+- [ ] Giraffe
 - [x] Salmon
 - [ ] Squirrel
 
@@ -50575,7 +50575,7 @@
 - [ ] a-ha
 - [x] Tina Turner
 
-#### How are dogs commonly bellieved to kiss?
+#### How are dogs commonly believed to kiss?
 
 - [x] With their tongues
 - [ ] With their eyes
@@ -56826,3 +56826,99 @@
 - [x] As Soon As Possible
 - [ ] All Sails Are Portable
 - [ ] Are Snickers A Poly
+
+#### Which tool helps you measure the temperature?
+
+- [ ] Barometer
+- [x] Thermometer
+- [ ] Speedometer
+
+#### Who officiates baseball games?
+
+- [ ] Justices
+- [ ] Vampires
+- [x] Umpires
+
+#### What two features are longer on a hare than a rabbit?
+
+- [ ] Teeth & Whiskers
+- [x] Legs & Ears
+- [ ] Body & Tail
+
+#### Who was named the youngest "self-made billionaire ever" by Forbes in 2019?
+
+- [ ] Jojo Siwa
+- [ ] Taylor Swift
+- [x] Kylie Jenner
+
+#### Which of the following presidents was NOT in office during the 1990s?
+
+- [ ] George H.W. Bush
+- [ ] Bill Clinton
+- [x] George W. Bush
+
+#### Plato created the legend of what underwater city?
+
+- [x] Atlantis
+- [ ] Splashtown
+- [ ] Typhoon Lagoon
+
+#### Which of the following is a Steven Spielberg movie?
+
+- [ ] The Godfather: Part II
+- [x] Jaws
+- [ ] The Departed
+
+#### The first patent granted to an African-American was for what type of process?
+
+- [x] Cleaning
+- [ ] Agricultural
+- [ ] Manufacturing
+
+#### What is the primary ingredient in ratatouille?
+
+- [x] Vegetables
+- [ ] Lamb
+- [ ] Cream
+
+#### In 1986, over 6 million Americans joined together to help the homeless in what charity event?
+
+- [ ] Hands Across The Street
+- [ ] Hand Me That Wrench
+- [x] Hands Across America
+
+#### Jim Carrey was a breakout star on what network sketch series?
+
+- [x] In Living Color
+- [ ] Fridays
+- [ ] The State
+
+#### Which style of underwear is LEAST revealing?
+
+- [x] Bikini
+- [ ] Tanga
+- [ ] Thong
+
+#### Boris Yeltsin was the first elected president of which country?
+
+- [ ] Egypt
+- [ ] Croatia
+- [x] Russia
+
+#### What 1994 Quentin Tarantino film is credited with reviving the career of John Travolta?
+
+- [ ] Reservoir Dogs
+- [ ] Jackie Brown
+- [x] Pulp Fiction
+
+#### Which actor had to turn down a lead role in "Clueless"?
+
+- [ ] Reese Witherspoon
+- [x] Sarah Michelle Gellar
+- [ ] Angelina Jolie
+
+#### Which of the following is NOT a common filling for a donut?
+
+- [ ] Jelly
+- [x] Sardines
+- [ ] Bavarian Cream
