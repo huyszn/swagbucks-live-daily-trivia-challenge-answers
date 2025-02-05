@@ -56922,3 +56922,123 @@
 - [ ] Jelly
 - [x] Sardines
 - [ ] Bavarian Cream
+
+#### Which was NOT the name of a team from the All-American Girls Professional Baseball League?
+
+- [ ] Chicks
+- [x] Gals
+- [ ] Millerettes
+
+#### What cereal calls itself "The Breakfast of Champions"?
+
+- [ ] Froot Loops
+- [ ] Golden Grahams
+- [x] Wheaties
+
+#### September 4th, 476 A.D. is the date of what historic event?
+
+- [ ] First TV broadcast
+- [ ] U.S. Civil War Begins
+- [x] End of the Western Roman Empire
+
+#### Who built the Mongol Empire?
+
+- [x] Genghis Khan
+- [ ] Julius Caesar
+- [ ] William the Conqueror
+
+#### Which of the following artists lived and created during the High Renaissance?
+
+- [ ] Pablo Picasso
+- [x] Leonardo da Vinci
+- [ ] Georgia O'Keeffe
+
+#### "Gotta catch 'em all" is the slogan for what game?
+
+- [ ] Grand Theft Auto
+- [ ] Dungeons & Dragons
+- [x] Pokémon
+
+#### Which State is known as the "Land of 10,000 Lakes"?
+
+- [ ] Maine
+- [x] Minnesota
+- [ ] Michigan
+
+#### Which former WWE superstar appears in Marvel's Guardians of the Galax?
+
+- [ ] Dwayne Johnson
+- [ ] The Undertake
+- [x] Dave Bautista
+
+#### Which of the following bands is named after a teacher?
+
+- [ ] Pink Floyd
+- [x] Lynyrd Skynyrd
+- [ ] Hootie & The Blowfish
+
+#### What kind of animal can win a racing Triple Crown?
+
+- [ ] Fox
+- [ ] Ostrich
+- [x] Horse
+
+#### What sport is central to the movies "Kingpin" and "The Big Lebowski"?
+
+- [ ] Tennis
+- [ ] Chess
+- [x] Bowling
+
+#### What video game has an alternative ending that reveals a dog pulling levers in a control room was behind everything?
+
+- [x] Silent Hill 2
+- [ ] Doom 3
+- [ ] Metroid
+
+#### Which of the following brands is mainly known for condiments?
+
+- [ ] Planters
+- [ ] Doritos
+- [x] Heinz
+
+#### Which country singer released a live album recorded at Folsom Prison?
+
+- [ ] Hank Williams, Sr.
+- [x] Johnny Cash
+- [ ] Kris Kristofferson
+
+#### Which of these foods are deep fried?
+
+- [ ] Applesauce
+- [ ] Chili
+- [x] Mozzarella sticks
+
+#### Which of the following foods is a starch?
+
+- [x] Potato
+- [ ] London Broil
+- [ ] Chicken wing
+
+#### In 2018, Olympic Figure Skating allowed what for the first time?
+
+- [ ] Use of the Walls
+- [ ] Handstands
+- [x] Music with vocals
+
+#### Who was the last major-party U.S. Presidential candidate that had facial hair while running?
+
+- [ ] Charles Evans Hughes
+- [ ] Al Gore
+- [x] Thomas Dewey
+
+#### Plantains most closely resemble which fruit?
+
+- [x] Bananas
+- [ ] Kiwis
+- [ ] Apples
+
+#### In golf, which of these shots is the best?
+
+- [ ] Eagle
+- [ ] Birdie
+- [x] Hole-in-One
