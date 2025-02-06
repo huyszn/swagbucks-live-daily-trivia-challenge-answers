@@ -6894,7 +6894,7 @@
 - [x] Endangered
 - [ ] Ensnared
 
-#### What kind of transmissino requires the use of a clutch pedal?
+#### What kind of transmission requires the use of a clutch pedal?
 
 - [ ] Automatic
 - [ ] Tiptronic
@@ -22789,7 +22789,7 @@
 - [ ] Where the Wild Things Are
 - [x] The Little Prince
 
-#### Which ofthe following reality shows is a wilderness survival contest?
+#### Which of the following reality shows is a wilderness survival contest?
 
 - [ ] American Chopper
 - [ ] Miz & Mrs.
@@ -57042,3 +57042,141 @@
 - [ ] Eagle
 - [ ] Birdie
 - [x] Hole-in-One
+
+#### The world's oldest depiction of an animal is a drawing of a what?
+
+- [ ] Tiger
+- [x] Pig
+- [ ] Fish
+
+#### Which of these instruments is also known as "The Sweet Potato"?
+
+- [ ] Gourd
+- [x] Ocarina
+- [ ] Bagpipes
+
+#### Who originally played Oi Wan Kenobi in Star Wars?
+
+- [ ] Sir Ian McKellen
+- [x] Sir Alec Guinness
+- [ ] Sir Christopher Lee
+
+#### Which European city is the headquarters for OPEC?
+
+- [x] Vienna
+- [ ] Paris
+- [ ] Geneva
+
+#### What position in chess results in win for one player?
+
+- [ ] Stalemate
+- [x] Checkmate
+- [ ] Playmate
+
+#### Which country would you visit to dine at the horror-themed restaurant "Witches In Britches"?
+
+- [x] Australia
+- [ ] England
+- [ ] Romania
+
+#### According to the aphorism, what makes the heart grow fonder?
+
+- [ ] Chili
+- [ ] Sewing
+- [x] Absence
+
+#### In "Oliver Twist", the main character gets in trouble at the workhouse by asking for more what?
+
+- [ ] Clothing
+- [x] Gruel
+- [ ] Attention
+
+#### What desert music festival is held annually in California?
+
+- [x] Coachella
+- [ ] Playerchella
+- [ ] Fanchella
+
+#### The Squatch was once the mascot for which NBA franchise?
+
+- [ ] Vancouver Grizzlies
+- [x] Seattle Supersonics
+- [ ] Denver Nuggets
+
+#### Which Harry Potter star appeared on Broadway in "How To Succeed in Business Without Really Trying" and "Merrily We Roll Along"?
+
+- [x] Daniel Radcliffe
+- [ ] Robbie Coltrane
+- [ ] Warwick Davis
+
+#### Newborn babies only see three colors: black, white, and what third color?
+
+- [x] Red
+- [ ] Blue
+- [ ] Yellow
+
+#### What is the standard shape of a NASCAR track?
+
+- [ ] Rectangle
+- [x] Oval
+- [ ] Serpentine
+
+#### What year did development on Disney's "Frozen" begin?
+
+- [x] 1937
+- [ ] 1994
+- [ ] 2003
+
+#### What kind of food is rigatoni?
+
+- [ ] Steak
+- [ ] Root Vegetable
+- [x] Pasta
+
+#### In "Cyrano De Bergerac", what oversized body part fills him with self doubt?
+
+- [ ] Eyebrows
+- [x] Nose
+- [ ] Pinky Toe
+
+#### Complete this famous phrase: "I Came, I Saw, I..."
+
+- [ ] Ate a cheeseburger
+- [x] Conquered
+- [ ] Napped
+
+#### Complete this Kelis lyric: "My _______ brings all the boys to the yard"
+
+- [x] Milkshake
+- [ ] Portfolio
+- [ ] Hard Work
+
+#### Approximately how many muscles do you use when you talk?
+
+- [x] 100
+- [ ] 250
+- [ ] 1000
+
+#### When translated from German, which bread mean "farting devil"?
+
+- [x] Pumpernickel
+- [ ] Stollen
+- [ ] Pretzel
+
+#### George Clooney appeared in a series of ads for which company?
+
+- [x] Nespresso
+- [ ] Burger King
+- [ ] United Skates of America
+
+#### For two decades, Russ Leatherman was the voice of what famous service?
+
+- [ ] AOL
+- [x] Moviefone
+- [ ] Garmin GPS
+
+#### The story "Sun, Moon & Talia" is better known today as what?
+
+- [x] Sleepy Beauty
+- [ ] Snow White
+- [ ] Cinderella
