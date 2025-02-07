@@ -57180,3 +57180,81 @@
 - [x] Sleepy Beauty
 - [ ] Snow White
 - [ ] Cinderella
+
+#### Which awards are given out for excellence in TV?
+
+- [ ] Oscars
+- [x] Emmys
+- [ ] Grammys
+
+#### Les Paul is famous for his design of what instrument?
+
+- [x] Guitar
+- [ ] Harp
+- [ ] Xylophone
+
+#### Of the following rulers, whose empire conquered the most land?
+
+- [ ] Cleopatra
+- [x] Genghis Khan
+- [ ] Tutankhamun
+
+#### In 2024, a Scottish seaside food shack offered insurance against which creatures?
+
+- [ ] Snakes
+- [x] Seagulls
+- [ ] Rats
+
+#### Approximately how long did the Chrysler Building hold the title of "World's Tallest Building"?
+
+- [x] 11 months
+- [ ] 4 weeks
+- [ ] 2 years
+
+#### Which of the following athletes is known for playing two professional sports at the same time?
+
+- [ ] Wayne Gretzky
+- [x] Bo Jackson
+- [ ] Larry Bird
+
+#### Ptolemy was the first person to create maps using what?
+
+- [x] Math
+- [ ] Paper
+- [ ] Individual Countries
+
+#### "Shawfowl" is another name for what?
+
+- [x] Scarecrow
+- [ ] Chicken
+- [ ] Quilt
+
+#### Which of the following people has NOT been an NBA 2K cover athlete?
+
+- [ ] Michael Jordan
+- [ ] Kobe Bryant
+- [x] Joe Montana
+
+#### Which famous Jennifer has NOT been married to Ben Affleck?
+
+- [x] Jennifer Aniston
+- [ ] Jennifer Garner
+- [ ] Jennifer Lope
+
+#### Which of the following terms refers to a fear of heights?
+
+- [ ] Ghostophobia
+- [ ] Thermphobia
+- [x] Acropobia
+
+#### Which of the following words is a synonym for "weird"?
+
+- [ ] Standard
+- [x] Strange
+- [ ] Average
+
+#### On what planet do we first meet Rey?
+
+- [ ] Mars
+- [ ] Hoth
+- [x] Jakku
