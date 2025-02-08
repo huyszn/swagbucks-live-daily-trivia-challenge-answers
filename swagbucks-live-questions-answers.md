@@ -57258,3 +57258,45 @@
 - [ ] Mars
 - [ ] Hoth
 - [x] Jakku
+
+#### What is Britney Spears' middle name?
+
+- [x] Jean
+- [ ] Lynn
+- [ ] Marie
+
+#### In which game do you make drawings to get your team to guess answers?
+
+- [ ] Trivial Pursuit
+- [ ] Monopoly
+- [x] Pictionary
+
+#### What is the term for a number of chemical events triggered by the same initial event?
+
+- [ ] Rope Reaction
+- [x] Link Rection
+- [ ] Chain Reaction
+
+#### In which movie would you find a female lead named after a US State?
+
+- [x] Honeymoon in Vegas
+- [ ] True Romance
+- [ ] Silver Linings Playbook
+
+#### What piece do you put in "Check" during a game of Chess?
+
+- [ ] Rook
+- [x] King
+- [ ] Pawn
+
+#### The Black Panther is the king of what African nation?
+
+- [x] Wakanda
+- [ ] Egypt
+- [ ] Ghana
+
+#### The dish Lasagna originally comes from Italy. Where does the word Lasagna come from?
+
+- [x] Greece
+- [ ] Italy
+- [ ] France
