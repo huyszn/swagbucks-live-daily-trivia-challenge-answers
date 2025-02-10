@@ -33364,7 +33364,7 @@
 #### On what show did Kermit the Frog make his first TV appearance?
 
 - [ ] The Jimmy Dean Show
-- [x] Sam and Freinds
+- [x] Sam and Friends
 - [ ] The Tonight Show
 
 #### The Doozers are constantly having their buildings eaten by who?
@@ -57300,3 +57300,33 @@
 - [x] Greece
 - [ ] Italy
 - [ ] France
+
+#### What famous mother writes children's books with her daughter?
+
+- [x] Julie Andrews
+- [ ] Hillary Clinton
+- [ ] Rosie O'Donnell
+
+#### If a diner waitress asks the cook for "Fish Eyes", what does she want?
+
+- [ ] Over Easy Eggs
+- [ ] Black-Eyed Peas
+- [x] Tapioca Pudding
+
+#### Complete this eco-friendly catchphrase from Woodsy Owl: "Give a hoot..."
+
+- [x] Don't Pollute
+- [ ] Learn the Flute
+- [ ] Fix your Boot
+
+#### Who was the original target market for the modern T-Shirt?
+
+- [ ] Children
+- [ ] Construction workers
+- [x] Unmarried men
+
+#### Which U.S. president could have been the first to play "The Game of Life" in the White House?
+
+- [ ] Woodrow Wilson
+- [x] James Buchanan
+- [ ] Herbert Hoover
