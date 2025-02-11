@@ -44863,7 +44863,7 @@
 - [ ] Mickey Mouse
 - [ ] Julie Andrews
 
-#### Accoridng to Time, during the Christmas Truce of 1914 what song did the French, English, and German troops first sing together?
+#### According to Time, during the Christmas Truce of 1914 what song did the French, English, and German troops first sing together?
 
 - [ ] O Holy Night
 - [ ] Joy to the World
@@ -44875,7 +44875,7 @@
 - [ ] The Owl
 - [x] The Parrot
 
-#### In "The Very Hungry Catepillar", which of the following foods is NOT eaten?
+#### In "The Very Hungry Caterpillar", which of the following foods is NOT eaten?
 
 - [ ] Apple
 - [x] Flamin' Hot Cheetos
@@ -57330,3 +57330,111 @@
 - [ ] Woodrow Wilson
 - [x] James Buchanan
 - [ ] Herbert Hoover
+
+#### The Mediterranean island of Crete is part of what country?
+
+- [ ] Italy
+- [ ] France
+- [x] Greece
+
+#### Bruce Springsteen sings "Born in the..." what?
+
+- [x] USA
+- [ ] Hospital
+- [ ] 1920s
+
+#### In which month does the United States celebrate Labor Day?
+
+- [ ] July
+- [x] September
+- [ ] November
+
+#### What is the name of the big red dog with his own series of children's books?
+
+- [x] Clifford
+- [ ] Claxton
+- [ ] Clint
+
+#### Which of the following is NOT a standard token in regular Monopoly?
+
+- [ ] Scottie Dog
+- [ ] Top Hat
+- [x] Banana
+
+#### In shopping a "2 for 1" deal can also be described using what term?
+
+- [x] BOGO
+- [ ] TTYL
+- [ ] ROFL
+
+#### What is the Jolly Green Giant's catchphrase?
+
+- [ ] Tee Hee Hee
+- [ ] Har Dee Har Har
+- [x] Ho Ho Ho
+
+#### What body of water is located at the lowest point on Earth?
+
+- [x] The Dead Sea
+- [ ] Lake Michigan
+- [ ] The Atlantic Ocean
+
+#### Anthropology is the study of what?
+
+- [ ] Cattle diseases
+- [x] Human societies and cultures
+- [ ] Electricity
+
+#### The song "You Suffer" by Napalm Death holds what distinction?
+
+- [ ] Loudest song
+- [x] Shortest song
+- [ ] Longest song
+
+#### In 2023, who announced their retirement from hosting "Wheel of Fortune"?
+
+- [ ] Bob Baker
+- [ ] Drew Carey
+- [x] Pat Sajak
+
+#### The Disney+ series "Agatha All Along" is set in which universe?
+
+- [ ] Pixar
+- [x] Marvel
+- [ ] Star Wars
+
+#### In "Peanuts", what instrument does Schroeder play?
+
+- [x] Piano
+- [ ] Guitar
+- [ ] Drums
+
+#### Which actress once appeared on the cover of a Baby-Sitters Club book?
+
+- [x] Kirsten Dunst
+- [ ] Winona Ryder
+- [ ] Shannen Doherty
+
+#### "Tote'm Store" was an early nickname for what chain?
+
+- [ ] Walmart
+- [ ] ampm
+- [x] 7-Eleven
+
+#### On "The Golden Girls", who is Dorothy's mother?
+
+- [x] Sophia
+- [ ] Rose
+- [ ] Blanche
+
+#### Which of the following board games has spaces named after the streets of Atlantic City?
+
+- [x] Monopoly
+- [ ] Axis and Allies
+- [ ] Candyland
+
+#### Which State's capital has the smallest population?
+
+- [x] Vermont
+- [ ] New Hampshire
+- [ ] Delaware
