@@ -9504,7 +9504,7 @@
 - [ ] Green
 - [ ] Red
 
-#### What basketball legend is known as His Royal Airness?
+#### What basketball legend is known as His Royal Airiness?
 
 - [x] Michael Jordan
 - [ ] Brian Williams
@@ -31935,7 +31935,7 @@
 
 #### Mel Gibson won an Oscar for directing what movie?
 
-- [ ] Paback
+- [ ] Payback
 - [ ] Apocalypto
 - [x] Braveheart
 
@@ -38425,7 +38425,7 @@
 - [x] Heel
 - [ ] Strap
 
-#### Which of these dishes is traditonally served in a flour or corn tortilla?
+#### Which of these dishes is traditionally served in a flour or corn tortilla?
 
 - [x] Taco
 - [ ] Sloppy Joe
@@ -57438,3 +57438,105 @@
 - [x] Vermont
 - [ ] New Hampshire
 - [ ] Delaware
+
+#### What s the term for the study of maps?
+
+- [x] Cartography
+- [ ] Paperography
+- [ ] Foldography
+
+#### Which of the following famous sounds is NOT trademarked?
+
+- [ ] The Mockingjay Whistle
+- [ ] New York Stock Exchange Bell
+- [x] The Wilhelm Scream
+
+#### Which city is known as "The City That Never Sleeps"?
+
+- [x] New York City
+- [ ] London
+- [ ] Paris
+
+#### If Lady Liberty ordered Nikes through Swagbucks, what size sneakers would she order?
+
+- [ ] 770
+- [x] 879
+- [ ] 923
+
+#### Before taking on the mantle of Captain America, by what hero name was Sam Wilson known?
+
+- [x] Falcon
+- [ ] Pigeon
+- [ ] Buzzard
+
+#### What weapon does Clint Barton, AKA Hawkeye, use most frequently?
+
+- [ ] Whip
+- [ ] Knives
+- [x] Bow and Arrows
+
+#### Who makes Spider-Man's web fluid in the MCU movies?
+
+- [x] Peter Parker
+- [ ] Tony Stark
+- [ ] Vulture
+
+#### In the MCU, the actual Mandarin is the father of which Marvel hero?
+
+- [ ] The Winter Solider
+- [x] Shang-Chi
+- [ ] Black Widow
+
+#### In the MCU, before getting her superpowers what did Carol Danvers, AKA Captain Marvel, do for a living?
+
+- [ ] Accountant
+- [ ] Electrician
+- [x] Pilot
+
+#### What rally carry is finally spoken aloud by Captain America in "Avengers: Endgame"?
+
+- [x] Avengers Assemble!
+- [ ] Avengers, Get Over Here!
+- [ ] Where My Avengers At
+
+#### Which of the following MCU films did not take place during "Fury's Big Week"?
+
+- [ ] Thor
+- [x] Iron Man
+- [ ] The Incredible Hulk
+
+#### How many different versions of Spider-Man appeared in "Spider-Man: No Way Home"?
+
+- [x] Three
+- [ ] Ten
+- [ ] Eight Hundred
+
+#### In both the MCU and Norse mythology, where does Thor come from?
+
+- [ ] Wakanda
+- [ ] Skovia
+- [x] Asgard
+
+#### What is the name of Deadpool's pet dog?
+
+- [x] Dogpool
+- [ ] Scruffy
+- [ ] Lassie
+
+#### Where would you go to visit Stonehenge?
+
+- [x] England
+- [ ] France
+- [ ] Egypt
+
+#### James T. Kirk and Jean-Lc Picard have both been captain of what TV and movie starship?
+
+- [ ] Millennium Falcon
+- [x] Enterprise
+- [ ] Jupiter-Mothership
+
+#### In which city do the NFL's Steelers play?
+
+- [ ] Philadelphia
+- [x] Pittsburgh
+- [ ] Cleveland
