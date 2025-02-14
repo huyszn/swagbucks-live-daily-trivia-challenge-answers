@@ -28177,7 +28177,7 @@
 - [ ] Paul McCartney
 - [x] John Lennon
 
-#### Who is the villian in the Nightmare on Elm Street movies?
+#### Who is the villain in the Nightmare on Elm Street movies?
 
 - [ ] Jason Voorhees
 - [ ] Pinhead
@@ -35203,9 +35203,9 @@
 - [x] Snow White
 - [ ] The Lion King
 
-#### Jimmmy Page, John Paul Jones, Robert Plant, and John Bonham made up what rock band?
+#### Jimmy Page, John Paul Jones, Robert Plant, and John Bonham made up what rock band?
 
-- [ ] Starwberry Alarm Clock
+- [ ] Strawberry Alarm Clock
 - [ ] The Band
 - [x] Led Zeppelin
 
@@ -47647,7 +47647,7 @@
 - [x] Hannah Montana
 - [ ] Lizzie McGuire
 
-#### "Entourage" is lossely based on the real-life experiences of which celebrity, who serves as executive producer?
+#### "Entourage" is loosely based on the real-life experiences of which celebrity, who serves as executive producer?
 
 - [x] Mark Wahlberg
 - [ ] Ryan Reynolds
@@ -49749,7 +49749,7 @@
 
 #### Which member of the Avengers gets their powers from the Super Soldier Serum?
 
-- [ ] Captaiun America
+- [ ] Captain America
 - [ ] The Scarlet Witch
 - [x] Iron Man
 
@@ -56599,7 +56599,7 @@
 - [x] Rap
 - [ ] World Music
 
-#### Which of the folllowing movies does NOT pass the Bechdel Test?
+#### Which of the following movies does NOT pass the Bechdel Test?
 
 - [ ] Matilda
 - [ ] Alien
@@ -57540,3 +57540,209 @@
 - [ ] Philadelphia
 - [x] Pittsburgh
 - [ ] Cleveland
+
+#### What insect lives in large groups called colonies?
+
+- [ ] Cockroaches
+- [x] Ants
+- [ ] Flies
+
+#### In which sport are points awarded by judges?
+
+- [ ] Baseball
+- [ ] Golf
+- [x] Figure Skating
+
+#### John Bonham, Robert Plant, Jimmy Page and John Paul Jones were the founding members of what rock band?
+
+- [ ] The Who
+- [ ] The Guess Who
+- [x] Led Zeppelin
+
+
+#### What do the Senate House Library, New York Library, and State Library Victoria have in common?
+
+- [ ] They have the exact same number of books
+- [x] They're rumored to be haunted
+- [ ] They were built by the same person
+
+
+#### Squidward is a character on what animated series?
+
+- [x] SpongeBob SquarePants
+- [ ] Rugrats
+- [ ] Hey Arnold!
+
+
+#### In the 70s Washington, D.C.'s NFL team sent scouts to assess which celebrity's physical prowess?
+
+- [ ] Arnold Schwarzenegger
+- [ ] Wilt Chamberlain
+- [x] Andre The Giant
+
+
+#### What kind of bread loaf is often hollowed out to make a soup bowl?
+
+- [x] Sourdough
+- [ ] Focaccia
+- [ ] Brioche
+
+
+#### Which of the following would cause sphenopalatine ganglioneuralgia?
+
+- [ ] Sleeping
+- [ ] A massage
+- [x] Eating ice cream
+
+
+#### In "Calvin and Hobbes", what is Hobbes?
+
+- [x] A Stuffed Tiger
+- [ ] An Ogre
+- [ ] A Pirate
+
+
+#### Which toy line comes packaged in eggs?
+
+- [x] Hatchimals
+- [ ] Polly Pocket
+- [ ] Bratz
+
+
+#### Which social media service has a camera in its logo?
+
+- [x] Instagram
+- [ ] LinkedIn
+- [ ] Facebook
+
+#### What is the name of the Matterhorn's Abominable Snowman?
+
+- [ ] Matty
+- [x] Harold
+- [ ] Snowy
+
+#### Which of these was a nickname for Frank Sinatra?
+
+- [x] Chairman of the Board
+- [ ] Chief Financial Officer
+- [ ] Director of IT
+
+#### In a game of Limbo, what are the players trying to do?
+
+- [x] Go under the stick
+- [ ] Go over the stick
+- [ ] Break the stick
+
+#### What is the easternmost U.S. state?
+
+- [ ] Maine
+- [x] Alaska
+- [ ] Florida
+
+#### Which of the following musical instruments has a mouthpiece?
+
+- [ ] Snare drum
+- [x] Clarinet
+- [ ] Violin
+
+#### According to legend, what did young George Washington chop down?
+
+- [ ] A Money Tree
+- [ ] The Learning Tree
+- [x] A Cherry Tree
+
+#### What NBC sitcom was about a bar in Boston?
+
+- [x] Cheers
+- [ ] Full House
+- [ ] Boston Legal
+
+#### Which "Friends" couple argued about whether or not they were "on a break"?
+
+- [x] Ross & Rachel
+- [ ] Phoebe & Joe
+- [ ] Candler & Monica
+
+#### On "The Office", Andy and Dwight were in a love triangle with which co-worker?
+
+- [ ] Pam
+- [x] Angela
+- [ ] Kelly
+
+#### Which of the following TV couple were played by a real-life married couple?
+
+- [ ] Ray and Debra Barone
+- [ ] Herman and Lil Munster
+- [x] Lucy & Ricky Ricardo
+
+#### On "The Addams Family", what language did Morticia speak to drive Gomez wild?
+
+- [ ] Italian
+- [x] French
+- [ ] Spanish
+
+#### When Leslie sends Ben on a scavenger hunt in "Parks and Recreation", where does he final clue lead him?
+
+- [x] The Li'l Sebastian Memorial
+- [ ] The Parks Department
+- [ ] JJ's Diner
+
+#### A "Will they or won't they" relationship between Cybill Shepherd and Bruce Wills was central to which how?
+
+- [ ] NYPD Blue
+- [x] Moonlighting
+- [ ] Mayberry R.F.D.
+
+#### On "Brooklyn Nine-Nine", Captain Holt's husband has a name that sounds very similar to what famous actor
+
+- [ ] Tom Cruise
+- [ ] Wesley Snipes
+- [x] Kevin Costner
+
+#### On "The Office", where did Jim propose to Pam?
+
+- [ ] In the break room
+- [x] At a gas station
+- [ ] At Niagara Falls
+
+#### Luke and Lara are a famous on-screen couple from which American soap opera?
+
+- [ ] Passions
+- [ ] All My Children
+- [x] General Hospital
+
+#### On "The Muppet Show", which character was in love with Kermit?
+
+- [x] Miss Piggy
+- [ ] Janice
+- [ ] Camilla
+
+#### Who was NOT an actress in The Sisterhood of the Traveling Pants?
+
+- [ ] America Ferrera
+- [ ] Blake Lively
+- [x] Goldie Hawn
+
+#### Which of these heroes is a member of The Avengers?
+
+- [ ] Spawn
+- [ ] Batman
+- [x] The Hulk
+
+#### In the DJing world, scratching is done on what piece of equipment?
+
+- [ ] Drums
+- [ ] Microphone
+- [x] Turntable
+
+#### Who did Ginger Spice credit as the original proponent of "Girl Power"?
+
+- [ ] Gloria Steinem
+- [ ] Queen Elizabeth II
+- [x] Margaret Thatcher
+
+#### Which of these desserts is typically filled with a sweet creamy filling?
+
+- [x] Cannoli
+- [ ] Banana Bread
+- [ ] Chocolate Chip Cookie
