@@ -34315,7 +34315,7 @@
 - [ ] Bag
 - [x] Tin Can
 
-#### Someone with a positive apporoach to solutions is said to have a "what"-do attitude?
+#### Someone with a positive approach to solutions is said to have a "what"-do attitude?
 
 - [ ] Will
 - [x] Can
@@ -34327,7 +34327,7 @@
 - [ ] Condominium
 - [ ] Yurt
 
-#### If you're planning to do somehtings that's much more complicated that you realize, you're opening a ___ of worms
+#### If you're planning to do somethings that's much more complicated that you realize, you're opening a ___ of worms
 
 - [ ] Tube
 - [x] Can
@@ -57746,3 +57746,39 @@
 - [x] Cannoli
 - [ ] Banana Bread
 - [ ] Chocolate Chip Cookie
+
+#### Which of the following terms refers to a measure of the rate at which work is done?
+
+- [x] Horsepower
+- [ ] Malleability
+- [ ] Viscosity
+
+#### Finish this Dr. Seuss book title: "One Fish, Two Fish, Red Fish,..."
+
+- [ ] Filet-O-Fish
+- [ ] Deep Sea Fish
+- [x] Blue Fish
+
+#### What is the term for a bicycle for two people?
+
+- [ ] Tricycle
+- [x] Tandem
+- [ ] Unicycle
+
+#### 1066 is the year of what historical event?
+
+- [x] The Battle of Hastings
+- [ ] World War I
+- [ ] The Spanish Inquisition
+
+#### How many colored stickers appeared on a standard Rubik's Cube?
+
+- [ ] 36
+- [x] 54
+- [ ] 72
+
+#### How many rings are there in the Olympic logo?
+
+- [ ] One
+- [x] Five
+- [ ] Twenty
