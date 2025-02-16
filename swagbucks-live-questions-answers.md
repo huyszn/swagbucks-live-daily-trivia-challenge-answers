@@ -2670,7 +2670,7 @@
 - [ ] My Living Doll
 - [x] Heaven is Waiting
 
-#### What do Taliaferro apples, Silphium, and Ansault pears?
+#### What do Taliaferro apples, Silphium, and Assault pears?
 
 - [ ] They're all poisonous
 - [x] They no longer exist
@@ -46553,7 +46553,7 @@
 
 - [x] Dell
 - [ ] Texas Instruments
-- [ ] Hewlett PAckard
+- [ ] Hewlett Packard
 
 #### Which of the following Disney movies used live action people in it?
 
@@ -57782,3 +57782,63 @@
 - [ ] One
 - [x] Five
 - [ ] Twenty
+
+#### On which streaming service does The Mandalorian appear?
+
+- [ ] Paramount+
+- [x] Disney+
+- [ ] Amazon Prime Video
+
+#### Which of these athletes won Olympic gold as a swimmer?
+
+- [ ] Simone Biles
+- [x] Michael Phelps
+- [ ] Florence Griffith Joyner
+
+#### "Let's Go Places" is the slogan of which auto company?
+
+- [x] Toyota
+- [ ] Tesla
+- [ ] Porsche
+
+#### Which WWE Superstar was your Olympic Hero?
+
+- [ ] Steve Blackman
+- [ ] Mark Henry
+- [x] Kurt Angle
+
+#### For 10 years, NBA player Chris Paul has appeared in ads for which insurance company?
+
+- [ ] Statewide
+- [ ] All State
+- [x] State Farm
+
+#### Which of the following is the proper spelling for the word that means "reaching your goal"?
+
+- [ ] Aheive
+- [x] Achieve
+- [ ] Acheeve
+
+#### Welch's is best known for what kind of juice?
+
+- [x] Grape
+- [ ] Lemon
+- [ ] Vanilla
+
+#### Which of these idioms refers to something being done without hesitation?
+
+- [ ] At the throw of a scarf
+- [x] At the drop of a hat
+- [ ] At the kick of some glasses
+
+#### What singer is currently in a legal battle over her conservatorship?
+
+- [x] Britney Spears
+- [ ] Mandy Moore
+- [ ] Christina Aguilera
+
+#### Which guest star appeared on the show for free due to losing a bet?
+
+- [x] Bruce Wills
+- [ ] Brad Pitt
+- [ ] Julia Roberts
