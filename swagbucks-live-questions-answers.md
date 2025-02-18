@@ -12645,7 +12645,7 @@
 #### Pinkie Pie and Fluttershy are both part of what toy line?
 
 - [x] My Little Pony
-- [ ] Stawberry Shortcake
+- [ ] Strawberry Shortcake
 - [ ] Rainbow Brite
 
 #### Which meat-based superfood would you most likely find on an Arctic expedition?
@@ -25431,8 +25431,8 @@
 
 #### Matchbox is a brand of what?
 
-- [x] Minature vehicles
-- [ ] Colestaw
+- [x] Minatare vehicles
+- [ ] Coleslaw
 - [ ] Roller Skates
 
 #### The Abominable Snowman is also known by what name?
@@ -35104,7 +35104,7 @@
 #### Which toy line features Skeletor and He-Man?
 
 - [ ] Gobots
-- [ ] Starwberry Shortcake
+- [ ] Strawberry Shortcake
 - [x] Masters of the Universe
 
 #### "Doctors", "Surgeons", and "Complications" were all early ideas for the title of what show?
@@ -37549,7 +37549,7 @@
 - [ ] Delaware
 - [ ] Vermont
 
-#### According to Mornings.co.uk, which ofthe following is the best classic rock song to fall asleep to?
+#### According to Mornings.co.uk, which of the following is the best classic rock song to fall asleep to?
 
 - [x] Your Song
 - [ ] Going to California
@@ -57842,3 +57842,69 @@
 - [x] Bruce Wills
 - [ ] Brad Pitt
 - [ ] Julia Roberts
+
+#### The 49th parallel was used to create a border between what two countries?
+
+- [x] United States and Canada
+- [ ] North Korea and South Korea
+- [ ] Denmark and Germany
+
+#### Which two characters join Mickey as the heroes of "Mickey and the Beanstalk"?
+
+- [ ] Professor Von Drake and Uncle Scrooge
+- [x] Donald Duck and Goofy
+- [ ] Minnie Mouse and Pluto
+
+#### Atticus Finch is a main character of which novel?
+
+- [x] To Kill A Mockingbird
+- [ ] Watership Down
+- [ ] 1984
+
+#### The actor who played Ming Ming the Elf in "Elf" is most famous for staring in what other holiday classic?
+
+- [ ] The Polar Express
+- [x] A Christmas Story
+- [ ] National Lampoon's Christmas Vacation
+
+#### Which sport has free throws?
+
+- [ ] Football
+- [ ] Tennis
+- [x] Basketball
+
+#### What language is conveyed through hand gestures?
+
+- [x] Sign Language
+- [ ] Morse Code
+- [ ] Handarin
+
+#### By what nickname is Las Vegas known?
+
+- [x] Sin City
+- [ ] The Mile High City
+- [ ] The Magic City
+
+#### In her album "Control", what name does Janet Jackson invite you to call her "if you're nasty"?
+
+- [x] Miss Jackson
+- [ ] Captain Beefheart
+- [ ] Minky
+
+#### Which of these defunct Disney Park attractions debuted the earliest?
+
+- [x] ExtraTERRORestria Alien Encounter
+- [ ] Superstar Limo
+- [ ] Rocket Rods
+
+#### According to his song in "Hamilton" where does Aaron Burr want to be?
+
+- [ ] West Philadelphia
+- [x] In the room where it happens?
+- [ ] Bed
+
+#### According to World Atlas, which restaurant has the most locations worldwide?
+
+- [ ] McDonalds
+- [ ] Starbucks
+- [x] Subway
