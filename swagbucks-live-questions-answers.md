@@ -47023,7 +47023,7 @@
 - [x] Pizza Hut
 - [ ] Domino's
 
-#### In response to KFC changing their recipies, Colonel Sanders opened a competing restaurant named for who?
+#### In response to KFC changing their recipes, Colonel Sanders opened a competing restaurant named for who?
 
 - [x] His Wife
 - [ ] His Daughter
@@ -47041,7 +47041,7 @@
 - [ ] Starbucks
 - [x] KFC
 
-#### What do two magnets of the same pole do when clsoe to one another?
+#### What do two magnets of the same pole do when close to one another?
 
 - [ ] Do-si-do
 - [ ] Sleep
@@ -57908,3 +57908,93 @@
 - [ ] McDonalds
 - [ ] Starbucks
 - [x] Subway
+
+#### What cereal touts itself as "The Breakfast of Champions"?
+
+- [x] Wheaties
+- [ ] Frosted Flakes
+- [ ] Corn Pops
+
+#### Who leaps tall building in a single bound?
+
+- [ ] The Flash
+- [ ] Batman
+- [x] Superman
+
+#### Mary Berry was a main judge on what food competition show?
+
+- [ ] Iron Chef
+- [ ] MasterChef
+- [x] The Great British Bake Off
+
+#### It's considered bad luck to walk under what object?
+
+- [x] Ladder
+- [ ] Window
+- [ ] Bridge
+
+#### Which reality show features aspiring fashion designers competing for a chance to launch their own brand?
+
+- [ ] Top Chef
+- [x] Project Runaway
+- [ ] The Amazing Race
+
+#### "Check in. Relax. Take a shower." was the slogan for which Alfred Hitchcock thriller?
+
+- [ ] Marine
+- [ ] Vertigo
+- [x] Psycho
+
+#### Which of the following is a phrase associated with doing something quickly?
+
+- [x] At the drop of a hat
+- [ ] Come rain o shine
+- [ ] Beat around the bush
+
+#### What is California's State Motto?
+
+- [ ] Equality Before The Law
+- [ ] Ever Upward
+- [x] Eureka
+
+#### When you bring two magnets with opposite poles together, what happens?
+
+- [x] They attract
+- [ ] They repel
+- [ ] They dance
+
+#### According to the EA Sports slogan, "If it's in the game..."
+
+- [ ] Yo probably will like it
+- [x] It's in the game
+- [ ] Then why are you brothering us?
+
+#### What writer was once called an "upstart Crow... supposes he is as well able to bombast out of a blank verse as the best of you"?
+
+- [ ] Charles Dickens
+- [ ] Mark Wain
+- [x] William Shakespeare
+
+#### What colorful TV chef is famous for his frosted hair and Donkey Sauce?
+
+- [x] Guy Fieri
+- [ ] Richard Blais
+- [ ] Ming Tsai
+
+#### Scottish physician Alexander Fleming is credited with what discovery?
+
+- [x] Penicillin
+- [ ] The Moon
+- [ ] Oxygen
+
+#### How many total sides does a Hexagon have?
+
+- [ ] Two
+- [ ] Four
+- [x] Six
+
+#### Who was NOT one of Walt Disney's "Nine Old Men"?
+
+- [ ] Ward Kimball
+- [ ] Milt Kahl
+- [x] Ub Iwerks
