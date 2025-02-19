@@ -10732,7 +10732,7 @@
 
 - [ ] James Bond
 - [ ] Johnny English
-- [x] James Bond
+- [x] Jason Bourne
 
 #### Which of these medicines would you take to help with allergies?
 
@@ -25063,7 +25063,7 @@
 - [ ] And Christmases long, long ago
 - [ ] And merrily over we go
 
-#### "Come they told be, Pa rum pum pum pum. A new born king to see..."
+#### "Come they told me, Pa rum pum pum pum. A new born king to see..."
 
 - [ ] And you won't believe what he's wearing
 - [ ] And he's SO nice
@@ -30141,7 +30141,7 @@
 
 #### A Puggle is a combination of which two dog breeds?
 
-- [x] Pug and Begle
+- [x] Pug and Beagle
 - [ ] Dalmatian and Collie
 - [ ] Malamute and Bloodhound
 
