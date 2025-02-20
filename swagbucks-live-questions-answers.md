@@ -29191,7 +29191,7 @@
 - [ ] Sgt. Pepper's Lonely Hearts Club Band
 - [ ] Let It Be
 
-#### Which TV Newtork's logo is a peacock?
+#### Which TV Network's logo is a peacock?
 
 - [ ] ABC
 - [ ] CBS
@@ -50419,7 +50419,7 @@
 - [ ] Wonder Woman
 - [x] Batman
 
-#### Compelte this lyric: "I ain't got nothing but love, babe..."
+#### Complete this lyric: "I ain't got nothing but love, babe..."
 
 - [x] Eight Days A Week
 - [ ] One Day At A Time
@@ -57998,3 +57998,87 @@
 - [ ] Ward Kimball
 - [ ] Milt Kahl
 - [x] Ub Iwerks
+
+#### What fruit candy uses the slogan "Unexplainably Juicy"?
+
+- [x] Starburst
+- [ ] Three Musketeers
+- [ ] Tic Tac
+
+#### What prickly plant is often found in deserts?
+
+- [ ] Rose
+- [x] Cactus
+- [ ] Willow Tree
+
+#### What is the name of the main pig in "Charlotte's Web"
+
+- [ ] William
+- [ ] Wilfred
+- [x] Wilbur
+
+#### In the Chicago Bears' "Super Bowl Shuffle" song, what word does QB Jim McMahon use to describe himself
+
+- [ ] Crazy
+- [x] Punky
+- [ ] Dashing
+
+#### What band told you they loved you "Eight Days A Week"?
+
+- [ ] The Rolling Stones
+- [x] The Beatles
+- [ ] The Who
+
+#### Which 70s auteur directed the 1984 cult musical "Phantom of the Paradise"?
+
+- [ ] Martin Scorsese
+- [ ] David Lynch
+- [x] Brian De Palma
+
+#### In which movie does Liam Neeson play a man who says he has "a very particular set of skills"?
+
+- [ ] Darkman
+- [x] Taken
+- [ ] Rob Roy
+
+#### Which of the following celebrities has NOT been awarded a Purple Heart by the U.S. Army?
+
+- [ ] James Garner
+- [ ] Kurt Vonnegut
+- [x] Charlton Heston
+
+#### Billie Jean King is known for her contributions to which sport?
+
+- [x] Tennis
+- [ ] Golf
+- [ ] Basketball
+
+#### What color is Sonic the Hedgehog?
+
+- [ ] Red
+- [ ] Green
+- [x] Blue
+
+#### Complete this classic nursery rhyme line: "There was an old woman who lived in a..."
+
+- [x] Shoe
+- [ ] Canoe
+- [ ] Timeshare
+
+#### Which Indiana Jones film is predominantly set in the earliest year?
+
+- [x] Temple of Doom
+- [ ] Kingdom of the Crystal Skull
+- [x] Raiders of the Lost Ark
+
+#### If you go somewhere "Shank's Mare", how are you getting there?
+
+- [x] On foot
+- [ ] By horse
+- [ ] By trolley
+
+#### What former Olympian once played a version of themselves on the PBS series "Arthur"?
+
+- [ ] Kerri Strug
+- [x] Michelle Kwan
+- [ ] Mary Lou Retton
