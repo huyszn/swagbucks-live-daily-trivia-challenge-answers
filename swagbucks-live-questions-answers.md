@@ -25735,7 +25735,7 @@
 - [ ] Harry S. Truman
 - [x] George Washington
 
-#### Michelangelo famously painted the ceilling of what building?
+#### Michelangelo famously painted the ceiling of what building?
 
 - [ ] White House
 - [x] Sistine Chapel
@@ -58082,3 +58082,111 @@
 - [ ] Kerri Strug
 - [x] Michelle Kwan
 - [ ] Mary Lou Retton
+
+#### 1963's March on Washington ended with what famous speech by Dr. Martin Luther King Dr.?
+
+- [ ] The Future Is Ours
+- [x] I Have A Dream
+- [ ] Stand Up For Freedom
+
+#### Who was the first Black actor to win the Oscar for Best Actor?
+
+- [ ] Robert Guillaume
+- [ ] James Earl Jones
+- [x] Sidney Poitier
+
+#### Which of the following is an HBCU?
+
+- [x] Morehouse College
+- [ ] Pepperdine University
+- [ ] Vassar College
+
+#### How many gold medals did Jesse Owns win at the 1936 Olympics?
+
+- [ ] Six
+- [x] Four
+- [ ] Five
+
+#### In which sport did Jackie Robinson break the color barrier?
+
+- [ ] Basketball
+- [ ] Football
+- [x] Baseball
+
+#### Alaffia, Ami Cole, and PATTRN are all Black-owned companies in what space?
+
+- [ ] Technology
+- [x] Beauty
+- [ ] Food & Beverage
+
+#### Who is known as The Poet Laureate of Harlem?
+
+- [ ] Maya Angelou
+- [ ] Robert Hayden
+- [x] Langston Hughes
+
+#### Rosa Parks is most famous for which act of civil disobedience?
+
+- [x] Refusing to sit in the back of a bus
+- [ ] Refusing to leave a launch counter
+- [ ] Refusing to leave a classroom
+
+#### Who directed the movies "School Daze", "She's Gotta Have It and "Do The Right Thing"?
+
+- [ ] Steve McQueen
+- [x] Spike Lee
+- [ ] Ava DuVernay
+
+#### Which of the following is the oldest?
+
+- [ ] The Aztec Empire
+- [ ] The Printing Press
+- [x] Oxford University
+
+#### Minsk was the former capital of what former Soviet republic?
+
+- [ ] Ukraine
+- [ ] Latvia
+- [x] Belarus
+
+#### In which language is Ni Hao used as a greeting?
+
+- [ ] Italian
+- [x] Chinese
+- [ ] French
+
+#### What name is given to two North American animals, one a rattlesnake and the other a terrapin?
+
+- [ ] Rubytail
+- [x] Diamondback
+- [ ] Sapphiretongue
+
+#### "Succession" is a show on what network?
+
+- [ ] NBA
+- [x] HBO
+- [ ] ESPN
+
+#### In which Disney animated film is The Dogcatcher the main villain?
+
+- [ ] 101 Dalmatians
+- [x] Lady and the Tramp
+- [ ] Aristocrats
+
+#### Which rock star passed away at Graceland in 1977?
+
+- [x] Elvis Presley
+- [ ] The Big Bopper
+- [ ] Jerry Lee Lewis
+
+#### Which president was known for greeting foreign dignitaries in his pajamas?
+
+- [ ] Lyndon B. Johnson
+- [x] Thomas Jefferson
+- [ ] William Howard Taft
+
+#### How much total money is there in a standard game of Monopoly?
+
+- [ ] $50,000
+- [ ] $12,850
+- [x] $20,580
