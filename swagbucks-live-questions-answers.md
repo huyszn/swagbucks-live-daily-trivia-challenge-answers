@@ -58190,3 +58190,15 @@
 - [ ] $50,000
 - [ ] $12,850
 - [x] $20,580
+
+#### In which teen movie does Matthew Broderick play hooky from school?
+
+- [ ] Ladybugs
+- [ ] What A Girl Wants
+- [x] Ferris Bueller's Day Off
+
+#### How many broughs make up New York City?
+
+- [ ] 8
+- [ ] 16
+- [x] 5
