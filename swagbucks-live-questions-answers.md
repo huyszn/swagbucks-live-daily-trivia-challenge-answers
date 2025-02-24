@@ -22831,11 +22831,11 @@
 - [ ] Macbeth
 - [ ] The Merchant of Venice
 
-#### Which culinary technique inoves rapidly immersing food in boiling water, then in ice water?
+#### Which culinary technique involves rapidly immersing food in boiling water, then in ice water?
 
 - [ ] Searing
 - [ ] Braising
-- [x] Blancing
+- [x] Balancing
 
 #### What appears on Turkey's flag?
 
@@ -45639,7 +45639,7 @@
 
 #### "The Big Honey Hunt" was the first book to feature which characters?
 
-- [ ] Goldlilocks and the Three Bears
+- [ ] Goldilocks and the Three Bears
 - [x] The Berenstain Bears
 - [ ] Winnie the Pooh and Tigger
 
@@ -58202,3 +58202,39 @@
 - [ ] 8
 - [ ] 16
 - [x] 5
+
+#### When Denny's first opened, what did they primarily sell?
+
+- [ ] Pancakes
+- [x] Donuts
+- [ ] Hamburgers
+
+#### Which of the following sports features athletes on skates?
+
+- [ ] Football
+- [x] Ice Hockey
+- [ ] Baseball
+
+#### Which kid's show premiered first?
+
+- [ ] Max and Ruby
+- [x] Blue's Clues
+- [ ] Bear in the Big Blue House
+
+#### In a 1933 movie, Claude Rains plays a scientist who invents a potion that turns him into what title character?
+
+- [x] The Invisible Man
+- [ ] The Repo Man
+- [ ] The Michelin Man
+
+#### Meryl Streep was considered for the lead in what movie, that went to a Yale classmate?
+
+- [ ] Tootsie
+- [ ] On Golden Pond
+- [x] Alien
+
+#### If they had used the original idea for Doc Brown's time machine in "Back to the Future", where would you have found it?
+
+- [x] Kitchen
+- [ ] Bathroom
+- [ ] Museum
