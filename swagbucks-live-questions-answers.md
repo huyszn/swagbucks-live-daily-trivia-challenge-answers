@@ -27343,7 +27343,7 @@
 - [ ] 1990
 - [ ] 1984
 
-#### Drew LAchey and Cheryl Burke have both won what reality competition show?
+#### Drew Lachey and Cheryl Burke have both won what reality competition show?
 
 - [ ] Love is Blind
 - [ ] The Circle
@@ -58238,3 +58238,75 @@
 - [x] Kitchen
 - [ ] Bathroom
 - [ ] Museum
+
+#### What does FOMO commonly stand for?
+
+- [x] Fear of Missing Out
+- [ ] For Others, Make Order
+- [ ] Fuzzy Oreos, Musty Odors
+
+#### In which song does Aretha Franklin spell out R-E-S-P-E-C-T?
+
+- [x] Respect
+- [ ] A Change is Gonna Come
+- [ ] Chain of Fools
+
+#### The offspring of a male lion and a female tiger is known by what name?
+
+- [ ] Myron Bunerling
+- [ ] Steve Carlsberg
+- [x] Liger
+
+#### Krispy Kreme is known for what food?
+
+- [ ] Prime Rb
+- [ ] Soup, Salad, & Breadsticks
+- [x] Doughnuts
+
+#### According to the animated movie of the same name, where do All Dogs Go?
+
+- [x] to Haven
+- [ ] to Dubuque, Iowa
+- [ ] to Summer School
+
+#### If a diner waitress asks the cook for "Fish Eyes", what does she want?
+
+- [ ] Over Easy Eggs
+- [ ] Black-Eyed Peas
+- [x] Tapioca Pudding
+
+#### What is the correct response to a "Knock Knock" joke?
+
+- [ ] How hot is it?
+- [ ] Go away!
+- [x] Who's there?
+
+#### According to Irving Berlin's song, there's no business like WHAT business?
+
+- [ ] International
+- [ ] Risky
+- [x] Show
+
+#### Which of these models of transportation is meant for water travel?
+
+- [ ] Hang Glider
+- [x] Yacht
+- [ ] Segway
+
+#### In which movie do Dorothy and Toto follow the Yellow Brick Road?
+
+- [ ] The Avengers
+- [ ] My Dinner with Andre
+- [x] The Wizard of Oz
+
+#### Which one-horse-open-sleighing song was originally written for Thanksgiving?
+
+- [ ] Holly Jolly Christmas
+- [ ] The Christmas Song
+- [x] Jingle Bells
+
+#### What professional athlete was also a member of G.I. Joe?
+
+- [ ] Reggie Jackson
+- [x] William Perry
+- [ ] Michael Jordan
