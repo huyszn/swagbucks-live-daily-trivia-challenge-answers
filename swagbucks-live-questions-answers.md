@@ -58310,3 +58310,141 @@
 - [ ] Reggie Jackson
 - [x] William Perry
 - [ ] Michael Jordan
+
+#### A staged photo from Maggie Goldenberger was turned into a meme about what series of her "favrit berks"
+
+- [x] Gersberms
+- [ ] Hurry Purer
+- [ ] Nurncy Drurr
+
+#### What kind of grapes are typically used to make jelly?
+
+- [x] Concord
+- [ ] Meriot
+- [ ] Pinot Blanc
+
+#### Which of these video games is the oldest?
+
+- [ ] Dig Dug
+- [ ] Galaga
+- [x] Pong
+
+#### Sam Walton is known for founding what retail chain?
+
+- [ ] Hobby Lobby
+- [x] Walmart
+- [ ] Target
+
+#### According to the children's song "Six Little Ducks," what did the one little duck who ruled the others have on his back?
+
+- [x] A feather
+- [ ] A pebble
+- [ ] A leaf
+
+#### Thanks to its name, which car could be classified as "heavenly"?
+
+- [ ] Corolla
+- [ ] Camry
+- [x] Celica
+
+#### Which of these is not a color you would find in a bag of rainbow carrots?
+
+- [ ] Purple
+- [ ] Orange
+- [x] Cerulean
+
+#### Which of these actions would be considered impolite at the dinner table?
+
+- [ ] Using your napkin
+- [x] Chewing with your mouth open
+- [ ] Eating with a fork
+
+#### What 1970's show featured celebrities on a cruise ship?
+
+- [ ] Battlestar Galactica
+- [x] The Love Boat
+- [ ] M*A*S*H
+
+#### Which of the following is NOT one of the Great Lakes?
+
+- [ ] Huron
+- [ ] Erie
+- [x] Susan
+
+#### What country observes six different seasons instead of the usual four?
+
+- [ ] Coatia
+- [x] Bangladesh
+- [ ] Madagascar
+
+#### Duracell, Energizer, and Rayovac are all brands of what?
+
+- [ ] Sweaters
+- [ ] Fruits Snacks
+- [x] Batteries
+
+#### Which superhero is known as the Man of Steel?
+
+- [ ] Shazam
+- [x] Superman
+- [ ] The Spirit
+
+#### Which of these shopping-themed board games is the fake?
+
+- [ ] Meet Me At the Mall
+- [ ] Let's Go Shopping
+- [x] Mall Mania
+
+#### According to the Loggins & Messina song, "Your Mama Don't" what?
+
+- [ ] Explore space
+- [ ] Dry roast coffee
+- [x] Dance
+
+#### According to the Beyonce song, "If you liked it then you shoulda" done what?
+
+- [ ] Danced with it
+- [x] Put a ring on it
+- [ ] Walked away
+
+#### What reality show ends in a marriage proposal?
+
+- [ ] Survivor
+- [x] The Bachelorette
+- [ ] Sake in the Grass
+
+#### What is the highest-grossing film by an African-American Director?
+
+- [ ] Get Out
+- [ ] Scary Movie
+- [x] Black Panther
+
+#### Who won the first ever college football game?
+
+- [ ] Princeton
+- [x] Rutgers
+- [ ] Harvard
+
+#### In what year was the word "Old" first added to the cover of "The Old Farmers Almanac"?
+
+- [x] 1832
+- [ ] 1792
+- [ ] 1848
+
+#### Boxer Cassius Clay later changed his name to what?
+
+- [ ] Marvin Hagler
+- [ ] Buster Douglas
+- [x] Muhammad Ali
+
+#### In which backyard game can you score a "leaner"?
+
+- [x] Horseshoes
+- [ ] Wheelbarrow racing
+- [ ] Egg Toss
+
+#### Which of these shows originated on The Disney Channel?
+
+- [ ] Cheers
+- [ ] NBC Nightly News
+- [x] Even Stevens
