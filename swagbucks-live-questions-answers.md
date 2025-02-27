@@ -49573,7 +49573,7 @@
 - [ ] Charlie Puth
 - [x] Lizzo
 
-#### Brian is the talkign dog on what animated series?
+#### Brian is the talking dog on what animated series?
 
 - [ ] The Simpsons
 - [ ] Venture Bros
@@ -58448,3 +58448,87 @@
 - [ ] Cheers
 - [ ] NBC Nightly News
 - [x] Even Stevens
+
+#### Which of these countries has the largest population?
+
+- [ ] The United States
+- [ ] Russia
+- [x] China
+
+#### What song is traditionally played at midnight on New Year's Eve?
+
+- [x] Auld Lang Syne
+- [ ] Old Brown Shoe
+- [ ] Are You Reelin' In The Years
+
+#### What company's logo is named after NBA legend Larry Bird?
+
+- [x] Twitter
+- [ ] Beats
+- [ ] Snapchat
+
+#### Which "Bloom County" character ran for president in 1984 and 1988?
+
+- [ ] Opus the Penguin
+- [ ] Steve Dallas
+- [x] Bill the Cat
+
+#### In which 90s movie does Robin Williams play a man posing as a housekeeper to spend time with his children?
+
+- [ ] Jurassic Park
+- [ ] Toys
+- [x] Mrs. Doubtfire
+
+#### What celestial body appears on boxes of Raisin Bran?
+
+- [x] The Sun
+- [ ] The Moon
+- [ ] Venus
+
+#### What was notable about 19th century railroad worker Signalman Jack?
+
+- [ ] He was blind
+- [ ] He had no arms
+- [x] He was a Baboon
+
+#### Which of these teen comedies is based on Shakespeare's "Twelfth Night"?
+
+- [x] She's The Man
+- [ ] 10 Things I Hate About You
+- [ ] She's All That
+
+#### Les Mans, France is home to a famous event in what sport?
+
+- [ ] Golf
+- [x] Auto racing
+- [ ] Cycling
+
+#### Where is America's oldest roadside attraction?
+
+- [ ] Truth or Consequences, NM
+- [ ] Amarillo, TX
+- [x] Margate City, NJ
+
+#### According to the comics, how did Grouchy Smurf become grouchy?
+
+- [x] Disease from an insect bite
+- [ ] Sour Smurfberries
+- [ ] A spell by Gargamel
+
+#### Besides your teeth and gums, which organ does flossing protect the most?
+
+- [x] Heart
+- [ ] Eyes
+- [ ] Liver
+
+#### In 2022, what cartoon was brought back by creator Mike Judge?
+
+- [ ] King of the Hill
+- [x] Beavis and Butthead
+- [ ] American Dad
+
+#### Which of the following snacks was supposedly born at Disneyland?
+
+- [ ] Fritos
+- [x] Doritos
+- [ ] Sun Chips
