@@ -24103,7 +24103,7 @@
 - [x] TMZ
 - [ ] OMG
 
-#### Which of these is NOT a Dr. Seusss book?
+#### Which of these is NOT a Dr. Seuss book?
 
 - [ ] If I Ran The Zoo
 - [ ] McElligott's Pool
@@ -58532,3 +58532,99 @@
 - [ ] Fritos
 - [x] Doritos
 - [ ] Sun Chips
+
+#### Which of these instrumental is played using a bow?
+
+- [ ] Trumpet
+- [ ] Vibraphone
+- [x] Cello
+
+#### In which of these games are players eliminated until only one is left?
+
+- [x] Musical Chairs
+- [ ] Tag
+- [ ] Duck, Duck, Goose
+
+#### If you have good equitation you have control over what animal?
+
+- [x] Horse
+- [ ] Falcon
+- [ ] Dolphin
+
+#### In which boar game do you cure a patient suffering from "Writer's Cramp" and "Water on the Knee"?
+
+- [x] Operation
+- [ ] Clue
+- [ ] Parcheesi
+
+#### Hellman's is a brand of what condiment?
+
+- [x] Mayonnaise
+- [ ] Celery salt
+- [ ] Hot sauce
+
+#### According to he saying, when the going gets tough, what do the tough do?
+
+- [ ] Dab on 'em
+- [x] Get going
+- [ ] Take a nap
+
+#### Twin XL, California King, and Queen are all sizes of what?
+
+- [ ] Contact lenses
+- [x] Mattresses
+- [ ] Rain drops
+
+#### Which of these is a style of shoe?
+
+- [x] Wingtips
+- [ ] Buffalo Wild Wings
+- [ ] Winged Horses
+
+#### The original actor who voiced Disney's Aladdin was also a regular on what sitcom?
+
+- [ ] Family Ties
+- [ ] Friends
+- [x] Full House
+
+#### Before Edward Nairne invented the eraser, which of the following did people use in its place?
+
+- [ ] Carrots
+- [ ] Flower petals
+- [x] Bread
+
+#### What is the only triply landlocked U.S. State?
+
+- [x] Nebraska
+- [ ] Kansas
+- [ ] Utah
+
+#### What was the highest grossing movie of 2015?
+
+- [ ] San Andreas
+- [x] Star Wars: The Force Awakens
+- [ ] The Martian
+
+#### What is another term for a horn-shaped basket filled with food?
+
+- [x] Cornucopia
+- [ ] Corea
+- [ ] Confield
+
+#### What group of animals tapping on your chamber door is called an Unkindness?
+
+- [ ] Woodpeckers
+- [x] Ravens
+- [ ] Racoons
+
+#### What western hero rides a horse named Silver and is accompanied by Tonto?
+
+- [ ] Gene Autry
+- [ ] Zorro
+- [x] The Lone Ranger
+
+#### What's the name of the rooster on boxes Kellogg's Corn Flakes?
+
+- [x] Cornelius
+- [ ] Rise n' Shine
+- [ ] Milton
