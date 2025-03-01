@@ -44489,7 +44489,7 @@
 
 - [x] Once Upon A Time In Hollywood
 - [ ] Jackie Brown
-- [ ] Inglourious Basterds
+- [ ] Inglorious Basterds
 
 #### What treat is typically made over a campfire?
 
@@ -47293,7 +47293,7 @@
 - [x] Saturday Night Live
 - [ ] Fridays
 
-#### On "Happy Days", which charaacter would turn on the jukebox by hitting it?
+#### On "Happy Days", which character would turn on the jukebox by hitting it?
 
 - [ ] Chachi
 - [ ] Potsie
@@ -47311,7 +47311,7 @@
 - [ ] Will Till Your Father Gets Home
 - [x] Three's Company
 
-#### In the 1970s TV show "Charle's Angels", how did Charlie communicate with the Angels?
+#### In the 1970s TV show "Charlie's Angels", how did Charlie communicate with the Angels?
 
 - [ ] Telegram
 - [x] Speakerphone
@@ -58628,3 +58628,15 @@
 - [x] Cornelius
 - [ ] Rise n' Shine
 - [ ] Milton
+
+#### Boy George was the lead singer of what 80's pop group?
+
+- [x] Culture Club
+- [ ] The Fat Boys
+- [ ] The Bangles
+
+#### In which century was Joan of Arc made a saint?
+
+- [ ] 15th century
+- [ ] 18th century
+- [x] 20th century
