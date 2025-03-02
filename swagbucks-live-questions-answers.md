@@ -48037,7 +48037,7 @@
 - [x] Cinnamon
 - [ ] Ginger
 
-#### When they's ripe, what can cranberries do?
+#### When they're ripe, what can cranberries do?
 
 - [x] Bounce
 - [ ] Sing
@@ -58640,3 +58640,22 @@
 - [ ] 15th century
 - [ ] 18th century
 - [x] 20th century
+
+#### What is the name for the part of a song with a different chord progression or key/tempo that connects two other parts?
+
+- [x] Bridge
+- [ ] Ladder
+- [ ] Bucket
+
+#### In which Disney movie does Lindsay Lohan play identical twins? (REPEATED QUESTION WITH DIFFERENT ANSWER ORDERS)
+
+- [ ] Herbie Fully Loaded
+- [x] The Parent Trap
+- [ ] Confessions of a Teenage Drama Queen
+
+
+#### What term describes someone who is afraid to leave their home for any reason?
+
+- [x] Agoraphobe
+- [ ] Arachnophobe
+- [ ] Acrophore
