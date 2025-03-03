@@ -23617,7 +23617,7 @@
 - [ ] Martin Scorsese
 - [x] Christopher Nolan
 
-#### What was the first movei to gross $100 million at the box office?
+#### What was the first movie to gross $100 million at the box office?
 
 - [ ] The Godfather
 - [x] Jaws
@@ -30073,7 +30073,7 @@
 - [ ] Buttermilk
 - [ ] Whole Milk
 
-#### What math functino gives you the SUM of two numbers?
+#### What math function gives you the SUM of two numbers?
 
 - [ ] Subtraction
 - [ ] Division
@@ -58659,3 +58659,21 @@
 - [x] Agoraphobe
 - [ ] Arachnophobe
 - [ ] Acrophore
+
+#### What was the first novel written on a typewriter?
+
+- [ ] Frankenstein
+- [x] The Adventures of Tom Sawyer
+- [ ] Wuthering Heights
+
+#### Which of these famous works of art is best known as a sculpture?
+
+- [ ] Mona Lisa
+- [x] The Thinker
+- [ ] The Last Supper
+
+#### What is the name of America's professional basketball league?
+
+- [x] NBA
+- [ ] MBA
+- [ ] NBD
