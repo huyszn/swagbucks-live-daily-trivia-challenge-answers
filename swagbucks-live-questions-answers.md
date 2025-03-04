@@ -14629,7 +14629,7 @@
 - [ ] Hershey’s Kisses
 - [ ] Twizzlers
 
-#### Which of these women never challenged for the title at a Wrestlemania?
+#### Which of these women never challenged for the title at a WrestleMania?
 
 - [x] Bull Nakano
 - [ ] Velvet McIntyre
@@ -47722,7 +47722,7 @@
 #### What was notable about Today Show co-host J. Fred Muggs?
 
 - [x] He was an animal
-- [ ] He was the first Arfican American anchor
+- [ ] He was the first African American anchor
 - [ ] He died on air
 
 #### Which of the following is a clip used to hold your hair in place?
@@ -58677,3 +58677,69 @@
 - [x] NBA
 - [ ] MBA
 - [ ] NBD
+
+#### Which of the following animals does NOT lay eggs?
+
+- [ ] Hen
+- [ ] Platypus
+- [x] Giraffe
+
+#### What animals travel in a group known as a "pride"?
+
+- [x] Lions
+- [ ] Chimpanzees
+- [ ] Seals
+
+#### Which birds can often be found standing on one leg?
+
+- [ ] Robin
+- [x] Flamingo
+- [ ] Sparrow
+
+#### Dalmatians are often associated with what profession?
+
+- [ ] Police
+- [ ] Accountants
+- [x] Firefighters
+
+#### Thanks to Egyptian goddess Baset, what household pets were considered to e magical by Ancient Egyptians?
+
+- [x] Cats
+- [ ] Goldfish
+- [ ] Gerbils
+
+#### Moo Deng became a global sensation in 2024. What kind of animal is she?
+
+- [ ] Tiger
+- [x] Hippopotamus
+- [ ] Rhinoceros
+
+#### What is the only known mammal whose eye color changes during the winter?
+
+- [ ] Polar Bear
+- [ ] Walrus
+- [x] Reindeer
+
+#### What horse reed is most commonly used in racing?
+
+- [x] Thoroughbred
+- [ ] Friesian
+- [ ] Appaloosa
+
+#### A koala's diet is primarily made up of the leaves from what tree?
+
+- [ ] Oak
+- [ ] Palm
+- [x] Eucalyptus
+
+#### What desert mammal usually has one or two humps on its back?
+
+- [x] Camel
+- [ ] Meerkat
+- [ ] Kangaroo Rat
+
+#### Paramount executives originally wanted the sitcom "Happy Days" to be set in what decade?
+
+- [ ] 1970's
+- [x] 1920's
+- [ ] 1950's
