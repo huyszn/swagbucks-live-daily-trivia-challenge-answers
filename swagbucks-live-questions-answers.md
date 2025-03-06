@@ -14453,7 +14453,7 @@
 
 - [ ] It doesn't exist
 - [x] It was supposedly discovered by James Cook
-- [ ] It didn't appear on natical maps until 1908
+- [ ] It didn't appear on nautical maps until 1908
 
 #### Which restaurant chain opened first?
 
@@ -38433,7 +38433,7 @@
 
 #### Which U.S. State has the largest population?
 
-- [ ] Flordia
+- [ ] Florida
 - [ ] Montana
 - [x] California
 
@@ -58743,3 +58743,219 @@
 - [ ] 1970's
 - [x] 1920's
 - [ ] 1950's
+
+#### A food is considered vegan due to the absence of what?
+
+- [x] Animal products
+- [ ] Sugar
+- [ ] Water
+
+#### The word "Kindergarten" originally comes from what language?
+
+- [ ] Spanish
+- [ ] Japanese
+- [x] German
+
+#### Which of the following years falls in the Middle Ages?
+
+- [x] 1261 CE
+- [ ] 4 BCE
+- [ ] 1994 CE
+
+#### March Madness refers to which College sport?
+
+- [ ] Wrestling
+- [x] Basketball
+- [ ] Football
+
+#### Which of the following bands was NOT advertised to be part of the ill-fated Fyre festival?
+
+- [ ] Migos
+- [ ] Blink-162
+- [x] The Killers
+
+#### What is the term for a book of maps or charts?
+
+- [x] Atlas
+- [ ] Thesaurus
+- [ ] Dictionary
+
+#### A "Hot Guy Meeting" at Disney resulted in the design of which animated character?
+
+- [ ] Kristoff
+- [x] Flynn Rider
+- [ ] Prince Naveen
+
+#### In 1998, Nintendo added what feature to the Game Boy?
+
+- [x] Color Displays
+- [ ] A Second Control Pad
+- [ ] 3-D Glasses
+
+#### Which of the following movies is a musical?
+
+- [ ] Ordinary People
+- [ ] Goodfellas
+- [x] La La Land
+
+#### According to urban myths, what retile is thought to be roaming the New York City sewers?
+
+- [ ] Viper
+- [ ] Iguana
+- [x] Alligator
+
+#### Which original Clue weapon is no longer part of the game?
+
+- [ ] Candlestick
+- [x] Lead Pipe
+- [ ] Rope
+
+#### After Genesis and Exodus, what is the third book of the Old Testament?
+
+- [x] Leviticus
+- [ ] Deuteronomy
+- [ ] Joshua
+
+#### The second video ever played on MTV was by what female artist?
+
+- [x] Pat Benatar
+- [ ] Joan Jett
+- [ ] Cyndi Lauper
+
+#### Which of these music acts has NOT performed a Tiny Desk Concert for NPR?
+
+- [ ] Open Mike Eagle
+- [ ] Erykah Badu
+- [x] Spin Doctors
+
+#### Which of these dishes would most likely be prepared using a method called barding?
+
+- [ ] Baked Potato
+- [x] Strip Steak
+- [ ] Caesar Salad
+
+#### What are the two main varieties of clam chowder?
+
+- [ ] Boise and Chicago
+- [ ] Baltimore and Miami
+- [x] Manhattan and New England
+
+#### Joe Montana, Tom Brady, and Peyton Manning are all famous for playing n what league?
+
+- [ ] MLB
+- [ ] NHL
+- [x] NFL
+
+#### TikTok-er doggface208 became a sensation for a video where he skateboards while drinking what?
+
+- [ ] Champagne
+- [x] Ocean Spray Cranberry Juice
+- [ ] Pepsi
+
+#### What car brand calls themselves "The Heartbeat of America"?
+
+- [x] Chevrolet
+- [ ] Nissan
+- [ ] Bugatti
+
+#### Which of the following countries is NOT in Europe?
+
+- [x] Kenya
+- [ ] Switzerland
+- [ ] Austria
+
+#### Which McDonald's sandwich uses pancakes in place of a bun?
+
+- [ ] Arch Deluxe
+- [x] McGriddle
+- [ ] Big Mac
+
+#### Bonnie Tyler has a famous song about a "Total Eclipse of the..."
+
+- [x] Heart
+- [ ] Car
+- [ ] Mortgage
+
+#### The screenplay for the 1956 film "Moby ick" was written by what famous writer?
+
+- [ ] Arthur Miller
+- [x] Ray Bradbury
+- [ ] Jack Kerouac
+
+#### Which of the following is NOT an Olympic event?
+
+- [ ] Diving
+- [ ] Figure Skating
+- [x] Loitering
+
+#### Which of the following diseases is the oldest?
+
+- [ ] Hand, Foot, and Mouth Disease
+- [x] Tuberculosis
+- [ ] Lyme Disease
+
+#### Hailey Baldwin is married to which music superstar?
+
+- [ ] Machine Gun Kelly
+- [ ] Bruno Mars
+- [x] Justin Bieber
+
+#### As of February 2025, which of the following athletes currently holds multiple major records in their sport?
+
+- [ ] Babe Ruth
+- [x] Emmitt Smith
+- [ ] Robert Parish
+
+#### In the game "Hungry Hungry Hippos", what are you trying to collect with your Hippo?
+
+- [x] Marbles
+- [ ] Chips
+- [ ] Bananas
+
+#### In chemistry, what substance is the opposite of an acid?
+
+- [ ] Glue
+- [x] Base
+- [ ] Cookie
+
+#### Judi Dench, Maggie Smith, and Helen Mirren have all received what British honorific?
+
+- [x] Damehood
+- [ ] Knighthood
+- [ ] Neighborhood
+
+#### What is the score of a perfect game in bowling?
+
+- [ ] 0
+- [ ] 150
+- [x] 300
+
+#### In golf, what club is usually used when you're on the green?
+
+- [x] Putter
+- [ ] Driver
+- [ ] Sand Wedge
+
+#### What food at a Thanksgiving meal would best honor the work of the woman who made it a national holiday?
+
+- [ ] Bacon
+- [x] Lamb
+- [ ] Beans
+
+#### What spice was used to pay rent during the Middle Ages?
+
+- [ ] Salt
+- [ ] Cinnamon
+- [x] Pepper
+
+#### According to America's Test Kitchen, what food can't be overcooked?
+
+- [ ] Celery
+- [x] Mushrooms
+- [ ] Ostrich meat
+
+#### Which of the Beastie Boys used "Nathanial Hornblower" as an alias?
+
+- [ ] Mike D
+- [ ] Ad Rock
+- [x] MCA
