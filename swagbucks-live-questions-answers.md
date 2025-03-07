@@ -12396,7 +12396,7 @@
 - [ ] Caesar salad
 - [x] Enchilada
 
-#### Langley, Virginia is the home to what organization's headquaters?
+#### Langley, Virginia is the home to what organization's headquarters?
 
 - [x] CIA
 - [ ] United Way
@@ -58959,3 +58959,123 @@
 - [ ] Mike D
 - [ ] Ad Rock
 - [x] MCA
+
+#### Which of these instruments would you be mostly likely to hear in bluegrass music?
+
+- [ ] Harpsichord
+- [ ] Sousaphone
+- [x] Banjo
+
+#### The percentage of cacao is used to determine the intensity of what food?
+
+- [ ] Yogurt
+- [ ] Cheese
+- [x] Chocolate
+
+#### Which of the following actors has the most Oscar nominations?
+
+- [ ] Al Pacino
+- [x] Bette Davis
+- [ ] Denzel Washington
+
+#### The modern pencil was invented to aid the military campaigns of which historical figure?
+
+- [x] Napoleon Bonaparte
+- [ ] Horatio Nelson
+- [ ] George Washington
+
+#### What is the name of the interstellar government Earth belongs to?
+
+- [ ] United Way
+- [x] United Federation of Planets
+- [ ] United Arab Emirates
+
+#### Timberland is mainly known for the making and selling of what?
+
+- [ ] Lollipops
+- [ ] Hats
+- [x] Footwear
+
+#### "Obey Your Thirst" is the slogan for which soft drink?
+
+- [x] Sprite
+- [ ] Mello Yello
+- [ ] Pepsi
+
+#### Which German city had a famous wall separating East from West?
+
+- [ ] Hamburg
+- [ ] Dresden
+- [x] Berlin
+
+#### Michelangelo once wrote a poem about how much he hated creating which work of art?
+
+- [ ] David
+- [x] The Sistine Chapel
+- [ ] Crouching Boy
+
+#### In which country can you get jalapenos and hot chili-cheese sauce for your fries at McDonald's?
+
+- [ ] Mexico
+- [ ] Germany
+- [x] Norway
+
+#### What line of toys comes with birth certificates?
+
+- [ ] Glo Worm
+- [x] Cabbage Patch Kids
+- [ ] Transformers
+
+#### The earliest instances of the word "jazz" in print were in reference to what?
+
+- [x] Baseball
+- [ ] Clothing
+- [ ] Music
+
+#### According to the "Gilligan's Island" theme song, how long was the S.S. Minnow's tour supposed to last
+
+- [ ] One hour
+- [ ] Two hours
+- [x] Three hours
+
+#### Pedro is running for class president in what 2004 comedy?
+
+- [x] Napoleon Dynamite
+- [ ] Little Miss Sunshine
+- [ ] Dodgeball
+
+#### Which of the following would be considered a funk band?
+
+- [ ] BTS
+- [ ] Commodores
+- [x] The Clash
+
+#### What singer has a farm that provides avocados to Southern California Chipotle restaurants?
+
+- [x] Jason Mraz 
+- [ ] John Mayer
+- [ ] Dave Matthews
+
+#### Which of the following is a common topping for a sundae?
+
+- [ ] A wood screw
+- [ ] A Q-Tip
+- [x] A cherry
+
+#### Which one of these characters was NOT one of the original 8 Disney Princes?
+
+- [x] Naven
+- [ ] Eric
+- [ ] Florian
+
+#### Complete this food slogan: "There's no wrong way to eat a...:
+
+- [ ] Domino's Pizza
+- [ ] Taco
+- [x] Reese's
+
+#### Which of these comedians was a permanent host of the Tonight Show?
+
+- [ ] David Brenner
+- [ ] Joan Rivers
+- [x] Jay Leno
