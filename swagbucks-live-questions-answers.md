@@ -19897,7 +19897,7 @@
 - [ ] Heli & copter
 - [x] Helico & pter
 
-#### In what decade was Pokemon created?
+#### In what decade was Pokémon created?
 
 - [ ] 1980s
 - [x] 1990s
@@ -59079,3 +59079,33 @@
 - [ ] David Brenner
 - [ ] Joan Rivers
 - [x] Jay Leno
+
+#### Donna Summer first became famous in what genre of music?
+
+- [ ] Rock & Roll
+- [ ] Country
+- [x] Disco
+
+#### The "Creed" movies take place in the same world as what other movie series?
+
+- [x] Rocky
+- [ ] The Terminator
+- [ ] Top Gun
+
+#### Wrigley, Trident, and Eclipse are all brands of what
+
+- [ ] Motor Oil
+- [ ] Cookware
+- [x] Gum
+
+#### In what year did the Beatles have their first #1 hit in the U.S.?
+
+- [ ] 1958
+- [x] 1964
+- [ ] 1970
+
+#### Tidy Cats is offering cash back when you upload your receipt to Swagbucks after you buy what product?
+
+- [ ] Towels
+- [ ] Detergent
+- [x] Kitty Litter
