@@ -47413,7 +47413,7 @@
 - [x] Miami Vice
 - [ ] Wiseguy
 
-#### What TV series featured a crack commando unit driven underground, where they became soliders of fortune?
+#### What TV series featured a crack commando unit driven underground, where they became soldiers of fortune?
 
 - [x] The A-Team
 - [ ] The Dukes of Hazzard
@@ -59109,3 +59109,27 @@
 - [ ] Towels
 - [ ] Detergent
 - [x] Kitty Litter
+
+#### Where was the Battle of Hastings fought?
+
+- [x] England
+- [ ] Outer space
+- [ ] Disneyland
+
+#### Brad Pitt's prosopagnosia makes it impossible for him to recognize what?
+
+- [x] Faces
+- [ ] Colors
+- [ ] Smells
+
+#### Dunder Mifflin is located in what U.S. city?
+
+- [x] Scranton
+- [ ] Las Vegas
+- [ ] New Orleans
+
+#### Approximately 60% of your brain is made of what substance?
+
+- [ ] Nerves
+- [ ] Muscle
+- [x] Fat
