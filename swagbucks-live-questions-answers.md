@@ -6471,7 +6471,7 @@
 #### What candy bar is made up of four "fingers" you can break off and share?
 
 - [x] Kit Kat
-- [ ] York Peppemint Pattie
+- [ ] York Peppermint Pattie
 - [ ] Snickers
 
 #### Which of these actions would be considered impolite at the dinner table?
@@ -59133,3 +59133,45 @@
 - [ ] Nerves
 - [ ] Muscle
 - [x] Fat
+
+#### A Snickerdoodle is a type of:
+
+- [x] Cookie
+- [ ] Soda
+- [ ] Stew
+
+#### Which of the following athletes is famous for playing soccer?
+
+- [x] Cristiano Ronaldo
+- [ ] Babe Ruth
+- [ ] Magic Johnson
+
+#### On Friends, one of Phoebe's ex-boyfriends is Gary. What does Gary do for a living?
+
+- [ ] Physicist
+- [x] Cop
+- [ ] Mugger
+
+#### What necessitated the use of time zones in the United States?
+
+- [ ] War
+- [x] Railroads
+- [ ] Presidential Election
+
+#### Stevia is used as a substitute for what?
+
+- [ ] Salt
+- [x] Sugar
+- [ ] Cream
+
+#### Songs like "Stayin' Alive" and "You Should Be Dancing" are what genre of music?
+
+- [ ] Heavy Metal
+- [ ] World
+- [x] Disco
+
+#### Which of these children's toys can bake real cookies?
+
+- [ ] Play-Doh Factory
+- [ ] Super Soaker
+- [x] Easy Bake Oven
