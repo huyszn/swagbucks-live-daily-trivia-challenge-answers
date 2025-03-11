@@ -59175,3 +59175,141 @@
 - [ ] Play-Doh Factory
 - [ ] Super Soaker
 - [x] Easy Bake Oven
+
+#### According to the "SpongeBob SquarePants" universe, SpongeBob shares a birthday with which celebrity?
+
+- [x] Conor McGregor
+- [ ] Donald Trump
+- [ ] LL Cool J
+
+#### Complete this slogan: "There are some things money can't buy. For everything else, there's _______"
+
+- [ ] Discover
+- [x] Mastercard
+- [ ] American Express
+
+#### According to the saying, "when life gives you lemons..."
+
+- [x] Make lemonade
+- [ ] Trade them for oranges
+- [ ] Grab the sugar
+
+#### Which U.S State is home to the first electrically lighted city?
+
+- [x] Indiana
+- [ ] New Jersey
+- [ ] California
+
+#### Scooby Doo and his friends travel around in which vehicle?
+
+- [ ] The Funky Machine
+- [x] The Mystery Machine
+- [ ] The Fun Machine
+
+#### Which Guinness record is NOT held by Ashrita Furman?
+
+- [ ] Most lit candles on a cake
+- [ ] Fastest Mile on a Pogo
+- [x] Most Layers in a Sandwich
+
+#### Who played Batman in "Batman Forever"?
+
+- [ ] George Clooney
+- [x] Val Kilmer
+- [ ] Christian Bale
+
+#### Which of the following is NOT one of Bert's instructions for jumping into the chalk drawing in "Mary Poppins"?
+
+- [ ] Think
+- [x] Buy a Chevy Nova
+- [ ] Do a Double Blink
+
+#### Why does Cruella de Vil steal the puppies in "101 Dalmatians"?
+
+- [x] To make a coat out of them
+- [ ] To raise them herself
+- [ ] To sell them on the black market
+
+#### What future star got his break working in Disney films like "The Computer Wore Tennis Shoes"?
+
+- [ ] Justin Bieber
+- [x] Kurt Russell
+- [ ] LeBron James
+
+#### Which Disney parks attraction features dolls from around the world singing to you?
+
+- [x] It's A Small World
+- [ ] Innoventions
+- [ ] The People Mover
+
+#### Which Disney Channel character is a girl with psychic powers?
+
+- [ ] Andi Mack
+- [ ] Kim Possible
+- [x] Raven Baxter
+
+#### On which continent is The Lion King set?
+
+- [ ] Europe
+- [ ] Asia
+- [x] Africa
+
+#### Melody is the child of which Disney Princess?
+
+- [ ] Aurora
+- [x] Ariel
+- [ ] Cinderella
+
+#### What are the names of the twins in "Alice in Wonderland"?
+
+- [x] Tweedledee and Tweedledum
+- [ ] Beavis and Butthead
+- [ ] Joey and Chad
+
+#### What is the usual color of Mickey Mouse's shorts?
+
+- [ ] Yello
+- [ ] Black
+- [x] Red
+
+#### What is the name of Captain Hook's boatswain in "Peter Pan"?
+
+- [ ] Smitty
+- [ ] Smeagol
+- [x] Smee
+
+#### Where would you find the inspiration for the raining code in "The Matrix"?
+
+- [x] A cookbook
+- [ ] The Rosetta Stone
+- [ ] A menu
+
+#### Which of these theme park rides primarily travels in a circle?
+
+- [ ] Haunted House
+- [x] Merry Go Round
+- [ ] Strength Test
+
+#### In "Robocop", which city does he protect?
+
+- [x] Detroit
+- [ ] Olympia
+- [ ] Ocean City
+
+#### Which Pixar film was NOT nominated for a Best Picture Oscar?
+
+- [x] Inside Out
+- [ ] Toy Story 3
+- [ ] Up
+
+#### What is the capital of Sweden?
+
+- [ ] Oslo
+- [x] Stockholm
+- [ ] Bern
+
+#### Doctor Octopus is a villain in which film series?
+
+- [x] Spider-Man
+- [ ] Iron Man
+- [ ] Batman
