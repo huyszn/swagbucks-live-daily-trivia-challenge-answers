@@ -15861,8 +15861,8 @@
 
 #### Where was the infamous Sun Records studio located?
 
-- [ ] Memphis, TN
-- [x] Detroit, MI
+- [x] Memphis, TN
+- [ ] Detroit, MI
 - [ ] Altoona, PA
 
 #### Which of the following Disney attractions did NOT originate at the 1964 World’s Fair?
@@ -51207,7 +51207,7 @@
 
 #### What Disney film features the song "Be Our Guest"?
 
-- [ ] The Princess and hte Frog
+- [ ] The Princess and the Frog
 - [ ] Aladdin
 - [x] Beauty and the Beast
 
@@ -59313,3 +59313,99 @@
 - [x] Spider-Man
 - [ ] Iron Man
 - [ ] Batman
+
+#### What modern day invention was inspired by World War II ammunition boxes?
+
+- [ ] Velcro
+- [x] Duct tape
+- [ ] Belt sander
+
+#### Which singer's hits include "Single Ladies" and "Crazy in Love"?
+
+- [ ] Shakira
+- [ ] Jewel
+- [x] Beyonce
+
+#### Which of these songs appears in the musical "Fiddler on the Roof"?
+
+- [ ] Music of the Night
+- [x] Tradition
+- [ ] One Day More
+
+#### Which lake is the source of the Mississippi?
+
+- [ ] Lake Pepin
+- [ ] Lake Calhoun
+- [x] Lake Ithaca
+
+#### Betsy Ross is credited with what contribution to American history?
+
+- [x] The American Flag
+- [ ] The Constitution
+- [ ] The National Anthem
+
+#### The movie "Hidden Figures" tells the story of Katherine Johnson's contributions to which government agency?
+
+- [ ] Congress
+- [ ] The Superior Court
+- [x] NASA
+
+#### What famous aviatrix mysteriously disappeared on July 2, 1937?
+
+- [x] Amelia Earhart
+- [ ] Bessie Raiche
+- [ ] Harriet Quimby
+
+#### What famous woman once said "If you want something said, ask a man; if you want something done, ask a woman"?
+
+- [ ] Malala Yousafzai
+- [ ] Katharine Hepburn
+- [x] Margaret Thatcher
+
+#### Which Supreme Court justice was known for her "dissent collars"?
+
+- [ ] Sandra Day O'Connor
+- [x] Ruth Bader Ginsburg
+- [ ] Elena Kagan
+
+#### Salma Hayek was nominated for an Academy Award for her portrayal of what famous artist?
+
+- [x] Frida Kahlo
+- [ ] Georgia O'Keeffe
+- [ ] Augusta Savage
+
+#### Which of the following women is NOT known for tennis?
+
+- [ ] Venus Williams
+- [x] Michelle Kwan
+- [ ] Steffi Graf
+
+#### Which of these women is responsible for shows like Scandal, Grey's Anatomy, and Private Practice?
+
+- [ ] Bonnie Turner
+- [ ] Ava DuVernay
+- [x] Shonda Rhimes
+
+#### On which game show do contestants get lifelines like "50/50" and "Phone-A-Friend"?
+
+- [ ] Card Sharks
+- [ ] The Match Game
+- [x] Who Wants to be a Millionaire?
+
+#### On Seinfeld, Kramer makes a cologne that smells like what location?
+
+- [ ] The Bakery
+- [ ] The Library
+- [x] The Beach
+
+#### Which of these Star Wars movies premiered in the 1980s?
+
+- [ ] A New Hope
+- [ ] Rise of Skywalker
+- [x] Return of the Jedi
+
+#### Which of these animals would have the least time to decorate a nursery for their offspring?
+
+- [ ] Hippopotamus
+- [x] Dog
+- [ ] Goat
