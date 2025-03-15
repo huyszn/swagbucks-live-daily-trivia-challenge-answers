@@ -19717,7 +19717,7 @@
 - [x] Alabama
 - [ ] Ohio
 
-#### In his signature siong, what kind of Christmas does Burl Ives want you to have?
+#### In his signature song, what kind of Christmas does Burl Ives want you to have?
 
 - [x] Holly Jolly
 - [ ] Wavy Gravy
@@ -32965,7 +32965,7 @@
 - [ ] 0
 - [ ] 1
 
-#### Which of the following dishes is usaully made with cow's feet and heads?
+#### Which of the following dishes is usually made with cow's feet and heads?
 
 - [x] Khash
 - [ ] Surstromming
@@ -42361,7 +42361,7 @@
 - [ ] Higher Love
 - [ ] Baby Got Back
 
-#### In which movie does a teenage Tom Crusie dance to "Old Time Rock & Roll"?
+#### In which movie does a teenage Tom Cruise dance to "Old Time Rock & Roll"?
 
 - [ ] Edge of Tomorrow
 - [x] Risky Business
@@ -59409,3 +59409,285 @@
 - [ ] Hippopotamus
 - [x] Dog
 - [ ] Goat
+
+#### American writer Mickey Spillane created which fictional detective?
+
+- [x] Mike Hammer
+- [ ] Sherlock Holmes
+- [ ] Miss Marple
+
+#### Elvis Presley's Graceland mansion is located in which state?
+
+- [ ] Kentucky
+- [x] Tennessee
+- [ ] Alabama
+
+#### Digs, Bumps, and Spikes are common in which sport?
+
+- [ ] Swimming
+- [ ] Luge
+- [x] Volleyball
+
+#### What comic strip cat hates Mondays and loves Lasagna?
+
+- [ ] Heathcliff
+- [ ] Snoopy
+- [x] Garfield
+
+#### Willie Nelson is best known for what genre of music?
+
+- [x] Country
+- [ ] Disco
+- [ ] Punk
+
+#### The 7.5 ton book Aria Amada is a collection of what information?
+
+- [ ] Every recorded birth
+- [x] Brazilian Tax Laws
+- [ ] Species of insects
+
+#### Alpinism is a discipline in what sport?
+
+- [ ] Running
+- [x] Mountain Climbing
+- [ ] Basketball
+
+#### In which decade did Go-Go Boots first become popular?
+
+- [x] 1960s
+- [ ] 1340s
+- [ ] 2010s
+
+#### Which of the following salad dressings are NOT traditionally creamy?
+
+- [ ] French
+- [x] Raspberry Vinaigrette
+- [ ] Russian
+
+#### Which of the following people is NOT a suspect in the original Clue/Cluedo?
+
+- [ ] Colonel Mustard
+- [ ] Miss Peacock
+- [x] Professor Moriarty
+
+#### The Grotta Palazzese in Italy offers the opportunity to dine in what unique location?
+
+- [ ] Underwater
+- [ ] In a treehouse
+- [x] In a cave
+
+#### What 1993 Los Del Rio song became a mid-90s dance craze?
+
+- [x] Macarena
+- [ ] Electric Slide
+- [ ] The Twist
+
+#### Which U.S. President oversaw the financing of the Panama Canal?
+
+- [ ] William Howard Taft
+- [x] Teddy Roosevelt
+- [ ] William McKinley
+
+#### "For Harry and Lloyd, every day is a no-brainer" was the slogan for which Jim Carrey movie?
+
+- [ ] Liar Liar
+- [ ] Me, Myself & Irene
+- [x] Dumb and Dumber
+
+#### Who was the first SNL host to appear in a sketch?
+
+- [x] Paul Simon
+- [ ] Steve Martin
+- [ ] Rob Reiner
+
+#### Which of the following sports requires snow?
+
+- [ ] HALO Jumping
+- [x] Slalom
+- [ ] Water Skiing
+
+#### Pattycakes is primarily played with what body part?
+
+- [ ] Feet
+- [ ] Torso
+- [x] Hands
+
+#### All Star Wars films begin with what line of text?
+
+- [ ] Welcome to Hee-Haw!
+- [ ] Live, from New York, it's Saturday Night!
+- [x] A longtime ago in a galaxy far, far away...
+
+#### Which Sex and the City cast member did NOT return for "And Just Like That..."?
+
+- [ ] Sarah Jessica Parker
+- [x] Kim Cattrall
+- [ ] Cynthia Nixon
+
+#### What fruit company first sprouted in 1893?
+
+- [x] Sunkist
+- [ ] Dl Mote
+- [ ] Chiquita
+
+#### The Upside Down is a realm in what TV show?
+
+- [ ] Black Mirror
+- [ ] Star Trek
+- [x] Stranger Things
+
+#### Baseball legend Pete Rose went by what nickname?
+
+- [x] Charlie Hustle
+- [ ] Charlie Russell
+- [ ] Charlize Theron
+
+#### Where are your sinuses located?
+
+- [ ] Feet
+- [x] Head
+- [ ] Chest
+
+#### What religious capital is also the smallest country in the world?
+
+- [x] Vatican City
+- [ ] England
+- [ ] Jerusalem
+
+#### February is African-American History Month for what primary reason?
+
+- [x] Birthdays
+- [ ] The Civil Rights Act
+- [ ] The NAACP
+
+#### On which game show is the audience often dressed up in silly costumes?
+
+- [ ] Wheel of Fortune
+- [x] Let's Make A Deal
+- [ ] The Price Is Right
+
+#### MTV's VMA award is in what shape?
+
+- [x] Astronaut
+- [ ] Record Player
+- [ ] TV
+
+#### Which of the children on "The Simpsons" is the youngest?
+
+- [ ] Bart
+- [ ] Lisa
+- [x] Maggie
+
+#### Hugh Jackman won the role of Wolverine hen he was recommended for the job by what other actor?
+
+- [x] Russell Crowe
+- [ ] Tom Cruise
+- [ ] Mel Gibson
+
+#### A controversial 2017 Pepsi ad featured which celebrity intervening in a protest?
+
+- [ ] Gigi Hadid
+- [x] Kendall Jenner
+- [ ] Paris Hilton
+
+#### How many elements are there in the Periodic Table of Elements?
+
+- [x] 118
+- [ ] 256
+- [ ] 999
+
+#### Khash is a dish primarily made of what?
+
+- [ ] Cow eyeballs
+- [x] Cow hooves
+- [ ] Cow stomachs
+
+#### The man who invented NERF balls also invented which board game?
+
+- [ ] Perfection
+- [ ] Candy Land
+- [x] Twister
+
+#### Princess Peach is a character from which video game series?
+
+- [ ] Metroid
+- [x] Super Mario Bros
+- [ ] Legend of Zelda
+
+#### Dagwood Bumstead is married to which comic strip character?
+
+- [ ] Cathy
+- [x] Blondie
+- [ ] Peppermint Patty
+
+#### Who is the bad guy in the original Star Wars?
+
+- [ ] Yoda
+- [ ] Baby Yoda
+- [x] Darth Vader
+
+#### Ritz is a popular brand of what snack food?
+
+- [ ] Gummies
+- [ ] Beef Jerky
+- [x] Crackers
+
+#### Cupid, Dasher and Blitzen are all names of what?
+
+- [x] Santa's Reindeer
+- [ ] M&M Flavors
+- [ ] Subaru Models
+
+#### Who is Beyonce married to?
+
+- [ ] Justin Timberlake
+- [x] Jay-Z
+- [ ] Kayne West
+
+#### What sandwich is usually served with a side of Au Jus?
+
+- [ ] Patty Melt
+- [x] French Dip
+- [ ] Tuna Salad Sandwich
+
+#### Which of these foods is normally cooked on a griddle?
+
+- [x] Pancakes
+- [ ] Soup
+- [ ] Milkshakes
+
+#### What writer used Halley's Comet to predict his own death?
+
+- [x] Mark Twain
+- [ ] Victor Hugo
+- [ ] Carl Sagan
+
+#### What dessert food was once an ingredient in a 19th century remedy for sore throats?
+
+- [x] Marshmallows
+- [ ] Caramel Corn
+- [ ] Shaved ice
+
+#### "High School Musical" was originally written to be a sequel to what film?
+
+- [x] Grease
+- [ ] Clueless
+- [ ] Hairspray
+
+#### Where is the smallest bone in the human body located
+
+- [ ] Leg
+- [ ] Back
+- [x] Ear
+
+#### What is Superman's weakness? (REPEATED QUESTION WITH DIFFERENT ANSWER ORDERS)
+
+- [ ] Ego
+- [ ] Smells
+- [x] Kryptonite
+
+#### Which of the following is illegal to pawn in Las Vegas?
+
+- [x] Dentures
+- [ ] Tractor
+- [ ] Shoes
