@@ -19015,7 +19015,7 @@
 - [x] Rosh Hashanah
 - [ ] Christmas
 
-#### During World War II, which country develope the Bob Semple Tank?
+#### During World War II, which country developed the Bob Semple Tank?
 
 - [ ] Canada
 - [ ] Britain
@@ -59691,3 +59691,81 @@
 - [x] Dentures
 - [ ] Tractor
 - [ ] Shoes
+
+#### The dog with the most Instagram followers is what breed?
+
+- [x] Pomeranian
+- [ ] Pug
+- [ ] Shiba Inu
+
+#### Which car manufacturer once asked potential consumers to "Think small"?
+
+- [x] Volkswagen
+- [ ] Flat
+- [ ] Mini Cooper
+
+#### Which of these foods is often served "on the cob"?
+
+- [ ] Peas
+- [ ] Lettuce
+- [x] Corn
+
+#### What iconic woman earned the nickname "Mother of the Nation"?
+
+- [ ] Queen Victoria
+- [x] Winnie Mandela
+- [ ] Indira Gandhi
+
+#### Which of these playground games involves one person giving instructions to the rest and trying to trick them?
+
+- [x] Simon Says
+- [ ] Dodgeball
+- [ ] Tag
+
+#### Felix Unger and Oscar Madison are roommates in what Neil Simon film and TV adaptation?
+
+- [ ] The Good Doctor
+- [ ] The Sunshine Boys
+- [x] The Odd Couple
+
+#### What is the name of the flat disc used in a game of ice hockey?
+
+- [ ] Ball
+- [x] Puck
+- [ ] Pancake
+
+#### Maddox, Shiloh, and Zahara are the names of children with what Oscar-winning mother?
+
+- [x] Angelina Jolie
+- [ ] Gwyneth Paltrow
+- [ ] Jennifer Lawrence
+
+#### Due to their racy late-night programming, which TV cable network was nicknamed "Skinemax"?
+
+- [ ] HBO
+- [ ] Showtime
+- [x] Cinemax
+
+#### Which band had hits with "Hard Day's Night", "Yesterday", and "Let It Be"?
+
+- [x] The Beatles
+- [ ] Van Halen
+- [ ] Siouxsie and the Banshees
+
+#### In the late 90s and early 00s Disney Channel wouldn't let a TV show go past how many episodes?
+
+- [ ] 52
+- [x] 65
+- [ ] 80
+
+#### A baseball player who can hit from either side of the late is called a what?
+
+- [ ] Ambi-hitter
+- [ ] Double Hitter
+- [x] Switch Hitter
+
+#### Where did the world's oldest surviving musical composition originate?
+
+- [x] Greece
+- [ ] Egypt
+- [ ] China
