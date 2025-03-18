@@ -24661,7 +24661,7 @@
 - [x] Toys "R" Us
 - [ ] Babies "R" Us
 
-#### "After The Final Rose" is the aftershow for what reality competition?
+#### "After The Final Rose" is the after show for what reality competition?
 
 - [ ] Survivor
 - [ ] Road Rules
@@ -27769,7 +27769,7 @@
 - [ ] Niels Bohr
 - [ ] Alexander Graham Bell
 
-#### Whose headstone reads "I will not be right back after this messsage"?
+#### Whose headstone reads "I will not be right back after this message"?
 
 - [ ] Johnny Carson
 - [ ] Bob Barker
@@ -31315,7 +31315,7 @@
 - [ ] Dancing distance
 - [ ] Writing distance
 
-#### Which U.S. President played five different musial instruments?
+#### Which U.S. President played five different musical instruments?
 
 - [ ] Calvin Coolidge
 - [ ] John F. Keneddy
@@ -50557,7 +50557,7 @@
 - [ ] William Howard Taft
 - [ ] Ronald Reagan
 
-#### Which of these animals lays eggs?
+#### Which of these animals lays eggs? (REPEATED QUESTION WITH DIFFERENT ANSWERS)
 
 - [ ] Giraffe
 - [x] Salmon
@@ -59769,3 +59769,99 @@
 - [x] Greece
 - [ ] Egypt
 - [ ] China
+
+#### At an amusement park, a carousel is known by what other name?
+
+- [ ] Roller Coaster
+- [x] Merry-Go-Round
+- [ ] Haunted House
+
+#### What kind of dish is the Vietnamese delicacy Pho?
+
+- [x] Soup
+- [ ] Salad
+- [ ] Breadsticks
+
+#### In standard Blackjack, which of the following totals would result in a bust?
+
+- [ ] 17
+- [ ] 21
+- [x] 23
+
+#### "After the Final Rose is the reunion special for which reality series?
+
+- [ ] Survivor
+- [x] The Bachelor
+- [ ] Big Brother
+
+#### "Born in the U.S.A." is a hit album and song by what artist?
+
+- [ ] Rod Stewart
+- [ ] Aaron Neville
+- [x] Bruce Springsteen
+
+#### London's Globe theater is the only building in the city permitted to have what?
+
+- [x] A thatched roof
+- [ ] Seating on the ground
+- [ ] Royal birthday parties
+
+#### Who starred alongside Ryan Gosling in "The Notebook"?
+
+- [ ] Mandy Moore
+- [x] Rachel McAdams
+- [ ] Amanda Seyfried
+
+#### In "Peanuts", who is always pulling the football away from Charlie Brown?
+
+- [ ] Frieda
+- [ ] Violet
+- [x] Lucy
+
+#### Who holds the MLB record for home runs in a season?
+
+- [x] Barry Bonds
+- [ ] Von Hayes
+- [ ] Kyle Schwarber
+
+#### In 1928, Dr. Alexander Fleming created what medicine from mold?
+
+- [ ] Tylenol
+- [ ] Pepto Bismol
+- [x] Penicillin
+
+#### Which breed of dog is typically used by law enforcement as a tracking dog?
+
+- [x] Bloodhound
+- [ ] Shih Tzu
+- [ ] Havanese
+
+#### "A body in motion tends to stay in motion" s an example of what rule of motion?
+
+- [x] Inertia
+- [ ] Gravity
+- [ ] Resistance
+
+#### "Who Am I (What's My Name)?" and "Gin & Juice" were hits for which rapper?
+
+- [ ] Eminem
+- [ ] 50 Cent
+- [x] Snoop Dogg
+
+#### What spell would you use to reveal a secret passage?
+
+- [x] Dissendium
+- [ ] Episkey
+- [ ] Sectumsempa
+
+#### In the "Angry Birds" games, what animals are you trying to defeat?
+
+- [ ] Cats
+- [ ] Snakes
+- [x] Pigs
+
+#### "The Mindy Project" star and creator Mindy Kaling also starred on what other sitcom?
+
+- [ ] Brooklyn Nine-Nine
+- [x] The Office
+- [ ] Everybody Loves Raymond
