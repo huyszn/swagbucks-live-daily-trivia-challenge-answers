@@ -59865,3 +59865,87 @@
 - [ ] Brooklyn Nine-Nine
 - [x] The Office
 - [ ] Everybody Loves Raymond
+
+#### What beer brand once ran a series of commercials with three frogs collectively croaking its name?
+
+- [x] Budweiser
+- [ ] Pabst Blue Ribbon
+- [ ] Michelob
+
+#### What American city will host the 2028 Summer Olympics?
+
+- [ ] New York
+- [x] Los Angeles
+- [ ] Chicago
+
+#### Which mythological English King led the Round Table?
+
+- [ ] George III
+- [ ] Alfred the Great
+- [x] King Arthur
+
+#### Which of the following genres of music is Bob Dylan best known for?
+
+- [ ] Rap
+- [x] Folk
+- [ ] Country
+
+#### Which American President was an avid skinny dipper?
+
+- [ ] Abraham Lincoln
+- [ ] Teddy Roosevelt
+- [x] John Quincy Adams
+
+#### What 1999 movie pioneered the "Bullet Time" method to show characters literally dodging bullets?
+
+- [x] The Matrix
+- [ ] Entrapment
+- [ ] The Blair Witch Project
+
+#### In Shakespeare's "Hamlet", what existential question does Hamlet pose?
+
+- [ ] "Does anyone else smell that?"
+- [ ] "Is Pepsi OK?"
+- [x] "To be, or not to be?"
+
+#### In the comic strips, Forsythe Pendleton Jones III is better known by what name?
+
+- [ ] Funky Winkerbean
+- [x] Jughead
+- [ ] Hagar the Horrible
+
+#### The constellations Ursa Major and Minor, each contain  part known as the "Big and "Little" what?
+
+- [x] Dipper
+- [ ] Diaper
+- [ ] Draper
+
+#### Which reality competition show is hosted by Ryan Seacrest?
+
+- [ ] So You Think You Can Dance?
+- [x] American Idol
+- [ ] The Masked Singer
+
+#### Which fact about General Santa Anna is FLASE?
+
+- [x] Wounded by a grape
+- [ ] Helped bring chewing gum to the U.S.
+- [ ] Held a funeral for his leg
+
+#### At what Jewish holiday is Matzo typically served?
+
+- [x] Passover
+- [ ] Purim
+- [ ] Hanukkah
+
+#### Which of these places is NOT found on any version of the standard Candyland Board?
+
+- [ ] Gumdrop Pass
+- [ ] Lolilpop Woods
+- [x] Illinois Ave
+
+#### Which of these music companies is the oldest?
+
+- [x] Zildjian
+- [ ] Yamaha
+- [ ] Martin & Company
