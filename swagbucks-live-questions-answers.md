@@ -59949,3 +59949,99 @@
 - [x] Zildjian
 - [ ] Yamaha
 - [ ] Martin & Company
+
+#### Which Marvel hero makes his own web fluid?
+
+- [ ] Mr. Fantastic
+- [ ] Iron Man
+- [x] Spider-Man
+
+#### Which of these items would most commonly be ordered at a Mexican restaurant?
+
+- [ ] Moo Goo Gai Pan
+- [x] Enchiladas
+- [ ] Croque Madame
+
+#### What name doesn't appear in Daniel Day-Lewis' actual full legal name?
+
+- [ ] Daniel
+- [ ] Blake
+- [x] Matthew
+
+#### Which of the following is NOT a standard way to prepare eggs for breakfast?
+
+- [ ] Sunny Side Up
+- [ ] Scrambled
+- [x] Toasted
+
+#### Traditional bacon and sausage come from which animal?
+
+- [ ] Bat
+- [x] Pig
+- [ ] Kangaroo
+
+#### What cured seafood is usually served with bagels?
+
+- [x] Lox
+- [ ] Oysters
+- [ ] Shrimp
+
+#### In the Middle Ages, "gaufriers" were used to make an early version of which breakfast food?
+
+- [ ] Toast
+- [x] Waffles
+- [ ] Oatmeal
+
+#### Thomas' English Muffins have used what mode of transportation in their logo?
+
+- [x] Horses and Carriage
+- [ ] Aircraft Carrier
+- [ ] Rollerblades
+
+#### The "Quaker Man" on oatmeal containers goes by what name internally at Quaker Foods?
+
+- [ ] William
+- [ ] George
+- [x] Larry
+
+#### Silk is a brand of milk with varieties made using which of the following dairy substitutes?
+
+- [x] Almondmilk
+- [ ] Peanutmilk
+- [ ] Walmutmilk
+
+#### Which of the following is NOT part of a traditional English breakfast?
+
+- [ ] Fried Bread
+- [ ] Back bacon
+- [x] Peas
+
+#### What kind of animal appears on boxes of Trix cereal?
+
+- [ ] Badger
+- [x] Rabbit
+- [ ] Tiger
+
+#### What makes up the base of a frittata?
+
+- [x] Eggs
+- [ ] Spinach
+- [ ] Gravy
+
+#### Who came in third in the 1996 Presidential Election?
+
+- [ ] Ralph Nader
+- [x] Ross Perot
+- [ ] Pat Buchanan
+
+#### Eric Arthur Blair wrote what pen name?
+
+- [ ] Lewis Carroll
+- [x] George Orwell
+- [ ] O. Henry
+
+#### The QWERTY Keyboard has all of those letters on which row?
+
+- [x] Top
+- [ ] Middle
+- [ ] Bottom
