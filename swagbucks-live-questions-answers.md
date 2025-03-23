@@ -60141,3 +60141,27 @@
 - [x] Conjunction
 - [ ] Verb
 - [ ] Noun
+
+#### "The Tori Paradox" is a phenomenon that got its name from which show?
+
+- [ ] Beverly Hills, 90210
+- [x] Saved By The Bell
+- [ ] Awkward
+
+#### Which snack cracker, made of layered wheat, appears to be woven?
+
+- [ ] Ritz
+- [ ] Wheat Thins
+- [x] Triscuit
+
+#### The National Biscuit Company is better known by what name?
+
+- [x] Nabisco
+- [ ] Hostess
+- [ ] Drake
+
+#### Which one of these holidays is NOT celebrated in July?
+
+- [ ] Canada Day
+- [x] National Watermelon Day
+- [ ] Ice Cream Day
