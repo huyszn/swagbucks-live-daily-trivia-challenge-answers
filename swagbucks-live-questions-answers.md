@@ -60045,3 +60045,99 @@
 - [x] Top
 - [ ] Middle
 - [ ] Bottom
+
+#### Zeus was the king of the gods in which country's ancient culture?
+
+- [ ] China
+- [x] Greece
+- [ ] Scotland
+
+#### The original pound cake recipe does NOT require a pound of which of these ingredients?
+
+- [ ] Butter
+- [ ] Sugar
+- [x] Spinach
+
+#### What is the total percentage of the Earth covered by oceans?
+
+- [x] 71%
+- [ ] 15%
+- [ ] 99%
+
+#### Which country is home to the largest pop group in the world?
+
+- [ ] UK
+- [x] Japan
+- [ ] South Korea
+
+#### Before becoming an actor, Paul Newman had a college scholarship to play which sport?
+
+- [ ] Baseball
+- [ ] Ice Hockey
+- [x] American Football
+
+#### Who is the main villain in the Masters of the Universe toy line?
+
+- [ ] Trap Jaw
+- [x] Skeletor
+- [ ] Beast Man
+
+#### Which video game's theme was the first to win a Grammy award?
+
+- [x] Civilization IV
+- [ ] Portal 2
+- [ ] World of Warcraft
+
+#### George Lucas' dog inspired both Indiana Jones and what other character?
+
+- [ ] Han Solo
+- [ ] Jabba the Hutt
+- [x] Chewbacca
+
+#### Which of the following games involves drawing things on paper?
+
+- [x] Pictionary
+- [ ] Apples to Apples
+- [ ] Heads Up
+
+#### Stifler and Stifler's Mom both appear in which film series?
+
+- [ ] Porky's
+- [ ] Teen Wolf
+- [x] American Pie
+
+#### How many different types of fouls are there in the game of Quidditch?
+
+- [ ] 6
+- [ ] 274
+- [x] 700
+
+#### Which president authored the books "The Audacity of Hope" and "Dreams From My Father"?
+
+- [ ] Ronald Reagan
+- [x] Barack Obama
+- [ ] George W. Bush
+
+#### What do you multiply with mass to get momentum?
+
+- [x] Velocity
+- [ ] Friction
+- [ ] Height
+
+#### Where is the only tropical rainforest in the U.S. National Forest System?
+
+- [ ] Hawaii
+- [x] Puerto Rico
+- [ ] Guam
+
+#### Which social media app has "Reels"?
+
+- [x] Instagram
+- [ ] Twitter
+- [ ] FourSquare
+
+#### What kind of word is used to connect clauses?
+
+- [x] Conjunction
+- [ ] Verb
+- [ ] Noun
