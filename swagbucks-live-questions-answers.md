@@ -60165,3 +60165,45 @@
 - [ ] Canada Day
 - [x] National Watermelon Day
 - [ ] Ice Cream Day
+
+#### What are the two rival gangs in "West Side Story"?
+
+- [ ] Bloods and Crips
+- [ ] Montagues and Capulets
+- [x] Jets and Sharks
+
+#### What is the primary color of a regulation NFL football?
+
+- [ ] Blue
+- [ ] Green
+- [x] Brown
+
+#### Which country has the most coastline?
+
+- [ ] Australia
+- [ ] Russia
+- [x] Canada
+
+#### What is the name of the large observation wheel on the River Thames?
+
+- [x] The London Eye
+- [ ] The Spinning Lookie-loo
+- [ ] The Roundabout
+
+#### Which of the following is NOT a type of pen?
+
+- [ ] Ballpoint
+- [ ] Fell-tip
+- [x] Semi-sonic
+
+#### Which of these is NOT a step in the Scientific Method?
+
+- [ ] Observation
+- [ ] Hypothesis
+- [x] Crying
+
+#### What inspired Alfred Nobel to create the Nobel Prize?
+
+- [x] His Obituary
+- [ ] His Children
+- [ ] A Scientist
