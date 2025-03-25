@@ -60207,3 +60207,63 @@
 - [x] His Obituary
 - [ ] His Children
 - [ ] A Scientist
+
+#### Which stand-up comedian starred in "Home Improvement"?
+
+- [x] Tim Allen
+- [ ] Caroline Rea
+- [ ] Ray Romano
+
+#### In 1992, Johnny Carson retired from hosting "The Tonight Show". Who replaced him?
+
+- [ ] Joan Rivers
+- [x] Jay Leno
+- [ ] Jimmy Kimmel
+
+#### Which of the following 90s TV shows was adapted from a movie?
+
+- [x] Buffy The Vampire Slayer
+- [ ] Boy Meets World
+- [ ] The Drew Carey Show
+
+#### "I Don't Want to Wait" by Paula Cole was the theme song for which 90s TV show?
+
+- [ ] Becker
+- [ ] That 70s Show
+- [x] Dawson's Creek
+
+#### What long-running police-and-legal drama debuted on September 13th, 1990?
+
+- [x] Law & Order
+- [ ] Chicago Fire
+- [ ] Blue Heelers
+
+#### Which of the following was NOT the color of one of the original Power Rangers?
+
+- [ ] Red
+- [ ] Pink
+- [x] Orange
+
+#### On "Beavis & Butt-Head", when Beavis had too much sugar who did he transform into?
+
+- [ ] Stefan Urquelle
+- [x] The Great Cornholio
+- [ ] Chris Gaines
+
+#### "Dawson's Creek" used Paula Cole's song as their theme after they failed to get the right to what other artist's music?
+
+- [ ] Sheryl Crow
+- [ ] Cyndi Laper
+- [x] Alanis Morissete
+
+#### On Saturday Night Live, who played the motivational speaker who lived "In a van down by the river"?
+
+- [ ] Chris Rock
+- [ ] Chris Kattan
+- [x] Chris Farley
+
+#### Where did the Nickelodeon show "Salute Your Shorts" take place?
+
+- [x] Summer Camp
+- [ ] High School
+- [ ] Gymnasium
