@@ -12936,7 +12936,7 @@
 - [ ] Sandfriend
 - [ ] Dirt-liver
 
-#### In "The Princess Bride", what priate identity does Weastly assume?
+#### In "The Princess Bride", what pirate identity does Weastly assume?
 
 - [ ] Dread Pirate Jones
 - [x] Dread Pirates Roberts
@@ -60267,3 +60267,45 @@
 - [x] Summer Camp
 - [ ] High School
 - [ ] Gymnasium
+
+#### Which online retailer saw the most traffic during the last Black Friday?
+
+- [ ] Pets.com
+- [x] Amazon
+- [ ] Things Remembered
+
+#### Which of these is a term for the measurement of the depth of water?
+
+- [ ] Ounce
+- [x] Fathom
+- [ ] Lumen
+
+#### Christopher Reeve rose to fame playing which superhero in a series of movies?
+
+- [ ] Batman
+- [ ] Iron Man
+- [x] Superman
+
+#### What is the time difference between the Diomede islands?
+
+- [ ] 30 minutes
+- [x] 21 hours
+- [ ] 2 hours
+
+#### In 2012, Alexey Bykov used what peculiar method to propose to his girlfriend?
+
+- [ ] Skydiving
+- [x] Faking his own death
+- [ ] Puppets
+
+#### What sitcom most likely inspired Star Lord's name for his ship?
+
+- [ ] Growing Pains
+- [ ] Saved By The Bell
+- [x] Who's The Boss?
+
+#### Which U.S. State is the largest by area? (REPEATED QUESTION WITH DIFFERENT ANSWER ORDERS)
+
+- [x] Alaska
+- [ ] Rhode Island
+- [ ] Vermont
