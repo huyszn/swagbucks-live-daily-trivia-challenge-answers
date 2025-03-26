@@ -42658,7 +42658,7 @@
 #### Complete this "Notting Hill" quote: "I'm just a girl, standing in front of a boy, asking him..."
 
 - [x] To love her
-- [ ] For a sanwich
+- [ ] For a sandwich
 - [ ] The time
 
 #### What is Julia Roberts' lowest-rated movie on Rotten Tomatoes?
@@ -43635,7 +43635,7 @@
 
 #### Who is the only Disney Princess to come from a Pixar movie?
 
-- [x] Merdia
+- [x] Merida
 - [ ] Cinderella
 - [ ] Belle
 
@@ -60309,3 +60309,87 @@
 - [x] Alaska
 - [ ] Rhode Island
 - [ ] Vermont
+
+#### Where was the first Disney Park built?
+
+- [ ] Paris
+- [x] Anaheim
+- [ ] Tokyo
+
+#### Which of the following characters is never the captain of the Enterprise?
+
+- [ ] Jean-Luc Picard
+- [ ] James T. Kirk
+- [x] Kathryn Janeway
+
+#### Barret Eugene Hansen is better known by what stage name?
+
+- [ ] Elton John
+- [ ] Megan Thee Stallion
+- [x] Dr. Demento
+
+#### What is the city in "Sex and the City"?
+
+- [ ] Boston
+- [ ] Chicago
+- [x] New York
+
+#### On "King of the Hill", what does Hank Hill sell?
+
+- [ ] Tractor
+- [ ] Shoes
+- [x] Propane and Propane Accessories
+
+#### Alyssa Milano played a witch on what 1990s TV show?
+
+- [x] Charmed
+- [ ] Sabrina the Teenage Witch
+- [ ] Freaks and Geeks
+
+#### "The Voronins" was the wildly popular Russian version of which 90s sitcom?
+
+- [ ] The Drew Carey Show
+- [ ] Anything But Love
+- [x] Everybody Loves Raymond
+
+#### In the opening titles of their show, we learn the Animaniacs live inside the water tower on which studio's lot?
+
+- [ ] Sony
+- [x] Warner Bros
+- [ ] MGM
+
+#### "Twin Peaks" became synonymous with what food pairing?
+
+- [ ] Milk and Hot Dog
+- [ ] Sprite and Hamburger
+- [x] Coffee and Cherry Pie
+
+#### Joey Lawrence used the success of Blossom" to release what single?
+
+- [ ] Something Special
+- [x] Nothing My Love Can't Fix
+- [ ] Give It To Ya
+
+#### Tommy and Angelica Pickles are main characters on which Nicktoon?
+
+- [ ] Ren & Stimpy
+- [x] Rugrats
+- [ ] The Wild Thornberrys
+
+#### Who was Fox Mulder's partner on "The X-Files"?
+
+- [x] Dana Scully
+- [ ] Andy Sipowicz
+- [ ] John Munch
+
+#### "Frasier" was a spinoff of what other sitcom?
+
+- [ ] Married With Children
+- [x] Cheers
+- [ ] Living Single
+
+#### "Bluey" is produced in which country?
+
+- [ ] The Netherlands
+- [x] Australia
+- [ ] Estonia
