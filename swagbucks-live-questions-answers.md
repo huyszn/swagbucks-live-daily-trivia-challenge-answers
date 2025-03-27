@@ -60393,3 +60393,81 @@
 - [ ] The Netherlands
 - [x] Australia
 - [ ] Estonia
+
+#### Damon Wayans, David Alan Grier, and Jim Carrey all starred on which 90s sketch show?
+
+- [x] In Living Color
+- [ ] Mad TV
+- [ ] The State
+
+#### On May 21st, 1992 MTV launched what reality show?
+
+- [ ] The Bachelor
+- [x] The Real World
+- [ ] Survivor
+
+#### Before she played "Sabrina The Teenage Witch", Melissa Joan Hart starred on what Nickelodeon Show?
+
+- [ ] All That
+- [ ] Legends of the Hidden Temple
+- [x] Clarissa Explains It All
+
+#### Characters from "The Fresh Prince of Bel Air" made crossover appearances on what other show?
+
+- [ ] Martin
+- [x] In The House
+- [ ] Moesha
+
+#### "Step By Step", "Full House", and "Family Matters" were all part of what ABC programming block?
+
+- [x] TGIF
+- [ ] LMAO
+- [ ] FWIW
+
+#### How many total Emmys did "ER" win?
+
+- [ ] 44
+- [ ] 37
+- [x] 23
+
+#### Who starred in the teen dramaedy "My So-Called Life"?
+
+- [x] Claire Danes
+- [ ] Katie Holmes
+- [ ] Christina Applegate
+
+#### Who was the only "Melrose Place" character to be there for the entire run of the series?
+
+- [ ] Amanda Woodward
+- [ ] Billy Campbell
+- [x] Dr. Michael Mancini
+
+#### In "Ally McBeal", what does Ally McBeal do for a living?
+
+- [ ] Producer
+- [x] Lawyer
+- [ ] Scientist
+
+#### In "Boy Meets World", who does Corey end up with?
+
+- [ ] Angela
+- [ ] Morgan
+- [x] Topanga
+
+#### Dolly Parton turned down an offer from what music star to cover "I Will Always Love You"?
+
+- [x] Elvis Presley
+- [ ] George Jones
+- [ ] Elon John
+
+#### The warming of the Earth due to trapped gasses is called what?
+
+- [ ] The Tom Green Effect
+- [ ] The Green Giant Effect
+- [x] The Greenhouse Effect
+
+#### What children's book character lives on asteroid B 612?
+
+- [x] The Little Prince
+- [ ] Matilda
+- [ ] Paddington
