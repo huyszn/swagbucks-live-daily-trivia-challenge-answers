@@ -41227,7 +41227,7 @@
 - [x] Tokyo
 - [ ] Paris
 
-#### What climate activist was named Time's PErson of the Year in 2019?
+#### What climate activist was named Time's Person of the Year in 2019?
 
 - [x] Greta Thunberg
 - [ ] Paul McCartney
@@ -51325,7 +51325,7 @@
 - [ ] The Iliad
 - [ ] Lord of the Files
 
-#### In the famous Dr. Seuss book, what does Horotn Hear?
+#### In the famous Dr. Seuss book, what does Horton Hear?
 
 - [ ] Construction Noise
 - [ ] Salsa Music
@@ -60471,3 +60471,243 @@
 - [x] The Little Prince
 - [ ] Matilda
 - [ ] Paddington
+
+#### Which of the following professional leagues rarely allows teams to tie?
+
+- [ ] Major League Soccer
+- [ ] National Hockey League
+- [x] Major League Baseball
+
+#### Which of the following candy bars contains coconut?
+
+- [x] Mounds
+- [ ] Chunky
+- [ ] Twix
+
+#### Which of the following is NOT a standard ingredient in chocolate chip cookies?
+
+- [ ] Vanilla
+- [ ] Flour
+- [x] Tomato
+
+#### Ashton Kutcher and Mila Kunis met while working on a 90s sitcom set in which decade?
+
+- [ ] 1960s
+- [x] 1970s
+- [ ] 1980s
+
+#### On Friends, what is the name of the coffee shop where they hang out?
+
+- [x] Central Perk
+- [ ] Java Jitters
+- [ ] Brew Haus
+
+#### While campaigning in 1992, what musical instrument did Bill Clinton play on "The Arsenio Hall Show"?
+
+- [ ] Guitar
+- [ ] Harmonica
+- [x] Saxophone
+
+#### Tia Mowry has said she discovered her love for acting while visiting her brother on the set of what 90s sitcom?
+
+- [ ] Hangin' With Mr. Cooper
+- [x] Full House
+- [ ] Just The Ten of Us
+
+#### Who is the only one of "The Simpsons" family who isn't named for a member of Matt Groening's family?
+
+- [ ] Homer
+- [ ] Lisa
+- [x] Bart
+
+#### In the series finale of "Seinfeld", where do the main characters end up?
+
+- [x] In jail
+- [ ] On a boat
+- [ ] In Las Vegas
+
+#### Ellen DeGeneres's sitcom was named "Ellen" after the original title sounded too similar to what other hit show?
+
+- [ ] Wings
+- [x] Friends
+- [ ] The King of Queens
+
+#### The characters from "Living Single" were inspired by characters from what other 90s sitcom?
+
+- [ ] Martin
+- [ ] Roc
+- [x] A Different World
+
+#### What famous athlete's criminal trial was heavily televised in the 1990s?
+
+- [ ] Reggie Jackson
+- [x] OJ Simpson
+- [ ] Bill Bradley
+
+#### Who did Luke Perry play on "Beverly Hills, 90210"?
+
+- [ ] Brandon
+- [ ] Steve
+- [x] Dylan
+
+#### Which rapper, married to Beyonce, has a song about having 99 problems?
+
+- [ ] KRS-One
+- [x] Jay-Z
+- [ ] Li'l Pump
+
+#### Which of these songs is from "Phantom of the Opera"?
+
+- [ ] Guys and Dolls
+- [ ] Alexander Hamilton
+- [x] Music of the Night
+
+#### Which of the following rivers is the longest?
+
+- [ ] Mississippi
+- [x] Nile
+- [ ] Thames
+
+#### Munchkins are tiny pastries sold by what chain?
+
+- [ ] Bob's Big Boy
+- [x] Dunkin'
+- [ ] Krispy Kreme
+
+#### Complete the title of this show: "Beverly Hills,"...
+
+- [ ] 12345
+- [ ] 5431
+- [x] 90210
+
+#### Which Harry Potter book contains a chapter titled Beyond the Veil?
+
+- [ ] Chamber of Secrets
+- [ ] Goblet of Fire
+- [x] Order of the Phoenix
+
+#### Wanda Maximoff is better known by what name?
+
+- [ ] Zatanna
+- [x] The Scarlet Witch
+- [ ] Uatu
+
+#### Which piece do you have to trap to win a game of chess?
+
+- [ ] Pawn
+- [x] King
+- [ ] Queen
+
+#### Which of the following is NOT an ingredient in Poutine?
+
+- [ ] Cheese Curds
+- [ ] Potatoes
+- [x] Jelly Beans
+
+#### Which of these is a nickname for hot dogs?
+
+- [ ] Steves
+- [ ] Bobs
+- [x] Franks
+
+#### Model Hailey Baldwin is married to which pop superstar?
+
+- [ ] Harry Styles
+- [x] Justin Bieber
+- [ ] Bruno Mars
+
+#### Which of these is NOT a Seinfeld episode title?
+
+- [ ] The Marine Biologist
+- [ ] The Millennium
+- [x] The Overdue Book
+
+#### In a natural hot spring, what heats the water?
+
+- [ ] Electricity
+- [x] Magma
+- [ ] Some matches
+
+#### Which U.S. President was TIME's Person of the Year the most times?
+
+- [ ] Harry S Truman
+- [x] Franklin D. Roosevelt
+- [ ] Barack Obama
+
+#### What Netflix series centers around race relations at Winchester University?
+
+- [x] Dear White People
+- [ ] Sex Education
+- [ ] Big Mouth
+
+#### Which Pope is believed to be practically responsible for the spread of the Black Death?
+
+- [ ] Benedict IX
+- [ ] Alexander VI
+- [x] Gregory IX
+
+#### Which Netflix original movie stars Adam Sandler?
+
+- [x] The Do-Over
+- [ ] Bright
+- [ ] The Babysitter
+
+#### "The Sunshine State" is the nickname for which U.S. State?
+
+- [ ] Rhode Island
+- [x] Florida
+- [ ] Alaska
+
+#### Ryan Gosling and Rachel McAdams starred in what romantic drama?
+
+- [ ] Crazy, Stupid Love.
+- [x] The Notebook
+- [ ] The Time Traveler's Wife
+
+#### When a solid condensates, what is formed?
+
+- [x] Liquid
+- [ ] Ice
+- [ ] Gas
+
+#### In "Noelle", where as Noelle's bother gone to escape from the North Pole?
+
+- [ ] Honolulu
+- [ ] New York
+- [x] Phoenix
+
+#### Which reality show centers around the staff of a restaurant?
+
+- [x] Vanderpump Rules
+- [ ] The Real World
+- [ ] Temptation Island
+
+#### In 1997, what did Reese's add to their peanut butter cups to create a new flavor?
+
+- [ ] Crispy wafers
+- [ ] Nougat
+- [x] Cookie
+
+#### Which of the following is NOT a story by Mark Twain?
+
+- [ ] Tom Sawyer
+- [ ] Huckleberry Finn
+- [x] Paradise Lost
+
+#### What haircut trend was started by the show "Friends"?
+
+- [x] The Rachel
+- [ ] The Columbo
+- [ ] The Knight Rider
+
+#### What is the term for a group of kangaroos?
+
+- [x] A Troop
+- [ ] A Lounge
+- [ ] An Obstinacy
+
+#### Someone with ranidaphobia would avoid which classic video game?
+
+- [ ] Dig Dug
+- [ ] Donkey Kong
+- [x] Frogger
