@@ -60711,3 +60711,39 @@
 - [ ] Dig Dug
 - [ ] Donkey Kong
 - [x] Frogger
+
+#### Which of the following airports is in New York?
+
+- [ ] O'Hare
+- [ ] Bob Hope
+- [x] LaGuardia
+
+#### What game show features categories like Before & After and Around the House?
+
+- [ ] Survivor
+- [ ] The Price is Right
+- [x] Wheel of Fortune
+
+#### In "The One After Vegas", what last name is added to all of the cast's opening credits?
+
+- [ ] Jones
+- [ ] Littlefield
+- [x] Aquette
+
+#### What are sconces used for?
+
+- [ ] Painting
+- [x] Lighting
+- [ ] Cooking
+
+#### If the Brother Grimm ran a store, which department would be magically restocked at night by elves?
+
+- [x] Shoes
+- [ ] Perumes
+- [ ] Evening Growns
+
+#### What place is known as "The Windy City"?
+
+- [ ] New York
+- [x] Chicago
+- [ ] Seattle
