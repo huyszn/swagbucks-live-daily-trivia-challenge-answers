@@ -40543,7 +40543,7 @@
 - [ ] The Art of Sleeping
 - [x] The Art of War
 
-#### What video game is essentailly a bunch of cars playing soccer?
+#### What video game is essentially a bunch of cars playing soccer?
 
 - [x] Rocket League
 - [ ] NHL 21
@@ -60747,3 +60747,117 @@
 - [ ] New York
 - [x] Chicago
 - [ ] Seattle
+
+#### What shape-inspired nickname belongs to France?
+
+- [ ] The Circle
+- [x] The Hexagon
+- [ ] The Triangle
+
+#### Donald Blake was the alias of which Marvel hero?
+
+- [x] Thor
+- [ ] The Thing
+- [ ] Captain Britain
+
+#### Rumer Willis is the daughter of which two actors?
+
+- [x] Bruce Willis and Demi Moore
+- [ ] Bruce Willis and Angelina Jolie
+- [ ] Bruce Willis and Demi Lovato
+
+#### What type of instrument is the Fender Stratocaster?
+
+- [ ] Cymbal
+- [x] Guitar
+- [ ] Piano
+
+#### Which of these Haunted videos did OmarGosh upload most recently?
+
+- [x] Biltmore Hotel
+- [ ] Brushy Mountain
+- [ ] Hales Bar Dam
+
+#### Which generation comes AFTER Millennials?
+
+- [x] Gen Z
+- [ ] Gen X
+- [ ] Baby Boomers
+
+#### What piece of playground equipment do you need to play double dutch?
+
+- [ ] Ball
+- [x] Jump Rope
+- [ ] Slide
+
+#### What is the force that causes water to boil?
+
+- [x] Pressure
+- [ ] Gravity
+- [ ] Inertia
+
+#### What percussion instrument, heavily featured in Blue Oyster Cult's "Don't Fear The Reaper", was parodied on SNL?
+
+- [ ] Tamborine
+- [ ] Xylophone
+- [x] Cowbell
+
+#### In the fairytale of Cinderella, what does Cinderella leave behind when she leaves the ball?
+
+- [ ] Tiata
+- [ ] Glove
+- [x] Glass Slipper
+
+#### Which historical figure from science had a 146-question Impossible Employment test?
+
+- [ ] Marie Curie
+- [x] Thomas Edison
+- [ ] Albert Einstein
+
+#### In which State does the show "Yellowstone" primarily take place?
+
+- [x] Montana
+- [ ] Hawaii
+- [ ] New York
+
+#### According to the saying, Heaven helps those who do what?
+
+- [ ] Paint by numbers
+- [x] Help themselves
+- [ ] Go green
+
+#### Which of the following is NOT one of the Caribbean Islands?
+
+- [ ] Antigua
+- [x] Madagascar
+- [ ] Saint Martin
+
+#### Poppin Fresh the Doughboy is the mascot for which food brand?
+
+- [ ] Sara Lee
+- [ ] Tastykake
+- [x] Pillsbury
+
+#### Which of these is a type of dance?
+
+- [ ] Fox Grapes
+- [x] Foxtrot
+- [ ] Foxy Brown
+
+#### Jon Hamm rose to fame starring on which AMC show?
+
+- [ ] Breaking Bad
+- [x] Mad Men
+- [ ] Halt and Catch Fire
+
+#### Dr. Seuss's widow mentioned certain actors who could play the Grinch. Which of the following was NOT one of them?
+
+- [x] Tom Hanks
+- [ ] Jack Nicholson
+- [ ] Dustin Hoffman
+
+#### Which of the following words is NOT an example of onomatopoeia?
+
+- [ ] Honk
+- [x] Banana
+- [ ] Meow
