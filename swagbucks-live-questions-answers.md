@@ -60861,3 +60861,87 @@
 - [ ] Honk
 - [x] Banana
 - [ ] Meow
+
+#### Which standup comedian always claimed "I get no respect"?
+
+- [ ] Richard Pryor
+- [x] Rodney Dangerfield
+- [ ] Chris Rock
+
+#### Whose comedy films include "Billy Madison", "Happy Gilmore", and "The Waterboy"?
+
+- [ ] Larry the Cable Guy
+- [ ] Martin Short
+- [x] Adam Sandler
+
+#### What was Joan Rivers' catchphrase? (REPEATED QUESTION WITH DIFFERENT ANSWER ORDERS)
+
+- [x] "Can We Talk?"
+- [ ] "Why Didn't You Call?"
+- [ ] "Have We Spoken Lately?"
+
+#### The Second City, The Groundlings, and Upright Citizens Brigade all train performers in which comedic style?
+
+- [ ] Mime
+- [x] Improvisation
+- [ ] Insult Comedy
+
+#### On "SCTV", what was the name of the owner of the network?
+
+- [ ] Johnny LaRue
+- [ ] Earl Camembert
+- [x] Guy Baballero
+
+#### Which of these sketch comedy shows debuted the earliest?
+
+- [x] The Carol Burnett Show
+- [ ] Mad TV
+- [ ] The Dana Carvey Show
+
+#### Trevor Noah, Jon Stewart, and Craig Bilborn have all hosted which comedy news show?
+
+- [ ] Not Necessarily The News
+- [ ] Have I Got News For You
+- [x] The Daily Show
+
+#### In which of these comedies does a main character break the fourth wall?
+
+- [x] Weird Science
+- [ ] The Breakfast Club
+- [ ] Curly Sue
+
+#### Who is credited with creating "Saturday Night Live"?
+
+- [ ] Jean Douanian
+- [x] Lorrne Michaels
+- [ ] Robert Smigel
+
+#### Which of these comic actors is known for their improvisational style?
+
+- [x] Robin Williams
+- [ ] Jerry Seinfeld
+- [ ] David Spade
+
+#### What drink brand claims to be "Made from the best stuff on Earth"?
+
+- [x] Snapple
+- [ ] Kool-Aid
+- [ ] Hawaiian Punch
+
+#### In the 1016 election, who was the Libertarian candidate for Vice President?
+
+- [x] William Weld
+- [ ] Gary Johnson
+- [ ] James P. Gray
+
+#### What snack company used $40,000 chewing-simulation device to give their snacks the ideal crunch level?
+
+- [x] Frito-Lay
+- [ ] Popchips
+- [ ] Keebier
+
+#### Florida is best known for what fruit?
+
+- [ ] Grapes
+- [ ] Avocados
+- [x] Oranges
