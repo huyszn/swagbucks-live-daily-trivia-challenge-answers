@@ -18383,7 +18383,7 @@
 
 - [x] She's just a girl who says that I am the one
 - [ ] She's just a girl who has a hamburger bun
-- [ ] She's kust a girl and girls just wanna have fun
+- [ ] She's just a girl and girls just wanna have fun
 
 #### From Sister Sledge: "We are family..."
 
@@ -60945,3 +60945,63 @@
 - [ ] Grapes
 - [ ] Avocados
 - [x] Oranges
+
+#### Texas, Louisiana, and Florida all sit along what body of water?
+
+- [ ] Mediterranean Sea
+- [x] Gulf of Mexico
+- [ ] Strait of Gibraltar
+
+#### Merlot, Pinot Grigio, and Moscato are all varieties of what beverage?
+
+- [x] Wine
+- [ ] Vodka
+- [ ] Scotch
+
+#### Which sense did Marvel's Daredevil lose in a childhood accident?
+
+- [ ] Smell
+- [ ] Taste
+- [x] Sight
+
+#### Which character from "Full House" would frequently say "You got it dude!"?
+
+- [ ] Danny
+- [x] Michelle
+- [ ] Uncle Jesse
+
+#### In total, how many different McNugget shapes are there?
+
+- [ ] 3
+- [x] 4
+- [ ] 5
+
+#### Which of the following is NOT a sporting event for sprinters?
+
+- [ ] 100 Meters
+- [ ] 200 Meters
+- [x] Marathon
+
+#### Rapper Drake can be found courtside rooting on what hometown NBA team?
+
+- [x] Toronto Raptors
+- [ ] Seattle Supersonics
+- [ ] Dallas Mavericks
+
+#### On which of these physical objects would you most commonly find a quincunx?
+
+- [ ] Diesel Engine
+- [x] Pair of Dice
+- [ ] Sofa Cushion
+
+#### What is the appropriate and most common response for a couple during their wedding vows?
+
+- [x] I Do
+- [ ] Abstootly
+- [ ] Okey Dokey Artichokey
+
+#### Canada's Tim Hortons is known for what fare?
+
+- [ ] Pizza and Wings
+- [x] Coffee and Donuts
+- [ ] Tea and Spaghetti
