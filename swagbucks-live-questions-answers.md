@@ -61005,3 +61005,39 @@
 - [ ] Pizza and Wings
 - [x] Coffee and Donuts
 - [ ] Tea and Spaghetti
+
+#### If Lady Gaga changed her name to the first word most commonly spoken by babies, what would you call her?
+
+- [ ] Lady Mama
+- [x] Lady Dada
+- [ ] Lady No
+
+#### Who upholstered furniture before becoming a rock star?
+
+- [ ] Michael Stipe
+- [x] Jack White
+- [ ] Kid Rock
+
+#### Snoop Dogg appeared in Old School because he wanted a role in what other movie?
+
+- [ ] The Hangover
+- [ ] Due Date
+- [x] Starsky & Hutch
+
+#### Before Chuck Berry's first hit, which of the following jobs did he hold?
+
+- [x] Hairdresser
+- [ ] Walter
+- [ ] Car Mechanic
+
+#### What athlete popularized the phrase "My bad"?
+
+- [ ] Robert Clemente
+- [x] Manute Bol
+- [ ] Muhammad Ali
+
+#### Which of the following celebrities was NOT a contestant on "The Price Is Right"?
+
+- [ ] Vanna White
+- [x] Richard Pryor
+- [ ] Aaron Paul
