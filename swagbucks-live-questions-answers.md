@@ -61041,3 +61041,207 @@
 - [ ] Vanna White
 - [x] Richard Pryor
 - [ ] Aaron Paul
+
+#### Aesop is known for what kinds of stories?
+
+- [ ] Comedies
+- [ ] Epic poems
+- [x] Fables
+
+#### Which Harry Potter character would be the best equipped to guild you through the London Underground?
+
+- [x] Dumbledore
+- [ ] Voldemort
+- [ ] Arthur Weasley
+
+#### What Best Picture Oscar winner was adapted from the unproduced play "Everybody Comes to Rick's"?
+
+- [x] Casablanca
+- [ ] Titanic
+- [ ] Shakespeare in Love
+
+#### Baby Back Ribs come from what animal?
+
+- [ ] Chicken
+- [x] Pig
+- [ ] Cow
+
+#### Chris Pine made his feature film debut in which Disney movie?
+
+- [ ] Enchanted
+- [x] The Princess Diaries 2
+- [ ] Herbie: Fully Loaded
+
+#### The Kimono is a traditional clothing item in which country?
+
+- [x] Japan
+- [ ] New Zealand
+- [ ] Kenya
+
+#### Who plays Captain Jack Sparrow in the "Pirates of the Caribbean" movies?
+
+- [ ] Orlando Bloom
+- [ ] Geoffrey Rush
+- [x] Johnny Depp
+
+#### Butterbeer is a drink created for what book series?
+
+- [x] Harry Potter
+- [ ] Narnia
+- [ ] Lord of the Rings
+
+#### How long did it take to complete the first edition of the Oxford English Dictionary?
+
+- [ ] 10 years
+- [x] 70 years
+- [ ] 28 years
+
+#### In the original Contra, what did the "Konami Code" give you?
+
+- [x] Extra lives
+- [ ] Weapons
+- [ ] Extra points
+
+#### What two colors combine to create orange?
+
+- [ ] Red and Blue
+- [ ] Blue and Yellow
+- [x] Red and Yellow
+
+#### What destroyed Sweet Valley at the end of the original "Sweet Valley High" series?
+
+- [ ] Flood
+- [x] Earthquake
+- [ ] Fire
+
+#### What cartoon character was banned from a Polish playground because they don't wear pants?
+
+- [ ] Donald Duck
+- [x] Winnie the Pooh
+- [ ] Bugs Bunny
+
+#### On which reality competition show do the judges start with their back turned to the singers during auditions?
+
+- [ ] American Idol
+- [ ] The Spin-Off
+- [x] The Voice
+
+#### What genre of music comes from synthesizers in vintage arcade machines?
+
+- [ ] Game Dance
+- [x] Chiptunes
+- [ ] Mario Music
+
+#### Aubergine is another word for what?
+
+- [x] Eggplant
+- [ ] Cake
+- [ ] Omelette
+
+#### Which these political figures once worked as a librarian?
+
+- [ ] Abraham Lincoln
+- [ ] George Washington
+- [x] J. Edgar Hoover
+
+#### Which of the following food items is considered vegan?
+
+- [ ] Beef Jerky
+- [x] Granny Smith Apples
+- [ ] Milkshake
+
+#### Hall of Famer George Herman Ruth is better known by what nickname?
+
+- [ ] Black Mamba
+- [ ] The Great One
+- [x] Babe
+
+#### Which of these actors has NOT played Batman in a movie?
+
+- [ ] Christian Bale
+- [ ] Ben Affleck
+- [x] Jim Carrey
+
+#### What is the most probable cause of Takotsubo Cardiomyopathy?
+
+- [ ] High cholesterol
+- [ ] Smoking
+- [x] A breakup
+
+#### What ancient land was ruled by Pharaohs?
+
+- [x] Egypt
+- [ ] Saxony
+- [ ] Rome
+
+#### What cereal's ads feature a mascot being reminded that it's for kids?
+
+- [ ] Honey Grahams
+- [x] Trix
+- [ ] Weetabix
+
+#### Before they ripen, what color are most bananas?
+
+- [ ] Purple
+- [ ] Red
+- [x] Green
+
+#### On what day of the week is Father's Day celebrated in the U.S.?
+
+- [ ] Monday
+- [x] Sunday
+- [ ] Friday
+
+#### According to the saying, what gathers no moss?
+
+- [ ] A lily pad
+- [x] A rolling stone
+- [ ] A jet airliner
+
+#### What is the name of the fictional airline from "Lost"?
+
+- [x] Oceanic Airlines
+- [ ] Qantas Airways
+- [ ] American Airlines
+
+#### What are the two types of cards in a standard game of Monopoly?
+
+- [ ] Hazar and Money
+- [ ] Credit and Greeting
+- [x] Chance and Community Chest
+
+#### What 2022 Netflix series is based on The Addams Family?
+
+- [x] Wednesday
+- [ ] Cobra Kai
+- [ ] Stranger Things
+
+#### In which sport do players get yellow-carded?
+
+- [ ] Racquetball
+- [ ] Baseball
+- [x] Soccer
+
+#### Icing is a rule in what sport?
+
+- [ ] Baseball
+- [ ] Long Jump
+- [x] Ice Hockey
+
+#### Velveeta packages its easy-to-make meal with what pasta shape?
+
+- [x] Shells
+- [ ] Linguini
+- [ ] Capellini
+
+#### What day does Saturday Night Live typically air?
+
+- [ ] Wednesday
+- [x] Saturday
+- [ ] Monday
+
+#### Which of these books was set during the Great Depression?
+
+- [ ] Frankenstein
+- [ ] War of the Worlds
+- [x] The Grapes of Wrath
