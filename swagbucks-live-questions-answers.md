@@ -61245,3 +61245,15 @@
 - [ ] Frankenstein
 - [ ] War of the Worlds
 - [x] The Grapes of Wrath
+
+#### How many playing cards are in a standard deck?
+
+- [ ] 66
+- [ ] 71
+- [x] 52
+
+#### Which of these dog movies is NOT based on a true story?
+
+- [ ] Hachi: A Dog's Tale
+- [x] Snow Dogs
+- [ ] Iron Will
