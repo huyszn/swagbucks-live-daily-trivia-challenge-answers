@@ -61257,3 +61257,51 @@
 - [ ] Hachi: A Dog's Tale
 - [x] Snow Dogs
 - [ ] Iron Will
+
+#### What celebrity once worked as a lion tamer?
+
+- [ ] Al Pacino
+- [x] Christopher Walken
+- [ ] Robin Wlliams
+
+#### Who was America's first President?
+
+- [x] George Washington
+- [ ] John Adams
+- [ ] Thomas Jefferson
+
+#### What insects are known for eating woods?
+
+- [x] Termites
+- [ ] Crickets
+- [ ] Houseflies
+
+#### What day immediately follows Thursday?
+
+- [ ] Monday
+- [ ] Sunday
+- [x] Friday
+
+#### Which of the following movies lost the most money during its initial box office run?
+
+- [x] Mars Needs Moms
+- [ ] Dark Phoenix
+- [ ] The Postman
+
+#### Prunes are made by dehydrating what fruit?
+
+- [ ] Cherry
+- [ ] Grape
+- [x] Plum
+
+#### What was James Brown's nickname?
+
+- [x] The Godfather of Soul
+- [ ] The Great Uncle of Jazz
+- [ ] The Stepbrother of Swing
+
+#### What does the Latin phrase "ad hoc" literally mean?
+
+- [ ] Literally
+- [ ] Improvised
+- [x] For this
