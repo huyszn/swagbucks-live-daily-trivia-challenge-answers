@@ -61305,3 +61305,57 @@
 - [ ] Literally
 - [ ] Improvised
 - [x] For this
+
+#### When the Russian Revolution happened, what family was in power?
+
+- [x] Romanov
+- [ ] Noisesov
+- [ ] Slackingov
+
+#### Which comedian caught flak for his jokes as a 2024 Golden Globes host?
+
+- [x] Jo Ky
+- [ ] Matt Rife
+- [ ] Kip Aotta
+
+#### What was the first non-hamburger meal addition to the McDonalds menu?
+
+- [x] Fish Fillet
+- [ ] Grilled Pineapple
+- [ ] Chicken Tenders
+
+#### Which of these foods is made by adding bacteria to milk in a controlled fermentation process?
+
+- [x] Yogurt
+- [ ] Jelly Beans
+- [ ] Mashed Potatoes
+
+#### After her relationship with Julius Caesar, who did Cleopatra marry?
+
+- [x] Mark Anthony
+- [ ] Marcus Aurelius
+- [ ] Mark Hamill
+
+#### What 3rd generation pro wrestler devastates opponents with his RKO out of nowhere?
+
+- [x] Randy Orton
+- [ ] The Rock
+- [ ] Roman Reigns
+
+#### Which "Ghost with the Most" is summoned by saying his name 3 times?
+
+- [ ] Casper
+- [x] Beetlejuice
+- [ ] Candyman
+
+#### What animal in the Edinburgh zoo was granted knighthood in 2008?
+
+- [ ] Gorilla
+- [ ] Lion
+- [x] Penguin
+
+#### Who played Padme in the prequel trilogy?
+
+- [ ] Carrie Fisher
+- [ ] Daisy Ridley
+- [x] Natalie Portman
