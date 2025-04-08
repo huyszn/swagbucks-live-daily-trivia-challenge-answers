@@ -35794,7 +35794,7 @@
 #### What famous puzzle was the top-selling holiday toy of 1980?
 
 - [ ] Bop It
-- [x] Ribik's Cube
+- [x] Rubik's Cube
 - [ ] Simon
 
 #### Which of these movies was directed by Spike Lee?
@@ -61419,3 +61419,33 @@
 - [ ] Pepe Le Pew
 - [x] Tweety Bird
 - [ ] Elmer Fudd
+
+#### Which position has been featured the LEAST times on the cover of Madden games?
+
+- [x] Wide Receiver
+- [ ] Quarterback
+- [ ] Running back
+
+#### What do you use a straw for?
+
+- [x] Drinking
+- [ ] Driving
+- [ ] Drilling
+
+#### In "Back to the Future", what mode of transportation is turned into a time machine by Doc Brown?
+
+- [x] Car
+- [ ] Bicycle
+- [ ] Elevator
+
+#### What is the name of the Teenage Witch who's had her own series on both ABC and Netflix?
+
+- [ ] Grizelda
+- [ ] Maleficent
+- [x] Sabrina
+
+#### Which of these films is NOT part of Whit Stillman's trilogy about preppies adrift in the big city?
+
+- [x] St. Elmo's Fire
+- [ ] The Last Days of Disco
+- [ ] Barcelona
