@@ -61359,3 +61359,63 @@
 - [ ] Carrie Fisher
 - [ ] Daisy Ridley
 - [x] Natalie Portman
+
+#### Which studio is responsible for Looney Tunes?
+
+- [ ] Disney
+- [x] Warner Bros.
+- [ ] Sony
+
+#### From what company does Wile E Coyote buy all his traps and devices?
+
+- [ ] Vandalay
+- [ ] Trapco
+- [x] Acme
+
+#### Which Looney Tunes character has a stutter?
+
+- [x] Porky Pig
+- [ ] Elmer Fudd
+- [ ] Bugs Bunny
+
+#### In the original "Space Jam", which NBA superstar teams up with the Looney Tunes?
+
+- [ ] Magic Johnson
+- [x] Michael Jordan
+- [ ] Mookie Blaylock
+
+#### Which of the following is NOT a Bugs Bunny catchphrase?
+
+- [ ] Ain't l a stinker?
+- [ ] What's Up, Doc?
+- [x] Do you smell that?
+
+#### In the Looney Tunes short "What's Opera, Doc?", who stars opposite Bugs Bunny?
+
+- [x] Elmer Fudd
+- [ ] Witch Hazel
+- [ ] Pete Puma
+
+#### In "Robin Hood Daffy", what is special about Daffy Duck's quarterstaff?
+
+- [ ] It's actually a rifle
+- [x] It's a buck-and-a-quarter quarterstaff
+- [ ] It's invisible
+
+#### Which Looney Tunes character claims to be "The roughest, toughest, he-man stuffest hombre is ever crossed the Rio Grande"?
+
+- [ ] Gossamer
+- [ ] Speedy Gonzales
+- [x] Yosemite Sam
+
+#### The Looney Tunes alien Marvin is constantly calming planets on behalf of what other planet?
+
+- [x] Mars
+- [ ] Xenon 4
+- [ ] Arrakis
+
+#### Which Looney Tunes character is Sylvester J. Pussycat Sr. constantly trying to catch and eat?
+
+- [ ] Pepe Le Pew
+- [x] Tweety Bird
+- [ ] Elmer Fudd
