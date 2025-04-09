@@ -25210,7 +25210,7 @@
 #### What pop star's conservatorship was finally ended by a Los Angeles judge on November 12th, 2021?
 
 - [ ] Kelly Clarkson
-- [ ] Madoona
+- [ ] Madonna
 - [x] Britney Spears
 
 #### Which of the following disguises is NOT used in 2000's "Charlie's Angels"?
@@ -61449,3 +61449,117 @@
 - [x] St. Elmo's Fire
 - [ ] The Last Days of Disco
 - [ ] Barcelona
+
+#### Which country was home to the Samurai?
+
+- [x] Japan
+- [ ] Indian
+- [ ] Russia
+
+#### West Side Story is a loose musical adaptation of what Shakespeare play?
+
+- [ ] Hamlet
+- [ ] Twelfth Night
+- [x] Romeo and Juliet
+
+#### Which of the following words describes someone in a bad mood?
+
+- [x] Morose
+- [ ] Gregarious
+- [ ] Serene
+
+#### Chickpeas are the principle ingredient in what dip?
+
+- [ ] Caramel sauce
+- [ ] Salsa
+- [x] Hummus
+
+#### How many eyes does a Cyclops have?
+
+- [ ] Three
+- [ ] Two
+- [x] One
+
+#### What are you trying to do with the pieces in Tetris?
+
+- [ ] Make a heart
+- [x] Make horizontal lines
+- [ ] Make sweet music
+
+#### Vanderpump Rules is a spinoff of what other reality franchise?
+
+- [ ] The Real World
+- [x] Real Housewives
+- [ ] Big Brother
+
+#### According to Mental Floss, approximately how many miles does the average person walk in a lifetime
+
+- [x] 100,000
+- [ ] 250,000
+- [ ] 500,000
+
+#### "Twin Peaks" came from the mind of which visionary filmmaker?
+
+- [ ] Brian De Palma
+- [x] David Lynch
+- [ ] Guillermo del Toro
+
+#### In Winnie the Pooh, what part of Eeyore is pinned on?
+
+- [ ] Mane
+- [ ] Nose
+- [x] Tail
+
+#### What safety measure is also believed to keep ghosts from menacing theater?
+
+- [ ] Never saying "MacBeth"
+- [ ] Not whistling backstage
+- [x] A single light bulb
+
+#### Which of the following foods is NOT part of a traditional English breakfast?
+
+- [ ] Beans
+- [x] Ice Cream
+- [ ] Toast
+
+#### What is the capital of Indiana?
+
+- [ ] Tallahassee
+- [ ] Honolulu
+- [x] Indianapolis
+
+#### Toni Morrison was the first African American woman to win what award?
+
+- [ ] Tony
+- [ ] Obie
+- [x] Nobel Prize for Literature
+
+#### What NBA player's career was ended by an ice pack?
+
+- [x] B.J Tyler
+- [ ] Charlies Barkely
+- [ ] Vadimi Radmanovic
+
+#### Where would you find the hottest place on Earth?
+
+- [ ] Egypt
+- [x] Iran
+- [ ] Australia
+
+#### Which of the following is NOT a set in the LEGO Architecture line?
+
+- [ ] The White House
+- [x] Your uncle's house
+- [ ] Taj Mahal
+
+#### The man who invented Morse Code first made a living doing what?
+
+- [ ] Photography
+- [ ] Sculpting
+- [x] Portrait Painting
+
+#### What is the name of the main villain in the "Saw" movies?
+
+- [ ] Pinhead
+- [ ] Hammerfists
+- [x] Jigsaw
