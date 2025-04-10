@@ -61563,3 +61563,105 @@
 - [ ] Pinhead
 - [ ] Hammerfists
 - [x] Jigsaw
+
+#### Which cartoon theme song states, "On the sea or on the land, he gets the situation well in hand"?
+
+- [ ] Spider-Man
+- [ ] Underdog
+- [x] Mighty Mouse
+
+#### A rumored accident with an Imagineer is why cast members say "Good Morning George" when working on what attraction?
+
+- [ ] Space Mountain
+- [ ] Casey Jr.
+- [x] Pirates of the Caribbean
+
+#### Baseball card packs generally contain what treat?
+
+- [x] Gum
+- [ ] M&Ms
+- [ ] Jelly Beans
+
+#### Which bank and credit card company has a series of ads asking "What's in your wallet?"
+
+- [ ] Citi
+- [x] Capital One
+- [ ] Chase
+
+#### What kind of animal serves as the mascot for Nesquik?
+
+- [x] Rabbit
+- [ ] Dog
+- [ ] Cat
+
+#### If you're calm under pressure, you're said to be "Cool as a" what?
+
+- [ ] Pizza Roll
+- [ ] Salamander
+- [x] Cucumber
+
+#### In 18th century France, the coiffure a la Belle Poule became fashionable, which involved what object being added to the hair?
+
+- [ ] A castle
+- [x] A ship
+- [ ] A dog
+
+#### What year did World War II begin?
+
+- [x] 1939
+- [ ] 1963
+- [ ] 1991
+
+#### What do Christina, Queen of Sweden, Princess Mako Komuro, and Princess Christina of the Netherlands have in common?
+
+- [ ] They're the same person
+- [ ] They fought a war against one another
+- [x] They all renounced their titles
+
+#### The fictional kingdom of Arendelle is the setting for what movie?
+
+- [ ] Black Panther
+- [x] Frozen
+- [ ] Brave
+
+#### Former U.S. President Thomas Jefferson is credited with bringing which vegetable to America?
+
+- [ ] Spinach
+- [ ] Asparagus
+- [x] Broccoli
+
+#### Bob Dylan is most closely associated with which genre of music?
+
+- [x] Folk
+- [ ] Disco
+- [ ] Heavy Metal
+
+#### Cassius Clay won a 1960 Olympic Gold Medal in which event?
+
+- [ ] Marathon
+- [x] Boxing
+- [ ] Diving
+
+#### Monica's ex-boyfriend Pete pursued a career in which sport?
+
+- [x] Ultimate Fighting
+- [ ] NASCAR
+- [ ] Football
+
+#### Which of the following is a basic command people teach their dog?
+
+- [x] Sit
+- [ ] Do My Taxes
+- [ ] Change The Oil
+
+#### In the comic strip, what is the name of Blondie's husband? (REPEATED QUESTION WITH DIFFERENT ANSWER ORDERS)
+
+- [x] Dagwood
+- [ ] Alexander
+- [ ] Bill
+
+#### In "Stranger Things", what's the name of the alternative dimension of the Mind Flayer?
+
+- [ ] Earth 2
+- [x] The Upside Down
+- [ ] The Negative Zone
