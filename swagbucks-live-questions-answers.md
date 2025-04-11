@@ -24403,7 +24403,7 @@
 - [x] Captain
 - [ ] Dragline
 
-#### In "Home Alone", what name does Marvin give to himself and his parther in crime Harry?
+#### In "Home Alone", what name does Marvin give to himself and his partner in crime Harry?
 
 - [x] The Wet Bandits
 - [ ] The Diry Bandits
@@ -61665,3 +61665,93 @@
 - [ ] Earth 2
 - [x] The Upside Down
 - [ ] The Negative Zone
+
+#### In the Marvel Cinematic Universe, what is Thor the Norse God of?
+
+- [ ] Games
+- [x] Thunder
+- [ ] Dance
+
+#### Which of the following is NOT a common variation of M&Ms?
+
+- [ ] Peanut Butter
+- [ ] Pretzel
+- [x] Prune
+
+#### According to the saying, what peaks louder than words?
+
+- [x] Actions
+- [ ] A bullhorn
+- [ ] Basset Hounds
+
+#### The songs "Baby Shark", "22", and "Pocketful of Sunshine" all have a tempo that is perfectly suited for what?
+
+- [ ] Running a marathon
+- [x] CPR
+- [ ] Hard-boiling an egg
+
+#### "What we've got here is failure to communicate" is a famous quote from which movie?
+
+- [ ] Deliverance
+- [ ] The Maltese Falcon
+- [x] Cool Hand Luke
+
+#### Which State is known as the Lone Star State?
+
+- [ ] Wyoming
+- [ ] Montana
+- [x] Texas
+
+#### Footage of which older singer lip syncing at their concert led to a 2024 meme?
+
+- [ ] Frank Sinatra
+- [x] Frankie Valli
+- [ ] Tony Bennett
+
+#### Where would you most likely to encounter a "grawlix"?
+
+- [x] Comic strip
+- [ ] Cavern
+- [ ] Chemistry Lab
+
+#### "Texas Hold 'Em" was a 2024 country hit for which R&B singer?
+
+- [ ] Mary J. Bilge
+- [ ] Alicia Keys
+- [x] Beyonce
+
+#### "Age of Ultron" is a movie in which series?
+
+- [x] The Avengers
+- [ ] Star Wars
+- [ ] Batman
+
+#### Which of the following 70s sitcoms was NOT a spin-off?
+
+- [ ] Monk & Mindy
+- [ ] Laverne & Shirley
+- [x] Taxi
+
+#### On average, which of these animals gives birth to the most offspring in one shot?
+
+- [ ] Rabbit
+- [x] Tailness Tenrec
+- [ ] Naked Mole Rat
+
+#### Which of these abbreviations is NOT a standard function in email?
+
+- [ ] FWD
+- [ ] BCC
+- [x] PDA
+
+#### Which of the following is known as the smelliest food in the world?
+
+- [ ] Smalahove
+- [x] Surstromming
+- [ ] Shiokara
+
+#### Going by the original Celtic tradition, who ould take the M&Ms left out on the porch for Halloween?
+
+- [ ] The King
+- [x] A ghost
+- [ ] A witch
