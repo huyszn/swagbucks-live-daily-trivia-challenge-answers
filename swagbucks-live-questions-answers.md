@@ -32047,7 +32047,7 @@
 - [ ] Steve Martin
 - [x] Jimmy Kimmel
 
-#### Which of these is a traiditonal Indian dish?
+#### Which of these is a traditional Indian dish?
 
 - [x] Curry
 - [ ] Borscht
@@ -61750,8 +61750,44 @@
 - [x] Surstromming
 - [ ] Shiokara
 
-#### Going by the original Celtic tradition, who ould take the M&Ms left out on the porch for Halloween?
+#### Going by the original Celtic tradition, who could take the M&Ms left out on the porch for Halloween?
 
 - [ ] The King
 - [x] A ghost
 - [ ] A witch
+
+#### Which "What's My Line" panelist coined the phrase "It is bigger than breadbox?"
+
+- [ ] Soupy Sales
+- [x] Steve Allen
+- [ ] Bennett Cerf
+
+#### According to the saying, what's good for the goose is good for who?
+
+- [ ] Beverly d'Angelo
+- [x] The Gander
+- [ ] Ryan Seacrest
+
+#### In what country would you find the only river in the world that flows both ways?
+
+- [ ] Thailand
+- [x] Cambodia
+- [ ] Vietnam
+
+#### What was the first meal eaten by a human in space?
+
+- [ ] Chicken
+- [x] Beef
+- [ ] Peas
+
+#### What kind of animals are Rocky & Bullwinkle?
+
+- [ ] Sea Serpent & Boy
+- [x] Squirrel and Moose
+- [ ] Chipmunks
+
+#### When Cody Blake Hession was arrested for stealing a car in 2018, what animal was clinging to him?
+
+- [ ] Iguana
+- [x] Monkey
+- [ ] Bat
