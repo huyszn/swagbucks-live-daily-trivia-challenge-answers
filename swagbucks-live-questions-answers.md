@@ -61791,3 +61791,21 @@
 - [ ] Iguana
 - [x] Monkey
 - [ ] Bat
+
+#### Some people credit the idea of Daylight Savings to someone in New Zealand who held what profession?
+
+- [x] Entomologist
+- [ ] Priest
+- [ ] Teacher
+
+#### NHL Hall of Famer Maurice Richard was known by what nickname?
+
+- [x] Rocket
+- [ ] Mo Dawg
+- [ ] Slappy
+
+#### According to Mary Poppins, what helps the medicine go down?
+
+- [ ] A plunger
+- [ ] Castor oil
+- [x] A spoonful of sugar
