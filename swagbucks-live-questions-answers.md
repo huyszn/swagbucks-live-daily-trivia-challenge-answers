@@ -50851,7 +50851,7 @@
 - [ ] Rowing
 - [x] Volleyball
 
-#### Which celebrity guest once fell in lvoe with a fire hydrant?
+#### Which celebrity guest once fell in love with a fire hydrant?
 
 - [ ] Carol Burnett
 - [ ] Jim Carrey
@@ -61893,3 +61893,21 @@
 - [ ] Sesame Street Fever
 - [x] Thriller
 - [ ] Time Out
+
+#### According to their slogan, what's Australian for "beer"?
+
+- [x] Foster's
+- [ ] Miller
+- [ ] Budweiser
+
+#### Who is credited with advocating or the modern alternative current or AC electrical system?
+
+- [ ] George Westinghouse
+- [x] Nikola Tesla
+- [ ] Alexander Graham Bell
+
+#### Who directed "Jurassic Park"?
+
+- [ ] George Lucas
+- [ ] Joe Dante
+- [x] Steven Spielberg
