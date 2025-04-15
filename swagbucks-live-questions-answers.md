@@ -61809,3 +61809,87 @@
 - [ ] A plunger
 - [ ] Castor oil
 - [x] A spoonful of sugar
+
+#### "Another Quiet Night in Modesto" was the original working title of what movie?
+
+- [ ] Reservoir Dogs
+- [x] American Graffiti
+- [ ] Bottle Rocket
+
+#### What shape are Cheez-Its crackers?
+
+- [ ] Circle
+- [x] Square
+- [ ] Triangle
+
+#### In America, what is the highest court in the land?
+
+- [ ] The People's Court
+- [ ] Bud Court
+- [x] The Supreme Court
+
+#### What Disney World attraction was replaced by a "Frozen" themed ride?
+
+- [ ] Kali River Rapids
+- [ ] Crush n' Gusher
+- [x] Maelstrom
+
+#### Which of these animals is a predator?
+
+- [ ] Cow
+- [ ] Goat
+- [x] Jaguar
+
+#### The album "Brat" hit #1 on Billboard's Dance/Electronic charts. Whose album is it?
+
+- [ ] Cher
+- [x] Charli XCX
+- [ ] Beyonce Knowles
+
+#### As of 2025, which band has the most #1 Billboard hits with 20?
+
+- [x] The Beatles
+- [ ] Menudo
+- [ ] O-Town
+
+#### Which pop hitmaker calls her fans "Little Monsters"?
+
+- [ ] Bjork
+- [x] Lady Gaga
+- [ ] Sade
+
+#### Whose hits include "We Will Rock You", "We Are The Champions", and "Bohemian Rhapsody"?
+
+- [x] Queen
+- [ ] Kings of Leon
+- [ ] Prince
+
+#### According to Bob Dylan's hit song, what is the answer doing, my friend?
+
+- [ ] Getting stoned
+- [ ] Tap dancing
+- [x] Blowing in the wind
+
+#### With hits in three consecutive decades, who was the genius producer behind Michael Jackson's "Thriller"?
+
+- [x] Quincy Jones
+- [ ] Max Martin
+- [ ] Dr. Dre
+
+#### What does Taylor Swift consider to be her lucky number?
+
+- [ ] 1
+- [x] 13
+- [ ] 1989
+
+#### What holiday song is the best-selling single worldwide of all time?
+
+- [x] White Christmas
+- [ ] The Monster Mash
+- [ ] Christmas Shoes
+
+#### What is the best-selling album of all time?
+
+- [ ] Sesame Street Fever
+- [x] Thriller
+- [ ] Time Out
