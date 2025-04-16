@@ -61911,3 +61911,93 @@
 - [ ] George Lucas
 - [ ] Joe Dante
 - [x] Steven Spielberg
+
+#### Sam Houston is credited with what famous historical quote?
+
+- [ ] "Which way to the Alamo?"
+- [x] "Remember the Alamo!"
+- [ ] "They should name a car rental company after this!"
+
+#### The "Chunnel" is a tunnel that goes beneath what body of water?
+
+- [ ] The Mediterranean Sea
+- [ ] The Nile
+- [x] The English Channel
+
+#### America's first recorded ice cream recipe was for what flavor?
+
+- [ ] Chocolate
+- [ ] Strawberry
+- [x] Vanilla
+
+#### Tony Hawk is famous for his contributions to what sport?
+
+- [ ] Pickleball
+- [x] Skateboarding
+- [ ] Track & Field
+
+#### Which of these movies takes place at a college?
+
+- [x] Animal House
+- [ ] American Pie
+- [ ] Kindergarten Cop
+
+#### Country singers Buck Owens and Roy Clark hosted which country music and comedy TV show?
+
+- [ ] Hullabaloo
+- [ ] Laugh-In
+- [x] Hee Haw
+
+#### In Charlie Daniels' hit song, where did the devil go down to?
+
+- [ ] Cleveland
+- [x] Georgia
+- [ ] Housewares
+
+#### What two instruments were Bluegrass pioneers Lester Flats and Earl Scruggs known for?
+
+- [ ] Mouth harp and Cello
+- [ ] Maracas and Tambourine
+- [x] Guitar and Banjo
+
+#### What color did Johnny Cash regularly wear on stage?
+
+- [ ] Purple
+- [x] Black
+- [ ] Green
+
+#### Which of the following country stars was NOT a member of the Highwaymen?
+
+- [ ] Waylon Jennings
+- [ ] Kris Kristofferson
+- [x] Nudie Cohn
+
+#### On November 28, 1925, WSM-AM in Nashville, Tennessee first broadcast what iconic country music showcase?
+
+- [x] The Grand Ole Opry
+- [ ] The Big Ole Show
+- [ ] The Giant Ole Hoedown
+
+#### Bocephus is the nickname of which country star?
+
+- [ ] Jimmie Rodgers
+- [x] Hank Williams Jr.
+- [ ] Zac Brown
+
+#### How many # Country hits did Buck Owens and the Buckaroos have?
+
+- [x] 21
+- [ ] 0
+- [ ] 10
+
+#### In "Take Me Home, Country Roads", what home State does John Denver sing about?
+
+- [ ] Hawaii
+- [x] West Virginia
+- [ ] New York
+
+#### What "On The road Again" country legend is known as the Red Headed Stranger?
+
+- [x] Willie Nelson
+- [ ] Jimmy Dean
+- [ ] Maybelle Carter
