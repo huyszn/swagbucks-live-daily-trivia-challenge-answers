@@ -62001,3 +62001,39 @@
 - [x] Willie Nelson
 - [ ] Jimmy Dean
 - [ ] Maybelle Carter
+
+#### During which holiday does John McClane fight terrorists in the original "Die Hard"?
+
+- [x] Christmas
+- [ ] Easter
+- [ ] 4th of July
+
+#### Which of these art styles is primarily centered on your feet?
+
+- [ ] Finger Painting
+- [ ] Sculpting
+- [x] Tap Dancing
+
+#### Ventriloquist Jeff Dunam has an elderly puppet with what name?
+
+- [ ] Carl
+- [x] Walter
+- [ ] Earl
+
+#### Which fast food chain used the character Willie Munchright to encourage kids to eat healthier?
+
+- [x] McDonald's
+- [ ] Burger King
+- [ ] Wendy's
+
+#### What does the LL in LL Cool J stand for?
+
+- [x] Ladies Love
+- [ ] Lotsa Language
+- [ ] Lanky Leopards
+
+#### What is the name of the flat too used to strum a guitar?
+
+- [ ] Axe
+- [x] Pick
+- [ ] Halberd
