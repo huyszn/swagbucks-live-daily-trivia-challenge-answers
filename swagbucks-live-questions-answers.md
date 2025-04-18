@@ -34721,7 +34721,7 @@
 
 - [ ] Berlin, Germany
 - [x] Greenwich, England
-- [ ] Venver, Colorado
+- [ ] Denver, Colorado
 
 #### Which band originally sang "All You Need is Love"?
 
@@ -35959,10 +35959,10 @@
 - [ ] 7
 - [x] 5
 
-#### "The Amarakosha" is a Sanskrit document that serves as an early verison of what?
+#### "The Amarakosha" is a Sanskrit document that serves as an early version of what?
 
 - [ ] An atlas
-- [x] A theasaurus
+- [x] A thesaurus
 - [ ] An encyclopedia
 
 #### What makes the "Trapper" part of the Trapper Keeper?
@@ -62037,3 +62037,219 @@
 - [ ] Axe
 - [x] Pick
 - [ ] Halberd
+
+#### Based on the writer who first described them in print, where would you expect to find doughnuts?
+
+- [x] Sleepy Hollow
+- [ ] Narnia
+- [ ] The Pequod
+
+#### Pixar was originally a division of what company?
+
+- [ ] Apple
+- [ ] Disney
+- [x] Lucasfilm
+
+#### Theodor Geisel is the actual name of what famous children's author?
+
+- [ ] Beverly Cleary
+- [ ] J.K. Rowling
+- [x] Dr. Seuss
+
+#### Psy had a viral hit in 2012 with what dance track?
+
+- [x] Gangnam Style
+- [ ] Jung Style
+- [ ] Hongdae Style
+
+#### Which of the following boy bands was popular in the 1980s?
+
+- [ ] NSYNC
+- [x] New Kids On The Block
+- [ ] One Direction
+
+#### Madonna had a hit song that hares its title with which fashion magazine?
+
+- [ ] Redbook
+- [ ] Elle
+- [x] Vogue
+
+#### Peter Hernandez is the actual name of which pop star?
+
+- [x] Bruno Mars
+- [ ] The Weeknd
+- [ ] J Balvin
+
+#### In Right Said Fred's "I'm Too Sexy", which of the following things do they NOT mention being too sexy for?
+
+- [ ] My shirt
+- [x] The Electoral College
+- [ ] This Song
+
+#### According to the 1992 song by Snap!, what is a dancer?
+
+- [x] Rhythm
+- [ ] The music
+- [ ] The night
+
+#### In Outkast's "Hey-YA", what do they tell you to shake it like?
+
+- [ ] Maracas
+- [ ] A carton of orange juice
+- [x] A Polaroid picture
+
+#### The fake name Paul McCartney used to check into hotels inspired which band's name?
+
+- [ ] The Shins
+- [x] The Ramones
+- [ ] Bee Gees
+
+#### According to her hit song, what are you going to hear Katy Perry do?
+
+- [x] Roar
+- [ ] Meow
+- [ ] Growl
+
+#### What pop-punk band created the concept album "American Idiot"?
+
+- [ ] Blink-182
+- [ ] Sum 41
+- [x] Green Day
+
+#### A scientist in Washington state conducted a 2016 study where she tested bird behaviors using what snack food?
+
+- [ ] Bugles
+- [ ] Doritos
+- [x] Cheetos
+
+#### Jimmy Page was the lead guitarist for which rock band?
+
+- [ ] The Police
+- [ ] The Who
+- [x] Led Zeppelin
+
+#### Which Kendrick Lamar diss track about Drake caused a stir at the Super Bowl LIX halftime show?
+
+- [x] Not Like Us
+- [ ] Euphoria
+- [ ] Meet the Grahams
+
+#### Which of the following rappers was a member of N.W.A.?
+
+- [x] Easy-E
+- [ ] Chuck D
+- [ ] ScHoolboy Q
+
+#### Who in their song "Where It's At" claims to have 'Two turntables and a microphone'?
+
+- [ ] Ween
+- [ ] Cake
+- [x] Beck
+
+#### Before he was singing about "What It's Like", Everlast was the frontman for which rap group?
+
+- [ ] Digital Underground
+- [x] House of Pin
+- [ ] De La Soul
+
+#### Which of the following bands is known for wearing face paint on stage?
+
+- [x] KISS
+- [ ] Metallica
+- [ ] The Killers
+
+#### What rapper does a guest verse on Deee-Lite's "Groove Is in The Heart"?
+
+- [ ] Phife Dawg
+- [x] Q-Tip
+- [ ] Jarobi White
+
+#### Which rock singer notoriously ties scarves onto his mic stand, which he refers to as his "girlfriend"?
+
+- [ ] Mick Jagger
+- [ ] Axl Rose
+- [x] Steven Tyler
+
+#### "Freebird" is the signature song of which Southern Rock band?
+
+- [x] Lynyrd Skynyrd
+- [ ] 38 Special
+- [ ] ZZ Top
+
+#### Sugar Hill Gang had the first rap single to chart on Billboard's Top 40. What was the song?
+
+- [x] Rapper's Delight
+- [ ] Rapper's Surprise
+- [ ] Rapper's Lament
+
+#### The War of 1812 pitted the United States against what European nation?
+
+- [ ] Denmark
+- [ ] Sweden
+- [x] England
+
+#### The Pomze Restaurant in Pairs has a menu entirely devoted to what food item?
+
+- [ ] Potato
+- [x] Apple
+- [ ] Pomegranate
+
+#### What shape are Cheez-its crackers? (REPEATED QUESTION WITH DIFFERENT ANSWER ORDERS)
+
+- [ ] Round
+- [ ] Octagonal
+- [x] Square
+
+#### Craig Kilborn and Chris Berman became famous as anchors for what flagship ESPN program?
+
+- [x] SportsCenter
+- [ ] What's the Score?
+- [ ] Sportsball Live
+
+#### The game "Mortal Kombat" was originally supposed to feature which action star?
+
+- [ ] Bruce Lee
+- [ ] Chuck Norris
+- [x] Jean-Claude Van Damme
+
+#### Which of the following is a political term for quid pro quo?
+
+- [x] Logrolling
+- [ ] Gerrymandering
+- [ ] Mollycoddling
+
+#### Which of these Milton Bradley board games is fake?
+
+- [ ] Town Dump
+- [ ] Where's The Beef?
+- [x] Hot Dog Diner
+
+#### What is the evil version of Nintendo's Mario called?
+
+- [x] Wario
+- [ ] Steve
+- [ ] Doug
+
+#### What game involved throwing a "slammer" onto a pile of cardboard discs?
+
+- [ ] Yu-Gi-Oh
+- [ ] Pinochle
+- [x] Pogs
+
+#### Which of these singers has the real first name of Marvin?
+
+- [ ] Elton John
+- [x] Meatloaf
+- [ ] Sting
+
+#### Which of these items was NOT included in the 1992 time capsule buried by Nickelodeon?
+
+- [ ] A Game Boy
+- [ ] A Joey Lawrence Hat
+- [x] A New Kids On the Block CD
+
+#### Where would you go to visit the Mushroom Capital of the World?
+
+- [ ] Oregon
+- [ ] France
+- [x] Pennsylvania
