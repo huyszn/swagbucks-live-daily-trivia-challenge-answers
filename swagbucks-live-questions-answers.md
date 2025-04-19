@@ -1,5 +1,191 @@
 ## Swagbucks LIVE Questions and Answers
 
+#### Acey-Deucey is a variation of what game?
+
+- [x] Backgammon
+- [ ] Tennis
+- [ ] Cricket
+
+#### What comic storyline partially inspired the plot of Thor: Ragnarök?
+
+- [ ] The God Butcher
+- [x] Planet Hulk
+- [ ] Whom the Gods Would Destroy
+
+#### Chief, Duke, and Spots are characters from which animal movie?
+
+- [x] Isle of Dogs
+- [ ] Cats and Dogs
+- [ ] The Secret Life of Pets
+
+#### What is the value of the geometric ratio made popular in Dan Brown's "Da Vinci Code"?
+
+- [ ] 1.414
+- [x] 1.618
+- [ ] 3.142
+
+#### According to their song "Heigh Ho", what are the 7 dwarfs digging for?
+
+- [x] Diamonds and Rubies
+- [ ] Diamonds and Sapphires
+- [ ] Diamonds and Emeralds
+
+#### What did the E in WED Enterprises stand for?
+
+- [ ] Engineering
+- [x] Elias
+- [ ] Education
+
+#### Putting your hands in your pockets in formal situations is considered rude in what country?
+
+- [ ] Finland
+- [x] South Korea
+- [ ] India
+
+#### Which blood type is known as the Universal Donor?
+
+- [ ] AB Positive
+- [x] O Negative
+- [ ] A Positive
+
+#### Which of the following superheroes gets their powers from a ring?
+
+- [ ] The Hulk
+- [ ] Black Canary
+- [x] Green Lantern
+
+#### In 1976, Rankin/Bass debuted a special that was a sequel to what other Rankin/Bass special?
+
+- [ ] The First Christmas: The Story of the First Christmas Snow
+- [x] Little Drummer Boy
+- [ ] Nestor, the Long-Eared Christmas Donkey
+
+#### Who broke Lou Gehrig's MLB record for consecutive games played?
+
+- [x] Cal Ripken Jr.
+- [ ] Aaron Judge
+- [ ] Bryce Harper
+
+#### Which musical features the song "I Dreamed A Dream"?
+
+- [ ] Starlight Express
+- [x] Les Misérables
+- [ ] She Loves Me
+
+#### In which singing competition do the coaches start with their backs to the contestants?
+
+- [x] The Voice
+- [ ] The Sing-Off
+- [ ] American Idol
+
+#### What Panda-loving trickshot YouTube channel launched in 2010?
+
+- [x] DudePerfect
+- [ ] Legendary Shots
+- [ ] Brodie Smith
+
+#### Felix Unger and Oscar Madison are mismatched roommates in what sitcom?
+
+- [ ] Friends
+- [x] The Odd Couple
+- [ ] Hardcastle & McCormick
+
+#### Which of the following is not referenced in the lyrics of "We Didn't Start The Fire"?
+
+- [ ] The Brooklyn Dodgers
+- [ ] Wheel of Fortune
+- [x] Disco
+
+#### Which of the following movies lost the most money during its initial box office run?
+
+- [x] Mars Needs Moms
+- [ ] Dark Phoenix
+- [ ] The Postman
+
+#### What midwestern American city famously dyes its central river Green for St. Patrick's Day?
+
+- [ ] Honolulu
+- [ ] Jacksonville
+- [x] Chicago
+
+#### According to Mental Floss, when Interpol was first being planned what was chosen as its designated language?
+
+- [ ] English
+- [x] French
+- [ ] Esperanto
+
+#### In the comic strips, in which branch of the military does Beetle Bailey serve?
+
+- [ ] Navy
+- [ ] Merchant Marines
+- [x] Army
+
+#### Who is credited with hitting the first National League home run?
+
+- [x] Ross Barnes
+- [ ] Lip Pike
+- [ ] Frank Baker
+
+#### In which musical does the main character use solfege to teach children how to carry a tune?
+
+- [x] Sound of Music
+- [ ] The Music Man
+- [ ] Falsettos
+
+#### Which of these Netflix remakes doesn't feature any of the original show's actors in a starring role?
+
+- [x] One Day At A Time
+- [ ] Fuller House
+- [ ] Arrested Development
+
+#### Who is the lead singer of Aerosmith?
+
+- [x] Steve Tyler
+- [ ] David Lee Roth
+- [ ] Ozzy Osbourne
+
+#### Which of these food inventors was allergic to his invention?
+
+- [ ] George Washington Carver
+- [ ] Ruth Graves Wakefield
+- [x] Forrest Mars
+
+#### Minneapolis and what other place make up the Twin Cities?
+
+- [ ] Toledo
+- [ ] Altoona
+- [x] St. Paul
+
+#### Which of the following countries does NOT have a public railway system?
+
+- [x] Iceland
+- [ ] Jamaica
+- [ ] Madagascar
+
+#### Who was once known as The Wheel Stealer?
+
+- [ ] Oscar
+- [x] Cookie Monster
+- [ ] Forgetful Jones
+
+#### Which of these movies was NOT featured in a Billy Crystal Oscar Medley?
+
+- [ ] Secrets & Lies
+- [ ] The Cider House Rules
+- [x] Rain Man
+
+#### The dog with the most Instagram followers is what breed?
+
+- [x] Pomeranian
+- [ ] Pug
+- [ ] Shiba Inu
+
+#### What haircut trend was started by the show "Friends"?
+
+- [x] The Rachel
+- [ ] The Columbo
+- [ ] The Knight Rider
+
 #### For "The Gates" art installation in Central Park, 23 miles of pathways were lined with what?
 
 - [x] Orange Flags
@@ -26281,7 +26467,7 @@
 - [ ] Asia
 - [x] Africa
 
-#### When you order pie ala modde, how is it served?
+#### When you order pie ala mode, how is it served?
 
 - [ ] Frozen
 - [x] With ice cream
