@@ -40174,7 +40174,7 @@
 #### Who had number one hits in the 90s with songs like "Vogue", "Justify My Love", and "Take A Bow"?
 
 - [ ] k.d. lang
-- [x] Mandonna
+- [x] Madonna
 - [ ] Cyndi Lauper
 
 #### Boyz II Men rose to fame with what hit song about their hometown?
@@ -45397,7 +45397,7 @@
 - [x] Ice Hockey
 - [ ] Jai Alai
 
-#### According to their slogan, whihc drink gives you wings?
+#### According to their slogan, which drink gives you wings?
 
 - [ ] 7 Up
 - [x] Red Bull
@@ -62253,3 +62253,69 @@
 - [ ] Oregon
 - [ ] France
 - [x] Pennsylvania
+
+#### "Jonah's Account of the Whale" and "The Art of Cutting Teeth" were fake books owned by which writer?
+
+- [ ] Mark Twain
+- [x] Charles Dickens
+- [ ] Mary Shelley
+
+#### Which of the following things was introduced first?
+
+- [x] Zildjian Cymbals
+- [ ] Oreo Cookies
+- [ ] Juicy Fruit Gum
+
+#### In which sports league will you find a franchise named for Civil War soldiers?
+
+- [ ] NBA
+- [ ] MLB
+- [x] NHL
+
+#### In the game of Checkers, how many pieces does each player starts with?
+
+- [ ] 2
+- [x] 12
+- [ ] 52
+
+#### Which Henson family member did NOT appear in a Sesame Street pilot episode?
+
+- [ ] Jim Henson
+- [x] Lisa Henson
+- [ ] Brian Henson
+
+#### The Joker is the archenemy of which superhero?
+
+- [ ] Iron Man
+- [ ] Rocket Raccoon
+- [x] Batman
+
+#### How do you greet someone in French?
+
+- [ ] Bon Jovi
+- [x] Bonjour
+- [ ] Bon. James Bon.
+
+#### If you're doing something out of the ordinary, what might someone say you're doing?
+
+- [x] Going against the grain
+- [ ] Going the distance
+- [ ] Taking it to the streets
+
+#### What 1990's TV show dealt with supernatural creatures in Sunnydale, California?
+
+- [x] Buff the Vampire Slayer
+- [ ] Charmed
+- [ ] Sabrina the Teenage Witch
+
+#### Who was the studio's first choice to play Doc Brown in "Back to the Future"?
+
+- [x] John Lithgow
+- [ ] Dudley Moore
+- [ ] Jerry Lewis
+
+#### Which of the following video game series revolves around auto racing?
+
+- [x] Gran Turismo
+- [ ] Super Smash Bros
+- [ ] Medal of Honor
