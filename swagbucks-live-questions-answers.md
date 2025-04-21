@@ -1,5 +1,317 @@
 ## Swagbucks LIVE Questions and Answers
 
+#### Harold is the name of the Abominable Snowman you'll find in which Disneyland attraction?
+
+- [ ] Tarzan's Treehouse
+- [x] The Matterhorn
+- [ ] The Jungle Cruise
+
+#### Genovia is the European principality that Anne Hathaway is an heir to in which Disney film series?
+
+- [ ] Maleficent
+- [ ] Enchanted
+- [x] The Princess Diaries
+
+#### Model Heidi Klum is a judge on what reality show?
+
+- [ ] America's Next Top Model
+- [ ] American Idol
+- [x] America's Got Talent
+
+#### What river runs through Paris?
+
+- [ ] The Thames
+- [x] The Seine
+- [ ] The Colorado
+
+#### In Mary Poppins, what creatures serve Bert and Mary tea?
+
+- [ ] Vultures
+- [x] Penguins
+- [ ] Cats
+
+#### In which town do all cardinal directions lead to New York State?
+
+- [ ] Fort Lee, NJ
+- [x] Stamford, CT
+- [ ] Burlington, VT
+
+#### Which of the following holidays does NOT take place in December?
+
+- [ ] Take it in Your Ear Day
+- [ ] Pepper Pot Day
+- [x] Fruitcake Toss Day
+
+#### Which of the following is NOT the subtitle of a Star Trek film?
+
+- [ ] Generations
+- [ ] The Wrath of Khan
+- [x] Fellowship of the Ring
+
+#### Who won the 2022 Super Bowl?
+
+- [x] Los Angeles Rams
+- [ ] New York Yankees
+- [ ] Boston Celtics
+
+#### On average, which of these animals gives birth to the most offspring in one shot?
+
+- [ ] Rabbit
+- [x] Tailless Tenrec
+- [ ] Naked Mole Rat
+
+#### Which of these songs is NOT featured on Nickelback's 2001 album Silver Side Up?
+
+- [ ] Never Again
+- [ ] Too Bad
+- [x] Higher
+
+#### "The Seven Pillars of Wisdom" served as the primary source material for what epic film?
+
+- [ ] Clash of the Titans
+- [ ] Gladiator
+- [x] Lawrence of Arabia
+
+#### Which of the following was invented by a teenager?
+
+- [ ] Microwave Popcorn
+- [ ] Christmas Lights
+- [x] Earmuffs
+
+#### Based on it being a State fish, which sports team would a Muskellunge root for?
+
+- [ ] Chicago Bulls
+- [ ] Minnesota Timberwolves
+- [x] Milwaukee Bucks
+
+#### What alien race learned everything about civilizations from a book about 1920's Chicago mobsters?
+
+- [x] Iotians
+- [ ] Balok
+- [ ] The Trill
+
+#### Which of the following is NOT a way you can die in the original Oregon Trail computer game?
+
+- [ ] Broken Arm
+- [ ] Snakebite
+- [x] Starvation
+
+#### The U.K. versions of FIFA 2001 and Gran Turismo 2 both had what extra feature?
+
+- [ ] Creator commentary
+- [x] Scratch & Sniff discs
+- [ ] Gold discs
+
+#### Which of the following berries are harvested by flooding the bogs in which they are grown?
+
+- [ ] Lingonberries
+- [x] Cranberries
+- [ ] Elderberries
+
+#### Which "What's My Line" panellist coined the phrase "Is it bigger than a breadbox?"
+
+- [ ] Soupy Sales
+- [x] Steve Allen
+- [ ] Bennett Cerf
+
+#### Where was the world's first animated feature film created?
+
+- [ ] United States
+- [x] Argentina
+- [ ] Denmark
+
+#### In Hercules, what does Hades have on his head instead of hair?
+
+- [x] Fire
+- [ ] Snakes
+- [ ] Rocks
+
+#### Botticelli created a painting that depicts what Roman goddess emerging from the sea?
+
+- [x] Venus
+- [ ] Juno
+- [ ] Minerva
+
+#### What kind of restaurant typically serves Wonton soup?
+
+- [ ] Italian
+- [ ] Indian
+- [x] Chinese
+
+#### For which sport have Tara Lipinski and Michelle Kwan won Olympic medals?
+
+- [x] Figure skating
+- [ ] Speed Skating
+- [ ] Slalom
+
+#### In 1952, what animal briefly replaced Tony the Tiger as the Frosted Flakes mascot?
+
+- [x] Kangaroo
+- [ ] Whale
+- [ ] Dog
+
+#### Which of these U.S. States has the longest official name?
+
+- [ ] South Carolina
+- [x] Rhode Island
+- [ ] Pennsylvania
+
+#### Munchkins are tiny pastries sold by what chain?
+
+- [ ] Bob's Big Boy
+- [x] Dunkin'
+- [ ] Krispy Kreme
+
+#### Munchkins are tiny pastries sold by what chain?
+
+- [ ] Bob's Big Boy
+- [x] Dunkin'
+- [ ] Krispy Kreme
+
+#### The flags of Swaziland and Kenya both have what on them?
+
+- [ ] A lion
+- [ ] Two elephants
+- [x] Spears and a shield
+
+#### Who was President during the Iran-Contra scandal?
+
+- [ ] Jimmy Carter
+- [x] Ronald Reagan
+- [ ] Bill Clinton
+
+#### Which of the following musicians is NOT known for playing the drums?
+
+- [ ] Keith Moon
+- [ ] Ringo Starr
+- [x] Jimi Hendrix
+
+#### Which of these words is closest in definition to a fence?
+
+- [x] Palisade
+- [ ] Astragal
+- [ ] Dormer
+
+#### Which of the following companies is primarily known for producing underwear?
+
+- [ ] Gucci
+- [ ] Levi's
+- [x] Fruit of the Loom
+
+#### In which country can you get jalapeños and got chili-cheese sauce for your fries at McDonald's?
+
+- [ ] Mexico
+- [ ] Germany
+- [x] Norway
+
+#### Since 2010, Calista Flockhart has been married to which "Star Wars" actor?
+
+- [ ] Mark Hamill
+- [ ] Anthony Daniels
+- [x] Harrison Ford
+
+#### Which of Disney's Nine Old Men is responsible for Walt's favorite piece of animation?
+
+- [ ] Ward Kimball
+- [ ] Eric Larsen
+- [x] Marc Davis
+
+#### Gene Kelly is best known for what kind of dancing?
+
+- [ ] Line Dancing
+- [ ] Krumping
+- [x] Tap Dancing
+
+#### Who released the album "Blame It on Baby" in 2020?
+
+- [x] DaBaby
+- [ ] Baby Huey
+- [ ] Space Baby
+
+#### Bob Parr is a leading character, and head of the family, in which animated movie?
+
+- [ ] Meet the Robinsons
+- [ ] Bolt
+- [x] The Incredibles
+
+#### Who played Luke Skywalker's mother in the prequels?
+
+- [x] Natalie Portman
+- [ ] Carrie Fisher
+- [ ] Emma Stone
+
+#### Who got their powers from the Super Soldier Serum?
+
+- [ ] Colossus
+- [x] Captain America
+- [ ] Cannonball
+
+#### How was Joan of Arc killed?
+
+- [ ] Firing Squad
+- [x] Burned at the stake
+- [ ] Buried alive
+
+#### The "fight or flight" response comes from which nervous system?
+
+- [x] Sympathetic
+- [ ] Parasympathetic
+- [ ] Enteric
+
+#### Which of the following songs does NOT appear in 1964's "Mary Poppins"?
+
+- [ ] Pavement Artist
+- [x] Nowhere to Go But Up
+- [ ] A Man Has Dreams
+
+#### Who was known as "The Swedish Sphinx"?
+
+- [ ] Ingrid Bergman
+- [x] Greta Garbo
+- [ ] Britt Eklund
+
+#### Which of these frozen food lines is geared towards people wanting to lose weight?
+
+- [x] Lean Cuisine
+- [ ] Totinos Pizza Rolls
+- [ ] Hungry Man
+
+#### Which of these defunct Disney Park attractions debuted the earliest?
+
+- [x] ExtraTERRORestrial Alien Encounter
+- [ ] Superstar Limo
+- [ ] Rocket Rods
+
+#### Hákarl is a dried shark meat you would most likely find where?
+
+- [x] Selfoss
+- [ ] Kiruna
+- [ ] Nagoya
+
+#### In "Life", the tile giving you $100,000 for winning a Nobel Prize now awards you for what?
+
+- [x] Being on Reality TV
+- [ ] Inventing an App
+- [ ] Winning a Game Show
+
+#### In Shel Silverstein's "Sick", which of these is NOT a condition the child claims to have?
+
+- [ ] Mumps
+- [x] Arthritis
+- [ ] Broken Leg
+
+#### When you just barely avoid something, you would commonly say you escaped by the skin of your:
+
+- [x] Teeth
+- [ ] Toes
+- [ ] Belly
+
+#### September 4th, 476 A.D. is the date of what historic event?
+
+- [ ] First TV broadcast
+- [ ] U.S. Civil War Begins
+- [x] End of the Western Roman Empire
+
 #### Acey-Deucey is a variation of what game?
 
 - [x] Backgammon
@@ -16705,7 +17017,7 @@
 - [x] The Little Mermaid
 - [ ] Aladdin
 
-#### On May 27, 2021, HBOMAX premiered the reunion special for what NBC sitcom?
+#### On May 27th, 2021, HBOMax premiered the reunion special for what NBC sitcom?
 
 - [ ] The Single Guy
 - [ ] Caroline in the City
@@ -52230,12 +52542,6 @@
 - [ ] Tumips
 - [x] Bells
 - [ ] Mushrooms
-
-#### Who wrote "The Giving Tree"?
-
-- [x] Shel Silverstein
-- [ ] Truman Capote
-- [ ] F. Scott Fitzgerald
 
 #### Which soap actress was nominated for 18 Emmys before winning her first?
 
