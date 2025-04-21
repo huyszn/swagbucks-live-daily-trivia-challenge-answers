@@ -62319,3 +62319,27 @@
 - [x] Gran Turismo
 - [ ] Super Smash Bros
 - [ ] Medal of Honor
+
+#### Which celebrity's talk show filmed the fewest episodes?
+
+- [ ] Pat Sajak
+- [x] Magic Johnson
+- [ ] Chevy Chase
+
+#### What Disney live action films feature a pirate ship named "The Black Pearl"?
+
+- [x] Pirates of the Caribbean
+- [ ] Treasure Island
+- [ ] Pete's Dragon
+
+#### Kickball is a playground game that's similar to what sport?
+
+- [ ] High diving
+- [x] Baseball
+- [ ] Jousting
+
+#### The Magna Carta was created in which country?
+
+- [x] England
+- [ ] New Zealand
+- [ ] The United States
