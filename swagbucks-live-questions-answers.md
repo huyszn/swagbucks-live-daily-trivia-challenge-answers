@@ -62427,3 +62427,27 @@
 - [x] The White House
 - [ ] The Eiffel Tower
 - [ ] The Tower of London
+
+#### What planet does Princess Leia give Grand Moff Tarkin as the location of the rebel base?
+
+- [x] Dantooine
+- [ ] Yavin IV
+- [ ] Alderaan
+
+#### Which of these restaurant chains is most likely to have a drive-thru?
+
+- [x] Wendy's
+- [ ] Denny's
+- [ ] Ruth's Chris
+
+#### Prince Harry, Duke of Sussex is currently married to which actor?
+
+- [ ] Charlize Theron
+- [x] Meghan Markle
+- [ ] Megan Fox
+
+#### A computer-generated dancing baby was featured on which 90s show?
+
+- [x] Ally McBeal
+- [ ] NYPD Blue
+- [ ] The Single Guy
