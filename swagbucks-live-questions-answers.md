@@ -33915,7 +33915,7 @@
 
 #### What are cookbooks typically filled with?
 
-- [x] Recipies
+- [x] Recipes
 - [ ] Schematics
 - [ ] Prescriptions
 
@@ -62343,3 +62343,87 @@
 - [x] England
 - [ ] New Zealand
 - [ ] The United States
+
+#### Which of the following is NOT a Bart Simpson catchphrase?
+
+- [ ] "Don't have a cow, man!"
+- [x] "Hyo Silver!"
+- [ ] "Eat my shorts!"
+
+#### In which language do you use Merci to say "Thank you"?
+
+- [ ] Spanish
+- [x] French
+- [ ] Italian
+
+#### According to basic dining etiquette, which of the following dishes would be ok to eat with your bare hands?
+
+- [x] Club sandwich
+- [ ] Gazpacho
+- [ ] Chili
+
+#### What Mexican food's name translates to "Little Donkey?"
+
+- [ ] Taco
+- [ ] Enchilada
+- [x] Burrito
+
+#### According to legend, who stole from the rich and gave to the poor from his den in Sherwood Forest?
+
+- [ ] Johnny Appleseed
+- [ ] Paul Bunyan
+- [x] Robin Hood
+
+#### Someone who's similar to present is said to be a chip off the old what?
+
+- [ ] Log
+- [x] Block
+- [ ] Cookie
+
+#### Eminem won an Oscar for his song from what movie, in which he also started?
+
+- [x] 8 Mile
+- [ ] Hustle & Flow
+- [ ] Krush Groove
+
+#### Des Moines is the capital of which State?
+
+- [ ] Mine
+- [x] Iowa
+- [ ] Illinois
+
+#### What fast food chain serves "Horsey Sauce"?
+
+- [ ] Taco Bell
+- [ ] Raising Cane's
+- [x] Arby's
+
+#### When he was in high school, Michael Jordan had a nickname inspired by what other NBA legend?
+
+- [x] Magic Johnson
+- [ ] Julius Erving
+- [ ] Larry Bird
+
+#### In Super Mario Bros, what is the name of Mario's brother?
+
+- [ ] Leon
+- [x] Luigi
+- [ ] Larry
+
+#### Which movie's soundtrack featured Celine Dion singing "My Heart Will Go On"?
+
+- [x] Titanic
+- [ ] Must Love Dogs
+- [ ] Serendipity
+
+#### Which of the following is the title of a Judy Blume book?
+
+- [ ] War and Peace
+- [ ] Dracula
+- [x] Are You There God? It's Me, Margaret.
+
+#### What building is on the back of a U.S. $20 Bill?
+
+- [x] The White House
+- [ ] The Eiffel Tower
+- [ ] The Tower of London
