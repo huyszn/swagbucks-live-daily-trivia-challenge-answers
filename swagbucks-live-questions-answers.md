@@ -18454,7 +18454,7 @@
 #### Which of the following animated movies has the highest score on Rotten Tomatoes?
 
 - [x] Inside Out
-- [ ] Spider-Man: Into The Spiderverse
+- [ ] Spider-Man: Into The Spider-Verse
 - [ ] Ratatouille
 
 #### The recycling logo is made of three what?
@@ -30835,7 +30835,7 @@
 - [x] Strider
 - [ ] Stamper
 
-#### What science is the study of how organisms interact with each other and their envrionment?
+#### What science is the study of how organisms interact with each other and their environment?
 
 - [x] Ecology
 - [ ] E-college
@@ -62451,3 +62451,33 @@
 - [x] Ally McBeal
 - [ ] NYPD Blue
 - [ ] The Single Guy
+
+#### In 1963, which President went on a "Conservation Tour" at the urging of Senator Gaylord Nelson?
+
+- [x] John F. Kennedy
+- [ ] George Washington
+- [ ] Thomas Jefferson
+
+#### The Global Unity and Regeneration Gathering takes place in which country?
+
+- [ ] Tibet
+- [ ] Sweden
+- [x] Spain
+
+#### When you are good with plants, what would people say you have?
+
+- [x] A Green Thumb
+- [ ] A Green Nose
+- [ ] A Green Pinky Toe
+
+#### According to Mental Floss, which of these household appliances is the most energy efficient?
+
+- [ ] Hair Dryer
+- [x] Dishwasher
+- [ ] Lawnmower
+
+#### Which of these is the term for recycling organic matter?
+
+- [x] Composting
+- [ ] Compote-ing
+- [ ] Competing
