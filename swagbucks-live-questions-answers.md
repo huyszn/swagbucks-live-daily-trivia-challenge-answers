@@ -62481,3 +62481,21 @@
 - [x] Composting
 - [ ] Compote-ing
 - [ ] Competing
+
+#### Who was known as the Mother of the Gods?
+
+- [x] Cybele
+- [ ] Hera
+- [ ] Juno
+
+#### Hale-Bopp, Halley's, and Tempel 1 are names of what?
+
+- [ ] Moons
+- [ ] Galaxies
+- [x] Comets
+
+#### What ethereal title does Doctor Stephen Strange hold?
+
+- [ ] World Wizard
+- [ ] Minister of Magic
+- [x] Sorcerer Supreme
