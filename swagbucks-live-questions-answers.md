@@ -62521,5 +62521,11 @@
 #### Which Tom Hanks character says "Stupid is as stupid does"?
 
 - [ ] Woody
-- [x] Forrest Gump
+- [x] Forest Gump
 - [ ] Josh Baskin
+
+#### Which of the following desserts traditionally uses a torch to caramelize its top?
+
+- [x] Creme Brulee
+- [ ] Apple Pie
+- [ ] Taffy
