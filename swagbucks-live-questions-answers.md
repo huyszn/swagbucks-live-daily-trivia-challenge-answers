@@ -20203,7 +20203,7 @@
 - [ ] Joey Tribbiani
 - [ ] Elaine Benes
 
-#### Which of the following sandwichees is traditionally served hot?
+#### Which of the following sandwiches is traditionally served hot?
 
 - [ ] Tuna salad sandwich
 - [ ] Turkey Club
@@ -62499,3 +62499,27 @@
 - [ ] World Wizard
 - [ ] Minister of Magic
 - [x] Sorcerer Supreme
+
+#### According to the jingle, "The Best Part of Waking Up" is WHAT in your cup?
+
+- [x] Folgers
+- [ ] Clorox
+- [ ] Sadness
+
+#### What was the inspiration for the frozen margarita machine?
+
+- [ ] Frosty Machine
+- [ ] Shaved Ice Machine
+- [x] Slurpee Machine
+
+#### Which African nation holds the Guinness record for most official languages?
+
+- [ ] South Africa
+- [x] Zimbabwe
+- [ ] Egypt
+
+#### Which Tom Hanks character says "Stupid is as stupid does"?
+
+- [ ] Woody
+- [x] Forrest Gump
+- [ ] Josh Baskin
