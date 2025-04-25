@@ -10914,7 +10914,7 @@
 - [x] Cowboys
 - [ ] Numbers
 
-#### According to Box Office Mojo, which of these horror films has the highest worldwide gorss?
+#### According to Box Office Mojo, which of these horror films has the highest worldwide gross?
 
 - [x] The Nun
 - [ ] Paranormal Activity
@@ -62529,3 +62529,87 @@
 - [x] Creme Brulee
 - [ ] Apple Pie
 - [ ] Taffy
+
+#### What is the collective term for the layers of has that surround our planet?
+
+- [x] Atmosphere
+- [ ] Blodome
+- [ ] Globe
+
+#### Where would you go to see a performance at Carnegie Hall?
+
+- [ ] Pittsburgh
+- [ ] Chicago
+- [x] New York City
+
+#### In the Three-Age system of history, which of these ages came first?
+
+- [x] Stone Age
+- [ ] Bronze Age
+- [ ] Iron Age
+
+#### In "The Jeffersons" theme song, where are they "movin' on up" to?
+
+- [ ] Canada
+- [x] The East Side
+- [ ] Venus
+
+#### Starting in 1933, what piece of safety equipment was introduced in Ice Hockey?
+
+- [x] Helmets
+- [ ] Glasses
+- [ ] Seatbelts
+
+#### Which of the following is NOT a renewable energy source?
+
+- [ ] Wind
+- [ ] Solar
+- [x] Coal
+
+#### Before retooling in 1948 to exclusively sell hamburgers, what other sandwich did the original McDonald's sell?
+
+- [x] Peanut Butter & Jelly
+- [ ] Hot Dogs
+- [ ] Grilled Cheese
+
+#### In "Rock, Paper, Scissors", what beats Paper? (IT WAS WRONGLY CORRECTED AS ROCK; THE MARK IS THE CORRECT ANSWER)
+
+- [ ] Different Paper
+- [ ] Rock
+- [x] Scissors
+
+#### What plant is believed to be a weakness of vampires?
+
+- [x] Garlic
+- [ ] Turnip
+- [ ] Parsley
+
+#### People with Dendrohobia have a fear of what?
+
+- [ ] Hair
+- [ ] Teeth
+- [x] Trees
+
+#### Thanks to the orchards he planted, John Chapman is better remembered by what nickname?
+
+- [x] Johnny Appleseed
+- [ ] Johnny Avocadosed
+- [ ] Johnny Orangeseed
+
+#### Which of the following was NOT one the nicknames of the Spice Girls?
+
+- [ ] Posh
+- [ ] Scary
+- [x] Itch
+
+#### In the story of the same name, who is Little Red Riding Hood on her way to visit?
+
+- [ ] Her aunt
+- [ ] Her father
+- [x] Her grandmother
+
+#### Catherine the Great was the ruler of which country?
+
+- [ ] Egypt
+- [x] Russia
+- [ ] Greece
