@@ -62613,3 +62613,27 @@
 - [ ] Egypt
 - [x] Russia
 - [ ] Greece
+
+#### Memorial Day began as a day to honor the fallen U.S. soldiers from which war?
+
+- [ ] The War of the Roses
+- [x] The Civil War
+- [ ] The Trojan War
+
+#### According to iMDB, which TV show has aired the most episodes?
+
+- [ ] M*A*S*H
+- [ ] Gunsmoke
+- [x] The Simpsons
+
+#### In which movie does a psychotic Jack Nicholson say "Here's Johnny!"?
+
+- [ ] As Good As It Gets
+- [x] The Shining
+- [ ] Chinatown
+
+#### Which of the following companies is known for baked goods?
+
+- [x] Pillsbury
+- [ ] Tewksbury
+- [ ] Solesbury
