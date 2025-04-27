@@ -62640,6 +62640,48 @@
 
 #### What restaurant chain once delivered to the International Space Station?
 
-- [ ] Domono's
+- [ ] Domino's
 - [x] Pizza Hut
 - [ ] Papa John's
+
+#### In Stranger Things 2, the name given to the creature Dustin finds comes from what book?
+
+- [ ] D&D Monster Manual
+- [x] The Three Musketeers
+- [ ] Lord of the Rings
+
+#### Which sport awards the Lombardi trophy to its champion?
+
+- [ ] Premier League
+- [ ] MLB
+- [x] NFL
+
+#### 9 Lives is a brand of food for what pets?
+
+- [ ] Birds
+- [ ] Dogs
+- [x] Cats
+
+#### Which of the following prefixes means "Not"?
+
+- [x] il
+- [ ] co
+- [ ] re
+
+#### Wat is the only country in the world named after a female human?
+
+- [ ] Mail
+- [x] St Lucia
+- [ ] Belize
+
+#### Which film features the iconic line "Here's looking at you, kid."?
+
+- [ ] Gone with the Wind
+- [x] Casablanca
+- [ ] Singin' n the Rain
+
+#### If the producers had gotten their way, which song would have replaced "Don't Stop Believin'" in the "Glee" pilot?
+
+- [x] Viva La Vida
+- [ ] Hey Jude
+- [ ] Bohemian Rhapsody
