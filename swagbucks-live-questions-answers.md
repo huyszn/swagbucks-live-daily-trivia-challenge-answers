@@ -35143,7 +35143,7 @@
 - [x] Music
 - [ ] Film
 
-#### A Newton is a unit of measurement for what?
+#### A Newton is a unit of measurement for what? (REPEATED QUESTION WITH DIFFERENT ANSWER ORDERS)
 
 - [ ] Humidity
 - [x] Force
@@ -62781,3 +62781,27 @@
 - [x] The Joker
 - [ ] Tall Dude
 - [ ] Air Jordan
+
+#### In "Coming to America", what future star is the kid in the barber's chair?
+
+- [ ] Kevin Hart
+- [ ] Damon Wayans
+- [x] Cuba Gooding Jr.
+
+#### Which Nintendo character is named after a lawyer?
+
+- [ ] Mario
+- [x] Kirby
+- [ ] Little Mac
+
+#### Besides Judaism and Christianity, Israel is the world center of which faith?
+
+- [ ] Islam
+- [ ] Zoroastranism
+- [x] Bahai
+
+#### The Nile is the longest river on what continent?
+
+- [ ] South America
+- [x] Africa
+- [ ] Australia
