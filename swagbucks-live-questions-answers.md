@@ -27553,7 +27553,7 @@
 - [ ] Dante
 - [x] Silent Bob
 
-#### What sitcom character used to delare "Lucy! I'm home!"?
+#### What sitcom character used to declare "Lucy! I'm home!"?
 
 - [ ] Mike Brady
 - [x] Ricky Ricardo
@@ -62685,3 +62685,99 @@
 - [x] Viva La Vida
 - [ ] Hey Jude
 - [ ] Bohemian Rhapsody
+
+#### Mia Hamm is known for what sport?
+
+- [ ] Water polo
+- [x] Soccer
+- [ ] Baseball
+
+#### Which cereal company produces Corn Flakes, Frosted Flakes, and Special K?
+
+- [ ] Post
+- [ ] General Mills
+- [x] Kellogg's
+
+#### Which of these sites exists to define and explain slang?
+
+- [ ] Thesaurus.com
+- [ ] Britannica.com
+- [x] UrbanDictionary.com
+
+#### Which ancient Chinese commander burned a bridge to give his troops no choice but to win?
+
+- [ ] Liang Zhuge
+- [ ] Wudi
+- [x] Xiang Yu
+
+#### Which of the following chemical elements has the highest melting point?
+
+- [ ] Carbon
+- [x] Tungsten
+- [ ] Platinum
+
+#### Which playground game involves dodging a red rubber ball?
+
+- [ ] Jai Aai
+- [ ] Hopscotch
+- [x] Dodgeball
+
+#### Who wrote and directed "Pulp Fiction"?
+
+- [ ] Steven Spielberg
+- [x] Quentin Tarantino
+- [ ] McG
+
+#### Which literary character is the obsession of Captain Ahab?
+
+- [ ] The Wizard of Oz
+- [ ] Dracula
+- [x] Moby Dick
+
+#### What term is used by Generation Alpha to describe the effect of prolonged exposure to low quality content?
+
+- [x] Brainrot
+- [ ] Sunday Sillies
+- [ ] Being Hangry
+
+#### Helsinki is the capital of which European country?
+
+- [ ] Estonia
+- [x] Finland
+- [ ] Spain
+
+#### When possible, who traditionally walks the bride down the aisle?
+
+- [x] Her father
+- [ ] Her dog
+- [ ] Her lawyer
+
+#### Which of the following video games was originally released for mobile devices?
+
+- [ ] Pac-Man
+- [x] Candy Crush
+- [ ] Donkey Kong
+
+#### Where was the Caesar Sala created?
+
+- [ ] Italy
+- [ ] Canada
+- [x] Mexico
+
+#### What does a charcuterie board typically contain?
+
+- [x] Meat
+- [ ] Cookies
+- [ ] SpaghttiOs
+
+#### "the boy is mine" and "thank u, next" are hits by which Wicked pop singer?
+
+- [ ] Susan Boyle
+- [ ] Madonna
+- [x] Ariana Grande
+
+#### NBA superstar Nikola Jokic goes by what nickname?
+
+- [x] The Joker
+- [ ] Tall Dude
+- [ ] Air Jordan
