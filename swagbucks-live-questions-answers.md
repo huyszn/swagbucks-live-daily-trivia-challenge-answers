@@ -45490,7 +45490,7 @@
 #### Who wrote and starred in Rocky?
 
 - [x] Sylvester Stallone
-- [ ] Arnold Schwaarzenegger
+- [ ] Arnold Schwarzenegger
 - [ ] Steven Seagal
 
 #### Saying "I traversed it" is the same as saying what?
@@ -62805,3 +62805,39 @@
 - [ ] South America
 - [x] Africa
 - [ ] Australia
+
+#### What drink brand claims to be "Made From The Best Stuff On Earth"? (REPEATED QUESTION WITH DIFFERENT ANSWER ORDERS)
+
+- [ ] Coke Zero
+- [x] Snapple
+- [ ] Powerade
+
+#### In which State was a monkey arrested for biting a man on the shin?
+
+- [ ] New York
+- [ ] California
+- [x] Florida
+
+#### What is a "pronoun"?
+
+- [x] A word that takes the place of a noun
+- [ ] A positive word
+- [ ] A word that describes a professional
+
+#### In "Everything, Everywhere All At Once" we see a reality where people have what food object for fingers?
+
+- [x] Hot Dogs
+- [ ] Twinkies
+- [ ] Cheetos
+
+#### Which of these was NOT the name of a U2 tour?
+
+- [ ] Pop Mart
+- [ ] Zoo TV
+- [x] Atomic Bomb
+
+#### What is the name of the headmaster at Hogwarts?
+
+- [ ] Thistledown
+- [x] Dumbledore
+- [ ] Fumbleball
