@@ -62841,3 +62841,63 @@
 - [ ] Thistledown
 - [x] Dumbledore
 - [ ] Fumbleball
+
+#### Kilts are generally associated with what country?
+
+- [x] Scotland
+- [ ] Italy
+- [ ] Columbia
+
+#### Mead is made b fermenting water with what substance?
+
+- [ ] Chewing Gum
+- [ ] Spearmint
+- [x] Honey
+
+#### Where would you find Hadrian's Wall?
+
+- [ ] Spain
+- [x] England
+- [ ] France
+
+#### Woodward & Bernstein informant Mark Felt worked for which government agency?
+
+- [ ] CIA
+- [ ] NSA
+- [x] FBI
+
+#### What handheld console launched in 1989 with the slogan "Now you're playing with power - portable power"?
+
+- [ ] Game Gear
+- [x] Game Boy
+- [ ] Lynx
+
+#### Who wrote the most covered song in the history of music?
+
+- [x] Paul McCarney
+- [ ] Mozart
+- [ ] Dolly Parton
+
+#### In texting language, what does "brb" mean?
+
+- [ ] Bright Robin Breast
+- [ ] Buy Romain Bureaus
+- [x] Be Right Back
+
+#### What popular video game was originally supposed to have claymation-style graphics?
+
+- [ ] Doom
+- [x] Diablo
+- [ ] Halo
+
+#### "Book 'em, Danno" was the catchphrase from what TV show?
+
+- [x] Hawaii 5-0
+- [ ] Saturday Night Live
+- [ ] Chicago Hope
+
+#### Phil Collins was the lead singer of which band?
+
+- [ ] Cream
+- [x] Genesis
+- [ ] Yes
