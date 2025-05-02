@@ -27411,7 +27411,7 @@
 
 #### Which of the following is NOT a type of pitch in baseball?
 
-- [ ] Silder
+- [ ] Slider
 - [ ] Rollerball
 - [x] Curveball
 
@@ -62985,3 +62985,27 @@
 - [ ] Field of Dreams
 - [ ] Dances With Wolves
 - [x] Waterworld
+
+#### In what year was the world's first speeding ticket issued?
+
+- [ ] 1902
+- [ ] 1901
+- [x] 1896
+
+#### The apples planted by Johnny Appleseed were meant to serve what purpose?
+
+- [ ] Feed people
+- [x] Get people drunk
+- [ ] Give people shade
+
+#### Which of the following is a type of pitch in baseball?
+
+- [ ] Ankleball
+- [ ] Neckball
+- [x] Knuckleball
+
+#### Which of these artists is from England?
+
+- [x] Ed Sheeran
+- [ ] Drake
+- [ ] The Weeknd
