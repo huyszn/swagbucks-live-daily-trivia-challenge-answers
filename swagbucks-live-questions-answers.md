@@ -62901,3 +62901,87 @@
 - [ ] Cream
 - [x] Genesis
 - [ ] Yes
+
+#### How does Santa traditionally enter homes on Christmas Eve?
+
+- [ ] The basement
+- [ ] The kitchen window
+- [x] The chimney
+
+#### Which country's flag has a dragon on it?
+
+- [x] Wales
+- [ ] Canada
+- [ ] The United States
+
+#### Which of the following foods uses yeast as an active ingredient?
+
+- [ ] Spaghetti
+- [ ] Turkey jerky
+- [x] Sourdough bread
+
+#### Who was President during the Iran-Contra scandal?
+
+- [ ] Jimmy Carter
+- [x] Ronald Reagan
+- [ ] Bill Clinton
+
+#### What dairy product is commonly added to coffee?
+
+- [ ] Cottage Cheese
+- [x] Cream
+- [ ] Custard
+
+#### The "Goth" fashion trend primarily favors which color?
+
+- [x] Back
+- [ ] Neon Pink
+- [ ] Ocean Blue
+
+#### Which of the following games of chance involves spinning a giant wheel?
+
+- [ ] Blackjack
+- [ ] Video Poker
+- [x] Roulette
+
+#### Swiss cheesemaker Emil Frey used broken cheese wheels and whey to invent which product?
+
+- [ ] Macaroni and Cheese
+- [x] Velveeta
+- [ ] Cheese Whiz
+
+#### Which national park would require a U.S. citizen to present a passport to get in?
+
+- [x] National Park of American Samoa
+- [ ] Capitol Reef National Park
+- [ ] Black Canyon of the Gunnison National Park
+
+#### How many pairs of chromosomes do each of our cells normally contain?
+
+- [ ] 102
+- [x] 23
+- [ ] 365
+
+#### Which of the following NBA MVPs was NOT a #1 draft pick?
+
+- [ ] Lebron James
+- [x] Michael Jordan
+- [ ] Magic Johnson
+
+#### Which "Friday The 13th" movie was the first to feature Jason Vorhees in his classic hockey mask?
+
+- [ ] Friday the 13th
+- [ ] Friday the 13th Part 2
+- [x] Friday the 13th Part III
+
+#### Which of the following musical instruments is a woodwind?
+
+- [ ] Snare Drum
+- [x] Clarinet
+- [ ] Bass Guitar
+
+#### Which of these Kevin Costner films was a box office bomb, making $88 million in the U.S. against a $175,000,000 budget?
+
+- [ ] Field of Dreams
+- [ ] Dances With Wolves
+- [x] Waterworld
