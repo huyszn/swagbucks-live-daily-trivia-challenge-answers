@@ -55891,7 +55891,7 @@
 - [ ] Eight
 - [ ] Twelve
 
-#### Of the 41 Broadway theaters how many of them are actually ON Broadway?
+#### Of the 41 Broadway theaters, how many of them are actually ON Broadway?
 
 - [x] 3
 - [ ] 7
@@ -63009,3 +63009,39 @@
 - [x] Ed Sheeran
 - [ ] Drake
 - [ ] The Weeknd
+
+#### "Here's looking at you, Kid" is a famous line from what movie?
+
+- [x] Casablanca
+- [ ] Young Guns
+- [ ] Little Giants
+
+#### Which of the following is synonymous with a straight line?
+
+- [ ] As the salmon swims
+- [ ] As the turtle crawls
+- [x] As the crow flies
+
+#### What three words appear on the Settlers of Catan box?
+
+- [x] Trade Build Settle
+- [ ] Where's The Beef
+- [ ] Can't Pronounce "Catan"
+
+#### How did Alexander the Great undo the Gordian Knot?
+
+- [x] Cut it with a sword
+- [ ] Watched a YouTube tutorial
+- [ ] Hired someone off Craigslist
+
+#### Shake 'N Bake is used when preparing what food?
+
+- [x] Chicken
+- [ ] Lettuce
+- [ ] Soup
+
+#### What painter was known for his cubist and surrealist periods?
+
+- [x] Pablo Picasso
+- [ ] Leonardo Da Vinci
+- [ ] Rembrandt
