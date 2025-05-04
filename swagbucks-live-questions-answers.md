@@ -23945,7 +23945,7 @@
 
 - [ ] Prince
 - [x] Sting
-- [ ] Madoona
+- [ ] Madonna
 
 #### Peter Parker fights crime as what friendly neighborhood superhero?
 
@@ -63045,3 +63045,33 @@
 - [x] Pablo Picasso
 - [ ] Leonardo Da Vinci
 - [ ] Rembrandt
+
+#### In hockey, where is the five hole located?
+
+- [ ] Over the goalie's left shoulder
+- [x] Between the goalies legs
+- [ ] Bottom right corner
+
+#### What streaming video service's catchphrase is "Come TV With Us"?
+
+- [x] Hulu
+- [ ] Amazon Music
+- [ ] iHeartRadio
+
+#### The man who helped develop "It's A Small World" also invented which children's toy?
+
+- [ ] Speak n' Spell
+- [ ] Mr. Machine
+- [x] Teddy Ruxpin
+
+#### When "The Monster Mash" first hit #1 on the Billboard charts, whose song did it replace in that pot?
+
+- [x] The Four Seasons
+- [ ] Elvis Presley
+- [ ] The Beatles
+
+#### Which of the following is NOT the name of a guitar chord Phoebe teaches Joey?
+
+- [ ] Turkey Leg
+- [x] Old Man
+- [ ] Iceberg
