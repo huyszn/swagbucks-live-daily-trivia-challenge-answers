@@ -63075,3 +63075,21 @@
 - [ ] Turkey Leg
 - [x] Old Man
 - [ ] Iceberg
+
+#### Which of these pop culture dogs is a Wire Terrier?
+
+- [x] Snowy
+- [ ] Toto
+- [ ] Spuds MacKenzie
+
+#### What is the nickname of the greedy green ghost in "Ghostbusters"?
+
+- [ ] BooBerry
+- [ ] Casper
+- [x] Slimer
+
+#### What toy's name comes from the Danish words for "Play Well"?
+
+- [x] Lego
+- [ ] Rubik's Cube
+- [ ] Nerf
