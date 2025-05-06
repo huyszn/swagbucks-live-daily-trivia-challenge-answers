@@ -24631,13 +24631,13 @@
 - [ ] Ireland
 - [ ] Wales
 
-#### Bernie Taupin is the song writing parther of what superstar?
+#### Bernie Taupin is the song writing partner of what superstar?
 
 - [x] Elton John
 - [ ] Madonna
 - [ ] John Legend
 
-#### In Star Wars, who owns the Millenium Falcon?
+#### In Star Wars, who owns the Millennium Falcon?
 
 - [x] Han Solo
 - [ ] Luke Skywalker
@@ -30577,7 +30577,7 @@
 - [ ] Do You Want To Dance?
 - [ ] Land of 1,000 Dances
 
-#### What Brat Pack movie centers around a gorup of high schoolers serving detention?
+#### What Brat Pack movie centers around a group of high schoolers serving detention?
 
 - [x] The Breakfast Club
 - [ ] For Keeps?
@@ -63093,3 +63093,99 @@
 - [x] Lego
 - [ ] Rubik's Cube
 - [ ] Nerf
+
+#### Which Friends character temporarily changed her name to Princess Consuela Banana Hommock after getting married?
+
+- [x] Phoebe
+- [ ] Rachel
+- [ ] Monica
+
+#### What brand uses a bullseye as their logo?
+
+- [ ] Walmart
+- [ ] Kmart
+- [x] Target
+
+#### "Dark Side of the Moon" and "The Wall" are albums by which rock band?
+
+- [x] Pink Floyd
+- [ ] The Cars
+- [ ] Motorhead
+
+#### Who played Kelly Kapowski on Saved By The Bell?
+
+- [x] Tiffani Thiessen
+- [ ] Elizabeth Berkley
+- [ ] Lark Voorhies
+
+#### If you suffer from a fear of Halloween, what do you have?
+
+- [ ] Halloweenophobia
+- [ ] Phobophobia
+- [x] Samhainophobia
+
+#### The chain Jamba Juice primarily sells what?
+
+- [ ] Batteries
+- [ ] Soda
+- [x] Smoothies
+
+#### In Star Wars, what phrase does the Rebellion use to wish people luck?
+
+- [ ] Keep It Real
+- [x] May The Force Be With You
+- [ ] Hope You Have A Horseshoe
+
+#### In "Revenge of the Sith", who turns to the Dark Side, becoming Darth Vader?
+
+- [x] Anakin Skywalker
+- [ ] Obi Wan Kenobi
+- [ ] Qui-Gon Jinn
+
+#### Which Star Wars character said "Do or do not. There is no try."?
+
+- [ ] Chewbacca
+- [ ] C-3O
+- [x] Yoda
+
+#### In the original Star Wars, what Imperial Space Station is destroyed by Luke Skywalker?
+
+- [ ] Cloud City
+- [x] The Death tar
+- [ ] Starkiller Base
+
+#### Who created Star Wars?
+
+- [ ] Francis Ford Coppola
+- [ ] Brian De Palma
+- [x] George Lucas
+
+#### When we first meet Han Solo in "Star Wars: A New Hope", which gangster is looking for him?
+
+- [x] Jabba the Hutt
+- [ ] Pliny the Elder
+- [ ] Pizza the Hut
+
+#### Which Sith lord appears in "Star Wars: The Phantom Menace" with a tattooed face and double-bladed lightsaber?
+
+- [ ] Count Dooku
+- [x] Darth Maul
+- [ ] Darth Sidious
+
+#### In the third Star Wars trilogy, what rank has Leia Organa achieved?
+
+- [ ] Admiral
+- [ ] Colonel
+- [x] General
+
+#### In "The Empire Strikes Back", who is the administrator of Cloud City?
+
+- [x] Lando Calrissian
+- [ ] R2-D2
+- [ ] Greedo
+
+#### Before joining the resistance in "Star Wars: The Force Awakens", what career does Finn have?
+
+- [ ] Bartender
+- [x] First Order Trooper
+- [ ] Moisture Farmer
