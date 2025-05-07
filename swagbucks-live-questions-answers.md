@@ -36103,7 +36103,7 @@
 - [ ] Funfetti
 - [ ] Nerds
 
-#### Complete this quote credited to Yogi Berra: "It ain't over til..."
+#### Complete this quote credited to Yogi Berra: "It ain't over till..."
 
 - [x] It's over
 - [ ] It's midnight
@@ -63255,3 +63255,27 @@
 - [ ] Return of the Jedi
 - [x] Ray
 - [ ] Mean Girls
+
+#### What famous dad played the father of his real-life daughter on a Disney Channel Show?
+
+- [ ] Bob Saget
+- [x] Bob Ray Cyrus
+- [ ] Billy Crystal
+
+#### The 747, Spitfire, and SR-71 Blackbird are all types of what?
+
+- [ ] Pie
+- [ ] Prison
+- [x] Plane
+
+#### Where would you go to visit a church shaped like Cinderella's glass slipper?
+
+- [x] Taiwan
+- [ ] Las Vegas
+- [ ] Holland
+
+#### Which of the following has the most wheels?
+
+- [ ] Unicycle
+- [ ] Bicycle
+- [x] Tricycle
