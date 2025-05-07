@@ -63189,3 +63189,69 @@
 - [ ] Bartender
 - [x] First Order Trooper
 - [ ] Moisture Farmer
+
+#### Which of these words is synonymous with "relax"?
+
+- [ ] Grill
+- [ ] Spill
+- [x] Chill
+
+#### What food item is often used to describe a dilmma?
+
+- [ ] Popcorn
+- [x] Pickle
+- [ ] Pina Colada
+
+#### Phoenix is the capital of which State?
+
+- [ ] Delaware
+- [ ] Idaho
+- [x] Arizona
+
+#### In Chess, which of your opponent's pieces are you trying to put in "check"?
+
+- [x] King
+- [ ] Bishop
+- [ ] Pawn
+
+#### Which of these classic works was written by Geoffrey Chaucer?
+
+- [ ] Moby Dick
+- [x] The Canterbury Tales
+- [ ] Hamlet
+
+#### Which former President's blood was put up for auction in 2012?
+
+- [ ] Richard Nixon
+- [x] Ronald Reagan
+- [ ] John F Kennedy
+
+#### What scientific theory factors into the movie "Jurassic Park"?
+
+- [x] Chaos Theory
+- [ ] The Theory of Relativity
+- [ ] Atomic Theory
+
+#### Which Muppet sings "Bein' Green"?
+
+- [ ] Rowlf
+- [ ] Lew Zealand
+- [x] Kermit the Frog
+
+#### Until 1975, women in America did not have a countrywide right to do what?
+
+- [ ] Work while pregnant
+- [ ] Take birth control
+- [x] Serve on a Jury
+
+#### Which of the following bands was NOT part of music's "British Invasion"?
+
+- [ ] The Beatles
+- [ ] The Rolling Stones
+- [x] Van Halen
+
+#### Which of these films would be classified as a "biopic"?
+
+- [ ] Return of the Jedi
+- [x] Ray
+- [ ] Mean Girls
