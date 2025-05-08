@@ -33045,7 +33045,7 @@
 
 #### What William Makepeace Thackeray novel shares its name with a magazine?
 
-- [ ] Vegue
+- [ ] Vogue
 - [ ] Life
 - [x] Vanity Fair
 
@@ -63375,3 +63375,33 @@
 - [ ] Ghouls
 - [x] Ghosts
 - [ ] Goblins
+
+#### What Toy Story astronaut also became a bestselling toy?
+
+- [ ] Woody
+- [ ] Hamm
+- [x] Buzz Lightyear
+
+#### What does Ms. Pac-Man port on her head?
+
+- [ ] Hat
+- [ ] Wig
+- [x] Bow
+
+#### Which of the following holiday movies is a horror film?
+
+- [ ] Bad Moms Christmas
+- [x] Krampus
+- [ ] The Night Before
+
+#### Which of the following TV shows was NOT created to promote a toy line?
+
+- [ ] Mighty Max
+- [ ] Dino-Riders
+- [x] Thundarr the Barbarian
+
+#### In the classic nursery rhyme, how much wool does the blacksheep have?
+
+- [ ] One cart full
+- [ ] Two boxes full
+- [x] Three bags full
