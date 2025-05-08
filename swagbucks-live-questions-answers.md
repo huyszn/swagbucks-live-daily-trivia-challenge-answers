@@ -63279,3 +63279,99 @@
 - [ ] Unicycle
 - [ ] Bicycle
 - [x] Tricycle
+
+#### On a standard Monopoly board, what space awards you $200 just for passing it?
+
+- [ ] Community Chest
+- [ ] Jail
+- [x] Go
+
+#### Boric acid and Silicone oil was the original recipe to make what toy?
+
+- [ ] Chatty Cathy
+- [x] Silly Putty
+- [ ] Mr. Machine
+
+#### The musical Allegiance is set during the events of Japanese American Internment during what war?
+
+- [x] World War II
+- [ ] Korean War
+- [ ] Vietnam War
+
+#### According to the saying, what did curiosity do to the cat?
+
+- [ ] Cuddle it
+- [ ] Cook for it
+- [x] Kill it
+
+#### How many years is Four Score and Seven Years?
+
+- [ ] 7
+- [ ] 47
+- [x] 87
+
+#### In 2023, Jamie Lee Curtis got her first nomination for what award?
+
+- [x] Oscar
+- [ ] Golden Globe
+- [ ] Emmy
+
+#### Which actor famously uttered the line "Go ahead, make my day"?
+
+- [ ] Humphrey Bogart
+- [ ] Sidney Poitier
+- [x] Clint Eastwood
+
+#### In "Little Red Riding Hood", as whom does the Big, Bad Wolf disguise himself?
+
+- [x] Grandma
+- [ ] Little Red Riding Hood
+- [ ] The Woodsman
+
+#### According to the saying, there's more than one way to do what?
+
+- [ ] Count your chickens
+- [x] Skin a cat
+- [ ] Walk the dog
+
+#### In 1971, Ruth Handler made her last major change to Barbie's appearance. What was it?
+
+- [x] Changed her eyes
+- [ ] Changed her height
+- [ ] Changed the curves of her body
+
+#### French Press, Pourover, and Cold Brew are all methods for making what beverage?
+
+- [ ] Soda
+- [x] Coffee
+- [ ] Orange Juice
+
+#### If American Cheese were named for the place it originated, what would we call it?
+
+- [x] Swiss Cheese
+- [ ] Danish Cheese
+- [ ] English Cheese
+
+#### Who had a 2004 hit with Sk8er Boi?
+
+- [ ] Tina Turner
+- [ ] Britney Spears
+- [x] Avril Lavigne
+
+#### What did the E in Ebay originally stand for?
+
+- [ ] Electronic
+- [x] Echo
+- [ ] Event
+
+#### What Oscar-winning filmmaker is often spotted courtside at New York Knicks games?
+
+- [x] Spike Lee
+- [ ] Kathryn Bigelow
+- [ ] George Lucas
+
+#### In "Pac-Man", what are chasing Pac-Man around the mazes?
+
+- [ ] Ghouls
+- [x] Ghosts
+- [ ] Goblins
