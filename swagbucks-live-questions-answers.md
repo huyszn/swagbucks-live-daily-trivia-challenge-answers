@@ -46531,7 +46531,7 @@
 - [ ] Word
 - [x] Tinder
 
-#### At the launch event for Windows 2000, a sweaty Steve Ballmer repated what word over and over?
+#### At the launch event for Windows 2000, a sweaty Steve Ballmer repeated what word over and over?
 
 - [ ] Windows
 - [x] Developers
@@ -63460,8 +63460,32 @@
 - [ ] Beverly Goldberg
 - [ ] Lorelai Gilmore
 
-#### How many children did Lily Munster have on "The Munsters?
+#### How many children did Lily Munster have on "The Munsters"?
 
 - [ ] Ten
 - [ ] Thirty
 - [x] One
+
+#### What TV show centers on a detective with Obsessive-Compulsive Disorder?
+
+- [x] Monk
+- [ ] Columbo
+- [ ] Luther
+
+#### Which of these phrases is canine in origin?
+
+- [x] Barking up the wrong tree
+- [ ] The cat's pajamas
+- [ ] Drinking like a fish
+
+#### In "The Nightmare Before Christmas", who plans the kidding of Santa?
+
+- [ ] Mayor
+- [x] Jack Skellington
+- [ ] Sally
+
+#### The 1st Century Roman who recorded one of the first ghost stories also wrote what work?
+
+- [ ] Aeneid
+- [x] Natural History
+- [ ] Books from the Foundation of the City
