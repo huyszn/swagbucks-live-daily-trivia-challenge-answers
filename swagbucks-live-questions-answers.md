@@ -63405,3 +63405,63 @@
 - [ ] One cart full
 - [ ] Two boxes full
 - [x] Three bags full
+
+#### Who played the mama who told Forrest Gump Life is like a box of chocolates"?
+
+- [ ] Betty White
+- [x] Sally Field
+- [ ] Meryl Streep
+
+#### "Mommie Dearest" was a tell-all book about which famous mother?
+
+- [x] Joan Crawford
+- [ ] Marge Simpson
+- [ ] Molly Weasley
+
+#### On "Friends" which character is a surrogate for triplets on behalf of her brother?
+
+- [ ] Monica
+- [ ] Rachel
+- [x] Phoebe
+
+#### Which NBA player did a series of ads as Grandmama?
+
+- [ ] Metta World Peace
+- [x] Larry Johnson
+- [ ] Dennis Rodman
+
+#### In "Almost Famous", what does the main character William's other do for a living?
+
+- [ ] Doctor
+- [ ] Lawyer
+- [x] Professor
+
+#### What matronly character appears on the covers of Nursery Rhyme books?
+
+- [x] Mother Goose
+- [ ] Mother Chicken
+- [ ] Mother Peacock
+
+#### In "Mean Girls", what kind of mom does Mrs. George claim to be?
+
+- [ ] A hot mom
+- [ ] A rich mom
+- [x] A cool mom
+
+#### What was the name of Carol Brady's first husband on "The Brady Bunch"?
+
+- [ ] Thomas Patrick O'Malley
+- [x] Daniel Alan Martin
+- [ ] Sam J. Franklin
+
+#### Which of these pop culture mothers accidentally left their youngest child home alone during Christmas break in a movie?
+
+- [x] Kate McAlliser
+- [ ] Beverly Goldberg
+- [ ] Lorelai Gilmore
+
+#### How many children did Lily Munster have on "The Munsters?
+
+- [ ] Ten
+- [ ] Thirty
+- [x] One
