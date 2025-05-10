@@ -63489,3 +63489,33 @@
 - [ ] Aeneid
 - [x] Natural History
 - [ ] Books from the Foundation of the City
+
+#### Which U.S. States do NOT share a border with any other U.S. State?
+
+- [ ] Maine and Rhode Island
+- [ ] Washington and Idaho
+- [x] Alaska and Hawaii
+
+#### What color is malachite?
+
+- [x] Green
+- [ ] Purple
+- [ ] Blue
+
+#### Complete this quote: If you love what you do, you'll...
+
+- [x] Never work a day in your life
+- [ ] Never walk alone
+- [ ] Never stop never stopping
+
+#### Which of the following sides is NOT part of a traditionally Thanksgiving dinner?
+
+- [ ] Stuffing
+- [ ] Mashed potatoes
+- [x] Raw eggs
+
+#### The movie "8 Mile" was based on Eminem's life growing up in what city?
+
+- [ ] Los Angeles
+- [ ] Orlando
+- [x] Detroit
