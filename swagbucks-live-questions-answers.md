@@ -63519,3 +63519,27 @@
 - [ ] Los Angeles
 - [ ] Orlando
 - [x] Detroit
+
+#### According to the saying, March goes "In like a lion and out like a"?
+
+- [x] Lamb
+- [ ] Funky chicken
+- [ ] Regular chicken
+
+#### Where is the Cape of Good Hope?
+
+- [x] Africa
+- [ ] Norway
+- [ ] Maryland
+
+#### A standard highlighter marker is typically what color?
+
+- [x] Yellow
+- [ ] Black
+- [ ] White
+
+#### WNBA guard Becky Hammon broke what basketball-related record in 2008?
+
+- [x] Free Throws made in a minute
+- [ ] Consecutive Free Throws made
+- [ ] Three-pointers made in a minute
