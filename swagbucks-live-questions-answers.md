@@ -18655,7 +18655,7 @@
 - [ ] Davy Crockett
 - [x] Lord Byron
 
-#### After metamorphosis, what do most catepillars become?
+#### After metamorphosis, what do most caterpillars become?
 
 - [ ] A honeybee
 - [ ] A wasp
@@ -39478,7 +39478,7 @@
 #### The Gold Rush of 1849 started in which state?
 
 - [x] California
-- [ ] Louislana
+- [ ] Louisiana
 - [ ] Illinois
 
 #### What song tells you to be "a little bit softer now" and "a little bit louder now"?
@@ -63543,3 +63543,129 @@
 - [x] Free Throws made in a minute
 - [ ] Consecutive Free Throws made
 - [ ] Three-pointers made in a minute
+
+#### What Hall of Fame player was known as Sweetness?
+
+- [ ] Brian Dawkins
+- [x] Walter Payton
+- [ ] Jerry Rice
+
+#### Sylvester Stallone played what fictional boxer?
+
+- [ ] Apollo Creed
+- [x] Rocky Balboa
+- [ ] Ivan Drago
+
+#### What are Bono's actual initials?
+
+- [x] PDH
+- [ ] STP
+- [ ] RMB
+
+#### Which of these cities is NOT part of the Pacific Northwest?
+
+- [ ] Seattle, WA
+- [x] Davenport, IA
+- [ ] Portland, OR
+
+#### Model Heidi Klum is a judge on what reality show?
+
+- [ ] America's Next Top Model
+- [ ] American Idol
+- [x] America's Got Talent
+
+#### What father/daughter collaboration was the only one to top Billboard's Pop chart?
+
+- [ ] Nat King Cole & Natalie Cole
+- [ ] Billy Ray Cyrus & Miley Cyrus
+- [x] Frank Sinatra & Nancy Sinatra
+
+#### What movie series based on books features sparkling vampires?
+
+- [ ] Blade
+- [ ] Dracula
+- [x] Twilight
+
+#### What is the only U.S. State that only borders one other State?
+
+- [ ] Florida
+- [ ] Hawaii
+- [x] Maine
+
+#### Which of the following is a brand of breakfast cereal?
+
+- [x] Golden Grahams
+- [ ] Land-O-Lakes
+- [ ] Lactaid
+
+#### Which of these is NOT the title of a poem by Shel Silverstein?
+
+- [ ] Falling U
+- [ ] Eighteen Flavors
+- [x] Scream Day
+
+#### When John Le Carre started writing spy novels, what was he doing for a living?
+
+- [ ] Tailor
+- [x] Spy
+- [ ] Teacher
+
+#### In the opening credits of "The Simpsons", who do we see writing on a blackboard at school as punishment?
+
+- [x] Bart
+- [ ] Lisa
+- [ ] Maggie
+
+#### On "The Big Bang Theory", who makes their roommates sign a lengthy legal document?
+
+- [ ] Penny
+- [ ] Raj
+- [x] Sheldon
+
+#### Bea Arthur, Betty White, Rue McClanahan, and Estelle Getty were the stars of which 1980s sitcom?
+
+- [ ] Empty Nest
+- [x] The Golden Girls
+- [ ] Maude
+
+#### In "WKRP In Cincinnati", what is WKRP?
+
+- [ ] A computer program
+- [ ] A newspaper
+- [x] A radio station
+
+#### "I'll Be There For You" is the theme song for which sitcom?
+
+- [ ] M*A*S*H
+- [x] Friends
+- [ ] The Single Guy
+
+#### Which former "Saturday Night Live" cast member starred in "Brooklyn Nine-Nine"?
+
+- [x] Andy Samberg
+- [ ] Dan Aykroyd
+- [ ] Adam Sandler
+
+#### Which American sitcom featured the first openly gay leading character?
+
+- [ ] All In The Family
+- [x] Soap
+- [ ] It's A Living
+
+#### Which of the following sitcoms centers on the people who run Paddy's Pub?
+
+- [x] It's Always Sunny in Philadelphia
+- [ ] Abbott Elementary
+- [ ] The Jeffersons
+
+#### "Seinfeld" has often been described as a show about what?
+
+- [ ] People
+- [x] Nothing
+- [ ] Complaining
+
+#### According to the theme song, where was the Fresh Prince of Bel Air born and raised?
+
+- [x] West Philadelphia
+- [ ] Beverly Hills
+- [ ] Cleveland
