@@ -63669,3 +63669,15 @@
 - [x] West Philadelphia
 - [ ] Beverly Hills
 - [ ] Cleveland
+
+#### Which network is the home of "The Voice"?
+
+- [ ] Fox
+- [x] NBC
+- [ ] CBS
+
+#### Which of hte following songs is by the Monkees?
+
+- [x] Daydream Believer
+- [ ] All About That Bass
+- [ ] Satisfaction
