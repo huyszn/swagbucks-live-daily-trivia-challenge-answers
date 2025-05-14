@@ -63676,8 +63676,68 @@
 - [x] NBC
 - [ ] CBS
 
-#### Which of hte following songs is by the Monkees?
+#### Which of the following songs is by the Monkees?
 
 - [x] Daydream Believer
 - [ ] All About That Bass
 - [ ] Satisfaction
+
+#### What English superstar had a 2017 hit with "Shape of You"?
+
+- [ ] Seal
+- [ ] Sam Smith
+- [x] Ed Sheeran
+
+#### What Miami-born rapper refers to himself as "Mister Worldwide"?
+
+- [ ] Bad Bunny
+- [x] Pitbull
+- [ ] Gerado
+
+#### The Beatles, The Rolling Stones, and The Who were part of what music phenomenon?
+
+- [x] The British Invasion
+- [ ] The Punk Invasion
+- [ ] The Martian Invasion
+
+#### ABBA rose to fame after winning what international singing competition?
+
+- [ ] American Idol
+- [x] Eurovision
+- [ ] Star Search
+
+#### Which actor is known for being famous pop star in Germany?
+
+- [ ] George Clooney
+- [ ] Josh Tesh
+- [x] David Hasselhoff
+
+#### Justin Bieber originally hails from which country?
+
+- [x] Canada
+- [ ] Jamaica
+- [ ] The Netherlands
+
+#### What Barbadian star says you can stand under their unbrella-ella-ella?
+
+- [ ] Alison Hinds
+- [ ] Shontelle
+- [x] Rihanna
+
+#### The group behind "Barbie Girl" came from which continent?
+
+- [ ] Asia
+- [ ] Europe
+- [x] Australia
+
+#### What "Grease" star invited you to "get into physical" with her in a hit single?
+
+- [x] Oliva Newton-John
+- [ ] Stockard Channing
+- [ ] Didi Conn
+
+#### Which singer, known for "It's All Coming Back To Me" and "That's The Way It Is" won the 1988 Eurovision contest?
+
+- [ ] Netta
+- [x] Celine Dion
+- [ ] Bonne Tyler
