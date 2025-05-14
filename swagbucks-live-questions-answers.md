@@ -63741,3 +63741,27 @@
 - [ ] Netta
 - [x] Celine Dion
 - [ ] Bonne Tyler
+
+#### Who lives in the Islamic Republic of Ichkeria?
+
+- [x] Chechens
+- [ ] Puhtuns
+- [ ] Slovenians
+
+#### Asking someone if they were raised in a barn would most likely imply which of the following?
+
+- [ ] They can dance
+- [x] They didn't shut the door
+- [ ] They make pancakes
+
+#### Which of these books is NOT by Roald Dahl?
+
+- [ ] James and the Giant Peach
+- [ ] Charlie and the Chocolate Factory
+- [x] Men are from Mars, Women are from Venus
+
+#### Where is the Pearl Harbor Monument located?
+
+- [ ] Arizona
+- [x] Hawaii
+- [ ] Washington
