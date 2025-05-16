@@ -17525,7 +17525,7 @@
 
 - [ ] Austin
 - [x] Olympia
-- [ ] Tailahassee
+- [ ] Tallahassee
 
 #### In which city does the Back to the Future trilogy take place?
 
@@ -48340,7 +48340,7 @@
 #### Tom brady won all of his Super Bowl rings playing for which NFL team?
 
 - [ ] Cleveland Browns
-- [ ] Tampa Bay Buccanners
+- [ ] Tampa Bay Buccaneers
 - [x] New England Patriots
 
 #### What is the term for a movie theater that has several movies playing at once?
@@ -63765,3 +63765,195 @@
 - [ ] Arizona
 - [x] Hawaii
 - [ ] Washington
+
+#### Which of the following fashion bands is considered to be a luxury brand?
+
+- [ ] Oshkosh B'Gosh
+- [ ] Levi's
+- [x] Prada
+
+#### Which country would you visit to shop at Harrods?
+
+- [x] England
+- [ ] Italy
+- [ ] India
+
+#### What kind of princess was TV's Xena?
+
+- [ ] Crafty Princess
+- [x] Warrior Princess
+- [ ] Quiet Princess
+
+#### Which of the following artists was not involved with the plane crash from "The Day The Music Died"?
+
+- [x] Ricky Nelson
+- [ ] Buddy Holly
+- [ ] The Big Bopper
+
+#### What bird is known for standing on one leg and appearing to have backwards knees?
+
+- [ ] Hawk
+- [x] Flamingo
+- [ ] Owl
+
+#### What color are flamingos when they're born?
+
+- [ ] Pink
+- [ ] Yellow
+- [x] Gray
+
+#### Don Henley, Glenn Frey, and Joe Walsh were all member of what music group?
+
+- [x] The Eagles
+- [ ] The Killers
+- [ ] Steve Miller Band
+
+#### In the original "Donkey Kong", what was Mario's profession?
+
+- [ ] Accountant
+- [x] Carpenter
+- [ ] Zookeeper
+
+#### In Checkers, which way do the pieces move?
+
+- [ ] Horizontally
+- [ ] Vertically
+- [x] Diagonally
+
+#### Which pop star performed with a live snake at the 2001 MTV Video Music Awards?
+
+- [ ] Mandy Moore
+- [ ] Christina Aguilera
+- [x] Britney Spears
+
+#### Chex Mix contains what breakfast cereal?
+
+- [ ] Frosted Mini Wheats
+- [ ] Golden Grahams
+- [x] Chex
+
+#### When is Halloween celebrated?
+
+- [ ] December 225th
+- [ ] July 4th
+- [x] October 31st
+
+#### The Carpenters hit "We've Only Just Begun" debuted in a TV commercial for what company?
+
+- [x] Crocker National Bank
+- [ ] Ford
+- [ ] Pan Am
+
+#### What famous dad played the father of his real-life daughter on a Disney Channel Show?
+
+- [ ] Bob Saget
+- [x] Billy Ray Cyrus
+- [ ] Billy Crystal
+
+#### What were Frosty The Snowman's last words?
+
+- [ ] Don't be sad.
+- [x] I'll be back again someday.
+- [ ] Merry Christmas!
+
+#### What 70s toy line had figures named Galactic Defender, Lobros, and Red Falcon?
+
+- [ ] Star Blazers
+- [x] Micronauts
+- [ ] Eagle Force
+
+#### The first true U.S. television commercial was for what brand?
+
+- [x] Bulova
+- [ ] RCA
+- [ ] Geritol
+
+#### Who won the first NBA championship?
+
+- [ ] Chicago Stags
+- [ ] Boston Celtics
+- [x] Philadelphia Warriors
+
+#### Which of these cartoon characters is a dog?
+
+- [ ] Top Cat
+- [ ] Mighty Mouse
+- [x] Augie Doggie
+
+#### Where can you see 1.5 million Mexican free-tailed bats fly at once from under the Congress Ave. Bridge?
+
+- [x] Texas
+- [ ] Arizona
+- [ ] New Mexico
+
+#### In what card game do you declare that you're "All In"?
+
+- [ ] Uno
+- [x] Texas Hold 'Em
+- [ ] Go Fish
+
+#### The League of Nations was the predecessor to what international body?
+
+- [ ] The Hague
+- [ ] OPEC
+- [x] The United Nations
+
+#### The Stanley Cup is the ultimate award in which sports league?
+
+- [ ] Premier League
+- [ ] NBA
+- [x] NHL
+
+#### How many sides does an octagon have?
+
+- [x] 8
+- [ ] 9
+- [ ] 10
+
+#### In Angry Birds, which animals are the villains?
+
+- [ ] Cats
+- [x] Pigs
+- [ ] Snakes
+
+#### Which of the following discontinued Pop Tart flavors was introduced in the 1990s?
+
+- [x] Watermelon
+- [ ] Guava Mango
+- [ ] Strawberry Cheese Danish
+
+#### Which Presidential candidate crushed his chances of winning the election thanks in part to a photo of him in a tank?
+
+- [ ] George McGovern
+- [x] Michael Dukakis
+- [ ] Gerald Ford
+
+#### In which horror series does Death take out people who have avoided their fated demise?
+
+- [ ] Saw
+- [ ] The Ring
+- [x] Final Destination
+
+#### Which of the following insults was once the term for a professional clown?
+
+- [x] Buffoon
+- [ ] Yokel
+- [ ] Nimrod
+
+#### Federico Fellini's "8 1/2" was the inspiration for which tech company's name?
+
+- [ ] Woot
+- [ ] Skype
+- [x] Etsy
+
+#### Homer followed up "The Iliad" with what other epic work?
+
+- [x] The Odyssey
+- [ ] One Flew Over The Cuckoo's Nest
+- [ ] 50 Shades of Grey
+
+#### Who had a hit song "Espresso"?
+
+- [ ] Ariana Grande
+- [x] Sabrina Carpenter
+- [ ] Taylor Swift
