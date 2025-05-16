@@ -63957,3 +63957,45 @@
 - [ ] Ariana Grande
 - [x] Sabrina Carpenter
 - [ ] Taylor Swift
+
+#### From which Infinity Stone does Wand Maximoff draw her powers?
+
+- [ ] Reality
+- [x] Mind
+- [ ] Soul
+
+#### According to George Carlin, how many words were there that you couldn't say on TV?
+
+- [ ] 1
+- [ ] 112
+- [x] 7
+
+#### Which Muppet plays the drums?
+
+- [ ] Zoot
+- [ ] Rowlf
+- [x] Animal
+
+#### What color is most celery?
+
+- [x] Green
+- [ ] Mauve
+- [ ] Black
+
+#### What is the term for a follow-up movie whose events take place before the original film?
+
+- [ ] Sequel
+- [x] Prequel
+- [ ] Equal
+
+#### Disney's "The Tooth Fairy" stars which former pro wrestlers? (YMMV: 2010 movie before Disney brought Fox nine years later)
+
+- [x] Dwayne "The Rock" Johnson
+- [ ] Ric Flair
+- [ ] Wendi Ritcher
+
+#### What is Nike's slogan?
+
+- [x] Just Do It
+- [ ] Just Did It
+- [ ] Won't Do That
