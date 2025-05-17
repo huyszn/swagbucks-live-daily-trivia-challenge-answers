@@ -1,599 +1,5 @@
 ## Swagbucks LIVE Questions and Answers
 
-#### Harold is the name of the Abominable Snowman you'll find in which Disneyland attraction?
-
-- [ ] Tarzan's Treehouse
-- [x] The Matterhorn
-- [ ] The Jungle Cruise
-
-#### Genovia is the European principality that Anne Hathaway is an heir to in which Disney film series?
-
-- [ ] Maleficent
-- [ ] Enchanted
-- [x] The Princess Diaries
-
-#### Model Heidi Klum is a judge on what reality show?
-
-- [ ] America's Next Top Model
-- [ ] American Idol
-- [x] America's Got Talent
-
-#### What river runs through Paris?
-
-- [ ] The Thames
-- [x] The Seine
-- [ ] The Colorado
-
-#### In Mary Poppins, what creatures serve Bert and Mary tea?
-
-- [ ] Vultures
-- [x] Penguins
-- [ ] Cats
-
-#### In which town do all cardinal directions lead to New York State?
-
-- [ ] Fort Lee, NJ
-- [x] Stamford, CT
-- [ ] Burlington, VT
-
-#### Which of the following holidays does NOT take place in December?
-
-- [ ] Take it in Your Ear Day
-- [ ] Pepper Pot Day
-- [x] Fruitcake Toss Day
-
-#### Which of the following is NOT the subtitle of a Star Trek film?
-
-- [ ] Generations
-- [ ] The Wrath of Khan
-- [x] Fellowship of the Ring
-
-#### Who won the 2022 Super Bowl?
-
-- [x] Los Angeles Rams
-- [ ] New York Yankees
-- [ ] Boston Celtics
-
-#### On average, which of these animals gives birth to the most offspring in one shot?
-
-- [ ] Rabbit
-- [x] Tailless Tenrec
-- [ ] Naked Mole Rat
-
-#### Which of these songs is NOT featured on Nickelback's 2001 album Silver Side Up?
-
-- [ ] Never Again
-- [ ] Too Bad
-- [x] Higher
-
-#### "The Seven Pillars of Wisdom" served as the primary source material for what epic film?
-
-- [ ] Clash of the Titans
-- [ ] Gladiator
-- [x] Lawrence of Arabia
-
-#### Which of the following was invented by a teenager?
-
-- [ ] Microwave Popcorn
-- [ ] Christmas Lights
-- [x] Earmuffs
-
-#### Based on it being a State fish, which sports team would a Muskellunge root for?
-
-- [ ] Chicago Bulls
-- [ ] Minnesota Timberwolves
-- [x] Milwaukee Bucks
-
-#### What alien race learned everything about civilizations from a book about 1920's Chicago mobsters?
-
-- [x] Iotians
-- [ ] Balok
-- [ ] The Trill
-
-#### Which of the following is NOT a way you can die in the original Oregon Trail computer game?
-
-- [ ] Broken Arm
-- [ ] Snakebite
-- [x] Starvation
-
-#### The U.K. versions of FIFA 2001 and Gran Turismo 2 both had what extra feature?
-
-- [ ] Creator commentary
-- [x] Scratch & Sniff discs
-- [ ] Gold discs
-
-#### Which of the following berries are harvested by flooding the bogs in which they are grown?
-
-- [ ] Lingonberries
-- [x] Cranberries
-- [ ] Elderberries
-
-#### Which "What's My Line" panellist coined the phrase "Is it bigger than a breadbox?"
-
-- [ ] Soupy Sales
-- [x] Steve Allen
-- [ ] Bennett Cerf
-
-#### Where was the world's first animated feature film created?
-
-- [ ] United States
-- [x] Argentina
-- [ ] Denmark
-
-#### In Hercules, what does Hades have on his head instead of hair?
-
-- [x] Fire
-- [ ] Snakes
-- [ ] Rocks
-
-#### Botticelli created a painting that depicts what Roman goddess emerging from the sea?
-
-- [x] Venus
-- [ ] Juno
-- [ ] Minerva
-
-#### What kind of restaurant typically serves Wonton soup?
-
-- [ ] Italian
-- [ ] Indian
-- [x] Chinese
-
-#### For which sport have Tara Lipinski and Michelle Kwan won Olympic medals?
-
-- [x] Figure skating
-- [ ] Speed Skating
-- [ ] Slalom
-
-#### In 1952, what animal briefly replaced Tony the Tiger as the Frosted Flakes mascot?
-
-- [x] Kangaroo
-- [ ] Whale
-- [ ] Dog
-
-#### Which of these U.S. States has the longest official name?
-
-- [ ] South Carolina
-- [x] Rhode Island
-- [ ] Pennsylvania
-
-#### Munchkins are tiny pastries sold by what chain?
-
-- [ ] Bob's Big Boy
-- [x] Dunkin'
-- [ ] Krispy Kreme
-
-#### Munchkins are tiny pastries sold by what chain?
-
-- [ ] Bob's Big Boy
-- [x] Dunkin'
-- [ ] Krispy Kreme
-
-#### The flags of Swaziland and Kenya both have what on them?
-
-- [ ] A lion
-- [ ] Two elephants
-- [x] Spears and a shield
-
-#### Who was President during the Iran-Contra scandal?
-
-- [ ] Jimmy Carter
-- [x] Ronald Reagan
-- [ ] Bill Clinton
-
-#### Which of the following musicians is NOT known for playing the drums?
-
-- [ ] Keith Moon
-- [ ] Ringo Starr
-- [x] Jimi Hendrix
-
-#### Which of these words is closest in definition to a fence?
-
-- [x] Palisade
-- [ ] Astragal
-- [ ] Dormer
-
-#### Which of the following companies is primarily known for producing underwear?
-
-- [ ] Gucci
-- [ ] Levi's
-- [x] Fruit of the Loom
-
-#### In which country can you get jalapeños and got chili-cheese sauce for your fries at McDonald's?
-
-- [ ] Mexico
-- [ ] Germany
-- [x] Norway
-
-#### Since 2010, Calista Flockhart has been married to which "Star Wars" actor?
-
-- [ ] Mark Hamill
-- [ ] Anthony Daniels
-- [x] Harrison Ford
-
-#### Which of Disney's Nine Old Men is responsible for Walt's favorite piece of animation?
-
-- [ ] Ward Kimball
-- [ ] Eric Larsen
-- [x] Marc Davis
-
-#### Gene Kelly is best known for what kind of dancing?
-
-- [ ] Line Dancing
-- [ ] Krumping
-- [x] Tap Dancing
-
-#### Who released the album "Blame It on Baby" in 2020?
-
-- [x] DaBaby
-- [ ] Baby Huey
-- [ ] Space Baby
-
-#### Bob Parr is a leading character, and head of the family, in which animated movie?
-
-- [ ] Meet the Robinsons
-- [ ] Bolt
-- [x] The Incredibles
-
-#### Who played Luke Skywalker's mother in the prequels?
-
-- [x] Natalie Portman
-- [ ] Carrie Fisher
-- [ ] Emma Stone
-
-#### Who got their powers from the Super Soldier Serum?
-
-- [ ] Colossus
-- [x] Captain America
-- [ ] Cannonball
-
-#### How was Joan of Arc killed?
-
-- [ ] Firing Squad
-- [x] Burned at the stake
-- [ ] Buried alive
-
-#### The "fight or flight" response comes from which nervous system?
-
-- [x] Sympathetic
-- [ ] Parasympathetic
-- [ ] Enteric
-
-#### Which of the following songs does NOT appear in 1964's "Mary Poppins"?
-
-- [ ] Pavement Artist
-- [x] Nowhere to Go But Up
-- [ ] A Man Has Dreams
-
-#### Who was known as "The Swedish Sphinx"?
-
-- [ ] Ingrid Bergman
-- [x] Greta Garbo
-- [ ] Britt Eklund
-
-#### Which of these frozen food lines is geared towards people wanting to lose weight?
-
-- [x] Lean Cuisine
-- [ ] Totinos Pizza Rolls
-- [ ] Hungry Man
-
-#### Which of these defunct Disney Park attractions debuted the earliest?
-
-- [x] ExtraTERRORestrial Alien Encounter
-- [ ] Superstar Limo
-- [ ] Rocket Rods
-
-#### Hákarl is a dried shark meat you would most likely find where?
-
-- [x] Selfoss
-- [ ] Kiruna
-- [ ] Nagoya
-
-#### In "Life", the tile giving you $100,000 for winning a Nobel Prize now awards you for what?
-
-- [x] Being on Reality TV
-- [ ] Inventing an App
-- [ ] Winning a Game Show
-
-#### In Shel Silverstein's "Sick", which of these is NOT a condition the child claims to have?
-
-- [ ] Mumps
-- [x] Arthritis
-- [ ] Broken Leg
-
-#### When you just barely avoid something, you would commonly say you escaped by the skin of your:
-
-- [x] Teeth
-- [ ] Toes
-- [ ] Belly
-
-#### September 4th, 476 A.D. is the date of what historic event?
-
-- [ ] First TV broadcast
-- [ ] U.S. Civil War Begins
-- [x] End of the Western Roman Empire
-
-#### Acey-Deucey is a variation of what game?
-
-- [x] Backgammon
-- [ ] Tennis
-- [ ] Cricket
-
-#### What comic storyline partially inspired the plot of Thor: Ragnarök?
-
-- [ ] The God Butcher
-- [x] Planet Hulk
-- [ ] Whom the Gods Would Destroy
-
-#### Chief, Duke, and Spots are characters from which animal movie?
-
-- [x] Isle of Dogs
-- [ ] Cats and Dogs
-- [ ] The Secret Life of Pets
-
-#### What is the value of the geometric ratio made popular in Dan Brown's "Da Vinci Code"?
-
-- [ ] 1.414
-- [x] 1.618
-- [ ] 3.142
-
-#### According to their song "Heigh Ho", what are the 7 dwarfs digging for?
-
-- [x] Diamonds and Rubies
-- [ ] Diamonds and Sapphires
-- [ ] Diamonds and Emeralds
-
-#### What did the E in WED Enterprises stand for?
-
-- [ ] Engineering
-- [x] Elias
-- [ ] Education
-
-#### Putting your hands in your pockets in formal situations is considered rude in what country?
-
-- [ ] Finland
-- [x] South Korea
-- [ ] India
-
-#### Which blood type is known as the Universal Donor?
-
-- [ ] AB Positive
-- [x] O Negative
-- [ ] A Positive
-
-#### Which of the following superheroes gets their powers from a ring?
-
-- [ ] The Hulk
-- [ ] Black Canary
-- [x] Green Lantern
-
-#### In 1976, Rankin/Bass debuted a special that was a sequel to what other Rankin/Bass special?
-
-- [ ] The First Christmas: The Story of the First Christmas Snow
-- [x] Little Drummer Boy
-- [ ] Nestor, the Long-Eared Christmas Donkey
-
-#### Who broke Lou Gehrig's MLB record for consecutive games played?
-
-- [x] Cal Ripken Jr.
-- [ ] Aaron Judge
-- [ ] Bryce Harper
-
-#### Which musical features the song "I Dreamed A Dream"?
-
-- [ ] Starlight Express
-- [x] Les Misérables
-- [ ] She Loves Me
-
-#### In which singing competition do the coaches start with their backs to the contestants?
-
-- [x] The Voice
-- [ ] The Sing-Off
-- [ ] American Idol
-
-#### What Panda-loving trickshot YouTube channel launched in 2010?
-
-- [x] DudePerfect
-- [ ] Legendary Shots
-- [ ] Brodie Smith
-
-#### Felix Unger and Oscar Madison are mismatched roommates in what sitcom?
-
-- [ ] Friends
-- [x] The Odd Couple
-- [ ] Hardcastle & McCormick
-
-#### Which of the following is not referenced in the lyrics of "We Didn't Start The Fire"?
-
-- [ ] The Brooklyn Dodgers
-- [ ] Wheel of Fortune
-- [x] Disco
-
-#### Which of the following movies lost the most money during its initial box office run?
-
-- [x] Mars Needs Moms
-- [ ] Dark Phoenix
-- [ ] The Postman
-
-#### What midwestern American city famously dyes its central river Green for St. Patrick's Day?
-
-- [ ] Honolulu
-- [ ] Jacksonville
-- [x] Chicago
-
-#### According to Mental Floss, when Interpol was first being planned what was chosen as its designated language?
-
-- [ ] English
-- [x] French
-- [ ] Esperanto
-
-#### In the comic strips, in which branch of the military does Beetle Bailey serve?
-
-- [ ] Navy
-- [ ] Merchant Marines
-- [x] Army
-
-#### Who is credited with hitting the first National League home run?
-
-- [x] Ross Barnes
-- [ ] Lip Pike
-- [ ] Frank Baker
-
-#### In which musical does the main character use solfege to teach children how to carry a tune?
-
-- [x] Sound of Music
-- [ ] The Music Man
-- [ ] Falsettos
-
-#### Which of these Netflix remakes doesn't feature any of the original show's actors in a starring role?
-
-- [x] One Day At A Time
-- [ ] Fuller House
-- [ ] Arrested Development
-
-#### Who is the lead singer of Aerosmith?
-
-- [x] Steve Tyler
-- [ ] David Lee Roth
-- [ ] Ozzy Osbourne
-
-#### Which of these food inventors was allergic to his invention?
-
-- [ ] George Washington Carver
-- [ ] Ruth Graves Wakefield
-- [x] Forrest Mars
-
-#### Minneapolis and what other place make up the Twin Cities?
-
-- [ ] Toledo
-- [ ] Altoona
-- [x] St. Paul
-
-#### Which of the following countries does NOT have a public railway system?
-
-- [x] Iceland
-- [ ] Jamaica
-- [ ] Madagascar
-
-#### Who was once known as The Wheel Stealer?
-
-- [ ] Oscar
-- [x] Cookie Monster
-- [ ] Forgetful Jones
-
-#### Which of these movies was NOT featured in a Billy Crystal Oscar Medley?
-
-- [ ] Secrets & Lies
-- [ ] The Cider House Rules
-- [x] Rain Man
-
-#### The dog with the most Instagram followers is what breed?
-
-- [x] Pomeranian
-- [ ] Pug
-- [ ] Shiba Inu
-
-#### What haircut trend was started by the show "Friends"?
-
-- [x] The Rachel
-- [ ] The Columbo
-- [ ] The Knight Rider
-
-#### For "The Gates" art installation in Central Park, 23 miles of pathways were lined with what?
-
-- [x] Orange Flags
-- [ ] Light Projections
-- [ ] Picket Fences
-
-#### Who was NOT a contestant on Season 25 of Dancing with the Stars?
-
-- [ ] Frankie Muniz
-- [ ] Nick Lachey
-- [x] Simone Biles
-
-#### "Rudy" was the credited film debut for what actor?
-
-- [x] Vince Vaughn
-- [ ] Ben Stiller
-- [ ] Jon Hamm
-
-#### Which celebrity shares a birth State with Iggy Pop?
-
-- [x] Francis Ford Coppola
-- [ ] George Clooney
-- [ ] Richard Pryor
-
-#### Before SNL, Kenan Thompson was in the cast of a sketch show on what children's cable channel?
-
-- [x] Nickleodeon
-- [ ] Disney Jr
-- [ ] BabyFirst
-
-#### Which of these famous works of art is on permanent display in Austria?
-
-- [ ] The Scream
-- [ ] Girl with a Pearl Earring
-- [x] The Kiss
-
-#### In what year did Nathan's Famous Hot Dog Eating Contest become a regular annual event?
-
-- [ ] 1972
-- [ ] 1974
-- [x] 1978
-
-#### Which of the following foreign language words translates to "green"?
-
-- [ ] Enfant
-- [x] Verde
-- [ ] Cacio
-
-#### Pittsburgh is known by what nickname?
-
-- [x] Steel City
-- [ ] City of Brotherly Love
-- [ ] Magic City
-
-#### West Side Story's "One Hand, One Heart" was originally writen for which musical?
-
-- [ ] Peter Pan
-- [ ] On The Town
-- [x] Candide
-
-#### As of May 2023, how many MCU characters have been able to wield Mjolnir?
-
-- [ ] 4
-- [ ] 5
-- [x] 6
-
-#### Hamburger Helper boxes and commercials feature an anthropomorphic version of what item?
-
-- [x] Glove
-- [ ] Spoon
-- [ ] Pan
-
-#### According to legend, where was the Eiffel Tower originally supposed to be built?
-
-- [ ] New York City
-- [ ] London
-- [x] Barcelona
-
-#### Point guard Anthony "Spud" Webb played for the Atlanta Hawks, among other teams, in which professional sports league?
-
-- [ ] MLB
-- [x] NBA
-- [ ] NHL
-
-#### On which continent is Lake Victoria the largest lake?
-
-- [ ] Asia
-- [x] Africa
-- [ ] South America
-
-#### What is Dwight Schrute's title in the pilot?
-
-- [ ] Assistant Regional Manager
-- [ ] Associate of the Regional Manager
-- [x] Assistant to the Regional Manager
-
 #### What Andrew Lloyd Webber musical is based on a collection of poems by T.S. Eliot?
 
 - [ ] Phantom of the Opera
@@ -4202,8 +3608,8 @@
 
 #### What animal is used to describe a market where stock prices are rising?
 
-- [x] Bull
-- [ ] Bandicoot
+- [ ] Bull
+- [x] Bandicoot
 - [ ] Beatle
 
 #### What is the only country Portugal shares a border with?
@@ -11230,7 +10636,7 @@
 
 - [ ] James Bond
 - [ ] Johnny English
-- [x] Jason Bourne
+- [x] James Bond
 
 #### Which of these medicines would you take to help with allergies?
 
@@ -17017,7 +16423,7 @@
 - [x] The Little Mermaid
 - [ ] Aladdin
 
-#### On May 27th, 2021, HBOMax premiered the reunion special for what NBC sitcom?
+#### On May 27, 2021, HBOMAX premiered the reunion special for what NBC sitcom?
 
 - [ ] The Single Guy
 - [ ] Caroline in the City
@@ -25561,7 +24967,7 @@
 - [ ] And Christmases long, long ago
 - [ ] And merrily over we go
 
-#### "Come they told me, Pa rum pum pum pum. A new born king to see..."
+#### "Come they told be, Pa rum pum pum pum. A new born king to see..."
 
 - [ ] And you won't believe what he's wearing
 - [ ] And he's SO nice
@@ -26779,7 +26185,7 @@
 - [ ] Asia
 - [x] Africa
 
-#### When you order pie ala mode, how is it served?
+#### When you order pie ala modde, how is it served?
 
 - [ ] Frozen
 - [x] With ice cream
@@ -27729,9 +27135,9 @@
 
 #### Which pizza chain offers the Shaq-a-Roni Pizza?
 
-- [x] Papa John's
+- [ ] Papa John's
 - [ ] Pizza Rev
-- [ ] Cici's Pizza
+- [x] Cici's Pizza
 
 #### How many days each calender year are there no professional sports games in the U.S.?
 
@@ -30639,7 +30045,7 @@
 
 #### A Puggle is a combination of which two dog breeds?
 
-- [x] Pug and Beagle
+- [x] Pug and Begle
 - [ ] Dalmatian and Collie
 - [ ] Malamute and Bloodhound
 
@@ -49198,7 +48604,7 @@
 #### In 1931, what famous U.S. building was completed?
 
 - [x] Empire State Building
-- [ ] Whtie House
+- [ ] White House
 - [ ] Washington Monument
 
 #### What is the collective term for the first 10 amendments to the constitution?
@@ -52542,6 +51948,12 @@
 - [ ] Tumips
 - [x] Bells
 - [ ] Mushrooms
+
+#### Who wrote "The Giving Tree"?
+
+- [x] Shel Silverstein
+- [ ] Truman Capote
+- [ ] F. Scott Fitzgerald
 
 #### Which soap actress was nominated for 18 Emmys before winning her first?
 
@@ -64587,3 +63999,27 @@
 - [x] Just Do It
 - [ ] Just Did It
 - [ ] Won't Do That
+
+#### In "Jack and the Beanstalk", what is at the top of the magical beanstalk?
+
+- [ ] Heaven
+- [x] A giant
+- [ ] Witches
+
+#### By what nickname s William Shakespeare known?
+
+- [x] The Bard
+- [ ] The Bird
+- [ ] The Beard
+
+#### Which vampire novel was written by Anne Rice?
+
+- [ ] Dracula
+- [ ] Fangs McGoo
+- [x] Interview with the Vampire
+
+#### During World War II, a beer-drinking bear was adopted by the army of which country?
+
+- [ ] Germany
+- [ ] Russia
+- [x] Poland
