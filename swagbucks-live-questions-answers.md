@@ -9794,7 +9794,7 @@
 
 #### What game show once facetiously offered an elephant as a prize?
 
-- [ ] Let’s Make a Deal
+- [ ] Let's Make a Deal
 - [x] The Price is Right
 - [ ] Wheel of Fortune
 
@@ -9804,7 +9804,7 @@
 - [ ] Blondie
 - [ ] No Doubt
 
-#### What American novel was dismissed by H.L. Mencken as “no more than a glorified anecdote”?
+#### What American novel was dismissed by H.L. Mencken as "no more than a glorified anecdote"?
 
 - [ ] The Sun Also Rises
 - [x] The Great Gatsby
@@ -9834,39 +9834,39 @@
 - [ ] Quantum Leap
 - [x] Stargate: SG-1
 
-#### In “Inception”, who played Cobb, a thief who steals secrets in people’s dreams?
+#### In "Inception", who played Cobb, a thief who steals secrets in people's dreams?
 
 - [ ] Tobey Maguire
 - [x] Leonardo DiCaprio
 - [ ] Billy Crudup
 
-#### The Richard Strauss tone poem “Also sprach Zarathustra” features heavily in what classic Sci-fi movie?
+#### The Richard Strauss tone poem "Also sprach Zarathustra" features heavily in what classic Sci-fi movie?
 
 - [ ] Forbidden Planet
 - [ ] A Clockwork Orange
 - [x] 2001: A Space Odyssey
 
-#### Who starred in the two sci-fi flops “Waterworld” and “The Postman”?
+#### Who starred in the two sci-fi flops "Waterworld" and "The Postman"?
 
 - [x] Kevin Costner
 - [ ] Kevin Kline
 - [ ] Kevin Bacon
 
-#### “Protecting the Earth from the Scum of the Universe” was the tagline to what 1997 sci-fi comedy?
+#### "Protecting the Earth from the Scum of the Universe" was the tagline to what 1997 sci-fi comedy?
 
 - [ ] Contact
 - [x] Men in Black
 - [ ] Alien: Resurrection
 
-#### “Klaatu barada nikto” is a key phrase in which sci-fi movie?
+#### "Klaatu barada nikto" is a key phrase in which sci-fi movie?
 
 - [x] The Day The Earth Stool Still
 - [ ] The Blob
 - [ ] Invasion of the Body Snatchers
 
-#### Grogu from “The Mandalorian” is better known by what nickname?
+#### Grogu from "The Mandalorian" is better known by what nickname?
 
-- [ ] Li’l Fett
+- [ ] Li'l Fett
 - [x] Baby Yoda
 - [ ] Tiny Chewbacca
 
@@ -9936,7 +9936,7 @@
 - [x] 206 
 - [ ] 250
 
-#### Based on WWII Disney propaganda films, who could have starred in “The Man in the High Castle”?
+#### Based on WWII Disney propaganda films, who could have starred in "The Man in the High Castle"?
 
 - [x] Donald Duck
 - [ ] Goofy
@@ -9944,7 +9944,7 @@
 
 #### The Great Schism of 1054 broke up which church?
 
-- [ ] Church’s Chicken
+- [ ] Church's Chicken
 - [x] Christian Church
 - [ ] Church of Latter Day Saints
 
@@ -9984,7 +9984,7 @@
 - [ ] Paris, France
 - [ ] Mumbai, India
 
-#### When you’re by someone’s side no matter what, you’re said to be with them through:
+#### When you're by someone's side no matter what, you're said to be with them through:
 
 - [ ] Fric and Frac
 - [x] Thick and Thin
@@ -10002,19 +10002,19 @@
 - [ ] Owls
 - [ ] Hawks
 
-#### Stockholm Syndrome is when hostages bond with their captors. What city’s syndrome sees captors bond with their hostages?
+#### Stockholm Syndrome is when hostages bond with their captors. What city's syndrome sees captors bond with their hostages?
 
 - [ ] Paris
 - [x] Lima
 - [ ] London
 
-#### “Knights of the Old Republic”, “The Force Unleashed”, and “Jedi: Survivor” are video games based on what franchise?
+#### "Knights of the Old Republic", "The Force Unleashed", and "Jedi: Survivor" are video games based on what franchise?
 
 - [x] Star Wars
 - [ ] Fast and Furious
 - [ ] Transformers
 
-#### Early in the run of the original “Star Trek”, what reason did NBC execs give for wanting to get rid of Spock?
+#### Early in the run of the original "Star Trek", what reason did NBC execs give for wanting to get rid of Spock?
 
 - [ ] He was too cold
 - [ ] He was boring
@@ -10032,7 +10032,7 @@
 - [ ] Athens
 - [ ] Oslo
 
-#### What Broadway character is “The Demon Barber of Fleet Street”?
+#### What Broadway character is "The Demon Barber of Fleet Street"?
 
 - [ ] Prof. Harold Hill
 - [ ] Alexander Hamilton
@@ -10144,7 +10144,7 @@
 
 - [x] Bushwhacked
 - [ ] Curly Sue
-- [ ] Baby’s Day Out
+- [ ] Baby's Day Out
 
 #### Which of these desserts is typically filled with a sweet creamy filling?
 
@@ -10186,7 +10186,7 @@
 
 - [ ] Thumbelina
 - [x] Teeny Ted from Turnip Town
-- [ ] Gulliver’s Travels
+- [ ] Gulliver's Travels
 
 #### What is the name of Captain Jack Sparrow's ship?
 
@@ -10470,7 +10470,7 @@
 - [ ] The Mosquito Coast
 - [x] Witness
 
-#### In what year was the word “Old” first added to the cover of “The Old Farmers Almanac”?
+#### In what year was the word "Old" first added to the cover of "The Old Farmers Almanac"?
 
 - [x] 1832
 - [ ] 1792
@@ -10488,7 +10488,7 @@
 - [ ] Deep Think
 - [ ] Big Blue
 
-#### What’s the butler’s name in 1985’s Clue: VCR Mystery Game?
+#### What's the butler's name in 1985's Clue: VCR Mystery Game?
 
 - [ ] Mr. Whodunit
 - [x] Mr. Didit
@@ -10510,15 +10510,15 @@
 
 - [x] The Breakfast Club
 - [ ] Sixteen Candles
-- [ ] St. Elmo’s Fire
+- [ ] St. Elmo's Fire
 
-#### Which star of “The Office” is married to Emily Blunt?
+#### Which star of "The Office" is married to Emily Blunt?
 
 - [x] John Krasinski
 - [ ] Steve Carell
 - [ ] Rainn Wilson
 
-#### Which Sesame Street character’s first name is Aloysius?
+#### Which Sesame Street character's first name is Aloysius?
 
 - [ ] Big Bird
 - [x] Snuffleupagus
@@ -10548,19 +10548,19 @@
 - [x] Wookiee
 - [ ] Mon Calamari
 
-#### Which of the following “As Seen On TV” Products is for cleaning?
+#### Which of the following "As Seen On TV" Products is for cleaning?
 
 - [ ] PedEgg
 - [x] ShamWow
 - [ ] Snuggie
 
-#### Which sitcom is about the Boston bar “Where everybody knows your name”?
+#### Which sitcom is about the Boston bar "Where everybody knows your name"?
 
 - [x] Cheers
 - [ ] Entourage
 - [ ] Union Square
 
-#### In which country is the return of the sun after winter celebrated with something called “Sun Coffee”?
+#### In which country is the return of the sun after winter celebrated with something called "Sun Coffee"?
 
 - [ ] Norway
 - [x] Iceland
@@ -10578,7 +10578,7 @@
 - [x] Snakes
 - [ ] Wolves
 
-#### A remainder is what’s left over in what kind of math equation?
+#### A remainder is what's left over in what kind of math equation?
 
 - [ ] Addition
 - [x] Division
@@ -10608,7 +10608,7 @@
 - [ ] Donald Duck
 - [x] Mickey Mouse
 
-#### What’s the term for methods of reducing taxable income?
+#### What's the term for methods of reducing taxable income?
 
 - [ ] Tax Shelters
 - [ ] Tax Vacation
@@ -10932,7 +10932,7 @@
 - [x] Dentist
 - [ ] Epidemiologist
 
-#### Which holiday wasn’t a public holiday in Massachusetts until 1856?
+#### Which holiday wasn't a public holiday in Massachusetts until 1856?
 
 - [x] Christmas
 - [ ] Thanksgiving
@@ -10944,7 +10944,7 @@
 - [ ] Thanksgiving
 - [ ] Valentines Day
 
-#### The man who wrote the Oscar-winning screenplay for “Moonstruck” also wrote what flop?
+#### The man who wrote the Oscar-winning screenplay for "Moonstruck" also wrote what flop?
 
 - [ ] Gigli
 - [x] Joe Versus the Volcano
@@ -10980,10 +10980,10 @@
 - [x] As soon as possible
 - [ ] On the day of the event
 
-#### What McDonald’s meals include Toys?
+#### What McDonald's meals include Toys?
 
 - [x] Happy Meals
-- [ ] Collector’s Meals
+- [ ] Collector's Meals
 - [ ] Play Meals
 
 #### What Netflix series follows the life of Queen Elizabeth II?
@@ -10992,7 +10992,7 @@
 - [ ] Virgin River
 - [x] The Crown
 
-#### In which backyard game can you score a “leaner”?
+#### In which backyard game can you score a "leaner"?
 
 - [x] Horseshoes
 - [ ] Wheelbarrow racing
@@ -11034,7 +11034,7 @@
 - [ ] Sony
 - [ ] Apple
 
-#### The Space Race of the 50’s and 60’s was between which two countries?
+#### The Space Race of the 50's and 60's was between which two countries?
 
 - [x] USA and the Soviet Union
 - [ ] China and Japan
@@ -11052,13 +11052,13 @@
 - [x] Twister
 - [ ] He-Man
 
-#### Which children’s rhyme is NOT mentioned in Run DMC’s “Peter Piper”?
+#### Which children's rhyme is NOT mentioned in Run DMC's "Peter Piper"?
 
 - [ ] Rub-a-dub-dub
 - [ ] Hey diddle diddle
 - [x] Three blind mice
 
-#### What letter doesn’t appear in any U.S. States name?
+#### What letter doesn't appear in any U.S. States name?
 
 - [ ] A
 - [ ] B
@@ -11322,7 +11322,7 @@
 - [x] The Fresh Prince of Bel Air
 - [ ] Martin
 
-#### According to the grammar rule, it’s “I” before “E” except after what?
+#### According to the grammar rule, it's "I" before "E" except after what?
 
 - [ ] Dinner
 - [ ] Hours
@@ -11692,9 +11692,9 @@
 
 - [x] The Year Without a Santa Claus
 - [ ] Nestor, the Long-Eared Christmas Donkey
-- [ ] Rudolph’s Shiny New Year
+- [ ] Rudolph's Shiny New Year
 
-#### Who was the first Canadian to be named baseball’s National League MVP?
+#### Who was the first Canadian to be named baseball's National League MVP?
 
 - [x] Larry Walker
 - [ ] Joey Votto
@@ -11706,7 +11706,7 @@
 - [x] Boxing
 - [ ] Hurdles
 
-#### According to the original show’s preamble, what is the final frontier?
+#### According to the original show's preamble, what is the final frontier?
 
 - [x] Space
 - [ ] Sound
@@ -11841,7 +11841,7 @@
 #### Which of these cereals typically contains marshmallows?
 
 - [ ] Corn Flakes
-- [ ] Cap’n Crunch
+- [ ] Cap'n Crunch
 - [x] Lucky Charms
 
 #### Before staring Red Lobster, what restaurant did Bill Darden own?
@@ -11850,7 +11850,7 @@
 - [ ] The Blue Sparrow
 - [ ] The Yellow Duck
 
-#### Which of these women is NOT among the “Inspiring Women” Barbies?
+#### Which of these women is NOT among the "Inspiring Women" Barbies?
 
 - [ ] Frida Kahlo
 - [x] Michelle Obama
@@ -12456,11 +12456,11 @@
 - [ ] Saxophone
 - [ ] Guitar
 
-#### Complete this food slogan: “There’s no wrong way to eat a…”
+#### Complete this food slogan: "There's no wrong way to eat a…"
 
-- [ ] Domino’s Pizza
+- [ ] Domino's Pizza
 - [ ] Taco
-- [x] Reese’s
+- [x] Reese's
 
 #### The talking doll Teddy Ruxpin was what kind of animal?
 
@@ -12468,9 +12468,9 @@
 - [ ] Dog
 - [x] Bear
 
-#### If a driver’s car has a yellow Ohio license plate, what does that mean?
+#### If a driver's car has a yellow Ohio license plate, what does that mean?
 
-- [ ] You’re a government official
+- [ ] You're a government official
 - [ ] You have a classic car
 - [x] You have a DUI conviction
 
@@ -12480,7 +12480,7 @@
 - [ ] Slug
 - [ ] Tiger
 
-#### Which of these French words means “Thank you”?
+#### Which of these French words means "Thank you"?
 
 - [ ] Bonjour
 - [x] Merci
@@ -12600,13 +12600,13 @@
 - [ ] Nuts.com
 - [x] Planters
 
-#### Which of these characters survived “The Snap”?
+#### Which of these characters survived "The Snap"?
 
 - [ ] Falcon
 - [ ] Spider-Man
 - [x] Nebula
 
-#### What children’s book comes with a hole punched into each page?
+#### What children's book comes with a hole punched into each page?
 
 - [x] The Very Hungry Caterpillar
 - [ ] Ramona & Beezus
@@ -12624,7 +12624,7 @@
 - [x] The Volunteer State
 - [ ] The State Where Elvis Lived
 
-#### In the original version of “The Little Mermaid” by Hans Christain Andersen, what happens to the mermaid?
+#### In the original version of "The Little Mermaid" by Hans Christain Andersen, what happens to the mermaid?
 
 - [ ] She marries the prince
 - [ ] She becomes queen of the sea
@@ -12632,9 +12632,9 @@
 
 #### Which of these cat facts are true?
 
-- [x] They have a “righting reflex”?
-- [ ] The have commercial pilot’s licenses
-- [ ] They’re secretly dogs in disguise
+- [x] They have a "righting reflex"?
+- [ ] The have commercial pilot's licenses
+- [ ] They're secretly dogs in disguise
 
 #### What is the term for the person who directs a circus performance?
 
@@ -12756,19 +12756,19 @@
 - [x] 2nd Amendment
 - [ ] 5th Amendment
 
-#### In Star Wars, what was the occupation of Luke’s Uncle Owen?
+#### In Star Wars, what was the occupation of Luke's Uncle Owen?
 
 - [ ] Droid Builder
 - [ ] Speeder Mechanic
 - [x] Moisture Farmer
 
-#### What language is notable for using the “Verb Subject Object” word order?
+#### What language is notable for using the "Verb Subject Object" word order?
 
 - [x] Irish
 - [ ] Esperanto
 - [ ] Italian
 
-#### Which of these French words means “Good Day”?
+#### Which of these French words means "Good Day"?
 
 - [x] Bonjour
 - [ ] Baguette
@@ -12792,7 +12792,7 @@
 - [x] Clorox
 - [ ] Heinz
 
-#### In “Finding Nemo”, where is Nemo finally found?
+#### In "Finding Nemo", where is Nemo finally found?
 
 - [x] Australia
 - [ ] Japan
@@ -13346,7 +13346,7 @@
 
 #### Which of the following is a brand of candy?
 
-- [ ] Jack’s Links
+- [ ] Jack's Links
 - [ ] Shasta
 - [x] Twix
 
@@ -13374,7 +13374,7 @@
 - [x] Captain Marvel
 - [ ] Thor
 
-#### What future star got his break working in 1960s and 70s Disney films like “The Computer Wore Tennis Shoes”?
+#### What future star got his break working in 1960s and 70s Disney films like "The Computer Wore Tennis Shoes"?
 
 - [ ] Justin Bieber
 - [x] Kurt Russel
@@ -13496,9 +13496,9 @@
 
 #### According to Grammarly, which of these is grammatically correct?
 
-- [x] I’m going to lie down for a nap
-- [ ] I’m going to lay down for a nap
-- [ ] I’m going to laid down for a nap
+- [x] I'm going to lie down for a nap
+- [ ] I'm going to lay down for a nap
+- [ ] I'm going to laid down for a nap
 
 #### A harpsichord most closely resembles what instrument?
 
@@ -13518,7 +13518,7 @@
 - [ ] Xenophon
 - [x] Simon the Shoemaker
 
-#### What is Lady Gaga’s real first name?
+#### What is Lady Gaga's real first name?
 
 - [x] Stefani
 - [ ] Joanne
@@ -13632,7 +13632,7 @@
 - [x] Celebrimbor
 - [ ] Elrond
 
-#### What brand was known to “Tale a licking and keep on ticking”?
+#### What brand was known to "Tale a licking and keep on ticking"?
 
 - [ ] Rolex
 - [ ] Swatch
@@ -13668,7 +13668,7 @@
 - [ ] Sculpt him into a ball
 - [ ] Divide him into two parts
 
-#### Who starred in remakes of or sequels to “The Parent Trap” and “The Love Bug”?
+#### Who starred in remakes of or sequels to "The Parent Trap" and "The Love Bug"?
 
 - [ ] Miley Cyrus
 - [ ] Hilary Duff
@@ -13800,17 +13800,17 @@
 - [ ] Ms. Pac-Man
 - [x] Tetris
 
-#### According to the saying: “Where there’s a will, there’s a…”
+#### According to the saying: "Where there's a will, there's a…"
 
 - [ ] Bee
 - [ ] Whale
 - [x] Way
 
-#### What fast food chain used “I’m Lovin’ It” as their slogan?
+#### What fast food chain used "I'm Lovin' It" as their slogan?
 
 - [ ] Burger King
 - [ ] Bojangles
-- [x] McDonald’s
+- [x] McDonald's
 
 #### In the game of charades, what are you NOT allowed to do while giving clues?
 
@@ -13824,13 +13824,13 @@
 - [ ] Mickey Mouse
 - [ ] Sneezy
 
-#### Which decade gave us hits like “Mickey”, “Hold Me Now”, and “Like a Virgin”?
+#### Which decade gave us hits like "Mickey", "Hold Me Now", and "Like a Virgin"?
 
 - [ ] 1970s
 - [x] 1980s
 - [ ] 1990s
 
-#### In the children’s book series, where is Paddington Bear originally from?
+#### In the children's book series, where is Paddington Bear originally from?
 
 - [x] Peru
 - [ ] Africa
@@ -14232,7 +14232,7 @@
 - [ ] Joy to the World
 - [x] Jingle Bells
 
-#### Who recorded “I Will Always Love You” for “The Bodyguard” soundtrack?
+#### Who recorded "I Will Always Love You" for "The Bodyguard" soundtrack?
 
 - [ ] Dolly Patron
 - [x] Whitney Houston
@@ -14241,8 +14241,8 @@
 #### According to theater superstition, what will happen if you wear the color yellow on stage?
 
 - [ ] The play will fail
-- [ ] You’ll get injured
-- [x] You’ll forget your lines
+- [ ] You'll get injured
+- [x] You'll forget your lines
 
 #### What cereal owes its invention to Circus Peanuts?
 
@@ -14292,7 +14292,7 @@
 - [x] Capri Sun
 - [ ] V8
 
-#### In which of these movies do you hear the word “Avengers” said aloud?
+#### In which of these movies do you hear the word "Avengers" said aloud?
 
 - [ ] The Incredible Hulk
 - [ ] Captain America: The Winter Soldier
@@ -14316,25 +14316,25 @@
 - [x] Ewan McGregor
 - [ ] James Arnold Taylor
 
-#### If you’re starting over, what are you said to be going back to?
+#### If you're starting over, what are you said to be going back to?
 
 - [ ] The painting stool
 - [ ] The sculpting dress
 - [x] The drawing board
 
-#### Which band borrowed a chapter title from “Lord of the Flies” for one of their songs?
+#### Which band borrowed a chapter title from "Lord of the Flies" for one of their songs?
 
 - [ ] Metallica
 - [x] U2
 - [ ] R.E.M.
 
-#### What former Destiny’s Child star released the album “Lemonade”?
+#### What former Destiny's Child star released the album "Lemonade"?
 
 - [ ] Adele
 - [ ] Cardi B
 - [x] Beyonce
 
-#### “Lemonade Lucy” was the first lady to which U.S. president?
+#### "Lemonade Lucy" was the first lady to which U.S. president?
 
 - [x] Rutherford B. Hayes
 - [ ] Theodore Roosevelt
@@ -14406,13 +14406,13 @@
 - [ ] Tom Sawyer
 - [x] Great Expectations
 
-#### Which artist created the Obama “Hope” and Andre the Giant “Obey” images?
+#### Which artist created the Obama "Hope" and Andre the Giant "Obey" images?
 
 - [ ] Banksy
 - [x] Shepard Fairey
 - [ ] Mr. Brainwash
 
-#### Which artist created the Obama “Hope” and Andre the Giant “Obey” images?
+#### Which artist created the Obama "Hope" and Andre the Giant "Obey" images?
 
 - [ ] Banksy
 - [x] Shepard Fairey
@@ -14443,7 +14443,7 @@
 - [ ] The Ecuador
 - [ ] The Eczema
 
-#### Which “Red Hot Chili Peppers” band would be the hottest?
+#### Which "Red Hot Chili Peppers" band would be the hottest?
 
 - [ ] The Bhut Jolokia Chili Peppers
 - [ ] The Naga Viper Chili Peppers
@@ -14476,7 +14476,7 @@
 #### Which of the following is NOT one of the six categories in the original Trivial Pursuit?
 
 - [ ] Arts & Literature
-- [x] People Named “Stu”
+- [x] People Named "Stu"
 - [ ] Geography
 
 #### Which of the following TV series did NOT feature an appearance by John Munch?
@@ -14557,7 +14557,7 @@
 - [ ] The first 13 amendments
 - [ ] The first 13 presidents
 
-#### According to CNN and based on their fictional occupation’s salary, which TV dad makes the most money?
+#### According to CNN and based on their fictional occupation's salary, which TV dad makes the most money?
 
 - [x] George Jefferson
 - [ ] Tim Taylor
@@ -14773,7 +14773,7 @@
 - [x] Return to the Planet of the Apes
 - [ ] The Great Emancipator
 
-#### Chick Taylor’s are a line of shoes from what company?
+#### Chick Taylor's are a line of shoes from what company?
 
 - [ ] Reebok
 - [x] Converse
@@ -14791,7 +14791,7 @@
 - [ ] The Hunger Games
 - [ ] Despicable Me
 
-#### Which of the following is NOT one of the rules of Jason Statham’s character in “The Transporter”?
+#### Which of the following is NOT one of the rules of Jason Statham's character in "The Transporter"?
 
 - [ ] Never change the deal
 - [x] Always wear a seatbelt
@@ -14813,9 +14813,9 @@
 
 - [ ] Baby and Child Care
 - [x] Cat in the Hat
-- [ ] I’m OK, You’re OK
+- [ ] I'm OK, You're OK
 
-#### Stan and Jan Berenstain wrote a series of children’s books about what animals?
+#### Stan and Jan Berenstain wrote a series of children's books about what animals?
 
 - [ ] Fish
 - [ ] Eagles
@@ -14827,7 +14827,7 @@
 - [ ] Swahili
 - [ ] Fula
 
-#### In what country are birthdays celebrated by “Antiquing” the birthday boy or girl?
+#### In what country are birthdays celebrated by "Antiquing" the birthday boy or girl?
 
 - [x] Jamaica
 - [ ] Switzerland
@@ -15151,13 +15151,13 @@
 - [x] The modem
 - [ ] The digital camera
 
-#### What singer had a hit with “Since U Been Gone”?
+#### What singer had a hit with "Since U Been Gone"?
 
 - [x] Kelly Clarkson
 - [ ] Britney Spears
 - [ ] Christina Aguilera
 
-#### In Pinocchio, what is Geppetto’s wish?
+#### In Pinocchio, what is Geppetto's wish?
 
 - [x] For Pinocchio to be a real boy
 - [ ] A winning lottery ticket
@@ -15217,10 +15217,10 @@
 - [x] Titanic
 - [ ] Ocean's 11
 
-#### Which candy lets you “Taste the Rainbow”?
+#### Which candy lets you "Taste the Rainbow"?
 
 - [x] Skittles
-- [ ] Hershey’s Kisses
+- [ ] Hershey's Kisses
 - [ ] Twizzlers
 
 #### Which of these women never challenged for the title at a WrestleMania?
@@ -15247,13 +15247,13 @@
 - [x] Island Records
 - [ ] Shady Records
 
-#### In “101 Dalmatians”, what kind of house-pet is Sgt. Tibbs?
+#### In "101 Dalmatians", what kind of house-pet is Sgt. Tibbs?
 
 - [ ] Sphinx
 - [x] Cat
 - [ ] Dragon
 
-#### Which mints claim to be “Curiously Strong”?
+#### Which mints claim to be "Curiously Strong"?
 
 - [ ] Life Savers
 - [x] Altoids
@@ -15323,7 +15323,7 @@
 
 - [ ] I Just Called to Say I Love You
 - [ ] My Cherie Amour
-- [x] Isn’t She Lovely
+- [x] Isn't She Lovely
 
 #### A Pork Butt is actually a cut from what part of the pig?
 
@@ -15331,13 +15331,13 @@
 - [x] Shoulder
 - [ ] Face
 
-#### What musical features the song “I Won’t Grow Up”?
+#### What musical features the song "I Won't Grow Up"?
 
 - [x] Peter Pan
 - [ ] Oliver!
 - [ ] Come From Away
 
-#### What band released the albums “The Wall” and “Dark Side of the Moon”?
+#### What band released the albums "The Wall" and "Dark Side of the Moon"?
 
 - [ ] Yes
 - [x] Pink Floyd
@@ -15801,8 +15801,8 @@
 
 #### Which of these is grammatically correct?
 
-- [x] “Three fewer questions”
-- [ ] “Three less questions”
+- [x] "Three fewer questions"
+- [ ] "Three less questions"
 - [ ] Both are correct
 
 #### Which movie featured Pedro running for class president?
@@ -15811,7 +15811,7 @@
 - [x] Napoleon Dynamite
 - [ ] The Breakfast Club
 
-#### What singer is known as the “Empress of the Blues”?
+#### What singer is known as the "Empress of the Blues"?
 
 - [ ] Etta James
 - [ ] Billie Holiday
@@ -15823,7 +15823,7 @@
 - [x] Digital Fortress
 - [ ] Deception Point
 
-#### “Digerati” is a portmanteau of what two words?
+#### "Digerati" is a portmanteau of what two words?
 
 - [ ] Digital and Culturati
 - [x] Digital and Literati
@@ -15835,7 +15835,7 @@
 - [x] Two
 - [ ] Three
 
-#### In “To Kill A Mockingbird”, what is the name of the Scout and Jem’s father?
+#### In "To Kill A Mockingbird", what is the name of the Scout and Jem's father?
 
 - [x] Atticus
 - [ ] Boo
@@ -16147,7 +16147,7 @@
 - [x] Philadelphia
 - [ ] New York
 
-#### Complete the title of this Margaret Miotchell novel: “Gone With The…”
+#### Complete the title of this Margaret Miotchell novel: "Gone With The…"
 
 - [ ] Laundry
 - [ ] Motorcycle
@@ -16165,10 +16165,10 @@
 - [x] Fritos
 - [ ] Doritos
 
-#### If you’re Alektorophobic, which of restaurant would you most likely avoid?
+#### If you're Alektorophobic, which of restaurant would you most likely avoid?
 
 - [x] KFC
-- [ ] Arby’s
+- [ ] Arby's
 - [ ] Olive Garden
 
 #### What year was the first eSports tournament held?
@@ -16183,7 +16183,7 @@
 - [x] The marriage of the owner
 - [ ] The birthday of the owner
 
-#### Who was responsible for writing Kevin Gnappor’s rap?
+#### Who was responsible for writing Kevin Gnappor's rap?
 
 - [ ] Tina Fey
 - [ ] Tim Meadows
@@ -16213,7 +16213,7 @@
 - [ ] Wendell
 - [x] Charlie
 
-#### Where did the world’s oldest surviving musical composition originate?
+#### Where did the world's oldest surviving musical composition originate?
 
 - [x] Greece
 - [ ] Egypt
@@ -16231,7 +16231,7 @@
 - [x] Strawberry Shortcake
 - [ ] Jem
 
-#### What U.S. city’s name was meant to trick people into moving there?
+#### What U.S. city's name was meant to trick people into moving there?
 
 - [x] Zilwaukee
 - [ ] Miladelphia
@@ -16249,7 +16249,7 @@
 - [x] Klingon
 - [ ] French
 
-#### In Longfellow’s poem “Paul Revere’s Ride”, how many lanterns signify an attack by sea?
+#### In Longfellow's poem "Paul Revere's Ride", how many lanterns signify an attack by sea?
 
 - [ ] One
 - [x] Two
@@ -16339,7 +16339,7 @@
 - [x] The Lollipop Guild
 - [ ] The Ice Cream Social Club
 
-#### In “The Wizard of Oz”, what is the Scarecrow seeking?
+#### In "The Wizard of Oz", what is the Scarecrow seeking?
 
 - [x] A brain
 - [ ] His keys
@@ -16363,7 +16363,7 @@
 - [ ] The Scared Sable
 - [x] The Cowardly Lion
 
-#### What’s the name of Dorothy Gale’s dog?
+#### What's the name of Dorothy Gale's dog?
 
 - [ ] Snoopy
 - [x] Toto
@@ -16371,7 +16371,7 @@
 
 #### What does Dorothy have to say while clicking her heels to return to Kansas?
 
-- [x] There’s no place like home
+- [x] There's no place like home
 - [ ] Calgon, take me away
 - [ ] Exit, stage left
 
@@ -16393,9 +16393,9 @@
 - [x] Greece
 - [ ] France
 
-#### According to the Pringles slogan, “Once you pop”, what happens?
+#### According to the Pringles slogan, "Once you pop", what happens?
 
-- [x] The fun don’t stop
+- [x] The fun don't stop
 - [ ] The rabbits hop
 - [ ] We call a cop
 
@@ -16405,23 +16405,23 @@
 - [x] Little Women
 - [ ] Huckleberry Finn
 
-#### What movie’s tagline is “Houston, We Have A Problem”?
+#### What movie's tagline is "Houston, We Have A Problem"?
 
 - [x] Apollo 13
 - [ ] Little Women
 - [ ] Huckleberry Finn
 
-#### Who wrote “The Star Spangled Banner”?
+#### Who wrote "The Star Spangled Banner"?
 
 - [ ] Benjamin Franklin
 - [x] Francis Scott Key
 - [ ] George Washington
 
-#### What was Apple’s slogan from 1997 to 2002?
+#### What was Apple's slogan from 1997 to 2002?
 
 - [x] Think Different
 - [ ] Pretty Machines
-- [ ] We’re Number One
+- [ ] We're Number One
 
 #### Hugh Jackman played which superhero?
 
@@ -16447,7 +16447,7 @@
 - [x] The 13th Warrior
 - [ ] Stealth
 
-#### What country star turned his song “The Gambler” into a series of TV movies?
+#### What country star turned his song "The Gambler" into a series of TV movies?
 
 - [ ] Clint Black
 - [x] Kenny Rogers
@@ -16459,10 +16459,10 @@
 - [ ] Detroit, MI
 - [ ] Altoona, PA
 
-#### Which of the following Disney attractions did NOT originate at the 1964 World’s Fair?
+#### Which of the following Disney attractions did NOT originate at the 1964 World's Fair?
 
 - [ ] Carousel of Progress
-- [ ] It’s a Small World
+- [ ] It's a Small World
 - [x] Autopia
 
 #### Which of these countries shares a border with China?
@@ -16579,7 +16579,7 @@
 - [ ] 5 dollars
 - [x] 9 dollars
 
-#### Which airline used the slogan, “Life is a journey. Travel it well.”?
+#### Which airline used the slogan, "Life is a journey. Travel it well."?
 
 - [ ] United
 - [x] Southwest
@@ -16636,7 +16636,7 @@
 #### Which U.S. holiday comes first in a standard year?
 
 - [ ] Thanksgiving
-- [x] President’s Day
+- [x] President's Day
 - [ ] Labor Day
 
 #### Which of these is a character in the original 1987 Double Dragon game?
@@ -16663,7 +16663,7 @@
 - [ ] Super Mario Galaxy
 - [ ] Mario Odyssey
 
-#### Which airline uses the slogan “The Spirit of Australia”?
+#### Which airline uses the slogan "The Spirit of Australia"?
 
 - [ ] Delta Air Lines
 - [ ] United Airlines
@@ -16813,19 +16813,19 @@
 - [ ] Meats
 - [ ] Water
 
-#### Harper Lee wrote a famous book called “To Kill A” what?
+#### Harper Lee wrote a famous book called "To Kill A" what?
 
 - [ ] Hour
 - [ ] Buzz
 - [x] Mockingbird
 
-#### In 2017, “Never Say Die” took over the World Record for highest grossing live-action comedy. What film did it replace?
+#### In 2017, "Never Say Die" took over the World Record for highest grossing live-action comedy. What film did it replace?
 
 - [ ] Ghostbusters
 - [x] Home Alone
-- [ ] There’s Something About Mary
+- [ ] There's Something About Mary
 
-#### The 1920s Naval slag “Dobeying” refers to doing what?
+#### The 1920s Naval slag "Dobeying" refers to doing what?
 
 - [ ] Cooking
 - [x] Laundry
@@ -16837,25 +16837,25 @@
 - [ ] Jennifer Lawrence
 - [ ] Anne Hathaway
 
-#### What was recently found to be hidden in the streaming service Peacock’s User Agreement?
+#### What was recently found to be hidden in the streaming service Peacock's User Agreement?
 
 - [ ] A monologue from The West Wing
 - [ ] The lyrics to the theme song from Cheers
-- [x] Kevin’s Chili recipe from The Office
+- [x] Kevin's Chili recipe from The Office
 
-#### Which obstacle would you encounter on “American Ninja Warrior”?
+#### Which obstacle would you encounter on "American Ninja Warrior"?
 
 - [x] The Warped Wall
 - [ ] A pile of dryer lint
 - [ ] Chocolate Souffle
 
-#### “King Kong” was inspired by a real-life expedition to capture what creature?
+#### "King Kong" was inspired by a real-life expedition to capture what creature?
 
 - [ ] Silverback Gorilla
 - [x] Komodo Dragon
 - [ ] Black Bear
 
-#### What was the name of Shakespeare’s mother?
+#### What was the name of Shakespeare's mother?
 
 - [x] Mary
 - [ ] Jane
@@ -17269,7 +17269,7 @@
 - [ ] The Magic Kingdom
 - [x] Shanghai Disneyland
 
-#### Which snake has a “hood”?
+#### Which snake has a "hood"?
 
 - [ ] Viper
 - [ ] Boa Constrictor
@@ -17395,7 +17395,7 @@
 - [x] When the tower falls
 - [ ] When you run out of cards
 
-#### “Bitch the pot” was 19th century slang for what?
+#### "Bitch the pot" was 19th century slang for what?
 
 - [ ] Buying drugs
 - [ ] Changing Clothes
@@ -17410,16 +17410,16 @@
 #### What is the deepest oceanic trench on Earth?
 
 - [x] Mariana Trench
-- [ ] Maria’s Trench
+- [ ] Maria's Trench
 - [ ] Super-Deep Trench
 
-#### In “Mean Girls”, by what nickname are the popular girls known?
+#### In "Mean Girls", by what nickname are the popular girls known?
 
 - [x] The Plastics
 - [ ] The Papers
 - [ ] The Breakfast Club
 
-#### What power does Violet Parr from “The Incredibles” possess?
+#### What power does Violet Parr from "The Incredibles" possess?
 
 - [ ] Super Strength
 - [x] Invisibility and Force Fields
@@ -17623,7 +17623,7 @@
 - [x] White
 - [ ] Yellow
 
-#### In “Three Men and a Baby”, which actor plays the baby’s biological father?
+#### In "Three Men and a Baby", which actor plays the baby's biological father?
 
 - [ ] Tom Selleck
 - [x] Ted Danson
@@ -17833,13 +17833,13 @@
 - [ ] Ab Roller
 - [ ] ThighMaster
 
-#### Complete this Stevie Wonder album title: “Songs in the Key of ___”
+#### Complete this Stevie Wonder album title: "Songs in the Key of ___"
 
 - [ ] My Car
 - [ ] Pancakes
 - [x] Life
 
-#### Where would you find the world’s single largest rock?
+#### Where would you find the world's single largest rock?
 
 - [ ] Russia
 - [x] Australia
@@ -18041,7 +18041,7 @@
 
 - [x] Fulcrum
 - [ ] Full of Crumbs
-- [ ] Who’s Harry Crumb?
+- [ ] Who's Harry Crumb?
 
 #### Ruffles, Lays, and Wise are all brands of what kind of chip?
 
@@ -18061,13 +18061,13 @@
 - [x] Exercise Machine
 - [ ] Spaghetti Restaurant
 
-#### Only four European countries have no McDonald’s. Which of the following is one of them?
+#### Only four European countries have no McDonald's. Which of the following is one of them?
 
 - [ ] Liechtenstein
 - [ ] Andorra
 - [x] Macedonia
 
-#### What is Valentine’s Day named for?
+#### What is Valentine's Day named for?
 
 - [ ] A beloved pet
 - [ ] A sports franchise
@@ -18473,7 +18473,7 @@
 
 - [x] Cold Stone Creamery
 - [ ] Baskin-Robbins
-- [ ] Ben & Jerry’s
+- [ ] Ben & Jerry's
 
 #### On which show do passengers in a car become surprise game show contestants?
 
@@ -18499,7 +18499,7 @@
 - [x] Strawberry Shortcake
 - [ ] My Little Pony
 
-#### In “Silver Lining Playbook”, what team is Pat Solitano Sr. obsessed with?
+#### In "Silver Lining Playbook", what team is Pat Solitano Sr. obsessed with?
 
 - [ ] Manchester United
 - [ ] Harlem Globetrotters
@@ -18625,13 +18625,13 @@
 - [x] Pink
 - [ ] Yellow
 
-#### Maurice Sendak wrote which children’s book?
+#### Maurice Sendak wrote which children's book?
 
 - [ ] Percy Jackson & The Lightning Thief
 - [x] Where The Wild Things Are
 - [ ] Henry & Ribsy
 
-#### Who directed the movies “Vertigo”, “Psycho”, and “Rear Window”?
+#### Who directed the movies "Vertigo", "Psycho", and "Rear Window"?
 
 - [x] Alfred Hitchcock
 - [ ] John Frankenheimer
@@ -18751,13 +18751,13 @@
 - [ ] Bywater
 - [ ] Tuchborough
 
-#### If you throw a coin into the Trevi Fountain, it’s supposed to guarantee your return to what country?
+#### If you throw a coin into the Trevi Fountain, it's supposed to guarantee your return to what country?
 
 - [ ] Spain
 - [x] Italy
 - [ ] France
 
-#### According to the saying, if you’re fast you “Run like the” what?
+#### According to the saying, if you're fast you "Run like the" what?
 
 - [ ] Goose
 - [x] Wind
@@ -18775,7 +18775,7 @@
 - [ ] Balthasar
 - [x] Methuselah
 
-#### IBM’s Deep Blue was designed to play what strategy game?
+#### IBM's Deep Blue was designed to play what strategy game?
 
 - [x] Chess
 - [ ] Risk
@@ -18874,7 +18874,7 @@
 #### In the world of beer, what does IPA stand for?
 
 - [x] India Pale Ale
-- [ ] It’s Pure Alcohol
+- [ ] It's Pure Alcohol
 - [ ] I Purchased Ale
 
 #### Which of the following dogs was NOT a World War I hero?
@@ -19291,11 +19291,11 @@
 - [ ] Triangle
 - [x] Octagon
 
-#### What does it mean when there’s a “White Christmas”?
+#### What does it mean when there's a "White Christmas"?
 
-- [ ] It’s super bright out
-- [x] It’s snowing
-- [ ] There’s computer paper everywhere
+- [ ] It's super bright out
+- [x] It's snowing
+- [ ] There's computer paper everywhere
 
 #### Where is The Great Pyramid located?
 
@@ -19309,7 +19309,7 @@
 - [ ] U
 - [x] D
 
-#### “Wishbone” brought Literature to life through what kind of animal?
+#### "Wishbone" brought Literature to life through what kind of animal?
 
 - [ ] Fish
 - [ ] Cat
@@ -19381,19 +19381,19 @@
 - [ ] The Howling
 - [ ] The Kiss of the Vampire
 
-#### What is the name of the main villain in the “Saw” movies?
+#### What is the name of the main villain in the "Saw" movies?
 
 - [ ] Pinhead
 - [ ] Hammerfists
 - [x] Jigsaw
 
-#### Which “Ghost with the Most” is summoned by saying his name 3 times?
+#### Which "Ghost with the Most" is summoned by saying his name 3 times?
 
 - [ ] Casper
 - [x] Beetlejuice
 - [ ] Candyman
 
-#### In “The Shining”, what phrase does Jack Torrance write over and over again?
+#### In "The Shining", what phrase does Jack Torrance write over and over again?
 
 - [ ] My dog did NOT eat my homework
 - [ ] The quick brown fox jumped over the lazy dog
@@ -19402,7 +19402,7 @@
 #### In which horror movie do the teens of Woodsboro, California get slaughtered by Ghostface?
 
 - [x] Scream
-- [ ] Jennifer’s Body
+- [ ] Jennifer's Body
 - [ ] I Know What You Did Last Summer
 
 #### The real-life serial killer who inspired the character of Norman Bates also inspired what other movie killer?
@@ -19415,7 +19415,7 @@
 
 - [ ] Freddy Krueger
 - [ ] Dracula
-- [x] Frankenstein’s monster
+- [x] Frankenstein's monster
 
 #### Which Universal movie monster was played by Bela Lugosi?
 
@@ -19579,7 +19579,7 @@
 - [ ] Baconater
 - [ ] Darth Vader
 
-#### Which of the following prefixes means “Not”?
+#### Which of the following prefixes means "Not"?
 
 - [x] il
 - [ ] co
@@ -19627,7 +19627,7 @@
 - [ ] Denver Nuggets
 - [ ] Seattle Supersonics
 
-#### Nathan’s Famous is famous for what dish?
+#### Nathan's Famous is famous for what dish?
 
 - [x] Hot Dog
 - [ ] Hamburger
@@ -19639,7 +19639,7 @@
 - [x] Boardwalk
 - [ ] Baltic Ave
 
-#### Which of the following baseball pitches is considered to be “off-speed”?
+#### Which of the following baseball pitches is considered to be "off-speed"?
 
 - [x] Changeup
 - [ ] 4-Seam Fastball
@@ -19657,13 +19657,13 @@
 - [ ] Learning Tower
 - [ ] Empire State Building
 
-#### On an episode of “Inside the Actors Studio”, Sean Penn was asked a question by what future star?
+#### On an episode of "Inside the Actors Studio", Sean Penn was asked a question by what future star?
 
 - [x] Matt Damon
 - [ ] Jermy Renner
 - [ ] Empire State Building
 
-#### What two Munchkinland groups welcome Dorothy in “The Wizard of Oz”?
+#### What two Munchkinland groups welcome Dorothy in "The Wizard of Oz"?
 
 - [ ] The Tinkerbell Team & Sugarland Squad
 - [ ] The Local 87 & Ladies Who Lunch
@@ -19681,10 +19681,10 @@
 - [ ] Blueberry Top Hat
 - [x] Raspberry Beret
 
-#### What clothing store line promises “You’re gonna love the way you look. I guarantee it!”?
+#### What clothing store line promises "You're gonna love the way you look. I guarantee it!"?
 
 - [ ] The Gap
-- [x] Men’s Wearhouse
+- [x] Men's Wearhouse
 - [ ] Forever 21
 
 #### In which Sci-Fi movie does Harrison Ford hunt Replicants?
@@ -19786,7 +19786,7 @@
 #### What does WWE stand for?
 
 - [x] World Wrestling Entertainment
-- [ ] Wet n’ Wild Elephants
+- [ ] Wet n' Wild Elephants
 - [ ] Wiry Welsh Elevators
 
 #### What were Junior Mints named after?
@@ -19819,13 +19819,13 @@
 - [x] Gretchen Wieners
 - [ ] Karen Smith
 
-#### “Parks & Recreation” mainly took place in which fictional town?
+#### "Parks & Recreation" mainly took place in which fictional town?
 
 - [ ] Eagleton
 - [ ] Wamapoke
 - [x] Pawnee
 
-#### Which musical features the song “All That Jazz”?
+#### Which musical features the song "All That Jazz"?
 
 - [x] Chicago
 - [ ] West Side Story
@@ -19843,7 +19843,7 @@
 - [x] Landlord/tenant disputes
 - [ ] Criminal prosecution
 
-#### Which children’s show featured the characters X the Owl, Daniel Tiger, and Lady Aberlin?
+#### Which children's show featured the characters X the Owl, Daniel Tiger, and Lady Aberlin?
 
 - [ ] Xoom
 - [ ] Arthur
@@ -20083,7 +20083,7 @@
 - [ ] Lettuce
 - [ ] Water
 
-#### What English word does “Uno” translate to?
+#### What English word does "Uno" translate to?
 
 - [ ] Ice
 - [x] One
@@ -20281,13 +20281,13 @@
 - [ ] Chutzpah
 - [x] Jane Eyre
 
-#### In “Love Shack” by the B-52’s, what animal is used to describe the size of the singer’s Chrysler?
+#### In "Love Shack" by the B-52's, what animal is used to describe the size of the singer's Chrysler?
 
 - [x] Whale
 - [ ] Elephant
 - [ ] Moose
 
-#### Who wrote books like “Journey to the Center of the Earth” and “Twenty Thousand Leagues Under the Sea”?
+#### Who wrote books like "Journey to the Center of the Earth" and "Twenty Thousand Leagues Under the Sea"?
 
 - [ ] H.G. Wells
 - [x] Jules Verne
@@ -20323,7 +20323,7 @@
 - [ ] Katherine Chancellor
 - [ ] Marlena Evans
 
-#### What country is known as “The Emerald Isle”?
+#### What country is known as "The Emerald Isle"?
 
 - [x] Ireland
 - [ ] Scotland
@@ -20335,7 +20335,7 @@
 - [ ] Chihuahua
 - [x] Elephant
 
-#### What was Gabe Lewis’ middle name?
+#### What was Gabe Lewis' middle name?
 
 - [x] Susan
 - [ ] Gabriel
@@ -20365,7 +20365,7 @@
 - [x] Lewis Carroll
 - [ ] Charles Dickens
 
-#### “Let’s Go Places” is the slogan of which auto company?
+#### "Let's Go Places" is the slogan of which auto company?
 
 - [x] Toyota
 - [ ] Tesla
@@ -20383,7 +20383,7 @@
 - [ ] Light Bulb
 - [ ] Airplane
 
-#### What was the first TV show to use “Google” as a verb?
+#### What was the first TV show to use "Google" as a verb?
 
 - [ ] Friends
 - [ ] Malcolm in the Middle
@@ -20407,13 +20407,13 @@
 - [ ] Paradise Lost
 - [x] Les Misérables
 
-#### Which film features the iconic line “Here’s looking at you, kid.”?
+#### Which film features the iconic line "Here's looking at you, kid."?
 
 - [ ] Gone with the Wind
 - [x] Casablanca
-- [ ] Singin’ in the Rain
+- [ ] Singin' in the Rain
 
-#### Which band released the album “The Joshua Tree”?
+#### Which band released the album "The Joshua Tree"?
 
 - [ ] Coldplay
 - [ ] Radiohead
@@ -20434,10 +20434,10 @@
 #### What term is used when something is becoming popular on social media?
 
 - [ ] On the up and up
-- [ ] Flamin’ Hot
+- [ ] Flamin' Hot
 - [x] Trending
 
-#### What notable woman is credited with saying “Let them eat cake”?
+#### What notable woman is credited with saying "Let them eat cake"?
 
 - [ ] Queen Elizabeth
 - [x] Marie Antoinette
@@ -20455,7 +20455,7 @@
 - [x] Harmonica
 - [ ] Piano
 
-#### Which rap star changed the name of his publishing company from “Ghetto Gospel” to “Joshua’s Dream”?
+#### Which rap star changed the name of his publishing company from "Ghetto Gospel" to "Joshua's Dream"?
 
 - [ ] Kanye West
 - [x] Tupac Shakur
@@ -20463,7 +20463,7 @@
 
 #### Which of the following is NOT one of the original six American Girl dolls?
 
-- [x] Nellie O’Malley
+- [x] Nellie O'Malley
 - [ ] Kirsten Larson
 - [ ] Molly McIntire
 
@@ -20575,7 +20575,7 @@
 - [ ] Cherries
 - [ ] Potato Chips
 
-#### In Monopoly, when you pass “Go” how much money do you collect?
+#### In Monopoly, when you pass "Go" how much money do you collect?
 
 - [ ] Ten Dollars
 - [x] Two Hundred Dollars
@@ -20599,13 +20599,13 @@
 - [ ] X
 - [ ] Y
 
-#### What TV network is home to the shows “Arthur”, “Sid the Science Kid”, and “Hero Elementary”?
+#### What TV network is home to the shows "Arthur", "Sid the Science Kid", and "Hero Elementary"?
 
 - [ ] Food Network
 - [x] PBS
 - [ ] Cinemark
 
-#### On “Doc McStuffins”, who are her patients?
+#### On "Doc McStuffins", who are her patients?
 
 - [ ] Children
 - [ ] Animals
@@ -20617,13 +20617,13 @@
 - [ ] Diving Suit
 - [ ] Chaps
 
-#### Which of the following shows NEVER won the Emmy for Outstanding Entertainment Children’s Series between 1974 and 1984?
+#### Which of the following shows NEVER won the Emmy for Outstanding Entertainment Children's Series between 1974 and 1984?
 
 - [ ] Star Trek: The Animated Series
 - [x] Sesame Street
 - [ ] Zoom
 
-#### On which children’s show did they use a stand-in with a bucket when they ran out of time with their star?
+#### On which children's show did they use a stand-in with a bucket when they ran out of time with their star?
 
 - [ ] Wizards of Waverly Place
 - [ ] Suite Life On Deck
@@ -20635,55 +20635,55 @@
 - [x] Dogs
 - [ ] Armadillos
 
-#### Due to focus testing, which children’s show needed 9-10 months to produce a single episode?
+#### Due to focus testing, which children's show needed 9-10 months to produce a single episode?
 
 - [ ] Mr. Wizard
 - [ ] New Zoo Revue
-- [x] Blue’s Clues
+- [x] Blue's Clues
 
 #### When Reading Rainbow had a Kickstarter, who pledged to match donations to help the show reach its goal toward the end?
 
 - [ ] Patrick Stewart
 - [ ] Seth MacFarlane
-- [x] Blue’s Clues
+- [x] Blue's Clues
 
-#### Which of the following children’s show characters is a marionette?
+#### Which of the following children's show characters is a marionette?
 
 - [x] Howdy Doody
 - [ ] Arthur
 - [ ] Captain Kangaroo
 
-#### “Bluey” is produced in which country?
+#### "Bluey" is produced in which country?
 
 - [ ] The Netherlands
 - [x] Australia
 - [ ] Estonia
 
-#### Who directed “Jurassic Park”?
+#### Who directed "Jurassic Park"?
 
 - [ ] George Lucas
 - [ ] Joe Dante
 - [x] Steven Spielberg
 
-#### Which of these was NOT a slogan for McDonald’s?
+#### Which of these was NOT a slogan for McDonald's?
 
-- [ ] I’m Lovin It
-- [x] Honestly, Burger King’s better
-- [ ] Did Somebody Say McDonald’s?
+- [ ] I'm Lovin It
+- [x] Honestly, Burger King's better
+- [ ] Did Somebody Say McDonald's?
 
 #### Which of these Disneyland attractions opened first?
 
-- [ ] It’s a Small World
+- [ ] It's a Small World
 - [x] Enchanted Tiki Room
 - [ ] Haunted Mansion
 
-#### What is the term for molten rock beneath the Earth’s surface?
+#### What is the term for molten rock beneath the Earth's surface?
 
 - [ ] Magpies
 - [x] Magma
 - [ ] Mank
 
-#### In January of 2021, who overtook Jeff Bezos as the world’s richest person?
+#### In January of 2021, who overtook Jeff Bezos as the world's richest person?
 
 - [ ] George Clooney
 - [ ] Bill Gates
@@ -20703,9 +20703,9 @@
 
 #### What series of book has you searching pictures for a character in glasses and a knit cap?
 
-- [x] Where’s Waldo?
+- [x] Where's Waldo?
 - [ ] Have You Seen Harry?
-- [ ] I Can’t Find Isaac!
+- [ ] I Can't Find Isaac!
 
 #### How do you erase your drawing on an Etch-A-Sketch?
 
@@ -20713,7 +20713,7 @@
 - [ ] Wipe it with a cloth
 - [x] Shake it
 
-#### What single-named guitarist played with Guns n’ Roses?
+#### What single-named guitarist played with Guns n' Roses?
 
 - [ ] Smash
 - [ ] Splash
@@ -20731,7 +20731,7 @@
 - [x] Lemony Snicket
 - [ ] George Orwell
 
-#### The night Colin Quinn took over SNL’s Weekend Update, what did Will Ferrell’s Harry Caray keep calling him?
+#### The night Colin Quinn took over SNL's Weekend Update, what did Will Ferrell's Harry Caray keep calling him?
 
 - [ ] Dennis
 - [x] Norm
@@ -21151,13 +21151,13 @@
 - [x] Disney XD
 - [ ] Disney LMAO
 
-#### Where does the musical “Rent” take place?
+#### Where does the musical "Rent" take place?
 
 - [ ] Detroit
 - [x] New York City
 - [ ] Los Angeles
 
-#### In the comics, what did Charlie Brown’s father do for a living?
+#### In the comics, what did Charlie Brown's father do for a living?
 
 - [x] Barber
 - [ ] Architect
@@ -21343,7 +21343,7 @@
 - [ ] Troop Beverly Hills
 - [x] Beverly Hills Cop
 
-#### What is the name of the Matterhorn’s Abominable Snowman?
+#### What is the name of the Matterhorn's Abominable Snowman?
 
 - [ ] Matty
 - [x] Harold
@@ -21361,13 +21361,13 @@
 - [ ] Abraham Lincoln
 - [ ] Thomas Jefferson
 
-#### Where is the “back of Bourke”?
+#### Where is the "back of Bourke"?
 
 - [x] Australia
 - [ ] Scotland
 - [ ] South Africa
 
-#### In Michigan, there’s a tradition of hiding what ornament in the Christmas Tree?
+#### In Michigan, there's a tradition of hiding what ornament in the Christmas Tree?
 
 - [ ] Santa Claus
 - [x] Glass Pickle
@@ -21385,7 +21385,7 @@
 - [x] Wyoming
 - [ ] New Mexico
 
-#### Complete this slogan: “There are some things money can’t buy. For everything else, there’s _____”
+#### Complete this slogan: "There are some things money can't buy. For everything else, there's _____"
 
 - [ ] Discover
 - [x] Mastercard
@@ -21405,9 +21405,9 @@
 
 #### Which of these Disneyland attractions is a roller coaster?
 
-- [ ] It’s A Small World
+- [ ] It's A Small World
 - [x] Space Mountain
-- [ ] King Arthur’s Carousel
+- [ ] King Arthur's Carousel
 
 #### Which spice gives curry its yellow color?
 
@@ -21421,7 +21421,7 @@
 - [ ] Indiana
 - [x] Iowa
 
-#### Complaints about which movie’s makeup work being ignored by the Oscars led to the Best Makeup category debuting in 1981?
+#### Complaints about which movie's makeup work being ignored by the Oscars led to the Best Makeup category debuting in 1981?
 
 - [x] The Elephant Man
 - [ ] An American Werewolf in London
@@ -21451,7 +21451,7 @@
 - [ ] Badminton
 - [x] Baseball
 
-#### What comedian is known for his “You Might Be A Redneck” jokes?
+#### What comedian is known for his "You Might Be A Redneck" jokes?
 
 - [x] Jeff Foxworthy
 - [ ] Larry the Cable Guy
@@ -21475,13 +21475,13 @@
 - [ ] 2
 - [x] 3
 
-#### In the Kelis song “Milkshake”, what does her milkshake do?
+#### In the Kelis song "Milkshake", what does her milkshake do?
 
 - [x] Bring all the boys to the yard
 - [ ] Keep it real
 - [ ] Start the party
 
-#### According to the saying, “every dog has its” what?
+#### According to the saying, "every dog has its" what?
 
 - [ ] Problems
 - [x] Day
@@ -21643,13 +21643,13 @@
 - [x] North Carolina
 - [ ] Illinois
 
-#### What is the name of the boy who’s friends with Winnie the Pooh?
+#### What is the name of the boy who's friends with Winnie the Pooh?
 
 - [ ] Frederick Edward
 - [x] Christopher Robin
 - [ ] Jiminy John
 
-#### “The Lion, The Witch, and The Wardrobe” takes place in what magical land?
+#### "The Lion, The Witch, and The Wardrobe" takes place in what magical land?
 
 - [x] Narnia
 - [ ] Xanth
@@ -21697,7 +21697,7 @@
 - [x] Toothpaste
 - [ ] Matches
 
-#### Which singer’s first hit was “I Kissed A Girl”?
+#### Which singer's first hit was "I Kissed A Girl"?
 
 - [ ] Lady Gaga
 - [ ] Kelly Clarkson
@@ -21715,7 +21715,7 @@
 - [x] Auto racing
 - [ ] Pole vault
 
-#### What letter is worn by Hester Prynne in “The Scarlet Letter”?
+#### What letter is worn by Hester Prynne in "The Scarlet Letter"?
 
 - [x] A
 - [ ] B
@@ -21727,11 +21727,11 @@
 - [ ] Snap, Krackle, Pop
 - [ ] Pots, Pans, Spoons
 
-#### What restaurant chain uses the slogan “It’s a Whole New Neighborhood”?
+#### What restaurant chain uses the slogan "It's a Whole New Neighborhood"?
 
 - [ ] Olive Garden
 - [ ] Taco Bell
-- [x] Applebee’s
+- [x] Applebee's
 
 #### Known for their unique wildlife, the Galapagos Islands are located near which country?
 
@@ -21823,16 +21823,16 @@
 - [x] Three
 - [ ] Eleven
 
-#### In “The 12 Days of Christmas”, which of the following gifts is given the latest?
+#### In "The 12 Days of Christmas", which of the following gifts is given the latest?
 
 - [x] Five gold rings
 - [ ] A partridge in a pear tree
 - [ ] Two turtle doves
 
-#### In the book “Madeline”, what medical emergency does the main character go through?
+#### In the book "Madeline", what medical emergency does the main character go through?
 
 - [x] Appendicitis
-- [ ] Coal Miner’s Lung
+- [ ] Coal Miner's Lung
 - [ ] Brian Cloud
 
 #### A 2023 Tik Tok trend touted the laxative properties of which exotic fruit?
@@ -21841,7 +21841,7 @@
 - [ ] Strawberry
 - [ ] Apple
 
-#### What year did Goofy’s Sky School open at Disney California Adventure?
+#### What year did Goofy's Sky School open at Disney California Adventure?
 
 - [ ] 2001
 - [ ] 2007
@@ -21853,13 +21853,13 @@
 - [x] Dependent Variable
 - [ ] Lab
 
-#### What interactive children’s toy pecks its way out of a plastic egg?
+#### What interactive children's toy pecks its way out of a plastic egg?
 
 - [ ] Tamagotchi
 - [ ] Furby
 - [x] Hatchimal
 
-#### Mahatma Gandhi lobbied for which country’s independence from British rule?
+#### Mahatma Gandhi lobbied for which country's independence from British rule?
 
 - [ ] China
 - [ ] Georgia
@@ -21868,7 +21868,7 @@
 #### According to QSR magazine, which of the following restaurants has the fattest drive-thru?
 
 - [x] KFC
-- [ ] Arby’s
+- [ ] Arby's
 - [ ] Burger King
 
 #### Which MCU character got their powers from a spider bite?
@@ -21889,7 +21889,7 @@
 - [x] Forty
 - [ ] Sixty
 
-#### Which of the following “Star Trek: The Next Generation” characters is an android?
+#### Which of the following "Star Trek: The Next Generation" characters is an android?
 
 - [ ] Wolf
 - [x] Data
@@ -22021,13 +22021,13 @@
 - [ ] 1933
 - [x] 1945
 
-#### Which of these is NOT the title of one of Goofy’s instructional shorts?
+#### Which of these is NOT the title of one of Goofy's instructional shorts?
 
 - [ ] How to Fish
 - [x] How to Drive a Car
 - [ ] How to Be a Sailor
 
-#### Which actress is currently asking “What’s in your wallet?” in Capital One commercials?
+#### Which actress is currently asking "What's in your wallet?" in Capital One commercials?
 
 - [x] Jennifer Garner
 - [ ] Jennifer Lopez
@@ -22093,13 +22093,13 @@
 - [ ] Johnny Mnemonic
 - [ ] The Lawnmower Man
 
-#### Which movie features the famous line “YOU CAN’T HANDLE THE TRUTH!”?
+#### Which movie features the famous line "YOU CAN'T HANDLE THE TRUTH!"?
 
 - [x] A Few Good Men
 - [ ] The American President
-- [ ] Molly’s Game
+- [ ] Molly's Game
 
-#### Hershey’s Mr. Goodbar contains what filling?
+#### Hershey's Mr. Goodbar contains what filling?
 
 - [ ] Apples
 - [ ] Beef
@@ -22111,7 +22111,7 @@
 - [x] Carats
 - [ ] Asparagus
 
-#### Which location is NOT mentioned in the hit Bruno Mars song “That’s What I Like”?
+#### Which location is NOT mentioned in the hit Bruno Mars song "That's What I Like"?
 
 - [x] Fiji
 - [ ] Puerto Rico
@@ -22129,7 +22129,7 @@
 - [x] Sailing
 - [ ] Equestrian
 
-#### In “Drumline”, what does Devon do to start the brawl that leads to his dismissal?
+#### In "Drumline", what does Devon do to start the brawl that leads to his dismissal?
 
 - [ ] Argue with his section leader
 - [x] Play the drum of another team
@@ -22159,13 +22159,13 @@
 - [x] Simmering
 - [ ] Steaming
 
-#### What famous chef co-authored “Mastering the Art of French Cooking”?
+#### What famous chef co-authored "Mastering the Art of French Cooking"?
 
 - [x] Julia Child
 - [ ] Gordon Ramsay
 - [ ] Jamie Oliver
 
-#### What Thanksgiving topping is served in a container called a “boat”?
+#### What Thanksgiving topping is served in a container called a "boat"?
 
 - [ ] Corn
 - [ ] Mashed Potatoes
@@ -22219,7 +22219,7 @@
 - [x] Zima
 - [ ] Goldschlager
 
-#### Complete this book title: “Eat Pray”...
+#### Complete this book title: "Eat Pray"...
 
 - [x] Love
 - [ ] Bungee Jump
@@ -22231,7 +22231,7 @@
 - [ ] Bangladesh
 - [ ] Hogwarts
 
-#### Fuyu, Talvi, and Zima are all different languages’ word for what?
+#### Fuyu, Talvi, and Zima are all different languages' word for what?
 
 - [ ] Fire
 - [x] Winter
@@ -22243,7 +22243,7 @@
 - [x] Dominican Republic
 - [ ] Cuba
 
-#### Which rapper starred in the movie “8 Mile”?
+#### Which rapper starred in the movie "8 Mile"?
 
 - [x] Eminem
 - [ ] Drake
@@ -22333,13 +22333,13 @@
 - [x] England
 - [ ] Asia
 
-#### What is Vincenzo Peruggia’s claim to fame in the art world?
+#### What is Vincenzo Peruggia's claim to fame in the art world?
 
 - [ ] Discovering Picasso
 - [x] Stealing the Mona Lisa
 - [ ] Building the Louvre
 
-#### “Break a leg” is a term used to wish people in what profession good luck?
+#### "Break a leg" is a term used to wish people in what profession good luck?
 
 - [ ] Horse racing
 - [ ] Forensic accounting
@@ -22369,21 +22369,21 @@
 - [ ] Mashed Potatoes
 - [x] Turkey
 
-#### In the first Thanksgiving episode of “Friends”, the gang is trapped on the roof when they go to watch what holiday event?
+#### In the first Thanksgiving episode of "Friends", the gang is trapped on the roof when they go to watch what holiday event?
 
 - [ ] Football game
 - [x] Escaped Parade Ballon
 - [ ] Solar Eclipse
 
-#### What real-life ex of Jennifer Aniston appeared on “Friends” in “The One with the Rumor” as a Thanksgiving guest?
+#### What real-life ex of Jennifer Aniston appeared on "Friends" in "The One with the Rumor" as a Thanksgiving guest?
 
 - [x] Brad Pitt
 - [ ] Justin Theroux
 - [ ] Bradley Cooper
 
-#### In one Friends Thanksgiving episode, what is Chandler’s punishment for kissing Joey’s girlfriend?
+#### In one Friends Thanksgiving episode, what is Chandler's punishment for kissing Joey's girlfriend?
 
-- [ ] He’s not allowed to eat
+- [ ] He's not allowed to eat
 - [x] He has to say in a box
 - [ ] He has to be naked
 
@@ -22393,31 +22393,31 @@
 - [ ] Lawn Darts
 - [ ] Volleyball
 
-#### On Friends, we learn that Monica’s parents hate Chandler because they thought he got high in college? Who actually got high?
+#### On Friends, we learn that Monica's parents hate Chandler because they thought he got high in college? Who actually got high?
 
 - [ ] Monica
 - [x] Ross
 - [ ] Rachel
 
-#### In the Friends episode “The One Where Ross Got High”, Rachel’s trifle accidentally includes items from what other dish?
+#### In the Friends episode "The One Where Ross Got High", Rachel's trifle accidentally includes items from what other dish?
 
 - [ ] Beef Wellington
 - [ ] London Stew
-- [x] Shepherd’s Pie
+- [x] Shepherd's Pie
 
-#### In the Friends Thanksgiving episode where Ross won’t eat until he can name all 50 States from memory, who names 56 States?
+#### In the Friends Thanksgiving episode where Ross won't eat until he can name all 50 States from memory, who names 56 States?
 
 - [x] Joey
 - [ ] Rachel
 - [ ] Monica
 
-#### In the Friends episode “The One With Rachel’s Other Sister”, Christina Applegate plays the older sister of which Friend?
+#### In the Friends episode "The One With Rachel's Other Sister", Christina Applegate plays the older sister of which Friend?
 
 - [ ] Ross
 - [x] Rachel
 - [ ] Monica
 
-#### Because she’s a chef, which “Friends” character is usually responsible for Thanksgiving dinner?
+#### Because she's a chef, which "Friends" character is usually responsible for Thanksgiving dinner?
 
 - [x] Monica
 - [ ] Kathy
@@ -22591,7 +22591,7 @@
 - [ ] Iowa
 - [ ] Kansas
 
-#### In the “Halloween” movies, what is the name of the killer?
+#### In the "Halloween" movies, what is the name of the killer?
 
 - [ ] Laurie Strode
 - [x] Michael Myers
@@ -22618,10 +22618,10 @@
 #### What phrase is commonly used to explain gravity?
 
 - [x] What goes up must come down
-- [ ] What’s love got to do with it
-- [ ] What’s the deal with airplane food
+- [ ] What's love got to do with it
+- [ ] What's the deal with airplane food
 
-#### In “Pac-Man”, what chases the title character around the maze?
+#### In "Pac-Man", what chases the title character around the maze?
 
 - [ ] Ghouls
 - [ ] Goblins
@@ -22639,7 +22639,7 @@
 - [ ] James Harden
 - [ ] Kobe Bryant
 
-#### If you’re holding Choker Holes, Cymbals, or Matrimony, what do you have in your hand?
+#### If you're holding Choker Holes, Cymbals, or Matrimony, what do you have in your hand?
 
 - [x] Doughnuts
 - [ ] Fabric
@@ -22720,7 +22720,7 @@
 #### On Groundhog Day, what does it mean if the Groundhog sees its shadow?
 
 - [ ] An early Spring
-- [ ] Sailor’s delight
+- [ ] Sailor's delight
 - [x] 6 more weeks of Winter
 
 #### What three letters are commonly used as a distress signal?
@@ -22739,9 +22739,9 @@
 
 - [ ] Kiddie City
 - [ ] Kay Bee Toys
-- [x] Toys “R” Us
+- [x] Toys "R" Us
 
-#### Who was America’s first official Chief Aeronaut?
+#### Who was America's first official Chief Aeronaut?
 
 - [x] Thaddeus Lowe
 - [ ] Orville Wright
@@ -22777,7 +22777,7 @@
 - [ ] Magnetism
 - [x] Gravity
 
-#### If you’re going to “Catch 40 winks”, what are you about to do?
+#### If you're going to "Catch 40 winks", what are you about to do?
 
 - [x] Take a nap
 - [ ] Drive a car
@@ -22819,7 +22819,7 @@
 - [x] Black Friday
 - [ ] Green Wednesday
 
-#### What is Walmart’s slogan?
+#### What is Walmart's slogan?
 
 - [ ] We sell lots of stuff
 - [x] Save Money. Live Better.
@@ -22843,7 +22843,7 @@
 - [x] Fanatics
 - [ ] The Honest Company
 
-#### What retail chain’s “Geek Squad” offers tech support, setup, and installation?
+#### What retail chain's "Geek Squad" offers tech support, setup, and installation?
 
 - [x] Best Buy
 - [ ] Aidi
@@ -22879,7 +22879,7 @@
 - [ ] Shoulder
 - [x] Knee
 
-#### Where is the world’s largest Comic Con held?
+#### Where is the world's largest Comic Con held?
 
 - [x] San Diego
 - [ ] Dubuque
@@ -22888,7 +22888,7 @@
 #### Which live-action Disney movie features a family living in a tree house?
 
 - [ ] Treasure Island
-- [ ] Darby O’Gill and the Little People
+- [ ] Darby O'Gill and the Little People
 - [x] Swiss Family Robinson
 
 #### According to Mental Floss, the man who invented the process for frozen food also filed a patent for what?
@@ -22897,7 +22897,7 @@
 - [ ] A cosmetic cream
 - [x] A harpoon gun
 
-#### What was the name of the oldest daughter on “The Brady Bunch”?
+#### What was the name of the oldest daughter on "The Brady Bunch"?
 
 - [x] Marica
 - [ ] Jan
@@ -22939,19 +22939,19 @@
 - [ ] Blue Cheese
 - [ ] Ranch Dressing
 
-#### What gray kitten was one of Garfield’s biggest enemies?
+#### What gray kitten was one of Garfield's biggest enemies?
 
 - [ ] Lyman
 - [ ] Arlene
 - [x] Nermal
 
-#### What is the capital of the only State that begins with an “A” but doesn’t end with an “A”?
+#### What is the capital of the only State that begins with an "A" but doesn't end with an "A"?
 
 - [ ] Phoenix
 - [ ] Juneau
 - [x] Little Rock
 
-#### In 1926, who designed the iconic “little black dress”?
+#### In 1926, who designed the iconic "little black dress"?
 
 - [x] Coco Chanel
 - [ ] Tommy Hilfiger
@@ -23029,13 +23029,13 @@
 - [ ] Paper
 - [x] Steel
 
-#### Which of these words would describe someone who’s neat and orderly?
+#### Which of these words would describe someone who's neat and orderly?
 
 - [ ] Slovenly
 - [ ] Ridiculous
 - [x] Fastidious
 
-#### Which member of the Fantastic Four declares “Flame On!” as they activate their power?
+#### Which member of the Fantastic Four declares "Flame On!" as they activate their power?
 
 - [ ] The Thing
 - [ ] Mr. Fantastic
@@ -23083,7 +23083,7 @@
 - [ ] Billy Martin
 - [x] Bobby Valentine
 
-#### In 1981, which actress became minister of culture in her country’s government?
+#### In 1981, which actress became minister of culture in her country's government?
 
 - [x] Melina Mercouri
 - [ ] Audrey Hepburn
@@ -23113,25 +23113,25 @@
 - [ ] Orlando, FL
 - [x] Vancouver, WA
 
-#### “Lapland” is a region in which country?
+#### "Lapland" is a region in which country?
 
 - [x] Finland
 - [ ] Greece
 - [ ] India
 
-#### In the “Back to the Future” movies, what kind of vehicle is the primary mode of time travel?
+#### In the "Back to the Future" movies, what kind of vehicle is the primary mode of time travel?
 
 - [ ] Skateboard
 - [x] Car
 - [ ] Boat
 
-#### What toy’s slogan is “Sketch, Erase and Sketch Again”?
+#### What toy's slogan is "Sketch, Erase and Sketch Again"?
 
 - [x] Etch-A-Sketch
 - [ ] Hot Wheels
 - [ ] Game Boy
 
-#### What brand’s original logo featured Sir Isaac Newton?
+#### What brand's original logo featured Sir Isaac Newton?
 
 - [ ] Fig Newtons
 - [ ] IBM
@@ -23149,19 +23149,19 @@
 - [ ] Friday the 10th
 - [ ] Friday the 23rd
 
-#### What is known as “the most dangerous eight seconds in sports”?
+#### What is known as "the most dangerous eight seconds in sports"?
 
 - [ ] Archery
 - [ ] Wrestling
 - [x] Bull Riding
 
-#### What style of music, first popular in the 20’s, 30’s and 40’s, made a comeback in the 1990’s?
+#### What style of music, first popular in the 20's, 30's and 40's, made a comeback in the 1990's?
 
 - [x] Swing
 - [ ] Yodeling
 - [ ] Baroque
 
-#### Who starred in the movies “Taxi Driver”, “The Godfather Part II”, and “Raging Bull”?
+#### Who starred in the movies "Taxi Driver", "The Godfather Part II", and "Raging Bull"?
 
 - [x] Robert De Niro
 - [ ] Al Pacino
@@ -23176,7 +23176,7 @@
 #### Where could you have ridden the Carolwood Pacific Railroad?
 
 - [ ] Missouri
-- [x] Walt’s Backyard
+- [x] Walt's Backyard
 - [ ] Disneyland
 
 #### In what country do elected officials serve in the Althing?
@@ -23185,7 +23185,7 @@
 - [x] Iceland
 - [ ] Germany
 
-#### Which of these kid’s movies is live action?
+#### Which of these kid's movies is live action?
 
 - [x] Spy Kids
 - [ ] Spies in Disguise
@@ -23257,7 +23257,7 @@
 - [ ] Root
 - [x] Leaf
 
-#### What color are you supposed to wear when celebrating St. Patrick’s Day?
+#### What color are you supposed to wear when celebrating St. Patrick's Day?
 
 - [ ] Turquoise
 - [x] Green
@@ -23293,13 +23293,13 @@
 - [x] Knuckleball
 - [ ] Slider
 
-#### What type of eclipse creates the “Ring of Fire”?
+#### What type of eclipse creates the "Ring of Fire"?
 
 - [ ] Total Solar Eclipse
 - [x] Annular Solar Eclipse
 - [ ] Hybrid Solar Eclipse
 
-#### Which of the following words is a synonym for “exuberant”?
+#### Which of the following words is a synonym for "exuberant"?
 
 - [x] Enthusiastic
 - [ ] Melancholic
