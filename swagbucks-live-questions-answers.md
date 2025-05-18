@@ -64617,3 +64617,21 @@
 - [ ] Germany
 - [ ] Russia
 - [x] Poland
+
+#### Which U.S. President was known as "The Great Communicator"?
+
+- [ ] John F. Kennedy
+- [x] Ronald Reagan
+- [ ] Abraham Lincoln
+
+#### Which of these M&M varieties is the fake?
+
+- [ ] Crispy
+- [x] Raisin
+- [ ] Hazelnut
+
+#### Which of these social media platforms is based entirely around pictures and video?
+
+- [ ] iTunes
+- [ ] Friendster
+- [x] Instagram
