@@ -64587,3 +64587,9 @@
 - [x] Just Do It
 - [ ] Just Did It
 - [ ] Won't Do That
+
+#### What day of the week is also known as Hump Day?
+
+- [ ] Friday
+- [x] Wednesday
+- [ ] Sunday
