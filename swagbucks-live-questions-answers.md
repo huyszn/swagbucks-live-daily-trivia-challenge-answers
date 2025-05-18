@@ -19591,7 +19591,7 @@
 - [ ] Badminton
 - [ ] Polo
 
-#### Who wrote “The Giving Tree”?
+#### Who wrote "The Giving Tree"?
 
 - [x] Shel Silverstein
 - [ ] Truman Capote
@@ -49198,7 +49198,7 @@
 #### In 1931, what famous U.S. building was completed?
 
 - [x] Empire State Building
-- [ ] Whtie House
+- [ ] White House
 - [ ] Washington Monument
 
 #### What is the collective term for the first 10 amendments to the constitution?
@@ -64593,3 +64593,27 @@
 - [ ] Friday
 - [x] Wednesday
 - [ ] Sunday
+
+#### In "Jack and the Beanstalk", what is at the top of the magical beanstalk?
+
+- [ ] Heaven
+- [x] A giant
+- [ ] Witches
+
+#### By what nickname s William Shakespeare known?
+
+- [x] The Bard
+- [ ] The Bird
+- [ ] The Beard
+
+#### Which vampire novel was written by Anne Rice?
+
+- [ ] Dracula
+- [ ] Fangs McGoo
+- [x] Interview with the Vampire
+
+#### During World War II, a beer-drinking bear was adopted by the army of which country?
+
+- [ ] Germany
+- [ ] Russia
+- [x] Poland
