@@ -64635,3 +64635,21 @@
 - [ ] iTunes
 - [ ] Friendster
 - [x] Instagram
+
+#### Which of these words is synonymous with "happy"?
+
+- [ ] Dejected
+- [ ] Forlorn
+- [x] Jovial
+
+#### "Beavis & Butthead" and parts of "Office Space" originated from what MTV show?
+
+- [ ] The Idiot Box
+- [x] Liquid Television
+- [ ] The State
+
+#### Which of these cities has the highest per capital crime rate?
+
+- [x] Vatican City
+- [ ] New York City
+- [ ] Moscow
