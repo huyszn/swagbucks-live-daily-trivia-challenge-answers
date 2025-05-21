@@ -64653,3 +64653,27 @@
 - [x] Vatican City
 - [ ] New York City
 - [ ] Moscow
+
+#### What insect is part of the name of a spelling contest?
+
+- [ ] Fly
+- [x] Bee
+- [ ] Locust
+
+#### During the Trojan War, the Greek army is said to have snuck inside of Troy while hiding inside what?
+
+- [ ] A giant bird
+- [x] A giant horse
+- [ ] A giant turtle
+
+#### According to Clarence, every time a bell rings an angel gets its what?
+
+- [ ] Sense of self
+- [ ] Driver's License
+- [x] Wings
+
+#### What computer company's name completes this ad slogan: "Dude, you're getting a..."
+
+- [x] Dell
+- [ ] Texas Instruments
+- [ ] Hewlett Packard
