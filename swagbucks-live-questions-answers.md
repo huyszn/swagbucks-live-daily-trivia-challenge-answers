@@ -64677,3 +64677,15 @@
 - [x] Dell
 - [ ] Texas Instruments
 - [ ] Hewlett Packard
+
+#### Which of the following was NOT invented in the 60's?
+
+- [ ] The mouse
+- [ ] Video game console
+- [x] Stereophonic LPs
+
+#### What is the term for the process by which a caterpillar becomes a butterfly?
+
+- [ ] Evolution
+- [ ] Gesticulation
+- [x] Metamorphosis
