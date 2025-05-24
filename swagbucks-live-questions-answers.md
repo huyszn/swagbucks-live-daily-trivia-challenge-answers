@@ -64713,3 +64713,21 @@
 - [x] Jimmy Fallon
 - [ ] Rainbow Jimmies
 - [ ] Frank Stallone
+
+#### Which of these phrases is appropriate for telling someone your patience has run out?
+
+- [ ] I'm under the weather
+- [x] That's the last straw
+- [ ] Speak of the devil
+
+#### In "A Christmas Carol", who says "God bless us, everyone!"
+
+- [ ] Scrooge
+- [x] Tiny Tim
+- [ ] Bob Cratchit
+
+#### In Chess, what piece are you trying to put into "check"?
+
+- [ ] Pawn
+- [x] King
+- [ ] Queen
