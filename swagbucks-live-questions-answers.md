@@ -36301,7 +36301,7 @@
 - [ ] 6
 - [x] 9
 
-#### What supernatural ceature is known for sucking blood from the body?
+#### What supernatural creature is known for sucking blood from the body?
 
 - [x] Vampire
 - [ ] Mummy
@@ -64689,3 +64689,27 @@
 - [ ] Evolution
 - [ ] Gesticulation
 - [x] Metamorphosis
+
+#### Which of the following people is a fashion designer?
+
+- [x] Isaac Mizrahi
+- [ ] Isaac the Bartender
+- [ ] Isaac Asimov
+
+#### Who narrates the scary monologue in Michael Jackson's hit song Thriller?
+
+- [x] Vincent Price
+- [ ] James Earl Jones
+- [ ] Orson Welles
+
+#### At the beginning of "Indiana Jones and the Last Crusade", what artifact does Indy steal in the mountains of Utah?
+
+- [ ] Chachapoyan Fertility Idol
+- [x] Cross of Coronado
+- [ ] The Peacock's Eye
+
+#### Who currently hosts The Tonight Show?
+
+- [x] Jimmy Fallon
+- [ ] Rainbow Jimmies
+- [ ] Frank Stallone
