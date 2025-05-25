@@ -28969,7 +28969,7 @@
 - [x] "Oh Yeah!"
 - [ ] "Anyone Thirsty?"
 
-#### Which U.S. Sate has the nickname "The First State"?
+#### Which U.S. State has the nickname "The First State"?
 
 - [ ] Alaska
 - [ ] Florida
@@ -64731,3 +64731,15 @@
 - [ ] Pawn
 - [x] King
 - [ ] Queen
+
+#### Jockeys are athletes used in what sport?
+
+- [ ] Pole Vault
+- [ ] Cross Country
+- [x] Horse Racing
+
+#### Which State is known as the Lone Star State?
+
+- [ ] Arizona
+- [ ] New Mexico
+- [x] Texas
