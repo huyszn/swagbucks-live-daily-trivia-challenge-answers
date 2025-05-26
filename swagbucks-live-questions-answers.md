@@ -64743,3 +64743,27 @@
 - [ ] Arizona
 - [ ] New Mexico
 - [x] Texas
+
+#### The Zimmerman Telegram brought the United States into which war?
+
+- [ ] The Spanish-American War
+- [x] World War I
+- [ ] The U.S. Civil War
+
+#### What is the name of McDonald's blended ice cream dessert?
+
+- [ ] McBlizzard
+- [ ] McIcee
+- [x] McFlurry
+
+#### What products were called Boop-Boop a Doops in their early days?
+
+- [ ] Pogo Sticks
+- [ ] Slide Whistles
+- [x] Whoopie Cushions
+
+#### Which Monopoly railroad was NOT based on a single existing railroad line?
+
+- [ ] B&O
+- [x] Short Line
+- [ ] Reading
