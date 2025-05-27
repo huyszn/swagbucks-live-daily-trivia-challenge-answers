@@ -64791,3 +64791,411 @@
 - [ ] Jacob Marley
 - [x] Ebenezer Scrooge
 - [ ] Bob Cratchit
+
+#### In what kind of performance would you hear an aria?
+
+- [ ] Tap dancing
+- [ ] Rap
+- [x] Opera
+
+#### Which cable network could call themselves the Hyperbaric Channel?
+
+- [x] Oxygen
+- [ ] Fuze
+- [ ] Discovery
+
+#### Who was the British Prime Minister during World War II?
+
+- [ ] Margaret Thatcher
+- [x] Winston Churchill
+- [ ] Tony Blair
+
+#### In "Raiders of the Lost Ark", what does Indy instruct Marion to do when the Ark is opened?
+
+- [ ] Stare right at it
+- [x] Keep her eyes shut
+- [ ] Whistle
+
+#### In 2016, Beyonce, Drake, and dele all sold fewer CDs than which artist?
+
+- [ ] "Weird" Al Yankovic
+- [x] Mozart
+- [ ] Hillary Clinton
+
+#### Which mother was known as "The Most Dangerous Woman in America"?
+
+- [ ] Ma Barker
+- [x] Mother Jones
+- [ ] Mother Nature
+
+#### Tommy Lee is the drummer for what heavy metal band?
+
+- [ ] Poison
+- [ ] Nelson
+- [x] Motley Crue
+
+#### Bounty goes by what nickname?
+
+- [ ] Cleantasic
+- [x] The Quicker Picker Upper
+- [ ] Thin Sponges
+
+#### In which board game do you "Pass GO"?
+
+- [ ] Sorry
+- [ ] Parcheesi
+- [x] Monopoly
+
+#### What game was invented by a Seattle waiter?
+
+- [x] Pictionary
+- [ ] Outburst
+- [ ] Balderdash
+
+#### Which brand of athletic wear features a silhouette of its namesake dunking a basketball?
+
+- [ ] Reebok
+- [x] Jordan
+- [ ] Puma
+
+#### Which celebrity is heir to a hotel fortune?
+
+- [ ] Nichole Richie
+- [ ] Kim Kardashian
+- [x] Paris Hilton
+
+#### What is the name of WALL-E's love interest?
+
+- [x] EVE
+- [ ] Ava
+- [ ] M3GAN
+
+#### 2015's Summer smash "Fury Road" was an entry in which film franchise?
+
+- [ ] Star Trek
+- [x] Mad Max
+- [ ] Superman
+
+#### On July 25, 2025, what Marvel supergroup takes their "First Steps" into the MCU?
+
+- [ ] The Inhumans
+- [ ] The New Mutants
+- [x] Fantastic Four
+
+#### "Hopelessly Devoted" and "You're The One That I Want" are both songs from what musical Summer blockbuster?
+
+- [ ] Mamma Mia!
+- [x] Grease
+- [ ] Chicago
+
+#### In "Harry Potter and the Half-Blood Prince", who is the Half Blood Prince?
+
+- [x] Severus Snape
+- [ ] Tom Riddle
+- [ ] Harry Potter
+
+#### In "Jaws" Chief Brody says "You're going to need a bigger" what?
+
+- [ ] Shark
+- [ ] Gun
+- [x] Boat
+
+#### What children's toy does E.T. use to build his phone?
+
+- [x] Speak & Spell
+- [ ] Game Boy
+- [ ] Rock 'em Sock 'em Robots
+
+#### In "Ghost", what object does Sam make float through the air to his girlfriend Molly?
+
+- [ ] A button
+- [x] A penny
+- [ ] A shirt
+
+#### In "Back to the Future", what year does Marty McFly accidentally travel back to?
+
+- [x] 1955
+- [ ] 2734
+- [ ] 1313
+
+#### In "The Lion King", who is responsible for Mufasa's death?
+
+- [ ] Pumbaa
+- [ ] Timon
+- [x] Scar
+
+#### What was the smaller version of the iPod called?
+
+- [x] iPod Nano
+- [ ] iPod Nanite
+- [ ] iPod Nanny
+
+#### In Aladdin, what kind of animal is Abu?
+
+- [ ] Snake
+- [ ] Parrot
+- [x] Monkey
+
+#### Stephen Sondheim is famous for what kind of work?
+
+- [ ] Sculpture
+- [ ] Painting
+- [x] Compositions for Broadway
+
+#### The CMT awards are given out for what type of music?
+
+- [ ] Rap
+- [x] Country
+- [ ] New Wave
+
+#### The Big Mac is the signature sandwich of what fast food chain?
+
+- [ ] Burger King
+- [x] McDonald's
+- [ ] Wendy's
+
+#### At what age was the youngest professional gamer in history first signed to their first deal?
+
+- [x] Six
+- [ ] Eleven
+- [ ] Fifteen
+
+#### What two movies inspired the founding of The Razzle Awards?
+
+- [ ] Ishtar and The Garbage Pail Kids Movie
+- [ ] Cleopatra and Plan 9 from Outer Space
+- [x] Can't Stop the Music & Xanadu
+
+#### In the "Despicable Me" movies, who do the Minions mainly work for?
+
+- [x] Gru
+- [ ] Dr. Nefario
+- [ ] Sils Ramsbottom
+
+#### What maneuver does Daniel LaRusso use to win the All-Valley Karate Tournament in "The Karate Kid"?
+
+- [ ] The Raven Punch
+- [x] The Crane Kick
+- [ ] The Hawk Throw
+
+#### Who played Maverick in "Top Gun"?
+
+- [ ] Anthony Edwards
+- [ ] Val Kilmer
+- [x] Tom Cruise
+
+#### Which of the following original horror movies was a Summer release?
+
+- [x] Friday the 13th
+- [ ] A Nightmare on Elm Street
+- [ ] Halloween
+
+#### In "Total Recall" Arnold Schwarzenegger is Douglas Quaid, trying to get to which planet?
+
+- [ ] Saturn
+- [x] Mars
+- [ ] Neptune
+
+#### In "The Goonies", which Goonie adopts Sloth?
+
+- [ ] Data
+- [ ] Mikey
+- [x] Chunk
+
+#### In which of these Summer movies do the heroes defend Earth from aliens?
+
+- [ ] Blade
+- [x] Independence Day
+- [ ] The Sixth Sense
+
+#### "Failure is not an option" was one of the slogans of which Summer movie?
+
+- [x] Apollo 13
+- [ ] True Lies
+- [ ] Twister
+
+#### In "Shrek", where does Shrek live?
+
+- [ ] A Castle
+- [ ] Under a Bridge
+- [x] The Swamp
+
+#### Who played The Joker in "The Dark Knight"?
+
+- [ ] Cesar Romeo
+- [x] Heath Ledger
+- [ ] Jack Nicholson
+
+#### How do you properly pronounce the style of glasses worn by both Presidents Roosevelt?
+
+- [x] Pans Nay
+- [ ] Pince Nez
+- [ ] Pance Nizy
+
+#### In which Summer Blockbuster does Maximus shout "Are you not entertained?!"
+
+- [x] Gladiator
+- [ ] Bad Boys
+- [ ] True Lies
+
+#### Kevin Costner starred in what 1995 Summer Bomb?
+
+- [ ] Draft Day
+- [ ] Silverado
+- [x] Waterworld
+
+#### In "Batman Forever", which rubber-faced comedian played The Riddler?
+
+- [x] Jim Carrey
+- [ ] Tommy Davidson
+- [ ] Damon Wayans
+
+#### In "Avengers: Endgame", who snaps back the people who Thanos had made disappear?
+
+- [ ] Iron Man
+- [x] The Hulk
+- [ ] Thor
+
+#### In "Forrest Gump", Forrest becomes rich partially be becoming an early investor in which company?
+
+- [ ] Nike
+- [ ] Starbucks
+- [x] Apple
+
+#### One of the biggest Summer hits of 2003 was a movie based on which Disney Parks attraction?
+
+- [ ] Matterhorn
+- [x] Pirates of the Caribbean
+- [ ] Space Mountain
+
+#### 2017's "Wonder Woman" takes place during which historical event?
+
+- [ ] D-Day
+- [ ] American Revolution
+- [x] World War I
+
+#### In "Barbie", which of the following modes of transportation is NOT used to get Barbie and Ken to the real world?
+
+- [ ] Bicycle
+- [ ] Rocket
+- [x] Jet Ski
+
+#### Which comedian played Dory in "Finding Nemo"?
+
+- [x] Ellen DeGeneres
+- [ ] Rosie O'Donnell
+- [ ] Nikki Glaser
+
+#### In "Jurassic Park", dinosaur DNA is extracted from which insects?
+
+- [ ] Spiders
+- [x] Mosquitos
+- [ ] Termites
+
+#### On "Sabrina the Teenage the Witch", how old was Salem the Cat?
+
+- [x] 500
+- [ ] 13
+- [ ] 99
+
+#### Which of these movie ratings is appropriate for small children?
+
+- [x] G
+- [ ] NC-17
+- [ ] R
+
+#### Who is referred to as "The Father of the United States"?
+
+- [ ] Curious George
+- [ ] Boy George
+- [x] George Washington
+
+#### Madeline Albright was the first woman appointed to what government position?
+
+- [x] Secretary of State
+- [ ] Vice President
+- [ ] Senator
+
+#### What is the name for the brief break between acts in a play?
+
+- [ ] Interloper
+- [x] Intermission
+- [ ] Intramural
+
+#### In "Lord of the Flies", the boys cannot speak unless they're holding what?
+
+- [ ] A rock
+- [x] A shell
+- [ ] A spear
+
+#### Which of these guitar players was known for playing the Blues?
+
+- [x] B.B. King
+- [ ] Chet Atkins
+- [ ] George Harrison
+
+#### Hailee Seinfeld's Kate Bishop was introduced in which MCU TV series?
+
+- [ ] WandaVision
+- [x] Hawkeye
+- [ ] She-Hulk
+
+#### What kind of car is Herbie the Love Bug?
+
+- [ ] Grand Wagoneer
+- [ ] Kia Sportage
+- [x] VW Beetle
+
+#### Which of these is a character from Animaniacs?
+
+- [x] Slappy Squirrel
+- [ ] Sandy Squirrel
+- [ ] Scrappy Squirrel
+
+#### People with Dendrophobia have a fear of what?
+
+- [ ] Hair
+- [ ] Teeth
+- [x] Trees
+
+#### Finish this saying: "No Guts, No..."
+
+- [ ] Soup For You
+- [ ] Soap; Radio!
+- [x] Glory
+
+#### In which country was the sport of Extreme Ironing born?
+
+- [x] England
+- [ ] United States
+- [ ] Sweden
+
+#### What materials would the band Air Supply probably use to create love?
+
+- [ ] You and Me
+- [ ] Two Hearts
+- [x] Nothing
+
+#### The first North American Christmas celebration took place in which city?
+
+- [ ] Boston
+- [ ] Providence
+- [x] Tallahassee
+
+#### Which of these musicians is blind?
+
+- [x] Ray Charles
+- [ ] Charlie Puth
+- [ ] Elton John
+
+#### Dwayne Johnson wrestled professionally under what name?
+
+- [ ] HHH
+- [ ] Stone Cold
+- [x] The Rock
+
+#### Sean Combs is better known by what name?
+
+- [x] Diddy
+- [ ] Eminem
+- [ ] ODB
