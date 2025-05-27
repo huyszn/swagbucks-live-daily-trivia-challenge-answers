@@ -64767,3 +64767,27 @@
 - [ ] B&O
 - [x] Short Line
 - [ ] Reading
+
+#### Which "Shark Tank" Investor is also owner of the Dallas Mavericks?
+
+- [x] Mark Cuban
+- [ ] Kevin O'Leary
+- [ ] Lori Greiner
+
+#### Which of the following is NOT a flavor in a standard Mike & Ike's box?
+
+- [ ] Strawberry
+- [ ] Cherry
+- [x] Kumquat
+
+#### Polo is a fashion brand founded by what designer?
+
+- [x] Ralph Lauren
+- [ ] Donna Karan
+- [ ] Coco Chanel
+
+#### In "A Christmas Carol", who is visited by a series of ghosts?
+
+- [ ] Jacob Marley
+- [x] Ebenezer Scrooge
+- [ ] Bob Cratchit
