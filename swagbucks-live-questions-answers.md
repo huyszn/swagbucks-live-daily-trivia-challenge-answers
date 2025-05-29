@@ -65205,3 +65205,171 @@
 - [x] Wilmer McLean
 - [ ] Robert Gould Shaw
 - [ ] Salmon P. Chase
+
+#### In US and UK tradition, what part of the wedding meal will a couple freeze and eat a year later?
+
+- [ ] Hor d'oeuvres
+- [ ] Salad
+- [x] Cake
+
+#### What is the name of Raggedy Ann's brother?
+
+- [x] Andy
+- [ ] Arby
+- [ ] Alan
+
+#### Zoology is the scientific study of the behavior, structure, physiology, classification, and distribution of what?
+
+- [ ] Online Conferencing Software
+- [x] Animals
+- [ ] Donuts
+
+#### The Village People had a hit song about what nonprofit organization?
+
+- [x] YMCA
+- [ ] March of Dimes
+- [ ] Red Cross
+
+#### In what year was it constitutionally established that the Vice President is the successor to the United States President?
+
+- [ ] 1777
+- [ ] 1841
+- [x] 1987
+
+#### What is James Bond's code number?
+
+- [ ] 24601
+- [x] 007
+- [ ] 3.1159
+
+#### The original "Final Destination" had its origins in a script idea for which
+
+- [ ] The Twilight Zone
+- [ ] Eerie, Indiana
+- [x] The X-Files
+
+#### Complete this Pink Floyd lyric: "All in all you're just another brick in the..."
+
+- [x] Wall
+- [ ] Porch
+- [ ] Window
+
+#### Located 86 miles outside of Seattle, in which State would you find Mount Rainer?
+
+- [ ] Arizona
+- [ ] New York
+- [x] Washington
+
+#### Which of the following desserts comes from Italy?
+
+- [x] Tiramisu
+- [ ] Baklava
+- [ ] Churros
+
+#### And, But, and Or are all examples of what kind of word?
+
+- [ ] Verb
+- [ ] Noun
+- [x] Conjunction
+
+#### In "Star Wars Episode IV: A New Hope", who destroys the Death Star?
+
+- [x] Luke Skywalker
+- [ ] Han Solo
+- [ ] Princess Leia
+
+#### In "Groundhog Day", what is Rita's favorite drink?
+
+- [ ] Margarita on the rocks
+- [x] Sweet Vermouth, rock with a twist
+- [ ] Dry Martini, ne olive, twist of lemon
+
+#### Which Chronicles of Narnia character was based on JRR Tolkien?
+
+- [x] Professor Digory Kirke
+- [ ] Aslan
+- [ ] Tumnus
+
+#### Vin Mariani was a popular wine infused with the raw material for what?
+
+- [ ] LSD
+- [ ] Mescaline
+- [x] Cocaine
+
+#### What actor has appeared in "Jumanji", "Hobbs & Shaw", and "Jungle Cruise"?
+
+- [ ] Vin Diesel
+- [x] Dwayne Johnson
+- [ ] Kevin Hart
+
+#### Which of these celebrity magazines is the fake?
+
+- [ ] People
+- [ ] Us Weekly
+- [x] Bob's Magazine of the Stars
+
+#### In "Finding Nemo", where do Marlin and Dory find Nemo?
+
+- [ ] New York
+- [x] Australia
+- [ ] Ireland
+
+#### What would a smoker most likely be used to cook?
+
+- [ ] Waffles
+- [ ] Ice Cream
+- [x] Brisket
+
+#### "Buenos Dias" is a common greeting in which language?
+
+- [x] Spanish
+- [ ] Italian
+- [ ] French
+
+#### Where do the "Lord of the Rings" books take place?
+
+- [ ] Narnia
+- [ ] The Moon
+- [x] Middle Earth
+
+#### What birds, held in captivity in the Tower of London, are believed to bring good fortune?
+
+- [ ] Crow
+- [x] Raven
+- [ ] Dove
+
+#### In the Super Mario Bros franchise, what is the name of Mario's doppelganger?
+
+- [ ] Spritle
+- [ ] Yoshi
+- [x] Wario
+
+#### What animal's name comes from a combination of the Latin words for "fish" and "pig"?
+
+- [ ] Lamprey
+- [x] Porpoise
+- [ ] Beluga
+
+#### Before achieving success as a solo act, Sting was a member of which band?
+
+- [ ] Wham!
+- [ ] The Boomtown Rats
+- [x] The Police
+
+#### Which cast member of "he Office" worked for the show's casting director?
+
+- [ ] Ellie Kemper
+- [x] Phyllis Smith
+- [ ] Angela Kinsey
+
+#### Vince Lombardi was a legendary head coach in which sport?
+
+- [ ] Polo
+- [ ] Swimming
+- [x] American Football
+
+#### Elton John and Kiki Dee had a 1976 hit with "Don't Go Breaking My" what?
+
+- [x] Heart
+- [ ] Spirit
+- [ ] Mirror
