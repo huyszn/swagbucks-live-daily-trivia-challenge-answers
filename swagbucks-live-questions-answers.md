@@ -65356,7 +65356,7 @@
 - [ ] The Boomtown Rats
 - [x] The Police
 
-#### Which cast member of "he Office" worked for the show's casting director?
+#### Which cast member of "The Office" worked for the show's casting director?
 
 - [ ] Ellie Kemper
 - [x] Phyllis Smith
@@ -65373,3 +65373,21 @@
 - [x] Heart
 - [ ] Spirit
 - [ ] Mirror
+
+#### What tactile reading & writing system is used by the visually impaired?
+
+- [ ] Sign Language
+- [ ] Semaphore
+- [x] Braille
+
+#### In 1986, what famous boxer became world champion at the age of 20?
+
+- [ ] Rocky Balboa
+- [x] Mike Tyson
+- [ ] Muhammad Ali
+
+#### If you're a phlebotomist, what do you do for a living?
+
+- [ ] Study Mucous Membranes
+- [x] Draw Blood
+- [ ] Clean Teeth
