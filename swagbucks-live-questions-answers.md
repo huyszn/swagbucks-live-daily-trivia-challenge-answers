@@ -65391,3 +65391,111 @@
 - [ ] Study Mucous Membranes
 - [x] Draw Blood
 - [ ] Clean Teeth
+
+#### Marmaduke is the same breed as which of these other cartoon dogs?
+
+- [x] Scooby Doo
+- [ ] Dynomutt
+- [ ] Hong Kong Phooey
+
+#### Which of the following is NOT one of the main Monopoly tokens?
+
+- [ ] Car
+- [ ] Dog
+- [x] Drone
+
+#### Which presidential candidate killed Alexander Hamilton?
+
+- [ ] John Breckenridge
+- [ ] Lewis Cass
+- [x] Aaron Burr
+
+#### According to DC Comics's 1980s Bat-Bible, who can do a perfect impression of Bruce Wayne's voice?
+
+- [ ] Robin
+- [x] Alfred
+- [ ] Commissioner Gordon
+
+#### 
+
+- [ ] 
+- [ ] 
+- [ ] 
+
+#### Huey, Dewey, and Louise are the nephews of which Disney character?
+
+- [ ] Oswald the Lucky Rabbit
+- [ ] Mickey Mouse
+- [x] Donald Duck
+
+#### How many happy haunts call Disney Parks' Haunted Mansion their home?
+
+- [x] 99
+- [ ] 1
+- [ ] 1,000,000
+
+#### According to their song, what do Snow White and the Seven Dwarfs do while they work?
+
+- [ ] Grumble
+- [ ] Daydream
+- [x] Whistle
+
+#### Which Disney movie features the song "Candle on the Water"?
+
+- [ ] Fun and Fancy Free
+- [x] Pete's Dragon
+- [ ] Hot Lead and Cold Feet
+
+#### Which of the following artifacts has NOT appeared in an Indiana Jones movie?
+
+- [ ] Cross of Coronado
+- [ ] Chachapoyan Fertility Idol
+- [x] Noah's Ark
+
+#### Which Disney character is "practically perfect in every way"? (REPEATED QUESTION WITH DIFFERENT ANSWER ORDERS)
+
+- [ ] Moana
+- [ ] Clarabell
+- [x] Mary Poppins
+
+#### What did Walt Disney originally intend to call Mickey Mouse?
+
+- [x] Mortimer Mouse
+- [ ] Mikey Mouse
+- [ ] Marty Mouse
+
+#### In "Bedknobs and Broomsticks", what is the 'street where the riches of ages are stowed'?
+
+- [ ] King's Road
+- [x] Portobello Road
+- [ ] Saile Row
+
+#### Which TV network is owned by Disney?
+
+- [x] ABC
+- [ ] CBS
+- [ ] NBC
+
+#### What was Pixar's first full-length animated feature?
+
+- [ ] Elemental
+- [ ] Soul
+- [x] Toy Story
+
+#### In the Star Wars Universe, what did Order 66 lead to?
+
+- [x] The extinction of the Jedi
+- [ ] The liberation of Tatooine
+- [ ] The Battle of Yavin
+
+#### Luther Vandross is known by what nickname>
+
+- [ ] Slash
+- [x] Velvet Voice
+- [ ] Buckethead
+
+#### According to Guinness, who hosted the world's largest free rock concert?
+
+- [x] Rod Stewart
+- [ ] Bruce Springsteen
+- [ ] Paul McCartney
