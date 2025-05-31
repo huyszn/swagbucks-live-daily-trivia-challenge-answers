@@ -65416,12 +65416,6 @@
 - [x] Alfred
 - [ ] Commissioner Gordon
 
-#### 
-
-- [ ] 
-- [ ] 
-- [ ] 
-
 #### Huey, Dewey, and Louise are the nephews of which Disney character?
 
 - [ ] Oswald the Lucky Rabbit
@@ -65499,3 +65493,33 @@
 - [x] Rod Stewart
 - [ ] Bruce Springsteen
 - [ ] Paul McCartney
+
+#### What band is famous for songs like "Waterloo" and "Take A Chance on Me"?
+
+- [ ] LMFAO
+- [x] ABBA
+- [ ] BTS
+
+#### What two things are connected by tendons?
+
+- [x] Muscles and bones
+- [ ] Cartilage and joints
+- [ ] Hair and scalp
+
+#### Planters uses what nut as their mascot?
+
+- [ ] Almond
+- [x] Peanut
+- [ ] Cashew
+
+#### Goobers candy is made by putting chocolate coating on what food item?
+
+- [ ] Raisins
+- [x] Peanuts
+- [ ] Graham Crackers
+
+#### Which literary monster is a vegetarian?
+
+- [x] Frankenstein's Monster
+- [ ] Grendel
+- [ ] The Invisible Man
