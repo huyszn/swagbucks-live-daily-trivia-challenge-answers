@@ -65523,3 +65523,21 @@
 - [x] Frankenstein's Monster
 - [ ] Grendel
 - [ ] The Invisible Man
+
+#### Which pop star plays Galinda in the film adapatation of "Wicked"?
+
+- [ ] P!nk
+- [x] Ariana Grande
+- [ ] JoJo Siwa
+
+#### New Jsersey is known by what nickname?
+
+- [ ] The Sunshine State
+- [x] The Garden State
+- [ ] The Golden State
+
+#### Who directed "Jaws", "Raiders of the Lost Ark", and "E.T."?
+
+- [x] Steven Spielberg
+- [ ] George Lucas
+- [ ] Harrison Ford
