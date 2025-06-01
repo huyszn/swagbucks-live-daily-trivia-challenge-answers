@@ -65565,3 +65565,39 @@
 - [ ] Siblings
 - [x] Cousins
 - [ ] Father and Son
+
+#### What was the nickname for Disney's original core animators?
+
+- [x] Disney's Nine Old Men
+- [ ] The Swiss Family Robinson
+- [ ] The Funky Bunch
+
+#### According to Empire, who was almost thrown out of Disneyland Paris for filming the Star Tours ride while on it?
+
+- [x] George Lucas
+- [ ] Harrison Ford
+- [ ] Mark Hamill
+
+#### If Jason Statham made an action movie about his athletic career, what could it be titled?
+
+- [x] The Diver
+- [ ] The Hurdler
+- [ ] The Gymnast
+
+#### Princess Aura is a character from which classic American comic strip?
+
+- [x] Flash Gordon
+- [ ] Superman
+- [ ] Captain Marvel
+
+#### What beetle was regarded as sacred by ancient Egyptians?
+
+- [ ] Ladybug
+- [ ] Longhorn Beetle
+- [x] Scarab
+
+#### Who was the captain of the Enterprise on the original Star Trek?
+
+- [x] Kirk
+- [ ] Spock
+- [ ] Ahab
