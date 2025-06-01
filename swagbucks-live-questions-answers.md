@@ -34283,7 +34283,7 @@
 
 - [x] NASA
 - [ ] The Trump Organization
-- [ ] The Borning Company
+- [ ] The Boring Company
 
 #### Which of these pieces of clothing is normally worn around the neck?
 
@@ -39136,7 +39136,7 @@
 #### What was Disney's first animated feature film?
 
 - [x] Snow White and the Seven Dwarfs
-- [ ] 101 Diamatians
+- [ ] 101 Dalmatians
 - [ ] Encanto
 
 #### In "Citizen Kane", what is Charles Foster Kane's dying word?
@@ -65541,3 +65541,27 @@
 - [x] Steven Spielberg
 - [ ] George Lucas
 - [ ] Harrison Ford
+
+#### Which of the following is NOT the name of one of the Brontë sisters?
+
+- [ ] Charlotte
+- [ ] Emily
+- [x] Oscar
+
+#### Realtor Drew Scott and contractor Jonathan Scott are collectively known by what name?
+
+- [x] The Property Brothers
+- [ ] The Isley Brothers
+- [ ] Dr. Joyce Brothers
+
+#### Which of these charitable organizations was founded first?
+
+- [x] The Salvation Army
+- [ ] The United Way
+- [ ] The Red Cross
+
+#### How were Teddy Roosevelt and Franklin D. Roosevelt related?
+
+- [ ] Siblings
+- [x] Cousins
+- [ ] Father and Son
