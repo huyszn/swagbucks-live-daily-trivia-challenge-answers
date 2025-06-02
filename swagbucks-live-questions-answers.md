@@ -65643,3 +65643,27 @@
 - [ ] The Incredibles
 - [ ] Ice Age
 - [x] Despicable Me
+
+#### Which of these movies won the Oscar for Best Picture during the 1980s?
+
+- [ ] Dances with Wolves
+- [ ] The Deer Hunter
+- [x] Amadeus
+
+#### In the show of the same name, what kind of animal is Mister Ed?
+
+- [x] Horse
+- [ ] Cat
+- [ ] Eagle
+
+#### How many feet are in 6 fathoms?
+
+- [ ] 60
+- [ ] 48
+- [x] 36
+
+#### Shredder is the main villain in what toy line?
+
+- [ ] G.I. Joe
+- [x] Teenage Mutant Ninja Turtles
+- [ ] Gobots
