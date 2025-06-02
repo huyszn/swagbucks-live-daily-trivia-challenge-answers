@@ -65613,3 +65613,33 @@
 - [x] Good Morning America
 - [ ] NBC Nightly News
 - [ ] The Daily Show
+
+#### Who hosts Mister Rogers' Neighborhood?
+
+- [x] Mister Rogers
+- [ ] Captain Kangaroo
+- [ ] Ted Koppel
+
+#### What company once made a board game that foreshadowed a future accident?
+
+- [x] BP
+- [ ] Exxon
+- [ ] Sinopec
+
+#### What candy is served in dispensers with the head of pop culture figures?
+
+- [x] Pez
+- [ ] Tic Tacs
+- [ ] Rolo
+
+#### Herman Melville is best known as the author of what book?
+
+- [ ] Little Women
+- [x] Moby Dick
+- [ ] The Firm
+
+#### The Minions are part of what movie series?
+
+- [ ] The Incredibles
+- [ ] Ice Age
+- [x] Despicable Me
