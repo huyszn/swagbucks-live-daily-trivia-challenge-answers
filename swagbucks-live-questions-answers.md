@@ -65601,3 +65601,15 @@
 - [x] Kirk
 - [ ] Spock
 - [ ] Ahab
+
+#### What is the name for Major League Baseball's championships?
+
+- [ ] The Stanley Cup
+- [ ] The Super Bowl
+- [x] The World Series
+
+#### Which of these TV shows airs the earliest in the day?
+
+- [x] Good Morning America
+- [ ] NBC Nightly News
+- [ ] The Daily Show
