@@ -65667,3 +65667,63 @@
 - [ ] G.I. Joe
 - [x] Teenage Mutant Ninja Turtles
 - [ ] Gobots
+
+#### What does Maybelline's mottot wonder about a woman?
+
+- [x] Maybe she's born with it
+- [ ] Maybe she's bluffing
+- [ ] Maybe she stole my keys
+
+#### Which of the following dishes is NOT currently on the menu at Chipotle?
+
+- [ ] Burrito
+- [x] Omelet
+- [ ] Quesadilla
+
+#### What is the term for a fracture or zone of fractures between two blocks of rock?
+
+- [ ] Butte
+- [ ] Volanco
+- [x] Fault Line
+
+#### What year did the "Summer of Love" take place?
+
+- [x] 1967
+- [ ] 1747
+- [ ] 235
+
+#### In which U.S. State would you most likely find native residents speaking with a "Southern" accent?
+
+- [ ] Vermont
+- [ ] Montana
+- [x] Georgia
+
+#### What Frank Herbert science fiction series has been turned into a series of successful films?
+
+- [x] Dune
+- [ ] Stardust
+- [ ] I, Robot
+
+#### What 1996 disaster movie got a 2024 sequel?
+
+- [ ] Earthquake
+- [ ] Volcano
+- [x] Twister
+
+#### The 4-Alarm Spicy Chicken Sandwich, SuperBar, and Pretzel Pub Burger are all discontinued items from which fast food chain?
+
+- [ ] Burger King
+- [x] Wendy's
+- [ ] Sonic
+
+#### Complete this Sheryl Crow song lyric: "All I wanna do, is have some..."
+
+- [x] Fun
+- [ ] Fondue
+- [ ] Lunch
+
+#### In "The Game of Life", what do you use to determine how many spaces you move on your turn?
+
+- [ ] Rock-Paper-Scissors
+- [ ] Buttons
+- [x] Dial
