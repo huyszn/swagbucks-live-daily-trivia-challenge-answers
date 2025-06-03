@@ -65745,3 +65745,39 @@
 - [ ] 16 GB
 - [ ] 64 GB
 - [x] 512 GB
+
+#### Rita Wilson is married to which actor?
+
+- [ ] Gary Oldman
+- [ ] Dax Shepard
+- [x] Tom Hanks
+
+#### Which Disney animated film features a talking (and singing) snowman?
+
+- [ ] Beauty and the Beast
+- [ ] The Aristocats
+- [x] Frozen
+
+#### What does a thermometer measure?
+
+- [ ] Distance
+- [x] Temperature
+- [ ] Sound
+
+#### What catastrophic hurricane hit New Orleans in August of 2005?
+
+- [ ] Kinsey
+- [ ] Kathy
+- [x] Katrina
+
+#### What related event happened the same month "The China Syndrome" was released?
+
+- [ ] The Oil Crisis began
+- [x] Three Mile Island
+- [ ] Dewson's Field Hijackings
+
+#### In which of these board games do you have to answer trivia questions to win?
+
+- [ ] Monopoly
+- [x] Trivial Pursuit
+- [ ] Dominion
