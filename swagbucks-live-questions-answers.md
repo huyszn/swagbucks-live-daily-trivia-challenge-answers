@@ -65727,3 +65727,21 @@
 - [ ] Rock-Paper-Scissors
 - [ ] Buttons
 - [x] Dial
+
+#### The L.A. Galaxy, Inter Miami CF, and Seattle Sounders all play in what sports league?
+
+- [ ] NFL
+- [x] MLS
+- [ ] NBA
+
+#### Bunnyburrow is one of the settings of which Disney movie?
+
+- [ ] The Good Dinosaur
+- [ ] Inside Out
+- [x] Zootopia
+
+#### Which was not a size of storage on the original iPad?
+
+- [ ] 16 GB
+- [ ] 64 GB
+- [x] 512 GB
