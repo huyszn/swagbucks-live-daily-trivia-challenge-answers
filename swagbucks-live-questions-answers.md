@@ -65781,3 +65781,63 @@
 - [ ] Monopoly
 - [x] Trivial Pursuit
 - [ ] Dominion
+
+#### What causes Pinocchio's nose to grow?
+
+- [ ] Anger
+- [x] Lies
+- [ ] Hunger
+
+#### What does Homer Simpson say when he's frustrated?
+
+- [x] D'oh!
+- [ ] Shucks!
+- [ ] Consarnit!
+
+#### Play-Doh is closest in consistency to which substance?
+
+- [ ] Glue
+- [x] Clay
+- [ ] Leaves
+
+#### What is NASA's Hubble?
+
+- [ ] A space station
+- [ ] A shuttle
+- [x] A telescope
+
+#### Which of the following Crayola crayon colors has been discontinued?
+
+- [x] Violet-Blue
+- [ ] Electric Blue
+- [ ] Cyber Grape
+
+#### Which streaming service stgarted as an online mail-order DVD rental company?
+
+- [ ] Hulu
+- [x] Netflix
+- [ ] Tubi
+
+#### In 1920, the Red Sox sold which baseball legend's contract to the New York Yankees, supposedly cursing Boston's team?
+
+- [x] Babe Ruth
+- [ ] Willie Mays
+- [ ] Nolan Ryan
+
+#### Which sports video game franchise has a curse that is believed to affect its cover athletes?
+
+- [ ] NBA 2K
+- [ ] MLB The Show
+- [x] Madden NFL
+
+#### According to the lyrics, you can check out of the Hotel California any time you want, but you can never do what?
+
+- [x] Leave
+- [ ] Laugh
+- [ ] Learn
+
+#### Which of the following drinks is carbonated?
+
+- [ ] Yoo-Hoo
+- [x] Sprite
+- [ ] Milkshake
