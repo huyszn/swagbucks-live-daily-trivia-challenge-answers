@@ -30127,12 +30127,6 @@
 - [ ] 1908
 - [x] 1912
 
-#### Who is Donald Duck's sister?
-
-- [ ] Delia Duck
-- [x] Dumbella Duck
-- [ ] Donna Duck
-
 #### The Munros are the largest mountains in what country?
 
 - [x] Scotland
@@ -35293,9 +35287,9 @@
 - [ ] Tangled
 - [ ] Frozen
 
-#### What weather phenomenon gets its name for the Spanish for "little boy"?
+#### What weather phenomenon gets its name from the Spanish for "little boy"?
 
-- [x] El Nino
+- [x] El Niño
 - [ ] Tornado
 - [ ] Blizzard
 
@@ -47173,7 +47167,7 @@
 - [x] Finland
 - [ ] Norway
 
-#### Which of these Shakespeare plays is a tragedy? (REPEAT QUESTION WITH DIFFERENT ANSWERS)
+#### Which of these Shakespeare plays is a tragedy?
 
 - [ ] A Midsummer Night's Dream
 - [ ] A Comedy of Errors
@@ -65841,3 +65835,21 @@
 - [ ] Yoo-Hoo
 - [x] Sprite
 - [ ] Milkshake
+
+#### What kitchen tool would you use to fillet?
+
+- [ ] Pan
+- [x] Knife
+- [ ] Rolling Pin
+
+#### Which type of plate is generally the largest?
+
+- [ ] Salad plate
+- [ ] Saucer
+- [x] Dinner plate
+
+#### "TGIF" is associated with which day of the week?
+
+- [x] Friday
+- [ ] Saturday
+- [ ] Tuesday
