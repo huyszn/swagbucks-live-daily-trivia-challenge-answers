@@ -65228,7 +65228,7 @@
 
 - [ ] 1777
 - [ ] 1841
-- [x] 1987
+- [x] 1967
 
 #### What is James Bond's code number?
 
@@ -65853,3 +65853,15 @@
 - [x] Friday
 - [ ] Saturday
 - [ ] Tuesday
+
+#### Which of these mthods of scoring in American Football requires kicking?
+
+- [ ] Safety
+- [x] Field Goal
+- [ ] Touchdown
+
+#### Warsaw is the capital of what country?
+
+- [x] Poland
+- [ ] Estonia
+- [ ] Monaco
