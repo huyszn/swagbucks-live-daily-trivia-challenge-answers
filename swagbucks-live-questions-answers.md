@@ -14103,8 +14103,8 @@
 #### What snack food's slogan claims "Betcha Can't Eat Just One"?
 
 - [ ] Goldfish Crackers
-- [x] Scorpio
-- [ ] Aquarius
+- [x] Lays
+- [ ] Fruit Roll-Ups
 
 #### Imelda Marcos famously had a collection of over 3,000 what?
 
@@ -36871,10 +36871,10 @@
 - [ ] Museum of Modern Art
 - [ ] Crysler Building
 
-#### The Atlantic, Pacific, Indian, Arctic, and Anatarctic are the names of what geographic features?
+#### The Atlantic, Pacific, Indian, Arctic, and Antarctic are the names of what geographic features?
 
 - [x] Oceans
-- [ ] Forrests
+- [ ] Forests
 - [ ] Rivers
 
 #### Which sitcom's theme song talks about the family "Movin' on up to the East Side"?
@@ -65925,3 +65925,21 @@
 - [ ] United States
 - [ ] Italy
 - [x] Spain
+
+#### The highest ranking chef would have how many pleats in their toque?
+
+- [ ] 75
+- [ ] 99
+- [x] 100
+
+#### The peach is a relative of which nut?
+
+- [ ] Hazelnut
+- [x] Almond
+- [ ] Peanut
+
+#### What did the man who patented the Hass Avocado do for a living?
+
+- [ ] Farmer
+- [ ] Boxer
+- [x] Mailman
