@@ -65865,3 +65865,69 @@
 - [x] Poland
 - [ ] Estonia
 - [ ] Monaco
+
+#### According to the saying, what are you not supposed to do over spilled milk?
+
+- [ ] Clap
+- [x] Cry
+- [ ] Coalesce
+
+#### Amelia Earhart is famous for her work in what field?
+
+- [x] Aviation
+- [ ] Medicine
+- [ ] Cooking
+
+#### The movies "Challengers" and "Point Match" center around which sport?
+
+- [ ] Sumo Wrestling
+- [x] Tennis
+- [ ] Bowling
+
+#### Until 1991, what sport was illegal in Mississippi?
+
+- [x] Soccer
+- [ ] Ice Hockey
+- [ ] Lacrosse
+
+#### Which of the following is a type of buffet?
+
+- [ ] Tapas
+- [x] Smorgasbord
+- [ ] Sous Vide
+
+#### Which of the following duets was a hit for a brother/sister duo?
+
+- [x] Scream
+- [ ] Under Pressure
+- [ ] Somethin' Stupid
+
+#### Breath of the Wild and Ocarina of Time are titles in which video game series?
+
+- [ ] Metroid
+- [x] Legend of Zelda
+- [ ] Halo
+
+#### What comic book title holds the Guinness Worled record for most characters on a single issue cover?
+
+- [ ] Superman
+- [ ] The Avengers
+- [x] Deadpool
+
+#### Which of the following is a Federal holiday in America?
+
+- [ ] May Day
+- [ ] Arbor Day
+- [x] Labor Day
+
+#### Which country would you visit to participate in the world famous "Running of the Bulls"?
+
+- [ ] United States
+- [ ] Italy
+- [x] Spain
+
+#### 
+
+- [ ] 
+- [ ] 
+- [ ] 
