@@ -65854,7 +65854,7 @@
 - [ ] Saturday
 - [ ] Tuesday
 
-#### Which of these mthods of scoring in American Football requires kicking?
+#### Which of these methods of scoring in American Football requires kicking?
 
 - [ ] Safety
 - [x] Field Goal
@@ -65908,7 +65908,7 @@
 - [x] Legend of Zelda
 - [ ] Halo
 
-#### What comic book title holds the Guinness Worled record for most characters on a single issue cover?
+#### What comic book title holds the Guinness World record for most characters on a single issue cover?
 
 - [ ] Superman
 - [ ] The Avengers
@@ -65925,9 +65925,3 @@
 - [ ] United States
 - [ ] Italy
 - [x] Spain
-
-#### 
-
-- [ ] 
-- [ ] 
-- [ ] 
