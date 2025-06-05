@@ -65943,3 +65943,39 @@
 - [ ] Farmer
 - [ ] Boxer
 - [x] Mailman
+
+#### What is the name of hte main acapella group in the Pitch Perfect movies?
+
+- [ ] Lady Tunes
+- [ ] Singing Sisters
+- [x] Barden Bellas
+
+#### What was the profession of Hong Kong Phooey's alter ego?
+
+- [ ] Bus driver
+- [ ] Secretary
+- [x] Janitor
+
+#### Which Disney character's nose grows every time he lies?
+
+- [x] Pinocchio
+- [ ] Peter Pan
+- [ ] Prince Charming
+
+#### Who was President when Father's Day was officially recognized by the Federal Government?
+
+- [x] Richard Nixon
+- [ ] Lyndon B. Johnson
+- [ ] Calvin Coolidge
+
+#### Which inventor was buried inside their own invention?
+
+- [x] Fredric Baur
+- [ ] Samuel O'Reilly
+- [ ] Mary Phelps Jacob
+
+#### What is the term for the tax you pay when you buy a pair of jeans?
+
+- [ ] Effective Tax
+- [ ] Thumb Tax
+- [x] Sales Tax
