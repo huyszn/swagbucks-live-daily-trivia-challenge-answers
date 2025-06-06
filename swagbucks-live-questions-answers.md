@@ -41863,7 +41863,7 @@
 - [x] Reptar
 - [ ] Ultrabeast
 
-#### On which Nickeloden show did "sliming" orginate?
+#### On which Nickeloden show did "sliming" originate?
 
 - [x] You Can't Do That On Television
 - [ ] Livewire
@@ -66039,3 +66039,75 @@
 - [ ] The Third Man
 - [ ] Transformers: The Movie
 - [x] Citizen Kane
+
+#### Ehrich Weiss is better known by what stage name?
+
+- [ ] David Copperfield
+- [x] Harry Houdini
+- [ ] Kreskin
+
+#### What body part is lost by both Anakin and Luke Skywalker?
+
+- [ ] Head
+- [ ] Foot
+- [x] Hand
+
+#### Based on the origins of his name, what would you most likely find on a mutated Winnie the Pooh?
+
+- [x] Wings
+- [ ] Fins
+- [ ] Antlers
+
+#### NPR puts out what popular concert series?
+
+- [x] Tiny Desk Concerts
+- [ ] Regular Desk Concerts
+- [ ] Gigantic Desk Concerts
+
+#### What actress is behind the lifestyle brand Goop?
+
+- [ ] Jessica Alba
+- [x] Gwyneth Paltrow
+- [ ] Rihanna
+
+#### Which of the following shows is for children?
+
+- [x] Sesame Street
+- [ ] Homicide: Life on the Streets
+- [ ] The Streets of San Francisco
+
+#### Which of these services deals primarily in audiobooks?
+
+- [ ] Spotify
+- [ ] Apple Music
+- [x] Audible
+
+#### In which city does "Gargoyles" take place?
+
+- [ ] Seattle
+- [ ] Milwaukee
+- [x] New York City
+
+#### Which of these 1960s events did NOT happen the same year as the other two?
+
+- [ ] First heart transplant
+- [ ] "Hair" opens Off-Broadway
+- [x] "60 Minutes" debuts
+
+#### Who says "Be vewy quiet... I'm hunting wabbits"?
+
+- [ ] Pepe Le Pew
+- [ ] Yosemite Sam
+- [x] Elmer Fudd
+
+#### what is the correct name for your lower jaw bone?
+
+- [ ] Maxilla
+- [ ] Palatine
+- [x] Mandible
+
+#### The Seattle Supersonics were a team in which professional league?
+
+- [ ] NHL
+- [x] NBA
+- [ ] NHRA
