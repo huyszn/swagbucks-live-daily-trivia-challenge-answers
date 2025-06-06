@@ -65979,3 +65979,63 @@
 - [ ] Effective Tax
 - [ ] Thumb Tax
 - [x] Sales Tax
+
+#### "I am a Jedi, like my father before me."
+
+- [ ] Return of the Pink Panther
+- [x] Return of the Jedi
+- [ ] Return to the Blue Lagoon
+
+#### "Toto, I've a feeling we're not in Kansas anymore."
+
+- [ ] Nebraska
+- [ ] Akkelah and the Bee
+- [x] The Wizard of Oz
+
+#### "Play it, Sam. Play 'As Time Goes By.'"
+
+- [x] Casablanca
+- [ ] The Avengers
+- [ ] The Smurfs
+
+#### "Go ahead, make my day."
+
+- [ ] Magnum Force
+- [x] Sudden Impact
+- [ ] The Dead Pool
+
+#### "Carpe Diem. Seize the day, boys. Make your lives extraordinary."
+
+- [ ] Rushmore
+- [ ] Hoosiers
+- [x] Dead Poets Society
+
+#### "It's a Sicilian message. It means Luca Brasi sleeps with the fishes."
+
+- [x] The Godfather
+- [ ] Analyze This
+- [ ] Casino
+
+#### "Get me the President on the phone, we're surrendering our position in Cuba."
+
+- [ ] Stripes
+- [x] A Few Good Men
+- [ ] An Officer and a Gentleman
+
+#### "Back off, man. I'm a scientist."
+
+- [ ] Weird Science
+- [ ] Real Genius
+- [x] Ghostbusters
+
+#### "As God is my witness, I'll never be hungry again!"
+
+- [ ] Rear Window
+- [x] Gone With The Wind
+- [ ] Network
+
+#### "Rosebud."
+
+- [ ] The Third Man
+- [ ] Transformers: The Movie
+- [x] Citizen Kane
