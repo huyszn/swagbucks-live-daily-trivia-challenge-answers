@@ -66165,3 +66165,15 @@
 - [ ] Texas
 - [ ] Florida
 - [x] Hawaii
+
+#### In the "Fast and Furious" movies, what does Dominic Toretto say is the most important thing?
+
+- [x] Family
+- [ ] A Good Dental Plan
+- [ ] Paid Parking
+
+#### Who is "The Godfather of Soul"?
+
+- [x] James Brown
+- [ ] Stevie Wonder
+- [ ] Marvin Gaye
