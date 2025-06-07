@@ -66100,7 +66100,7 @@
 - [ ] Yosemite Sam
 - [x] Elmer Fudd
 
-#### what is the correct name for your lower jaw bone?
+#### What is the correct name for your lower jaw bone?
 
 - [ ] Maxilla
 - [ ] Palatine
@@ -66111,3 +66111,27 @@
 - [ ] NHL
 - [x] NBA
 - [ ] NHRA
+
+#### The Memphis Southmen and Honoulu Hawaiians were teams in what now-defunct sports league?
+
+- [ ] National Bowling League
+- [ ] Roller Hockey Internaitonal
+- [x] World Football League
+
+#### The genie in the movie "Aladdin" was trapped in what?
+
+- [ ] A couch
+- [x] A lamp
+- [ ] Some Tupperware
+
+#### How was the NBA's first basket scored?
+
+- [ ] Jump Shot
+- [ ] Free Throw
+- [x] Layup
+
+#### What retail chain uses a red star for their logo?
+
+- [x] Macy's
+- [ ] Target
+- [ ] Best Buy
