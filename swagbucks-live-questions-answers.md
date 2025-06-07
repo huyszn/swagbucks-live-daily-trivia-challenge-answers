@@ -66135,3 +66135,33 @@
 - [x] Macy's
 - [ ] Target
 - [ ] Best Buy
+
+#### Which of the following board games has NOT been adapted into a game show?
+
+- [ ] Taboo
+- [ ] Yahtzee
+- [x] Twister
+
+#### What insurance company claims "You're in good hands" with them?
+
+- [ ] Prudential
+- [ ] Geico
+- [x] Allstate
+
+#### What drink is traditionally garnished with an olive?
+
+- [ ] Daiquiri
+- [x] Martini
+- [ ] Margarita
+
+#### Lipton is known for making what drink?
+
+- [ ] Vodka
+- [x] Tea
+- [ ] Apple Juice
+
+#### What is the southernmost U.S. state?
+
+- [ ] Texas
+- [ ] Florida
+- [x] Hawaii
