@@ -33865,7 +33865,7 @@
 - [ ] Mark Twain
 - [ ] William Faulkner
 
-#### French artist Frederic Auguste Bartholdi sculpted what famous American landmark?
+#### French artist Frédéric Auguste Bartholdi sculpted what famous American landmark?
 
 - [ ] The Grand Canyon
 - [ ] Hoover Dam
@@ -36869,7 +36869,7 @@
 
 - [x] Empire State Building
 - [ ] Museum of Modern Art
-- [ ] Crysler Building
+- [ ] Chrysler Building
 
 #### The Atlantic, Pacific, Indian, Arctic, and Antarctic are the names of what geographic features?
 
@@ -66177,3 +66177,9 @@
 - [x] James Brown
 - [ ] Stevie Wonder
 - [ ] Marvin Gaye
+
+#### What Olympic gold-winning wrestler went on to become a pro wrestling star?
+
+- [x] Kurt Angle
+- [ ] Charlotte Flair
+- [ ] Gorilla Monsoon
