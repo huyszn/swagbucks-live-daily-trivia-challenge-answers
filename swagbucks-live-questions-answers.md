@@ -66183,3 +66183,27 @@
 - [x] Kurt Angle
 - [ ] Charlotte Flair
 - [ ] Gorilla Monsoon
+
+#### What Dire Straits album took them out of dire straits when it became the first CD to sell a million copies?
+
+- [x] Brother in Arms
+- [ ] On Every Street
+- [ ] Money for Nothing
+
+#### Which British Royal was known as Captain Wales?
+
+- [x] Prince Harry
+- [ ] Prince William
+- [ ] King Charles
+
+#### What did the PB in Mars's PB Max stand for?
+
+- [x] Peanut Butter
+- [ ] Petulant Baboons
+- [ ] Placid Boxes
+
+#### What is the name of the LEGO brand geared towards young children?
+
+- [x] Duplo
+- [ ] Dua Lipa
+- [ ] Duchovny
