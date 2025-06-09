@@ -59422,12 +59422,6 @@
 - [ ] Baltimore and Miami
 - [x] Manhattan and New England
 
-#### Joe Montana, Tom Brady, and Peyton Manning are all famous for playing n what league?
-
-- [ ] MLB
-- [ ] NHL
-- [x] NFL
-
 #### TikTok-er doggface208 became a sensation for a video where he skateboards while drinking what?
 
 - [ ] Champagne
@@ -66207,3 +66201,27 @@
 - [x] Duplo
 - [ ] Dua Lipa
 - [ ] Duchovny
+
+#### Which of these companies delivers razors?
+
+- [x] Dollar Shave Club
+- [ ] Home Chef
+- [ ] Sun Daily
+
+#### How are quarterbacks Eli and Peytonn Manning related?
+
+- [x] Brothers
+- [ ] Father and Son
+- [ ] Cousins
+
+#### What fast food chain is known for its "drive-in" restaurants?
+
+- [x] Sonic
+- [ ] Five Guys
+- [ ] Subway
+
+#### What bird is famous for mimicking human speech?
+
+- [x] Parrot
+- [ ] Penguin
+- [ ] Puffin
