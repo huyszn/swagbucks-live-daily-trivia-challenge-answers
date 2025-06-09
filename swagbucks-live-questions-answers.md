@@ -66225,3 +66225,27 @@
 - [x] Parrot
 - [ ] Penguin
 - [ ] Puffin
+
+#### Which country uses the most languages?
+
+- [ ] Indonesia
+- [ ] Nigeria
+- [x] Papua New Guinea
+
+#### In "Jonas", who did the Jonas Brothers play?
+
+- [x] Themselves
+- [ ] Plumbers
+- [ ] Butlers
+
+#### What punctuation is used to denote a contraction?
+
+- [x] Apostrophe
+- [ ] Exclamation Point
+- [ ] Parentheses
+
+#### Anna Wintour is the editor-in-chief of which fashion magazine?
+
+- [x] Vogue
+- [ ] Scarfs Weekly
+- [ ] All About Shoes
