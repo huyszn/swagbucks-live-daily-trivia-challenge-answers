@@ -66249,3 +66249,99 @@
 - [x] Vogue
 - [ ] Scarfs Weekly
 - [ ] All About Shoes
+
+#### What Star Wars movie introduced us to Rey, Finn, and Kylo Ren?
+
+- [x] The Force Awakens
+- [ ] Return of the Jedi
+- [ ] The Phantom Menace
+
+#### When Congress passed the 1918 Revenue Act, how much did the highest bracket pay?
+
+- [x] 77%
+- [ ] 80%
+- [ ] 30%
+
+#### In which State do the guys from Dude Perfect live?
+
+- [ ] Ohio
+- [x] Texas
+- [ ] New York
+
+#### Traditionally, what color are Donald Duck's shirt and hat?
+
+- [x] Blue
+- [ ] Purple
+- [ ] Orange
+
+#### In 1937's "Snow White and the Seven Dwarfs", which dwarf doesn't speak?
+
+- [ ] Bashful
+- [ ] Grumpy
+- [x] Dopey
+
+#### "Part of Your World" is the want song for which Disney Princess?
+
+- [ ] Belle
+- [x] Ariel
+- [ ] Moana
+
+#### In "Pete's Dragon", what is the name of his dragon?
+
+- [x] Elliot
+- [ ] Lampy
+- [ ] Grogan
+
+#### What kind of animal bit off Captain Hook's hand?
+
+- [ ] Hawk
+- [x] Crocodile
+- [ ] Dog
+
+#### Which Mickey Mouse short was the first animated short with synchronized sound?
+
+- [x] Steamboat Willie
+- [ ] The Barn Dance
+- [ ] When the Cat's Away
+
+#### Wreck-It Ralph is the bad guy in which arcade machine?
+
+- [ ] Home Wrecker
+- [ ] Donkey Kong
+- [x] Fix-It Felix Jr.
+
+#### What was Goofy's original name?
+
+- [ ] Dizzy Dawg
+- [x] Dippy Dawg
+- [ ] Daffy Dawg
+
+#### What kind of animal is Pumbaa?
+
+- [x] Warthog
+- [ ] Toucan
+- [ ] Shark
+
+#### What does Cinderella leave behind when she rushes home at midnight?
+
+- [ ] Tiara
+- [ ] Glove
+- [x] Glass Slipper
+
+#### In accounting, what does P&L stand for?
+
+- [ ] Pepper & Lemon
+- [ ] Peter & Larry
+- [x] Profit & Loss
+
+#### Which of these children's book characters started as a bedtime story the writer told their children?
+
+- [ ] Paddington Bear
+- [x] Babar The Elephant
+- [ ] Ramona Quimby
+
+#### Which of these Disney characters is a dog? (REPEATED QUESTION WITH DIFFERENT ANSWERS)
+
+- [ ] Mickey Mouse
+- [ ] Donald Duck
+- [x] Pluto
