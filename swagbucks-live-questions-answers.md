@@ -66345,3 +66345,39 @@
 - [ ] Mickey Mouse
 - [ ] Donald Duck
 - [x] Pluto
+
+#### Complete the name of this outdoor game: "Capture the..."
+
+- [x] Flag
+- [ ] Moment
+- [ ] Spider
+
+#### What is the symbol for Potassium on the periodic table?
+
+- [ ] That Prince Symbol
+- [ ] Some WingDings
+- [x] K
+
+#### Amelia Earhart once took which First Lady joyriding in a plane?
+
+- [ ] Grace Coolidge
+- [ ] Lou Henry Hoover
+- [x] Eleanor Roosevelt
+
+#### What kind of animal serves as the mascot for Kellogg's Honey Smacks?
+
+- [ ] Bee
+- [x] Frog
+- [ ] Cat
+
+#### The tendency of objects to stay in motion or stay still is an example of what law of physics?
+
+- [x] Inertia
+- [ ] Innovation
+- [ ] Insulation
+
+#### Which of the following people did NOT sign the Declaration of Independence?
+
+- [ ] Josiah Bartlett
+- [x] George Washington
+- [ ] Samuel Chase
