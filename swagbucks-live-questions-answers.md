@@ -66381,3 +66381,75 @@
 - [ ] Josiah Bartlett
 - [x] George Washington
 - [ ] Samuel Chase
+
+#### According to legend, what causes a werewolf to change its form?
+
+- [ ] Water
+- [x] A full moon
+- [ ] Music
+
+#### What determines the color of human skin?
+
+- [x] Pigmentation
+- [ ] Moisture
+- [ ] Eyesight
+
+#### The "Gilcked" phenomenon from the Summer of 2024 happened when "Gladiator II" released the same day as what other hit?
+
+- [ ] Wicker Man
+- [ ] Anora
+- [x] Wicked
+
+#### Big Bird, Grover, and Elmo are characters on what children's show?
+
+- [ ] Zoboomafoo
+- [ ] The Electric Company
+- [x] Sesame Street
+
+#### Whick of the following US Presidents was a Quaker?
+
+- [ ] James Madison
+- [x] Richard Nixon
+- [ ] Chester A. Arthur
+
+#### What is substituted for the tradtional bread on a McGriddle breakfast sandwich?
+
+- [ ] Pita
+- [ ] Peanut Butter
+- [x] Pancakes
+
+#### Which Marvel "Merc With A Mouth" had a hit 2024 movie crossing over with Wolverine?
+
+- [x] Deadpool
+- [ ] Killshot
+- [ ] Hugo Strange
+
+#### In which country does superstition say you shouldn't chew gum after dark?
+
+- [ ] Ireland
+- [x] Turkey
+- [ ] Egypt
+
+#### In 4/4 time, how many beats are there in a measure?
+
+- [x] 4
+- [ ] 7
+- [ ] 15
+
+#### Who wrote "The Great Gatsby"?
+
+- [ ] William Shakespeare
+- [ ] Ernest Hemingway
+- [x] F. Scott Fitzgerald
+
+#### Complete this qutoe from "The Godfather": "I'm gonna make him an offer he can't..."
+
+- [ ] Receive
+- [x] Refuse
+- [ ] Recycle
+
+#### Which actress provided the screenwriter of "Beauty & the Beast" with inspiration for the character of Belle?
+
+- [ ] Sherri Stoner
+- [x] Katharine Hepburn
+- [ ] Julia Roberts
