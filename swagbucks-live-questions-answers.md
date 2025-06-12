@@ -66381,3 +66381,135 @@
 - [ ] Josiah Bartlett
 - [x] George Washington
 - [ ] Samuel Chase
+
+#### According to legend, what causes a werewolf to change its form?
+
+- [ ] Water
+- [x] A full moon
+- [ ] Music
+
+#### What determines the color of human skin?
+
+- [x] Pigmentation
+- [ ] Moisture
+- [ ] Eyesight
+
+#### The "Gilcked" phenomenon from the Summer of 2024 happened when "Gladiator II" released the same day as what other hit?
+
+- [ ] Wicker Man
+- [ ] Anora
+- [x] Wicked
+
+#### Big Bird, Grover, and Elmo are characters on what children's show?
+
+- [ ] Zoboomafoo
+- [ ] The Electric Company
+- [x] Sesame Street
+
+#### Whick of the following US Presidents was a Quaker?
+
+- [ ] James Madison
+- [x] Richard Nixon
+- [ ] Chester A. Arthur
+
+#### What is substituted for the traditional bread on a McGriddle breakfast sandwich?
+
+- [ ] Pita
+- [ ] Peanut Butter
+- [x] Pancakes
+
+#### Which Marvel "Merc With A Mouth" had a hit 2024 movie crossing over with Wolverine?
+
+- [x] Deadpool
+- [ ] Killshot
+- [ ] Hugo Strange
+
+#### In which country does superstition say you shouldn't chew gum after dark?
+
+- [ ] Ireland
+- [x] Turkey
+- [ ] Egypt
+
+#### In 4/4 time, how many beats are there in a measure?
+
+- [x] 4
+- [ ] 7
+- [ ] 15
+
+#### Who wrote "The Great Gatsby"?
+
+- [ ] William Shakespeare
+- [ ] Ernest Hemingway
+- [x] F. Scott Fitzgerald
+
+#### Complete this quote from "The Godfather": "I'm gonna make him an offer he can't..."
+
+- [ ] Receive
+- [x] Refuse
+- [ ] Recycle
+
+#### Which actress provided the screenwriter of "Beauty & the Beast" with inspiration for the character of Belle?
+
+- [ ] Sherri Stoner
+- [x] Katharine Hepburn
+- [ ] Julia Roberts
+
+#### Which of these cookout dishes is traditionally served in a bun?
+
+- [x] Hamburger
+- [ ] Cole Slaw
+- [ ] Potato Chips
+
+#### Hebrew National, Ballpark, and Oscar Mayer are all brands of which cookout classic?
+
+- [ ] Ribs
+- [ ] Pickles
+- [x] Hot Dogs
+
+#### What potato chip brand is famous for its ridges?
+
+- [ ] Baked Lays
+- [x] Ruffles
+- [ ] Kettle
+
+#### Which region's style of BBQ sauce is mostly vinegar-based?
+
+- [x] North Carolina
+- [ ] Memphis
+- [ ] Kansas City
+
+#### What pasta shape is usually combined warm with cheese or served cold as a salad at barbecues?
+
+- [ ] Linguini
+- [ ] Tagliatelle
+- [x] Macaroni
+
+#### What cookout staple originated in Ancient Rome?
+
+- [ ] Potato Salad
+- [x] Deviled Eggs
+- [ ] Baked Beans
+
+#### In what portions are ribs traditionally served?
+
+- [x] Racks
+- [ ] Patties
+- [ ] Bowls
+
+#### Where was chicken fried in fat born?
+
+- [ ] France
+- [x] Scotland
+- [ ] Kentucky
+
+#### What vegetable serves as the base for coleslaw?
+
+- [ ] Mushroom
+- [x] Cabbage
+- [ ] Watercress
+
+#### Igloo commonly sells which barbecue item?
+
+- [x] Cooler
+- [ ] Blanket
+- [ ] Charcoal
