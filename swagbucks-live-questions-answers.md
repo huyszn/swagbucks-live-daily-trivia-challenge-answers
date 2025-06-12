@@ -66525,3 +66525,21 @@
 - [x] Penny
 - [ ] Nickel
 - [ ] Dime
+
+#### Which of these foods is traditionally served frozen?
+
+- [ ] French Onion Soup
+- [ ] Breadsticks
+- [x] Popsicles
+
+#### Captain's Mistress was an earlier version of what board game?
+
+- [ ] Clue
+- [x] Connect Four
+- [ ] Mastermind
+
+#### Au is the symbol for what valuable chemical element?
+
+- [x] Gold
+- [ ] Neon
+- [ ] Argon
