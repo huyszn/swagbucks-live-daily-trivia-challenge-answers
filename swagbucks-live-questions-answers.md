@@ -66513,3 +66513,15 @@
 - [x] Cooler
 - [ ] Blanket
 - [ ] Charcoal
+
+#### What is the Latin word for poison?
+
+- [ ] Bacterium
+- [ ] Poison
+- [x] Virus
+
+#### In "Big Bang Theory', what is the name of Leonard's main love interest?
+
+- [x] Penny
+- [ ] Nickel
+- [ ] Dime
