@@ -66412,7 +66412,7 @@
 - [x] Richard Nixon
 - [ ] Chester A. Arthur
 
-#### What is substituted for the tradtional bread on a McGriddle breakfast sandwich?
+#### What is substituted for the traditional bread on a McGriddle breakfast sandwich?
 
 - [ ] Pita
 - [ ] Peanut Butter
@@ -66442,7 +66442,7 @@
 - [ ] Ernest Hemingway
 - [x] F. Scott Fitzgerald
 
-#### Complete this qutoe from "The Godfather": "I'm gonna make him an offer he can't..."
+#### Complete this quote from "The Godfather": "I'm gonna make him an offer he can't..."
 
 - [ ] Receive
 - [x] Refuse
@@ -66453,3 +66453,63 @@
 - [ ] Sherri Stoner
 - [x] Katharine Hepburn
 - [ ] Julia Roberts
+
+#### Which of these cookout dishes is traditionally served in a bun?
+
+- [x] Hamburger
+- [ ] Cole Slaw
+- [ ] Potato Chips
+
+#### Hebrew National, Ballpark, and Oscar Mayer are all brands of which cookout classic?
+
+- [ ] Ribs
+- [ ] Pickles
+- [x] Hot Dogs
+
+#### What potato chip brand is famous for its ridges?
+
+- [ ] Baked Lays
+- [x] Ruffles
+- [ ] Kettle
+
+#### Which region's style of BBQ sauce is mostly vinegar-based?
+
+- [x] North Carolina
+- [ ] Memphis
+- [ ] Kansas City
+
+#### What pasta shape is usually combined warm with cheese or served cold as a salad at barbecues?
+
+- [ ] Linguini
+- [ ] Tagliatelle
+- [x] Macaroni
+
+#### What cookout staple originated in Ancient Rome?
+
+- [ ] Potato Salad
+- [x] Deviled Eggs
+- [ ] Baked Beans
+
+#### In what portions are ribs traditionally served?
+
+- [x] Racks
+- [ ] Patties
+- [ ] Bowls
+
+#### Where was chicken fried in fat born?
+
+- [ ] France
+- [x] Scotland
+- [ ] Kentucky
+
+#### What vegetable serves as the base for coleslaw?
+
+- [ ] Mushroom
+- [x] Cabbage
+- [ ] Watercress
+
+#### Igloo commonly sells which barbecue item?
+
+- [x] Cooler
+- [ ] Blanket
+- [ ] Charcoal
