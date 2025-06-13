@@ -66603,3 +66603,15 @@
 - [ ] Brutalist
 - [x] Cutesy
 - [ ] Mid-century Modern
+
+#### Which of these Britney Spears songs was released first?
+
+- [ ] Toxic
+- [ ] Stronger
+- [x] ...Baby One More Time
+
+#### Which horror character would induce catoptrophobia?
+
+- [x] Candyman
+- [ ] Leatherface
+- [ ] Pennywise
