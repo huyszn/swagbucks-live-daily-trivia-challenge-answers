@@ -66615,3 +66615,21 @@
 - [x] Candyman
 - [ ] Leatherface
 - [ ] Pennywise
+
+#### In which country did the world's longest-ever concert take place?
+
+- [x] Canada
+- [ ] Germany
+- [ ] Japan
+
+#### Which of these restaurants is known for burritos?
+
+- [ ] McDonald's
+- [ ] Dairy Queen
+- [x] Chipotle
+
+#### In Herman Melville's famous novel, Captain Ahab seeks revenge against whom?
+
+- [ ] A crocodile
+- [x] Moby Dick
+- [ ] Blackbeard
