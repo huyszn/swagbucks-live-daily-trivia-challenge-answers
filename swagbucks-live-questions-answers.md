@@ -66525,3 +66525,81 @@
 - [x] Penny
 - [ ] Nickel
 - [ ] Dime
+
+#### Which of these foods is traditionally served frozen?
+
+- [ ] French Onion Soup
+- [ ] Breadsticks
+- [x] Popsicles
+
+#### Captain's Mistress was an earlier version of what board game?
+
+- [ ] Clue
+- [x] Connect Four
+- [ ] Mastermind
+
+#### Au is the symbol for what valuable chemical element?
+
+- [x] Gold
+- [ ] Neon
+- [ ] Argon
+
+#### Since 1987, the Super Bowl MVP has made a publicized trip to which theme park after winning?
+
+- [x] Disneyland/Walt Disney World
+- [ ] Busch Gardens
+- [ ] Action Park
+
+#### "Yada yada yada" is a famous quote from an episode of what sitcom?
+
+- [ ] The Single Guy
+- [x] Seinfeld
+- [ ] Union Square
+
+#### Complete this Ernest Hemingway title: "The Old Man and the"...
+
+- [x] Sea
+- [ ] Table
+- [ ] Meal
+
+#### Which reality show had its origins as a segment on the British show Network 7?
+
+- [ ] So You Think You Can Dance?
+- [ ] Big Brother
+- [x] Survivor
+
+#### In "Star Wars: A New Hope", what holographic chess strategy does C-3PO suggest to R2D2?
+
+- [ ] Sacrifice the pawn
+- [x] Let the Wookiee win
+- [ ] Make sure you go first
+
+#### Where is the Acropolis located?
+
+- [x] Greece
+- [ ] Italy
+- [ ] Estonia
+
+#### What book's original cover was inspired by the American Museum of Natural History?
+
+- [ ] Catcher in the Rye
+- [ ] To Kill A Mockingbird
+- [x] Jurassic Park
+
+#### What kind of galaxy are we a part of?
+
+- [ ] Elliptical
+- [x] Spiral
+- [ ] Andromeda
+
+#### Spam is prominently featured in which type of cultural cuisine?
+
+- [ ] French
+- [ ] Italian
+- [x] Hawaiian
+
+#### Which of the following is NOT a widely accepted architectural style?
+
+- [ ] Brutalist
+- [x] Cutesy
+- [ ] Mid-century Modern
