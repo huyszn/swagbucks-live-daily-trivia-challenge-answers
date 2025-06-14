@@ -38233,10 +38233,10 @@
 - [x] Dominoes
 - [ ] Don't Break The Ice
 
-#### the number "Summer Lovin" can be found in which Broadway musical?
+#### The number "Summer Lovin" can be found in which Broadway musical?
 
 - [x] Grease
-- [ ] Brigadon
+- [ ] Brigadoon
 - [ ] In The Heights
 
 #### Which Saint is also known as Santa Claus?
@@ -66633,3 +66633,33 @@
 - [ ] A crocodile
 - [x] Moby Dick
 - [ ] Blackbeard
+
+#### Cool Ranch and Spicy Nacho are two flavors of which chip brand?
+
+- [ ] Pringles
+- [ ] Ruffles
+- [x] Doritos
+
+#### How many roles in "Dr. Strangelove" are played by Peter Sellers?
+
+- [ ] 2
+- [x] 3
+- [ ] 4
+
+#### Which of the following is NOT part of a standard drum kit?
+
+- [ ] Snare drum
+- [ ] Kick Drum
+- [x] Little Drummer Boy
+
+#### Joe DiMaggio was known by what nickname?
+
+- [x] The Yankee Clipper
+- [ ] Air Jordan
+- [ ] The Babe
+
+#### Who is the villain in "Terminator 2: Judgement Day"?
+
+- [ ] Vilos Cohaagen
+- [ ] Bennett
+- [x] T-1000
