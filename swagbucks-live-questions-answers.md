@@ -66663,3 +66663,9 @@
 - [ ] Vilos Cohaagen
 - [ ] Bennett
 - [x] T-1000
+
+#### What nickname is traditionally used for Wednesday?
+
+- [ ] Good 'Ol Wedsy
+- [ ] Saturday
+- [x] Hump Day
