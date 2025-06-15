@@ -66693,3 +66693,15 @@
 - [ ] Chipotle
 - [ ] Taco Bell
 - [x] Qdoba
+
+#### What is the term for a doctor who specializes in treating children?
+
+- [ ] Dermatologist
+- [x] Pediatrician
+- [ ] Dentist
+
+#### What food is made by whipping egg whites?
+
+- [ ] Butter
+- [ ] Fondue
+- [x] Meringue
