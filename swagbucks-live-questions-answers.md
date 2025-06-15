@@ -66669,3 +66669,27 @@
 - [ ] Good 'Ol Wedsy
 - [ ] Saturday
 - [x] Hump Day
+
+#### What Kraft meal is sold in a blue box?
+
+- [ ] Beef Stew
+- [x] Macaroni and Cheese
+- [ ] Ham Tartare
+
+#### Who was elected President of the United States in November of 2008?
+
+- [ ] George W. Bush
+- [ ] Bill Clinton
+- [x] Barack Obama
+
+#### Boston Market restaurants originally went by what name?
+
+- [x] Boston Chicken
+- [ ] Boston Can I Just Have A Bunch of Sides?
+- [ ] Boston Great Cornbread
+
+#### What chain was once sued by Panera, who claimed that a burrito was a sandwich?
+
+- [ ] Chipotle
+- [ ] Taco Bell
+- [x] Qdoba
