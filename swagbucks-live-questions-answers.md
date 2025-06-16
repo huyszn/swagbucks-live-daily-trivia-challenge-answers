@@ -66705,3 +66705,27 @@
 - [ ] Butter
 - [ ] Fondue
 - [x] Meringue
+
+#### Luke Skywalker is the twin brother of what other Star Wars character?
+
+- [ ] Chewbacca
+- [ ] Han Solo
+- [x] Princess Leia
+
+#### When your car is an EV, what does that mean?
+
+- [ ] Elegant Villain
+- [x] Electric Vehicle
+- [ ] Erstwhile Villager
+
+#### Which of the following is a cooking competition show?
+
+- [ ] Making It
+- [x] Masterchef
+- [ ] Big Brother
+
+#### On July 31st, 2008, NASA announced that its Phoenix lander had discovered water on what planet?
+
+- [ ] Venus
+- [ ] Saturn
+- [x] Mars
