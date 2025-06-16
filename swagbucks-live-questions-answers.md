@@ -55903,7 +55903,7 @@
 - [ ] Las Vegas
 - [ ] New Orleans
 
-#### Who both recorded "Power of Live" AND appeared in "Back to the Future"?
+#### Who both recorded "Power of Love" AND appeared in "Back to the Future"?
 
 - [ ] Daryl Hall
 - [ ] El DeBarg
@@ -66729,3 +66729,27 @@
 - [ ] Venus
 - [ ] Saturn
 - [x] Mars
+
+#### Which of the following is NOT one of the seven dwarves?
+
+- [ ] Sleepy
+- [x] Hangry
+- [ ] Dopey
+
+#### Who was the first Windsor monarch of the UK?
+
+- [ ] Edward VIII
+- [ ] Charles III
+- [x] George V
+
+#### Bouldering is a type of what?
+
+- [x] Rock Climbing
+- [ ] Baking
+- [ ] Callgraphy
+
+#### What is Hebrew for both "hello" and "goodbye"?
+
+- [ ] Aloha
+- [x] Shamon
+- [ ] Bonjour
