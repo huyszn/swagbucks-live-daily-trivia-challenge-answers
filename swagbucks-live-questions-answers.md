@@ -66843,3 +66843,15 @@
 - [x] Wedge
 - [ ] Putter
 - [ ] Driver
+
+#### According to proper medieval training, what do you call someone in the last stage before becoming a Knight?
+
+- [ ] Lord
+- [x] Squire
+- [ ] Page
+
+#### YouTuber Collen Ballinger is better known by what alias?
+
+- [ ] Jenna Marbles
+- [x] Miranda Sings
+- [ ] Mr. Beast
