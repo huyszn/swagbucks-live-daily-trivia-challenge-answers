@@ -53395,12 +53395,6 @@
 - [ ] The Green Album
 - [ ] The Paid Album
 
-#### In which board game are you not supposed to see your opponent's pieces?
-
-- [ ] Mancala
-- [x] Battleship
-- [ ] Don't Break the Ice
-
 #### What nursery rhyme couple went up the hill to fetch a pail of water?
 
 - [x] Jack and Jill
@@ -55903,7 +55897,7 @@
 - [ ] Las Vegas
 - [ ] New Orleans
 
-#### Who both recorded "Power of Live" AND appeared in "Back to the Future"?
+#### Who both recorded "Power of Love" AND appeared in "Back to the Future"?
 
 - [ ] Daryl Hall
 - [ ] El DeBarg
@@ -66729,3 +66723,123 @@
 - [ ] Venus
 - [ ] Saturn
 - [x] Mars
+
+#### Which of the following is NOT one of the seven dwarves?
+
+- [ ] Sleepy
+- [x] Hangry
+- [ ] Dopey
+
+#### Who was the first Windsor monarch of the UK?
+
+- [ ] Edward VIII
+- [ ] Charles III
+- [x] George V
+
+#### Bouldering is a type of what?
+
+- [x] Rock Climbing
+- [ ] Baking
+- [ ] Callgraphy
+
+#### What is Hebrew for both "hello" and "goodbye"?
+
+- [ ] Aloha
+- [x] Shamon
+- [ ] Bonjour
+
+#### Carly Rae Jepsen had a 2012 hit with what song?
+
+- [x] Call Me Maybe
+- [ ] Did I Just Miss Your Call?
+- [ ] Do Not Call List
+
+#### What kind of lovers are Romeo and Juliet known as?
+
+- [x] Star-Crossed
+- [ ] Star-Trekked
+- [ ] Star-Lorded
+
+#### What newspaper was the subject of the book "The Making of McPaper"?
+
+- [x] USA Today
+- [ ] The New York Times
+- [ ] The Wall Street Journal
+
+#### Johannes Vermeer famously painted a piece called "The Girl with the Peral"...?
+
+- [ ] Of wisdom about mortages
+- [ ] Onions
+- [x] Earring
+
+#### In the game "Don't Break The Ice", what animal are you trying to keep from falling through the ice?
+
+- [ ] Grizzly Bear
+- [x] Penguin
+- [ ] Dog
+
+#### Which of these artifacts was not featured in an Indiana Jones movie?
+
+- [ ] Ark of the Covenant
+- [ ] The Holy Grail
+- [x] The Golden Scarab of Agrabah
+
+#### In which of the card games are you trying to get rid of all your cards?
+
+- [ ] Poker
+- [ ] Blackjack
+- [x] Uno
+
+#### What is Gatorade's slogan?
+
+- [ ] Oh No, It's in You!
+- [x] Is It In You?
+- [ ] It Taste Fine, Don't Complain
+
+#### Which of the following is NOT of the 3 branches of the U.S. Government?
+
+- [ ] Judicial
+- [ ] Executive
+- [x] Mechanical
+
+#### What is the first book in the Lord of the Rings series?
+
+- [x] The Fellowship of the Ring
+- [ ] The Two Towers
+- [ ] The Return of the King
+
+#### Which of the following condiments traditionally has egg yolks as a principal ingredient?
+
+- [ ] Ketchup
+- [x] Mayonnaise
+- [ ] Relish
+
+#### Which of the following publicaions was originally known for music journalism?
+
+- [x] Rolling Stone
+- [ ] Newsweek
+- [ ] Vogue
+
+#### Which of the following is NOT one of the original 10 Monopoly tokens?
+
+- [ ] Lantern
+- [ ] Boot
+- [x] Scottie Dog
+
+#### The series "1883" and "1923" are spin offs of what popular TV series?
+
+- [x] Yellowstone
+- [ ] Monty Python's Flying Circus
+- [ ] Friends
+
+#### John F. Kennedy had a well-publicized affair with what actress?
+
+- [ ] Katharine Hepburn
+- [ ] Grace Kelly
+- [x] Marilyn Monroe
+
+#### What golf club are you supposed to use while in a sand trap?
+
+- [x] Wedge
+- [ ] Putter
+- [ ] Driver
