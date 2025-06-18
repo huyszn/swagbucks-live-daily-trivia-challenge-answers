@@ -66939,3 +66939,57 @@
 - [ ] Up
 - [x] Inside Out
 - [ ] Toy Story 3
+
+#### What is the name of the daughter in "The Addams Family"?
+
+- [ ] Tuesday
+- [x] Wednesday
+- [ ] Saturday
+
+#### Which one of these games was NOT invented by legendary toymaker Marvin Glass?
+
+- [ ] Operation
+- [ ] Gnip Gnop
+- [x] Connect Four
+
+#### Fanny Brice is the main character of what musical?
+
+- [ ] She Loves Me
+- [x] Funny Girl
+- [ ] Fame
+
+#### Where was teriyaki sauce first served?
+
+- [ ] Japan
+- [x] Hawaii
+- [ ] Canada
+
+#### The Brandenburg Gate, a symbol of German reunification, is situated in which city?
+
+- [x] Berlin
+- [ ] Munich
+- [ ] Frankfurt
+
+#### Traditionally, how many Ancient Wonders of the World are there?
+
+- [ ] 5
+- [ ] 6
+- [x] 7
+
+#### Which of these items is NOT mentioned in the song American Pie?
+
+- [ ] Church bells
+- [ ] A carnation
+- [x] A guitar
+
+#### Which of the following TV shows is set in Middle Earth?
+
+- [x] The Rings of Power
+- [ ] Monarch
+- [ ] She-Hulk
+
+#### The Yearbook Girl in "Can't Hardly Wait" played what other famous teenager?
+
+- [x] Sabrina Spellman
+- [ ] Buffy Summers
+- [ ] Cady Heron
