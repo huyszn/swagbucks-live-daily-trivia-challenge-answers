@@ -34879,12 +34879,6 @@
 - [ ] Stephen Colbert
 - [x] Jimmy Kimmel
 
-#### What country calls Cairo its capital?
-
-- [x] Egypt
-- [ ] Ghana
-- [ ] Italy
-
 #### Barack Obama's 2008 Presidential campaign used what chant to fire up crowds?
 
 - [x] Yes We Can
@@ -66843,3 +66837,75 @@
 - [x] Wedge
 - [ ] Putter
 - [ ] Driver
+
+#### According to proper medieval training, what do you call someone in the last stage before becoming a Knight?
+
+- [ ] Lord
+- [x] Squire
+- [ ] Page
+
+#### YouTuber Collen Ballinger is better known by what alias?
+
+- [ ] Jenna Marbles
+- [x] Miranda Sings
+- [ ] Mr. Beast
+
+#### In the United States, what number is considered to be unlucky?
+
+- [ ] 1
+- [x] 13
+- [ ] 0
+
+#### The Silk Road is an example of what kind of historic route?
+
+- [x] Trade Route
+- [ ] Championship Route
+- [ ] School Route
+
+#### Which creature travels in a group called a Gaggle?
+
+- [ ] Goats
+- [ ] Goldfish
+- [x] Geese
+
+#### What food brand once famously claimed "Babies are our business."?
+
+- [x] Gerber
+- [ ] Betty Crocker
+- [ ] Hot Pockets
+
+#### Cairo the Dog was an essential military service dog during which operation?
+
+- [ ] Operation Paperclip
+- [x] Operation Neptune Spear
+- [ ] Operation Overlord
+
+#### In Wordle, how many guesses do you get to solve the puzzle?
+
+- [x] Six
+- [ ] Ten
+- [ ] Four Hundred
+
+#### Which of the following artists was known for Reggae music?
+
+- [ ] Bobby Darin
+- [ ] Bill Withers
+- [x] Bob Marley
+
+#### What is the only part of the human body that cannot heal itself?
+
+- [ ] Tongue
+- [x] Teeth
+- [ ] Skin
+
+#### Which of the following is NOT the subtitle of a Star Trek movie?
+
+- [ ] The Search for Spock
+- [ ] The Wrath of Khan
+- [x] Diamonds Are Forever
+
+#### Mama June is the actual mama of what other reality star?
+
+- [x] Honey Boo Boo
+- [ ] Tom Sandoval
+- [ ] Kate Gosselin
