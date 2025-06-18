@@ -18237,7 +18237,7 @@
 
 #### Ferdinand Magellan was the first person to guide a crew to what feat?
 
-- [x] Circummnavigated the globe the globe
+- [x] Circumnavigated the globe
 - [ ] Climbed Mount Everest
 - [ ] Piloted a submarine
 
@@ -66909,3 +66909,33 @@
 - [x] Honey Boo Boo
 - [ ] Tom Sandoval
 - [ ] Kate Gosselin
+
+#### What do you normally top a birthday cake with?
+
+- [ ] Rocks
+- [x] Candles
+- [ ] Paper
+
+#### Which word is an example of onomatopoeia?
+
+- [ ] John Belushi
+- [ ] Jim Belushi
+- [x] Clunk
+
+#### What toy was invented by Yale students tossing around pie tins?
+
+- [x] Frisbee
+- [ ] Wiffle Ball
+- [ ] Yo-Yo
+
+#### The PlayStation is distributed by what company?
+
+- [x] Sony
+- [ ] Nintendo
+- [ ] Microsoft
+
+#### Which of these Pixar animated films was NOT nominated for Best Picture?
+
+- [ ] Up
+- [x] Inside Out
+- [ ] Toy Story 3
