@@ -67053,3 +67053,27 @@
 - [ ] Princess Peach
 - [ ] Link
 - [x] Scorpion
+
+#### Which of these Calvin and Hobbes collections is the oldest?
+
+- [x] Yukon Ho!
+- [ ] Weridos From Another Planet
+- [ ] Revenge of the Baby-Sat
+
+#### Who starred in movies like Drive, The Notebook, and La La Land?
+
+- [ ] Matt Damon
+- [ ] Ansel Elgort
+- [x] Ryan Gosling
+
+#### Which of these vegetables is green when ripe?
+
+- [x] Broccoli
+- [ ] Cauliflower
+- [ ] Radish
+
+#### Which of these was NOT a fake show on SCTV?
+
+- [ ] Lunchtime Street Beef
+- [ ] The Fishin' Musican
+- [x] Cat Chat
