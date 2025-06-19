@@ -66939,3 +66939,117 @@
 - [ ] Up
 - [x] Inside Out
 - [ ] Toy Story 3
+
+#### What is the name of the daughter in "The Addams Family"?
+
+- [ ] Tuesday
+- [x] Wednesday
+- [ ] Saturday
+
+#### Which one of these games was NOT invented by legendary toymaker Marvin Glass?
+
+- [ ] Operation
+- [ ] Gnip Gnop
+- [x] Connect Four
+
+#### Fanny Brice is the main character of what musical?
+
+- [ ] She Loves Me
+- [x] Funny Girl
+- [ ] Fame
+
+#### Where was teriyaki sauce first served?
+
+- [ ] Japan
+- [x] Hawaii
+- [ ] Canada
+
+#### The Brandenburg Gate, a symbol of German reunification, is situated in which city?
+
+- [x] Berlin
+- [ ] Munich
+- [ ] Frankfurt
+
+#### Traditionally, how many Ancient Wonders of the World are there?
+
+- [ ] 5
+- [ ] 6
+- [x] 7
+
+#### Which of these items is NOT mentioned in the song American Pie?
+
+- [ ] Church bells
+- [ ] A carnation
+- [x] A guitar
+
+#### Which of the following TV shows is set in Middle Earth?
+
+- [x] The Rings of Power
+- [ ] Monarch
+- [ ] She-Hulk
+
+#### The Yearbook Girl in "Can't Hardly Wait" played what other famous teenager?
+
+- [x] Sabrina Spellman
+- [ ] Buffy Summers
+- [ ] Cady Heron
+
+#### According to the proverb, a stitch in time saves what?
+
+- [ ] Your behind
+- [ ] Five dollars
+- [x] Nine
+
+#### What kind of poem did Shakespeare wrjte 154 of?
+
+- [x] Sonnets
+- [ ] Haiku
+- [ ] Limericks
+
+#### When someone is "Rickrolled", whose music video do they wind up seeing?
+
+- [ ] Rick Springfield
+- [ ] Ricky Nelson
+- [x] Rick Astley
+
+#### Which animal's blood was instrumental to fighting diphtheria?
+
+- [x] Horse
+- [ ] Snake
+- [ ] Cat
+
+#### The Phanatic and Gritty are both mascots for sports teams in which city?
+
+- [ ] New York
+- [x] Philadelphia
+- [ ] Chicago
+
+#### Bluesky is a social media platform mosst similar to what other social media platform?
+
+- [ ] Instagram
+- [ ] Facebook
+- [x] Twitter
+
+#### Kathy Bates stars as the title character in a reboot of which 1980s show?
+
+- [ ] The Equalizer
+- [x] Matlock
+- [ ] Knight Rider
+
+#### Every episode of "Monty Python's Flying Circus" featured Michael Palin's withered man saying what single word?
+
+- [x] "It's"
+- [ ] "Tada"
+- [ ] "Welcome"
+
+#### What element is number 1 on the periodic table?
+
+- [x] Hydrogen
+- [ ] Curium
+- [ ] Xenon
+
+#### Which of the following characters is from Mortal Kombat?
+
+- [ ] Princess Peach
+- [ ] Link
+- [x] Scorpion
