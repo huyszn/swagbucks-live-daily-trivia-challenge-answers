@@ -67077,3 +67077,99 @@
 - [ ] Lunchtime Street Beef
 - [ ] The Fishin' Musican
 - [x] Cat Chat
+
+#### In Sue Grafton's alphabet series, what was "S" for?
+
+- [ ] Secrets
+- [ ] Suspicion
+- [x] Silence
+
+#### Which of these Florida headlines is ficitonal?
+
+- [ ] Wife Kidnapped by Holograms
+- [x] Baby Steals RV From Campground
+- [ ] Man Calls 911 to Check Tax Return
+
+#### Which of the following is a percussion instrumental?
+
+- [ ] Flute
+- [x] Triangle
+- [ ] Guitar
+
+#### Donald Pleasance's character in "Halloween" share his name with a character from what other scary movie?
+
+- [ ] The Omen
+- [ ] Poltergeist
+- [x] Psycho
+
+#### Which classic TV show was not a spin-off?
+
+- [x] Taxi
+- [ ] Mork and Mindy
+- [ ] Good Times
+
+#### Which of these words is Japanese for "Harbor Wave?"
+
+- [x] Tsunami
+- [ ] Sushi
+- [ ] Karaoke
+
+#### Which day of the week does Garfield the Cat hate?
+
+- [x] Monday
+- [ ] Thursday
+- [ ] Saturday
+
+#### In "Peanuts", where is Snoopy often found sleeping?
+
+- [ ] In Charlie Brown's bed
+- [ ] Under the kitchen table
+- [x] On top of his doghouse
+
+#### "In Calvin and Hobbes", what kind of animal is Hobbes?
+
+- [ ] Lion
+- [x] Tiger
+- [ ] Bear
+
+#### Beetle Bailey is related to a character from what other ocmic strip?
+
+- [ ] Funky Winkerbean
+- [ ] Tank McNamara
+- [x] Hi and Lois
+
+#### What comic strip's original run ended with a kidnapping?
+
+- [ ] Bloom County
+- [x] Annie
+- [ ] Fred Basset
+
+#### What is the name of Dennis the Menace's perpetually annoyed neighbor?
+
+- [x] Mr. Wilson
+- [ ] Mr. Johnson
+- [ ] Mr. Smith
+
+#### The "Thimble Theatre" comic strip was home to the first appearance of which cartoon character?
+
+- [ ] Bugs Bunny
+- [ ] Scrooge McDuck
+- [x] Popeye
+
+#### In the comic strip, what is Blondie's maiden name?
+
+- [ ] Messerstein
+- [x] Boopadoop
+- [ ] Crangledangle
+
+#### Which of these comic strips was created in England?
+
+- [x] Andy Capp
+- [ ] Foxtrot
+- [ ] Overboard
+
+#### What does Dick Tracy do for a living?
+
+- [ ] Actuary
+- [x] Police Detective
+- [ ] Short Order Cook
