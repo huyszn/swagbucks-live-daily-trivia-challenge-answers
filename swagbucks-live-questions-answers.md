@@ -67173,3 +67173,51 @@
 - [ ] Actuary
 - [x] Police Detective
 - [ ] Short Order Cook
+
+#### What country is home to the Leaning Tower of Pisa?
+
+- [ ] Turkey
+- [x] Italy
+- [ ] Greece
+
+#### The Louisiana Purchase was a deal between the United States and what European country?
+
+- [ ] Moldova
+- [ ] Croatia
+- [x] France
+
+#### In what year was the first Labor Day celebrated?
+
+- [ ] 1994
+- [x] 1882
+- [ ] 1909
+
+#### Steak out, Crinkle Cut, Shoestring and Waffle are all styles of what side dish?
+
+- [ ] Eggs
+- [x] French Fries
+- [ ] Pasta
+
+#### What actor first saw his wife in an advertisement for Maxwell House Coffee?
+
+- [x] Michael Caine
+- [ ] Steve Martin
+- [ ] Hugh Jackman
+
+#### Peking Duck is the National Dish of what country?
+
+- [x] China
+- [ ] Mexico
+- [ ] Germany
+
+#### Which heiress was kidnapped by the Symbionese Liberation Army?
+
+- [x] Patty Hearst
+- [ ] Kathleen Norris
+- [ ] Caroline Bouvier
+
+#### The tune for the Star Spangled Banner was taken from what kind of song?
+
+- [ ] Children's Song
+- [x] Drinking Song
+- [ ] Hyminal
