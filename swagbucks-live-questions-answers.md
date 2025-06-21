@@ -67215,3 +67215,9 @@
 - [x] Patty Hearst
 - [ ] Kathleen Norris
 - [ ] Caroline Bouvier
+
+#### The tune for the Star Spangled Banner was taken from what kind of song?
+
+- [ ] Children's Song
+- [x] Drinking Song
+- [ ] Hyminal
