@@ -67221,3 +67221,27 @@
 - [ ] Children's Song
 - [x] Drinking Song
 - [ ] Hyminal
+
+#### What field of study uses excavation sties to study human history and prehistory?
+
+- [ ] Astrophysics
+- [x] Archaeology
+- [ ] Aerodynamics
+
+#### What are Academy Awards given out for?
+
+- [x] Movies
+- [ ] TV Shows
+- [ ] Books
+
+#### Who uses the slogan "All The News That's Fit To Print"?
+
+- [ ] Kinko's
+- [ ] The Yellow Book
+- [x] The New York Times
+
+#### Ted Lasso is a popular series on which streaming service?
+
+- [ ] Hulu
+- [x] Apple TV+
+- [ ] Netflix
