@@ -67245,3 +67245,33 @@
 - [ ] Hulu
 - [x] Apple TV+
 - [ ] Netflix
+
+#### The Umbrella Corporation is a major part of what video game series?
+
+- [ ] Super Mario Bros
+- [x] Resident Evil
+- [ ] FIFA
+
+#### In broadcasting, what does NPR stand for?
+
+- [x] National Public Radio
+- [ ] Never Picking Radishes
+- [ ] Nice Porsche, Rebecca
+
+#### What was the content of the first commercial message sent into space?
+
+- [ ] A movie
+- [x] Craigslist ads
+- [ ] SMS Messages
+
+#### Which U.S. National Park shares its name with a U2 album?
+
+- [x] Joshua Tree
+- [ ] Zion
+- [ ] Arches
+
+#### Which fruit is sightly radioactive?
+
+- [ ] Kiwi
+- [ ] Strawberry
+- [x] Bananas
