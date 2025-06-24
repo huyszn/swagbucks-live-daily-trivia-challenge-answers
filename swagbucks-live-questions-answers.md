@@ -67335,3 +67335,63 @@
 - [x] Chimpanzees
 - [ ] Manta rays
 - [ ] Fire Ants
+
+#### According to legend, Achilles was held by which bone while dipped into the River Styx?
+
+- [ ] Metatarsal
+- [ ] Metacarpal
+- [x] Calcaneus
+
+#### Which of these scientists is credited with inventing the telephone?
+
+- [ ] Thomas Edison
+- [x] Alexander Graham Bell
+- [ ] Nikola Tesla
+
+#### Portugal is bordered by what other European country?
+
+- [ ] Italy
+- [x] Spain
+- [ ] France
+
+#### Which toy store chain features a giraffe as its mascot?
+
+- [x] Toys R Us
+- [ ] Kiddie City
+- [ ] Kay Bee
+
+#### Which of these was NOT a 1950's television quiz show?
+
+- [x] Know It All
+- [ ] Dotto
+- [ ] Who Do You Trust?
+
+#### In which room of a home would you most likely find a nightstand?
+
+- [ ] Bathroom
+- [x] Bedroom
+- [ ] Dining Room
+
+#### Which of the following is it OK for a Disney Parks Cast Member to do?
+
+- [x] Have facial hair
+- [ ] Say "I don't know"
+- [ ] Point with just an index finger
+
+#### During the Prohibition, Moonshiners would wear shoes that left the tracks of what animal?
+
+- [x] Cow
+- [ ] Horse
+- [ ] Goat
+
+#### What toy's jingle tells you to "turn on the magic of colored lights"?
+
+- [ ] Glo-Worm
+- [ ] Laser Tag
+- [x] Lite Brite
+
+#### Which former "Saved by the Bell" star is host on Access Hollywood?
+
+- [x] Mario Lopez
+- [ ] Mark-Paul Gosselaar
+- [ ] Lark Voorhies
