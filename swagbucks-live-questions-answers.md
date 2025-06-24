@@ -67395,3 +67395,33 @@
 - [x] Mario Lopez
 - [ ] Mark-Paul Gosselaar
 - [ ] Lark Voorhies
+
+#### Arachnophobia is a fear of what?
+
+- [ ] Mops
+- [x] Spiders
+- [ ] Falcons
+
+#### What band's debut album was 1991's "Ten"?
+
+- [x] Pearl Jam
+- [ ] Nirvana
+- [ ] Metallica
+
+#### What dessert is most cosely associated with birthday celebrations?
+
+- [ ] Doughnuts
+- [x] Cake
+- [ ] M&Ms
+
+#### The man who co-wrote Cyndi Lauper's "Time After Time" also wrote hits for his own band. What were they called?
+
+- [ ] Boomtown Rats
+- [ ] Tears for Fears
+- [x] The Hooters
+
+#### Which of these soups does NOT contain beets?
+
+- [ ] Chlodnik
+- [x] Gornisht
+- [ ] Borscht
