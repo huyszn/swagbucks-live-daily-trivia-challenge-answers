@@ -67275,3 +67275,63 @@
 - [ ] Kiwi
 - [ ] Strawberry
 - [x] Bananas
+
+#### Sports Illustrated puts out what celebrated special issue annually?
+
+- [x] The Swimsuit Issue
+- [ ] The Cleats Issue
+- [ ] The Goggles Issue
+
+#### In the 1990s, if something was "Da Bomb", that meant it was:
+
+- [ ] Bad
+- [x] Good
+- [ ] Indifferent
+
+#### Who was the original lead guitar player for Guns N' Roses?
+
+- [ ] Jimmy Page
+- [ ] Eddie Van Halen
+- [x] Slash
+
+#### Which two comedy legends star in "Only Murders In The Building"?
+
+- [ ] Bud Abbott & Lou Costello
+- [x] Steve Martin & Martin Short
+- [ ] Will Ferrell & Dan Aykroyd
+
+#### What kind of food is served at Panda Express?
+
+- [x] Chinese
+- [ ] Italian
+- [ ] French
+
+#### Which NBA team has a dinosaur as their mascot?
+
+- [ ] Memphis Grizzlies
+- [ ] Philadelphia 76ers
+- [x] Toronto Raptors
+
+#### Who performed one of his hit diss tracks during the halftime show of Super Bowl LIX?
+
+- [x] Kendrick Lamar
+- [ ] Sikk the Shocker
+- [ ] Xzibit
+
+#### The Ridgeway is known as the oldest road in which country?
+
+- [ ] Canada
+- [x] England
+- [ ] Switzerland
+
+#### Anubis and Bastet were deities in which country's ancient mythology?
+
+- [ ] Italy
+- [ ] Greece
+- [x] Egypt
+
+#### Jane Goodall is known for her work with which animals?
+
+- [x] Chimpanzees
+- [ ] Manta rays
+- [ ] Fire Ants
