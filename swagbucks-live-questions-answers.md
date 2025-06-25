@@ -67425,3 +67425,63 @@
 - [ ] Chlodnik
 - [x] Gornisht
 - [ ] Borscht
+
+#### According to legend, The Pied Piper of Hamelin used his magic pipe to lure what creatures out of town?
+
+- [x] Rats
+- [ ] Dogs
+- [ ] Horses
+
+#### Which of the following pies is traditionally topped with meringue?
+
+- [ ] Apple
+- [x] Lemon
+- [ ] Boysenberry
+
+#### Joan of Arc was a military leader for which country?
+
+- [x] France
+- [ ] England
+- [ ] Italy
+
+#### In the early days of medical study, what were black bile, phlegm, yellow bile, and blood collectively known as?
+
+- [ ] Gunk
+- [x] Humors
+- [ ] Stuff
+
+#### What is the plural of mouse?
+
+- [ ] Mouses
+- [ ] Meeces
+- [x] Mice
+
+#### In which country was the first portable mp3 player sold?
+
+- [ ] Japan
+- [x] South Korea
+- [ ] Sweden
+
+#### Which of the following video games first debuted as an arcade machine?
+
+- [x] Pac-Man
+- [ ] NBA 2K25
+- [ ] Pokemon GO
+
+#### Which diseases is involved in the creation of "Candy Land"?
+
+- [ ] Mumps
+- [ ] Measles
+- [x] Polio
+
+#### In July of 2023, what famous soccer player made his MLS debut with Inter Miami CF?
+
+- [ ] Pele
+- [x] Lionel Messi
+- [ ] Diego Maradona
+
+#### How many Laws of Motion did Sir Isaac Newton present?
+
+- [x] Three
+- [ ] Ten
+- [ ] Twenty
