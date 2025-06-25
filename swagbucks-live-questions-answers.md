@@ -67485,3 +67485,21 @@
 - [x] Three
 - [ ] Ten
 - [ ] Twenty
+
+#### Which Nobel Prize winner had a perpetual supply of beer piped into his house?
+
+- [x] Niels Bohr
+- [ ] Albert Einstein
+- [ ] Carl Sagan
+
+#### Jay and Kateri Schwandt of Rockford, MI have 14 children. What is the makeup of the family?
+
+- [x] 14 boys
+- [ ] 14 girls
+- [ ] 7 boys, 7 girls
+
+#### Who wrote "Times may change, but men do not"?
+
+- [x] George R.R. Martin
+- [ ] William Shakespeare
+- [ ] J.R.R. Tolkien
