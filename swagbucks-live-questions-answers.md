@@ -67395,3 +67395,111 @@
 - [x] Mario Lopez
 - [ ] Mark-Paul Gosselaar
 - [ ] Lark Voorhies
+
+#### Arachnophobia is a fear of what?
+
+- [ ] Mops
+- [x] Spiders
+- [ ] Falcons
+
+#### What band's debut album was 1991's "Ten"?
+
+- [x] Pearl Jam
+- [ ] Nirvana
+- [ ] Metallica
+
+#### What dessert is most cosely associated with birthday celebrations?
+
+- [ ] Doughnuts
+- [x] Cake
+- [ ] M&Ms
+
+#### The man who co-wrote Cyndi Lauper's "Time After Time" also wrote hits for his own band. What were they called?
+
+- [ ] Boomtown Rats
+- [ ] Tears for Fears
+- [x] The Hooters
+
+#### Which of these soups does NOT contain beets?
+
+- [ ] Chlodnik
+- [x] Gornisht
+- [ ] Borscht
+
+#### According to legend, The Pied Piper of Hamelin used his magic pipe to lure what creatures out of town?
+
+- [x] Rats
+- [ ] Dogs
+- [ ] Horses
+
+#### Which of the following pies is traditionally topped with meringue?
+
+- [ ] Apple
+- [x] Lemon
+- [ ] Boysenberry
+
+#### Joan of Arc was a military leader for which country?
+
+- [x] France
+- [ ] England
+- [ ] Italy
+
+#### In the early days of medical study, what were black bile, phlegm, yellow bile, and blood collectively known as?
+
+- [ ] Gunk
+- [x] Humors
+- [ ] Stuff
+
+#### What is the plural of mouse?
+
+- [ ] Mouses
+- [ ] Meeces
+- [x] Mice
+
+#### In which country was the first portable mp3 player sold?
+
+- [ ] Japan
+- [x] South Korea
+- [ ] Sweden
+
+#### Which of the following video games first debuted as an arcade machine?
+
+- [x] Pac-Man
+- [ ] NBA 2K25
+- [ ] Pokemon GO
+
+#### Which diseases is involved in the creation of "Candy Land"?
+
+- [ ] Mumps
+- [ ] Measles
+- [x] Polio
+
+#### In July of 2023, what famous soccer player made his MLS debut with Inter Miami CF?
+
+- [ ] Pele
+- [x] Lionel Messi
+- [ ] Diego Maradona
+
+#### How many Laws of Motion did Sir Isaac Newton present?
+
+- [x] Three
+- [ ] Ten
+- [ ] Twenty
+
+#### Which Nobel Prize winner had a perpetual supply of beer piped into his house?
+
+- [x] Niels Bohr
+- [ ] Albert Einstein
+- [ ] Carl Sagan
+
+#### Jay and Kateri Schwandt of Rockford, MI have 14 children. What is the makeup of the family?
+
+- [x] 14 boys
+- [ ] 14 girls
+- [ ] 7 boys, 7 girls
+
+#### Who wrote "Times may change, but men do not"?
+
+- [x] George R.R. Martin
+- [ ] William Shakespeare
+- [ ] J.R.R. Tolkien
