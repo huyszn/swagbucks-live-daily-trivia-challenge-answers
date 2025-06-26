@@ -67503,3 +67503,63 @@
 - [x] George R.R. Martin
 - [ ] William Shakespeare
 - [ ] J.R.R. Tolkien
+
+#### Which member of the Beatles was the drummer?
+
+- [ ] John Lennon
+- [x] Ringo Starr
+- [ ] George Harrison
+
+#### Where do the Beatles hail from?
+
+- [ ] Madrid, Spain
+- [ ] Glassgow, Scotland
+- [x] Liverpool, England
+
+#### One of the Beatles' final albums was named after which famous recording studio?
+
+- [x] Abbey Road Studios
+- [ ] Sun Studio
+- [ ] Electric Ladylan Studios
+
+#### What is the only Beatles album wher all of the songs are written by John Lennon and Paul McCartney?
+
+- [ ] Rubber Soul
+- [x] A Hard Day's Night
+- [ ] With The Beatles
+
+#### Which of the following songs was NOT played by the Beatles during their first appearance on "The Ed Sullivan Show?"
+
+- [ ] I Want To Hold Your Hand
+- [ ] I Saw Her Standing There
+- [x] Hey Jude
+
+#### In April of which year did the Beatles hold the top five spots on the Billboard Hot 100 simultaneously?
+
+- [ ] 1963
+- [x] 1965
+- [ ] 1965
+
+#### Which titular Beatles character is a meter maid?
+
+- [ ] Sexy Sadie
+- [ ] Michelle
+- [x] Loverly Rita
+
+#### When the Beatles recorded together in the studio for the final time, what song was the last one they worked on?
+
+- [ ] Here Comes The Sun
+- [x] I Want You (She's So Heavy)
+- [ ] Get Back
+
+#### Complete this Beatles lyric: "I am the eggman, they are the eggmen, I am the"...
+
+- [x] Walrus
+- [ ] Winner
+- [ ] Waiter
+
+#### What catchy nickname was given to the Beatles' early popularity?
+
+- [x] Beatlemania
+- [ ] Beatle Madness
+- [ ] Beatlefest
