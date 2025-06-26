@@ -67563,3 +67563,39 @@
 - [x] Beatlemania
 - [ ] Beatle Madness
 - [ ] Beatlefest
+
+#### What famous director made a cameo in The Blues Brothers?
+
+- [x] Steven Spielberg
+- [ ] Martin Scorsese
+- [ ] George Lucas
+
+#### According to the saying, what does an elephant never do?
+
+- [ ] Forgive
+- [x] Forget
+- [ ] Forge your signature
+
+#### Known for its wild horses, where is the Camargue region?
+
+- [x] France
+- [ ] Algeria
+- [ ] Belgium
+
+#### In which Disney film would you hear the song "A Pirate's Life"?
+
+- [ ] Pirates of the Caribbean
+- [ ] Treasure Planet
+- [x] Peter Pan
+
+#### Which of the following modern words is rooted in a word for love?
+
+- [x] Friday
+- [ ] Stenography
+- [ ] Philistine
+
+#### Complete this William Shakespeare title: "A Midsummer Night's..."
+
+- [ ] Stroll
+- [x] Dream
+- [ ] Picnic
