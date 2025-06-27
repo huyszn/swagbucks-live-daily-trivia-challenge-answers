@@ -67563,3 +67563,99 @@
 - [x] Beatlemania
 - [ ] Beatle Madness
 - [ ] Beatlefest
+
+#### What famous director made a cameo in The Blues Brothers?
+
+- [x] Steven Spielberg
+- [ ] Martin Scorsese
+- [ ] George Lucas
+
+#### According to the saying, what does an elephant never do?
+
+- [ ] Forgive
+- [x] Forget
+- [ ] Forge your signature
+
+#### Known for its wild horses, where is the Camargue region?
+
+- [x] France
+- [ ] Algeria
+- [ ] Belgium
+
+#### In which Disney film would you hear the song "A Pirate's Life"?
+
+- [ ] Pirates of the Caribbean
+- [ ] Treasure Planet
+- [x] Peter Pan
+
+#### Which of the following modern words is rooted in a word for love?
+
+- [x] Friday
+- [ ] Stenography
+- [ ] Philistine
+
+#### Complete this William Shakespeare title: "A Midsummer Night's..."
+
+- [ ] Stroll
+- [x] Dream
+- [ ] Picnic
+
+#### The Bordeaux, Burgundy, and Sonoma County regions are well-known for their production of what drink?
+
+- [ ] Orange Juice
+- [ ] Milk
+- [x] Wine
+
+#### According to mythology, what happens when you lock eyes with Medusa?
+
+- [x] You turn to stone
+- [ ] You get a tummy ache
+- [ ] You go to jail
+
+#### Which of the following types of street is typically the widest?
+
+- [ ] Court
+- [ ] Way
+- [x] Boulevard
+
+#### Who was the first sitting US President to fly in a plane?
+
+- [ ] Teddy Roosevelt
+- [x] Franklin D. Roosevelt
+- [ ] William Howard Taft
+
+#### What does the word Karaoke translate to in Japanese?
+
+- [x] Empty Orchestra
+- [ ] Electronic accompaniment
+- [ ] Amateur Singer
+
+#### Complete this Andrew Carnegie book title: "How to Win Friends & ____________"
+
+- [ ] Press Pants
+- [ ] Fix Your Own Car
+- [x] Influrence People
+
+#### Which of these director's careers was launched by Mel Brooks?
+
+- [ ] Steven Spielberg
+- [x] David Lynch
+- [ ] Brian De Palma
+
+#### Which of the following musical acts was NOT caught lip-syncing a live performance?
+
+- [ ] Pavarotti
+- [ ] Red Hot Chili Peppers
+- [x] Paul McCartney
+
+#### Kendrick Lamar's hit diss track "Not Like Us" was part of a public feud with which rapper?
+
+- [x] Drake
+- [ ] NLE Choppa
+- [ ] Snoop Dogg
+
+#### Which of the following movie formats requires the audience to wear special glasses?
+
+- [x] 3-D
+- [ ] IMAX
+- [ ] Widescreen
