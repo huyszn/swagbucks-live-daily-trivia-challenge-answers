@@ -67659,3 +67659,21 @@
 - [x] 3-D
 - [ ] IMAX
 - [ ] Widescreen
+
+#### Which of the following places has the highest average temperature?
+
+- [ ] Anchorage, AK
+- [x] Phoenix, AZ
+- [ ] Bozeman, MT
+
+#### Which of these series first aired on HBO?
+
+- [ ] WKRP from Cincinnati
+- [x] John from Cincinnati
+- [ ] Billions
+
+#### Alexander Graham Bell is widely credited with which invention?
+
+- [ ] Microwave
+- [ ] Television
+- [x] Telephone
