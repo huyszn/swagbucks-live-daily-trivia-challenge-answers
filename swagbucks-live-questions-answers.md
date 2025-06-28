@@ -40744,7 +40744,7 @@
 #### What insect famously eats wood?
 
 - [ ] Files
-- [ ] Termites
+- [x] Termites
 - [ ] Caterpillars
 
 #### In 2005, what captive female animal used parthenogenesis to produce babies without a male?
@@ -67677,3 +67677,33 @@
 - [ ] Microwave
 - [ ] Television
 - [x] Telephone
+
+#### Which toy was famous for being able to walk down stairs?
+
+- [ ] Silly Putty
+- [x] Slinky
+- [ ] Pet Rock
+
+#### The Nintendo character Link first appeared in what 1986 NES game?
+
+- [x] The Legend of Zelda
+- [ ] Metroid
+- [ ] Ice Climbers
+
+#### Which of these books was written by Toni Morrison?
+
+- [ ] Ulysses
+- [ ] Jane Eyre
+- [x] Beloved
+
+#### Which song was not featured in the Broadway musical "Cats"?
+
+- [ ] Macavity
+- [ ] Memory
+- [x] Hello, Dolly!
+
+#### Caterpillars enter cocoons and emerge as what insect?
+
+- [x] Butterfly
+- [ ] Wasp
+- [ ] Spider
