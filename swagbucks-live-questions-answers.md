@@ -67707,3 +67707,27 @@
 - [x] Butterfly
 - [ ] Wasp
 - [ ] Spider
+
+#### Which of the following is NOT a gift from "The 12 Days of Christmas"?
+
+- [ ] Partridge in a pear tree
+- [ ] Two Turtle Doves
+- [x] Some expired meat
+
+#### Which of these paper sizes is the largest?
+
+- [ ] Index Card
+- [ ] Letter
+- [x] Legal
+
+#### Which of these actors did NOT star in a TV version of The Fugitive?
+
+- [ ] David Janssen
+- [ ] Tim Daly
+- [x] Harrison Ford
+
+#### Chrissy Teigen is married to which singer?
+
+- [ ] Elton John
+- [ ] Dr. John
+- [x] John Legend
