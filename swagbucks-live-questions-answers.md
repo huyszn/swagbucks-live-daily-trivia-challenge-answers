@@ -67755,3 +67755,21 @@
 - [x] Made from the best stuff on Earth
 - [ ] It's fine, I guess
 - [ ] No, YOU drink it
+
+#### The NBA is a league for which sport?
+
+- [x] Basketball
+- [ ] Baseball
+- [ ] Bocce Ball
+
+#### Which musician famously bit the head off a bat?
+
+- [ ] Liberace
+- [ ] Pat Boone
+- [x] Ozzy Osbourne
+
+#### What is the term for a menu item that is ordered on its own?
+
+- [ ] A la mode
+- [x] A la carte
+- [ ] Alakazam
