@@ -67731,3 +67731,27 @@
 - [ ] Elton John
 - [ ] Dr. John
 - [x] John Legend
+
+#### In art, watercolor, acrylic and oil are types of what?
+
+- [ ] Clay
+- [ ] Coffee
+- [x] Paint
+
+#### Ziggy Stardust and The Thin White Duke are aliases for what rock star?
+
+- [x] David Bowie
+- [ ] Mick Jagger
+- [ ] Jim Morrison
+
+#### Writer Elizabeth Gilbert has an autobiography with what 3-word title?
+
+- [x] Eat, Pray, Love
+- [ ] Lather, Rinse, Repeat
+- [ ] Reduce, Reuse, Recycle
+
+#### What is Snapple's slogan?
+
+- [x] Made from the best stuff on Earth
+- [ ] It's fine, I guess
+- [ ] No, YOU drink it
