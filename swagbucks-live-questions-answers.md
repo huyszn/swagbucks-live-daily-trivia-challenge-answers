@@ -67773,3 +67773,33 @@
 - [ ] A la mode
 - [x] A la carte
 - [ ] Alakazam
+
+#### Noah Webster's 1806 version of the dictionary was the first to include which of the following letters as a separate letter?
+
+- [ ] X
+- [x] U
+- [ ] Q
+
+#### What is the litral translation of the German word "Kummerspeck"?
+
+- [x] Grief Bacon
+- [ ] Disappointment Candy
+- [ ] Hardship Waffle
+
+#### In which of the following films does Tom Cruise play a character named Joel?
+
+- [ ] All the Right Moves
+- [x] Risky Business
+- [ ] American Made
+
+#### The Fonz was a character from what 70s sitcom?
+
+- [ ] All in the Family
+- [x] Happy Days
+- [ ] Alice
+
+#### Which of these devices enlarges your view of objects?
+
+- [ ] Beaker
+- [x] Microscope
+- [ ] Oscillator
