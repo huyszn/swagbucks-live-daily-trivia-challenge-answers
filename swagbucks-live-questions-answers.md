@@ -67803,3 +67803,39 @@
 - [ ] Beaker
 - [x] Microscope
 - [ ] Oscillator
+
+#### The film "Chinatown" primarily takes place in which U.S. city?
+
+- [ ] San Francisco
+- [ ] New York
+- [x] Los Angeles
+
+#### Which of these was one of Babe Ruth's nicknames?
+
+- [ ] Big Hitter Guy
+- [ ] Cheryl
+- [x] The Bambino
+
+#### If you're claustrophobic, what are you afraid of?
+
+- [x] Enclosed spaces
+- [ ] Clowns
+- [ ] Heights
+
+#### Who leads an orchestra?
+
+- [x] Conductor
+- [ ] 2nd flautist
+- [ ] Drummer
+
+#### In "Monsters, Inc." what is initially the source of power in Monstropolis?
+
+- [x] Screams
+- [ ] Yawns
+- [ ] Raspberries
+
+#### In fitness, what does HIIT stand for?
+
+- [ ] Hi, It's Iron Training
+- [x] High Intensity Interval Training
+- [ ] Harold's Intermittent Inner Tiger
