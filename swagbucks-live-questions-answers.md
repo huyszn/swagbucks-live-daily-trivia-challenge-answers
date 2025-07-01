@@ -67839,3 +67839,63 @@
 - [ ] Hi, It's Iron Training
 - [x] High Intensity Interval Training
 - [ ] Harold's Intermittent Inner Tiger
+
+#### Jack Black and Jason Momoa star in the film adaptation of what popular video game?
+
+- [ ] Pac-Man
+- [ ] Centipede
+- [x] Minecraft
+
+#### When you're shopping, what does BOGO stand for?
+
+- [x] Buy One, Get One
+- [ ] Bob's Out? Go Off!
+- [ ] Bingo! Original Grape Oats!
+
+#### Which of the following dishes would be considered "fusion cuisine"?
+
+- [ ] Pepperoni Pizza
+- [x] Sush Burrito
+- [ ] Oatmeal
+
+#### Fill in the blank: Nirvana's first big hit was titled "Smells Like ____ ______"
+
+- [ ] Brown Onions
+- [x] Teen Spirit
+- [ ] A Burp
+
+#### Which of the following arithmetic operations can have a remainder?
+
+- [x] Division
+- [ ] Subtraction
+- [ ] Addition
+
+#### What video game got a widely panned film adaptation in 2024?
+
+- [x] Borderlands
+- [ ] Pac-Man
+- [ ] Centipede
+
+#### What food company was once (briefly) the 6th largest military in the world?
+
+- [ ] McDonald's
+- [x] Pepsi
+- [ ] Coca-Cola
+
+#### On which reality show are there contestants attempting to catfish one another?
+
+- [x] The Circle
+- [ ] The Amazing Race
+- [ ] The Biggest Loser
+
+#### The William McKinley High School show choir is the subject of what TV series?
+
+- [ ] Malcom in the Middle
+- [ ] Euphoria
+- [x] Glee
+
+#### On December 7th, 1941 Japanese forces launched a suprise attack on which U.S. Naval Base?
+
+- [x] Pearl Harbor
+- [ ] Jacksonville
+- [ ] San Diego
