@@ -67899,3 +67899,45 @@
 - [x] Pearl Harbor
 - [ ] Jacksonville
 - [ ] San Diego
+
+#### According to their slogan, "A little dab" of what men's hair product will do ya?
+
+- [x] Brylcreem
+- [ ] Dapper Dan
+- [ ] Layrite
+
+#### In baseball, which position is awarded the Cy Young?
+
+- [ ] Catcher
+- [x] Pitcher
+- [ ] Right fielder
+
+#### Which of these athletes has been on the cover of Sports Illustrated to most times?
+
+- [ ] Muhammad Ali
+- [ ] Tiger Woods
+- [x] Michael Jordan
+
+#### What is the meaning behind the colors of the Olympic rings?
+
+- [x] At least one appears in each nation's flag
+- [ ] They represent five continents
+- [ ] They stand for the original five events
+
+#### Where is Walt Disney World?
+
+- [ ] Anaheim
+- [x] Orlando
+- [ ] Burbank
+
+#### What celebrity provided the voice of "The Beast" in one of the foreign releases of "Beauty and the Beast"?
+
+- [x] Jackie Chan
+- [ ] Patrick Stewart
+- [ ] Jean Reno
+
+#### Which of these books wasn't written by Dr. Seuss?
+
+- [ ] Oh, The Places You'll Go!
+- [ ] Wacky Wednesdays
+- [x] Lafcadio the Lion
