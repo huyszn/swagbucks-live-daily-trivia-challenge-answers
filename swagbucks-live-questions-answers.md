@@ -67894,7 +67894,7 @@
 - [ ] Euphoria
 - [x] Glee
 
-#### On December 7th, 1941 Japanese forces launched a suprise attack on which U.S. Naval Base?
+#### On December 7th, 1941 Japanese forces launched a surprise attack on which U.S. Naval Base?
 
 - [x] Pearl Harbor
 - [ ] Jacksonville
