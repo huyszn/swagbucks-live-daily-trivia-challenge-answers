@@ -67941,3 +67941,81 @@
 - [ ] Oh, The Places You'll Go!
 - [ ] Wacky Wednesdays
 - [x] Lafcadio the Lion
+
+#### What was the last movie ever rented out by a Blockbuster?
+
+- [x] This is the End
+- [ ] Final Destination 3
+- [ ] Goodybye, Mr. Chips
+
+#### Which of these schools has never made the Men's NCAA Tournament?
+
+- [x] Army
+- [ ] Call State Los Angeles
+- [ ] East Carolina
+
+#### How is Scar related to Simba?
+
+- [ ] Brother
+- [x] Uncle
+- [ ] Cousin
+
+#### Sake is a rice wine that comes from which country?
+
+- [ ] Sweden
+- [ ] France
+- [x] Japan
+
+#### What two rivers converged in the Fertile Crescent of ancient Mesopotamia?
+
+- [x] Tigris and Euphrates
+- [ ] Colorado and Mississippi
+- [ ] Thames and Danube
+
+#### Who recorded live albums at the Folsom and San Quentin prisons?
+
+- [ ] James Brown
+- [x] Johnny Cash
+- [ ] David Bowie
+
+#### The sentence "Camels cantankerously cultivating" is an example of what figure of speech?
+
+- [x] Alliteration
+- [ ] Onomatopoeia
+- [ ] Oxymoron
+
+#### Which Everly Brothers song was once banned by radio stations?
+
+- [ ] All I Have To Do Is Dream
+- [ ] Let It Be Me
+- [x] Wake Up Little Susie
+
+#### In "Forrest Gump", why does Forrest think life is like a box of chocolates?
+
+- [x] You never know what you're gonna get
+- [ ] It can be heavy until you get through it
+- [ ] It's always a sweet suprise
+
+#### According to the saying, "Give a man a fish, feed him for a day." How do you feed him for a lifetime?
+
+- [ ] Buy a man a gift card
+- [ ] Take a man to a buffet
+- [x] Teach a man to fish
+
+#### Which nerve sends out sensory fibers from your brainsteam to your visceral organs?
+
+- [ ] Oculomotor
+- [ ] Trochlear
+- [x] Vagus
+
+#### In baseball, where does the Pitcher throw pitches from?
+
+- [x] A Mound
+- [ ] The Outfield
+- [ ] Second Base
+
+#### Which of the following word games is NOT associated with the New York Times?
+
+- [ ] Crossword
+- [x] Scrabble
+- [ ] Wordie
