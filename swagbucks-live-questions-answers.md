@@ -68019,3 +68019,21 @@
 - [ ] Crossword
 - [x] Scrabble
 - [ ] Wordie
+
+#### What religion did St. Patrick introduce to Ireland?
+
+- [x] Christianity
+- [ ] Scientology
+- [ ] Pastafarianism
+
+#### Which of these Disney film cameos is real?
+
+- [ ] Pumbaa and Timon in Tarzan
+- [x] Aladdin's Carpet in The Princess & The Frog
+- [ ] Lady & The Tramp in Oliver & Company
+
+#### In the movie "Free Willy," what type of animal is Willy?
+
+- [x] Whale
+- [ ] Donkey
+- [ ] Gorilla
