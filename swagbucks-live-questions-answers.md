@@ -55933,12 +55933,6 @@
 - [x] Cow & Fox & Turtle
 - [ ] Turtle & Cat & Snake
 
-#### Which Disney animated film takes place in Ancient Greece?
-
-- [x] Hercules
-- [ ] Tangled
-- [ ] Frozen
-
 #### Which WWE Hall of Famer Main Evented the first three WrestleManias?
 
 - [x] Hulk Hogan
@@ -67941,3 +67935,183 @@
 - [ ] Oh, The Places You'll Go!
 - [ ] Wacky Wednesdays
 - [x] Lafcadio the Lion
+
+#### What was the last movie ever rented out by a Blockbuster?
+
+- [x] This is the End
+- [ ] Final Destination 3
+- [ ] Goodybye, Mr. Chips
+
+#### Which of these schools has never made the Men's NCAA Tournament?
+
+- [x] Army
+- [ ] Call State Los Angeles
+- [ ] East Carolina
+
+#### How is Scar related to Simba?
+
+- [ ] Brother
+- [x] Uncle
+- [ ] Cousin
+
+#### Sake is a rice wine that comes from which country?
+
+- [ ] Sweden
+- [ ] France
+- [x] Japan
+
+#### What two rivers converged in the Fertile Crescent of ancient Mesopotamia?
+
+- [x] Tigris and Euphrates
+- [ ] Colorado and Mississippi
+- [ ] Thames and Danube
+
+#### Who recorded live albums at the Folsom and San Quentin prisons?
+
+- [ ] James Brown
+- [x] Johnny Cash
+- [ ] David Bowie
+
+#### The sentence "Camels cantankerously cultivating" is an example of what figure of speech?
+
+- [x] Alliteration
+- [ ] Onomatopoeia
+- [ ] Oxymoron
+
+#### Which Everly Brothers song was once banned by radio stations?
+
+- [ ] All I Have To Do Is Dream
+- [ ] Let It Be Me
+- [x] Wake Up Little Susie
+
+#### In "Forrest Gump", why does Forrest think life is like a box of chocolates?
+
+- [x] You never know what you're gonna get
+- [ ] It can be heavy until you get through it
+- [ ] It's always a sweet suprise
+
+#### According to the saying, "Give a man a fish, feed him for a day." How do you feed him for a lifetime?
+
+- [ ] Buy a man a gift card
+- [ ] Take a man to a buffet
+- [x] Teach a man to fish
+
+#### Which nerve sends out sensory fibers from your brainsteam to your visceral organs?
+
+- [ ] Oculomotor
+- [ ] Trochlear
+- [x] Vagus
+
+#### In baseball, where does the Pitcher throw pitches from?
+
+- [x] A Mound
+- [ ] The Outfield
+- [ ] Second Base
+
+#### Which of the following word games is NOT associated with the New York Times?
+
+- [ ] Crossword
+- [x] Scrabble
+- [ ] Wordie
+
+#### What religion did St. Patrick introduce to Ireland?
+
+- [x] Christianity
+- [ ] Scientology
+- [ ] Pastafarianism
+
+#### Which of these Disney film cameos is real?
+
+- [ ] Pumbaa and Timon in Tarzan
+- [x] Aladdin's Carpet in The Princess & The Frog
+- [ ] Lady & The Tramp in Oliver & Company
+
+#### In the movie "Free Willy," what type of animal is Willy?
+
+- [x] Whale
+- [ ] Donkey
+- [ ] Gorilla
+
+#### Shows like Serial and My Brother, My Brother, and Me originated in what medium?
+
+- [ ] Books
+- [ ] Movies
+- [x] Podcasts
+
+#### Which of these superheroes was not originally African American?
+
+- [ ] Blank Man
+- [ ] Meteor Man
+- [x] One Punch Man
+
+#### According to the jingle, what's the best part of waking up?
+
+- [ ] Snuggles from a pup
+- [x] Folgers in your cup
+- [ ] Actor Debra Jo Rupp
+
+#### What was the name given to the fellowship of King Arthur?
+
+- [ ] The Knights of the Square Table
+- [ ] The Knights of the Water Table
+- [x] The Knights of the Round Table
+
+#### Every 4th of July, Nathan's Famous in Coney Island, NY holds a contest around what food item?
+
+- [ ] Corn on the cob
+- [x] Hot Dogs
+- [ ] Potato Salad
+
+#### Who is known as the Pope of Pop Art?
+
+- [ ] Georgia O'Keeffe
+- [ ] Thomas Kinkade
+- [x] Andy Warhol
+
+#### What is the term for a piece of land connected to a larger landmass, surrounded almost entirely by water?
+
+- [x] Peninsula
+- [ ] Desert
+- [ ] Butte
+
+#### The Lancasterm Pennsylvania Costco has special parking spaces to accommodate what?
+
+- [ ] Helicopter
+- [ ] Jet Ski
+- [x] Horse and Buggy
+
+#### What is the chemical symbol for iron?
+
+- [ ] O
+- [x] Fe
+- [ ] Li
+
+#### As of February 2025, who has hosted "Saturday Night Live" the most times?
+
+- [x] Alec Baldwin
+- [ ] Steve Martin
+- [ ] John Goodman
+
+#### Which of the following chains is a steakhouse?
+
+- [x] Texas Roadhouse
+- [ ] Cracker Barrel
+- [ ] The Cheesecake Factory
+
+#### Which soul diva was a producer on "The Princess Diaries"?
+
+- [ ] Diana Ross
+- [ ] Aretha Franklin
+- [x] Whitney Houston
+
+#### Which U.S. President was assassinated by John Wilkes Booth?
+
+- [x] Abraham Lincoln
+- [ ] James A. Garfield
+- [ ] John F. Kennedy
+
+#### In the Marvel Cinematic Universe who plays both Doctor Doom and Iron Man?
+
+- [ ] Pedro Pascal
+- [x] Robert Downey Jr.
+- [ ] Don Cheadle
