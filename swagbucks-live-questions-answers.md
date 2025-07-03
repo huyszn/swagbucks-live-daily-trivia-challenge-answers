@@ -55933,12 +55933,6 @@
 - [x] Cow & Fox & Turtle
 - [ ] Turtle & Cat & Snake
 
-#### Which Disney animated film takes place in Ancient Greece?
-
-- [x] Hercules
-- [ ] Tangled
-- [ ] Frozen
-
 #### Which WWE Hall of Famer Main Evented the first three WrestleManias?
 
 - [x] Hulk Hogan
@@ -68037,3 +68031,87 @@
 - [x] Whale
 - [ ] Donkey
 - [ ] Gorilla
+
+#### Shows like Serial and My Brother, My Brother, and Me originated in what medium?
+
+- [ ] Books
+- [ ] Movies
+- [x] Podcasts
+
+#### Which of these superheroes was not originally African American?
+
+- [ ] Blank Man
+- [ ] Meteor Man
+- [x] One Punch Man
+
+#### According to the jingle, what's the best part of waking up?
+
+- [ ] Snuggles from a pup
+- [x] Folgers in your cup
+- [ ] Actor Debra Jo Rupp
+
+#### What was the name given to the fellowship of King Arthur?
+
+- [ ] The Knights of the Square Table
+- [ ] The Knights of the Water Table
+- [x] The Knights of the Round Table
+
+#### Every 4th of July, Nathan's Famous in Coney Island, NY holds a contest around what food item?
+
+- [ ] Corn on the cob
+- [x] Hot Dogs
+- [ ] Potato Salad
+
+#### Who is known as the Pope of Pop Art?
+
+- [ ] Georgia O'Keeffe
+- [ ] Thomas Kinkade
+- [x] Andy Warhol
+
+#### What is the term for a piece of land connected to a larger landmass, surrounded almost entirely by water?
+
+- [x] Peninsula
+- [ ] Desert
+- [ ] Butte
+
+#### The Lancasterm Pennsylvania Costco has special parking spaces to accommodate what?
+
+- [ ] Helicopter
+- [ ] Jet Ski
+- [x] Horse and Buggy
+
+#### What is the chemical symbol for iron?
+
+- [ ] O
+- [x] Fe
+- [ ] Li
+
+#### As of February 2025, who has hosted "Saturday Night Live" the most times?
+
+- [x] Alec Baldwin
+- [ ] Steve Martin
+- [ ] John Goodman
+
+#### Which of the following chains is a steakhouse?
+
+- [x] Texas Roadhouse
+- [ ] Cracker Barrel
+- [ ] The Cheesecake Factory
+
+#### Which soul diva was a producer on "The Princess Diaries"?
+
+- [ ] Diana Ross
+- [ ] Aretha Franklin
+- [x] Whitney Houston
+
+#### Which U.S. President was assassinated by John Wilkes Booth?
+
+- [x] Abraham Lincoln
+- [ ] James A. Garfield
+- [ ] John F. Kennedy
+
+#### In the Marvel Cinematic Universe who plays both Doctor Doom and Iron Man?
+
+- [ ] Pedro Pascal
+- [x] Robert Downey Jr.
+- [ ] Don Cheadle
