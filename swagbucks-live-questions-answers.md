@@ -68115,3 +68115,15 @@
 - [ ] Pedro Pascal
 - [x] Robert Downey Jr.
 - [ ] Don Cheadle
+
+#### What was the name of the paper company on "The Office"?
+
+- [x] Dunder Mifflin
+- [ ] Barry Horowitz
+- [ ] Cheers
+
+#### What is the name of the New York Yankees' home stadium?
+
+- [ ] Forbes Field
+- [x] Yankee Stadium
+- [ ] Petco Park
