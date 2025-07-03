@@ -68127,3 +68127,21 @@
 - [ ] Forbes Field
 - [x] Yankee Stadium
 - [ ] Petco Park
+
+#### If Halle Berry changed her last name to an actual botanical berry, what could you call her?
+
+- [ ] Halle Mango
+- [ ] Halle Starwberry
+- [x] Halle Tomato
+
+#### Which company currently manufactures Whoppers candy?
+
+- [x] Hershey
+- [ ] Mars
+- [ ] Haribo
+
+#### Which of these gaming systems is handheld?
+
+- [ ] Sega Genesis
+- [ ] Atari 2600
+- [x] Gameboy
