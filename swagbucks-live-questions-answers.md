@@ -68205,3 +68205,51 @@
 - [x] And the Home of the Brave
 - [ ] Now Let's All Go Party Hardy
 - [ ] Did I Leave My Keys Here
+
+#### What is the only State that begins with an "A" but doesn't end with an "A"?
+
+- [ ] Arizona
+- [ ] Alabama
+- [x] Arkansas
+
+#### Which of the following teams competes in the NBA?
+
+- [ ] The New York Jets
+- [ ] The New York Mets
+- [x] The Brooklyn Nets
+
+#### Which of these TV shows is made for children?
+
+- [x] Octonauts
+- [ ] Unsolved Mysteries
+- [ ] The Sopranos
+
+#### René Descartes is known by what nickname?
+
+- [ ] The Uncle of Modern Science
+- [ ] The Cousin of Modern Mechanics
+- [x] The Father of Modern Philosophy
+
+#### According to J.M. Barrie, who was the original villain in the stage version of "Peter Pan"?
+
+- [ ] Captain Hook
+- [ ] The Tick-Tock Crocodile
+- [x] Peter Pan
+
+#### Which comedian named one of his children after a video game character?
+
+- [ ] Patton Oswalt
+- [x] Robin Williams
+- [ ] Dane Cook
+
+#### The pose of Michelangelo's "David" was inspired by whom?
+
+- [ ] Jesus
+- [ ] Michelangelo
+- [x] Hercules
+
+#### Who was vice president under Barack Obama?
+
+- [ ] Joe Namath
+- [ ] Joe Pistone
+- [x] Joe Biden
