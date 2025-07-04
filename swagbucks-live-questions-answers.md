@@ -68127,3 +68127,81 @@
 - [ ] Forbes Field
 - [x] Yankee Stadium
 - [ ] Petco Park
+
+#### If Halle Berry changed her last name to an actual botanical berry, what could you call her?
+
+- [ ] Halle Mango
+- [ ] Halle Starwberry
+- [x] Halle Tomato
+
+#### Which company currently manufactures Whoppers candy?
+
+- [x] Hershey
+- [ ] Mars
+- [ ] Haribo
+
+#### Which of these gaming systems is handheld?
+
+- [ ] Sega Genesis
+- [ ] Atari 2600
+- [x] Gameboy
+
+#### What nickname is used to refer to the American flag?
+
+- [x] Old Glory
+- [ ] New Glory
+- [ ] Old Spice
+
+#### Which of the following regions is NOT known for their BBQ?
+
+- [ ] Kansas City
+- [ ] Memphis
+- [x] Trenton
+
+#### Which American monument contains 60 foot-tall stone carvings of the heads of 4 American presidents?
+
+- [ ] Monticello
+- [x] Mount Rushmore
+- [ ] The Washington Monument
+
+#### In American's order of PResidential succession, who comes after the Vice President?
+
+- [x] Speaker of the House
+- [ ] President Pro Tempore of the Senate
+- [ ] Secreatary of State
+
+#### In "Rocky IV", who does Rocky defeat in a boxing match?
+
+- [ ] Mason Dixon
+- [ ] Tommy Gunn
+- [x] Ivan Drago
+
+#### "Glory, Glory Hallelujah! His truth is marching on." is a lyric from which patriotic song?
+
+- [x] Battle Hymn of the Republic
+- [ ] Anchors Away
+- [ ] These Colors Don't Run
+
+#### NASA's Space Center in Florida is named for which U.S. President?
+
+- [ ] Lyndon B. Johnson
+- [x] John F. Kennedy
+- [ ] Dwight D. Eisenhower
+
+#### What year did the McDonald's Happy Meal make its national debut?
+
+- [ ] 1967
+- [ ] 1974
+- [x] 1979
+
+#### Which of these car companies was founded in America?
+
+- [ ] Kia
+- [ ] Lamborghini
+- [x] Ford
+
+#### What are the last six words of America's National Anthem?
+
+- [x] And the Home of the Brave
+- [ ] Now Let's All Go Party Hardy
+- [ ] Did I Leave My Keys Here
