@@ -68253,3 +68253,21 @@
 - [ ] Joe Namath
 - [ ] Joe Pistone
 - [x] Joe Biden
+
+#### By what name is Patricia Reichardt better known?
+
+- [ ] Patti LaBelle
+- [x] Peppermint Patty
+- [ ] Patricia Richardson
+
+#### The man who wrote "A Boy Named Sue" also wrote which poem?
+
+- [x] It's Dark In Here
+- [ ] The Weary Blues
+- [ ] A Minor Bird
+
+#### What car company is named after a deity?
+
+- [x] Mazda
+- [ ] Kia
+- [ ] Saab
