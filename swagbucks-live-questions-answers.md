@@ -67018,7 +67018,7 @@
 - [x] Philadelphia
 - [ ] Chicago
 
-#### Bluesky is a social media platform mosst similar to what other social media platform?
+#### Bluesky is a social media platform most similar to what other social media platform?
 
 - [ ] Instagram
 - [ ] Facebook
@@ -68301,3 +68301,21 @@
 - [x] Wiring Harness
 - [ ] Flux Capacitor
 - [ ] Gas tank
+
+#### What is the most stolen food item in the world?
+
+- [x] Cheese
+- [ ] Saffron
+- [ ] Chocolate
+
+#### A "whodunnit" is another term for what kind of story?
+
+- [ ] Romance
+- [ ] Comedy
+- [x] Mystery
+
+#### Which musical holds the title for the longest running show on Broadway?
+
+- [x] Phantom of the Opera
+- [ ] Cats
+- [ ] Chicago
