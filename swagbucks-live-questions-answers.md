@@ -68271,3 +68271,33 @@
 - [x] Mazda
 - [ ] Kia
 - [ ] Saab
+
+#### In what year did Kanye West tell Taylor Swift "Imma let you finish"?
+
+- [x] 2009
+- [ ] 2010
+- [ ] 2002
+
+#### Who wrote "Little Women"?
+
+- [x] Louisa May Alcott
+- [ ] Mary Shelley
+- [ ] Emily Bronte
+
+#### The FBI classified "It's A Wonderful Life" as propaganda for what reason?
+
+- [ ] Their treatment of angels and religion
+- [x] Their treatment of bankers
+- [ ] Their treatment of children
+
+#### Which Director has never won the Irving Thalberg Award?
+
+- [ ] George Lucas
+- [x] Martin Scorsese
+- [ ] Steven Spielberg
+
+#### What component allows signals to travel from different sensors in your car's engine to your car's computer?
+
+- [x] Wiring Harness
+- [ ] Flux Capacitor
+- [ ] Gas tank
