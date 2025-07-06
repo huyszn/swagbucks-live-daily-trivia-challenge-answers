@@ -62938,7 +62938,7 @@
 - [x] Block
 - [ ] Cookie
 
-#### Eminem won an Oscar for his song from what movie, in which he also started?
+#### Eminem won an Oscar for his song from what movie, in which he also starred?
 
 - [x] 8 Mile
 - [ ] Hustle & Flow
@@ -68319,3 +68319,9 @@
 - [x] Phantom of the Opera
 - [ ] Cats
 - [ ] Chicago
+
+#### Which of these is not a cryptocurrency?
+
+- [ ] Bytecoin
+- [ ] Golem
+- [x] Electrocoin
