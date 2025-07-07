@@ -68325,3 +68325,21 @@
 - [ ] Bytecoin
 - [ ] Golem
 - [x] Electrocoin
+
+#### Crunchy and Creamy are two common varieties of what?
+
+- [x] Peanut Butter
+- [ ] Jelly
+- [ ] Pasta
+
+#### What U.S. city is home to the famous Space Needle?
+
+- [x] Seattle
+- [ ] Las Vegas
+- [ ] Chicago
+
+#### Which of these words contains the most syllables?
+
+- [ ] Under
+- [ ] Affable
+- [x] Mississippi
