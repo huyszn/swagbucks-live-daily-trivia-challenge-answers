@@ -68343,3 +68343,27 @@
 - [ ] Under
 - [ ] Affable
 - [x] Mississippi
+
+#### At the end of "Monsters, Inc.", what replaces screams as the power source for Monstropolis?
+
+- [ ] Coughs
+- [ ] Tears
+- [x] Laughter
+
+#### What James Bond book title was used as the title for two films?
+
+- [ ] Thunderball
+- [ ] The Spy Who Loved Me
+- [x] Casino Royale
+
+#### The Beatles recorded a number of albums at what world-famous studio?
+
+- [ ] Formosa Studio
+- [ ] Sun Records
+- [x] Abbey Road
+
+#### What was the original band name of The Spice Girls?
+
+- [ ] Vogue
+- [ ] Glam
+- [x] Touch
