@@ -68427,3 +68427,21 @@
 - [x] On the Road Again
 - [ ] Detroit City Rock
 - [ ] My Heart Will Go On
+
+#### Which game show host's game had 101 people playing at once?
+
+- [x] Bob Saget
+- [ ] Howie Mandel
+- [ ] Regis Philbin
+
+#### What was the first rap single to chart on the Billboard Hot 100?
+
+- [x] Rapper's Delight
+- [ ] The Message
+- [ ] The Breaks
+
+#### Which two rappers traded diss tracks in May of 2024?
+
+- [ ] LL Cool J and Kool Moe Dee
+- [x] Kendrick Lamar and Drake
+- [ ] Nicki Minaj and Queen Latifah
