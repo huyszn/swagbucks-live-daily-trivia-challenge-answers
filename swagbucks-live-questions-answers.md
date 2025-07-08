@@ -68367,3 +68367,63 @@
 - [ ] Vogue
 - [ ] Glam
 - [x] Touch
+
+#### "She was more like a beauty queen from a movie scene - I said, 'Don't mind, but what do you mean, I am the one'"
+
+- [x] Bllie Jean
+- [ ] Sun City
+- [ ] The Birthday Song
+
+#### "Ra-ra-ah-ah-ah, Roma-roma-ma, Gaga, ooh la-la"
+
+- [ ] Eight Days A Week
+- [ ] Beast of Burden
+- [x] Bad Romance
+
+#### "If everybody had an ocean, Across the U.S.A., Then everybody'd be surfin', Like Californ-i-a"
+
+- [ ] Fly Like An Eagle
+- [x] Surfin' U.S.A.
+- [ ] Stairway to Heaven
+
+#### "When you call my name, It's like a little prayer; I'm down on my knees, I want to take you there"
+
+- [ ] Material Girl
+- [ ] Papa Don't Preach
+- [x] Like A Prayer
+
+#### "My loneliness is killn' me (And I), I must confess, I still believe (Still believe)"
+
+- [ ] Crazy
+- [x] Baby One More Time
+- [ ] Toxic
+
+#### "What would you think if I sang out of tune? Would you stand up and walk out on me?"
+
+- [ ] Good Morning Good Morning
+- [ ] Back in the U.S.S.R.
+- [x] With A Little Help From My Friends
+
+#### "Leanin' to the side but you cna't speed through - Two miles an hour so everybody sees you"
+
+- [x] Summertime
+- [ ] Parents Just Don't Understand
+- [ ] Charlie Mac
+
+#### "Cause I'm a picker, I'm a grinner, I'm a lover and I'm a sinner; I play my music in the sun"
+
+- [ ] Ramblin' Man
+- [x] The Joker
+- [ ] Sweet Home Alabama
+
+#### "Every little thing I do, Never seems enough for you You don't wanna lose it a gain, But I'm not like them"
+
+- [ ] Backstreet's Back
+- [ ] On The Playground
+- [x] It's Gonna Be Me
+
+#### "Like a band o' gypsies, we go down the highway, We're the best of friends, Insisting that the world keep turning our way"
+
+- [x] On the Road Again
+- [ ] Detroit City Rock
+- [ ] My Heart Will Go On
