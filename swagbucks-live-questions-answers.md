@@ -68505,3 +68505,21 @@
 - [x] Three days
 - [ ] Three weeks
 - [ ] Three months
+
+#### Based on the hair style they made popular, which rock band's hair could be used to clean a kitchen floor?
+
+- [x] The Beatles
+- [ ] The Cure
+- [ ] Nirvana
+
+#### Which film was NOT nominatino for the Best Picture Oscar in 2010?
+
+- [ ] Avatar
+- [ ] District 9
+- [x] Inception
+
+#### Which of these books was written by George Orwell?
+
+- [x] 1984
+- [ ] The Shining
+- [ ] The Cat in the Hat
