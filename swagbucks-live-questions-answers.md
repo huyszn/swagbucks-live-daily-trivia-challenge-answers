@@ -68445,3 +68445,63 @@
 - [ ] LL Cool J and Kool Moe Dee
 - [x] Kendrick Lamar and Drake
 - [ ] Nicki Minaj and Queen Latifah
+
+#### Which of these chains is NOT a hardware store?
+
+- [x] 7-Eleven
+- [ ] The Home Depot
+- [ ] Lowe's
+
+#### What city is credited as the birthplace of the cheessteak?
+
+- [ ] New York
+- [x] Philadelphia
+- [ ] Boston
+
+#### Which of the following is NOT one of the 12 recognized climate regions?
+
+- [ ] Polar
+- [ ] Tropical Wet
+- [x] Coxy
+
+#### Discovered in 1799, what discovery helped scholars crack the code of hieroglyphics?
+
+- [x] Rosetta Stone
+- [ ] Dead Sea Scrolls
+- [ ] Venus de Milo
+
+#### How many paintings did Vincent Gogh sell in his lifetime?
+
+- [ ] Zero
+- [x] One
+- [ ] Three hundred
+
+#### In which language would someone greet you by saying "Konnichiwa"?
+
+- [ ] French
+- [ ] Russian
+- [x] Japanese
+
+#### In "The Hokey Pokey", what are you supposed to do AFTER doing the Hokey Pokey?
+
+- [x] Turn yourself around
+- [ ] Buy some coffee grounds
+- [ ] Buy a bag of Mounds
+
+#### How many total pleats does a chef's hat have?
+
+- [ ] 99
+- [x] 100
+- [ ] 101
+
+#### Which of the following is NOT a WWE TV show?
+
+- [ ] Raw
+- [ ] Smackdown
+- [x] Batman Beyond
+
+#### Approximately how long does it take a spacecraft to get to the Moon?
+
+- [x] Three days
+- [ ] Three weeks
+- [ ] Three months
