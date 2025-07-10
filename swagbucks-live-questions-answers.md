@@ -68619,3 +68619,39 @@
 - [x] Up-combed hair
 - [ ] Earrings
 - [ ] Fruit scent
+
+#### Complete this famous insurance slogan: "Like A Good Neightbor..."
+
+- [ ] We'll leave the light on for you
+- [x] State Farm is there
+- [ ] We bring in your mail
+
+#### What is the term for an incoming college student?
+
+- [x] Freshman
+- [ ] Sophomore
+- [ ] Junior
+
+#### Amelia Earhart was the first female pilot to fly solo over what body of water?
+
+- [ ] Colorado River
+- [x] Atantic Ocean
+- [ ] Lake Michigan
+
+#### According to the idiom: No pain...
+
+- [ ] No vacancy
+- [ ] No service
+- [x] No gain
+
+#### "Somewhere Over The Rainbow" is a song from what 1939 film?
+
+- [x] The Wizard of Oz
+- [ ] Gone With The Wind
+- [ ] Stagecoach
+
+#### Which Police Academy movie featured Kim Cattrall as Karen Thompson?
+
+- [ ] Police Academy 2
+- [x] Police Academy
+- [ ] Police Academy 6
