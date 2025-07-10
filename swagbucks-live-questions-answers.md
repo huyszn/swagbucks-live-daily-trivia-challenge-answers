@@ -68635,7 +68635,7 @@
 #### Amelia Earhart was the first female pilot to fly solo over what body of water?
 
 - [ ] Colorado River
-- [x] Atantic Ocean
+- [x] Atlantic Ocean
 - [ ] Lake Michigan
 
 #### According to the idiom: No pain...
