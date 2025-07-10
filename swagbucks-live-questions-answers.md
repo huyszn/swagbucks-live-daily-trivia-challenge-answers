@@ -68583,3 +68583,39 @@
 - [ ] View To A Kill
 - [x] Skyfall
 - [ ] Moonraker
+
+#### Nicolaus Copernicus is best known for his contributions to what scientific field?
+
+- [x] Astronomy
+- [ ] Biology
+- [ ] Chemistry
+
+#### A "Cruciverbalist" is someone who loves what kind of puzzles?
+
+- [ ] 3D
+- [x] Crossword
+- [ ] Jigsaw
+
+#### Until the 19th Century, what group of people were known as Pythagoreans?
+
+- [ ] Psychics
+- [x] Vegetarians
+- [ ] Soldiers
+
+#### What is the only species of bird that can fly backwards?
+
+- [ ] Cardinal
+- [ ] Eagle
+- [x] Hummingbird
+
+#### Who is NOT a descendant of Mayflower passenger John Howland?
+
+- [ ] Franklin Roosevelt
+- [ ] Alec Baldwin
+- [x] Lance Armstrong
+
+#### Troll Dolls are known for what iconic feature?
+
+- [x] Up-combed hair
+- [ ] Earrings
+- [ ] Fruit scent
