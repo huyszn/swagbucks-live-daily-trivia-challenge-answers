@@ -68505,3 +68505,81 @@
 - [x] Three days
 - [ ] Three weeks
 - [ ] Three months
+
+#### Based on the hair style they made popular, which rock band's hair could be used to clean a kitchen floor?
+
+- [x] The Beatles
+- [ ] The Cure
+- [ ] Nirvana
+
+#### Which film was NOT nominatino for the Best Picture Oscar in 2010?
+
+- [ ] Avatar
+- [ ] District 9
+- [x] Inception
+
+#### Which of these books was written by George Orwell?
+
+- [x] 1984
+- [ ] The Shining
+- [ ] The Cat in the Hat
+
+#### Which European country is home to the Leaning Tower of Pisa?
+
+- [ ] England
+- [x] Italy
+- [ ] France
+
+#### According to the saying, one of what fruit each day keeps the doctor away?
+
+- [ ] Banana
+- [ ] Orange
+- [x] Apple
+
+#### The Twilight novels center around which monsters?
+
+- [x] Vampires
+- [ ] Mummies
+- [ ] Orcs
+
+#### What was Frank Baum's inspiration for the name Oz?
+
+- [ ] A dog
+- [x] A filling cabinet
+- [ ] Australia
+
+#### "Apocalypse Now" was originallly supposed to be directed by which director?
+
+- [x] George Lucas
+- [ ] Steven Spielberg
+- [ ] Martin Scorsese
+
+#### Which professional sports team recorded the 1985 single "The Super Bowl Shuffle"?
+
+- [ ] Manchester United
+- [ ] Toronto Maple Leafs
+- [x] Chicago Bears
+
+#### The Charlotte Sting is a defunct team from which sports league?
+
+- [ ] CFL
+- [x] WNBA
+- [ ] NHL
+
+#### What is Cap'n Crunch's first name?
+
+- [ ] Magellan
+- [ ] Percival
+- [x] Horatio
+
+#### Which of the following horror movies is about a murderous doll?
+
+- [x] Child's Play
+- [ ] The Ring
+- [ ] Friday the 13th
+
+#### Which of the following James Bond theme songs won an Oscar?
+
+- [ ] View To A Kill
+- [x] Skyfall
+- [ ] Moonraker
