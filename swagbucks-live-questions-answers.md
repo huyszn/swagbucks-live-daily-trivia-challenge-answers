@@ -68655,3 +68655,63 @@
 - [ ] Police Academy 2
 - [x] Police Academy
 - [ ] Police Academy 6
+
+#### What is the name of Superman's home planet?
+
+- [ ] Mars
+- [ ] Earth
+- [x] Krypton
+
+#### What is Batman's alter ego?
+
+- [ ] Wally West
+- [x] Bruce Wayne
+- [ ] Clark Kent
+
+#### Hal Jordan, Guy Gardner, and John Stewart have all assumed what ring-wearing persona?
+
+- [x] Green Lantern
+- [ ] The Altom
+- [ ] Blooster Gold
+
+#### Which of the heroes in James Gunn's "Superman" doesn't have super powers?
+
+- [ ] Hawkgirl
+- [ ] Metamorpho
+- [x] Mister Terrific
+
+#### In a 1967 comic, Superman and The Flash raced for the first time. Who won?
+
+- [x] It was a tie
+- [ ] Superman
+- [ ] The Flash
+
+#### Who is Superman's arch enemy?
+
+- [ ] Gorilla Grodd
+- [x] Lex Luthor
+- [ ] The Joker
+
+#### When he made his comic book debut, which of his iconic powers did Superman NOT have?
+
+- [x] Flight
+- [ ] Invulnerability
+- [ ] Super Strength
+
+#### DC's Shazam was originally known by which hero name?
+
+- [ ] The Storm Warrior
+- [x] Captain Marvel
+- [ ] Hercules
+
+#### What is the name of the newspaper where Clark Kent and Lois LAne work?
+
+- [ ] The Gotham Times
+- [ ] Central City Sentinel
+- [x] The Daily Planet
+
+#### What kind of animal is Superman's pet Krypto?
+
+- [x] Dog
+- [ ] Cat
+- [ ] Horse
