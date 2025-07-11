@@ -68715,3 +68715,15 @@
 - [x] Dog
 - [ ] Cat
 - [ ] Horse
+
+#### A person with a separate room for all their dolls would be called a what?
+
+- [ ] Philatelist
+- [x] Plangonologist
+- [ ] Arctophile
+
+#### Which of these stars has the legal last name of Kilcher?
+
+- [x] Jewel
+- [ ] Dido
+- [ ] Akwafina
