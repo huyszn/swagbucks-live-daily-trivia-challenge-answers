@@ -68727,3 +68727,9 @@
 - [x] Jewel
 - [ ] Dido
 - [ ] Akwafina
+
+#### Which of these sports uses an oblong ball?
+
+- [x] Rugby
+- [ ] Soccer
+- [ ] Field Hockey
