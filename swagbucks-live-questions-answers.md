@@ -48179,7 +48179,7 @@
 
 - [ ] The Jetsons
 - [ ] Rick & Morty
-- [x] The Flinstones
+- [x] The Flintstones
 
 #### What famous author was nicknamed "The Goat" as a child?
 
@@ -68733,3 +68733,21 @@
 - [x] Rugby
 - [ ] Soccer
 - [ ] Field Hockey
+
+#### What do war heroes Unsinkable Sam, Mourka of Stalingrad, and Crimean Tom have in common?
+
+- [ ] They were killed in action
+- [x] They were cats
+- [ ] They fought in World War II
+
+#### Gene Simmons is one of the lead singers of what band?
+
+- [ ] The Romantics
+- [x] KISS
+- [ ] The Band
+
+#### Three Scottish kings and eight Popes share what name?
+
+- [x] Alexander
+- [ ] John
+- [ ] Charles
