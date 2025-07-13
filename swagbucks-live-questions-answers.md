@@ -12090,7 +12090,7 @@
 - [x] Chicago
 - [ ] San Diego
 
-#### Al Capone's St. Valentine's Day Massacure happened in which year?
+#### Al Capone's St. Valentine's Day Massacre happened in which year?
 
 - [ ] 1927
 - [ ] 1928
