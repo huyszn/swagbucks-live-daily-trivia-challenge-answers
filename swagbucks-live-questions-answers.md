@@ -68751,3 +68751,21 @@
 - [x] Alexander
 - [ ] John
 - [ ] Charles
+
+#### What is the name of He-Man's sister?
+
+- [ ] The Sorceress
+- [x] She-Ra
+- [ ] Judy
+
+#### Which of these words CANNOT be typed using a single row of a standard U.S. keyboard?
+
+- [ ] Flagstaff
+- [ ] Priority
+- [x] Quelled
+
+#### On the Flintstones, what is Wilma's maiden name?
+
+- [ ] Vanderpyl
+- [x] Slaghoople
+- [ ] Mcbricker
