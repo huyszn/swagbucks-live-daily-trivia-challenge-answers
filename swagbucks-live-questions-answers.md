@@ -68769,3 +68769,21 @@
 - [ ] Vanderpyl
 - [x] Slaghoople
 - [ ] Mcbricker
+
+#### Which of these is a type of pasta?
+
+- [x] Macaroni
+- [ ] Macaroons
+- [ ] Macabre
+
+#### "Just when you thought it was safe to go back in the water" is the tagline for what movie?
+
+- [ ] Blue Crush
+- [ ] The River Wild
+- [x] Jaws
+
+#### What is the name of the dad on "The Simpsons"?
+
+- [ ] Bart
+- [x] Homer
+- [ ] Lisa
