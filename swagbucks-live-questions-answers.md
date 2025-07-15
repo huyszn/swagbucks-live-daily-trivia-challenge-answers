@@ -68787,3 +68787,93 @@
 - [ ] Bart
 - [x] Homer
 - [ ] Lisa
+
+#### Complete this well-known sying: "You made your bed..."
+
+- [ ] Now make mine
+- [ ] Now clean the bathrooms
+- [x] Now lie in it
+
+#### What chain was founded as a singles' bar?
+
+- [x] T.G.I. Friday's
+- [ ] Applebee's
+- [ ] Chili's
+
+#### How old was King Charles III when he was named Price of Wales?
+
+- [x] 9
+- [ ] 15
+- [ ] 21
+
+#### What movie inspired the idea for Rotten Tomatoes?
+
+- [x] Rush Hour
+- [ ] The Matrix
+- [ ] Titanic
+
+#### Where would you be after crossing the World's longest sea bridge?
+
+- [ ] Singapore
+- [ ] Manama
+- [x] Hong Kong
+
+#### Criminal Intent, Organized Crime, and SVU are all spin offs of what TV show?
+
+- [ ] CSI
+- [x] Law & Order
+- [ ] NCIS
+
+#### Which of the following sandwiches is traditionally dipped in beaten egg and fried?
+
+- [ ] Turkey Club
+- [ ] Bahn Mi
+- [x] Monte Cristo
+
+#### Which of the following is NOT one of the components of blood?
+
+- [ ] Plasma
+- [x] Peanut Butter
+- [ ] Paltelets
+
+#### Where do the Care Bears sport the unique shapes on their bodies?
+
+- [x] Tummy
+- [ ] Left Ear
+- [ ] Armpit
+
+#### Who wrote "Pride and Prejudice"?
+
+- [ ] Victor Hugo
+- [ ] Louis L'Amour
+- [x] Jane Austen
+
+#### Which of the following composers is known primarily for their military marches?
+
+- [x] John Philip Sousa
+- [ ] Wolfgang Amadeus Mozart
+- [ ] John Williams
+
+#### The Derby, Bowler, and Fedora are all types of what article of clothing?
+
+- [ ] Sock
+- [ ] Belt
+- [x] Hat
+
+#### Which dinosaur's genus name translates to "roof lizard"?
+
+- [ ] Diplodocus
+- [ ] Pterodactyl
+- [x] Stegosaurus
+
+#### The Tom Cruise character Ethan Hunt works for which organization?
+
+- [x] Impossible Mission Force
+- [ ] NYPD
+- [ ] IRS
+
+#### "I've Had The Time Of My Life" was a hit off of which movie's soundtrack?
+
+- [ ] Ghostbusters
+- [ ] Working Girl
+- [x] Dirty Dancing
