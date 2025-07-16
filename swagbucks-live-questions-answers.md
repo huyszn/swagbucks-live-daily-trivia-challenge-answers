@@ -69021,3 +69021,21 @@
 - [ ] Who Framed Roger Rabbit?
 - [x] The Princess Bride
 - [ ] Full Metal Jacket
+
+#### What is the smallest unit of matter?
+
+- [ ] Crumb
+- [ ] Centimeter
+- [x] Atom
+
+#### The hit children's show Bluey is from what country?
+
+- [x] Australia
+- [ ] China
+- [ ] Belgium
+
+#### Who was the original choice to play George Bailey?
+
+- [ ] Gary Cooper
+- [x] Cary Grant
+- [ ] Henry Fonda
