@@ -68991,3 +68991,33 @@
 - [ ] Chex
 - [ ] Ryle Chips
 - [x] Marshmallows
+
+#### Which of these Carmen Sandiego games is fake?
+
+- [ ] Where in America's Past is Carmen Sandiego?
+- [ ] Where in Space is Carmen Sandiego?
+- [x] Where in Asia is Carmen Sandiego?
+
+#### How many total dice can you roll at one time in a game of Yahtzee?
+
+- [x] Five
+- [ ] Six
+- [ ] Seven
+
+#### Which of these words has its origins in a word for heat?
+
+- [ ] Crane
+- [x] Calm
+- [ ] Rush
+
+#### If you used the original paintball guns for one of their intended purposes, what would you be doing?
+
+- [x] Marking livestock
+- [ ] Washing barns
+- [ ] Coating a canvas
+
+#### "True Love" is Westley's reason for living in what 1987 film?
+
+- [ ] Who Framed Roger Rabbit?
+- [x] The Princess Bride
+- [ ] Full Metal Jacket
