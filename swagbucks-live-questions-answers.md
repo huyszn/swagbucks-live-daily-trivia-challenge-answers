@@ -62214,9 +62214,9 @@
 
 #### In the comic strip, what is the name of Blondie's husband? (REPEATED QUESTION WITH DIFFERENT ANSWER ORDERS)
 
+- [ ] Andy
 - [x] Dagwood
-- [ ] Alexander
-- [ ] Bill
+- [ ] Bettle
 
 #### In "Stranger Things", what's the name of the alternative dimension of the Mind Flayer?
 
@@ -68877,3 +68877,117 @@
 - [ ] Ghostbusters
 - [ ] Working Girl
 - [x] Dirty Dancing
+
+#### In "Popeye", on which day does Wimpy promised to pay you for a hamburger today?
+
+- [x] Tuesday
+- [ ] Monday
+- [ ] Sunday
+
+#### Which Los Angeles Lakers great is nicknamed "Magic"?
+
+- [ ] Jerry West
+- [ ] James Worthy
+- [x] Earvin Johnson
+
+#### Which of the following shows is most likely to use a laugh track?
+
+- [ ] Medical drama
+- [x] Sitcom
+- [ ] Documentary
+
+#### Who was the first American-born golfer to win the British Open?
+
+- [ ] Arnold Palmer
+- [ ] Jock Hutchison
+- [x] Walter Hagen
+
+#### Which of the following holiday movies was a box office bomb when it was first released in theaters?
+
+- [x] It's A Wonderful Life
+- [ ] A Christmas Story
+- [ ] Gremlins
+
+#### Who is the murderer in the world's first modern detective story?
+
+- [ ] The Butler
+- [ ] Professor Moriarty
+- [x] An orangutan
+
+#### Which two bands had drummers with the same name?
+
+- [ ] Duran Duran and Pink Floyd
+- [x] Queen and Duran Duran
+- [ ] Queen and Pink Floyd
+
+#### Which of these dishes is traditionally served in broth?
+
+- [x] Ramen
+- [ ] Spare Ribs
+- [ ] Bruschetta
+
+#### In the MCU, Steve Rogers, Sam Wilson, and John Walker have all assumed what mantle?
+
+- [ ] Iron Man
+- [ ] Sorcerer Supreme
+- [x] Captain America
+
+#### If Longfellow's poem was about going to the bathroom, where would Paul Revere go if he had to pee?
+
+- [x] On Land
+- [ ] By Sea
+- [ ] In Boston
+
+#### The fall of what structure is synonymous with the end of the Cold War?
+
+- [x] Berlin Wall
+- [ ] Great Wall of China
+- [ ] Hadrian's Wall
+
+#### Siblings Noel and Liam Gallagher founded what band?
+
+- [ ] Third Eye Blind
+- [ ] Semisonic
+- [x] Oasis
+
+#### What do you get when you multiply the length of a room by its width?
+
+- [x] Area
+- [ ] Radius
+- [ ] Brightness
+
+#### Who had to turn down the lead role in "Die Hard" for Bruce Willis to be cast?
+
+- [x] Frank Sinatra
+- [ ] Charles Bronson
+- [ ] Mel Gibson
+
+#### Which of the following was NOT a game in the original Nintendo Wii Sports?
+
+- [ ] Baseball
+- [ ] Tennis
+- [x] Eating
+
+#### Frankie and Kevin Jonas host what celebrity-centric realty show?
+
+- [ ] I'm A Celebrity, Get Me Out Of Here!
+- [x] Claim to Fame
+- [ ] Who Do You Think You Are?
+
+#### If you're engaging in "Kuchisabishii", what are you doing?
+
+- [x] Eating because you're lonely
+- [ ] Mending flatware
+- [ ] Organizing books
+
+#### Which of the following terms means something is good?
+
+- [ ] Busted
+- [x] Bussin
+- [ ] Basic
+
+#### Which of the following items is NOT part of traditionally Chex Mix?
+
+- [ ] Chex
+- [ ] Ryle Chips
+- [x] Marshmallows
