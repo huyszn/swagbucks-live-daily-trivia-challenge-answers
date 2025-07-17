@@ -69094,7 +69094,7 @@
 - [ ] Candy Land
 - [ ] Scrabble
 
-#### What is the term for something that has a low chance of occuring?
+#### What is the term for something that has a low chance of occurring?
 
 - [ ] Gutshot
 - [x] Long shot
@@ -69129,3 +69129,33 @@
 - [x] Shoes
 - [ ] Muppets
 - [ ] Pet Rocks
+
+#### A stiletto is a type of what?
+
+- [ ] Button down shirt
+- [x] High heel shoe
+- [ ] Baseball cap
+
+#### "My loneliness is killin' me (And I), I must confess, I still believe (Still believe)"
+
+- [ ] Crazy
+- [x] Baby One More Time
+- [ ] Toxic
+
+#### Elvis's signature hair style came from him emulating which actor?
+
+- [ ] Jimmy Stewart
+- [ ] Kirk Douglas
+- [x] Tony Curtis
+
+#### In what video game series do you inhabit an island with animal neighbors?
+
+- [x] Animal Crossing
+- [ ] Dr. Mario
+- [ ] Altered Beast
+
+#### In the biopic "Straight Outta Compton", which N.W.A. member is portrayed by his real-life son?
+
+- [x] Ice Cube
+- [ ] Dr. Dre
+- [ ] MC Ren
