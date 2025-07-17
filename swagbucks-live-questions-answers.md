@@ -69099,3 +69099,33 @@
 - [ ] Gutshot
 - [x] Long shot
 - [ ] Rim Shot
+
+#### Louis Pasteur helped develop the vaccine for what disease?
+
+- [x] Rabies
+- [ ] Scabies
+- [ ] The Common Cold
+
+#### Which living author has had the most books made into movies?
+
+- [ ] JK Rowling
+- [ ] John Grisham
+- [x] Stephen King
+
+#### Which board game is about getting a job, a family, and making as much money as possible?
+
+- [ ] Chutes and Ladders
+- [ ] Scrabble
+- [x] The Game of Life
+
+#### The Bay of Pigs, known for its failed invasion in 1961, is situated in which country?
+
+- [ ] Mexico
+- [ ] Venezuela
+- [x] Cuba
+
+#### Imelda Marcos famously had a huge collection of what?
+
+- [x] Shoes
+- [ ] Muppets
+- [ ] Pet Rocks
