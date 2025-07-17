@@ -69039,3 +69039,63 @@
 - [ ] Gary Cooper
 - [x] Cary Grant
 - [ ] Henry Fonda
+
+#### Crash, Hi-hat, and Ride are all types of what musical instrument?
+
+- [ ] Flute
+- [x] Cymbal
+- [ ] Guitar
+
+#### "Ohana means family" is a quote from which Disney animated movie?
+
+- [x] Lilo & Stitch
+- [ ] Cinderella
+- [ ] 101 Dalmatians
+
+#### Which of the following breads is made using a "starter" commonly grown and kept in a jar?
+
+- [ ] Rye
+- [ ] Wheat
+- [x] Sourdough
+
+#### Thomas Kinkade is known as the "Painter of" what?
+
+- [x] Light
+- [ ] Life
+- [ ] Love
+
+#### Which SNL alum played Leslie Knope on "Parks & Recreation"?
+
+- [ ] Kristen Wiig
+- [ ] Maya Rudolph
+- [x] Amy Poehler
+
+#### What is the French term for a French Kiss?
+
+- [ ] Gagner
+- [x] Galocher
+- [ ] Gargouiller
+
+#### Where did Oktoberfest originate?
+
+- [x] Bavaria
+- [ ] Tahiti
+- [ ] Shanghai
+
+#### Which company coined the term "Action Figure"?
+
+- [ ] Mattel
+- [x] Hasbro
+- [ ] Benner
+
+#### Which of the following is a military strategy game?
+
+- [x] Risk
+- [ ] Candy Land
+- [ ] Scrabble
+
+#### What is the term for something that has a low chance of occuring?
+
+- [ ] Gutshot
+- [x] Long shot
+- [ ] Rim Shot
