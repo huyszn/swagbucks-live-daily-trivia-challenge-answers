@@ -69207,3 +69207,27 @@
 - [ ] Lou Guhrig
 - [ ] Pete Rose
 - [x] Cal Ripken, Jr.
+
+#### Which of these foods is traditionally peelede before eating?
+
+- [x] Banana
+- [ ] Tofu
+- [ ] Spaghetti
+
+#### Which of these companies makes tractors?
+
+- [x] John Deere
+- [ ] John Rabbite
+- [ ] John Cowe
+
+#### How many outs does it take to end a team's turn at bat in an inning of baseball?
+
+- [ ] One
+- [ ] Two
+- [x] Three
+
+#### According to the rhyme, in what year did Columbus sail the ocean blue?
+
+- [x] 1492
+- [ ] 2002
+- [ ] 1982
