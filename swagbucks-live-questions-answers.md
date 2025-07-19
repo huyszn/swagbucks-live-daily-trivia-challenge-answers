@@ -14755,12 +14755,6 @@
 - [ ] Washington and Adams
 - [ ] Jefferson and Washington
 
-#### What show was the launchpad for the Olsan Twins?
-
-- [ ] Family Matters
-- [x] Full House
-- [ ] Step by Step
-
 #### Who was the losing pitcher in the longest MLB game over played?
 
 - [x] Chuck Porter
@@ -22380,12 +22374,6 @@
 - [x] Brad Pitt
 - [ ] Justin Theroux
 - [ ] Bradley Cooper
-
-#### In one Friends Thanksgiving episode, what is Chandler's punishment for kissing Joey's girlfriend?
-
-- [ ] He's not allowed to eat
-- [x] He has to say in a box
-- [ ] He has to be naked
 
 #### On Friends, Ross and Monica competed against each other as kids in the Geller Cup playing what Thanksgiving sport?
 
@@ -69159,3 +69147,51 @@
 - [x] Ice Cube
 - [ ] Dr. Dre
 - [ ] MC Ren
+
+#### In Archery, what part of the target is worth the most points?
+
+- [ ] Inner Red
+- [ ] Inner Blue
+- [x] Bull's-eye
+
+#### What science is the study of living organisms?
+
+- [x] Biology
+- [ ] Chemistry
+- [ ] Geology
+
+#### Who hit over 60 HR in a season and did not win a home run title that year?
+
+- [ ] Mark McGwire
+- [ ] Barry Bonds
+- [x] Sammy Sosa
+
+#### Which cartoon character is famous for saying "That's All, Folks"?
+
+- [ ] Yosemite Sam
+- [x] Porky Pig
+- [ ] Tweety Bird
+
+#### In which city did Martin Luther King deliver the "I Have A Dream" speech?
+
+- [ ] New York
+- [x] Washington, D.C.
+- [ ] Los Angeles
+
+#### William Gaines was the longtime publisher of what magazine?
+
+- [ ] Sports Illustrated
+- [ ] Time
+- [x] Mad
+
+#### Which current Los Angeles Laker was known as the Akron Hammer?
+
+- [ ] Michael Jordan
+- [ ] Larry Bird
+- [x] LeBron James
+
+#### Which of these teams plays their home games in California?
+
+- [x] 49ers
+- [ ] Raptors
+- [ ] Yankees
