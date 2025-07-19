@@ -69195,3 +69195,15 @@
 - [x] 49ers
 - [ ] Raptors
 - [ ] Yankees
+
+#### What is the former French colony Saint-Domingue called today?
+
+- [x] Haiti
+- [ ] Dominican Republic
+- [ ] St. Croix
+
+#### With over 2,632 consecutive games played, who is baseball's Iron Man?
+
+- [ ] Lou Guhrig
+- [ ] Pete Rose
+- [x] Cal Ripken, Jr.
