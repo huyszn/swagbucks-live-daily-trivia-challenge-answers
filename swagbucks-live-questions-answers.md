@@ -61578,7 +61578,7 @@
 
 #### What athlete popularized the phrase "My bad"?
 
-- [ ] Robert Clemente
+- [ ] Roberto Clemente
 - [x] Manute Bol
 - [ ] Muhammad Ali
 
@@ -69231,3 +69231,27 @@
 - [x] 1492
 - [ ] 2002
 - [ ] 1982
+
+#### What children's show features a character named Cookie Monster?
+
+- [ ] Daniel Tiger's Neighborhood
+- [ ] Caillou
+- [x] Sesame Street
+
+#### What is the name of the traditional Scottish garment worn by men?
+
+- [ ] Culottes
+- [ ] Sarong
+- [x] Kilt
+
+#### "American Pie" was only the second movie role of which star?
+
+- [ ] Jason Biggs
+- [ ] Eddie Kaye Thomas
+- [x] Chris Klein
+
+#### Which of the following shows is about the mob?
+
+- [ ] Westworld
+- [ ] Friends
+- [x] The Sopranos
