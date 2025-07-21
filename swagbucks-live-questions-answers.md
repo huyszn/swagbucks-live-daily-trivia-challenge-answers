@@ -35227,7 +35227,7 @@
 - [x] Moulin Rogue
 - [ ] La La Land
 
-#### "Island in the Stream" is a duet with Kenny Rogers and what other country singer?
+#### "Islands in the Stream" is a duet with Kenny Rogers and what other country singer?
 
 - [x] Dolly Parton
 - [ ] Reba McEntire
@@ -69255,3 +69255,27 @@
 - [ ] Westworld
 - [ ] Friends
 - [x] The Sopranos
+
+#### Who did the vocals for the song "Uptown Funk"?
+
+- [x] Bruno Mars
+- [ ] Bruno Venus
+- [ ] Bruno Earth
+
+#### What Baseball Hall of Famer was known as "The Wizard of Oz"?
+
+- [x] Ozzie Smith
+- [ ] Sandy Koufax
+- [ ] Mike Schmidt
+
+#### Until 1925, people who lived in Oslo said they lived in what city?
+
+- [ ] Norse
+- [x] Christiania
+- [ ] Odin
+
+#### What network originally aired The Real World and Road Rules?
+
+- [x] MTV
+- [ ] Nickelodeon
+- [ ] VH1
