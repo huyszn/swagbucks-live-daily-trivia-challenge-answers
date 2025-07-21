@@ -69279,3 +69279,33 @@
 - [x] MTV
 - [ ] Nickelodeon
 - [ ] VH1
+
+#### Pharaohs ruled what country?
+
+- [x] Egypt
+- [ ] China
+- [ ] Ireland
+
+#### What fasion brand uses a crocodile in its logo?
+
+- [ ] Givenchy
+- [x] Lacoste
+- [ ] Valentino
+
+#### What noted scientist once deisgned a "green" refrigerator?
+
+- [ ] Spethen Hawking
+- [ ] Thomas Edison
+- [x] Albert Einstein
+
+#### In "Home Alone", where does KEvin's family travel without him?
+
+- [ ] The Moon
+- [x] Paris
+- [ ] San Francisco
+
+#### Which actress is the oldest?
+
+- [x] Goldie Hawn
+- [ ] Glenn Close
+- [ ] Meg Ryan
