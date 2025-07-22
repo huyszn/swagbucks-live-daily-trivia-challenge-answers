@@ -69286,19 +69286,19 @@
 - [ ] China
 - [ ] Ireland
 
-#### What fasion brand uses a crocodile in its logo?
+#### What fashion brand uses a crocodile in its logo?
 
 - [ ] Givenchy
 - [x] Lacoste
 - [ ] Valentino
 
-#### What noted scientist once deisgned a "green" refrigerator?
+#### What noted scientist once designed a "green" refrigerator?
 
-- [ ] Spethen Hawking
+- [ ] Stephen Hawking
 - [ ] Thomas Edison
 - [x] Albert Einstein
 
-#### In "Home Alone", where does KEvin's family travel without him?
+#### In "Home Alone", where does Kevin's family travel without him?
 
 - [ ] The Moon
 - [x] Paris
@@ -69309,3 +69309,63 @@
 - [x] Goldie Hawn
 - [ ] Glenn Close
 - [ ] Meg Ryan
+
+#### What martial art, whose name comes from the Japaneese for "Empty hands", originated in Okinawa?
+
+- [x] Karate
+- [ ] Muay Thai
+- [ ] Capoeira
+
+#### A common party game gives players the choice of "Truth or" what?
+
+- [ ] Jump
+- [x] Dare
+- [ ] Other Truth
+
+#### Steven Tyler is the frontman for what band?
+
+- [x] Aerosmith
+- [ ] The Band
+- [ ] U2
+
+#### The Nile, Amazon, Yangtze, Mississippi are all famous names of what geographic feature?
+
+- [ ] Mountain
+- [ ] Canyon
+- [x] River
+
+#### What hit HBO series centers around the staff and guests at a fictional luxury resort chain?
+
+- [x] The White Lotus
+- [ ] Entourage
+- [ ] Ballers
+
+#### What coffee shop chain has a mermaid in its logo?
+
+- [x] Starbucks
+- [ ] Coffee Bean & Tea Leaf
+- [ ] Dutch Bros.
+
+#### Which species has the longest dependence period of any land-dwelling animal?
+
+- [ ] Elephant
+- [ ] Human
+- [x] Orangutan
+
+#### In 1977, sent what exploratory craft into space?
+
+- [x] Voyager 1
+- [ ] Hubble Telescope
+- [ ] International Space Station
+
+#### What does comic strip character Hagar the Horrible do for a living?
+
+- [ ] Accountant
+- [ ] Dog Walker
+- [x] Viking
+
+#### In the nursery rhyme, what fruit did Little Jack Horner pull from the pie?
+
+- [x] Plum
+- [ ] Apple
+- [ ] Banana
