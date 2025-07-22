@@ -69393,3 +69393,21 @@
 - [ ] Bourbon
 - [ ] Grape Juice
 - [x] Milk
+
+#### Which Disney film's box office failure stopped them from making Princess movies until 1989?
+
+- [x] Sleeping Beauty
+- [ ] Cinderella
+- [ ] Alice in Wonderland
+
+#### Robert Fulton is credited with what 19th century invention?
+
+- [x] The Steamboat
+- [ ] Vaping
+- [ ] Hoverboards
+
+#### Based on its name, what might scientist shout after discovering "the god particle"?
+
+- [x] OMHB!
+- [ ] OMGP!
+- [ ] OMLX!
