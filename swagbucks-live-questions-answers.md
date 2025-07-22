@@ -69369,3 +69369,27 @@
 - [x] Plum
 - [ ] Apple
 - [ ] Banana
+
+#### In the first GOT MILK commercial, how much was the correct answer worth?
+
+- [x] $10,000
+- [ ] $100,000
+- [ ] $1,000
+
+#### What is the Jolly Green Giant's catchphrase?
+
+- [ ] Fee Fi Fo Fum
+- [x] Ho Ho Ho
+- [ ] Tee Hee Hee
+
+#### Which U.S. President was the first to affirm his oath of office rather than swearing it?
+
+- [ ] Abraham Lincoln
+- [x] Franklin Pierce
+- [ ] Ulysses S. Grant
+
+#### What is the official drink of Kentucky?
+
+- [ ] Bourbon
+- [ ] Grape Juice
+- [x] Milk
