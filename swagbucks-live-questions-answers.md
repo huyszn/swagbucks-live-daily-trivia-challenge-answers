@@ -69489,3 +69489,21 @@
 - [ ] Rex
 - [ ] Tiberius
 - [x] Copper
+
+#### Around when is the North Pole titled 23.5 degrees toward our sun?
+
+- [ ] January 1st
+- [ ] March 20th
+- [x] June 21st
+
+#### Which of the following do you wear on your finger to protect it while sewing?
+
+- [ ] Fumble
+- [x] Thimble
+- [ ] Thistle
+
+#### Gizmo, Kasper, and Elmo all played which character in the films?
+
+- [ ] Crookshanks
+- [x] Hedwig
+- [ ] Mrs. Norris
