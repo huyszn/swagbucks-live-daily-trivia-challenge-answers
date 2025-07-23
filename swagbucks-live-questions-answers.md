@@ -69393,3 +69393,81 @@
 - [ ] Bourbon
 - [ ] Grape Juice
 - [x] Milk
+
+#### Which Disney film's box office failure stopped them from making Princess movies until 1989?
+
+- [x] Sleeping Beauty
+- [ ] Cinderella
+- [ ] Alice in Wonderland
+
+#### Robert Fulton is credited with what 19th century invention?
+
+- [x] The Steamboat
+- [ ] Vaping
+- [ ] Hoverboards
+
+#### Based on its name, what might scientist shout after discovering "the god particle"?
+
+- [x] OMHB!
+- [ ] OMGP!
+- [ ] OMLX!
+
+#### Civil Rights activist Rosa Parks was arrested for refusing to do what?
+
+- [ ] Her taxes
+- [ ] Buy Girl Scout cookies
+- [x] Sit in the back of the bus
+
+#### What midwestern U.S. city was the Rubber Capital of the World in the 20th Century?
+
+- [x] Akron, Ohio
+- [ ] Riverside, California
+- [ ] Binghamton, New York
+
+#### Which of the following comic strips characters is a cat?
+
+- [ ] Snoopy
+- [ ] Dick Tracy
+- [x] Garfield
+
+#### What method of cooking involves placing food in liquid kept just below its boiling point?
+
+- [ ] Blancing
+- [x] Simmering
+- [ ] Sauteing
+
+#### Who won the first ever Grammy for Best Album?
+
+- [ ] Elvis Presley
+- [ ] Liberace
+- [x] Henry Mancini
+
+#### Ghost Protocol, Rogue Nation, and Fallout are subtitles for movies in which series?
+
+- [x] Mission: Impossible
+- [ ] The Godfather
+- [ ] Star Trek
+
+#### On which reality competition show do contestants protect themselves with an Immunity Idol?
+
+- [ ] The Traitors
+- [x] Survivor
+- [ ] So You Think You Can Dance
+
+#### What Broadway musical was based on a Ron Chernow book?
+
+- [ ] Come From Away
+- [x] Hamilton
+- [ ] Chicago
+
+#### Ninjago was created as a line in which toy brand?
+
+- [x] LEGO
+- [ ] G.I. Joe
+- [ ] Transformers
+
+#### The recycling logo is made up of what objects?
+
+- [ ] Cans
+- [ ] Fingers
+- [x] Arrows
