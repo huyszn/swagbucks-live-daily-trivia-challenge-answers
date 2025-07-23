@@ -69471,3 +69471,21 @@
 - [ ] Cans
 - [ ] Fingers
 - [x] Arrows
+
+#### Which of these talk show hosts had Tom Hanks as a guest on their first show?
+
+- [x] James Corden
+- [ ] Jay Leno
+- [ ] Jimmy Fallon
+
+#### Which of the following would be pure gold?
+
+- [ ] 10 karat
+- [ ] 14 karat
+- [x] 24 karat
+
+#### Corey Feldman played which movie dog?
+
+- [ ] Rex
+- [ ] Tiberius
+- [x] Copper
