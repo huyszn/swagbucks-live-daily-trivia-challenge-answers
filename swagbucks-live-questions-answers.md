@@ -69507,3 +69507,63 @@
 - [ ] Crookshanks
 - [x] Hedwig
 - [ ] Mrs. Norris
+
+#### Which of the following mythological creatures does NOT resemble a horse?
+
+- [ ] Pegasus
+- [x] Dragon
+- [ ] Unicorn
+
+#### Which of the following foods is classified as a whole grain?
+
+- [ ] Hot Dog
+- [ ] Apple
+- [x] Quinoa
+
+#### Which of the following U.S. cities has been called "The Entertianment Capital of the World"?
+
+- [x] Los Angeles
+- [ ] Detroit
+- [ ] Hampton
+
+#### Which of the following animals rolls their eyes as a defense mechanism?
+
+- [ ] Giraffe
+- [ ] Chamelon
+- [x] Great White Shark
+
+#### What 1992 game used the slogan "Who, who, who's got a crush on you?"
+
+- [x] Dream Phone
+- [ ] Sorry!
+- [ ] Backgammon
+
+#### What were Pop Tarts named for?
+
+- [ ] Toasters
+- [ ] A carnival game
+- [x] An art movement
+
+#### Which of the following guys named Randy are known for their work in Mixed Martial Arts?
+
+- [x] Randy Couture
+- [ ] Randy Newman
+- [ ] Randy Jackson
+
+#### People once ate what toxic substance to improve their complexion?
+
+- [ ] Asbestos
+- [ ] Lend
+- [x] Arsenic
+
+#### As of February 2025, who has won the most Grammys of all time?
+
+- [x] Beyonce
+- [ ] Aerosmith
+- [ ] Tone Loc
+
+#### Which of the following TV series was set at a Yorkshine country estate?
+
+- [x] Downton Abbey
+- [ ] Kojak
+- [ ] Sofia the First
