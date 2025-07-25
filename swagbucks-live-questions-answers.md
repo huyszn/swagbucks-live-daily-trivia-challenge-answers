@@ -69567,3 +69567,75 @@
 - [x] Downton Abbey
 - [ ] Kojak
 - [ ] Sofia the First
+
+#### In February of 2021, what rover landed on Mars?
+
+- [ ] Stinkypants
+- [x] Perserverance
+- [ ] Gil
+
+#### "Life, Liberty & the Pursuit of Happiness" is to the United States as "Peace, Order and Good Government" is to whom?
+
+- [ ] England
+- [x] Canada
+- [ ] Switzerland
+
+#### Which member of the Fantastic Four has orange rocks for skin?
+
+- [ ] The Human Torch
+- [ ] Mister Fantastic
+- [x] The Thing
+
+#### What Captain America catchphrase do we first hear when a bully is beating him up?
+
+- [x] I can do this all day
+- [ ] Ow! That hurts!
+- [ ] Not in the face!
+
+#### A car accident causes nerve damage to which of Doctor Strange's body parts?
+
+- [x] Hands
+- [ ] Feet
+- [ ] Eyes
+
+#### What is the first Infinity Stone to appear in an MCU movie?
+
+- [ ] Mind
+- [x] Space
+- [ ] Reality
+
+#### In the MCU, the leader of the Ten Rings crinimal organization is the father of which hero?
+
+- [ ] Iron Man
+- [x] Shang-Chi
+- [ ] Peter Quill
+
+#### At the end of "Iron Man", who talks to Tony Stark about "The Avengers Initiative"?
+
+- [ ] Madame Hydra
+- [ ] The Ancient One
+- [x] Nick Fury
+
+#### Which MCU character, introduced in the Guardians of the Galaxy movies, appears during the big fight in "Avengers: Endgame"?
+
+- [ ] Beta Ray Bill
+- [x] Howard The Duck
+- [ ] Adam Warlock
+
+#### What is the name of the World War II military unit led by Captain America?
+
+- [ ] The Screaming Hellfires
+- [ ] The Blazing Strike Force
+- [x] The Howling Commandos
+
+#### Which member of the Guardians of the Galaxy, once known as Subject 89P13, was a science experiment?
+
+- [x] Rocket Raccoon
+- [ ] Gamora
+- [ ] Drax the Destroyer
+
+#### T'Chaka, T'Challa, and Shuri have all assumed which hero's identity?
+
+- [ ] Ironheart
+- [x] Black Panther
+- [ ] Captain Marvel
