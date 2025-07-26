@@ -69645,3 +69645,69 @@
 - [x] Ice Hockey
 - [ ] Water Polo
 - [ ] Gymnastics
+
+#### What is the longest word in the English language with all the letters in alphabetical order?
+
+- [ ] Almost
+- [ ] Billowy
+- [x] Aegilops
+
+#### Complete the title of this Journey song" Don't Stop..."
+
+- [x] Believin'
+- [ ] Hopin'
+- [ ] Watchin'
+
+#### What is the name of the device the crew of the Enterprise use to get from the ship to a planet's surface?
+
+- [x] Transporter
+- [ ] Transformer
+- [ ] Telephone
+
+#### What famous highway connected Chicago to Los Angeles?
+
+- [ ] The Oregon Trail
+- [x] Route 66
+- [ ] The Appian Way
+
+#### What 2018 film centers around a trip to an extravagant wedding in Singapore?
+
+- [x] Crazy Rich Asians
+- [ ] Insanely Wealthy Asians
+- [ ] Asians With A Lot Of Moolah
+
+#### Newton's third law dictates that what goes up must do what?
+
+- [x] Come down
+- [ ] Use the restroom
+- [ ] Try a bite of this cake
+
+#### What loud-mouthed tennis pro won Wimbledon in 1981?
+
+- [x] John McEnroe
+- [ ] Pete Sampras
+- [ ] Andy Murray
+
+#### Only 8 people have been granted honorary citizenship to the United States. Which of the following is one of them?
+
+- [x] Mother Teresa
+- [ ] Albert Einstein
+- [ ] Florence Nightingale
+
+#### Which of these is NOT primarily a technique for mural painting?
+
+- [ ] Stippling
+- [ ] Encaustic
+- [x] Herringbone
+
+#### Who currently hosts "The Price Is Right"?
+
+- [x] Drew Carey
+- [ ] Drew Brees
+- [ ] Mariah Carey
+
+#### A hole punch was the inspiration for what children's book?
+
+- [x] The Very Hungry Caterpillar
+- [ ] Holes
+- [ ] The Missing Piece
