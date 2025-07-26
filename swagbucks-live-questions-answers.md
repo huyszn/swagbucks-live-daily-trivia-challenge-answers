@@ -69639,3 +69639,9 @@
 - [ ] Ironheart
 - [x] Black Panther
 - [ ] Captain Marvel
+
+#### In "The Mighty Ducks", what sport do the kids play?
+
+- [x] Ice Hockey
+- [ ] Water Polo
+- [ ] Gymnastics
