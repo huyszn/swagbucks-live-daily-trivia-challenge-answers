@@ -69741,3 +69741,15 @@
 - [x] Four
 - [ ] Seven
 - [ ] Ten
+
+#### Which of the following artists was a cubist?
+
+- [ ] Jackson Pollock
+- [x] Pablo Picasso
+- [ ] Henri Matisse
+
+#### What is one product Bose is known for?
+
+- [x] Headphones
+- [ ] Salad Tongs
+- [ ] Throw rugs
