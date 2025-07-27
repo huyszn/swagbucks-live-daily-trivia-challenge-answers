@@ -69711,3 +69711,33 @@
 - [x] The Very Hungry Caterpillar
 - [ ] Holes
 - [ ] The Missing Piece
+
+#### Who was the original narrator of the "Madeline" animated Series?
+
+- [ ] Christopher Reeve
+- [ ] Christopher Lee
+- [x] Christopher Plummer
+
+#### The Macy's Thanksgiving Day PArade first received national attention thanks to which holiday movie?
+
+- [x] Miracle on 34th Street
+- [ ] La La Land
+- [ ] Iron Man
+
+#### In the muscial "Hairspray", to which city does Tracy Turnblad sing good morning?
+
+- [x] Baltimore
+- [ ] Kenosha
+- [ ] Seattle
+
+#### Whose Fairy Godmother sings "Bibbidi Boppity Boo"?
+
+- [x] Cinderella
+- [ ] Snow White
+- [ ] Sleeping Beauty
+
+#### How many strings does a standard violin have?
+
+- [x] Four
+- [ ] Seven
+- [ ] Ten
