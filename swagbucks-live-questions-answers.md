@@ -69753,3 +69753,27 @@
 - [x] Headphones
 - [ ] Salad Tongs
 - [ ] Throw rugs
+
+#### Which band released the seminal grunge album Nevermind?
+
+- [x] Nirvana
+- [ ] Peral Jam
+- [ ] Soundgarden
+
+#### Abraham Lincoln was the tallest U.S. President. Who was the shortest?
+
+- [ ] John Adams
+- [x] James Madison
+- [ ] Martin Van Buren
+
+#### The Carvel tin used to make Santa cakes is the same tin they use to make what signature cake?
+
+- [x] Fudgie the Whale
+- [ ] Cookie Puss
+- [ ] Hug Me The Bear
+
+#### What type of diet is dairy-free?
+
+- [x] Vegan
+- [ ] Keto
+- [ ] Vegetarian
