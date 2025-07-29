@@ -69753,3 +69753,87 @@
 - [x] Headphones
 - [ ] Salad Tongs
 - [ ] Throw rugs
+
+#### Which band released the seminal grunge album Nevermind?
+
+- [x] Nirvana
+- [ ] Peral Jam
+- [ ] Soundgarden
+
+#### Abraham Lincoln was the tallest U.S. President. Who was the shortest?
+
+- [ ] John Adams
+- [x] James Madison
+- [ ] Martin Van Buren
+
+#### The Carvel tin used to make Santa cakes is the same tin they use to make what signature cake?
+
+- [x] Fudgie the Whale
+- [ ] Cookie Puss
+- [ ] Hug Me The Bear
+
+#### What type of diet is dairy-free?
+
+- [x] Vegan
+- [ ] Keto
+- [ ] Vegetarian
+
+#### Which pizza chain uses a tiny Roman Emperor as its mascot?
+
+- [ ] Dominos
+- [ ] Pizza Hut
+- [x] Little Caesars
+
+#### Which of these toy lines was scented?
+
+- [x] Strawberry Shortcake
+- [ ] Transformers
+- [ ] Madballs
+
+#### In baseball, what term is used to describe the person who's up 4th in their team's batting order?
+
+- [ ] Leafoff Hitter
+- [x] Cleanup Hitter
+- [ ] Designated Hitter
+
+#### When was "Flapper fashion" first en vogue?
+
+- [x] 1920s
+- [ ] 1960s
+- [ ] 1990s
+
+#### According to the saying, it ain't over until who sings?
+
+- [ ] The Penguin
+- [x] The Fat Lady
+- [ ] The Ocarina of Time
+
+#### What object does Popeye the Sailor Man always have in his mouth?
+
+- [ ] Cigarette
+- [ ] Cigar
+- [x] Pipe
+
+#### The tiny pocket in your jeans was originally designed to carry which of the following?
+
+- [x] Watch
+- [ ] Change
+- [ ] Ring
+
+#### Which of the following is NOT a computer programming language?
+
+- [ ] Python
+- [x] Esperanto
+- [ ] JavaScript
+
+#### What is the capital of Ireland?
+
+- [x] Dublin
+- [ ] Cork
+- [ ] Limerick
+
+#### Which silent film star's most famous character was known as "The Tramp"?
+
+- [ ] Douglas Fairbanks
+- [x] Charlie Chaplin
+- [ ] Rudolph Valentino
