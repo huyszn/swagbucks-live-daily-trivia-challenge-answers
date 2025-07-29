@@ -69837,3 +69837,33 @@
 - [ ] Douglas Fairbanks
 - [x] Charlie Chaplin
 - [ ] Rudolph Valentino
+
+#### Where would you find the world's shortest river?
+
+- [x] United States
+- [ ] Wales
+- [ ] Monaco
+
+#### Which of the following board games is about navigating a creepy mansion?
+
+- [ ] Nightmare
+- [x] Shrieks & Creaks
+- [ ] I Vant To Bite Your Finger
+
+#### What musical instrument does Lisa Simpson play?
+
+- [ ] Drums
+- [ ] Violin
+- [x] Saxophone
+
+#### Hanukkah celebrates which famous revolt?
+
+- [ ] The U.S. Revolution
+- [x] The Maccabean Revolt
+- [ ] The French Revolution
+
+#### Which State is home to the landmark known as "Redneck Stonehenge"?
+
+- [ ] Texas
+- [ ] Alabama
+- [x] Utah
