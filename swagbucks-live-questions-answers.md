@@ -69867,3 +69867,63 @@
 - [ ] Texas
 - [ ] Alabama
 - [x] Utah
+
+#### Gissele Bundchen, Naomi Campbell, and Kate Moss got their starts in which industry?
+
+- [x] Fashion
+- [ ] Coal Mining
+- [ ] Bookbinding
+
+#### Where does Winnie the Pooh live?
+
+- [ ] Green Acres
+- [ ] 1313 Mockingbird Lane
+- [x] Hundred Acre Wood
+
+#### Who was the host of the 2025 Academy Awards?
+
+- [x] Conan O'Brien
+- [ ] Jimmy Fallon
+- [ ] Nikki Glaser
+
+#### Due to gambling accusations, Pete Rose was once banned for life from which sport?
+
+- [ ] Boxing
+- [x] Baseball
+- [ ] Football
+
+#### What candy brand nicknamed itself The Freshmaker?
+
+- [ ] Tic Tacs
+- [ ] Life Savers
+- [x] Mentos
+
+#### According to the saying, what is worth 1,000 words?
+
+- [x] A Picture
+- [ ] 100 Sentences
+- [ ] 3 Gold Bars
+
+#### Who was the first woman inducted into the Rock and Roll Hall of Fame?
+
+- [ ] Ronnie Spector
+- [ ] Janis Joplin
+- [x] Aretha Franklin
+
+#### Which of the following games does NOT feature pieces moving around a board?
+
+- [x] Yahtzee
+- [ ] Trivial Pursuit
+- [ ] Chess
+
+#### Which of the following shows is a medical drama?
+
+- [ ] The Rehearsal
+- [x] The Pitt
+- [ ] Justified
+
+#### Which of the following bands was created for a television show?
+
+- [ ] The Beatles
+- [ ] The Rolling Stones
+- [x] The Monkees
