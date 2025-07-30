@@ -32131,7 +32131,7 @@
 - [ ] Sports
 - [x] Philsophy
 
-#### Ocean Juice is generally high in which vitamin?
+#### Orange Juice is generally high in which vitamin?
 
 - [x] C
 - [ ] X
@@ -69927,3 +69927,63 @@
 - [ ] The Beatles
 - [ ] The Rolling Stones
 - [x] The Monkees
+
+#### Eliza Doolittle is the main character of what Broadway musical?
+
+- [ ] Anything Goes
+- [ ] Phantom of the Opera
+- [x] My Fair Lady
+
+#### Margaret Thatcher was the first woman appointed to be Prime Minister of what country?
+
+- [ ] Canada
+- [x] United Kingdom
+- [ ] France
+
+#### The Rosca de Reyes and Bolo Rei are both versions of what holiday pastry?
+
+- [ ] Fruitcake
+- [x] King Cake
+- [ ] Hamantaschen
+
+#### Madonna's video for "Like A Prayer" caused what company to drop her as a spokesperson?
+
+- [ ] Chanel
+- [ ] Coca-Cola
+- [x] Pepsi
+
+#### According to the U.S. military, what does the D stand for in D-Day?
+
+- [ ] Decision
+- [ ] Daring
+- [x] Day
+
+#### Where was Coca-Cola invented?
+
+- [x] Atlanta, GA
+- [ ] Honolulu, HI
+- [ ] Phoenix, AZ
+
+#### Joy Behar and Sunny Hostin are two of the hosts of what daily talk show?
+
+- [x] The View
+- [ ] The Talk
+- [ ] Crossfire
+
+#### Which art-inspired Nat King Cole song was released in 1950?
+
+- [x] Mona Lisa
+- [ ] For Sentimental Reasons
+- [ ] A Blossom Fell
+
+#### Complete this lyric: "Someday we'll find it, the Rainbow Connection, the lovers, the dreamers, and..."
+
+- [ ] Piggy
+- [ ] Jim
+- [x] Me
+
+#### In early 2021, independent investors on Reddit helped drive up the price of what retail stock?
+
+- [x] Gamestop
+- [ ] Babbage's
+- [ ] Electronics Boutique
