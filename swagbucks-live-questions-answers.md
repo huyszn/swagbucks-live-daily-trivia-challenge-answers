@@ -69987,3 +69987,27 @@
 - [x] Gamestop
 - [ ] Babbage's
 - [ ] Electronics Boutique
+
+#### Gyoza is a type of dumpling in which cuisine?
+
+- [ ] Indian
+- [ ] Sri Lankan
+- [x] Japanese
+
+#### Who played David S. Pumpkins on SNL?
+
+- [ ] Jimmy Fallon
+- [ ] Dana Carvey
+- [x] Tom Hanks
+
+#### A spin class involves the use of what gym equipment?
+
+- [ ] Chair
+- [ ] Treadmill
+- [x] Stationary Bike
+
+#### Julia Roberts won an Oscar for what movie?
+
+- [x] Erin Brockovich
+- [ ] Steel Magnolias
+- [ ] Mona Lisa Smile
