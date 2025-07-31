@@ -69987,3 +69987,87 @@
 - [x] Gamestop
 - [ ] Babbage's
 - [ ] Electronics Boutique
+
+#### Gyoza is a type of dumpling in which cuisine?
+
+- [ ] Indian
+- [ ] Sri Lankan
+- [x] Japanese
+
+#### Who played David S. Pumpkins on SNL?
+
+- [ ] Jimmy Fallon
+- [ ] Dana Carvey
+- [x] Tom Hanks
+
+#### A spin class involves the use of what gym equipment?
+
+- [ ] Chair
+- [ ] Treadmill
+- [x] Stationary Bike
+
+#### Julia Roberts won an Oscar for what movie?
+
+- [x] Erin Brockovich
+- [ ] Steel Magnolias
+- [ ] Mona Lisa Smile
+
+#### Kabuki, Commedia dell'arte, and Noh are all forms of what?
+
+- [x] Theater
+- [ ] Pancakes
+- [ ] Sweaters
+
+#### What precipitation occurs when rain partially freezes while falling from the sky?
+
+- [ ] Mist
+- [ ] Tsunami
+- [x] Sleet
+
+#### Kermit the Frog is the subject of a popular meme where he's sipping what beverage?
+
+- [ ] Milkshake
+- [x] Tea
+- [ ] Vodka
+
+#### Paul Revere's ride used lanterns as a code for the British attack route; one if by land, two if by what?
+
+- [x] Sea
+- [ ] Balloon
+- [ ] Train
+
+#### A common picnic game involves competitors racing while balancing what object on a spoon?
+
+- [ ] An ice cube
+- [x] An egg
+- [ ] A diamond
+
+#### Anthony Edwards plays for which NBA team?
+
+- [x] Minnesota Timberwolves
+- [ ] Boston Celtics
+- [ ] Orlando Magic
+
+#### OK Soda was an "anti-corporate" soda brand from which corporation?
+
+- [ ] Tropicana
+- [x] Coca-Cola
+- [ ] Presico
+
+#### The movie "The Social Network" details the founding of which social media site?
+
+- [x] Facebook
+- [ ] Discord
+- [ ] Vine
+
+#### Soybeans are the primary ingredient in what food?
+
+- [ ] Cocoa
+- [x] Tofu
+- [ ] Tomato Sauce
+
+#### Complete the title of this well-known folk song: "If I had a..."
+
+- [x] Hammer
+- [ ] Pipe Wrench
+- [ ] Circular Saw
