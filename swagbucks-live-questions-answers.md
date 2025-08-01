@@ -70071,3 +70071,93 @@
 - [x] Hammer
 - [ ] Pipe Wrench
 - [ ] Circular Saw
+
+#### Who won a posthumous Oscar for playing The Joker?
+
+- [x] Health Ledger
+- [ ] Cesar Romero
+- [ ] Jack Nicholson
+
+#### Which of the following is the name of a book publisher?
+
+- [ ] Nestle Toll House
+- [ ] Maxwell House
+- [x] Random House
+
+#### In which of these substances are the molecules moving the slowest?
+
+- [x] Ice
+- [ ] Water
+- [ ] Water Vapor
+
+#### The 1985 James Bond film "A View To A Kill" featured a title song by which band?
+
+- [ ] Def Leppard
+- [x] Duran Duran
+- [ ] Guns 'N Roses
+
+#### Which Brady Bunch actor is the oldest?
+
+- [x] Christopher Knight
+- [ ] Eve Plumb
+- [ ] Mike Lookinland
+
+#### What style of pants have additional pockets on the legs?
+
+- [ ] Harem pants
+- [x] Cargo pants
+- [ ] Palazzo pants
+
+#### What language was made up for the people in the Sims line of games?
+
+- [x] Simlish
+- [ ] Kilngon
+- [ ] Pig Latin
+
+#### What is unique about the Waymo taxi service?
+
+- [ ] They use bicycles
+- [ ] It's completely free
+- [x] The cars are self-driving
+
+#### Which East Coast MLB team's home stadium has the Green Monster?
+
+- [ ] Milwaukee Brewers
+- [x] Boston Red Sox
+- [ ] Los Angeles Dodgers
+
+#### What world capital is known as The Eternal City?
+
+- [x] Rome, Italy
+- [ ] Toronto, Ontario
+- [ ] Albany, New York
+
+#### What color is Snoopy's bird friend Woodstock?
+
+- [ ] Purple
+- [ ] Green
+- [x] Yellow
+
+#### Which of the following desserts originated in Texas?
+
+- [x] German Chocolate Cake
+- [ ] Dutch Apple Pie
+- [ ] French Macarons
+
+#### Which of the following spaghetti sauces is cream-based?
+
+- [ ] Marinara
+- [ ] Pomodoro
+- [x] Alfredo
+
+#### Which of the following TV shows is a spinoff?
+
+- [ ] The White Lotus
+- [x] How I Met Your Father
+- [ ] The Good Place
+
+#### Berry Gordy founded which legendary Detroit-based record label?
+
+- [ ] Warner Bros Music
+- [ ] A&M
+- [x] Motown
