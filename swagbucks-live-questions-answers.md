@@ -70161,3 +70161,15 @@
 - [ ] Warner Bros Music
 - [ ] A&M
 - [x] Motown
+
+#### In "The Breakfast Club", where do the main characters spend most of the movie?
+
+- [ ] In a gym
+- [x] In detention
+- [ ] In a car
+
+#### Which of these candy bars contains caramel?
+
+- [x] Snickers
+- [ ] Reese's Peanut Butter Cups
+- [ ] York Peppermint Patties
