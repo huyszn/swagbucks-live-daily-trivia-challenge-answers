@@ -70173,3 +70173,15 @@
 - [x] Snickers
 - [ ] Reese's Peanut Butter Cups
 - [ ] York Peppermint Patties
+
+#### Which "As Seen on TV" product was NOT pitched by Vince Offer?
+
+- [ ] Slap Chop
+- [x] Pocket Fisherman
+- [ ] Sham Wow
+
+#### Which State is home to America's largest swamp?
+
+- [ ] Florida
+- [ ] Mississippi
+- [x] Louisiana
