@@ -11304,7 +11304,7 @@
 - [ ] Whiskey Down
 - [ ] Gravel Train
 
-#### How many different U.S. Presidents has Fidel Castro reigned through by 2008?
+#### How many different U.S. Presidents had Fidel Castro reigned through by 2008?
 
 - [ ] 9
 - [ ] 10
@@ -70185,3 +70185,63 @@
 - [ ] Florida
 - [ ] Mississippi
 - [x] Louisiana
+
+#### Dagwood was a character that appeared frequently in what comic strip?
+
+- [ ] Family Circus
+- [ ] Dick Tracy
+- [x] Blondie
+
+#### What English King had six wives?
+
+- [ ] Henry the 6th
+- [ ] Henry the 7th
+- [x] Henry the 8th
+
+#### What is the capital of Canada?
+
+- [x] Ottawa
+- [ ] Edmonton
+- [ ] Toronto
+
+#### What is the term for a group of witches?
+
+- [ ] Pride
+- [x] Coven
+- [ ] School
+
+#### Who was #1 on the last Billboard Hot 100 chart of the 80s?
+
+- [ ] Milli Vanilli
+- [x] Phil Collins
+- [ ] Billy Joel
+
+#### Complete this famous quote: "Life, Liberty and the pursuit of":
+
+- [x] Happiness
+- [ ] Trivia
+- [ ] Online Rewards
+
+#### In which European country would you find the biggest tomato fight in the world?
+
+- [ ] Netherlands
+- [ ] Italy
+- [x] Spain
+
+#### Sarah Jessica Parker played Carrie Bradshaw in the movie version of what HBO show?
+
+- [ ] The Newsroom
+- [x] Sex and the City
+- [ ] True Detective
+
+#### Which of these horses was an American Triple Crown Winner?
+
+- [x] Secretariat
+- [ ] Secretary Desk
+- [ ] Secret Lariat
+
+#### Which of the following planets is the largest in our solar system?
+
+- [ ] Earth
+- [ ] Venus
+- [x] Mars
