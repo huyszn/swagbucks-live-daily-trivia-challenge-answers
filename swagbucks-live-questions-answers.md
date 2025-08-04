@@ -70245,3 +70245,33 @@
 - [ ] Earth
 - [ ] Venus
 - [x] Mars
+
+#### What is your objective in Monopoly?
+
+- [x] Be the wealthiest player
+- [ ] Buy Boardwalk first
+- [ ] Make it to the end of the board
+
+#### In his high school yearbook, Bob Dylan wrote that he wanted to play with which singer?
+
+- [ ] Elvis Presley
+- [x] Little Richard
+- [ ] Jerry Lee Lewis
+
+#### What is the verb in the sentence "I nabbed the grand prize"?
+
+- [ ] I
+- [x] Nabbed
+- [ ] Prize
+
+#### What are people supposed to do when the clock strikes midnight on New Year's Eve?
+
+- [x] Kiss
+- [ ] Exchange business cards
+- [ ] Nap
+
+#### Which iconic rock band wrote and performed the song "Stairway to Heaven"?
+
+- [ ] The Rolling Stones
+- [ ] Pink Floyd
+- [x] Led Zeppelin
