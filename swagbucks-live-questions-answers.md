@@ -70275,3 +70275,33 @@
 - [ ] The Rolling Stones
 - [ ] Pink Floyd
 - [x] Led Zeppelin
+
+#### Which of these Antarctic creatures cannot fly?
+
+- [ ] Skua
+- [ ] Petrel
+- [x] Midge
+
+#### Which McDonaldland Character's main color is closest to aubergine?
+
+- [ ] Early Bird
+- [ ] Ronald McDonald
+- [x] Grimace
+
+#### In "Twins", who plays Arnold Schwarzenegger's twin brother?
+
+- [ ] Dolph Lundgren
+- [x] Danny VeVito
+- [ ] David Hasselhoff
+
+#### In what franchise does Keanu Reeves star as Neo?
+
+- [ ] John Wick
+- [x] The Matrix
+- [ ] Bill & Ted
+
+#### On "The Andy Griffith Show", what could Floyd the Barber never trim evenly?
+
+- [ ] Beard
+- [ ] The mainsail
+- [x] Sideburns
