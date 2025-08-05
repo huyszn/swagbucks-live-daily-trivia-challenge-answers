@@ -70371,3 +70371,27 @@
 - [ ] Refreshment Tablets
 - [x] The Freshmaker
 - [ ] Handheld Cool
+
+#### What Asian country is nicknamed The Red Dragon?
+
+- [ ] Russia
+- [x] China
+- [ ] Pakistan
+
+#### What show centered around the question "Who Killed Laura Palmer"?
+
+- [x] Twin Peaks
+- [ ] NYPD Blue
+- [ ] Unsolved Mysteries
+
+#### What board game was invented by an Oscar winner?
+
+- [x] Risk
+- [ ] Mouse Trap
+- [ ] Trouble
+
+#### While visiting 2015, what baseball team is announced as the winners of the World Series?
+
+- [ ] Miami Marlins
+- [x] Chicago Cubs
+- [ ] Los Angeles Dodgers
