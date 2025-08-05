@@ -32791,12 +32791,6 @@
 - [x] Mickey Mouse
 - [ ] Donald Duck
 
-#### Coffee, eucalyptus, menthol, and flower are all failed flavors of what candy?
-
-- [ ] Mentos
-- [ ] Life Savers
-- [x] Pez
-
 #### Which of these shows was not part of NBC's Must See TV?
 
 - [ ] Friends
@@ -70305,3 +70299,75 @@
 - [ ] Beard
 - [ ] The mainsail
 - [x] Sideburns
+
+#### Which of these companies does NOT sell disinfecting wipes?
+
+- [ ] Lysol
+- [ ] Clorox
+- [x] Hasbro
+
+#### Where is your auditory nerve located?
+
+- [ ] Eye
+- [ ] Nose
+- [x] Ear
+
+#### What is Subway's slogan?
+
+- [x] Eat Fresh
+- [ ] Just Do It
+- [ ] Made from the best stuff on Earth
+
+#### Which of these treats has a creme filling?
+
+- [ ] Hostess Apple Pie
+- [x] Twinkie
+- [ ] Chocolate Chip Cookie
+
+#### Which of the following foods is NOT in a traditional trail mix?
+
+- [x] Tomato Sauce
+- [ ] Penauts
+- [ ] Raisins
+
+#### Which of these cheddar-flavored crackers are tpyically sold in a red box?
+
+- [ ] Townhouse
+- [ ] Premium Saltines
+- [x] Cheez-It
+
+#### Cornetto, Magnum, and Breyers are all brands of what treat?
+
+- [ ] Biscuits
+- [x] Ice Cream
+- [ ] Pastry
+
+#### Which of these treats are typically kept in the freezer?
+
+- [x] Otter Pops
+- [ ] Ring Pops
+- [ ] Blow Pops
+
+#### Samosas are a treat commonly associated with which country?
+
+- [ ] Canada
+- [ ] America
+- [x] India
+
+#### Jeno's and Totino's are both brands of what kind of rolls?
+
+- [x] Pizza Rolls
+- [ ] Cinnamon Rolls
+- [ ] Garlic Rolls
+
+#### Uncrustables turn what classic sandwich into a frozen snack?
+
+- [x] Peanut Butter & Jelly
+- [ ] Grilled Cheese
+- [ ] Monte Cristo
+
+#### The brand Mentos refers to themselves by what nickname?
+
+- [ ] Refreshment Tablets
+- [x] The Freshmaker
+- [ ] Handheld Cool
