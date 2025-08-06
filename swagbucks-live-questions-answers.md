@@ -47926,7 +47926,7 @@
 #### What athletic brand is known for its Swoosh logo?
 
 - [ ] Reebook
-- [x] Nake
+- [x] Nike
 - [ ] British Knights
 
 #### What kind of fruit does Spongebob Squarepants call home?
@@ -70371,3 +70371,87 @@
 - [ ] Refreshment Tablets
 - [x] The Freshmaker
 - [ ] Handheld Cool
+
+#### What Asian country is nicknamed The Red Dragon?
+
+- [ ] Russia
+- [x] China
+- [ ] Pakistan
+
+#### What show centered around the question "Who Killed Laura Palmer"?
+
+- [x] Twin Peaks
+- [ ] NYPD Blue
+- [ ] Unsolved Mysteries
+
+#### What board game was invented by an Oscar winner?
+
+- [x] Risk
+- [ ] Mouse Trap
+- [ ] Trouble
+
+#### While visiting 2015, what baseball team is announced as the winners of the World Series?
+
+- [ ] Miami Marlins
+- [x] Chicago Cubs
+- [ ] Los Angeles Dodgers
+
+#### What shoe brand has the famous "Swoosh" logo?
+
+- [x] Nike
+- [ ] Reebok
+- [ ] Adidas
+
+#### Which of the following creatures undergoes metamorphosis in nature?
+
+- [ ] Cobra
+- [ ] Coyote
+- [x] Catepillar
+
+#### Which of the following artists is best known for comedyt and parody songs?
+
+- [ ] Julio Iglesias
+- [x] "Weird" Al Yankovic
+- [ ] Anita Bryant
+
+#### What city is the home and birthplace of the cheesesteak?
+
+- [x] Philadelphia
+- [ ] Phoenix
+- [ ] Pacoima
+
+#### Where would you go to visit a skyscraper nicknamed "The Gherkin"?
+
+- [ ] Dubai
+- [ ] Vienna
+- [x] London
+
+#### Which of these comic book superheroes primarily fights with a bow and arrow?
+
+- [ ] Green Lantern
+- [x] Hawkeye
+- [ ] The Flash
+
+#### Which baseball legend was known as "The Bambino"?
+
+- [ ] Hank Aaron
+- [ ] Ken Griffey Jr.
+- [x] Babe Ruth
+
+#### Rock singer William Bailey is better known by what stage name?
+
+- [ ] Elton John
+- [x] Axl Rose
+- [ ] Alice Cooper
+
+#### Which of the following is NOT one of the original "Big Three" television networks?
+
+- [ ] ABC
+- [ ] CBS
+- [x] Oxygen
+
+#### Who had a Summer 2024 hit with "Brat"?
+
+- [x] Charli XCX
+- [ ] Bette Midler
+- [ ] Kelly Clarkson
