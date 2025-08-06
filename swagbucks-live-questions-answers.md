@@ -70455,3 +70455,27 @@
 - [x] Charli XCX
 - [ ] Bette Midler
 - [ ] Kelly Clarkson
+
+#### A Cincinnati woman named Tara Patrick was given what new name by Prince?
+
+- [ ] Apollonia
+- [x] Carmen Electra
+- [ ] Caprice
+
+#### Who wrote Anna Karenina?
+
+- [x] Leo Tolstoy
+- [ ] Danielle Steele
+- [ ] James Joyce
+
+#### What does the EA in EA Sports stand for?
+
+- [x] Electronic Arts
+- [ ] Eric's Aspirin
+- [ ] Egregious Angels
+
+#### Who performed the theme song to the film Caddyshack?
+
+- [ ] Lindsey Buckingham
+- [ ] Huey Lewis
+- [x] Kenny Loggins
