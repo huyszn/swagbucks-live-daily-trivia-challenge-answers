@@ -70536,6 +70536,30 @@
 
 #### Which of the following foods at Olive Garden is NOT unlimited?
 
-- [ ] Souo
+- [ ] Soup
 - [ ] Salad
 - [x] Veal Parmigiana
+
+#### The idea for cochlear implants was developed through experiments on which animal?
+
+- [x] Cat
+- [ ] Dog
+- [ ] Turtle
+
+#### Which of the following art movements began in the 1950s?
+
+- [x] Pop art
+- [ ] Dada
+- [ ] Arte Povera
+
+#### Actor Eleanor Audley voice Maleficent and what other Disney Villain?
+
+- [ ] Cruella de Vil
+- [ ] Queen of Hearts
+- [x] Lady Tremaine
+
+#### Where would you find a Zawn?
+
+- [ ] Russia
+- [ ] Alaska
+- [x] Britsh Isles
