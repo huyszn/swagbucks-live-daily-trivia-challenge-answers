@@ -70479,3 +70479,63 @@
 - [ ] Lindsey Buckingham
 - [ ] Huey Lewis
 - [x] Kenny Loggins
+
+#### What actress released a series of popular workout videos in the 1980s?
+
+- [ ] Lily Tomlin
+- [ ] Katharine Hepburn
+- [x] Jane Fonda
+
+#### In which movie does Haley Joel Osment say "I see dead people"?
+
+- [ ] Terrifier
+- [x] The Sixth Sense
+- [ ] Hellraiser
+
+#### Hugh Lofting's Doctor Dolittle has what special ability?
+
+- [ ] He can fly
+- [ ] He can change into a cat
+- [x] He can talk with animals
+
+#### Lady Diana inspired which fashion trend?
+
+- [ ] Pillbox Hats
+- [x] "Revenge dressing"
+- [ ] V-necks
+
+#### A hybrid car uses both a combustion engine and what other source of power?
+
+- [ ] Solar
+- [ ] Manual
+- [x] Electric
+
+#### Contemporary artist Sam Van Aken created a tree capable of growing how many different fruits?
+
+- [x] 40
+- [ ] 99
+- [ ] 120
+
+#### In a traditional Jack-In-The-Box, what pops out at the end of the song?
+
+- [ ] A dog
+- [x] A clown
+- [ ] An accountant
+
+#### What astronomical event comes from the Latin meaning "Sun standing still"?
+
+- [ ] Eclipse
+- [ ] Equinox
+- [x] Solstice
+
+#### What kind of Instagram account is a "Finsta"?
+
+- [ ] Flying
+- [ ] Foodie
+- [x] Fake
+
+#### Which of the following foods at Olive Garden is NOT unlimited?
+
+- [ ] Souo
+- [ ] Salad
+- [x] Veal Parmigiana
