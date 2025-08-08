@@ -30217,12 +30217,6 @@
 - [ ] He fell asleep
 - [x] He was hit by lightning
 
-#### What kind of edible is normally given as a gift during Valentine's Day?
-
-- [x] Chocolates
-- [ ] Sticky Buns
-- [ ] Parsnips
-
 #### What is the term for a piece of land ALMOST entireluy surrounded by water?
 
 - [x] Peninsula
@@ -70563,3 +70557,111 @@
 - [ ] Russia
 - [ ] Alaska
 - [x] Britsh Isles
+
+#### What Broadway musical's original production featured puppets?
+
+- [ ] Hamilton
+- [ ] South Pacific
+- [x] Avenue Q
+
+#### In 4/4 time, how many quarter notes would you need to create a full measure?
+
+- [x] 4
+- [ ] 12
+- [ ] 24
+
+#### Who lost the 2014 NBA Championship series?
+
+- [ ] San Antonio Spurs
+- [x] Miami Heat
+- [ ] Golden State Warriors
+
+#### Which of these temperature points is highest?
+
+- [ ] Freezing Point
+- [ ] Room Temperature
+- [x] Boiling Point
+
+#### Which food evolved from an ancient Aztec concoction called xocoatl?
+
+- [ ] Coffee
+- [x] Chocolate
+- [ ] Tabasco Sauce
+
+#### "White Wilderness" was a Disney film blamed with starting a myth about what animals?
+
+- [ ] Bats
+- [x] Lemmings
+- [ ] Killer Whales
+
+#### Who designed the famous working zipper album cover for The Rolling Stones' Sticky Fingers?
+
+- [ ] Peter Max
+- [ ] Jackson Pollock
+- [x] Andy Warhol
+
+#### The world's most expensive cheese comes from the milk of what animal?
+
+- [ ] Yak
+- [ ] Goat
+- [x] Donkey
+
+#### What stand up comedian won an Emmy while writing for the Smothers Brothers?
+
+- [ ] Richard Pryor
+- [ ] George Carlin
+- [x] Steve Martin
+
+#### Complete this Madonna song title: "Like a _____"
+
+- [ ] Taxi Driver
+- [x] Virgin
+- [ ] Clown
+
+#### What is notable about the Sargasso Sea?
+
+- [ ] It cannot sustain marine life
+- [ ] It's inside a volcano
+- [x] It has no coasts
+
+#### Activist Isabella Baumfree is better known by what name?
+
+- [ ] Harriet Tubman
+- [ ] Susan B. Anthony
+- [x] Sojourner Truth
+
+#### Lucky the Leprechaun is the mascot for what food?
+
+- [ ] Starkist tuna
+- [x] Lucky Charms
+- [ ] Fruit Roll-ups
+
+#### Disneyland is known as the Happiest Place on WHAT?
+
+- [ ] Wheels
+- [ ] Golden Pond
+- [x] Earth
+
+#### According to the saying, who does an apple a day keep away?
+
+- [ ] Mister Ed
+- [ ] Johnny Appleseed
+- [x] The Doctor
+
+#### Who was not a character from the Hunger Games books?
+
+- [ ] Cinna
+- [ ] Glimmer
+- [x] Rune
+
+#### Which of the following planets in our solar system spins clockwise?
+
+- [ ] Earth
+- [x] Venus
+- [ ] Mercury
+
+#### Domino's is mainly known for what food?
+
+- [ ] Burgers
+- [ ] Spaghetti
+- [x] Pizza
