@@ -70767,3 +70767,21 @@
 - [ ] Monopoly
 - [x] Scrabble
 - [ ] Chess
+
+#### Which country is known as Nippon in its native language?
+
+- [ ] Bulgaria
+- [ ] Spain
+- [x] Japan
+
+#### Whose use of the assembly line revolutionized American industry in the early 20th Century?
+
+- [ ] Eli Whitney
+- [ ] Orville Wright
+- [x] Henry Ford
+
+#### Which of the following streaming shows is exclusive to Hulu?
+
+- [ ] Queer Eye
+- [x] The Handmaid's Tale
+- [ ] Tiger King
