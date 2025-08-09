@@ -70556,7 +70556,7 @@
 
 - [ ] Russia
 - [ ] Alaska
-- [x] Britsh Isles
+- [x] British Isles
 
 #### What Broadway musical's original production featured puppets?
 
@@ -70665,3 +70665,105 @@
 - [ ] Burgers
 - [ ] Spaghetti
 - [x] Pizza
+
+#### Which of the following animals doesn't have a stomach?
+
+- [x] Platypus
+- [ ] Wombat
+- [ ] Rattlesnake
+
+#### Tom Hanks plays Col. Tom Parker in a movie about what singer?
+
+- [ ] Tina Turner
+- [x] Elvis Presley
+- [ ] Mick Jagger
+
+#### Which U.S. government body does NOT vote on whether bills become law?
+
+- [ ] House of Representatives
+- [ ] Senate
+- [x] Supreme Court
+
+#### Hodmedod, Murmet, and Gallybagger are all alternative names that could replace which horror film's title?
+
+- [ ] The Mummy
+- [ ] Leprechaun
+- [x] Scarecrow
+
+#### In "Freakier Friday", which two actors return to switch bodies?
+
+- [ ] Jodie Foster and Barbara Harris
+- [x] Lindsay Lohan and Jamie Lee Curtis
+- [ ] Miley Cyrus and Billy Ray Cyrus
+
+#### Who stars in "The Santa Clause" movies?
+
+- [x] Tim Allen
+- [ ] Will Ferrell
+- [ ] Jack Black
+
+#### "Air Bud" is about a dog who's able to play which sport?
+
+- [ ] Disc Golf
+- [ ] Horseshoes
+- [x] Basketball
+
+#### The handle of Mary Poppin's umbrella is shaped like which bird?
+
+- [ ] Pigeon
+- [x] Parrot
+- [ ] Flamingo
+
+#### "Cool Runnings" is the story of the Olympic bobsled team from which country?
+
+- [x] Jamaica
+- [ ] England
+- [ ] Haiti
+
+#### Bette Midler, Cathy Najimy and Sarah Jessica Parker starred in which Disney Halloween classic?
+
+- [ ] Halloweentown
+- [ ] Frankenweenie
+- [x] Hocus Pocus
+
+#### What maneuver scores the winning goal in "The Mighty Ducks"?
+
+- [ ] The Flying Vee
+- [ ] The Triple Deke
+- [x] The Rainbow Shot
+
+#### The Disney movie "Enchanted" features which Tony-war winning actor in a non-singing role?
+
+- [ ] Kristin Chenoweth
+- [ ] Sutton Foster
+- [x] Idina Menzel
+
+#### Which Oscar-winning actor plays the live action version of Maleficent?
+
+- [x] Angelina Jolie
+- [ ] Glenn Close
+- [ ] Emma Stone
+
+#### In "The Princess Diaries", Mia Thermopolis learns she is royalty in which country?
+
+- [ ] Freedonia
+- [x] Genovia
+- [ ] Luxembourg
+
+#### Which of the following is a brand of whiskey?
+
+- [ ] Jack Tripper
+- [x] Jack Daniels
+- [ ] Jack Reacher
+
+#### Which Mark Twain character tricked kids into whitewashing a fence?
+
+- [x] Tom Sawyer
+- [ ] Huckleberry Finn
+- [ ] The Connecticut Yankee
+
+#### In 2008, what board game's anniversary was celebrated with a game played by skydivers at 13,000 feet?
+
+- [ ] Monopoly
+- [x] Scrabble
+- [ ] Chess
