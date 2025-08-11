@@ -70821,3 +70821,39 @@
 - [x] Landscape
 - [ ] Portrait
 - [ ] Al Fresco
+
+#### By what name are Moe, Larry, and Curly collectively known?
+
+- [x] The Three Stooges
+- [ ] The Marx Borthers
+- [ ] Abbott and Costello
+
+#### What religious holiday is observed on December 12th?
+
+- [x] Our Lady of Guadalupe
+- [ ] Saint Nicholas Day
+- [ ] Lammas
+
+#### In what year did the first company register a ".com" domain name?
+
+- [ ] 1971
+- [x] 1985
+- [ ] 1990
+
+#### What animal carries their offspring in an abdominal pouch?
+
+- [x] Kangaroo
+- [ ] Narwhal
+- [ ] Cricket
+
+#### In which sport do you hit a shuttlecock over a net?
+
+- [ ] Polo
+- [x] Badminton
+- [ ] Mini Golf
+
+#### Complete the name of this Keebler cookie: E.L...
+
+- [x] Fudge
+- [ ] Orchestra
+- [ ] Salt
