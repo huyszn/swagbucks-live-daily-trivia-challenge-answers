@@ -70785,3 +70785,39 @@
 - [ ] Queer Eye
 - [x] The Handmaid's Tale
 - [ ] Tiger King
+
+#### When did the original Nintendo Gameboy first hits shelves?
+
+- [x] 1989
+- [ ] 1999
+- [ ] 2009
+
+#### 17th Century Dutch lens maker Hans Lippershey is widely credited with invented what scientific tool?
+
+- [ ] Forceps
+- [x] Telescope
+- [ ] Lab coat
+
+#### When Star Wars first debuted, how many screens was it on?
+
+- [ ] 1
+- [x] 32
+- [ ] 1,000
+
+#### Which of the following is NOT a character in the "Little Nemo in Slumberland" comic strip?
+
+- [ ] Flip
+- [x] Dory
+- [ ] Imp
+
+#### Which of these consoles was released by SEGA?
+
+- [ ] 3DO
+- [ ] TurboGrafx-16
+- [x] Genesis
+
+#### If you turn your phone sideways to take a picture, what orientation will the photo be?
+
+- [x] Landscape
+- [ ] Portrait
+- [ ] Al Fresco
