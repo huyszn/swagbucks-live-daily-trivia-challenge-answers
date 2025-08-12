@@ -70857,3 +70857,63 @@
 - [x] Fudge
 - [ ] Orchestra
 - [ ] Salt
+
+#### Which mammals carry their newborns in a pouch on their stomanch?
+
+- [ ] Giraffe
+- [x] Kangaroo
+- [ ] Dog
+
+#### What is the term for comparing two things using the words "like" or "as"?
+
+- [x] Simile
+- [ ] Onomatopoeia
+- [ ] Palindrome
+
+#### What year did the United States declar independence from England?
+
+- [ ] 1066
+- [ ] 1215
+- [x] 1776
+
+#### Which historical figure is believed to have said "Let them eat cake"?
+
+- [x] Marie Antoinette
+- [ ] Winston Churchill
+- [ ] Abraham Lincoln
+
+#### In which playground game is one person designated "it"?
+
+- [ ] Kickball
+- [x] Tag
+- [ ] Capture the Flag
+
+#### The compound Sodium Chloride is better known by what name?
+
+- [x] Salt
+- [ ] Pepper
+- [ ] Garlic Powder
+
+#### On an analog clock, what does the smallest hand indicate?
+
+- [ ] The Minute
+- [x] The Hour
+- [ ] The Year
+
+#### In "Frozen", what is the name of Kristoff's reindeer?
+
+- [x] Sven
+- [ ] Ole
+- [ ] Magnus
+
+#### Complete this phrase: "Early to bed, early to rise, makes a man healthy, wealthy, and..."
+
+- [ ] Alert
+- [ ] Hungry
+- [x] Wise
+
+#### What is the name of Batman's sidekick?
+
+- [x] Robin
+- [ ] Kid Flash
+- [ ] Beast Boy
