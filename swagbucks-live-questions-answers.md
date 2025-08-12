@@ -70917,3 +70917,27 @@
 - [x] Robin
 - [ ] Kid Flash
 - [ ] Beast Boy
+
+#### Where would you find the "Stealthy Starbucks"?
+
+- [ ] FBI
+- [x] CIA
+- [ ] MI6
+
+#### In "Cones of Dunshire", which non-playing role involves wearing a hat?
+
+- [ ] The Oculus
+- [ ] The Lamplighter
+- [x] The Ledgerman
+
+#### What mythical creatures make toys for Santa?
+
+- [x] Elves
+- [ ] Dwarves
+- [ ] Unicorns
+
+#### Sarah Breedlove is better known by what name?
+
+- [x] Madam C.J. Walker
+- [ ] Sojourner Truth
+- [ ] Diana Ross
