@@ -70941,3 +70941,63 @@
 - [x] Madam C.J. Walker
 - [ ] Sojourner Truth
 - [ ] Diana Ross
+
+#### "The Rachel" hairdo was inspired by a character from which TV show?
+
+- [x] Friends
+- [ ] Batman!
+- [ ] Cheers
+
+#### Pho is a noodle and broth dish that was born in which country?
+
+- [ ] Germany
+- [ ] Iceland
+- [x] Vietnam
+
+#### "Dosvedanya" is the way to say goodbye in which language?
+
+- [ ] Jamaican Patois
+- [x] Russian
+- [ ] Portuguese
+
+#### In 1945's "Anchors Aweigh", Gene Kelly dances with which famous cartoon character?
+
+- [x] Jerry the Mouse
+- [ ] Bugs Bunny
+- [ ] Donald Duck
+
+#### Phishing is an attempt by scammers to get what?
+
+- [ ] Potato Chips
+- [ ] Pancakes
+- [x] Personal Information
+
+#### Which Beach Boys album was created by Brian Wilson while the rest of the band was touring?
+
+- [x] Pet Sounds
+- [ ] Surfer Girl
+- [ ] The Beach Boys Today!
+
+#### A famous meme features a cartoon dog surrounded by flames with what caption?
+
+- [ ] S'mores Time
+- [x] This is fine
+- [ ] It's getting hot in hurrr
+
+#### Which beverage was invented by University researchers trying to rehydrate their school's athletes?
+
+- [ ] Pedialyte
+- [x] Gatorade
+- [ ] Prime
+
+#### In the board game "Operation", what do you use to remove items from the patient?
+
+- [ ] Your bare fingers
+- [ ] Magnets
+- [x] Tweezers
+
+#### Which of these film adaptations is about a jury deliberation?
+
+- [x] 12 Angry Men
+- [ ] The Firm
+- [ ] The Pelican Brief
