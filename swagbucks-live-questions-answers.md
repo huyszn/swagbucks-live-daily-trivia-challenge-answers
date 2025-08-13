@@ -71001,3 +71001,27 @@
 - [x] 12 Angry Men
 - [ ] The Firm
 - [ ] The Pelican Brief
+
+#### In his inaugural address. which U.S. President famously said "We have nothing to fear except fear itself"?
+
+- [x] Franklin D. Roosevelt
+- [ ] Ronald Reagan
+- [ ] Barack Obama
+
+#### What sport was featured in the very first handheld electronic game?
+
+- [x] Auto racing
+- [ ] Football
+- [ ] Baseball
+
+#### In Li'l Pump's "Gucci Gang", how much did he spend on a new chain?
+
+- [ ] $25,000
+- [ ] $100,000
+- [x] $10,000
+
+#### Yowies are what country's version of Bigfoot?
+
+- [ ] Canada
+- [x] Australia
+- [ ] Scotland
