@@ -56827,7 +56827,7 @@
 - [ ] Rockin' Around the Christmas Tree
 - [x] Jingle Bell Rock
 
-#### Which two cities care featured in Charles Dickens' "A Tale of Two Cities"?
+#### Which two cities are featured in Charles Dickens' "A Tale of Two Cities"?
 
 - [ ] Luxembourg and Philadelphia
 - [x] London and Paris
@@ -71097,3 +71097,27 @@
 - [ ] Rambo
 - [x] Rocky
 - [ ] Tango & Cash
+
+#### Residents of Chavez Ravine were removed from their homes in order to build what LA landmark?
+
+- [ ] The Getty Center
+- [x] Dodger Stadium
+- [ ] Los Angeles Memorial Coliseum
+
+#### Which title was NOT an expansion for the original Rollercoaster Tycoon?
+
+- [ ] Corkscrew Follies
+- [ ] Loopy Landscapes
+- [x] Twisted Tracks
+
+#### The Mad Tea Party is a Disney Parks Attraction based on which movie?
+
+- [ ] Pinocchio
+- [x] Alice in Wonderland
+- [ ] Bambi
+
+#### Ian Fleming is best known for creating which iconic spy?
+
+- [x] James Bond
+- [ ] Inspector Gadget
+- [ ] Mata Hari
