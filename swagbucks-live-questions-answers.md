@@ -29593,7 +29593,7 @@
 - [x] Meemaw
 - [ ] Nana
 
-####In which city does The Big Bang Theory take place?
+#### In which city does The Big Bang Theory take place?
 
 - [x] Pasadena, California
 - [ ] Tokyo, Japan
@@ -71025,3 +71025,75 @@
 - [ ] Canada
 - [x] Australia
 - [ ] Scotland
+
+#### Which of the following is NOT one of the benchmarks contained in the backronym APGAR?
+
+- [x] Resilience
+- [ ] Appearance
+- [ ] Grimace
+
+#### In Formula One, what machines are being raced?
+
+- [x] Cars
+- [ ] Bicycles
+- [ ] Planes
+
+#### "Wax on, wax off."
+
+- [ ] Enter the Dragon
+- [x] The Karate Kid
+- [ ] Shaolin Soccer
+
+#### "I'll get you, my pretty, and your little dog too!"
+
+- [ ] The Phantom Tollbooth
+- [ ] Frozen
+- [x] The Wizard of Oz
+
+#### "One does not simply walk into Mordor."
+
+- [x] Fellowship of the Ring
+- [ ] Superman: The Movie
+- [ ] Pretty Woman
+
+#### What we have here is failure to communicate."
+
+- [ ] The Longest Yard
+- [x] Cool Hand Luke
+- [ ] The Shawshank Redemption
+
+#### "Show me the money!"
+
+- [ ] Top Gun
+- [ ] The Last Samurai
+- [x] Jerry Maguire
+
+#### "You're killing me, Smalls!"
+
+- [ ] The Natural
+- [x] The Sandlot
+- [ ] Major League
+
+#### "To infinity and beyond!"
+
+- [x] Toy Story
+- [ ] Monsters, Inc.
+- [ ] The Incredibles
+
+#### "They call me Mister Tibbs!"
+
+- [ ] To Sir With Love
+- [x] In The Heat of the Night
+- [ ] Guess Who's Coming to Dinner?
+
+#### "If you build it, he will come."
+
+- [x] Field of Dreams
+- [ ] Waterworld
+- [ ] The Postman
+
+#### "Yo, Adrian!"
+
+- [ ] Rambo
+- [x] Rocky
+- [ ] Tango & Cash
