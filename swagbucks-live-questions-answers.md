@@ -71217,3 +71217,33 @@
 - [ ] Snakes
 - [x] Bodies of Water
 - [ ] Airplanes
+
+#### Which of the following candy bards contains a peanut crisp?
+
+- [x] Whatchamacallit
+- [ ] Health Bar
+- [ ] Mounds
+
+#### The Bronte sisters each wrote under a male pseudonym. What last name did those pseudonyms share?
+
+- [ ] Barnes
+- [ ] Bloom
+- [x] Bell
+
+#### What is the next major U.S. holiday after Halloween?
+
+- [ ] Christmas
+- [ ] Easter
+- [x] Thanksgiving
+
+#### Kobe Bryant went by what nickname?
+
+- [ ] Green Viper
+- [ ] Gold Cobra
+- [x] Black Mamba
+
+#### Which of these flavors is most associated with an upside-down cake?
+
+- [x] Pineapple
+- [ ] Grape
+- [ ] Coca Cola
