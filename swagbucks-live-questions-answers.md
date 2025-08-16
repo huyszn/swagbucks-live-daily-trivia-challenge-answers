@@ -71121,3 +71121,99 @@
 - [x] James Bond
 - [ ] Inspector Gadget
 - [ ] Mata Hari
+
+#### Which of these characters did NOT appear on "Captain Kangaroo"?
+
+- [ ] Genie of the Banana
+- [ ] Slim Goodbody
+- [x] Sailor Chuck
+
+#### What type of food product does Jack Link's sell?
+
+- [x] Jerky
+- [ ] Potato Chips
+- [ ] Milk
+
+#### The term "Brunch" was coined by an author who claimed its primary purpose was what?
+
+- [ ] A religious meal
+- [x] A hangover cure
+- [ ] A political stunt
+
+#### Which of these games would be logophiliac's favorite?
+
+- [ ] Guess Who?
+- [ ] Crossfire
+- [x] Boggle
+
+#### In "Kingsmen", what type of shop serves as the front for their London HQ?
+
+- [x] Tailor
+- [ ] Hot Dog
+- [ ] Comic Book
+
+#### During which holiday do you trick-or-treat?
+
+- [ ] Easter
+- [ ] Arbor Day
+- [x] Halloween
+
+#### At any given time, how many basketball players can a team have on the court?
+
+- [x] 5
+- [ ] 11
+- [ ] 26
+
+#### The standard Mastercard logo contains which three colors?
+
+- [ ] Yellow, Blue, Green
+- [ ] Blue, Red, Purple
+- [x] Yellow, Red, Orange
+
+#### What does the P in IHOP stand for?
+
+- [ ] Parsley
+- [x] Pancakes
+- [ ] Pepper
+
+#### What is the setting for Edward Hopper's "Nighthawks"?
+
+- [ ] Theater
+- [ ] Forest
+- [x] Diner
+
+#### Which famous scientist invented the color wheel?
+
+- [x] Sir Isaac Newton
+- [ ] Leonardo Da Vinci
+- [ ] Thomas Edison
+
+#### Which of the following is NOT a section of a choir?
+
+- [ ] Tenor
+- [x] Clappers
+- [ ] Alto
+
+#### What was the first video game console with a built-in modem?
+
+- [ ] PlayStation 2
+- [ ] Nintendo GameCube
+- [x] Sega Dreamcast
+
+#### The first NBA 3-Pointer was made by a player on which team?
+
+- [ ] New York Knicks
+- [x] Boston Celtics
+- [ ] Philadelphia 76ers
+
+#### As of July 2025, which of the following actors has NOT played a live-action version of Batman?
+
+- [ ] Michael Keaton
+- [x] Brandon Routh
+- [ ] Ben Affleck
+
+#### What do people suffering from aquaphobia fear?
+
+- [ ] Snakes
+- [x] Bodies of Water
+- [ ] Airplanes
