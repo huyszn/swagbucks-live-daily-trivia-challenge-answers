@@ -62194,7 +62194,7 @@
 - [x] Dagwood
 - [ ] Bettle
 
-#### In "Stranger Things", what's the name of the alternative dimension of the Mind Flayer?
+#### In "Stranger Things", what's the name of the alternate dimension of the Mind Flayer?
 
 - [ ] Earth 2
 - [x] The Upside Down
@@ -71217,3 +71217,51 @@
 - [ ] Snakes
 - [x] Bodies of Water
 - [ ] Airplanes
+
+#### Which of the following candy bards contains a peanut crisp?
+
+- [x] Whatchamacallit
+- [ ] Health Bar
+- [ ] Mounds
+
+#### The Bronte sisters each wrote under a male pseudonym. What last name did those pseudonyms share?
+
+- [ ] Barnes
+- [ ] Bloom
+- [x] Bell
+
+#### What is the next major U.S. holiday after Halloween?
+
+- [ ] Christmas
+- [ ] Easter
+- [x] Thanksgiving
+
+#### Kobe Bryant went by what nickname?
+
+- [ ] Green Viper
+- [ ] Gold Cobra
+- [x] Black Mamba
+
+#### Which of these flavors is most associated with an upside-down cake?
+
+- [x] Pineapple
+- [ ] Grape
+- [ ] Coca Cola
+
+#### Which of these pairs of "Peanuts" characters are siblings?
+
+- [ ] Charlie Brown and Frieda
+- [ ] Snoopy and Woodstock
+- [x] Linus and Lucy
+
+#### Who is the only MLB player with 500 career home runs and 500 career steals?
+
+- [ ] Willie Mays
+- [x] Barry Bonds
+- [ ] Ken Griffey Jr.
+
+#### Which of these candy bars has a standard version with no chocolate?
+
+- [x] Payday
+- [ ] 100 Grand
+- [ ] Milky Way
