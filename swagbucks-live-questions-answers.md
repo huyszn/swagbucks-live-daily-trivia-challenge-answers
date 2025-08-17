@@ -54539,7 +54539,7 @@
 
 - [ ] Recess: School's Out
 - [ ] Treature Planet
-- [x] Lio & Stitch
+- [x] Lilo & Stitch
 
 #### In "The Nightmare Before Christmas", who plans the kidnapping of Santa?
 
@@ -71265,3 +71265,27 @@
 - [x] Payday
 - [ ] 100 Grand
 - [ ] Milky Way
+
+#### Where do we get maple syrup?
+
+- [ ] Mines
+- [ ] Rivers
+- [x] Trees
+
+#### Where would Shaquille O'Neal wear a Shako?
+
+- [x] His head
+- [ ] His hands
+- [ ] His neck
+
+#### What is someone trying to do when they "cut corners"?
+
+- [ ] Be alone
+- [ ] Make food
+- [x] Save time or money
+
+#### Students at River Springs Middle School were put on lockdown when which animals invaded their school?
+
+- [ ] Alligators
+- [x] Bears
+- [ ] Goats
