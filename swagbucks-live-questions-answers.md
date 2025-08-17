@@ -1,5 +1,581 @@
 ## Swagbucks LIVE Questions and Answers
 
+#### In 1896, a man who came to the Olympics as a spectator wound up winning a gold medal in which event?
+
+- [ ] Rowing
+- [x] Tennis
+- [ ] Tug-of-War
+
+#### Which two types of Girl Scout Cookies inspired breakfast cereals in 2017?
+
+- [ ] Trefoils and Do-Si-Dos
+- [ ] Tagalongs and Samoas
+- [x] Thin Mints & Samoas
+
+#### On October 13th, 2021 what Star Trek actor finally visited space for the first time?
+
+- [x] William Shatner
+- [ ] George Takei
+- [ ] Patrick Stewart
+
+#### How old was Matt Groening when The Simpsons premiered?
+
+- [ ] 40
+- [x] 35
+- [ ] 29
+
+#### Who was the Greek Goddess of Wisdom and War?
+
+- [ ] Aphrodite
+- [x] Athena
+- [ ] Artemis
+
+#### Which 1950s film is responsible for the birth of the "pirate accent"?
+
+- [ ] Mutiny on the Bounty
+- [ ] The 7th Voyage of Sinbad
+- [x] Treasure Island
+
+#### Who won the Super Bowl the year "BeBop Bamboozled" was the halftime show?
+
+- [x] San Francisco 49ers
+- [ ] Dallas Cowboys
+- [ ] Washington Redskins
+
+#### What Oscar-winning musical is being re-made by Steven Spielberg?
+
+- [ ] Yankee Doodle Dandy
+- [x] West Side Story
+- [ ] Xanadu
+
+#### How many people billed as Tony have won a Tony award?
+
+- [ ] None
+- [x] Seven
+- [ ] Eleven
+
+#### How many colors are there on a standard Rubik's cube?
+
+- [ ] 8
+- [ ] 7
+- [x] 6
+
+#### Tina Fey based "30 Rock" on her experiences working for what other NBC show?
+
+- [ ] Parks and Recreation
+- [ ] Studio 60 on the Sunset Strip
+- [x] Saturday Night Live
+
+#### Which of these is not a Sue Grafton Novel?
+
+- [ ] C is for Corpse
+- [ ] Q is for Quarry
+- [x] M is for Murder
+
+#### If you wanted to eat at a restaurant that hoists you 160 ft into the air on a crane, which of the following cities would you go?
+
+- [ ] Randers, Denmark
+- [x] Montreal, Quebec
+- [ ] Interlaken, Switzerland
+
+#### Which 80s rap hit sampled its beat from "Take Me To The Mardi Gras" by Bob James?
+
+- [ ] The Breaks
+- [x] Peter Piper
+- [ ] Rapper's Delight
+
+#### In "Avengers: Endgame", which hero gains a bunch of weight and becomes a drunk?
+
+- [ ] Iron Man
+- [ ] Captain America
+- [x] Thor
+
+#### In the 70s, who could people call for help with their turkey?
+
+- [ ] Butterball
+- [ ] The White House Kitchen
+- [x] Julia Child
+
+#### Where would you find the world's oldest surviving piano?
+
+- [ ] Vienna
+- [x] New York
+- [ ] Moscow
+
+#### Which of the following is the term for a play on words?
+
+- [ ] Pin
+- [x] Pun
+- [ ] Pan
+
+#### What is the name of Dolly Parton's clothing line for pets?
+
+- [x] Doggy Parton
+- [ ] Cat's Eye Will Always Love You
+- [ ] Goat of Many Colors
+
+#### What tool is used to measure plane angles?
+
+- [ ] Hammer
+- [x] Protractor
+- [ ] Saw
+
+#### What was the name of Walt Disney's personal railroad?
+
+- [ ] The Mickey Express
+- [ ] The Goofy Pacific
+- [x] The Carolwood Pacific
+
+#### Rides like Space Mountain and Star Tours can be found in which area of Disneyland?
+
+- [ ] Frontierland
+- [ ] Mickey's Toontown
+- [x] Tomorrowland
+
+#### What piece of jewelry channels a Green Lantern's power?
+
+- [x] A ring
+- [ ] A necklace
+- [ ] A bracelet
+
+#### In sports, what is the term for the limit that teams can spend on their roster?
+
+- [ ] Luxury Tax
+- [ ] Mid-Level Exception
+- [x] Salary Cap
+
+#### Jason Priestley and Luke Perry both starred on what hit TV show?
+
+- [ ] Airwolf
+- [x] Beverly Hills, 90210
+- [ ] The Hills
+
+#### Which of the following is a Darkwing Duck catchphrase?
+
+- [ ] Cowabunga, dude!
+- [x] Let's get dangerous!
+- [ ] Yoinks, and away!
+
+#### Zendaya is in a relationship with which "Spider-Man: No Way Home" co-star?
+
+- [ ] Tobey Maguire
+- [ ] Andrew Garfield
+- [x] Tom Holland
+
+#### Who hosts Survivor?
+
+- [x] Jeff Probst
+- [ ] Pat Sajak
+- [ ] Drew Carey
+
+#### Which chocolate milk mix has a rabbit for a mascot?
+
+- [x] Nesquik
+- [ ] Swiss Miss
+- [ ] Hershey
+
+#### In which country is it illegal to only own one Guinea Pig?
+
+- [x] Switzerland
+- [ ] Thailand
+- [ ] Norway
+
+#### In 2015, what TV-inspired term was added to the Oxford English Dictionary?
+
+- [x] MacGyvered
+- [ ] Jumped the Shark
+- [ ] D'oh
+
+#### What is the most populous continent on Earth?
+
+- [ ] Africa
+- [ ] North America
+- [x] Asia
+
+#### In Romeo & Juliet, which of the star crossed lovers dies first?
+
+- [x] Romeo
+- [ ] Juliet
+- [ ] They die at the same time
+
+#### Which of these MLB players stole the most bases in their career?
+
+- [ ] Ty Cobb
+- [ ] Lou Brock
+- [x] Rickey Henderson
+
+#### Which haunted location hosts an event called "Terror Behind The Walls"?
+
+- [x] Eastern State Penitentiary
+- [ ] Amityville Horror House
+- [ ] Waverly Hills Sanitorium
+
+#### You can double your car remote range by pressing it against what body part?
+
+- [ ] Your hand
+- [ ] Your chest
+- [x] Your head
+
+#### The Orient Express, The Hogwarts Express, and the TGV are all types of what?
+
+- [ ] Scooters
+- [ ] Bicycles
+- [x] Trains
+
+#### Who provided the voice of the bull in the Oscar-winning short "Ferdinand the Bull"?
+
+- [x] Milt Kahl
+- [ ] Walt Disney
+- [ ] Clarence Nash
+
+#### In which country's language would you order a beer by asking for a "cerveza"?
+
+- [ ] Morocco
+- [x] Mexico
+- [ ] Belgium
+
+#### "Chadwick's Sign" is a visual indicator of what condition?
+
+- [x] Pregnancy
+- [ ] Chicken Pox
+- [ ] Hiccups
+
+#### If you suffered from Nyctophobia, which hotel would you likely prefer?
+
+- [ ] Holiday Inn
+- [x] Motel 6
+- [ ] Super 8
+
+#### Where would you find the place in the continental United States where you're farthest from a McDonald's?
+
+- [ ] South Dakota
+- [x] Nevada
+- [ ] Montana
+
+#### Who released a 1999 album called No Angel?
+
+- [ ] Pink
+- [x] Dido
+- [ ] No Doubt
+
+#### What historical art technique was re-popularized by TV's Bob Ross?
+
+- [x] Alla Prima
+- [ ] Chiaroscuro
+- [ ] Grisaille
+
+#### What children's show featured Spider-man segments?
+
+- [ ] Square One
+- [ ] Shining Time Station
+- [x] The Electric Company
+
+#### Which of the following characters is the head of SPECTRE?
+
+- [ ] Dr. Evil
+- [ ] Mr. Feather
+- [x] Blofeld
+
+#### In what city would you find a McDonald's with the logo in white instead of the normal yellow?
+
+- [x] Paris
+- [ ] Rome
+- [ ] London
+
+#### Which of the following is a food item sold by Dairy Queen?
+
+- [ ] Bloomin' Onion
+- [x] Dilly Bar
+- [ ] Big Mac
+
+#### An icosikaitetragon is a shape with how many sides?
+
+- [x] 24
+- [ ] 33
+- [ ] 43
+
+#### How many gallons of whole milk does it take to make a gallon of ice cream?
+
+- [x] Three
+- [ ] Three Hundred
+- [ ] Three Million
+
+#### Where was the Caesar Salad created?
+
+- [ ] Italy
+- [ ] Canada
+- [x] Mexico
+
+#### Which of these video games is the fake?
+
+- [ ] *NSYNC: Get to the Show
+- [ ] Home Improvement: Power Tool Pursuit!
+- [x] Family Matters: Urkel's Quest
+
+#### What is the absolute minimum number of total "shots" in a complete game of Battleship?
+
+- [ ] 17
+- [x] 33
+- [ ] 41
+
+#### In "The Empire Strikes Back", who continues Luke's Jedi training?
+
+- [ ] Obi-Wan Kenobi
+- [x] Yoda
+- [ ] Qui-Gon Jinn
+
+#### How many boroughs make up New York City?
+
+- [ ] 8
+- [ ] 16
+- [x] 5
+
+#### Which Roman goddess of love was painted standing in a half shell?
+
+- [ ] Juno
+- [x] Venus
+- [ ] Minerva
+
+#### What is the half-life for bone DNA?
+
+- [x] 521 years
+- [ ] 521,000 years
+- [ ] 521,000,000 years
+
+#### Andouille and Chicken & Apple are types of what?
+
+- [ ] Wine
+- [x] Sausage
+- [ ] Napkin
+
+#### Who was NOT a character on Scrubs?
+
+- [ ] Snoop Dogg Intern
+- [x] The Silent Janitor
+- [ ] Colonel Doctor
+
+#### Which of the following steaks would be the least cooked?
+
+- [ ] Well Done
+- [ ] Medium Well
+- [x] Medium Rare
+
+#### What Xbox video game was recently turned into a streaming series on Paramount+?
+
+- [x] Halo
+- [ ] Donkey Kong
+- [ ] Pac-Man
+
+#### What does Michael Scott's mug read?
+
+- [ ] That's What She Said
+- [ ] Your Ad Here
+- [x] World's Best Boss
+
+#### Which author allegedly worked as a KGB source?
+
+- [ ] George Orwell
+- [ ] JD Salinger
+- [x] Ernest Hemingway
+
+#### What animal is nicknamed the "ship of the desert?"
+
+- [x] Camel
+- [ ] Bison
+- [ ] Armadillo
+
+#### The question "Who is John Galt?" is posed throughout what novel?
+
+- [ ] Catch-22
+- [x] Atlas Shrugged
+- [ ] Native Son
+
+#### Succulents are a type of what?
+
+- [x] Plant
+- [ ] Dessert
+- [ ] Cloud
+
+#### Which Disney Parks attraction claims to be inhabited by "999 happy haunts"?
+
+- [ ] Casey Jr. Circus Train
+- [ ] Roger Rabbit's Cartoon Spin
+- [x] The Haunted Mansion
+
+#### Which of the following terms describes continuing to eat after you're full?
+
+- [ ] Greng-jai
+- [x] Shemomedjamo
+- [ ] Pelinti
+
+#### Who is the egotistical villain from Belle's town who wants to marry her?
+
+- [ ] Le Fou
+- [x] Gaston
+- [ ] The Beast
+
+#### Where would you find the only active diamond mine in the U.S.?
+
+- [ ] Hawaii
+- [ ] North Dakota
+- [x] Arkansas
+
+#### The Japanese term "Kuchisabishii" refers to eating for what reason?
+
+- [ ] Extreme hunger
+- [ ] As a sign of respect
+- [x] Your mouth is lonely
+
+#### Which of these films does NOT feature a Second City alum in a leading role?
+
+- [ ] Cheaper by the Dozen 2
+- [x] Dumb and Dumber To
+- [ ] Nothing But Trouble
+
+#### In which sport do teams compete for the Vince Lombardi Trophy?
+
+- [x] American Football
+- [ ] Ice Hockey
+- [ ] Pickleball
+
+#### In Norse mythology, who is Thor's wife?
+
+- [x] Sif
+- [ ] Loka
+- [ ] Hela
+
+#### Which of the following is NOT a Canadian province?
+
+- [ ] Ontario
+- [ ] Alberta
+- [x] Flavortown
+
+#### Krav Maga is a martial art from which country?
+
+- [ ] Brazil
+- [x] Israel
+- [ ] Thailand
+
+#### If every pistol was a Very pistol, what type of pistol would it be?
+
+- [x] A flare gun
+- [ ] A taser
+- [ ] A BB gun
+
+#### If you order a carnitas taco, what meat are you eating?
+
+- [ ] Chicken
+- [ ] Rabbit
+- [x] Pork
+
+#### Which brand is "Good to the last drop"?
+
+- [ ] Amway
+- [x] Maxwell House
+- [ ] Sunoco
+
+#### Which President had his father swear him in?
+
+- [ ] Ulysses S. Grant
+- [x] Calvin Coolidge
+- [ ] John Quincy Adams
+
+#### What restaurant does FEMA use as an informal index to determine the impact of disasters?
+
+- [x] Waffle House
+- [ ] Burger King
+- [ ] Dairy Queen
+
+#### Prior to 2012, who was the largest purchaser of kale in the United States?
+
+- [ ] Saladalley
+- [x] Pizza Hut
+- [ ] Subway
+
+#### Cans of spray paint are traditionally used in what form of street art?
+
+- [ ] Chalk drawings
+- [ ] Breakdancing
+- [x] Graffiti
+
+#### Idris Elba is the spokesman for what travel website?
+
+- [ ] Travelocity.com
+- [ ] Expedia.com
+- [x] Booking.com
+
+#### At which college was Facebook invented?
+
+- [x] Harvard
+- [ ] Yale
+- [ ] Columbia
+
+#### What late night host was famous for his "Top Ten" lists?
+
+- [x] David Letterman
+- [ ] Conan O'Brien
+- [ ] Craig Ferguson
+
+#### Drew and Jonathan Scott star in what reality show?
+
+- [ ] Home Town
+- [ ] Love It or List It
+- [x] Property Brothers
+
+#### In the book "Corduroy", what is the bear looking for?
+
+- [ ] A home
+- [x] A button
+- [ ] His mother
+
+#### Which of these shows aired for the longest?
+
+- [ ] Cop Rock
+- [ ] Heroes
+- [x] M*A*S*H
+
+#### Around when is the North Pole tilted 23.5 degrees toward our Sun?
+
+- [ ] January 1st
+- [ ] March 20th
+- [x] June 21st
+
+#### Which biblical figure wrote most of the lyrics to the hit song "Turn! Turn! Turn! (to Everything There Is a Season)"?
+
+- [ ] King David
+- [x] King Solomon
+- [ ] Isaiah
+
+#### In which video game can you defeat a boss by not playing the game for a week?
+
+- [ ] Metroid
+- [ ] Mad Dog McCree
+- [x] Metal Gear Solid 3
+
+#### Which of these women was nominated for Best Director first?
+
+- [ ] Sofia Coppola
+- [ ] Jane Campion
+- [x] Lina Wertmüller
+
+#### In 2020, what popular brand was discontinued by Coca-Cola?
+
+- [ ] Schweppes
+- [x] Tab
+- [ ] Fanta
+
+#### Which of these Muppets normally plays the piano?
+
+- [ ] Fozzie Bear
+- [x] Rowlf
+- [ ] Kermit
+
+#### On "The Office", which of the following Dunder Mifflin employees dated Michael Scott?
+
+- [ ] Jan
+- [ ] Phyllis
+- [x] Kelly
+
 #### Harold is the name of the Abominable Snowman you'll find in which Disneyland attraction?
 
 - [ ] Tarzan's Treehouse
@@ -16177,7 +16753,7 @@
 - [x] The marriage of the owner
 - [ ] The birthday of the owner
 
-#### Who was responsible for writing Kevin Gnappor's rap?
+#### Who was responsible for writing Kevin Gnapoor's rap?
 
 - [ ] Tina Fey
 - [ ] Tim Meadows
@@ -19846,8 +20422,8 @@
 #### The person who first posited the theory of the Big Bang worked in what profession?
 
 - [ ] Biologist
-- [ ] Priest
-- [x] Philosopher
+- [x] Priest
+- [ ] Philosopher
 
 #### Who released "The Chronic" in 1992?
 
@@ -30217,7 +30793,7 @@
 - [ ] He fell asleep
 - [x] He was hit by lightning
 
-#### What is the term for a piece of land ALMOST entireluy surrounded by water?
+#### What is the term for a piece of land ALMOST entirely surrounded by water?
 
 - [x] Peninsula
 - [ ] Crater
@@ -36877,7 +37453,7 @@
 - [ ] Chicken
 - [x] Peanut Butter
 
-#### Daniel "Ruby" Ruettiger famously played in a football game for which college?
+#### Daniel "Rudy" Ruettiger famously played in a football game for which college?
 
 - [x] Notre Dame
 - [ ] Cabrini
@@ -39005,7 +39581,7 @@
 
 - [x] Kermit the Frog
 - [ ] Beaker
-- [ ] Sweeturns
+- [ ] Sweetums
 
 #### Which of the following inventions is older than the wheel?
 
@@ -44041,7 +44617,7 @@
 - [ ] Thriller
 - [ ] Bad
 
-#### Who plays Harley Quinn in the live action Suicide Squard movies?
+#### Who plays Harley Quinn in the live action Suicide Squad movies?
 
 - [x] Margot Robbie
 - [ ] Angelina Jolie
@@ -47626,7 +48202,7 @@
 #### Which of the following muppets is operated from within a full body suit?
 
 - [ ] Gonzo
-- [x] Sweeturns
+- [x] Sweetums
 - [ ] Robin
 
 #### Which of the following races is run on horseback?
@@ -61740,7 +62316,7 @@
 
 #### What are the two types of cards in a standard game of Monopoly?
 
-- [ ] Hazar and Money
+- [ ] Hazard and Money
 - [ ] Credit and Greeting
 - [x] Chance and Community Chest
 
@@ -63382,7 +63958,7 @@
 - [ ] Italy
 - [ ] Columbia
 
-#### Mead is made b fermenting water with what substance?
+#### Mead is made by fermenting water with what substance?
 
 - [ ] Chewing Gum
 - [ ] Spearmint
@@ -63685,7 +64261,7 @@
 #### In the original Star Wars, what Imperial Space Station is destroyed by Luke Skywalker?
 
 - [ ] Cloud City
-- [x] The Death tar
+- [x] The Death Star
 - [ ] Starkiller Base
 
 #### Who created Star Wars?
