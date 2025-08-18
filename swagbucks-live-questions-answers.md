@@ -23615,7 +23615,7 @@
 
 - [ ] Mixed Nuts
 - [ ] Happy Gilmore
-- [x] Bid Daddy
+- [x] Big Daddy
 
 #### What country is known as the Land of Milk and Honey?
 
@@ -26113,7 +26113,7 @@
 - [ ] Let's get physical!
 - [x] There's a snake in my boot!
 
-#### Which Lakers legend use the Skyhook as their signature shot?
+#### Which Lakers legend used the Skyhook as their signature shot?
 
 - [x] Kareem Abdul-Jabbar
 - [ ] Michael Cooper
@@ -71319,3 +71319,171 @@
 - [ ] Hospitality
 - [x] Computers
 - [ ] Medicine
+
+#### Which of these French phrases means "have a good trip"?
+
+- [x] Bon Voyage
+- [ ] Adieu
+- [ ] Au revoir
+
+#### Who is Simba's father in "The Lion King"?
+
+- [x] Mufasa
+- [ ] Scar
+- [ ] Timon
+
+#### In which movie does Jean-Claude Van Damme play a cop who polices time?
+
+- [ ] Kickboxer
+- [ ] Universal Soldier
+- [x] Timecop
+
+#### Tiger Woods is famous for playing what sport?
+
+- [ ] Lacrosse
+- [x] Golf
+- [ ] Bowling
+
+#### In April of 2018, Tammy Duckworth achieved what first for a sitting U.S. Senator?
+
+- [x] Giving birth
+- [ ] Getting married
+- [ ] Getting divorced
+
+#### What part of your body does an orthodontist work on?
+
+- [x] Teeth
+- [ ] Eyes
+- [ ] Nose
+
+#### Simu Liu plays which Asian superhero?
+
+- [ ] Doctor Mirage
+- [ ] Sunfire
+- [x] Shang-Chi
+
+#### Which of these States is on the East Coast?
+
+- [x] Florida
+- [ ] Washington
+- [ ] Oregon
+
+#### Kevin Costner, Russell Crowe, and Errol Flynn have all played what swashbuckling thief?
+
+- [ ] Sinbad
+- [ ] Daniel Ocean
+- [x] Robin Hood
+
+#### Who was the original host of New Year's Rockin' Eve?
+
+- [x] Dick Clark
+- [ ] Art Linkletter
+- [ ] Ed McMahon
+
+#### How many people billed as Tony have won a Tony award?
+
+- [ ] None
+- [x] Seven
+- [ ] Eleven
+
+#### The term "Novelty Foxtrot" was used to describe a single by whom?
+
+- [x] Bill Haley and the Comets
+- [ ] Chuck Berry
+- [ ] Jerry Lee Lewis
+
+#### The man who directed "Ghost" is also known for directing what other movie?
+
+- [x] Airplane!
+- [ ] Love Story
+- [ ] Out of Africa
+
+#### When making the deal for the original Terminator, how much did James Cameron sell the rights for?
+
+- [ ] $100,000
+- [ ] $100
+- [x] $1
+
+#### Which city is famously known as the "City of Love"?
+
+- [x] Paris
+- [ ] Newark
+- [ ] Winnipeg
+
+#### Who holds the record for the most points scored in a single NBA game?
+
+- [x] Wilt Chamberlain
+- [ ] Sedale Threatt
+- [ ] Greg Oden
+
+#### What is the syllabic pattern of a Haiku?
+
+- [x] 5-7-5
+- [ ] 12-4-31
+- [ ] 1-2-3
+
+#### Which of the following series contains a sky pirate named Balthier?
+
+- [x] Final Fantasy
+- [ ] StarCraft
+- [ ] Destiny
+
+#### What was the first nation to host a World Cup in Africa?
+
+- [x] South Africa
+- [ ] Egypt
+- [ ] Morocco
+
+#### What was the last State admitted into the Union?
+
+- [ ] Rhode Island
+- [ ] Delaware
+- [x] Hawaii
+
+#### Where would you find the world's largest waterfall?
+
+- [ ] The Amazon
+- [ ] Chimborazo
+- [x] Underwater
+
+#### Madrid is the capital of which European country?
+
+- [ ] England
+- [ ] Portugal
+- [x] Spain
+
+#### Which of these drinks originated in Ireland?
+
+- [x] Guinness
+- [ ] Jim Beam
+- [ ] Budweiser
+
+#### Complete this common saying: "If you're going to talk the talk..."
+
+- [ ] Buy American
+- [ ] Put All Your Eggs in one Basket
+- [x] Walk the Walk
+
+#### Hugh Grant, Benedict Cumberbatch, and Catherine Zeta-Jones were all mentioned as candidates to assume what role?
+
+- [ ] The President of the United States
+- [x] Doctor Who
+- [ ] Sherlock Holmes
+
+#### Which of these was an actual Friends episode title?
+
+- [ ] The One with the Turkey
+- [ ] The One with Barry and Mandy's Wedding
+- [x] The One with the Bullies
+
+#### In Medieval times, What was an Iron Maiden used for?
+
+- [ ] Rock and Roll
+- [ ] Gardening
+- [x] Torture
+
+#### The NHL record holder for career penalty minutes went by what animal nickname?
+
+- [x] Tiger
+- [ ] Grizzly
+- [ ] Badger
