@@ -71289,3 +71289,33 @@
 - [ ] Alligators
 - [x] Bears
 - [ ] Goats
+
+#### Meeko the Raccoon is a sidekick to which Disney Princess?
+
+- [x] Pocahontas
+- [ ] Moana
+- [ ] Merida
+
+#### Which of the following actors was NOT offered the role of Harry in "Home Alone"?
+
+- [ ] Jon Lovitz
+- [ ] Robert De Niro
+- [x] Robert Duvall
+
+#### What backyard game invovles tossing bean bags?
+
+- [ ] Red Rover
+- [ ] Heads Up, Seven Up
+- [x] Cornhole
+
+#### What plant's French name translates to "wet the bed"?
+
+- [ ] Peony
+- [ ] Cactus
+- [x] Dandelion
+
+#### Mark Dean is best known for his contributions to what field?
+
+- [ ] Hospitality
+- [x] Computers
+- [ ] Medicine
