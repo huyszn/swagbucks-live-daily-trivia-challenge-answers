@@ -72105,3 +72105,105 @@
 - [ ] Victoria Falls
 - [x] Hershey Park
 - [ ] The Grand Canyon
+
+#### "Under the Table and Dreaming is the first studio album of which band?
+
+- [ ] Herb Alpert and the Tijuana Brass
+- [ ] The Beatles
+- [x] Dave Matthews Band
+
+#### The Spanish word "Hola" translates to what word in English?
+
+- [ ] Water
+- [x] Hello
+- [ ] Eye
+
+#### Which of these celebrities has fathered the most children?
+
+- [ ] Mick Jagger
+- [x] DMX
+- [ ] Eddie Murphy
+
+#### In "Deal or No Deal", what numbered items are the models holding?
+
+- [x] Briefcases
+- [ ] Bags
+- [ ] Balloons
+
+#### What band released the songs "Back in Black", "Thunderstruck", and "You Shook Me All Night Long"?
+
+- [ ] Metallica
+- [ ] Slayer
+- [x] AC/DC
+
+#### In which State did the Civil War's Battle of Gettysburg take place?
+
+- [x] Pennsylvania
+- [ ] Ohio
+- [ ] Georgia
+
+#### Which of the following movies stars Will Smith?
+
+- [ ] Lethal Weapon
+- [x] Bad Boys
+- [ ] Superman II
+
+#### Which of these peppers has the highest amount of Scoville units?
+
+- [ ] Yellow Pepper
+- [ ] Jalapeno
+- [x] Carolina Reaper
+
+#### Which of the following NBA players was a #1 draft pick?
+
+- [ ] Jeff Mornacek
+- [x] Lebron James
+- [ ] Brian Scalabrine
+
+#### In the early Garfield comic strips, Jon Arbuckle had a roommate. What was their name?
+
+- [x] Lyman
+- [ ] Liz
+- [ ] Jim
+
+#### Which designer's name is synonymous with the "Little Black Dress"?
+
+- [ ] Tommy Hilfiger
+- [x] Coco Chanel
+- [ ] Bob Mackie
+
+#### What toy was advertised for its ability to walk down stairs?
+
+- [ ] Silly Putty
+- [x] Slinky
+- [ ] Etch-A-Sketch
+
+#### Which school does Harry Potter attend?
+
+- [ ] Harvard
+- [x] Hogwarts
+- [ ] Phillips Exeter Academy
+
+#### A series of McDonald's ads featured which two Basketball legends playing HORSE?
+
+- [x] Michael Jordan and Larry Bird
+- [ ] Magic Johnson and Michael Jordan
+- [ ] Larry Bird and Magic Johnson
+
+#### What game ends when a tower of blocks topples?
+
+- [ ] Perfection
+- [ ] Operation
+- [x] Jenga
+
+#### Who defeated Edward II in the Battle of Bannockburn?
+
+- [x] Robert the Bruce
+- [ ] Mary Queen of Scots
+- [ ] Oliver Cromwell
+
+#### Lauren Bacall was famously married to what actor?
+
+- [x] Humphrey Bogart
+- [ ] James Mason
+- [ ] Clark Gable
