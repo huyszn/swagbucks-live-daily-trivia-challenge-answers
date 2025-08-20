@@ -72045,3 +72045,63 @@
 - [ ] Fozzie Bear
 - [x] Rowlf
 - [ ] Kermit
+
+#### Birdie the Early Bird, Grimace, and Mayor McCheese are all mascots for which fast food chain?
+
+- [ ] Burger King
+- [x] McDonald's
+- [ ] Wendy's
+
+#### On which ocontinent was the Tango born?
+
+- [x] South America
+- [ ] Europe
+- [ ] Australia
+
+#### In 2017, what stress-relieving toy became popular?
+
+- [ ] Yo-Yos
+- [x] Fidget Spinners
+- [ ] Nerf Balls
+
+#### Which of these animals protects itself by changing color to blend into its environment?
+
+- [x] Chameleon
+- [ ] Bulldog
+- [ ] Giraffe
+
+#### In 1851, the first ever tournament for what board game was held in London?
+
+- [x] Chess
+- [ ] Checkers
+- [ ] Backgammon
+
+#### In which reality competition show do the contestants stay in a house isolated from the outside world?
+
+- [ ] So You Think You Can Dance?
+- [ ] American Idol
+- [x] Big Brother
+
+#### Which of the following acts was NOT part of the first class of the Rock and Roll Hall of Fame?
+
+- [ ] Elvis Presley
+- [x] Sublime
+- [ ] Buddy Holly
+
+#### What common word comes from the Greek tale of Theseus and the labyrinth?
+
+- [x] Clue
+- [ ] Lost
+- [ ] Search
+
+#### In "The Wizard of Oz", what is used to defeat the Wicked Witch of the West?
+
+- [ ] Fire
+- [ ] Wind
+- [x] Water
+
+#### Which of the following is NOT officially one of the 7 Natural Wonders of the World?
+
+- [ ] Victoria Falls
+- [x] Hershey Park
+- [ ] The Grand Canyon
