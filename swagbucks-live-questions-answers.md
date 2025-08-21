@@ -72285,3 +72285,27 @@
 - [ ] Jolene
 - [ ] Coat of Many Colors
 - [x] 9 to 5
+
+#### Which of these numbers is most cosely associated with the home of Chabad Judaism?
+
+- [x] 770
+- [ ] 614
+- [ ] 101
+
+#### Miyam Bialik holds a Ph. D. from which university?
+
+- [ ] USC
+- [x] UCLA
+- [ ] UC Berkeley
+
+#### A medium organge contains 100% of your daily recommended amount of what vitamin?
+
+- [ ] Vitamin D
+- [ ] Niacin
+- [x] Vitamin C
+
+#### Which of the following Christmas Carols is the oldest?
+
+- [ ] Silent Night
+- [x] Hark! The Herald Angels Sing
+- [ ] Deck the Halls
