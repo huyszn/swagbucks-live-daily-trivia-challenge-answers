@@ -72225,3 +72225,63 @@
 - [ ] Pepsi
 - [ ] Mountain Dew
 - [x] Sprite
+
+#### "You may say I'm a dreamer, but I'm not the only one. I hope someday you'll join us, and the wrold will be as one."
+
+- [ ] Beautiful boy
+- [x] Imagine
+- [ ] Blinding Lights
+
+#### "What you want, Baby, I got it; What you need, Do you know I got it?"
+
+- [x] Respect
+- [ ] Stairway to Heaven
+- [ ] Bohemian Rhapsody
+
+#### "Cause I try, and I try, and I try, and I try; I can't get no, I can't get no."
+
+- [ ] She's a Rainbow
+- [ ] Beast of Burden
+- [x] Satisfaction
+
+#### "Let's all get up and dance to a song that was a hit before your mother was born."
+
+- [ ] Mama Told Me Not To Come
+- [x] Your Mother Should Know
+- [ ] Mother and Child Reunion
+
+#### "I've got sunshine on a cloudy day; When it's cold outside, I've got the month of May."
+
+- [x] My Girl
+- [ ] Just My Imagination
+- [ ] Lady Soul
+
+#### "Your pop's caught you smokin', man, he says, "No way!" That hypocrite smokes two packs a day..."
+
+- [ ] Parents Just Don't Understand
+- [x] Fight For Your Right (To Party)
+- [ ] Shake Your Rump
+
+#### "When you believe in things you don't understand, then you suffer..."
+
+- [x] Superstition
+- [ ] Isn't She Lovely
+- [ ] Master Blaster
+
+#### "When the clock strikes two, three and four; If the band slows down we'll yell for more..."
+
+- [ ] Time
+- [ ] Clocks
+- [x] Rock Around The Clock
+
+#### "This is Ground Control to Major Tom: You've really made the grade."
+
+- [ ] Changes
+- [x] Space Oddity
+- [ ] Fame
+
+#### "Tumble out of bed and I stumble to the kitchen, pour myself a cup of ambition and yawn and stretch and try to come to life."
+
+- [ ] Jolene
+- [ ] Coat of Many Colors
+- [x] 9 to 5
