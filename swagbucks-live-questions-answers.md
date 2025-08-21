@@ -49717,12 +49717,6 @@
 - [ ] Blondie
 - [x] Psychedelic Furs
 
-#### Where does Oscar the Grouch live?
-
-- [ ] Penthouse apartment
-- [x] In a trash can
-- [ ] Bunker
-
 #### Which of the following discontinued Doritos flavors is the FAKE?
 
 - [x] Sweet n' Spicy Maple Jalapeno
@@ -72207,3 +72201,27 @@
 - [x] Humphrey Bogart
 - [ ] James Mason
 - [ ] Clark Gable
+
+#### What animal appears in the Porsche logo?
+
+- [x] Horse
+- [ ] Elephant
+- [ ] Cow
+
+#### Which action star underwent surgery to have sweat glands removed?
+
+- [ ] Sylvester Stallone
+- [ ] Jean-Claude Van Damme
+- [x] Bruce Lee
+
+#### Which of these books was written by Harper Lee?
+
+- [ ] Huckleberry Finn
+- [x] To Kill A Mockingbird
+- [ ] Catcher in the Rye
+
+#### Which soft drink's ads tell you to "Obey Your Thirst"?
+
+- [ ] Pepsi
+- [ ] Mountain Dew
+- [x] Sprite
