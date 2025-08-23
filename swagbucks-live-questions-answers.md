@@ -72286,19 +72286,19 @@
 - [ ] Coat of Many Colors
 - [x] 9 to 5
 
-#### Which of these numbers is most cosely associated with the home of Chabad Judaism?
+#### Which of these numbers is most closely associated with the home of Chabad Judaism?
 
 - [x] 770
 - [ ] 614
 - [ ] 101
 
-#### Miyam Bialik holds a Ph. D. from which university?
+#### Mayim Bialik holds a Ph. D. from which university?
 
 - [ ] USC
 - [x] UCLA
 - [ ] UC Berkeley
 
-#### A medium organge contains 100% of your daily recommended amount of what vitamin?
+#### A medium orange contains 100% of your daily recommended amount of what vitamin?
 
 - [ ] Vitamin D
 - [ ] Niacin
@@ -72309,3 +72309,93 @@
 - [ ] Silent Night
 - [x] Hark! The Herald Angels Sing
 - [ ] Deck the Halls
+
+#### What comic book hero, played in the movies by Ryan Reynolds, is known as The Merch with the Mouth?
+
+- [ ] Wolverine
+- [ ] Spider-Man
+- [x] Deadpool
+
+#### From 1947 to 1989, the USA and USSR were engaged in a geopolitical struggle known by what name?
+
+- [x] The Cold War
+- [ ] The Hot War
+- [ ] The Six Days War
+
+#### What restaurant chain is known for their Cheddar Bay Biscuits?
+
+- [ ] Outback Steakhouse
+- [ ] Panera Bread
+- [x] Red Lobster
+
+#### What spice is a hallucinogen when ingested in large enough qualities?
+
+- [ ] Cinnamon
+- [x] Nutmeg
+- [ ] Paprika
+
+#### How long does it take for the International Space Station to orbit the Earth?
+
+- [x] 90 Minutes
+- [ ] One Day
+- [ ] Two Weeks
+
+#### The Boston Celtics have a decades-long rivalry with which West Coast team?
+
+- [ ] Los Angeles Clippers
+- [ ] Phoenix Suns
+- [x] Los Angeles Lakers
+
+#### Officer Edgar Mallory appears in which board game?
+
+- [x] Monopoly
+- [ ] The Game of Life
+- [ ] Sorry!
+
+#### What is the Emmy statuette holding in her hands?
+
+- [ ] A Globe
+- [x] An Atom
+- [ ] A Television
+
+#### Diwali is the festival of lights in which country?
+
+- [x] India
+- [ ] Ireland
+- [ ] Canada
+
+#### Which of the following games is an elimination game?
+
+- [ ] Pin the Tail on the Donkey
+- [ ] Duck, Duck, Goose
+- [x] Musical Chairs
+
+#### Which 1960s Disney film was supposed to feature a cameo by the Beatles?
+
+- [ ] Wreck-It Ralph
+- [ ] Frozen 2
+- [x] The Jungle Book
+
+#### What country famously takes a position of neutrality from armed conflicts between other states?
+
+- [ ] France
+- [x] Switzerland
+- [ ] Italy
+
+#### Who are the bad guys in the original Star Wars?
+
+- [ ] The Vampire
+- [x] The Empire
+- [ ] The Umpire
+
+#### In "Jingle Bells", in what vehicle are you dashing through the snow?
+
+- [x] A one-horse open sleigh
+- [ ] A DeLorean
+- [ ] A 2014 Kia Sorento
+
+#### What plant does the Boll Weevil destroy?
+
+- [x] Cotton
+- [ ] Corn
+- [ ] Cabbage
