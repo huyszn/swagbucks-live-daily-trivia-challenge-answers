@@ -48715,7 +48715,7 @@
 - [ ] Earl
 - [x] Duke
 
-#### What is London's Big Ben?
+#### What is London's Big Ben? (REPEATED QUESTION WITH DIFFERENT ANSWER ORDERS)
 
 - [ ] A Sandwich
 - [ ] A Thoroughfare
@@ -72399,3 +72399,9 @@
 - [x] Cotton
 - [ ] Corn
 - [ ] Cabbage
+
+#### What color is salsa verde?
+
+- [ ] Blue
+- [x] Green
+- [ ] White
