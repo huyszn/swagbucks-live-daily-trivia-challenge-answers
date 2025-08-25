@@ -72405,3 +72405,15 @@
 - [ ] Blue
 - [x] Green
 - [ ] White
+
+#### In 2018, IBM introduced a computer capable of what?
+
+- [ ] Unmanned space travel
+- [x] Winning a debate
+- [ ] Mimicking human emotion
+
+#### What outdoors toy was invented from pie tins?
+
+- [ ] Paddleball
+- [x] Frisbee
+- [ ] Pogo Stick
