@@ -69190,7 +69190,7 @@
 - [ ] Pete Rose
 - [x] Cal Ripken, Jr.
 
-#### Which of these foods is traditionally peelede before eating?
+#### Which of these foods is traditionally peeled before eating?
 
 - [x] Banana
 - [ ] Tofu
@@ -72417,3 +72417,111 @@
 - [ ] Paddleball
 - [x] Frisbee
 - [ ] Pogo Stick
+
+#### VISA, Mastercard, and American Express are all types of what?
+
+- [ ] Milk
+- [x] Credit Card
+- [ ] Car
+
+#### Who was the first man to fly solo nonstop across the Atlantic Ocean?
+
+- [ ] Chuck Yeager
+- [ ] Amelia Earhart
+- [x] Charles Lindbergh
+
+#### The Los Angeles Sparks, Seattle Storm, and New York Liberty all play in which league?
+
+- [ ] NHL
+- [x] WNBA
+- [ ] MLB
+
+#### What nickname does Japan go by?
+
+- [x] Land of the Rising Sun
+- [ ] The Hermit Kingdom
+- [ ] Emerald of the Equator
+
+#### In "Avengers: Endgame", what other Marvel hero is able to wield Thor's hammer in battle?
+
+- [x] Captain America
+- [ ] Iron Man
+- [ ] The Hulk
+
+#### In which sport can you score a bullseye?
+
+- [x] Archery
+- [ ] High Dive
+- [ ] Pole Vault
+
+#### Who wrote "Treasure Island"?
+
+- [ ] Mark Twain
+- [x] Robert Louis Stevenson
+- [ ] Harriet Beecher Stowe
+
+#### Gold, Platinum and Palladium are all examples of what kind of Metal?
+
+- [x] Precious Metal
+- [ ] Adorable Metal
+- [ ] Handsome Metal
+
+#### LeVar Burton hosted what PBS children's show from 1983 to 2006?
+
+- [ ] Daniel Tiger's Neighborhood
+- [ ] Square One
+- [x] Reaading Rainbow
+
+#### Who is the primary antagonist in the first season of "Stranger Things"?
+
+- [x] Demogorogon
+- [ ] Moriarty
+- [ ] The Sandman
+
+#### The Archie comics were adapted for which teen show?
+
+- [ ] Saved by The Bell
+- [x] Riverdale
+- [ ] Dawson's Creek
+
+#### According to their theme song, who are the "Modern Stone-Age family"?
+
+- [x] The Flintstones
+- [ ] The Jetsons
+- [ ] The Looney Tunes
+
+#### In "Mad Men", in which industry does Don Draper work?
+
+- [ ] Auto Manufacturing
+- [ ] Accounting
+- [x] Advertising
+
+#### Which of these famous quotes is from "Seinfeld"?
+
+- [x] "No soup for you"
+- [ ] "Rubber Ducky, you're the one"
+- [ ] "Winter is coming"
+
+#### On "The Simpsons", which character shot Mr. Burns in the 1995 season finale?
+
+- [ ] Smithers
+- [x] Maggie
+- [ ] Barney
+
+#### The original "Star Trek" is about the voyages of which starship?
+
+- [ ] Excelsior
+- [ ] Atlantis
+- [x] Enterprise
+
+#### Which BBC program is about a Time Lord and their companions?
+
+- [ ] Broadchurch
+- [x] Doctor Who
+- [ ] Are You Being Served?
+
+#### The Olsen Twins got their big break on "Full House" playing which character?
+
+- [x] Michelle
+- [ ] DJ
+- [ ] Stephanie
