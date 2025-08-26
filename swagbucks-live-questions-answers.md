@@ -44122,7 +44122,7 @@
 #### Florence Nightingale became renowned for her nursing work during which war?
 
 - [ ] Vietnam War
-- [x] Grimean War
+- [x] Crimean War
 - [ ] Gulf War
 
 #### What food item, when first brought to Europe, was believed to be a "concoction of the devil"?
@@ -64237,7 +64237,7 @@
 #### Which actor is known for being famous pop star in Germany?
 
 - [ ] George Clooney
-- [ ] Josh Tesh
+- [ ] John Tesh
 - [x] David Hasselhoff
 
 #### Justin Bieber originally hails from which country?
@@ -72525,3 +72525,123 @@
 - [x] Michelle
 - [ ] DJ
 - [ ] Stephanie
+
+#### What are Debby, Florence, Helene, Patty & Sarah?
+
+- [ ] First Lady names from the 19th Century
+- [x] Female Hurricane names from 2018
+- [ ] Names of orphans in Little Orphan Annie
+
+#### In "Catch Me If You Can", what was Frank Abagnale's secret to passing the Bar exam?
+
+- [ ] Bribery
+- [ ] Forging the results
+- [x] Studying
+
+#### What is the name of NBC's streaming service?
+
+- [ ] Paramount+
+- [x] Peacock
+- [ ] Amazon Prime
+
+#### Ramen is a type of what?
+
+- [x] Noodle soup
+- [ ] Dance wear
+- [ ] Digital thermometer
+
+#### The Baby Ruth candy bar originally claimed to be named after which president's daughter?
+
+- [ ] Herbert Hoover
+- [ ] Calvin Coolidge
+- [x] Grover Cleveland
+
+#### What reality show was hosted by Tyra Banks?
+
+- [ ] The Look
+- [x] America's Next Top Model
+- [ ] Fashion Island
+
+#### What State is home to the Grand Canyon?
+
+- [x] Arizona
+- [ ] Maryland
+- [ ] Texas
+
+#### How many times has Kim Kardashian been married?
+
+- [ ] 2
+- [x] 3
+- [ ] 4
+
+#### What soft drink has flavors called Code Red, Live Wire, and Voltage?
+
+- [ ] Canada Dry
+- [ ] Sprite
+- [x] Mountain Dew
+
+#### Who is NOT a character in the movie "Where the Wild Things Are"?
+
+- [ ] Carol
+- [x] Myra
+- [ ] Douglas
+
+#### What diet doesn't allow dairy?
+
+- [x] Vegan
+- [ ] Vegetarian
+- [ ] Weight Watchers
+
+#### What was the name of Nintendo's first handheld console?
+
+- [x] Game Boy
+- [ ] NES
+- [ ] Odyssey
+
+#### Which wrestler has NOT been a WWE Intercontinental Champion?
+
+- [ ] The Honky Tonk Man
+- [ ] Kane
+- [x] Brock Lesnar
+
+#### How many sides are on a dodecagon?
+
+- [ ] 10
+- [x] 12
+- [ ] 16
+
+#### Who played the title character on Fox's show "New Girl"?
+
+- [x] Zooey Deschanel
+- [ ] Jennifer Lawrence
+- [ ] Kate McKinnon
+
+#### What country sends a symbolic tree to England each Christmas?
+
+- [ ] United States
+- [x] Norway
+- [ ] France
+
+#### The mohawk, bob, and beehive are all types of what?
+
+- [x] Hairstyles
+- [ ] Motorcycles
+- [ ] Steaks
+
+#### Delta State University center Lusia Harris was the first woman drafted to play what sport?
+
+- [ ] Baseball
+- [ ] Hockey
+- [x] Basketball
+
+#### What two elements is water made of?
+
+- [ ] Helium and Oxygen
+- [x] Hydrogen and Oxygen
+- [ ] Hydrogen and Nitrogen
+
+#### Which of the following painters is associated with Cubism and Surrealism?
+
+- [ ] Rembrandt
+- [x] Picasso
+- [ ] Da Vinci
