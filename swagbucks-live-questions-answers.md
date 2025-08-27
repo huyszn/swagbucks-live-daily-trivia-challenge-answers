@@ -72645,3 +72645,87 @@
 - [ ] Rembrandt
 - [x] Picasso
 - [ ] Da Vinci
+
+#### A beef shortage during World War I led to what food being recommended by the U.S. government as a replacement?
+
+- [ ] Milk
+- [x] Peanuts
+- [ ] SPAM
+
+#### According to Cyndi Lauper, "Girls Just Wanna Have" what?
+
+- [ ] Low Overheaed
+- [ ] A Sensible Dinner
+- [x] Fun
+
+#### What position did Peyton Manning play?
+
+- [x] Quarterback
+- [ ] Running Back
+- [ ] Linebacker
+
+#### What NBA Hall of Famer played point guard for the Showtime Lakers of the 1980's?
+
+- [x] Magic Johnson
+- [ ] Oscar Robertson
+- [ ] Larry Bird
+
+#### Who is Doc McStuffins a doctor for?
+
+- [ ] Goldfish
+- [ ] Adults
+- [x] Toys and Stuffed Animals
+
+#### "The Crown" is about the monarchs from which country?
+
+- [x] England
+- [ ] Spain
+- [ ] Norway
+
+#### Rowan Atkinson played which silent comedic character?
+
+- [ ] Mr. Toast
+- [ ] Mr. Egg
+- [x] Mr. Bean
+
+#### Martin Sheen played PResident Jed Bartlet in which TV drama?
+
+- [ ] Scandal
+- [x] The West Wing
+- [ ] Veep
+
+#### Who played the regional manager in the British version of "The Office"?
+
+- [x] Ricky Gervals
+- [ ] Martin Freeman
+- [ ] Stephen Merchant
+
+#### Tinky-Winky, Dipsy, Laa Laa and Po are collectively known by what name?
+
+- [ ] The Banana Splits
+- [ ] The Get Along Gang
+- [x] The Teletubbies
+
+#### The title character in "Dexter" is a serial killer that targets what kind of people?
+
+- [x] Murderers
+- [ ] Publicists
+- [ ] Gardeners
+
+#### What show's 1983 finale once held the record for viewers of a scripted TV show?
+
+- [ ] Cheers
+- [ ] Taxi
+- [x] M*A*S*H
+
+#### George Clooney was nominated for two Lead Actor Emmys for his work on what medical drama?
+
+- [x] ER
+- [ ] Chicago Hope
+- [ ] Grey's Anatomy
+
+#### Contestants on which reality show are hoping to be asked "Will you accept this rose?"
+
+- [ ] Survivor
+- [x] The Bachelor
+- [ ] Alone
