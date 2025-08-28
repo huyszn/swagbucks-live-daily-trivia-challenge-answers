@@ -47137,7 +47137,7 @@
 - [x] Finland
 - [ ] Norway
 
-#### Which of these Shakespeare plays is a tragedy?
+#### Which of these Shakespeare plays is a tragedy? (REPEAT QUESTION WITH DIFFERENT ANSWERS)
 
 - [ ] A Midsummer Night's Dream
 - [ ] A Comedy of Errors
@@ -72729,3 +72729,87 @@
 - [ ] Survivor
 - [x] The Bachelor
 - [ ] Alone
+
+#### Peppermint bark is made by mixing peppermint candy and what?
+
+- [x] Chocolate
+- [ ] Gelatin
+- [ ] Cake
+
+#### Complete this William Shakespeare title: "A Midsummer Night's..."
+
+- [ ] Stroll
+- [x] Dream
+- [ ] Picnic
+
+#### In which Broadway musical is there a song that tells you how many minutes there are in a year?
+
+- [ ] Funny Girl
+- [x] Rent
+- [ ] The Producers
+
+#### Which animal's binomial species name comes from the Greek words for "camel sparrow?"
+
+- [ ] Flamingo
+- [x] Ostrich
+- [ ] Emu
+
+#### Brian the talking dog is the Griffin household pet on what show?
+
+- [ ] American Dad
+- [ ] South Park
+- [x] Family Guy
+
+#### On which game show are you trying to solve word puzzles?
+
+- [x] Wheel of Fortune
+- [ ] Card Sharks
+- [ ] Hollywood Squares
+
+#### Which pop star had a "wardrobe malfunction" at the 2004 Super Bowl?
+
+- [ ] Keith Urban
+- [ ] Aretha Franklin
+- [x] Janet Jackson
+
+#### Who was the first "Saturday Night Live" cast member to say "Live, From New York, It's Saturday Night!"?
+
+- [ ] John Belushi
+- [x] Chevy Chase
+- [ ] Dan Aykroyd
+
+#### Whuch U.S. President resigned on live television?
+
+- [ ] William Howard Taft
+- [ ] John Quincy Adams
+- [x] Richard Nixon
+
+#### On "Sesame Street", which character dislikes Zoe's pet rock Rocco?
+
+- [x] Elmo
+- [ ] Grover
+- [ ] Big Bird
+
+#### Which band famously performed on "The Ed Sullivan Show" in February of 1964?
+
+- [ ] The Rolling Stones
+- [x] The Beatles
+- [ ] Led Zeppelin
+
+#### Which TV show features the fictional board game "The Cones of Dunshire"?
+
+- [x] Parks and Recreation
+- [ ] The Big Bang Theory
+- [ ] Friends
+
+#### Jay Leno was the longtime host of what talk show?
+
+- [ ] The Today Show
+- [x] The Tonight Show
+- [ ] The Afternoon Show
+
+#### Which game show offers lifelines like "Phone-a-friend" and "50-50"?
+
+- [x] Who Wants To Be A Millionaire?
+- [ ] Deal or No Deal
+- [ ] The Price Is Right
