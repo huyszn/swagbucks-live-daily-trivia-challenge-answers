@@ -72813,3 +72813,75 @@
 - [x] Who Wants To Be A Millionaire?
 - [ ] Deal or No Deal
 - [ ] The Price Is Right
+
+#### In "Threat Level Midnight", whose head explodes after being shot?
+
+- [ ] Kevin
+- [x] Toby
+- [ ] Oscar
+
+#### What does a humidifier add to the air in a room?
+
+- [ ] Dust
+- [ ] Excitement
+- [x] Moisture
+
+#### Which of the following sitcomes is about teachers at a Philadelphia public school?
+
+- [ ] 21 Jump Street
+- [x] Abbott Elementary
+- [ ] Young Sheldon
+
+#### What is the name of the bar in "It''s Always Sunny in Philadelphia"?
+
+- [ ] The Copacabana
+- [ ] Cheers
+- [x] Paddy's Pub
+
+#### Kyle MacLachlan played FBI Special Agent Dale Cooper on what TV drama?
+
+- [ ] Eureka
+- [x] Twin Peaks
+- [ ] Normal, Ohio
+
+#### In 1968, a televised football game between the Raiders and Jet was preempted to air what movie?
+
+- [ ] Mary Poppins
+- [x] Heidi
+- [ ] The Sound of Music
+
+#### The title character from "Ted Lasso" originally appeared in a commercial promoting what?
+
+- [ ] Beer
+- [ ] Harrods
+- [x] English Premier League
+
+#### Alfonso Ribeiro did the "Carlton" dance on which sitcom?
+
+- [x] The Fresh Prince of Bel Air
+- [ ] Modern Family
+- [ ] Growing Pains
+
+#### In "The Office", what is the pizza place the employees love?
+
+- [ ] Pizza By Alfredo
+- [ ] Scranton Pizza Works
+- [x] Alfredo's Pizza Cafe
+
+#### Who was first the actor in TV history to receive multiple Emmy nominations for performing the same role of three series?
+
+- [x] Kelsey Grammer
+- [ ] Lisa Kudrow
+- [ ] Richard Belzer
+
+#### "The Bear" is set in which city?
+
+- [ ] Des Moines
+- [x] Chicago
+- [ ] Ocala
+
+#### The TV show "Suits" revolves around what kind of business?
+
+- [x] Law firm
+- [ ] Doctor's office
+- [ ] NBA franchise
