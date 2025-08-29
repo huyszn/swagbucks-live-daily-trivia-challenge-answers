@@ -72885,3 +72885,15 @@
 - [x] Law firm
 - [ ] Doctor's office
 - [ ] NBA franchise
+
+#### If you're a southpaw, which hand do you primarily use?
+
+- [x] Left hand
+- [ ] Handyman
+- [ ] Hands Across America
+
+#### Who was the man behind musicals like "Into the Woods" and "Sweeney Todd"?
+
+- [ ] Irving Berlin
+- [ ] Cole Porter
+- [x] Stephen Sondheim
