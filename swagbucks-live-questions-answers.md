@@ -72897,3 +72897,45 @@
 - [ ] Irving Berlin
 - [ ] Cole Porter
 - [x] Stephen Sondheim
+
+#### What restaurant sells the Frosty?
+
+- [ ] Dairy Queen
+- [x] Wendy's
+- [ ] Subway
+
+#### Don Quixote was originally published in which language?
+
+- [x] Spanish
+- [ ] Elvish
+- [ ] Klingon
+
+#### Which of the following TV shows did NOT feature an appearance by Detective John Munch?
+
+- [ ] Arrested Development
+- [ ] The X-Files
+- [x] The Simpsons
+
+#### The "Clone Wars" and "Rebels" are TV shows set in what universe?
+
+- [ ] DC
+- [x] Star Wars
+- [ ] Marvel
+
+#### In which country would you celebrate Halloween with a fruitcake filled with coins called a Barmbrack?
+
+- [ ] The Netherlands
+- [ ] Wales
+- [x] Ireland
+
+#### In which Italian city would you find Michelangelo's David?
+
+- [ ] Rome
+- [x] Florence
+- [ ] Venice
+
+#### Which of the following "American Idol" contestants does NOT have their own talk show?
+
+- [ ] Kelly Clarkson
+- [x] Scotty McCreery
+- [ ] Jennifer Hudson
