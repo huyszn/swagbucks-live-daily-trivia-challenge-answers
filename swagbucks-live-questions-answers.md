@@ -72939,3 +72939,27 @@
 - [ ] Kelly Clarkson
 - [x] Scotty McCreery
 - [ ] Jennifer Hudson
+
+#### In game 7 of the 2016 NBA Finals, LeBron James saved the series for the Cavs with a chase down block on which player?
+
+- [x] Andre Iguolada
+- [ ] Steph Curry
+- [ ] Draymond Green
+
+#### Which DC superhero is an Amazonian?
+
+- [x] Wonder Woman
+- [ ] The Martian Manhunter
+- [ ] Aquaman
+
+#### Which song is most associated with Farrokh Bulsara?
+
+- [x] I Want It All
+- [ ] Die Roboter
+- [ ] Caribbean Queen
+
+#### What brand uses a Gecko named Martin as its mascot?
+
+- [ ] Palmolive
+- [x] Geico
+- [ ] Burger King
