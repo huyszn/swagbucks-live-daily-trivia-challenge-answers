@@ -72963,3 +72963,21 @@
 - [ ] Palmolive
 - [x] Geico
 - [ ] Burger King
+
+#### In "Avenue Q", which other Broadway show is mentioned by Rod?
+
+- [ ] Oklahoma!
+- [x] High Button Shoes
+- [ ] Something for the Boys
+
+#### Which of these is NOT common in Trail Mix?
+
+- [ ] Nuts
+- [ ] Raisins
+- [x] Veal Parmesan
+
+#### Which of the following States does NOT share a border with Mexico?
+
+- [ ] Texas
+- [ ] California
+- [x] Michigan
