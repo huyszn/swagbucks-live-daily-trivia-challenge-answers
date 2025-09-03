@@ -72897,3 +72897,147 @@
 - [ ] Irving Berlin
 - [ ] Cole Porter
 - [x] Stephen Sondheim
+
+#### What restaurant sells the Frosty?
+
+- [ ] Dairy Queen
+- [x] Wendy's
+- [ ] Subway
+
+#### Don Quixote was originally published in which language?
+
+- [x] Spanish
+- [ ] Elvish
+- [ ] Klingon
+
+#### Which of the following TV shows did NOT feature an appearance by Detective John Munch?
+
+- [ ] Arrested Development
+- [ ] The X-Files
+- [x] The Simpsons
+
+#### The "Clone Wars" and "Rebels" are TV shows set in what universe?
+
+- [ ] DC
+- [x] Star Wars
+- [ ] Marvel
+
+#### In which country would you celebrate Halloween with a fruitcake filled with coins called a Barmbrack?
+
+- [ ] The Netherlands
+- [ ] Wales
+- [x] Ireland
+
+#### In which Italian city would you find Michelangelo's David?
+
+- [ ] Rome
+- [x] Florence
+- [ ] Venice
+
+#### Which of the following "American Idol" contestants does NOT have their own talk show?
+
+- [ ] Kelly Clarkson
+- [x] Scotty McCreery
+- [ ] Jennifer Hudson
+
+#### In game 7 of the 2016 NBA Finals, LeBron James saved the series for the Cavs with a chase down block on which player?
+
+- [x] Andre Iguolada
+- [ ] Steph Curry
+- [ ] Draymond Green
+
+#### Which DC superhero is an Amazonian?
+
+- [x] Wonder Woman
+- [ ] The Martian Manhunter
+- [ ] Aquaman
+
+#### Which song is most associated with Farrokh Bulsara?
+
+- [x] I Want It All
+- [ ] Die Roboter
+- [ ] Caribbean Queen
+
+#### What brand uses a Gecko named Martin as its mascot?
+
+- [ ] Palmolive
+- [x] Geico
+- [ ] Burger King
+
+#### In "Avenue Q", which other Broadway show is mentioned by Rod?
+
+- [ ] Oklahoma!
+- [x] High Button Shoes
+- [ ] Something for the Boys
+
+#### Which of these is NOT common in Trail Mix?
+
+- [ ] Nuts
+- [ ] Raisins
+- [x] Veal Parmesan
+
+#### Which of the following States does NOT share a border with Mexico?
+
+- [ ] Texas
+- [ ] California
+- [x] Michigan
+
+#### According to the saying, what does the Early Bird catch?
+
+- [x] The Worm
+- [ ] The Flu
+- [ ] A Fly Ball
+
+#### Which of the following martial arts belt colors is ranked the highest?
+
+- [ ] Yellow
+- [ ] Blue
+- [x] Black
+
+#### What energy drink claims to "give you wings"?
+
+- [ ] Four Loko
+- [x] Red Bull
+- [ ] 5-Hour Energy
+
+#### Which of the following films is a buddy cop movie?
+
+- [x] Lethal Weapon
+- [ ] Superman II
+- [ ] Barbie
+
+#### What was the original name of the NHL's Stanley Cup?
+
+- [ ] The Lord's Cup
+- [x] Dominion Hockey Challenge Cup
+- [ ] Winter Sport Champions Cup
+
+#### The playground game kickball is closest to what other sport?
+
+- [ ] Basketball
+- [ ] Pickleball
+- [x] Baseball
+
+#### The Four Corners in America does NOT include which of the following States?
+
+- [x] Hawaii
+- [ ] Utah
+- [ ] New Mexico
+
+#### What does the M in the AM/PM on a clock translate to in English?
+
+- [ ] Morning
+- [x] Midday
+- [ ] Evening
+
+#### Which of these Michelangelo paintings appears on the ceiling of the Sistine Chapel?
+
+- [x] The Creation of Adam
+- [ ] Doni Tondo
+- [ ] The Conversion of Saul
+
+#### Who is the Young in Crosby, Stills, Nash, and Young?
+
+- [ ] Young MC
+- [x] Neil Young
+- [ ] Young Chop
