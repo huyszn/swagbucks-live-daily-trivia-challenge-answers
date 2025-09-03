@@ -72981,3 +72981,63 @@
 - [ ] Texas
 - [ ] California
 - [x] Michigan
+
+#### According to the saying, what does the Early Bird catch?
+
+- [x] The Worm
+- [ ] The Flu
+- [ ] A Fly Ball
+
+#### Which of the following martial arts belt colors is ranked the highest?
+
+- [ ] Yellow
+- [ ] Blue
+- [x] Black
+
+#### What energy drink claims to "give you wings"?
+
+- [ ] Four Loko
+- [x] Red Bull
+- [ ] 5-Hour Energy
+
+#### Which of the following films is a buddy cop movie?
+
+- [x] Lethal Weapon
+- [ ] Superman II
+- [ ] Barbie
+
+#### What was the original name of the NHL's Stanley Cup?
+
+- [ ] The Lord's Cup
+- [x] Dominion Hockey Challenge Cup
+- [ ] Winter Sport Champions Cup
+
+#### The playground game kickball is closest to what other sport?
+
+- [ ] Basketball
+- [ ] Pickleball
+- [x] Baseball
+
+#### The Four Corners in America does NOT include which of the following States?
+
+- [x] Hawaii
+- [ ] Utah
+- [ ] New Mexico
+
+#### What does the M in the AM/PM on a clock translate to in English?
+
+- [ ] Morning
+- [x] Midday
+- [ ] Evening
+
+#### Which of these Michelangelo paintings appears on the ceiling of the Sistine Chapel?
+
+- [x] The Creation of Adam
+- [ ] Doni Tondo
+- [ ] The Conversion of Saul
+
+#### Who is the Young in Crosby, Stills, Nash, and Young?
+
+- [ ] Young MC
+- [x] Neil Young
+- [ ] Young Chop
