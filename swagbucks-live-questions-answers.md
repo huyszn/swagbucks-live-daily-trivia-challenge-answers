@@ -73041,3 +73041,69 @@
 - [ ] Young MC
 - [x] Neil Young
 - [ ] Young Chop
+
+#### What line of cars are completely electric?
+
+- [x] Tesla
+- [ ] Honda
+- [ ] Toyota
+
+#### Bob Dylan is best known for what genre of music?
+
+- [x] Folk
+- [ ] Funk
+- [ ] Franco-Country
+
+#### When Twitter first launched, what was the character limit for tweets?
+
+- [ ] 9 characters
+- [ ] 14,000 characters
+- [x] 140 characters
+
+#### What food mascot is known for bursting through walls?
+
+- [ ] Ronald McDonald
+- [x] The Kool-Aid Man
+- [ ] Little Caesar
+
+#### At the time, what was the cost of writing the U.S. Constitution?
+
+- [x] $30
+- [ ] $2
+- [ ] $145
+
+#### Who are Shakespeare's star-crossed lovers?
+
+- [ ] Hamlet and Gertrude
+- [ ] Lord and Lady Macbeth
+- [x] Romeo and Juliet
+
+#### Sitcom character Jonas Grumby was better known by what nickname?
+
+- [ ] Meathead
+- [x] Skipper
+- [ ] Fish
+
+#### Which of the following directors started out as a well-known actor?
+
+- [ ] Steven Spielberg
+- [ ] Franchise Ford Coppola
+- [x] Ron Howard
+
+#### What is the loudest animal living outside the water?
+
+- [ ] Golden Poison Dart Frog
+- [x] Bulldog Bat
+- [ ] African Elephant
+
+#### Which TV heroes were "Mighty Morphin'"?
+
+- [ ] Micronauts
+- [ ] Mighty Orbots
+- [x] Power Rangers
+
+#### How many MLB teams play home games in New York City?
+
+- [x] Two
+- [ ] Four
+- [ ] Six
