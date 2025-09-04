@@ -73107,3 +73107,15 @@
 - [x] Two
 - [ ] Four
 - [ ] Six
+
+#### Which of the following summer blockbusters starred Tom Cruise?
+
+- [ ] Independence Day
+- [ ] The Da Vinci Code
+- [x] War of the Worlds
+
+#### The vampire Barnabas Collins was the lead character on which daytime soap opera?
+
+- [ ] From These Roots
+- [ ] The Clear Horizon
+- [x] Dark Shadows
