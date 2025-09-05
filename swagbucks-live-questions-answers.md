@@ -73119,3 +73119,63 @@
 - [ ] From These Roots
 - [ ] The Clear Horizon
 - [x] Dark Shadows
+
+#### Which celebrity chef hast hosted "Hell's Kitchen" and "Kitchen Nightmares"?
+
+- [ ] Jamie Oliver
+- [x] Gordon Ramsay
+- [ ] Bobby Flay
+
+#### Banksy is primarily known for what genre of art?
+
+- [x] Street Art
+- [ ] Fresco
+- [ ] Sculpture
+
+#### What ocean is home to the Galapagos Islands?
+
+- [x] Pacific Ocean
+- [ ] Arctic Ocean
+- [ ] Frank Ocean
+
+#### Where were the 1992 Summer Olympics held?
+
+- [ ] Atlanta, GA
+- [x] Barcelona, Spain
+- [ ] Seoul, South Korea
+
+#### Outside of the fuzziness, a peach is identical to what other fruit?
+
+- [x] Nectarine
+- [ ] Plum
+- [ ] Apricot
+
+#### Which movie had everyone trying to figure out the identity of crime lord Keyser Soze?
+
+- [ ] Three Kings
+- [x] The Usual Suspects
+- [ ] Need for Speed
+
+#### Chelidonian is a word used to describe what?
+
+- [x] A Spring breeze
+- [ ] A cavern
+- [ ] An omelet
+
+#### Which professional wrestler released the 2003 rap album "Be A Man"?
+
+- [ ] Hulk Hogan
+- [x] Randy Savage
+- [ ] The Ultimate Warrior
+
+#### Which of the following songs was created to raise money and awareness for charity?
+
+- [ ] Another One Bits The Dust
+- [ ] Uptown Funk
+- [x] We Are The World
+
+#### Which of these toy brands are a system of interlocking blocks?
+
+- [ ] Playmobil
+- [x] LEGO
+- [ ] Little Tykes
