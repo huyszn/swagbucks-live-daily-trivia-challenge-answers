@@ -73179,3 +73179,27 @@
 - [ ] Playmobil
 - [x] LEGO
 - [ ] Little Tykes
+
+#### On Seinfeld, what is the soup stand owner's chatchphrase?
+
+- [ ] "No Soup For You!"
+- [ ] "All Out Of Soup"
+- [ ] "Soup Today? NO WAY!"
+
+#### Which of these is not a playable character in Mario Kart 64?
+
+- [ ] Bowser
+- [ ] Toad
+- [x] Boo
+
+#### In which sport did Simone Biles score Olympic gold?
+
+- [x] Gymnastics
+- [ ] Diving
+- [ ] Marathon
+
+#### In 1978, Kenner toys had a smash hit with the toy license for what film franchise?
+
+- [ ] Star Trek
+- [ ] Mission: Impossible
+- [x] Star Wars
