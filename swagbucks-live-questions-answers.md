@@ -73203,3 +73203,57 @@
 - [ ] Star Trek
 - [ ] Mission: Impossible
 - [x] Star Wars
+
+#### The Treaty of Versailles signaled the end of which war?
+
+- [ ] Trojan War
+- [ ] War of the Roses
+- [x] World War I
+
+#### What are spats normally worn over?
+
+- [ ] Hats
+- [x] Shoes
+- [ ] Moustaches
+
+#### What former First Lady once said "Solve world hunger. Get out of my closet?
+
+- [x] Michelle Obama
+- [ ] Jackie Kennedy
+- [ ] Rosalynn Carter
+
+#### Which of these cooking oils has the highest smoke point?
+
+- [ ] Ghee
+- [x] Safflower Oil
+- [ ] Beef Tallow
+
+#### What dish is a traditional 4th of July meal unique to New England?
+
+- [x] Salmond and Green Peas
+- [ ] Bratwust and Baked Beans
+- [ ] Corn stuffed hamburgers
+
+#### Which sport is known as "The Sweet Science"?
+
+- [x] Boxing
+- [ ] MMA
+- [ ] Judo
+
+#### Arlo the Apatosaurus is the hero of which Pixar movie?
+
+- [x] The Good Dinosaur
+- [ ] Onward
+- [ ] Coco
+
+#### Which mountain range includes Mount Everest?
+
+- [x] The Himalayas
+- [ ] The Great Smoky Mountains
+- [ ] The Pyrenees
+
+#### How many ingredients are there in a McRib?
+
+- [ ] 6
+- [ ] 25
+- [x] 70
