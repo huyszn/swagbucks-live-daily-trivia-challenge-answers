@@ -73041,3 +73041,165 @@
 - [ ] Young MC
 - [x] Neil Young
 - [ ] Young Chop
+
+#### What line of cars are completely electric?
+
+- [x] Tesla
+- [ ] Honda
+- [ ] Toyota
+
+#### Bob Dylan is best known for what genre of music?
+
+- [x] Folk
+- [ ] Funk
+- [ ] Franco-Country
+
+#### When Twitter first launched, what was the character limit for tweets?
+
+- [ ] 9 characters
+- [ ] 14,000 characters
+- [x] 140 characters
+
+#### What food mascot is known for bursting through walls?
+
+- [ ] Ronald McDonald
+- [x] The Kool-Aid Man
+- [ ] Little Caesar
+
+#### At the time, what was the cost of writing the U.S. Constitution?
+
+- [x] $30
+- [ ] $2
+- [ ] $145
+
+#### Who are Shakespeare's star-crossed lovers?
+
+- [ ] Hamlet and Gertrude
+- [ ] Lord and Lady Macbeth
+- [x] Romeo and Juliet
+
+#### Sitcom character Jonas Grumby was better known by what nickname?
+
+- [ ] Meathead
+- [x] Skipper
+- [ ] Fish
+
+#### Which of the following directors started out as a well-known actor?
+
+- [ ] Steven Spielberg
+- [ ] Franchise Ford Coppola
+- [x] Ron Howard
+
+#### What is the loudest animal living outside the water?
+
+- [ ] Golden Poison Dart Frog
+- [x] Bulldog Bat
+- [ ] African Elephant
+
+#### Which TV heroes were "Mighty Morphin'"?
+
+- [ ] Micronauts
+- [ ] Mighty Orbots
+- [x] Power Rangers
+
+#### How many MLB teams play home games in New York City?
+
+- [x] Two
+- [ ] Four
+- [ ] Six
+
+#### Which of the following summer blockbusters starred Tom Cruise?
+
+- [ ] Independence Day
+- [ ] The Da Vinci Code
+- [x] War of the Worlds
+
+#### The vampire Barnabas Collins was the lead character on which daytime soap opera?
+
+- [ ] From These Roots
+- [ ] The Clear Horizon
+- [x] Dark Shadows
+
+#### Which celebrity chef hast hosted "Hell's Kitchen" and "Kitchen Nightmares"?
+
+- [ ] Jamie Oliver
+- [x] Gordon Ramsay
+- [ ] Bobby Flay
+
+#### Banksy is primarily known for what genre of art?
+
+- [x] Street Art
+- [ ] Fresco
+- [ ] Sculpture
+
+#### What ocean is home to the Galapagos Islands?
+
+- [x] Pacific Ocean
+- [ ] Arctic Ocean
+- [ ] Frank Ocean
+
+#### Where were the 1992 Summer Olympics held?
+
+- [ ] Atlanta, GA
+- [x] Barcelona, Spain
+- [ ] Seoul, South Korea
+
+#### Outside of the fuzziness, a peach is identical to what other fruit?
+
+- [x] Nectarine
+- [ ] Plum
+- [ ] Apricot
+
+#### Which movie had everyone trying to figure out the identity of crime lord Keyser Soze?
+
+- [ ] Three Kings
+- [x] The Usual Suspects
+- [ ] Need for Speed
+
+#### Chelidonian is a word used to describe what?
+
+- [x] A Spring breeze
+- [ ] A cavern
+- [ ] An omelet
+
+#### Which professional wrestler released the 2003 rap album "Be A Man"?
+
+- [ ] Hulk Hogan
+- [x] Randy Savage
+- [ ] The Ultimate Warrior
+
+#### Which of the following songs was created to raise money and awareness for charity?
+
+- [ ] Another One Bits The Dust
+- [ ] Uptown Funk
+- [x] We Are The World
+
+#### Which of these toy brands are a system of interlocking blocks?
+
+- [ ] Playmobil
+- [x] LEGO
+- [ ] Little Tykes
+
+#### On Seinfeld, what is the soup stand owner's chatchphrase?
+
+- [ ] "No Soup For You!"
+- [ ] "All Out Of Soup"
+- [ ] "Soup Today? NO WAY!"
+
+#### Which of these is not a playable character in Mario Kart 64?
+
+- [ ] Bowser
+- [ ] Toad
+- [x] Boo
+
+#### In which sport did Simone Biles score Olympic gold?
+
+- [x] Gymnastics
+- [ ] Diving
+- [ ] Marathon
+
+#### In 1978, Kenner toys had a smash hit with the toy license for what film franchise?
+
+- [ ] Star Trek
+- [ ] Mission: Impossible
+- [x] Star Wars
