@@ -73317,3 +73317,39 @@
 - [ ] Brent Spiner
 - [x] LeVar Burton
 - [ ] Leonard Nimoy
+
+#### Conductivity refers to the ability of a material to specifically conduct what?
+
+- [ ] Water
+- [x] Electricity
+- [ ] Air
+
+#### What does Batman wear around his waist?
+
+- [x] Utility Belt
+- [ ] Championship Belt
+- [ ] Pouchey Belt
+
+#### On which reality show are contestants offered a rose?
+
+- [x] The Bachelor
+- [ ] Green Acres
+- [ ] Nightline
+
+#### What restaurant chain is famous for its unlimited soup, salad, and breadsticks?
+
+- [ ] Claim Jumper
+- [ ] Sbarro
+- [x] Olive Garden
+
+#### What city is home to the Eiffel Tower?
+
+- [ ] Rome
+- [ ] London
+- [x] Paris
+
+#### Which of these is not a food typically strung onto a garland?
+
+- [ ] Cranberry
+- [ ] Popcorn
+- [x] SPAM
