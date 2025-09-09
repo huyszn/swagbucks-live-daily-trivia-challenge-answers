@@ -73257,3 +73257,63 @@
 - [ ] 6
 - [ ] 25
 - [x] 70
+
+#### On the original "star Trek", what is the name of the chief engineer?
+
+- [x] Scotty
+- [ ] McCoy
+- [ ] Uhura
+
+#### Which "Star Trek" Captain uses the catchphrase "Make it so"?
+
+- [ ] Kirk
+- [x] Picard
+- [ ] Janeway
+
+#### "Resistance is futile" is the phrase associated with which Star Trek race?
+
+- [ ] Romulans
+- [ ] Klingons
+- [x] The Borg
+
+#### In addition to shuttles, how do Star Trek characters travel from ships to planet surfaces?
+
+- [ ] Bungee Jumping
+- [x] Transporter
+- [ ] Unicycle
+
+#### What do Star Trek ships use to travel faster than light?
+
+- [x] Warp Drive
+- [ ] Lightsabers
+- [ ] Biodiesel
+
+#### Complete this Vulcan greeting: "Live long and..."
+
+- [ ] Move
+- [ ] Gimme a hug, you
+- [x] Prosper
+
+#### In "Star Trek III", which of the following crew members is NOT part of the Enterprise's self-destruct sequence?
+
+- [ ] Chekov
+- [x] Spock
+- [ ] Scotty
+
+#### What was the first Star Trek show to star a female captain?
+
+- [ ] Lower Decks
+- [ ] Enterprise
+- [x] Voyager
+
+#### Starfleet General Order 1, a principle of non-interference, is better known by what name?
+
+- [x] The Prime Directive
+- [ ] Amazon Prime
+- [ ] The Great Mouse Directive
+
+#### Which Star Trek cast member hosted "Reading Rainbow"?
+
+- [ ] Brent Spiner
+- [x] LeVar Burton
+- [ ] Leonard Nimoy
