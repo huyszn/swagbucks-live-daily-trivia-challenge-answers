@@ -73353,3 +73353,87 @@
 - [ ] Cranberry
 - [ ] Popcorn
 - [x] SPAM
+
+#### Which of these is NOT an "Air Bud" movie?
+
+- [ ] Air Bud: Seventh Inning Fetch
+- [ ] Air Bud: Spikes Back
+- [x] Air Bud: Stanley Pup
+
+#### What is the term for stopping a bad habit immediately?
+
+- [ ] Warm chicken
+- [ ] Tepid pork
+- [x] Cold turkey
+
+#### Which U.S. State waives taxes for people older than 100?
+
+- [ ] California
+- [ ] Vermont
+- [x] New Mexico
+
+#### In what movie does John McClane face off against terrorists who have invaded Nakatomi Plaza?
+
+- [ ] Predator
+- [ ] Lethal Weapon
+- [x] Die Hard
+
+#### In "Happy Gilmore", what sport does Happy give up hockey to play?
+
+- [ ] Baseball
+- [x] Golf
+- [ ] Darts
+
+#### In "Billy Madison", when Billy has to go back to school, what grade does he have to start with?
+
+- [x] First Grade
+- [ ] Sixth Grade
+- [ ] Twelfth Grade
+
+#### In "The Waterboy", what does Rob Schneider's townie repeatedly say?
+
+- [ ] "Yahoo!"
+- [ ] "Football time!"
+- [x] "You can do it!"
+
+#### In which Adam Sandler movie does he care for a boy whose hero is Scuba Steve?
+
+- [x] Big Daddy
+- [ ] Jack & Jill
+- [ ] Punch Drunk Love
+
+#### What real-life NBA player has a major role in "Uncut Gems"?
+
+- [ ] Allen Iverson
+- [ ] Paul Pierce
+- [x] Kevin Garnett
+
+#### Which classic monster does Adam Sandler play in "Hotel Transylvania"?
+
+- [ ] The Mummy
+- [x] Count Dracula
+- [ ] Frankenstein's Monster
+
+#### In "You Don't Mess With The Zohan", what does Zohan do for a living?
+
+- [x] Hairdresser
+- [ ] Fashion Designer
+- [ ] Accountant
+
+#### Who starred opposite Adam Sandler in "The Wedding Singer", "50 First Dates", and "Blended"?
+
+- [ ] Fairuza Balk
+- [x] Drew Barrymore
+- [ ] Jennifer Aniston
+
+#### In "Billy Madison", which family is constantly saying they "Rule"?
+
+- [x] O'Doyle
+- [ ] Masterson
+- [ ] Johnson
+
+#### Who is Happy Gilmore's rival golfer?
+
+- [ ] Fred Couples
+- [x] Shooter McGavin
+- [ ] Arnold Palmer
