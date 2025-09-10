@@ -73437,3 +73437,15 @@
 - [ ] Fred Couples
 - [x] Shooter McGavin
 - [ ] Arnold Palmer
+
+#### In which decade did the Enron scandal happen?
+
+- [x] 2000s
+- [ ] 2010s
+- [ ] 1990s
+
+#### Monica, Chandler, Rachel, and Ross are characters from what comedy series?
+
+- [ ] Cheers
+- [x] Friends
+- [ ] Seinfeld
