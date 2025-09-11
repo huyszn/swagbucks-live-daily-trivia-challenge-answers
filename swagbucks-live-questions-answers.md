@@ -73449,3 +73449,99 @@
 - [ ] Cheers
 - [x] Friends
 - [ ] Seinfeld
+
+#### What single word sold Pixar on the concept for "Finding Nemo"?
+
+- [ ] Ellen
+- [x] Fish
+- [ ] Ocean
+
+#### What colors do the Lakers primarily wear?
+
+- [x] Purple and Gold
+- [ ] Black and White
+- [ ] Green and Yellow
+
+#### Which one of these was NOT a Mary-Kate and Ashley Olsen movie?
+
+- [x] Holiday in the Stars
+- [ ] Getting There
+- [ ] Switching Goals
+
+#### What is the easternmost U.S. state?
+
+- [ ] Maine
+- [x] Alaska
+- [ ] Florida
+
+#### What does the name "Genghis Khan" translate to?
+
+- [ ] Nice Dude
+- [ ] Instagram Influencer
+- [x] Universal Ruler
+
+#### Napoleon was the emperor of what country?
+
+- [ ] Britain
+- [x] France
+- [ ] Italy
+
+#### In which month do Americans celebrate Labor Day?
+
+- [x] September
+- [ ] November
+- [ ] January
+
+#### In the original "Super Movie Bros", who are you trying to rescue?
+
+- [ ] Luigi
+- [x] Princess Peach
+- [ ] Bowser
+
+#### Danica Patrick was the first woman to win what kind of race?
+
+- [x] IndyCar
+- [ ] Bicycle
+- [ ] Hot Air Balloon
+
+#### Where were California rolls created?
+
+- [ ] Japan
+- [ ] USA
+- [x] Canada
+
+#### Mel Blanc most famously provided the voice for which cartoon character?
+
+- [ ] Fred Flintstone
+- [x] Bugs Bunny
+- [ ] Snagglepuss
+
+#### Manon Rheaume was the first woman to play in which professional sports league?
+
+- [x] NHL
+- [ ] NBA
+- [ ] MLS
+
+#### The "Flop, Turn, and River" are dealt in which form of poker?
+
+- [ ] 5-Card Draw
+- [ ] 7-Card Stud
+- [x] Texas Hold 'Em
+
+#### What chain was originally named Open Kettle?
+
+- [ ] Krispy Kreme
+- [x] Dunkin' Donuts
+- [ ] Panera Bread
+
+#### The Great Depression mostly happened during which decade?
+
+- [ ] 1970s
+- [ ] 2010s
+- [x] 1930s
+
+#### Which of the following verbs is in the past tense?
+
+- [x] Went
+- [ ] Going
+- [ ] Go
