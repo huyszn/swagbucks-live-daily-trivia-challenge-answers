@@ -73545,3 +73545,99 @@
 - [x] Went
 - [ ] Going
 - [ ] Go
+
+#### How many different colors are there on a standard Rubik's cube?
+
+- [ ] 3
+- [x] 6
+- [ ] 50
+
+#### Which celebrity bought the Neverland Ranch in 1988?
+
+- [ ] Prince
+- [ ] Madoona
+- [x] Michael Jackson
+
+#### Ottawa is the capital of what country? (REPEATED QUESTION WITH DIFFERENT ANSWER ORDERS)
+
+- [ ] Mexico
+- [x] Canada
+- [ ] The United States
+
+#### Which children's show host helped make Play-Doh a hit?
+
+- [ ] Buffalo Bob Smith
+- [ ] Bozo the Clown
+- [x] Captain Kangaroo
+
+#### Who first said that the ends justify the means?
+
+- [ ] Machiavelli
+- [ ] Henry VIII
+- [x] Ovid
+
+#### In the book "Peter Pan", where does Peter Pan live?
+
+- [ ] Idaho
+- [x] Neverland
+- [ ] Fantasyland
+
+#### Which of the following drinks is fermented?
+
+- [ ] Sparkling Water
+- [x] Kombucha
+- [ ] Still Water
+
+#### According to the saying, you can't have your cake and do what?
+
+- [ ] Chew bubblegum
+- [ ] Freeze it
+- [x] Eat it too
+
+#### Which food and drink mascot is famous for bursting through walls?
+
+- [x] Kool-Aid Man
+- [ ] Mayor McCheese
+- [ ] Chester Cheetah
+
+#### Which of the following NYC buildings does NOT have its own zip code?
+
+- [x] One World Trade Center
+- [ ] Empire State Building
+- [ ] Woodworth Building
+
+#### Which of the following words is Irish in origin?
+
+- [ ] Bog
+- [ ] Latte
+- [x] Trousers
+
+#### Which TV Network's logo is an eye?
+
+- [ ] ABC
+- [x] CBS
+- [ ] NBC
+
+#### According to the song of the same name by The Cure, on which day is Robert Smith in love?
+
+- [ ] Tuesday
+- [ ] Sunday
+- [x] Friday
+
+#### Which of the following games was invented by a French Filmmaker?
+
+- [x] Risk
+- [ ] Mille Bornes
+- [ ] Boggle
+
+#### The London Eye most closely resembles what amusement park ride?
+
+- [ ] Roller Coaster
+- [x] Ferris Wheel
+- [ ] Haunted House
+
+#### Which of the following is NOT a common term for soda?
+
+- [ ] Cola
+- [ ] Pop
+- [x] Bubble Juice
