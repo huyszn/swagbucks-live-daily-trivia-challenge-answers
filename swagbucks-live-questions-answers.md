@@ -73641,3 +73641,9 @@
 - [ ] Cola
 - [ ] Pop
 - [x] Bubble Juice
+
+#### In "How Much Is That Doggie In the Window", what kind of tail does the dog have?
+
+- [ ] Bristly
+- [ ] Bifurcated
+- [x] Waggly
