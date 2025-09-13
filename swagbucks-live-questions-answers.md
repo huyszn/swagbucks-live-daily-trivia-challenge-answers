@@ -73647,3 +73647,33 @@
 - [ ] Bristly
 - [ ] Bifurcated
 - [x] Waggly
+
+#### In 2022, Serena Williams played the final match of her career at what tournament?
+
+- [x] U.S. Open
+- [ ] British Open
+- [ ] Davis Cup
+
+#### Which of the following diseases was once considered eliminated in the U.S. through vaccines?
+
+- [ ] The common cold
+- [ ] Swine Flu
+- [x] Measles
+
+#### What flexible, wearable items became popular with kids during the 90s?
+
+- [ ] Slap earrings
+- [x] Slap bracelets
+- [ ] Slap glasses
+
+#### Which of these was NOT part of the first series of Garbage Pail Kids?
+
+- [ ] Up Chuck
+- [ ] Stormy Heathy
+- [x] Flamin' Raymond
+
+#### In the game of Clue, how many possible murder weapons are there?
+
+- [ ] One
+- [x] Six
+- [ ] Twenty
