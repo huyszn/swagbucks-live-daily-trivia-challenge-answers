@@ -73713,3 +73713,21 @@
 - [ ] TRON
 - [x] CLU
 - [ ] SARK
+
+#### In what state was Hawaiian Punch created?
+
+- [ ] Hawaii
+- [x] California
+- [ ] Florida
+
+#### According to their slogan, "Nobody doesn't like" what brand?
+
+- [ ] Betty Crocker
+- [x] Sara Lee
+- [ ] Mary Kay
+
+#### Who holds the Guinness record for most spacewalks by a female?
+
+- [x] Peggy Whitson
+- [ ] Sally Ride
+- [ ] Eileen Colins
