@@ -73203,3 +73203,477 @@
 - [ ] Star Trek
 - [ ] Mission: Impossible
 - [x] Star Wars
+
+#### The Treaty of Versailles signaled the end of which war?
+
+- [ ] Trojan War
+- [ ] War of the Roses
+- [x] World War I
+
+#### What are spats normally worn over?
+
+- [ ] Hats
+- [x] Shoes
+- [ ] Moustaches
+
+#### What former First Lady once said "Solve world hunger. Get out of my closet?
+
+- [x] Michelle Obama
+- [ ] Jackie Kennedy
+- [ ] Rosalynn Carter
+
+#### Which of these cooking oils has the highest smoke point?
+
+- [ ] Ghee
+- [x] Safflower Oil
+- [ ] Beef Tallow
+
+#### What dish is a traditional 4th of July meal unique to New England?
+
+- [x] Salmond and Green Peas
+- [ ] Bratwust and Baked Beans
+- [ ] Corn stuffed hamburgers
+
+#### Which sport is known as "The Sweet Science"?
+
+- [x] Boxing
+- [ ] MMA
+- [ ] Judo
+
+#### Arlo the Apatosaurus is the hero of which Pixar movie?
+
+- [x] The Good Dinosaur
+- [ ] Onward
+- [ ] Coco
+
+#### Which mountain range includes Mount Everest?
+
+- [x] The Himalayas
+- [ ] The Great Smoky Mountains
+- [ ] The Pyrenees
+
+#### How many ingredients are there in a McRib?
+
+- [ ] 6
+- [ ] 25
+- [x] 70
+
+#### On the original "star Trek", what is the name of the chief engineer?
+
+- [x] Scotty
+- [ ] McCoy
+- [ ] Uhura
+
+#### Which "Star Trek" Captain uses the catchphrase "Make it so"?
+
+- [ ] Kirk
+- [x] Picard
+- [ ] Janeway
+
+#### "Resistance is futile" is the phrase associated with which Star Trek race?
+
+- [ ] Romulans
+- [ ] Klingons
+- [x] The Borg
+
+#### In addition to shuttles, how do Star Trek characters travel from ships to planet surfaces?
+
+- [ ] Bungee Jumping
+- [x] Transporter
+- [ ] Unicycle
+
+#### What do Star Trek ships use to travel faster than light?
+
+- [x] Warp Drive
+- [ ] Lightsabers
+- [ ] Biodiesel
+
+#### Complete this Vulcan greeting: "Live long and..."
+
+- [ ] Move
+- [ ] Gimme a hug, you
+- [x] Prosper
+
+#### In "Star Trek III", which of the following crew members is NOT part of the Enterprise's self-destruct sequence?
+
+- [ ] Chekov
+- [x] Spock
+- [ ] Scotty
+
+#### What was the first Star Trek show to star a female captain?
+
+- [ ] Lower Decks
+- [ ] Enterprise
+- [x] Voyager
+
+#### Starfleet General Order 1, a principle of non-interference, is better known by what name?
+
+- [x] The Prime Directive
+- [ ] Amazon Prime
+- [ ] The Great Mouse Directive
+
+#### Which Star Trek cast member hosted "Reading Rainbow"?
+
+- [ ] Brent Spiner
+- [x] LeVar Burton
+- [ ] Leonard Nimoy
+
+#### Conductivity refers to the ability of a material to specifically conduct what?
+
+- [ ] Water
+- [x] Electricity
+- [ ] Air
+
+#### What does Batman wear around his waist?
+
+- [x] Utility Belt
+- [ ] Championship Belt
+- [ ] Pouchey Belt
+
+#### On which reality show are contestants offered a rose?
+
+- [x] The Bachelor
+- [ ] Green Acres
+- [ ] Nightline
+
+#### What restaurant chain is famous for its unlimited soup, salad, and breadsticks?
+
+- [ ] Claim Jumper
+- [ ] Sbarro
+- [x] Olive Garden
+
+#### What city is home to the Eiffel Tower?
+
+- [ ] Rome
+- [ ] London
+- [x] Paris
+
+#### Which of these is not a food typically strung onto a garland?
+
+- [ ] Cranberry
+- [ ] Popcorn
+- [x] SPAM
+
+#### Which of these is NOT an "Air Bud" movie?
+
+- [ ] Air Bud: Seventh Inning Fetch
+- [ ] Air Bud: Spikes Back
+- [x] Air Bud: Stanley Pup
+
+#### What is the term for stopping a bad habit immediately?
+
+- [ ] Warm chicken
+- [ ] Tepid pork
+- [x] Cold turkey
+
+#### Which U.S. State waives taxes for people older than 100?
+
+- [ ] California
+- [ ] Vermont
+- [x] New Mexico
+
+#### In what movie does John McClane face off against terrorists who have invaded Nakatomi Plaza?
+
+- [ ] Predator
+- [ ] Lethal Weapon
+- [x] Die Hard
+
+#### In "Happy Gilmore", what sport does Happy give up hockey to play?
+
+- [ ] Baseball
+- [x] Golf
+- [ ] Darts
+
+#### In "Billy Madison", when Billy has to go back to school, what grade does he have to start with?
+
+- [x] First Grade
+- [ ] Sixth Grade
+- [ ] Twelfth Grade
+
+#### In "The Waterboy", what does Rob Schneider's townie repeatedly say?
+
+- [ ] "Yahoo!"
+- [ ] "Football time!"
+- [x] "You can do it!"
+
+#### In which Adam Sandler movie does he care for a boy whose hero is Scuba Steve?
+
+- [x] Big Daddy
+- [ ] Jack & Jill
+- [ ] Punch Drunk Love
+
+#### What real-life NBA player has a major role in "Uncut Gems"?
+
+- [ ] Allen Iverson
+- [ ] Paul Pierce
+- [x] Kevin Garnett
+
+#### Which classic monster does Adam Sandler play in "Hotel Transylvania"?
+
+- [ ] The Mummy
+- [x] Count Dracula
+- [ ] Frankenstein's Monster
+
+#### In "You Don't Mess With The Zohan", what does Zohan do for a living?
+
+- [x] Hairdresser
+- [ ] Fashion Designer
+- [ ] Accountant
+
+#### Who starred opposite Adam Sandler in "The Wedding Singer", "50 First Dates", and "Blended"?
+
+- [ ] Fairuza Balk
+- [x] Drew Barrymore
+- [ ] Jennifer Aniston
+
+#### In "Billy Madison", which family is constantly saying they "Rule"?
+
+- [x] O'Doyle
+- [ ] Masterson
+- [ ] Johnson
+
+#### Who is Happy Gilmore's rival golfer?
+
+- [ ] Fred Couples
+- [x] Shooter McGavin
+- [ ] Arnold Palmer
+
+#### In which decade did the Enron scandal happen?
+
+- [x] 2000s
+- [ ] 2010s
+- [ ] 1990s
+
+#### Monica, Chandler, Rachel, and Ross are characters from what comedy series?
+
+- [ ] Cheers
+- [x] Friends
+- [ ] Seinfeld
+
+#### What single word sold Pixar on the concept for "Finding Nemo"?
+
+- [ ] Ellen
+- [x] Fish
+- [ ] Ocean
+
+#### What colors do the Lakers primarily wear?
+
+- [x] Purple and Gold
+- [ ] Black and White
+- [ ] Green and Yellow
+
+#### Which one of these was NOT a Mary-Kate and Ashley Olsen movie?
+
+- [x] Holiday in the Stars
+- [ ] Getting There
+- [ ] Switching Goals
+
+#### What is the easternmost U.S. state?
+
+- [ ] Maine
+- [x] Alaska
+- [ ] Florida
+
+#### What does the name "Genghis Khan" translate to?
+
+- [ ] Nice Dude
+- [ ] Instagram Influencer
+- [x] Universal Ruler
+
+#### Napoleon was the emperor of what country?
+
+- [ ] Britain
+- [x] France
+- [ ] Italy
+
+#### In which month do Americans celebrate Labor Day?
+
+- [x] September
+- [ ] November
+- [ ] January
+
+#### In the original "Super Movie Bros", who are you trying to rescue?
+
+- [ ] Luigi
+- [x] Princess Peach
+- [ ] Bowser
+
+#### Danica Patrick was the first woman to win what kind of race?
+
+- [x] IndyCar
+- [ ] Bicycle
+- [ ] Hot Air Balloon
+
+#### Where were California rolls created?
+
+- [ ] Japan
+- [ ] USA
+- [x] Canada
+
+#### Mel Blanc most famously provided the voice for which cartoon character?
+
+- [ ] Fred Flintstone
+- [x] Bugs Bunny
+- [ ] Snagglepuss
+
+#### Manon Rheaume was the first woman to play in which professional sports league?
+
+- [x] NHL
+- [ ] NBA
+- [ ] MLS
+
+#### The "Flop, Turn, and River" are dealt in which form of poker?
+
+- [ ] 5-Card Draw
+- [ ] 7-Card Stud
+- [x] Texas Hold 'Em
+
+#### What chain was originally named Open Kettle?
+
+- [ ] Krispy Kreme
+- [x] Dunkin' Donuts
+- [ ] Panera Bread
+
+#### The Great Depression mostly happened during which decade?
+
+- [ ] 1970s
+- [ ] 2010s
+- [x] 1930s
+
+#### Which of the following verbs is in the past tense?
+
+- [x] Went
+- [ ] Going
+- [ ] Go
+
+#### How many different colors are there on a standard Rubik's cube?
+
+- [ ] 3
+- [x] 6
+- [ ] 50
+
+#### Which celebrity bought the Neverland Ranch in 1988?
+
+- [ ] Prince
+- [ ] Madoona
+- [x] Michael Jackson
+
+#### Ottawa is the capital of what country? (REPEATED QUESTION WITH DIFFERENT ANSWER ORDERS)
+
+- [ ] Mexico
+- [x] Canada
+- [ ] The United States
+
+#### Which children's show host helped make Play-Doh a hit?
+
+- [ ] Buffalo Bob Smith
+- [ ] Bozo the Clown
+- [x] Captain Kangaroo
+
+#### Who first said that the ends justify the means?
+
+- [ ] Machiavelli
+- [ ] Henry VIII
+- [x] Ovid
+
+#### In the book "Peter Pan", where does Peter Pan live?
+
+- [ ] Idaho
+- [x] Neverland
+- [ ] Fantasyland
+
+#### Which of the following drinks is fermented?
+
+- [ ] Sparkling Water
+- [x] Kombucha
+- [ ] Still Water
+
+#### According to the saying, you can't have your cake and do what?
+
+- [ ] Chew bubblegum
+- [ ] Freeze it
+- [x] Eat it too
+
+#### Which food and drink mascot is famous for bursting through walls?
+
+- [x] Kool-Aid Man
+- [ ] Mayor McCheese
+- [ ] Chester Cheetah
+
+#### Which of the following NYC buildings does NOT have its own zip code?
+
+- [x] One World Trade Center
+- [ ] Empire State Building
+- [ ] Woodworth Building
+
+#### Which of the following words is Irish in origin?
+
+- [ ] Bog
+- [ ] Latte
+- [x] Trousers
+
+#### Which TV Network's logo is an eye?
+
+- [ ] ABC
+- [x] CBS
+- [ ] NBC
+
+#### According to the song of the same name by The Cure, on which day is Robert Smith in love?
+
+- [ ] Tuesday
+- [ ] Sunday
+- [x] Friday
+
+#### Which of the following games was invented by a French Filmmaker?
+
+- [x] Risk
+- [ ] Mille Bornes
+- [ ] Boggle
+
+#### The London Eye most closely resembles what amusement park ride?
+
+- [ ] Roller Coaster
+- [x] Ferris Wheel
+- [ ] Haunted House
+
+#### Which of the following is NOT a common term for soda?
+
+- [ ] Cola
+- [ ] Pop
+- [x] Bubble Juice
+
+#### In "How Much Is That Doggie In the Window", what kind of tail does the dog have?
+
+- [ ] Bristly
+- [ ] Bifurcated
+- [x] Waggly
+
+#### In 2022, Serena Williams played the final match of her career at what tournament?
+
+- [x] U.S. Open
+- [ ] British Open
+- [ ] Davis Cup
+
+#### Which of the following diseases was once considered eliminated in the U.S. through vaccines?
+
+- [ ] The common cold
+- [ ] Swine Flu
+- [x] Measles
+
+#### What flexible, wearable items became popular with kids during the 90s?
+
+- [ ] Slap earrings
+- [x] Slap bracelets
+- [ ] Slap glasses
+
+#### Which of these was NOT part of the first series of Garbage Pail Kids?
+
+- [ ] Up Chuck
+- [ ] Stormy Heathy
+- [x] Flamin' Raymond
+
+#### In the game of Clue, how many possible murder weapons are there?
+
+- [ ] One
+- [x] Six
+- [ ] Twenty
