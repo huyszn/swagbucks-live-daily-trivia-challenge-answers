@@ -73677,3 +73677,39 @@
 - [ ] One
 - [x] Six
 - [ ] Twenty
+
+#### What K-9 group is used in U.S. airports to find prohibited agricultural items?
+
+- [ ] The Collie Collective
+- [ ] The Terrier Troop
+- [x] The Beagle Brigade
+
+#### Finn and Jake are the heroes of what cartoon?
+
+- [ ] Steven Universe
+- [x] Adventure Time
+- [ ] Gravity Falls
+
+#### Which song was Buddy Holly's only number one hit in the U.S.?
+
+- [ ] Peggy Sue
+- [x] That'll Be The Day
+- [ ] Not Fade Away
+
+#### What animal is at the center of the book "The Yearling"?
+
+- [x] Deer
+- [ ] Duck
+- [ ] Cow
+
+#### On the Nickelodeon show Drake and Josh, the George Foreman Grill was parodied with whose name?
+
+- [x] Gary Coleman
+- [ ] George Foreman Jr.
+- [ ] Garry Marshall
+
+#### In the beginning of "TRON", what program does Flynn use to hack ENCOM?
+
+- [ ] TRON
+- [x] CLU
+- [ ] SARK
