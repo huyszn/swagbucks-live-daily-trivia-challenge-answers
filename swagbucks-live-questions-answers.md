@@ -21867,8 +21867,8 @@
 
 #### Which MCU character got their powers from a spider bite?
 
-- [x] Iron Man
-- [ ] Spider-Man
+- [ ] Iron Man
+- [x] Spider-Man
 - [ ] Black Panther
 
 #### In which college movie does John Belushi start a food fight?
