@@ -73731,3 +73731,63 @@
 - [x] Peggy Whitson
 - [ ] Sally Ride
 - [ ] Eileen Colins
+
+#### What year did the World Wide Web launch to the public?
+
+- [ ] 1924
+- [ ] 1967
+- [x] 1993
+
+#### What internet service greeted you with a voice saying "You've Got Mail!"?
+
+- [ ] Compuserve
+- [x] AOL
+- [ ] Netcom
+
+#### In 2007, a viral video featured a British child saying "Charlie bit my" what?
+
+- [ ] Nose
+- [ ] Style
+- [x] Finger
+
+#### The song "Never Gonna Give You Up" is part of what internet prank?
+
+- [x] Rickrolling
+- [ ] Fake Cake
+- [ ] Cracked Screen
+
+#### What internet show features celebrities answering questions while eating spicy wings?
+
+- [ ] Secret Galaxy
+- [x] Hot Ones
+- [ ] The Spice of Life
+
+#### What category of YouTube videos involves whispering and clicking or tapping noises?
+
+- [x] ASMR
+- [ ] TCBY
+- [ ] RFID
+
+#### Gary Brolsma became famous online for which song?
+
+- [ ] Peanut Butter Jelly Time
+- [x] Numa Numa
+- [ ] Friday
+
+#### When someone has been "pwned", what has happened to them?
+
+- [x] Defeat
+- [ ] A raise at work
+- [ ] They got a sandwich
+
+#### Since 2007, an old video of an orange cat playing what instrument has been used to "play them off"?
+
+- [ ] Theremin
+- [x] Keyboard
+- [ ] Piccolo
+
+#### What streaming music service offers "Wrapped", a summary of your listening habits over the course of a year?
+
+- [ ] Tidal
+- [ ] Deezer
+- [x] Spotify
