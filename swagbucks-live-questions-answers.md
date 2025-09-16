@@ -73791,3 +73791,9 @@
 - [ ] Tidal
 - [ ] Deezer
 - [x] Spotify
+
+#### Gideons International places what book in hotel rooms?
+
+- [ ] The Dictionary
+- [x] The Bible
+- [ ] The Watchtower
