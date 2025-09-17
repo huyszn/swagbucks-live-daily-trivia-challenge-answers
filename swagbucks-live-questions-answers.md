@@ -73797,3 +73797,63 @@
 - [ ] The Dictionary
 - [x] The Bible
 - [ ] The Watchtower
+
+#### Which of these brands is most similar to Matchbox Cars?
+
+- [x] Hot Wheels
+- [ ] Yo-Yo
+- [ ] Nerf
+
+#### What type of ball has grooves in it to help create movement?
+
+- [ ] Pinky Ball
+- [x] Wiffle Ball
+- [ ] Golf Ball
+
+#### What is the name of Barbie's boyfriend?
+
+- [ ] Bob
+- [ ] Frank
+- [x] Ken
+
+#### Castle Grayskull was a playset in which toy line?
+
+- [ ] M.A.S.K.
+- [x] Master of the Universe
+- [ ] GoBots
+
+#### Which of the following toys was invented by an aerospace engineer?
+
+- [x] Super Soaker
+- [ ] Operation
+- [ ] Rock 'Em Sock 'Em Robots
+
+#### Which is the objective of the game "Mouse Trap"?
+
+- [ ] Get trapped
+- [ ] Build the trap
+- [x] Avoid being trapped
+
+#### Which of the following toys is known for its elasticity?
+
+- [x] Stretch Armstrong
+- [ ] Uglydolls
+- [ ] Pound Puppies
+
+#### Which of the following features of the Teenage Mutant Ninja Turtles was introduced via the cartoon and toy line?
+
+- [ ] Their names
+- [x] Different color headbands
+- [ ] Master Splinter
+
+#### Which fast food chain gives out toy-filled "Happy Meals"?
+
+- [x] McDonald's
+- [ ] Burger King
+- [ ] Wendy's
+
+#### Which pop culture figure has a famous "sno-cone" machine for children?
+
+- [ ] Beetle Bailey
+- [x] Snoopy
+- [ ] Blondie
