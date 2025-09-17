@@ -21867,8 +21867,8 @@
 
 #### Which MCU character got their powers from a spider bite?
 
-- [x] Iron Man
-- [ ] Spider-Man
+- [ ] Iron Man
+- [x] Spider-Man
 - [ ] Black Panther
 
 #### In which college movie does John Belushi start a food fight?
@@ -73713,3 +73713,147 @@
 - [ ] TRON
 - [x] CLU
 - [ ] SARK
+
+#### In what state was Hawaiian Punch created?
+
+- [ ] Hawaii
+- [x] California
+- [ ] Florida
+
+#### According to their slogan, "Nobody doesn't like" what brand?
+
+- [ ] Betty Crocker
+- [x] Sara Lee
+- [ ] Mary Kay
+
+#### Who holds the Guinness record for most spacewalks by a female?
+
+- [x] Peggy Whitson
+- [ ] Sally Ride
+- [ ] Eileen Colins
+
+#### What year did the World Wide Web launch to the public?
+
+- [ ] 1924
+- [ ] 1967
+- [x] 1993
+
+#### What internet service greeted you with a voice saying "You've Got Mail!"?
+
+- [ ] Compuserve
+- [x] AOL
+- [ ] Netcom
+
+#### In 2007, a viral video featured a British child saying "Charlie bit my" what?
+
+- [ ] Nose
+- [ ] Style
+- [x] Finger
+
+#### The song "Never Gonna Give You Up" is part of what internet prank?
+
+- [x] Rickrolling
+- [ ] Fake Cake
+- [ ] Cracked Screen
+
+#### What internet show features celebrities answering questions while eating spicy wings?
+
+- [ ] Secret Galaxy
+- [x] Hot Ones
+- [ ] The Spice of Life
+
+#### What category of YouTube videos involves whispering and clicking or tapping noises?
+
+- [x] ASMR
+- [ ] TCBY
+- [ ] RFID
+
+#### Gary Brolsma became famous online for which song?
+
+- [ ] Peanut Butter Jelly Time
+- [x] Numa Numa
+- [ ] Friday
+
+#### When someone has been "pwned", what has happened to them?
+
+- [x] Defeat
+- [ ] A raise at work
+- [ ] They got a sandwich
+
+#### Since 2007, an old video of an orange cat playing what instrument has been used to "play them off"?
+
+- [ ] Theremin
+- [x] Keyboard
+- [ ] Piccolo
+
+#### What streaming music service offers "Wrapped", a summary of your listening habits over the course of a year?
+
+- [ ] Tidal
+- [ ] Deezer
+- [x] Spotify
+
+#### Gideons International places what book in hotel rooms?
+
+- [ ] The Dictionary
+- [x] The Bible
+- [ ] The Watchtower
+
+#### Which of these brands is most similar to Matchbox Cars?
+
+- [x] Hot Wheels
+- [ ] Yo-Yo
+- [ ] Nerf
+
+#### What type of ball has grooves in it to help create movement?
+
+- [ ] Pinky Ball
+- [x] Wiffle Ball
+- [ ] Golf Ball
+
+#### What is the name of Barbie's boyfriend?
+
+- [ ] Bob
+- [ ] Frank
+- [x] Ken
+
+#### Castle Grayskull was a playset in which toy line?
+
+- [ ] M.A.S.K.
+- [x] Master of the Universe
+- [ ] GoBots
+
+#### Which of the following toys was invented by an aerospace engineer?
+
+- [x] Super Soaker
+- [ ] Operation
+- [ ] Rock 'Em Sock 'Em Robots
+
+#### Which is the objective of the game "Mouse Trap"?
+
+- [ ] Get trapped
+- [ ] Build the trap
+- [x] Avoid being trapped
+
+#### Which of the following toys is known for its elasticity?
+
+- [x] Stretch Armstrong
+- [ ] Uglydolls
+- [ ] Pound Puppies
+
+#### Which of the following features of the Teenage Mutant Ninja Turtles was introduced via the cartoon and toy line?
+
+- [ ] Their names
+- [x] Different color headbands
+- [ ] Master Splinter
+
+#### Which fast food chain gives out toy-filled "Happy Meals"?
+
+- [x] McDonald's
+- [ ] Burger King
+- [ ] Wendy's
+
+#### Which pop culture figure has a famous "sno-cone" machine for children?
+
+- [ ] Beetle Bailey
+- [x] Snoopy
+- [ ] Blondie
