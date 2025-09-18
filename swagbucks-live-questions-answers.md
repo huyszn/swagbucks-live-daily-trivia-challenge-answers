@@ -64996,7 +64996,7 @@
 - [x] The Hulk
 - [ ] Thor
 
-#### In "Forrest Gump", Forrest becomes rich partially be becoming an early investor in which company?
+#### In "Forrest Gump", Forrest becomes rich partially by becoming an early investor in which company?
 
 - [ ] Nike
 - [ ] Starbucks
@@ -73857,3 +73857,87 @@
 - [ ] Beetle Bailey
 - [x] Snoopy
 - [ ] Blondie
+
+#### What kind of dish is a Croque Monsieur?
+
+- [x] Sandwich
+- [ ] Soup
+- [ ] Salad
+
+#### What kind of business does Scrooge run?
+
+- [ ] Haberdashery
+- [x] Money lending
+- [ ] Concert hall
+
+#### In "Rock, Paper, Scissors", what beats Paper?
+
+- [ ] Different Paper
+- [ ] Rock
+- [x] Scissors
+
+#### Dasani, Aquafina, and Evian are all brands of what?
+
+- [ ] Soda
+- [x] Water
+- [ ] Wine
+
+#### The Flamenco is a dance that originates in which European country?
+
+- [x] Spain
+- [ ] Norway
+- [ ] England
+
+#### Which of the following Starbucks drink sizes is the largest?
+
+- [ ] Short
+- [ ] Tall
+- [x] Venti
+
+#### According to the saying, what do birds of a feather do?
+
+- [ ] Fly away
+- [x] Flock together
+- [ ] Run afowl
+
+#### What fast food chain is known as "Hungry Jack's" in Australia?
+
+- [x] Burger King
+- [ ] Wendy's
+- [ ] McDonald's
+
+#### In Mario Kart, what items do you throw at the other racers?
+
+- [x] Turtle Shells
+- [ ] Newspaper
+- [ ] DVDs
+
+#### What is the smallest whole number that contains the letter A?
+
+- [ ] 18
+- [ ] 179
+- [x] 1000
+
+#### Which comedian provides the voice of Donkey in the "Shrek" movies?
+
+- [x] Eddie Murphy
+- [ ] Kevin Hart
+- [ ] Jim Carrey
+
+#### What group is known for their elaborate music videos to songs like "Here It Does Again" and "This Too Shall Pass"?
+
+- [ ] Radiohead
+- [x] OK Go
+- [ ] Walk off the Earth
+
+#### Ice Hockey is one of the national sports of which country?
+
+- [ ] Mexico
+- [x] Canada
+- [ ] France
+
+#### Bollywood movies are primarily made in which country?
+
+- [x] India
+- [ ] China
+- [ ] Sudan
