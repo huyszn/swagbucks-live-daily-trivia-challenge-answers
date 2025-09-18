@@ -73941,3 +73941,45 @@
 - [x] India
 - [ ] China
 - [ ] Sudan
+
+#### Which EGOT award is Lin-Manuel Miranada missing?
+
+- [ ] Emmy
+- [ ] Grammy
+- [x] Oscar
+
+#### In a study published in 2007, video games were found to sharpen the skills of people in what profession?
+
+- [ ] Pilots
+- [x] Surgeons
+- [ ] Engineers
+
+#### Which of these dances is NOT listed in Wilson Pickett's "Land of 1,000 Dances"?
+
+- [ ] The Jerk
+- [ ] The Twist
+- [x] The Shimmy
+
+#### What was Project Manhattan tasked with developing?
+
+- [ ] Fruit Smoothies
+- [x] Nuclear Weapons
+- [ ] Real Estate
+
+#### What musical centers around Baltimore teen Tracy Turnblad?
+
+- [x] Hairspray
+- [ ] Dear Evan Hansen
+- [ ] The Music Man
+
+#### The man behind the lear jet also invented what?
+
+- [x] 8-Track Tape
+- [ ] Floppy Disk
+- [ ] Disposable Lighter
+
+#### What Disney Parks attractions begins with a cast member waking up Jose?
+
+- [x] The Enchanted Tiki Room
+- [ ] The Jingle Cruise
+- [ ] Kilimanjaro Safaris
