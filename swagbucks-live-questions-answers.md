@@ -74049,3 +74049,27 @@
 - [ ] The Brandy Bunch
 - [ ] Lost
 - [x] Gilligan's Island
+
+#### The "Ollie" is maneuver in what sport?
+
+- [x] Skateboarding
+- [ ] Swimming
+- [ ] Archery
+
+#### What sport is played using sticks with nets on the end?
+
+- [ ] Hockey
+- [ ] Baseball
+- [x] Lacrosse
+
+#### Stanley Kubrick wrote a 148-page unproduced script about which historical figure?
+
+- [x] Napoleon
+- [ ] George Washington
+- [ ] Harriet Tubman
+
+#### Who sang "Papa Don't Preach" and "Justify My Love"?
+
+- [ ] Pat Benatar
+- [x] Madonna
+- [ ] Kylie Minogue
