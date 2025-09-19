@@ -73983,3 +73983,69 @@
 - [x] The Enchanted Tiki Room
 - [ ] The Jingle Cruise
 - [ ] Kilimanjaro Safaris
+
+#### Which of these diseases is most commonly managed with the help of insulin?
+
+- [x] Diabetes
+- [ ] Common Cold
+- [ ] Arthritis
+
+#### Na, na, na, na, na, na, na, na, na, na, na, na, na - Batman!
+
+- [ ] Spider-Man
+- [x] Batman
+- [ ] The Flash
+
+#### They're creepy and they're kooky, Mysterious and spooky, They're altogether ooky...
+
+- [x] The Addams Family
+- [ ] The Munsters
+- [ ] Buffy The Vampire Slayer
+
+#### Sunny Day, Sweepin' the clouds away, On my way to where the air is sweet!
+
+- [ ] Zoobilee Zoo
+- [ ] The New Zoo Revue
+- [x] Sesame Street
+
+#### Standing tall, on the wings of my dream. Rise and fall, on the wing of my dream.
+
+- [x] Perfect Strangers
+- [ ] Growing Pains
+- [ ] Newhart
+
+#### So no one told you life was going to be this way. Your job's a joke, you're broke, your love life's DOA.
+
+- [ ] The Single Guy
+- [ ] NewsRadio
+- [x] Friends
+
+#### I have always wanted to have a neighbor, just like you. I've always wanted to live in a neighborhood with you.
+
+- [x] Mister Rogers' Neighborhood
+- [ ] 3-2-1 Contact
+- [ ] Square One Television
+
+#### In the not too distant future, Next Sunday A.D. There was a guy named Joel, Not too different from you or me.
+
+- [x] Mystery Science Theater 3000
+- [ ] The Orville
+- [ ] Futurama
+
+#### Here we come, Walking down the street; We get the funniest looks from, Everyone we meet.
+
+- [ ] Love, American Style
+- [ ] My Mother The Car
+- [x] The Monkees
+
+#### Leonardo leads, Donatello does machines/Raphael is cool but crude/Michelangelo is a party dude
+
+- [ ] SilverHawks
+- [x] Teenage Mutant Ninja Turtles
+- [ ] ALF
+
+#### Just sit right back and you'll hear a tale, A tale of a fateful trip; That started from this tropic port aboard this tiny ship.
+
+- [ ] The Brandy Bunch
+- [ ] Lost
+- [x] Gilligan's Island
