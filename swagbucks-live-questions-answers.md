@@ -64996,7 +64996,7 @@
 - [x] The Hulk
 - [ ] Thor
 
-#### In "Forrest Gump", Forrest becomes rich partially be becoming an early investor in which company?
+#### In "Forrest Gump", Forrest becomes rich partially by becoming an early investor in which company?
 
 - [ ] Nike
 - [ ] Starbucks
@@ -73857,3 +73857,219 @@
 - [ ] Beetle Bailey
 - [x] Snoopy
 - [ ] Blondie
+
+#### What kind of dish is a Croque Monsieur?
+
+- [x] Sandwich
+- [ ] Soup
+- [ ] Salad
+
+#### What kind of business does Scrooge run?
+
+- [ ] Haberdashery
+- [x] Money lending
+- [ ] Concert hall
+
+#### In "Rock, Paper, Scissors", what beats Paper?
+
+- [ ] Different Paper
+- [ ] Rock
+- [x] Scissors
+
+#### Dasani, Aquafina, and Evian are all brands of what?
+
+- [ ] Soda
+- [x] Water
+- [ ] Wine
+
+#### The Flamenco is a dance that originates in which European country?
+
+- [x] Spain
+- [ ] Norway
+- [ ] England
+
+#### Which of the following Starbucks drink sizes is the largest?
+
+- [ ] Short
+- [ ] Tall
+- [x] Venti
+
+#### According to the saying, what do birds of a feather do?
+
+- [ ] Fly away
+- [x] Flock together
+- [ ] Run afowl
+
+#### What fast food chain is known as "Hungry Jack's" in Australia?
+
+- [x] Burger King
+- [ ] Wendy's
+- [ ] McDonald's
+
+#### In Mario Kart, what items do you throw at the other racers?
+
+- [x] Turtle Shells
+- [ ] Newspaper
+- [ ] DVDs
+
+#### What is the smallest whole number that contains the letter A?
+
+- [ ] 18
+- [ ] 179
+- [x] 1000
+
+#### Which comedian provides the voice of Donkey in the "Shrek" movies?
+
+- [x] Eddie Murphy
+- [ ] Kevin Hart
+- [ ] Jim Carrey
+
+#### What group is known for their elaborate music videos to songs like "Here It Does Again" and "This Too Shall Pass"?
+
+- [ ] Radiohead
+- [x] OK Go
+- [ ] Walk off the Earth
+
+#### Ice Hockey is one of the national sports of which country?
+
+- [ ] Mexico
+- [x] Canada
+- [ ] France
+
+#### Bollywood movies are primarily made in which country?
+
+- [x] India
+- [ ] China
+- [ ] Sudan
+
+#### Which EGOT award is Lin-Manuel Miranada missing?
+
+- [ ] Emmy
+- [ ] Grammy
+- [x] Oscar
+
+#### In a study published in 2007, video games were found to sharpen the skills of people in what profession?
+
+- [ ] Pilots
+- [x] Surgeons
+- [ ] Engineers
+
+#### Which of these dances is NOT listed in Wilson Pickett's "Land of 1,000 Dances"?
+
+- [ ] The Jerk
+- [ ] The Twist
+- [x] The Shimmy
+
+#### What was Project Manhattan tasked with developing?
+
+- [ ] Fruit Smoothies
+- [x] Nuclear Weapons
+- [ ] Real Estate
+
+#### What musical centers around Baltimore teen Tracy Turnblad?
+
+- [x] Hairspray
+- [ ] Dear Evan Hansen
+- [ ] The Music Man
+
+#### The man behind the lear jet also invented what?
+
+- [x] 8-Track Tape
+- [ ] Floppy Disk
+- [ ] Disposable Lighter
+
+#### What Disney Parks attractions begins with a cast member waking up Jose?
+
+- [x] The Enchanted Tiki Room
+- [ ] The Jingle Cruise
+- [ ] Kilimanjaro Safaris
+
+#### Which of these diseases is most commonly managed with the help of insulin?
+
+- [x] Diabetes
+- [ ] Common Cold
+- [ ] Arthritis
+
+#### Na, na, na, na, na, na, na, na, na, na, na, na, na - Batman!
+
+- [ ] Spider-Man
+- [x] Batman
+- [ ] The Flash
+
+#### They're creepy and they're kooky, Mysterious and spooky, They're altogether ooky...
+
+- [x] The Addams Family
+- [ ] The Munsters
+- [ ] Buffy The Vampire Slayer
+
+#### Sunny Day, Sweepin' the clouds away, On my way to where the air is sweet!
+
+- [ ] Zoobilee Zoo
+- [ ] The New Zoo Revue
+- [x] Sesame Street
+
+#### Standing tall, on the wings of my dream. Rise and fall, on the wing of my dream.
+
+- [x] Perfect Strangers
+- [ ] Growing Pains
+- [ ] Newhart
+
+#### So no one told you life was going to be this way. Your job's a joke, you're broke, your love life's DOA.
+
+- [ ] The Single Guy
+- [ ] NewsRadio
+- [x] Friends
+
+#### I have always wanted to have a neighbor, just like you. I've always wanted to live in a neighborhood with you.
+
+- [x] Mister Rogers' Neighborhood
+- [ ] 3-2-1 Contact
+- [ ] Square One Television
+
+#### In the not too distant future, Next Sunday A.D. There was a guy named Joel, Not too different from you or me.
+
+- [x] Mystery Science Theater 3000
+- [ ] The Orville
+- [ ] Futurama
+
+#### Here we come, Walking down the street; We get the funniest looks from, Everyone we meet.
+
+- [ ] Love, American Style
+- [ ] My Mother The Car
+- [x] The Monkees
+
+#### Leonardo leads, Donatello does machines/Raphael is cool but crude/Michelangelo is a party dude
+
+- [ ] SilverHawks
+- [x] Teenage Mutant Ninja Turtles
+- [ ] ALF
+
+#### Just sit right back and you'll hear a tale, A tale of a fateful trip; That started from this tropic port aboard this tiny ship.
+
+- [ ] The Brandy Bunch
+- [ ] Lost
+- [x] Gilligan's Island
+
+#### The "Ollie" is maneuver in what sport?
+
+- [x] Skateboarding
+- [ ] Swimming
+- [ ] Archery
+
+#### What sport is played using sticks with nets on the end?
+
+- [ ] Hockey
+- [ ] Baseball
+- [x] Lacrosse
+
+#### Stanley Kubrick wrote a 148-page unproduced script about which historical figure?
+
+- [x] Napoleon
+- [ ] George Washington
+- [ ] Harriet Tubman
+
+#### Who sang "Papa Don't Preach" and "Justify My Love"?
+
+- [ ] Pat Benatar
+- [x] Madonna
+- [ ] Kylie Minogue
