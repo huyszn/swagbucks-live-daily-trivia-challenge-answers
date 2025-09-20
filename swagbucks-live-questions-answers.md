@@ -74073,3 +74073,39 @@
 - [ ] Pat Benatar
 - [x] Madonna
 - [ ] Kylie Minogue
+
+#### Which of the following countries has won the fewest Olympic medals?
+
+- [ ] Morocco
+- [ ] Liechtenstein
+- [x] Bahrain
+
+#### According to Mental Floss, which horror film is the most profitable movie of all time?
+
+- [ ] The Blair Witch Project
+- [x] Paranormal Activity
+- [ ] Saw
+
+#### What actor recommended Austin Butler to Baz Luhrmann for the role of Elvis?
+
+- [x] Denzel Washington
+- [ ] Tom Hanks
+- [ ] Nicole Kidman
+
+#### "To Be Or Not To Be" is a line from which Shakespeare character?
+
+- [ ] Mercutio
+- [ ] Puck
+- [x] Hamlet
+
+#### Wingtips are a style of what piece of clothing?
+
+- [ ] Ties
+- [ ] Headbands
+- [x] Shoes
+
+#### Who is known as "The Father of Modern Philosophy"?
+
+- [x] Rene Descartes
+- [ ] Donald Duck
+- [ ] William Hung
