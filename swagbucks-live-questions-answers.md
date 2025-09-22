@@ -74073,3 +74073,15 @@
 - [ ] Pat Benatar
 - [x] Madonna
 - [ ] Kylie Minogue
+
+#### In a fraction, what is the number on the bottom called?
+
+- [ ] Divisor
+- [x] Denominator
+- [ ] Numerator
+
+#### In "As Good As It Gets", the dog going down the garbage chute kept what actor from joining the cast?
+
+- [ ] Ellen DeGeneres
+- [ ] Gillian Anderson
+- [x] Betty White
