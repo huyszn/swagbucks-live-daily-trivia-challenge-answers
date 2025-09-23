@@ -74205,3 +74205,21 @@
 - [ ] Thriller
 - [ ] Beat It
 - [x] The Way You Make Me Feel
+
+#### Which of these cities is located OUTSIDE of Japan?
+
+- [ ] Tokyo
+- [x] Beijing
+- [ ] Osaka
+
+#### Which of the following is not a standard flavor for Otter Pops?
+
+- [ ] Grape
+- [x] Grass
+- [ ] Orange
+
+#### During what season is the MLB World Series played?
+
+- [ ] Spring
+- [ ] Summer
+- [x] Fall
