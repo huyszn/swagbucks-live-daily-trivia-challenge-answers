@@ -74133,3 +74133,75 @@
 - [ ] Starlight Mints
 - [ ] Candy Buttons
 - [x] Black Licorice
+
+#### What would be another way to call something "ritzy"?
+
+- [x] Expensive and Stylish
+- [ ] Cheap and Dirty
+- [ ] Sugary and Sweet
+
+#### Which is NOT the name of a swamp in the US?
+
+- [ ] Honey Island Swamp
+- [ ] Great Dismal Swamp
+- [x] Okey Dokey Swamp
+
+#### Sing us a song, you're the piano man! Sing us a song tonight...
+
+- [ ] Summer Highland Falls
+- [ ] The Piano Has Been Drinking
+- [x] Piano Man
+
+#### Blue jean baby, L.A. lady, Seamstress for the band...
+
+- [x] Tiny Dancer
+- [ ] You Should Be Dancing
+- [ ] Dancin' Fool
+
+#### All the leaves are brown, And the sky is gray; I've been for a walk, On a winter's day...
+
+- [ ] A Hazy Shade of Winter
+- [x] California Dreamin'
+- [ ] Harvest Moon
+
+#### Don't just stand there, let's get to it; Strike a pose, there's nothing to it...
+
+- [x] Vogue
+- [ ] Papa Don't Preach
+- [ ] Ray of Light
+
+#### Mister Aladdin, sir what will your pleasure be? Let me take your order, jot it down...
+
+- [ ] Trust in Me
+- [x] Friend Like Me
+- [ ] Me, Myself, and I
+
+#### His palms are sweaty, knees weak, arms are heavy; There's vomit on his sweater already, mom's spaghetti...
+
+- [x] Lose Yourself
+- [ ] Without Me
+- [ ] Rap God
+
+#### Stop, wait a minute; Fill my cup, put some liquor in it - Take a sip, sign the check, Julio, get the stretch...
+
+- [ ] 24 Karat Magic
+- [ ] Leave The Door Open
+- [x] Uptown Funk
+
+#### Hello, darkness, my old friend; I've come to talk with you again...
+
+- [x] The Sound of Silence
+- [ ] Feelin' Groovy
+- [ ] Homeward Bound
+
+#### Tell me somethin', girl: Are you happy in this modern world? Or do you need more? Is there somethin' else you're searchin for?
+
+- [ ] Bloody Mary
+- [x] Shallow
+- [ ] Telephone
+
+#### Hey, pretty baby with the high heels on; You give me fever like I've never ever known...
+
+- [ ] Thriller
+- [ ] Beat It
+- [x] The Way You Make Me Feel
