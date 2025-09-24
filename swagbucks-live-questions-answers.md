@@ -74283,3 +74283,27 @@
 - [x] Defying Gravity
 - [ ] Popular
 - [ ] What Is This Feeling?
+
+#### When someone asks you to do something expeditiously, how do they want it done?
+
+- [ ] Slowly
+- [ ] Cutely
+- [x] Quickly
+
+#### Brita makes devices that filter what liquid?
+
+- [ ] Beer
+- [x] Water
+- [ ] Slime
+
+#### In ancient mythology, Who is the Roman equivalent to the Greek God Hades?
+
+- [x] Pluto
+- [ ] Mars
+- [ ] Minerva
+
+#### In "Raiders of the Lost Ark", how do you protect yourself once the Ark of the Covenant is opened?
+
+- [ ] Run
+- [ ] Hold your breath
+- [x] Close your eyes
