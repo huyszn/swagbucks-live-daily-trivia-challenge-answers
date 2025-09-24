@@ -74223,3 +74223,63 @@
 - [ ] Spring
 - [ ] Summer
 - [x] Fall
+
+#### Hay, I just met you, and this is crazy, but here's my number...
+
+- [x] Call Me Maybe
+- [ ] Be My Baby Tonight
+- [ ] Mr. Telephone Man
+
+#### Back through the years I go wandering once again; Back to the seasons of my youth: I recall a box of rags that someone gave us
+
+- [ ] 9 to 5
+- [ ] I Will Always Love You
+- [x] Coat of Many Colors
+
+#### I got chills, they're multiplying. And I'm losing control; 'Cause the power you're supplying - It's electrifying...
+
+- [ ] Teen Angel
+- [x] You're The One That I Want
+- [ ] Beauty School Dropout
+
+#### 1, 2, 3, 1, 2, 3, drink, 1, 2, 3, 1, 2, 3, drink, 1, 2, 3, 1, 2, 3, drink, Throw 'em back 'til I lose count
+
+- [x] Chandelier
+- [ ] Unstoppable
+- [ ] Snowman
+
+#### I hear the train a-comin', it's rolling 'round the bend, and I ain't seen the sunshine since I don't known when...
+
+- [ ] A Boy Named Sue
+- [x] Polsom Prison Blues
+- [ ] Get Rhythm
+
+#### You could travel the world, but nothing comes close to the golden coast; Once you party with us, you'll be falling in love...
+
+- [x] California Gurls
+- [ ] Firework
+- [ ] Last Friday Night (T.G.I.F.)
+
+#### Well, East Coast girls are hip, I really dig those styles they wear...
+
+- [ ] Surfin' U.S.A.
+- [x] California Girls
+- [ ] In My Room
+
+#### A single mom who works two jobs, who loves her kids and never stops, with gentle hands and a heart of a fighter...
+
+- [x] I'm a Survivor
+- [ ] Fancy
+- [ ] The Heart Won't Lie
+
+#### Little darling, It's been a long, cold, lonely winter; Little darling, it feels like years since it's been here...
+
+- [ ] Something
+- [x] Here Comes The Sun
+- [ ] Yesterday
+
+#### So if you care to find me, look to the western sky, As someone told me lately: "Everyone deserves the chance to fly"...
+
+- [x] Defying Gravity
+- [ ] Popular
+- [ ] What Is This Feeling?
