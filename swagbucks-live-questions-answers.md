@@ -74307,3 +74307,63 @@
 - [ ] Run
 - [ ] Hold your breath
 - [x] Close your eyes
+
+#### Exit lightm enter night! Take my hand: We're off to never-never land...
+
+- [ ] Fade to Black
+- [x] Enter Sandman
+- [ ] Nothing Else Matters
+
+#### I walk a lonely road, the only one that I have ever known. Don't known where it goes but it's home to me, and I walk alone
+
+- [x] Boulevard of Broken Dreams
+- [ ] American Idiot
+- [ ] Basket Case
+
+#### Baby, you light up my world like nobody else, the way that you flip your hair gets me overwhelmed
+
+- [ ] The Monster Mash
+- [ ] Jingle Bells
+- [x] That's What Makes You Beautiful
+
+#### It's the terror of knowing what this world is about; Watching some good friends screaming, "Let me out"...
+
+- [ ] Keep Yourself Alive
+- [x] Under Pressure
+- [ ] Killer Queen
+
+#### Say uh, oh, yah, life goes on, long after the thrill of livin' is gone...
+
+- [x] Jack & Diane
+- [ ] Hurts So Good
+- [ ] Pink Houses
+
+#### You need coolin', Baby, I'm not foolin'; I'm gonna send ya back to schoolin'...
+
+- [ ] The Immigrant Song
+- [ ] Kashmir
+- [x] Whole Lotta Love
+
+#### I put my thing down, flip it and reverse it: ti esrever dna ti pilf ,nwod gniht ym tuP...
+
+- [x] Work It
+- [ ] One Minute Man
+- [ ] Cold Rock A Party
+
+#### My, my - I ried to hold you back, but you were stronger; Oh yeah! And now it seems my only chance is giving up the fight...
+
+- [ ] Slipping Through My Fingers
+- [x] Waterloo
+- [ ] Dancing Queen
+
+#### It's gonna take a lot to drag me away from you; There's nothin' that a hundred men or more could ever do...
+
+- [x] Africa
+- [ ] Freeze Frame
+- [ ] Bette Davis Eyes
+
+#### At first I was afraid, I was petrified; Kept thinkin' I could never live without you by my side...
+
+- [ ] Boogie Wonderland
+- [x] I Will Survive
+- [ ] Night Fever
