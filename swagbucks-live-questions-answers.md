@@ -74367,3 +74367,27 @@
 - [ ] Boogie Wonderland
 - [x] I Will Survive
 - [ ] Night Fever
+
+#### Which of the following Pixar flims did NOT come from their famous 1994 lunch?
+
+- [x] Cars
+- [ ] WALL-E
+- [ ] Finding Nemo
+
+#### What does the H in H-Bomb stand for?
+
+- [x] Hydrogen
+- [ ] Hydrant
+- [ ] Hilarious
+
+#### Beverly Cleary created what literary character?
+
+- [x] Ramona Quimby
+- [ ] Dennis the Menace
+- [ ] Don Quixote
+
+#### Complete this Roald Dahl book title: "Charlie and the..."
+
+- [ ] Hot Air Balloon
+- [ ] Jets
+- [x] Chocolate Factory
