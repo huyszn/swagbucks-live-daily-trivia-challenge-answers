@@ -74391,3 +74391,75 @@
 - [ ] Hot Air Balloon
 - [ ] Jets
 - [x] Chocolate Factory
+
+#### According to the famous motivational saying, you're supposed to "Sing like no one is" what?
+
+- [x] Listening
+- [ ] Recording you secretly
+- [ ] Sleeping
+
+#### What board game is based on a 1904 game called The Landlord's Game?
+
+- [x] Monopoly
+- [ ] Scrabble
+- [ ] Old Maid
+
+#### Well, you can tell by the way I use my walk I'm a woman's man, no time to talk...
+
+- [ ] How Deep Is Your Love
+- [ ] Too Much Heaven
+- [x] Stayin' Alive
+
+#### You are my fire, the one desire...
+
+- [x] I Want It That Way
+- [ ] Backstreet's Back
+- [ ] As Long As You Love Me
+
+#### Now I've heard there was a secret chord that David played and it pleased the Lord, but you don't really care for music, do ya?
+
+- [x] Hallelujah
+- [ ] You Want It Darker
+- [ ] Suzanne
+
+#### Well, I guess it would be nic if I could touch your body, I know not everybody has got a body like you...
+
+- [ ] Careless Whisper
+- [ ] Father Figure
+- [x] Faith
+
+#### Back in school we used to dream about this every day: Could it really happen, or do dreams fade away?
+
+- [ ] I'll Make Love To You
+- [x] Motownphilly
+- [ ] On Bended Knee
+
+#### Risin' up to the challenge of our rival; And the last known survivvor stalks his prey in the night...
+
+- [x] Eye of the Tiger
+- [ ] The Search Is Over
+- [ ] Burning Heart
+
+#### Well, I got this feeling, that time's just holdin' me down; I'll hit the ceiling, or else I'll tear up this town...
+
+- [ ] I'm Alright
+- [x] Footloose
+- [ ] Danger Zone
+
+#### There used to be a greying tower alone on the sea; And you became the light on the dark side of me...
+
+- [ ] Crazy
+- [ ] Every Time I'm With You
+- [x] Kiss From A Rose
+
+#### Your butt is mine, gon' tell you right; Just show your face in broad daylight...
+
+- [x] Bad
+- [ ] Heal The World
+- [ ] We Are The World
+
+#### Drove my Chevy to the levee but the levee was dry; Them good ole boys were drinking whiskey 'n rye...
+
+- [ ] The Boxer
+- [x] American Pie
+- [ ] Wonderwall
