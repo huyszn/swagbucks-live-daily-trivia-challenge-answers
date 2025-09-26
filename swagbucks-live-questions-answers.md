@@ -63724,7 +63724,7 @@
 - [ ] Spill
 - [x] Chill
 
-#### What food item is often used to describe a dilmma?
+#### What food item is often used to describe a dilemma?
 
 - [ ] Popcorn
 - [x] Pickle
@@ -74463,3 +74463,15 @@
 - [ ] The Boxer
 - [x] American Pie
 - [ ] Wonderwall
+
+#### What potato dish is traditionally served during Hanukkah?
+
+- [x] Latkes
+- [ ] Tater Tots
+- [ ] French Fries
+
+#### What food item is often used to describe a dilemma?
+
+- [ ] Popcorn
+- [x] Pickle
+- [ ] Pina Colada
