@@ -74475,3 +74475,39 @@
 - [ ] Popcorn
 - [x] Pickle
 - [ ] Pina Colada
+
+#### Slim Shady is the alter ego of what rapper?
+
+- [x] Eminem
+- [ ] KRS-One
+- [ ] Jay-Z
+
+#### Elizabeth Blackwell was the first American woman to do what?
+
+- [ ] Run a farm
+- [x] Receive a medial degree
+- [ ] Become a lawyer
+
+#### Honest Tea is a brand of which company?
+
+- [ ] Pepsi Co
+- [x] Coca Cola
+- [ ] Snapple
+
+#### What term is used for the miniature versions of candy that are handed out at Halloween?
+
+- [x] Fun Size
+- [ ] Teeny Weenies
+- [ ] Chompster
+
+#### In the 1994 Quidditch World Cup, which if Ireland's chasers scored the first goal?
+
+- [ ] Mullet
+- [x] Troy
+- [ ] Moran
+
+#### Who holds the record for most gold medials in a single Olympics?
+
+- [x] Michael Phelps
+- [ ] Mark Spitz
+- [ ] Usain Bolt
