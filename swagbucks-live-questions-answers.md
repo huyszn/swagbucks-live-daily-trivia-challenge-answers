@@ -74506,8 +74506,44 @@
 - [x] Troy
 - [ ] Moran
 
-#### Who holds the record for most gold medials in a single Olympics?
+#### Who holds the record for most gold medals in a single Olympics?
 
 - [x] Michael Phelps
 - [ ] Mark Spitz
 - [ ] Usain Bolt
+
+#### Pajamas are clothes typically worn for what?
+
+- [x] Sleeping
+- [ ] Air Travel
+- [ ] Deep Sea Diving
+
+#### "The Jazz Singer" was the first motion picture with what feature?
+
+- [ ] Dancing
+- [ ] Color
+- [x] Talking
+
+#### What is the primary flavor of Sunkist Soda?
+
+- [ ] Lemon
+- [ ] Lime
+- [x] Orange
+
+#### Grogu, AKA "Baby Yoda", was a character on what Disney+ show?
+
+- [ ] Obi-Wan Kenobi
+- [ ] Andor
+- [x] The Mandalorian
+
+#### What instrument is used to create the adult voices in Peanuts cartoons?
+
+- [ ] Guitar
+- [x] Trombone
+- [ ] Flute
+
+#### What children's book was labeled "not a kid's book - too sad, and it isn't for adults" by publishers?
+
+- [ ] The Lorax
+- [x] The Giving Tree
+- [ ] Are You There God? It's Me Margaret
