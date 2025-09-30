@@ -6708,7 +6708,7 @@
 - [x] Women
 - [ ] Business Owners
 
-#### Which of the following countries has a National Anthem with no lyrics?
+#### Which of the following countries has a National Anthem with no lyrics? (REPEAT QUESTION WITH DIFFERENT ANSWERS)
 
 - [ ] China
 - [ ] Ghana
@@ -74547,3 +74547,99 @@
 - [ ] The Lorax
 - [x] The Giving Tree
 - [ ] Are You There God? It's Me Margaret
+
+#### Johnny Cash was known for wearing what color while performing?
+
+- [ ] White
+- [x] Black
+- [ ] Purple
+
+#### Which of these numbers is an odd number?
+
+- [ ] 3704
+- [x] 3407
+- [ ] 7340
+
+#### In the modern precedent for Mother's Day, what did the Mother refer to?
+
+- [ ] Actual mothers
+- [ ] The Motherland
+- [x] Your mother church
+
+#### Complete this Judy Blume title: Are You There God? It's Me,"
+
+- [ ] Batman
+- [x] Margaret
+- [ ] Big Bird
+
+#### Which of these is NOT a subtitle to a Tomb Raider game?
+
+- [ ] Guardian of Light
+- [x] The Temple of Sirens
+- [ ] The Angel of Darkness
+
+#### First built in 1948, what was the Holden's nickname?
+
+- [ ] Ireland's Own Car
+- [x] Australia's Own Car
+- [ ] Canada's Own Car
+
+#### Complete this Shakespeare title: "A Midsummer Night's ____"
+
+- [x] Dream
+- [ ] Nap
+- [ ] Snack
+
+#### What color is Garfield the cat?
+
+- [ ] Green
+- [x] Orange
+- [ ] Blue
+
+#### Which game show featrues the "Daily Double"?
+
+- [ ] Wheel of Fortune
+- [ ] Deal or No Deal
+- [x] Jeopardy!
+
+#### Mr. Beast initially rose to fame on which platform?
+
+- [ ] Friendster
+- [x] YouTube
+- [ ] SoundCloud
+
+#### Craig MacTavish was the last player to play in an NHL game without what piece of equipment?
+
+- [x] Helmet
+- [ ] Skates
+- [ ] Stick
+
+#### Jimi Hendrix played the Star Spangled Banner at which music festival?
+
+- [ ] Bonnaroo
+- [ ] Coachella
+- [x] Woodstock
+
+#### If Barry Manilow wanted to visit Copacabana beach, where would he go?
+
+- [ ] Tahiti
+- [x] Brazil
+- [ ] Australia
+
+#### Elizabeth Gilbert wrote an autobiography with what three-word title?
+
+- [ ] Read, This, Book
+- [ ] Hi, There, World
+- [x] Eat, Pray, Love
+
+#### Which fast food chain advertises with cows painting messages on roadside billboards?
+
+- [x] Chick-fil-A
+- [ ] McDonald's
+- [ ] Wendy's
+
+#### In the 1950s and 60s the United States was engaged in a "Space Race" with what other nation?
+
+- [x] Soviet Union
+- [ ] India
+- [ ] England
