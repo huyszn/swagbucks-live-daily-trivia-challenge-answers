@@ -74643,3 +74643,21 @@
 - [x] Soviet Union
 - [ ] India
 - [ ] England
+
+#### Which of the following publications would be considered a tabloid?
+
+- [ ] Life
+- [ ] The Wall Street Journal
+- [x] The National Enquirer
+
+#### Which of these shows took place in the White House?
+
+- [ ] Homeboys in Outer Space
+- [ ] The Crown
+- [x] The West Wing
+
+#### Which of these NCAA championship-winning coaches also won as a player?
+
+- [ ] Larry Brown
+- [x] Bobby Knight
+- [ ] Mike Krzyzewski
