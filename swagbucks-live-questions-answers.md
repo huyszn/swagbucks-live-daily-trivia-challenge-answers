@@ -6708,7 +6708,7 @@
 - [x] Women
 - [ ] Business Owners
 
-#### Which of the following countries has a National Anthem with no lyrics?
+#### Which of the following countries has a National Anthem with no lyrics? (REPEAT QUESTION WITH DIFFERENT ANSWERS)
 
 - [ ] China
 - [ ] Ghana
@@ -63724,7 +63724,7 @@
 - [ ] Spill
 - [x] Chill
 
-#### What food item is often used to describe a dilmma?
+#### What food item is often used to describe a dilemma?
 
 - [ ] Popcorn
 - [x] Pickle
@@ -74073,3 +74073,573 @@
 - [ ] Pat Benatar
 - [x] Madonna
 - [ ] Kylie Minogue
+
+#### Which of the following countries has won the fewest Olympic medals?
+
+- [ ] Morocco
+- [ ] Liechtenstein
+- [x] Bahrain
+
+#### According to Mental Floss, which horror film is the most profitable movie of all time?
+
+- [ ] The Blair Witch Project
+- [x] Paranormal Activity
+- [ ] Saw
+
+#### What actor recommended Austin Butler to Baz Luhrmann for the role of Elvis?
+
+- [x] Denzel Washington
+- [ ] Tom Hanks
+- [ ] Nicole Kidman
+
+#### "To Be Or Not To Be" is a line from which Shakespeare character?
+
+- [ ] Mercutio
+- [ ] Puck
+- [x] Hamlet
+
+#### Wingtips are a style of what piece of clothing?
+
+- [ ] Ties
+- [ ] Headbands
+- [x] Shoes
+
+#### Who is known as "The Father of Modern Philosophy"?
+
+- [x] Rene Descartes
+- [ ] Donald Duck
+- [ ] William Hung
+
+#### In a fraction, what is the number on the bottom called?
+
+- [ ] Divisor
+- [x] Denominator
+- [ ] Numerator
+
+#### In "As Good As It Gets", the dog going down the garbage chute kept what actor from joining the cast?
+
+- [ ] Ellen DeGeneres
+- [ ] Gillian Anderson
+- [x] Betty White
+
+#### In 2018, what State adopted the tourism slogan "Honestly, it's not for everyone"?
+
+- [x] Nebraska
+- [ ] Idaho
+- [ ] Nevada
+
+#### Anise is a fruit whose flavor is similar to what candy?
+
+- [ ] Starlight Mints
+- [ ] Candy Buttons
+- [x] Black Licorice
+
+#### What would be another way to call something "ritzy"?
+
+- [x] Expensive and Stylish
+- [ ] Cheap and Dirty
+- [ ] Sugary and Sweet
+
+#### Which is NOT the name of a swamp in the US?
+
+- [ ] Honey Island Swamp
+- [ ] Great Dismal Swamp
+- [x] Okey Dokey Swamp
+
+#### Sing us a song, you're the piano man! Sing us a song tonight...
+
+- [ ] Summer Highland Falls
+- [ ] The Piano Has Been Drinking
+- [x] Piano Man
+
+#### Blue jean baby, L.A. lady, Seamstress for the band...
+
+- [x] Tiny Dancer
+- [ ] You Should Be Dancing
+- [ ] Dancin' Fool
+
+#### All the leaves are brown, And the sky is gray; I've been for a walk, On a winter's day...
+
+- [ ] A Hazy Shade of Winter
+- [x] California Dreamin'
+- [ ] Harvest Moon
+
+#### Don't just stand there, let's get to it; Strike a pose, there's nothing to it...
+
+- [x] Vogue
+- [ ] Papa Don't Preach
+- [ ] Ray of Light
+
+#### Mister Aladdin, sir what will your pleasure be? Let me take your order, jot it down...
+
+- [ ] Trust in Me
+- [x] Friend Like Me
+- [ ] Me, Myself, and I
+
+#### His palms are sweaty, knees weak, arms are heavy; There's vomit on his sweater already, mom's spaghetti...
+
+- [x] Lose Yourself
+- [ ] Without Me
+- [ ] Rap God
+
+#### Stop, wait a minute; Fill my cup, put some liquor in it - Take a sip, sign the check, Julio, get the stretch...
+
+- [ ] 24 Karat Magic
+- [ ] Leave The Door Open
+- [x] Uptown Funk
+
+#### Hello, darkness, my old friend; I've come to talk with you again...
+
+- [x] The Sound of Silence
+- [ ] Feelin' Groovy
+- [ ] Homeward Bound
+
+#### Tell me somethin', girl: Are you happy in this modern world? Or do you need more? Is there somethin' else you're searchin for?
+
+- [ ] Bloody Mary
+- [x] Shallow
+- [ ] Telephone
+
+#### Hey, pretty baby with the high heels on; You give me fever like I've never ever known...
+
+- [ ] Thriller
+- [ ] Beat It
+- [x] The Way You Make Me Feel
+
+#### Which of these cities is located OUTSIDE of Japan?
+
+- [ ] Tokyo
+- [x] Beijing
+- [ ] Osaka
+
+#### Which of the following is not a standard flavor for Otter Pops?
+
+- [ ] Grape
+- [x] Grass
+- [ ] Orange
+
+#### During what season is the MLB World Series played?
+
+- [ ] Spring
+- [ ] Summer
+- [x] Fall
+
+#### Hay, I just met you, and this is crazy, but here's my number...
+
+- [x] Call Me Maybe
+- [ ] Be My Baby Tonight
+- [ ] Mr. Telephone Man
+
+#### Back through the years I go wandering once again; Back to the seasons of my youth: I recall a box of rags that someone gave us
+
+- [ ] 9 to 5
+- [ ] I Will Always Love You
+- [x] Coat of Many Colors
+
+#### I got chills, they're multiplying. And I'm losing control; 'Cause the power you're supplying - It's electrifying...
+
+- [ ] Teen Angel
+- [x] You're The One That I Want
+- [ ] Beauty School Dropout
+
+#### 1, 2, 3, 1, 2, 3, drink, 1, 2, 3, 1, 2, 3, drink, 1, 2, 3, 1, 2, 3, drink, Throw 'em back 'til I lose count
+
+- [x] Chandelier
+- [ ] Unstoppable
+- [ ] Snowman
+
+#### I hear the train a-comin', it's rolling 'round the bend, and I ain't seen the sunshine since I don't known when...
+
+- [ ] A Boy Named Sue
+- [x] Polsom Prison Blues
+- [ ] Get Rhythm
+
+#### You could travel the world, but nothing comes close to the golden coast; Once you party with us, you'll be falling in love...
+
+- [x] California Gurls
+- [ ] Firework
+- [ ] Last Friday Night (T.G.I.F.)
+
+#### Well, East Coast girls are hip, I really dig those styles they wear...
+
+- [ ] Surfin' U.S.A.
+- [x] California Girls
+- [ ] In My Room
+
+#### A single mom who works two jobs, who loves her kids and never stops, with gentle hands and a heart of a fighter...
+
+- [x] I'm a Survivor
+- [ ] Fancy
+- [ ] The Heart Won't Lie
+
+#### Little darling, It's been a long, cold, lonely winter; Little darling, it feels like years since it's been here...
+
+- [ ] Something
+- [x] Here Comes The Sun
+- [ ] Yesterday
+
+#### So if you care to find me, look to the western sky, As someone told me lately: "Everyone deserves the chance to fly"...
+
+- [x] Defying Gravity
+- [ ] Popular
+- [ ] What Is This Feeling?
+
+#### When someone asks you to do something expeditiously, how do they want it done?
+
+- [ ] Slowly
+- [ ] Cutely
+- [x] Quickly
+
+#### Brita makes devices that filter what liquid?
+
+- [ ] Beer
+- [x] Water
+- [ ] Slime
+
+#### In ancient mythology, Who is the Roman equivalent to the Greek God Hades?
+
+- [x] Pluto
+- [ ] Mars
+- [ ] Minerva
+
+#### In "Raiders of the Lost Ark", how do you protect yourself once the Ark of the Covenant is opened?
+
+- [ ] Run
+- [ ] Hold your breath
+- [x] Close your eyes
+
+#### Exit lightm enter night! Take my hand: We're off to never-never land...
+
+- [ ] Fade to Black
+- [x] Enter Sandman
+- [ ] Nothing Else Matters
+
+#### I walk a lonely road, the only one that I have ever known. Don't known where it goes but it's home to me, and I walk alone
+
+- [x] Boulevard of Broken Dreams
+- [ ] American Idiot
+- [ ] Basket Case
+
+#### Baby, you light up my world like nobody else, the way that you flip your hair gets me overwhelmed
+
+- [ ] The Monster Mash
+- [ ] Jingle Bells
+- [x] That's What Makes You Beautiful
+
+#### It's the terror of knowing what this world is about; Watching some good friends screaming, "Let me out"...
+
+- [ ] Keep Yourself Alive
+- [x] Under Pressure
+- [ ] Killer Queen
+
+#### Say uh, oh, yah, life goes on, long after the thrill of livin' is gone...
+
+- [x] Jack & Diane
+- [ ] Hurts So Good
+- [ ] Pink Houses
+
+#### You need coolin', Baby, I'm not foolin'; I'm gonna send ya back to schoolin'...
+
+- [ ] The Immigrant Song
+- [ ] Kashmir
+- [x] Whole Lotta Love
+
+#### I put my thing down, flip it and reverse it: ti esrever dna ti pilf ,nwod gniht ym tuP...
+
+- [x] Work It
+- [ ] One Minute Man
+- [ ] Cold Rock A Party
+
+#### My, my - I ried to hold you back, but you were stronger; Oh yeah! And now it seems my only chance is giving up the fight...
+
+- [ ] Slipping Through My Fingers
+- [x] Waterloo
+- [ ] Dancing Queen
+
+#### It's gonna take a lot to drag me away from you; There's nothin' that a hundred men or more could ever do...
+
+- [x] Africa
+- [ ] Freeze Frame
+- [ ] Bette Davis Eyes
+
+#### At first I was afraid, I was petrified; Kept thinkin' I could never live without you by my side...
+
+- [ ] Boogie Wonderland
+- [x] I Will Survive
+- [ ] Night Fever
+
+#### Which of the following Pixar flims did NOT come from their famous 1994 lunch?
+
+- [x] Cars
+- [ ] WALL-E
+- [ ] Finding Nemo
+
+#### What does the H in H-Bomb stand for?
+
+- [x] Hydrogen
+- [ ] Hydrant
+- [ ] Hilarious
+
+#### Beverly Cleary created what literary character?
+
+- [x] Ramona Quimby
+- [ ] Dennis the Menace
+- [ ] Don Quixote
+
+#### Complete this Roald Dahl book title: "Charlie and the..."
+
+- [ ] Hot Air Balloon
+- [ ] Jets
+- [x] Chocolate Factory
+
+#### According to the famous motivational saying, you're supposed to "Sing like no one is" what?
+
+- [x] Listening
+- [ ] Recording you secretly
+- [ ] Sleeping
+
+#### What board game is based on a 1904 game called The Landlord's Game?
+
+- [x] Monopoly
+- [ ] Scrabble
+- [ ] Old Maid
+
+#### Well, you can tell by the way I use my walk I'm a woman's man, no time to talk...
+
+- [ ] How Deep Is Your Love
+- [ ] Too Much Heaven
+- [x] Stayin' Alive
+
+#### You are my fire, the one desire...
+
+- [x] I Want It That Way
+- [ ] Backstreet's Back
+- [ ] As Long As You Love Me
+
+#### Now I've heard there was a secret chord that David played and it pleased the Lord, but you don't really care for music, do ya?
+
+- [x] Hallelujah
+- [ ] You Want It Darker
+- [ ] Suzanne
+
+#### Well, I guess it would be nic if I could touch your body, I know not everybody has got a body like you...
+
+- [ ] Careless Whisper
+- [ ] Father Figure
+- [x] Faith
+
+#### Back in school we used to dream about this every day: Could it really happen, or do dreams fade away?
+
+- [ ] I'll Make Love To You
+- [x] Motownphilly
+- [ ] On Bended Knee
+
+#### Risin' up to the challenge of our rival; And the last known survivvor stalks his prey in the night...
+
+- [x] Eye of the Tiger
+- [ ] The Search Is Over
+- [ ] Burning Heart
+
+#### Well, I got this feeling, that time's just holdin' me down; I'll hit the ceiling, or else I'll tear up this town...
+
+- [ ] I'm Alright
+- [x] Footloose
+- [ ] Danger Zone
+
+#### There used to be a greying tower alone on the sea; And you became the light on the dark side of me...
+
+- [ ] Crazy
+- [ ] Every Time I'm With You
+- [x] Kiss From A Rose
+
+#### Your butt is mine, gon' tell you right; Just show your face in broad daylight...
+
+- [x] Bad
+- [ ] Heal The World
+- [ ] We Are The World
+
+#### Drove my Chevy to the levee but the levee was dry; Them good ole boys were drinking whiskey 'n rye...
+
+- [ ] The Boxer
+- [x] American Pie
+- [ ] Wonderwall
+
+#### What potato dish is traditionally served during Hanukkah?
+
+- [x] Latkes
+- [ ] Tater Tots
+- [ ] French Fries
+
+#### What food item is often used to describe a dilemma?
+
+- [ ] Popcorn
+- [x] Pickle
+- [ ] Pina Colada
+
+#### Slim Shady is the alter ego of what rapper?
+
+- [x] Eminem
+- [ ] KRS-One
+- [ ] Jay-Z
+
+#### Elizabeth Blackwell was the first American woman to do what?
+
+- [ ] Run a farm
+- [x] Receive a medial degree
+- [ ] Become a lawyer
+
+#### Honest Tea is a brand of which company?
+
+- [ ] Pepsi Co
+- [x] Coca Cola
+- [ ] Snapple
+
+#### What term is used for the miniature versions of candy that are handed out at Halloween?
+
+- [x] Fun Size
+- [ ] Teeny Weenies
+- [ ] Chompster
+
+#### In the 1994 Quidditch World Cup, which if Ireland's chasers scored the first goal?
+
+- [ ] Mullet
+- [x] Troy
+- [ ] Moran
+
+#### Who holds the record for most gold medals in a single Olympics?
+
+- [x] Michael Phelps
+- [ ] Mark Spitz
+- [ ] Usain Bolt
+
+#### Pajamas are clothes typically worn for what?
+
+- [x] Sleeping
+- [ ] Air Travel
+- [ ] Deep Sea Diving
+
+#### "The Jazz Singer" was the first motion picture with what feature?
+
+- [ ] Dancing
+- [ ] Color
+- [x] Talking
+
+#### What is the primary flavor of Sunkist Soda?
+
+- [ ] Lemon
+- [ ] Lime
+- [x] Orange
+
+#### Grogu, AKA "Baby Yoda", was a character on what Disney+ show?
+
+- [ ] Obi-Wan Kenobi
+- [ ] Andor
+- [x] The Mandalorian
+
+#### What instrument is used to create the adult voices in Peanuts cartoons?
+
+- [ ] Guitar
+- [x] Trombone
+- [ ] Flute
+
+#### What children's book was labeled "not a kid's book - too sad, and it isn't for adults" by publishers?
+
+- [ ] The Lorax
+- [x] The Giving Tree
+- [ ] Are You There God? It's Me Margaret
+
+#### Johnny Cash was known for wearing what color while performing?
+
+- [ ] White
+- [x] Black
+- [ ] Purple
+
+#### Which of these numbers is an odd number?
+
+- [ ] 3704
+- [x] 3407
+- [ ] 7340
+
+#### In the modern precedent for Mother's Day, what did the Mother refer to?
+
+- [ ] Actual mothers
+- [ ] The Motherland
+- [x] Your mother church
+
+#### Complete this Judy Blume title: Are You There God? It's Me,"
+
+- [ ] Batman
+- [x] Margaret
+- [ ] Big Bird
+
+#### Which of these is NOT a subtitle to a Tomb Raider game?
+
+- [ ] Guardian of Light
+- [x] The Temple of Sirens
+- [ ] The Angel of Darkness
+
+#### First built in 1948, what was the Holden's nickname?
+
+- [ ] Ireland's Own Car
+- [x] Australia's Own Car
+- [ ] Canada's Own Car
+
+#### Complete this Shakespeare title: "A Midsummer Night's ____"
+
+- [x] Dream
+- [ ] Nap
+- [ ] Snack
+
+#### What color is Garfield the cat?
+
+- [ ] Green
+- [x] Orange
+- [ ] Blue
+
+#### Which game show featrues the "Daily Double"?
+
+- [ ] Wheel of Fortune
+- [ ] Deal or No Deal
+- [x] Jeopardy!
+
+#### Mr. Beast initially rose to fame on which platform?
+
+- [ ] Friendster
+- [x] YouTube
+- [ ] SoundCloud
+
+#### Craig MacTavish was the last player to play in an NHL game without what piece of equipment?
+
+- [x] Helmet
+- [ ] Skates
+- [ ] Stick
+
+#### Jimi Hendrix played the Star Spangled Banner at which music festival?
+
+- [ ] Bonnaroo
+- [ ] Coachella
+- [x] Woodstock
+
+#### If Barry Manilow wanted to visit Copacabana beach, where would he go?
+
+- [ ] Tahiti
+- [x] Brazil
+- [ ] Australia
+
+#### Elizabeth Gilbert wrote an autobiography with what three-word title?
+
+- [ ] Read, This, Book
+- [ ] Hi, There, World
+- [x] Eat, Pray, Love
+
+#### Which fast food chain advertises with cows painting messages on roadside billboards?
+
+- [x] Chick-fil-A
+- [ ] McDonald's
+- [ ] Wendy's
+
+#### In the 1950s and 60s the United States was engaged in a "Space Race" with what other nation?
+
+- [x] Soviet Union
+- [ ] India
+- [ ] England
