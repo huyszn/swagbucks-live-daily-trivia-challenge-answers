@@ -74661,3 +74661,57 @@
 - [ ] Larry Brown
 - [x] Bobby Knight
 - [ ] Mike Krzyzewski
+
+#### Which of these bubble gum brands comes shredded in a pouch?
+
+- [x] Big League Chew
+- [ ] Hubba Bubba
+- [ ] Chewels
+
+#### What does Skittles use as its slogan?
+
+- [ ] Guess the Flavors
+- [x] Taste the Rainbow
+- [ ] Crunch, Then Chew
+
+#### Which of the following candies is sold as a breath mint?
+
+- [ ] Charleston Chew
+- [ ] 5th Avenue
+- [x] Altoids
+
+#### Where do M&Ms claim to melt?
+
+- [x] Your mouth
+- [ ] Your foot
+- [ ] In the package
+
+#### Which of the following is NOT one of the original NECCO Wafer flavors?
+
+- [ ] Chocolate
+- [ ] Licorice
+- [x] Cherry
+
+#### What flavor are traditional Red Hots candies?
+
+- [ ] Ancho Chili
+- [x] Cinnamon
+- [ ] Banana
+
+#### Which candy was invented by a dentist?
+
+- [ ] Werther's Original
+- [x] Cotton Candy
+- [ ] Snickers
+
+#### What European chocolate brand is manufactured in a triangle shape and sold in triangular tubes?
+
+- [x] Toblerone
+- [ ] Rolo
+- [ ] Ferrero Rocher
+
+#### What chewing gum brand comes with comic strips?
+
+- [ ] Extra
+- [ ] Bubble Yum
+- [x] Bazooka
