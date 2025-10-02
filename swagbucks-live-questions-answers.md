@@ -74715,3 +74715,99 @@
 - [ ] Extra
 - [ ] Bubble Yum
 - [x] Bazooka
+
+#### What is the name of the Griffin family's dog on "Family Guy"?
+
+- [ ] Stewie
+- [ ] Chris
+- [x] Brian
+
+#### By what nickname is New York City known?
+
+- [ ] The Big Orange
+- [x] The Big Apple
+- [ ] The Big Banana
+
+#### Which of these was not an ingredient in the orignal Egg Cream?
+
+- [ ] Ice Cream
+- [ ] Syrup
+- [x] Raw Eggs
+
+#### Why was the Barnum's Animal Crackers box designed with a string handle?
+
+- [x] So it could be hung from a Christmas Tree
+- [ ] To cut costs
+- [ ] For use as a weapon
+
+#### What device aboard a starship is used when you ask to be beamed up?
+
+- [ ] Hyperdrive
+- [ ] Cryo-key
+- [x] Transporter
+
+#### Which of these toys bounces?
+
+- [ ] Cabbage Patch Kids
+- [x] Rubber Ball
+- [ ] Sit 'n Spin
+
+#### What is the name of Yellowstone National Park's famous geyser?
+
+- [ ] Old Reliable
+- [x] Old Faithful
+- [ ] Steamy McSteamyface
+
+#### According to the saying, what are you not supposed to judge a book by?
+
+- [x] Its Cover
+- [ ] The Table of Contents
+- [ ] Character Names
+
+#### What is Winnie The Pooh's favorite thing to eat?
+
+- [ ] Berries
+- [ ] Sandwiches
+- [x] Honey
+
+#### Ellie the Elephant is the mascot for which WNBA team?
+
+- [x] New York Liberty
+- [ ] Seattle Storm
+- [ ] Chicago Sky
+
+#### In a game of charades, what are clue givers NOT allowed to do?
+
+- [ ] Gesture
+- [x] Speak
+- [ ] Emote
+
+#### What was the last major Hollywood movie to get a home video release on VHS?
+
+- [ ] Saw II
+- [ ] The Matrix: Revolutions
+- [x] A History of Violence
+
+#### The single "Shallow" from "A Star is Born" is a duet between Bradley Cooper and which pop star?
+
+- [x] Lady Gaga
+- [ ] Beyonce
+- [ ] Adele
+
+#### Which State has the most earthquakes per year?
+
+- [ ] Hawaii
+- [ ] California
+- [x] Alaska
+
+#### Which "Yellowstone" actor both directed and starred in the Best Picture Oscar winner "Dancers With Wolves"?
+
+- [ ] Cole Hauser
+- [ ] Luke Grimes
+- [x] Kevin Costner
+
+#### Wasabi is generally served alongside which dish?
+
+- [ ] Pancakes
+- [x] Sushi
+- [ ] Borscht
