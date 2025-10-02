@@ -74811,3 +74811,21 @@
 - [ ] Pancakes
 - [x] Sushi
 - [ ] Borscht
+
+#### If a German calls you an arschgeige, what are they comparing you too?
+
+- [ ] A banana bender
+- [x] A butt violin
+- [ ] An ant tattooist
+
+#### Which of the following candy bars does NOT contain nuts?
+
+- [ ] Almond Joy
+- [x] Mounds
+- [ ] Snickers
+
+#### What is the name of Kim Kardashian's mother?
+
+- [ ] Khole
+- [x] Kris
+- [ ] Kourtney
