@@ -74931,3 +74931,27 @@
 - [x] Maxwell House
 - [ ] Milk
 - [ ] Mojitos
+
+#### Nicholas II was the last Tsar of what country?
+
+- [ ] Transylvania
+- [ ] Finland
+- [x] Russia
+
+#### What color do brides normally wear in China?
+
+- [x] Red
+- [ ] White
+- [ ] Green
+
+#### The two sides of the "Appetite for Destruction" album had what titles?
+
+- [ ] Side A and Side B
+- [ ] Side W and Side J
+- [x] Side G and Side R
+
+#### In sports, what do you wear "Rec Specs" to protect?
+
+- [ ] Knees
+- [x] Eyes
+- [ ] Feet
