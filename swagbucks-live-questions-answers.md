@@ -74643,3 +74643,249 @@
 - [x] Soviet Union
 - [ ] India
 - [ ] England
+
+#### Which of the following publications would be considered a tabloid?
+
+- [ ] Life
+- [ ] The Wall Street Journal
+- [x] The National Enquirer
+
+#### Which of these shows took place in the White House?
+
+- [ ] Homeboys in Outer Space
+- [ ] The Crown
+- [x] The West Wing
+
+#### Which of these NCAA championship-winning coaches also won as a player?
+
+- [ ] Larry Brown
+- [x] Bobby Knight
+- [ ] Mike Krzyzewski
+
+#### Which of these bubble gum brands comes shredded in a pouch?
+
+- [x] Big League Chew
+- [ ] Hubba Bubba
+- [ ] Chewels
+
+#### What does Skittles use as its slogan?
+
+- [ ] Guess the Flavors
+- [x] Taste the Rainbow
+- [ ] Crunch, Then Chew
+
+#### Which of the following candies is sold as a breath mint?
+
+- [ ] Charleston Chew
+- [ ] 5th Avenue
+- [x] Altoids
+
+#### Where do M&Ms claim to melt?
+
+- [x] Your mouth
+- [ ] Your foot
+- [ ] In the package
+
+#### Which of the following is NOT one of the original NECCO Wafer flavors?
+
+- [ ] Chocolate
+- [ ] Licorice
+- [x] Cherry
+
+#### What flavor are traditional Red Hots candies?
+
+- [ ] Ancho Chili
+- [x] Cinnamon
+- [ ] Banana
+
+#### Which candy was invented by a dentist?
+
+- [ ] Werther's Original
+- [x] Cotton Candy
+- [ ] Snickers
+
+#### What European chocolate brand is manufactured in a triangle shape and sold in triangular tubes?
+
+- [x] Toblerone
+- [ ] Rolo
+- [ ] Ferrero Rocher
+
+#### What chewing gum brand comes with comic strips?
+
+- [ ] Extra
+- [ ] Bubble Yum
+- [x] Bazooka
+
+#### What is the name of the Griffin family's dog on "Family Guy"?
+
+- [ ] Stewie
+- [ ] Chris
+- [x] Brian
+
+#### By what nickname is New York City known?
+
+- [ ] The Big Orange
+- [x] The Big Apple
+- [ ] The Big Banana
+
+#### Which of these was not an ingredient in the orignal Egg Cream?
+
+- [ ] Ice Cream
+- [ ] Syrup
+- [x] Raw Eggs
+
+#### Why was the Barnum's Animal Crackers box designed with a string handle?
+
+- [x] So it could be hung from a Christmas Tree
+- [ ] To cut costs
+- [ ] For use as a weapon
+
+#### What device aboard a starship is used when you ask to be beamed up?
+
+- [ ] Hyperdrive
+- [ ] Cryo-key
+- [x] Transporter
+
+#### Which of these toys bounces?
+
+- [ ] Cabbage Patch Kids
+- [x] Rubber Ball
+- [ ] Sit 'n Spin
+
+#### What is the name of Yellowstone National Park's famous geyser?
+
+- [ ] Old Reliable
+- [x] Old Faithful
+- [ ] Steamy McSteamyface
+
+#### According to the saying, what are you not supposed to judge a book by?
+
+- [x] Its Cover
+- [ ] The Table of Contents
+- [ ] Character Names
+
+#### What is Winnie The Pooh's favorite thing to eat?
+
+- [ ] Berries
+- [ ] Sandwiches
+- [x] Honey
+
+#### Ellie the Elephant is the mascot for which WNBA team?
+
+- [x] New York Liberty
+- [ ] Seattle Storm
+- [ ] Chicago Sky
+
+#### In a game of charades, what are clue givers NOT allowed to do?
+
+- [ ] Gesture
+- [x] Speak
+- [ ] Emote
+
+#### What was the last major Hollywood movie to get a home video release on VHS?
+
+- [ ] Saw II
+- [ ] The Matrix: Revolutions
+- [x] A History of Violence
+
+#### The single "Shallow" from "A Star is Born" is a duet between Bradley Cooper and which pop star?
+
+- [x] Lady Gaga
+- [ ] Beyonce
+- [ ] Adele
+
+#### Which State has the most earthquakes per year?
+
+- [ ] Hawaii
+- [ ] California
+- [x] Alaska
+
+#### Which "Yellowstone" actor both directed and starred in the Best Picture Oscar winner "Dancers With Wolves"?
+
+- [ ] Cole Hauser
+- [ ] Luke Grimes
+- [x] Kevin Costner
+
+#### Wasabi is generally served alongside which dish?
+
+- [ ] Pancakes
+- [x] Sushi
+- [ ] Borscht
+
+#### If a German calls you an arschgeige, what are they comparing you too?
+
+- [ ] A banana bender
+- [x] A butt violin
+- [ ] An ant tattooist
+
+#### Which of the following candy bars does NOT contain nuts?
+
+- [ ] Almond Joy
+- [x] Mounds
+- [ ] Snickers
+
+#### What is the name of Kim Kardashian's mother?
+
+- [ ] Khole
+- [x] Kris
+- [ ] Kourtney
+
+#### The Trans Am named K.I.T.T. starred on which TV show?
+
+- [ ] Airwolf
+- [x] Knight Rider
+- [ ] Hardcastle & McCormick
+
+#### What kind of car is Disney's Herbie?
+
+- [x] VW Bug
+- [ ] Corvette
+- [ ] Fiat
+
+#### Which of the following Pixar characters is a car?
+
+- [ ] Buzz Lightyear
+- [ ] Randall Boggs
+- [x] Lightning McQueen
+
+#### Whoh hosted the MTV show "Pimp My Ride"?
+
+- [ ] Ludacris
+- [x] Xzibit
+- [ ] Mos Def
+
+#### Prince haad a famous 1982 song about what kind of car?
+
+- [ ] GTO
+- [ ] Ferrari
+- [x] Corvette
+
+#### What was the name of the Scooby-Doo gang's van?
+
+- [x] Mystery Machine
+- [ ] Solve-mobile
+- [ ] Puzzling Passenger
+
+#### In "Wayne's World", the characters rock out to "Bohemian Rhapsody" while driving what kind of car?
+
+- [ ] Cooper Mini
+- [x] AMC Pacer
+- [ ] Chevrolet Vega
+
+#### What car model was famously recalled due its catching fire due to low-speed rear-end collisions?
+
+- [ ] Ford Edsel
+- [ ] Ford Aspire
+- [x] Ford Pinto
+
+#### In "Back to the Future", what kind of car does Doc Brown turn into a time machine?
+
+- [x] DeLorean
+- [ ] Lamborghini
+- [ ] Alfa Romeo
+
+#### What kind of vehicle is Optimus Prime?
+
+- [ ] Hatchback
+- [x] Truck
+- [ ] Motorcycle
