@@ -74829,3 +74829,63 @@
 - [ ] Khole
 - [x] Kris
 - [ ] Kourtney
+
+#### The Trans Am named K.I.T.T. starred on which TV show?
+
+- [ ] Airwolf
+- [x] Knight Rider
+- [ ] Hardcastle & McCormick
+
+#### What kind of car is Disney's Herbie?
+
+- [x] VW Bug
+- [ ] Corvette
+- [ ] Fiat
+
+#### Which of the following Pixar characters is a car?
+
+- [ ] Buzz Lightyear
+- [ ] Randall Boggs
+- [x] Lightning McQueen
+
+#### Whoh hosted the MTV show "Pimp My Ride"?
+
+- [ ] Ludacris
+- [x] Xzibit
+- [ ] Mos Def
+
+#### Prince haad a famous 1982 song about what kind of car?
+
+- [ ] GTO
+- [ ] Ferrari
+- [x] Corvette
+
+#### What was the name of the Scooby-Doo gang's van?
+
+- [x] Mystery Machine
+- [ ] Solve-mobile
+- [ ] Puzzling Passenger
+
+#### In "Wayne's World", the characters rock out to "Bohemian Rhapsody" while driving what kind of car?
+
+- [ ] Cooper Mini
+- [x] AMC Pacer
+- [ ] Chevrolet Vega
+
+#### What car model was famously recalled due its catching fire due to low-speed rear-end collisions?
+
+- [ ] Ford Edsel
+- [ ] Ford Aspire
+- [x] Ford Pinto
+
+#### In "Back to the Future", what kind of car does Doc Brown turn into a time machine?
+
+- [x] DeLorean
+- [ ] Lamborghini
+- [ ] Alfa Romeo
+
+#### What kind of vehicle is Optimus Prime?
+
+- [ ] Hatchback
+- [x] Truck
+- [ ] Motorcycle
