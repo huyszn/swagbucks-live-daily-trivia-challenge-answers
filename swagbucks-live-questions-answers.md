@@ -3414,7 +3414,7 @@
 - [x] Harry Potter
 - [ ] Hermione Granger
 
-#### Marine One is the codename that usually refers to what Presidential vehicle
+#### Marine One is the codename that usually refers to what Presidential vehicle?
 
 - [x] Helicopter
 - [ ] Skateboard
@@ -21885,7 +21885,7 @@
 
 #### Which of the following "Star Trek: The Next Generation" characters is an android?
 
-- [ ] Wolf
+- [ ] Worf
 - [x] Data
 - [ ] Deanna Troi
 
@@ -28145,7 +28145,7 @@
 
 - [ ] Richard Pryor
 - [ ] Caroline Rhea
-- [x] Ellen Degeneres
+- [x] Ellen DeGeneres
 
 #### Jim Carry was a breakout star on what network sketch series?
 
@@ -32091,8 +32091,8 @@
 
 #### Who was the drummer for The Beatles?
 
-- [ ] Keith Moon
 - [ ] John Bonham
+- [ ] Keith Moon
 - [x] Ringo Starr
 
 #### Clint Barton is known by what alias?
@@ -70780,7 +70780,7 @@
 - [x] The Handmaid's Tale
 - [ ] Tiger King
 
-#### When did the original Nintendo Gameboy first hits shelves?
+#### When did the original Nintendo Gameboy first hit shelves?
 
 - [x] 1989
 - [ ] 1999
@@ -74889,3 +74889,45 @@
 - [ ] Hatchback
 - [x] Truck
 - [ ] Motorcycle
+
+#### What country has a world-famous Great Wall?
+
+- [x] China
+- [ ] Austria
+- [ ] Finland
+
+#### During World War II, what food was turned into the D Ration Bar?
+
+- [ ] Potato
+- [x] Chocolate
+- [ ] Dates
+
+#### Since the first Groundhog Day in 1887, what percent of the time has the groundhog's prediction been accurate?
+
+- [ ] 11%
+- [x] 39%
+- [ ] 61%
+
+#### What action figure series is about an elite fighting force?
+
+- [ ] Strawberry Shortcake
+- [ ] Gem
+- [x] G.I. Joe
+
+#### What Jamaican runner is known as the fastest man in the world?
+
+- [ ] Asafa Powell
+- [ ] Yohan Blake
+- [x] Usain Bolt
+
+#### What does the S in TBS stand for?
+
+- [ ] Station
+- [x] System
+- [ ] Sandstorm
+
+#### Which brand promises to be "Good to the last drop"?
+
+- [x] Maxwell House
+- [ ] Milk
+- [ ] Mojitos
