@@ -74955,3 +74955,27 @@
 - [ ] Knees
 - [x] Eyes
 - [ ] Feet
+
+#### Kung Fu and Taekwondo are both disciplines of what?
+
+- [x] Martial Arts
+- [ ] Liberal Arts
+- [ ] Electronic Arts
+
+#### Adjusting for inflation, how much would you pay today for the most expensive ticket to Super Bowl I?
+
+- [ ] $1100
+- [ ] $300
+- [x] $90
+
+#### Many Broadway theaters will skip which row in their seating chart?
+
+- [x] Row I
+- [ ] Row J
+- [ ] Row K
+
+#### Which of the following is the title of an Elvis Presley hit?
+
+- [x] Hound Dog
+- [ ] Hot Dog
+- [ ] Dog Tired
