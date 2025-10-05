@@ -74979,3 +74979,15 @@
 - [x] Hound Dog
 - [ ] Hot Dog
 - [ ] Dog Tired
+
+#### What was the title of MC Hammer's breakout hit?
+
+- [x] U Can't Touch This
+- [ ] U Just Touched This
+- [ ] U Got The Touch
+
+#### Which of the following statistical categories does NOT count towards a Triple Double in the NBA?
+
+- [ ] Assists
+- [x] Dribbles
+- [ ] Points
