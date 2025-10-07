@@ -75081,3 +75081,21 @@
 - [x] Max
 - [ ] Mike
 - [ ] Mark
+
+#### Which of the following is a synonym for "pandemonium"?
+
+- [x] Hullabaloo
+- [ ] Depression
+- [ ] Grapple
+
+#### Which kids show teaches you Spanish?
+
+- [x] Dora the Explorer
+- [ ] Barney and Friends
+- [ ] Peppa Pig
+
+#### Which of these is a railroad on a standard Monopoly board?
+
+- [x] B&O
+- [ ] Air B&B
+- [ ] BB King
