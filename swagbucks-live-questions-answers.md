@@ -74991,3 +74991,93 @@
 - [ ] Assists
 - [x] Dribbles
 - [ ] Points
+
+#### Mowgli the Man Cub is the hero of what Rubyard Kipling book?
+
+- [ ] Gunga Din
+- [x] The Jungle Book
+- [ ] Rikki-Tikki-Tavi
+
+#### Which of the following is a type of gorilla?
+
+- [ ] Goldback
+- [x] Silverback
+- [ ] Bronzeback
+
+#### Whose cover of Dolly Parton's "I Will Always Love You" was a #1 hit?
+
+- [ ] Toni Braxton
+- [ ] Eve
+- [x] Whitney Houston
+
+#### Which well-known director had an unfinished movie titled "Kaleidoscope"?
+
+- [ ] Martin Scorsese
+- [x] Alfred Hitchcock
+- [ ] Steven Spielberg
+
+#### Despite its failure, Thomas Edison's electric pen directly inspired an invention used for what?
+
+- [x] Tattooing
+- [ ] Sewing
+- [ ] Teeth Cleaning
+
+#### According to the Disney song, what happens when you wish upon a star?
+
+- [x] Your dreams come true
+- [ ] Everything tastes like sardines
+- [ ] Nothing
+
+#### In Disney's "Aladdin", where does Aladdin first find the magic lamp?
+
+- [ ] The Outdoor Market
+- [ ] The Royal Palace
+- [x] The Cave of Wonders
+
+#### In "Finding Nemo", what kind of fish is Nemo?
+
+- [ ] Shark
+- [x] Clownfish
+- [ ] Catfish
+
+#### Who sings "You're Welcome" in Disney's "Moana"?
+
+- [ ] Moana
+- [ ] Tamatoa
+- [x] Maui
+
+#### What is the name of Mulan's dragon sidekick?
+
+- [x] Mushu
+- [ ] Cri-Kee
+- [ ] Yao
+
+#### Which Disney Park first opened to the public on October 1st, 1971?
+
+- [x] Walt Disney World
+- [ ] Disneyland
+- [ ] Disneyland Paris
+
+#### What corporation does Kevin Flynn break into in the original "Tron"?
+
+- [x] Encom
+- [ ] Comdex
+- [ ] Gamecorp
+
+#### When Mary Poppins measures herself, what does the tape read?
+
+- [ ] 7'0"
+- [x] Practically Perfect in Every Way
+- [ ] A Fine Height
+
+#### Which titular twins lived the "Suite Life" and "On Deck"?
+
+- [ ] The Wizards
+- [ ] Phineas and Ferb
+- [x] Zack and Cody
+
+#### What is the name of Goofy's son?
+
+- [x] Max
+- [ ] Mike
+- [ ] Mark
