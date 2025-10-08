@@ -58603,7 +58603,7 @@
 
 - [x] Temple of Doom
 - [ ] Kingdom of the Crystal Skull
-- [x] Raiders of the Lost Ark
+- [ ] Raiders of the Lost Ark
 
 #### If you go somewhere "Shank's Mare", how are you getting there?
 
@@ -75195,3 +75195,15 @@
 - [ ] Pimple
 - [ ] Headache
 - [x] Cold
+
+#### Which of the following words refers to a cat?
+
+- [ ] Snape
+- [ ] Rum Buffer
+- [x] Cuttycrumb
+
+#### Phil Collins was the lead singer and drummer for what band?
+
+- [x] Genesis
+- [ ] Yes
+- [ ] Captain and Tennille
