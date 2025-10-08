@@ -75099,3 +75099,99 @@
 - [x] B&O
 - [ ] Air B&B
 - [ ] BB King
+
+#### Chatty Cathy was a doll that would do WHAT when her string was pulled?
+
+- [ ] Push ups
+- [x] Talk
+- [ ] A back flip
+
+#### What chain was started in a Seattle mall?
+
+- [ ] Piercing Pagoda
+- [ ] Things Remembered
+- [x] Chinnabon
+
+#### In professional sports, what tax is levied against a team whose payroll is too high?
+
+- [x] Luxury Tax
+- [ ] Player Tax
+- [ ] Roster Tax
+
+#### The score "Love" appears in what sport?
+
+- [ ] Bowling
+- [x] Tennis
+- [ ] Horseshoes
+
+#### Wisp is the real name of which toy?
+
+- [x] Rainbow Brite
+- [ ] Strawberry Shortcake
+- [ ] Glo Worm
+
+#### What is the capital of Hengary?
+
+- [x] Budapest
+- [ ] Berlin
+- [ ] London
+
+#### Argentina and Uruguary are the birthplaces of which dance?
+
+- [x] Tango
+- [ ] Nihon Buyo
+- [ ] Breakdancing
+
+#### Which of the following snack foods does NOT have a creme filling?
+
+- [ ] Oreo
+- [x] Friots
+- [ ] Twinkles
+
+#### What is the smallest U.S. state by area?
+
+- [ ] Texas
+- [ ] California
+- [x] Rhode Island
+
+#### What's the name of the main pig in "Charlotte's Web"?
+
+- [x] Wilbur
+- [ ] Walton
+- [ ] Wyatt
+
+#### Which of the following fast food chains is the oldest?
+
+- [ ] McDonald's
+- [x] White Castle
+- [ ] Kentucky Fried Chicken
+
+#### Who played Indiana Jones?
+
+- [ ] Tom Selleck
+- [ ] Mark Hamill
+- [x] Harrison Ford
+
+#### A controversy arose for Apple when they preloaded iPods with songs from which band?
+
+- [x] U2
+- [ ] The Quarrymen
+- [ ] The Knack
+
+#### What is "rizz" short for?
+
+- [ ] Rizzberry
+- [x] Charisma
+- [ ] Rizzleton
+
+#### Before games, what does Lebron James toss into the air as part of his routine?
+
+- [x] Chalk
+- [ ] 10 Baseballs
+- [ ] A Paper Plane
+
+#### An old wives' tale advised you to "starve a fever and feed a" what?
+
+- [ ] Pimple
+- [ ] Headache
+- [x] Cold
