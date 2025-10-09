@@ -75207,3 +75207,63 @@
 - [x] Genesis
 - [ ] Yes
 - [ ] Captain and Tennille
+
+#### What protein dish typically accompanies spaghetti?
+
+- [ ] Turkey Breast
+- [x] Meatballs
+- [ ] Hot Dogs
+
+#### In which movie does Tom Hanks befriend and talk to a volleyball?
+
+- [ ] The Man With One Red Shoe
+- [ ] Big
+- [x] Cast Away
+
+#### In July of 2025, Beyonce ended her tour with a surprise reunion performance for what group?
+
+- [x] Destiny's Child
+- [ ] TLC
+- [ ] En Vogue
+
+#### In which country is Ronald McDonald known as Donald McDonald?
+
+- [ ] Russia
+- [x] Japan
+- [ ] Sweden
+
+#### Which NBA coach led the Bulls to six championships and the Lakers to five championships?
+
+- [ ] Larry Bird
+- [ ] Doc Rivers
+- [x] Phil Jackson
+
+#### What is the term for the blob of toothpaste depicted in product marketing materials and packaging?
+
+- [ ] Dongle
+- [x] Nurdle
+- [ ] Aglet
+
+#### In which game are you encouraged to steal and commit crimes?
+
+- [ ] Pac-Man
+- [x] Grand Theft Auto
+- [ ] God of War
+
+#### Which of the following is the inspiration for the term "Bobby Pins"?
+
+- [x] A Hairstyle
+- [ ] A Stylist
+- [ ] The British Police
+
+#### What operating system is commonly used on PCs?
+
+- [ ] iOS
+- [x] Windows
+- [ ] Ubuntu
+
+#### The West End is the theater district in which European city?
+
+- [x] London
+- [ ] Prague
+- [ ] Rome
