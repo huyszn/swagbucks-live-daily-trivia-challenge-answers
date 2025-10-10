@@ -75339,3 +75339,33 @@
 - [ ] Wizard Soccer
 - [x] Quidditch
 - [ ] Basketball
+
+#### The word "Holiday" comes from what two words?
+
+- [x] Holy and Day
+- [ ] Howl and Aday
+- [ ] Holly and Day
+
+#### The first Olympic athlete to fail a drug test tested positive for what?
+
+- [ ] Amphetamines
+- [x] Beer
+- [ ] Aspirin
+
+#### During which holiday is pumpkin pie traditionally served?
+
+- [ ] 4th of July
+- [ ] Memorial Day
+- [x] Thanksgiving
+
+#### In "Operation", what part of Cavity Sam lights up when you make a mistake?
+
+- [x] Nose
+- [ ] Eyes
+- [ ] Mouth
+
+#### Root Beer is made using the root bark of what tree?
+
+- [ ] Oak
+- [ ] Willow
+- [x] Sassafras
