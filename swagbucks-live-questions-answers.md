@@ -75267,3 +75267,75 @@
 - [x] London
 - [ ] Prague
 - [ ] Rome
+
+#### What book series features a vampire named Edward and a werewolf named Jacob?
+
+- [ ] Goosebumps
+- [ ] Bunnicula
+- [x] Twilight
+
+#### Which of the following people is known as a Country artist?
+
+- [ ] Jimi Hendrix
+- [x] Buck Owens
+- [ ] Adele
+
+#### What is the shape of the scar on Harry Potter's forehead?
+
+- [ ] Question Mark
+- [x] Lightning Bolt
+- [ ] Triangle
+
+#### In the world Harry Potter, what animal delivers mails to wizards and witches?
+
+- [x] Owl
+- [ ] Dog
+- [ ] Horse
+
+#### In Harry Potter, what is the name of the London shopping area for witches and wizards?
+
+- [ ] Portobello Road
+- [x] Diagon Alley
+- [ ] Greenwich Market
+
+#### Which of the following main characters in Harry Potter is a muggle-born?
+
+- [ ] Ron
+- [ ] Harry
+- [x] Hermione
+
+#### After winning the Triwizard Tournament, what does Harry do with the prize money?
+
+- [ ] Donates it to charity
+- [ ] Gives it to the Diggory Family
+- [x] Gives it to Fred & George Weasley
+
+#### Which Hogwarts house is Harry Potter softed into?
+
+- [ ] Ravenclaw
+- [x] Gryffindor
+- [ ] Hufflepuff
+
+#### In Harry Potter, what item of clothing sets Dobby the House Elf free?
+
+- [ ] Shirt
+- [ ] Tie
+- [x] Sock
+
+#### In Harry Potter, what unique self defense property does the Devil's Snare plant have?
+
+- [ ] It catches fire upon touch
+- [x] It strangles upon touch
+- [ ] It eats you
+
+#### By what name is Voldemort known in the world of Harry Potter?
+
+- [x] He Who Must Not Be Named
+- [ ] Mr. X
+- [ ] The Bad Guy
+
+#### What sport does Harry play at Hogwarts?
+
+- [ ] Wizard Soccer
+- [x] Quidditch
+- [ ] Basketball
