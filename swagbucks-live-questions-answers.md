@@ -75369,3 +75369,21 @@
 - [ ] Oak
 - [ ] Willow
 - [x] Sassafras
+
+#### Nicaragua and Dominica are the only two countries with which color on their national flag?
+
+- [ ] Pink
+- [x] Purple
+- [ ] Maroon
+
+#### The movie "Ratatouille" caused an increase in sales of what pet?
+
+- [x] Rats
+- [ ] Cats
+- [ ] Bats
+
+#### In "What's Opera, Doc?", Elmer Fudd's "Kill da wabbit" is based on a piece by which composer?
+
+- [ ] Strauss
+- [x] Wagner
+- [ ] Verdi
