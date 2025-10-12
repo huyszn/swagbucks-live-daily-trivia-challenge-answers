@@ -58603,7 +58603,7 @@
 
 - [x] Temple of Doom
 - [ ] Kingdom of the Crystal Skull
-- [x] Raiders of the Lost Ark
+- [ ] Raiders of the Lost Ark
 
 #### If you go somewhere "Shank's Mare", how are you getting there?
 
@@ -75081,3 +75081,309 @@
 - [x] Max
 - [ ] Mike
 - [ ] Mark
+
+#### Which of the following is a synonym for "pandemonium"?
+
+- [x] Hullabaloo
+- [ ] Depression
+- [ ] Grapple
+
+#### Which kids show teaches you Spanish?
+
+- [x] Dora the Explorer
+- [ ] Barney and Friends
+- [ ] Peppa Pig
+
+#### Which of these is a railroad on a standard Monopoly board?
+
+- [x] B&O
+- [ ] Air B&B
+- [ ] BB King
+
+#### Chatty Cathy was a doll that would do WHAT when her string was pulled?
+
+- [ ] Push ups
+- [x] Talk
+- [ ] A back flip
+
+#### What chain was started in a Seattle mall?
+
+- [ ] Piercing Pagoda
+- [ ] Things Remembered
+- [x] Chinnabon
+
+#### In professional sports, what tax is levied against a team whose payroll is too high?
+
+- [x] Luxury Tax
+- [ ] Player Tax
+- [ ] Roster Tax
+
+#### The score "Love" appears in what sport?
+
+- [ ] Bowling
+- [x] Tennis
+- [ ] Horseshoes
+
+#### Wisp is the real name of which toy?
+
+- [x] Rainbow Brite
+- [ ] Strawberry Shortcake
+- [ ] Glo Worm
+
+#### What is the capital of Hengary?
+
+- [x] Budapest
+- [ ] Berlin
+- [ ] London
+
+#### Argentina and Uruguary are the birthplaces of which dance?
+
+- [x] Tango
+- [ ] Nihon Buyo
+- [ ] Breakdancing
+
+#### Which of the following snack foods does NOT have a creme filling?
+
+- [ ] Oreo
+- [x] Friots
+- [ ] Twinkles
+
+#### What is the smallest U.S. state by area?
+
+- [ ] Texas
+- [ ] California
+- [x] Rhode Island
+
+#### What's the name of the main pig in "Charlotte's Web"?
+
+- [x] Wilbur
+- [ ] Walton
+- [ ] Wyatt
+
+#### Which of the following fast food chains is the oldest?
+
+- [ ] McDonald's
+- [x] White Castle
+- [ ] Kentucky Fried Chicken
+
+#### Who played Indiana Jones?
+
+- [ ] Tom Selleck
+- [ ] Mark Hamill
+- [x] Harrison Ford
+
+#### A controversy arose for Apple when they preloaded iPods with songs from which band?
+
+- [x] U2
+- [ ] The Quarrymen
+- [ ] The Knack
+
+#### What is "rizz" short for?
+
+- [ ] Rizzberry
+- [x] Charisma
+- [ ] Rizzleton
+
+#### Before games, what does Lebron James toss into the air as part of his routine?
+
+- [x] Chalk
+- [ ] 10 Baseballs
+- [ ] A Paper Plane
+
+#### An old wives' tale advised you to "starve a fever and feed a" what?
+
+- [ ] Pimple
+- [ ] Headache
+- [x] Cold
+
+#### Which of the following words refers to a cat?
+
+- [ ] Snape
+- [ ] Rum Buffer
+- [x] Cuttycrumb
+
+#### Phil Collins was the lead singer and drummer for what band?
+
+- [x] Genesis
+- [ ] Yes
+- [ ] Captain and Tennille
+
+#### What protein dish typically accompanies spaghetti?
+
+- [ ] Turkey Breast
+- [x] Meatballs
+- [ ] Hot Dogs
+
+#### In which movie does Tom Hanks befriend and talk to a volleyball?
+
+- [ ] The Man With One Red Shoe
+- [ ] Big
+- [x] Cast Away
+
+#### In July of 2025, Beyonce ended her tour with a surprise reunion performance for what group?
+
+- [x] Destiny's Child
+- [ ] TLC
+- [ ] En Vogue
+
+#### In which country is Ronald McDonald known as Donald McDonald?
+
+- [ ] Russia
+- [x] Japan
+- [ ] Sweden
+
+#### Which NBA coach led the Bulls to six championships and the Lakers to five championships?
+
+- [ ] Larry Bird
+- [ ] Doc Rivers
+- [x] Phil Jackson
+
+#### What is the term for the blob of toothpaste depicted in product marketing materials and packaging?
+
+- [ ] Dongle
+- [x] Nurdle
+- [ ] Aglet
+
+#### In which game are you encouraged to steal and commit crimes?
+
+- [ ] Pac-Man
+- [x] Grand Theft Auto
+- [ ] God of War
+
+#### Which of the following is the inspiration for the term "Bobby Pins"?
+
+- [x] A Hairstyle
+- [ ] A Stylist
+- [ ] The British Police
+
+#### What operating system is commonly used on PCs?
+
+- [ ] iOS
+- [x] Windows
+- [ ] Ubuntu
+
+#### The West End is the theater district in which European city?
+
+- [x] London
+- [ ] Prague
+- [ ] Rome
+
+#### What book series features a vampire named Edward and a werewolf named Jacob?
+
+- [ ] Goosebumps
+- [ ] Bunnicula
+- [x] Twilight
+
+#### Which of the following people is known as a Country artist?
+
+- [ ] Jimi Hendrix
+- [x] Buck Owens
+- [ ] Adele
+
+#### What is the shape of the scar on Harry Potter's forehead?
+
+- [ ] Question Mark
+- [x] Lightning Bolt
+- [ ] Triangle
+
+#### In the world Harry Potter, what animal delivers mails to wizards and witches?
+
+- [x] Owl
+- [ ] Dog
+- [ ] Horse
+
+#### In Harry Potter, what is the name of the London shopping area for witches and wizards?
+
+- [ ] Portobello Road
+- [x] Diagon Alley
+- [ ] Greenwich Market
+
+#### Which of the following main characters in Harry Potter is a muggle-born?
+
+- [ ] Ron
+- [ ] Harry
+- [x] Hermione
+
+#### After winning the Triwizard Tournament, what does Harry do with the prize money?
+
+- [ ] Donates it to charity
+- [ ] Gives it to the Diggory Family
+- [x] Gives it to Fred & George Weasley
+
+#### Which Hogwarts house is Harry Potter softed into?
+
+- [ ] Ravenclaw
+- [x] Gryffindor
+- [ ] Hufflepuff
+
+#### In Harry Potter, what item of clothing sets Dobby the House Elf free?
+
+- [ ] Shirt
+- [ ] Tie
+- [x] Sock
+
+#### In Harry Potter, what unique self defense property does the Devil's Snare plant have?
+
+- [ ] It catches fire upon touch
+- [x] It strangles upon touch
+- [ ] It eats you
+
+#### By what name is Voldemort known in the world of Harry Potter?
+
+- [x] He Who Must Not Be Named
+- [ ] Mr. X
+- [ ] The Bad Guy
+
+#### What sport does Harry play at Hogwarts?
+
+- [ ] Wizard Soccer
+- [x] Quidditch
+- [ ] Basketball
+
+#### The word "Holiday" comes from what two words?
+
+- [x] Holy and Day
+- [ ] Howl and Aday
+- [ ] Holly and Day
+
+#### The first Olympic athlete to fail a drug test tested positive for what?
+
+- [ ] Amphetamines
+- [x] Beer
+- [ ] Aspirin
+
+#### During which holiday is pumpkin pie traditionally served?
+
+- [ ] 4th of July
+- [ ] Memorial Day
+- [x] Thanksgiving
+
+#### In "Operation", what part of Cavity Sam lights up when you make a mistake?
+
+- [x] Nose
+- [ ] Eyes
+- [ ] Mouth
+
+#### Root Beer is made using the root bark of what tree?
+
+- [ ] Oak
+- [ ] Willow
+- [x] Sassafras
+
+#### Nicaragua and Dominica are the only two countries with which color on their national flag?
+
+- [ ] Pink
+- [x] Purple
+- [ ] Maroon
+
+#### The movie "Ratatouille" caused an increase in sales of what pet?
+
+- [x] Rats
+- [ ] Cats
+- [ ] Bats
+
+#### In "What's Opera, Doc?", Elmer Fudd's "Kill da wabbit" is based on a piece by which composer?
+
+- [ ] Strauss
+- [x] Wagner
+- [ ] Verdi
