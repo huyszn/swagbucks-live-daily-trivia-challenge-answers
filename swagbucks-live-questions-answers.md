@@ -75387,3 +75387,21 @@
 - [ ] Strauss
 - [x] Wagner
 - [ ] Verdi
+
+#### What brand's original logo featured Sir Isaac Newton?
+
+- [ ] Fig Newtons
+- [ ] IBM
+- [x] Apple
+
+#### Which of these Star Wars characters got their own origin movie in 2018?
+
+- [ ] Luke Skywalker
+- [x] Han Solo
+- [ ] Princess Leia
+
+#### If Dave Thomas had used his daughter's actual first name for his restaurant chain, what would it be called?
+
+- [ ] Wendy's
+- [ ] Wanda's
+- [x] Melinda's
