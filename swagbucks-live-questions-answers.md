@@ -75405,3 +75405,21 @@
 - [ ] Wendy's
 - [ ] Wanda's
 - [x] Melinda's
+
+#### A character partially named after George Lucas' son appears in which Star Wars movie?
+
+- [ ] The Phantom Menace
+- [x] Attack of the Clones
+- [ ] Revenge of the Sith
+
+#### Who was the voice of Mushu the Dragon in 1998's "Mulan"?
+
+- [ ] Don Knotts
+- [x] Eddie Murphy
+- [ ] John Gad
+
+#### Which of these Olympic events uses foils?
+
+- [x] Fencing
+- [ ] Biathlon
+- [ ] Wrestling
