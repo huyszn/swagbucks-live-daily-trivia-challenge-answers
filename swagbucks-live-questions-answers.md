@@ -37819,7 +37819,7 @@
 - [ ] 2000
 - [x] 2008
 
-#### What number did NHL legend wayne Gretzky wear?
+#### What number did NHL legend Wayne Gretzky wear?
 
 - [x] 99
 - [ ] 143
@@ -51840,12 +51840,6 @@
 - [ ] Monday
 - [ ] Wednesday
 - [x] Sunday
-
-#### Where did the Miracle on Ice happen?
-
-- [ ] The Moon
-- [ ] Woodstock
-- [x] The Winter Olympics
 
 #### Which of these instruments is played by shaking it?
 
@@ -75423,3 +75417,87 @@
 - [x] Fencing
 - [ ] Biathlon
 - [ ] Wrestling
+
+#### Which of these Disney animated film characters is usually barefoot?
+
+- [x] Wreck-It Ralph
+- [ ] Anna
+- [ ] Hercules
+
+#### SNL's Tina Fey wrote which autobiography?
+
+- [x] Bossypants
+- [ ] The Long Walk to Freedom
+- [ ] Angela's Ashes
+
+#### What Midwest city's art museum is topped by flapping wings?
+
+- [ ] Chicago
+- [ ] Denver
+- [x] Milwaukee
+
+#### Which social media site is powered by blockchain technology?
+
+- [x] Steemit
+- [ ] Medium
+- [ ] Mix
+
+#### Which famous Canadian played Marty McFly in the "Back to the Future" movies?
+
+- [ ] The Weeknd
+- [x] Michael J. Fox
+- [ ] Michael Cera
+
+#### In which movie series does Keanu Reeves play a time traveling rock star to-be?
+
+- [ ] The Matrix
+- [ ] John Wick
+- [x] Bill & Ted
+
+#### What jersey number did Wayne Gretzky wear throughout his professional career?
+
+- [x] 99
+- [ ] -1
+- [ ] 205
+
+#### Complete this Shania Twain song title: "Man! I Feel Like A..."
+
+- [ ] Turtle
+- [x] Woman
+- [ ] V8
+
+#### Pamela Anderson starred on which syndicated TV show in the 90s?
+
+- [ ] Night Man
+- [ ] Babylon 5
+- [x] Baywatch
+
+#### In "Barbie", what does Ryan Gosling's Ken turn Barbie's Dream House into?
+
+- [x] Mojo Dojo Casa House
+- [ ] Karate Eagle Fang House
+- [ ] Rock Star Brewski Muscle House
+
+#### John Candy plays the Polka King of the Midwest in which John Hughes movie?
+
+- [ ] Curly Sue
+- [x] Home Alone
+- [ ] The Breakfast Club
+
+#### Which Seth Rogen movie is about high school seniors trying to lose their virginity?
+
+- [ ] The Interview
+- [ ] This Is The End
+- [x] Superbad
+
+#### Which of the four "Sex and the City" friends was played by Kim Cattrall?
+
+- [ ] Carrie
+- [x] Samantha
+- [ ] Miranda
+
+#### In "Liar Liar", what does Jim Carrey's character do for a living?
+
+- [x] Lawyer
+- [ ] Accountant
+- [ ] Waiter
