@@ -75501,3 +75501,21 @@
 - [x] Lawyer
 - [ ] Accountant
 - [ ] Waiter
+
+#### In baseball, how many balls does it take to draw a walk?
+
+- [x] 4
+- [ ] 8
+- [ ] 25
+
+#### Panic! At the Disco started out covering the music of what band?
+
+- [ ] The Cure
+- [x] Blink-182
+- [ ] The Police
+
+#### Which member of the X-Men can fire optic blasts?
+
+- [x] Cyclops
+- [ ] Wolverine
+- [ ] Havok
