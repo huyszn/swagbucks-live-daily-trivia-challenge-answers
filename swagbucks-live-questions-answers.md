@@ -67696,12 +67696,6 @@
 - [ ] Coffee
 - [x] Paint
 
-#### Ziggy Stardust and The Thin White Duke are aliases for what rock star?
-
-- [x] David Bowie
-- [ ] Mick Jagger
-- [ ] Jim Morrison
-
 #### Writer Elizabeth Gilbert has an autobiography with what 3-word title?
 
 - [x] Eat, Pray, Love
@@ -75519,3 +75513,93 @@
 - [x] Cyclops
 - [ ] Wolverine
 - [ ] Havok
+
+#### What restaurant serves a grilled cheese ssandwich with mozzarella sticks in the middle?
+
+- [ ] TGI Friday's
+- [ ] IHOP
+- [x] Denny's
+
+#### In which country did modern Father's Day originally center around Lighter sales?
+
+- [x] France
+- [ ] Spain
+- [ ] Italy
+
+#### Former NBA MVP James Harden is known by what "hairy" nickname?
+
+- [x] The Beard
+- [ ] The Sideburns
+- [ ] The Mohawk
+
+#### Which of these scenarios is NOT in the lyrics of "Supercalifragillisticexpialidocious"?
+
+- [ ] A duke asking someone to tea
+- [x] Laughing all day long
+- [ ] A nose being tweaked
+
+#### What kidn of egg requires boiling water to cook?
+
+- [ ] Fried Eggs
+- [x] Poached Eggs
+- [ ] Scrambled Eggs
+
+#### Which of the following retail chains specializes in cosmetics?
+
+- [ ] Hermes
+- [ ] Hickory Farms
+- [x] Sephora
+
+#### In which video games series does Master Chief take on The Covenant?
+
+- [x] Halo
+- [ ] Super Mario Bros
+- [ ] Donkey Kong
+
+#### What is the height of a regulation NBA hoop?
+
+- [ ] 3ft
+- [x] 10ft
+- [ ] 50ft
+
+#### Ziggy Stardust, Aladdin Sane, and The Thin White Duke were all personas of what singer?
+
+- [x] David Bowie
+- [ ] Jim Morrison
+- [ ] Freddie Mercury
+
+#### In an attempt to get kids to eat vegetables, McDonald's once developed broccoli with what flavor?
+
+- [ ] Chocolate
+- [x] Bubblegum
+- [ ] Strawberry
+
+#### Julia Roberts plays the diabetic Shelby in what 1989 movie?
+
+- [ ] Pretty Woman
+- [ ] Mystic Pizza
+- [x] Steel Magnolias
+
+#### In "Charlie and the Chocolate Factory", whose chocolate factory does Charlie visit?
+
+- [ ] Milton Hershey
+- [x] Willy Wonka
+- [ ] Henri Nestle
+
+#### In the original "Oregon Trail" computer game, which of the following was NOT a way to die?
+
+- [ ] Snakebite
+- [ ] Exhaustion
+- [x] Frostbite
+
+#### For over five years, Subway offered footlong sandwiches for what promotional price?
+
+- [x] Five Dollars
+- [ ] Nine Dollars
+- [ ] Twenty-Five Dollars
+
+#### In Los Angeles, what well-known street has dedicated stars on its Walk of Fame?
+
+- [ ] Santa Monica Blvd
+- [x] Hollywood Blvd
+- [ ] Wilshire Blvd
