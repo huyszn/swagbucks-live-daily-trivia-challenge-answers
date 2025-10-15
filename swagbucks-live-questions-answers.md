@@ -75603,3 +75603,21 @@
 - [ ] Santa Monica Blvd
 - [x] Hollywood Blvd
 - [ ] Wilshire Blvd
+
+#### The Video Game era started in 1972 with the release of what game?
+
+- [x] Pong
+- [ ] Space Invaders
+- [ ] Pac-Man
+
+#### Who was the first African-American woman to be arrested for refusing to sit in the back of a Montgomery bus?
+
+- [x] Claudette Colvin
+- [ ] Rosa Parks
+- [ ] Aurelia Browder
+
+#### If you were sanguine, what would best describe your mood?
+
+- [ ] Sad
+- [ ] Tired
+- [x] Happy
