@@ -75621,3 +75621,75 @@
 - [ ] Sad
 - [ ] Tired
 - [x] Happy
+
+#### The Houses of York and Lancaster fought each other in what war?
+
+- [ ] War on Drugs
+- [x] War of the Roses
+- [ ] Holy Crusades
+
+#### Who was the lead singer of the Motown group The Miracles?
+
+- [x] Smokey Robinson
+- [ ] Stevie Wonder
+- [ ] Sam Cooke
+
+#### Champagne originates from which country?
+
+- [ ] Canada
+- [x] France
+- [ ] Mexico
+
+#### Which of the following words is a preposition?
+
+- [ ] Ruddy
+- [ ] Stank
+- [x] Underneath
+
+#### What literary device compares two things using the words "like" or "as"?
+
+- [x] Simile
+- [ ] Alliteration
+- [ ] Personification
+
+#### Which celebrity's birth was paid for by Martin Luther King Jr. and his wife?
+
+- [ ] Denzel Washington
+- [ ] Josh Brolin
+- [x] Julia Robberts
+
+#### What is the U.S. National Anthem? (REPEATED QUESTION WITH DIFFERENT ANSWER ORDERS)
+
+- [x] The Star-Spangled Banner
+- [ ] America the Beautiful
+- [ ] You're A Grand Old Flag
+
+#### The first recorded Olympic race was over what distance?
+
+- [x] 200 meters
+- [ ] 5,000 meters
+- [ ] 10,000 meters
+
+#### In what simulation video game do you run your own theme park?
+
+- [ ] SimCity
+- [ ] The Sims
+- [x] Roller Coaster Tycoon
+
+#### What was the first phone with a capacitive touch-screen?
+
+- [ ] Apple iPhone
+- [x] LG Prada
+- [ ] Motorola Droid
+
+#### Perseverance, Opportunity, and Curiosity are all rovers that have explored which planet's surface?
+
+- [ ] Pluto
+- [ ] Neptune
+- [x] Mars
+
+#### What vampire romance movie series is set in Forks, Washington?
+
+- [ ] Dracula
+- [ ] Sinners
+- [x] Twilight
