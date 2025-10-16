@@ -40349,7 +40349,7 @@
 
 - [ ] Ulysses
 - [ ] Mrs. Dalloway
-- [x] Lord of the Files
+- [x] Lord of the Flies
 
 #### Which of these movies won a Best Picture Oscar?
 
@@ -51869,7 +51869,7 @@
 
 - [x] To Kill A Mockingbird
 - [ ] The Iliad
-- [ ] Lord of the Files
+- [ ] Lord of the Flies
 
 #### In the famous Dr. Seuss book, what does Horton Hear?
 
@@ -75693,3 +75693,21 @@
 - [ ] Dracula
 - [ ] Sinners
 - [x] Twilight
+
+#### What future star was a lead on "21 Jump Street"?
+
+- [ ] Matt Demon
+- [x] Johnny Deep
+- [ ] Leonardo DiCaprio
+
+#### A woman named Elizabeth Russett recently used Kellogg's over misleading information by what food product?
+
+- [ ] Raisin Bran
+- [x] Pop Tarts
+- [ ] Nutri-Grain
+
+#### What city is home to the Eiffel Tower?
+
+- [ ] Rome
+- [ ] London
+- [x] Paris
