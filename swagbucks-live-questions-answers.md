@@ -75711,3 +75711,63 @@
 - [ ] Rome
 - [ ] London
 - [x] Paris
+
+#### Chick-fil-A's ads feature two cows painting what message on billboards?
+
+- [x] "Eat Mor Chikin"
+- [ ] "No Mor Bif"
+- [ ] "Be Uh Vegitarian"
+
+#### Which of the following is a Department Store?
+
+- [ ] Forever 21
+- [ ] Hot Topic
+- [x] Macy's
+
+#### In which of these board games are you trying to take over and hold territories on a map?
+
+- [ ] Chess
+- [x] Risk
+- [ ] The Game of Life
+
+#### Which of the following authors once worked for both the OSS and CIA gathering intelligence?
+
+- [x] John Steinbeck
+- [ ] Ernest Hemingway
+- [ ] Beverly Clearly
+
+#### People with tetrachromacy have the ability to do what?
+
+- [ ] Taste colors
+- [ ] Smell colors
+- [x] See additional colors
+
+#### In a VR headset, what does VR stand for?
+
+- [x] Virtual Reality
+- [ ] Vented Rails
+- [ ] Very Rusty
+
+#### As of August 2025, which of the following video games based on classic novels is the fake?
+
+- [ ] Super Don Quix-ote
+- [ ] Fahrenheit 451
+- [x] To Kill A Mockingbird
+
+#### Eric Blair published novels under what pen name?
+
+- [ ] Aldous Huxley
+- [ ] Franz Kafka
+- [x] George Orwell
+
+#### Whose backing band was called the Miami Sound Machine?
+
+- [x] Gloria Estefan
+- [ ] Frankie Valli
+- [ ] Bruce Springsteen
+
+#### Wimbledon is a major championship in which sport?
+
+- [ ] Bowling
+- [x] Tennis
+- [ ] Baseball
