@@ -75771,3 +75771,21 @@
 - [ ] Bowling
 - [x] Tennis
 - [ ] Baseball
+
+#### Which of these actors does NOT appear in all four "Halloweentown" movies?
+
+- [ ] Judith Hoag
+- [x] Emily Roeske
+- [ ] Debbie Reynolds
+
+#### Which of the following players' names has appeared on the Stanley Cup the most times?
+
+- [ ] Maurice Richard
+- [ ] Jean Beliveau
+- [x] Henri Richard
+
+#### Which of these sound formats comes in 45 and 33 1/3?
+
+- [x] Vinyl records
+- [ ] Cassette tapes
+- [ ] CDs
