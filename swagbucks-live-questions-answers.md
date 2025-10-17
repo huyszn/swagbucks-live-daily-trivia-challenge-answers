@@ -37819,7 +37819,7 @@
 - [ ] 2000
 - [x] 2008
 
-#### What number did NHL legend wayne Gretzky wear?
+#### What number did NHL legend Wayne Gretzky wear?
 
 - [x] 99
 - [ ] 143
@@ -40349,7 +40349,7 @@
 
 - [ ] Ulysses
 - [ ] Mrs. Dalloway
-- [x] Lord of the Files
+- [x] Lord of the Flies
 
 #### Which of these movies won a Best Picture Oscar?
 
@@ -51841,12 +51841,6 @@
 - [ ] Wednesday
 - [x] Sunday
 
-#### Where did the Miracle on Ice happen?
-
-- [ ] The Moon
-- [ ] Woodstock
-- [x] The Winter Olympics
-
 #### Which of these instruments is played by shaking it?
 
 - [ ] Harp
@@ -51875,7 +51869,7 @@
 
 - [x] To Kill A Mockingbird
 - [ ] The Iliad
-- [ ] Lord of the Files
+- [ ] Lord of the Flies
 
 #### In the famous Dr. Seuss book, what does Horton Hear?
 
@@ -67702,12 +67696,6 @@
 - [ ] Coffee
 - [x] Paint
 
-#### Ziggy Stardust and The Thin White Duke are aliases for what rock star?
-
-- [x] David Bowie
-- [ ] Mick Jagger
-- [ ] Jim Morrison
-
 #### Writer Elizabeth Gilbert has an autobiography with what 3-word title?
 
 - [x] Eat, Pray, Love
@@ -75387,3 +75375,399 @@
 - [ ] Strauss
 - [x] Wagner
 - [ ] Verdi
+
+#### What brand's original logo featured Sir Isaac Newton?
+
+- [ ] Fig Newtons
+- [ ] IBM
+- [x] Apple
+
+#### Which of these Star Wars characters got their own origin movie in 2018?
+
+- [ ] Luke Skywalker
+- [x] Han Solo
+- [ ] Princess Leia
+
+#### If Dave Thomas had used his daughter's actual first name for his restaurant chain, what would it be called?
+
+- [ ] Wendy's
+- [ ] Wanda's
+- [x] Melinda's
+
+#### A character partially named after George Lucas' son appears in which Star Wars movie?
+
+- [ ] The Phantom Menace
+- [x] Attack of the Clones
+- [ ] Revenge of the Sith
+
+#### Who was the voice of Mushu the Dragon in 1998's "Mulan"?
+
+- [ ] Don Knotts
+- [x] Eddie Murphy
+- [ ] John Gad
+
+#### Which of these Olympic events uses foils?
+
+- [x] Fencing
+- [ ] Biathlon
+- [ ] Wrestling
+
+#### Which of these Disney animated film characters is usually barefoot?
+
+- [x] Wreck-It Ralph
+- [ ] Anna
+- [ ] Hercules
+
+#### SNL's Tina Fey wrote which autobiography?
+
+- [x] Bossypants
+- [ ] The Long Walk to Freedom
+- [ ] Angela's Ashes
+
+#### What Midwest city's art museum is topped by flapping wings?
+
+- [ ] Chicago
+- [ ] Denver
+- [x] Milwaukee
+
+#### Which social media site is powered by blockchain technology?
+
+- [x] Steemit
+- [ ] Medium
+- [ ] Mix
+
+#### Which famous Canadian played Marty McFly in the "Back to the Future" movies?
+
+- [ ] The Weeknd
+- [x] Michael J. Fox
+- [ ] Michael Cera
+
+#### In which movie series does Keanu Reeves play a time traveling rock star to-be?
+
+- [ ] The Matrix
+- [ ] John Wick
+- [x] Bill & Ted
+
+#### What jersey number did Wayne Gretzky wear throughout his professional career?
+
+- [x] 99
+- [ ] -1
+- [ ] 205
+
+#### Complete this Shania Twain song title: "Man! I Feel Like A..."
+
+- [ ] Turtle
+- [x] Woman
+- [ ] V8
+
+#### Pamela Anderson starred on which syndicated TV show in the 90s?
+
+- [ ] Night Man
+- [ ] Babylon 5
+- [x] Baywatch
+
+#### In "Barbie", what does Ryan Gosling's Ken turn Barbie's Dream House into?
+
+- [x] Mojo Dojo Casa House
+- [ ] Karate Eagle Fang House
+- [ ] Rock Star Brewski Muscle House
+
+#### John Candy plays the Polka King of the Midwest in which John Hughes movie?
+
+- [ ] Curly Sue
+- [x] Home Alone
+- [ ] The Breakfast Club
+
+#### Which Seth Rogen movie is about high school seniors trying to lose their virginity?
+
+- [ ] The Interview
+- [ ] This Is The End
+- [x] Superbad
+
+#### Which of the four "Sex and the City" friends was played by Kim Cattrall?
+
+- [ ] Carrie
+- [x] Samantha
+- [ ] Miranda
+
+#### In "Liar Liar", what does Jim Carrey's character do for a living?
+
+- [x] Lawyer
+- [ ] Accountant
+- [ ] Waiter
+
+#### In baseball, how many balls does it take to draw a walk?
+
+- [x] 4
+- [ ] 8
+- [ ] 25
+
+#### Panic! At the Disco started out covering the music of what band?
+
+- [ ] The Cure
+- [x] Blink-182
+- [ ] The Police
+
+#### Which member of the X-Men can fire optic blasts?
+
+- [x] Cyclops
+- [ ] Wolverine
+- [ ] Havok
+
+#### What restaurant serves a grilled cheese ssandwich with mozzarella sticks in the middle?
+
+- [ ] TGI Friday's
+- [ ] IHOP
+- [x] Denny's
+
+#### In which country did modern Father's Day originally center around Lighter sales?
+
+- [x] France
+- [ ] Spain
+- [ ] Italy
+
+#### Former NBA MVP James Harden is known by what "hairy" nickname?
+
+- [x] The Beard
+- [ ] The Sideburns
+- [ ] The Mohawk
+
+#### Which of these scenarios is NOT in the lyrics of "Supercalifragillisticexpialidocious"?
+
+- [ ] A duke asking someone to tea
+- [x] Laughing all day long
+- [ ] A nose being tweaked
+
+#### What kidn of egg requires boiling water to cook?
+
+- [ ] Fried Eggs
+- [x] Poached Eggs
+- [ ] Scrambled Eggs
+
+#### Which of the following retail chains specializes in cosmetics?
+
+- [ ] Hermes
+- [ ] Hickory Farms
+- [x] Sephora
+
+#### In which video games series does Master Chief take on The Covenant?
+
+- [x] Halo
+- [ ] Super Mario Bros
+- [ ] Donkey Kong
+
+#### What is the height of a regulation NBA hoop?
+
+- [ ] 3ft
+- [x] 10ft
+- [ ] 50ft
+
+#### Ziggy Stardust, Aladdin Sane, and The Thin White Duke were all personas of what singer?
+
+- [x] David Bowie
+- [ ] Jim Morrison
+- [ ] Freddie Mercury
+
+#### In an attempt to get kids to eat vegetables, McDonald's once developed broccoli with what flavor?
+
+- [ ] Chocolate
+- [x] Bubblegum
+- [ ] Strawberry
+
+#### Julia Roberts plays the diabetic Shelby in what 1989 movie?
+
+- [ ] Pretty Woman
+- [ ] Mystic Pizza
+- [x] Steel Magnolias
+
+#### In "Charlie and the Chocolate Factory", whose chocolate factory does Charlie visit?
+
+- [ ] Milton Hershey
+- [x] Willy Wonka
+- [ ] Henri Nestle
+
+#### In the original "Oregon Trail" computer game, which of the following was NOT a way to die?
+
+- [ ] Snakebite
+- [ ] Exhaustion
+- [x] Frostbite
+
+#### For over five years, Subway offered footlong sandwiches for what promotional price?
+
+- [x] Five Dollars
+- [ ] Nine Dollars
+- [ ] Twenty-Five Dollars
+
+#### In Los Angeles, what well-known street has dedicated stars on its Walk of Fame?
+
+- [ ] Santa Monica Blvd
+- [x] Hollywood Blvd
+- [ ] Wilshire Blvd
+
+#### The Video Game era started in 1972 with the release of what game?
+
+- [x] Pong
+- [ ] Space Invaders
+- [ ] Pac-Man
+
+#### Who was the first African-American woman to be arrested for refusing to sit in the back of a Montgomery bus?
+
+- [x] Claudette Colvin
+- [ ] Rosa Parks
+- [ ] Aurelia Browder
+
+#### If you were sanguine, what would best describe your mood?
+
+- [ ] Sad
+- [ ] Tired
+- [x] Happy
+
+#### The Houses of York and Lancaster fought each other in what war?
+
+- [ ] War on Drugs
+- [x] War of the Roses
+- [ ] Holy Crusades
+
+#### Who was the lead singer of the Motown group The Miracles?
+
+- [x] Smokey Robinson
+- [ ] Stevie Wonder
+- [ ] Sam Cooke
+
+#### Champagne originates from which country?
+
+- [ ] Canada
+- [x] France
+- [ ] Mexico
+
+#### Which of the following words is a preposition?
+
+- [ ] Ruddy
+- [ ] Stank
+- [x] Underneath
+
+#### What literary device compares two things using the words "like" or "as"?
+
+- [x] Simile
+- [ ] Alliteration
+- [ ] Personification
+
+#### Which celebrity's birth was paid for by Martin Luther King Jr. and his wife?
+
+- [ ] Denzel Washington
+- [ ] Josh Brolin
+- [x] Julia Robberts
+
+#### What is the U.S. National Anthem? (REPEATED QUESTION WITH DIFFERENT ANSWER ORDERS)
+
+- [x] The Star-Spangled Banner
+- [ ] America the Beautiful
+- [ ] You're A Grand Old Flag
+
+#### The first recorded Olympic race was over what distance?
+
+- [x] 200 meters
+- [ ] 5,000 meters
+- [ ] 10,000 meters
+
+#### In what simulation video game do you run your own theme park?
+
+- [ ] SimCity
+- [ ] The Sims
+- [x] Roller Coaster Tycoon
+
+#### What was the first phone with a capacitive touch-screen?
+
+- [ ] Apple iPhone
+- [x] LG Prada
+- [ ] Motorola Droid
+
+#### Perseverance, Opportunity, and Curiosity are all rovers that have explored which planet's surface?
+
+- [ ] Pluto
+- [ ] Neptune
+- [x] Mars
+
+#### What vampire romance movie series is set in Forks, Washington?
+
+- [ ] Dracula
+- [ ] Sinners
+- [x] Twilight
+
+#### What future star was a lead on "21 Jump Street"?
+
+- [ ] Matt Demon
+- [x] Johnny Deep
+- [ ] Leonardo DiCaprio
+
+#### A woman named Elizabeth Russett recently used Kellogg's over misleading information by what food product?
+
+- [ ] Raisin Bran
+- [x] Pop Tarts
+- [ ] Nutri-Grain
+
+#### What city is home to the Eiffel Tower?
+
+- [ ] Rome
+- [ ] London
+- [x] Paris
+
+#### Chick-fil-A's ads feature two cows painting what message on billboards?
+
+- [x] "Eat Mor Chikin"
+- [ ] "No Mor Bif"
+- [ ] "Be Uh Vegitarian"
+
+#### Which of the following is a Department Store?
+
+- [ ] Forever 21
+- [ ] Hot Topic
+- [x] Macy's
+
+#### In which of these board games are you trying to take over and hold territories on a map?
+
+- [ ] Chess
+- [x] Risk
+- [ ] The Game of Life
+
+#### Which of the following authors once worked for both the OSS and CIA gathering intelligence?
+
+- [x] John Steinbeck
+- [ ] Ernest Hemingway
+- [ ] Beverly Clearly
+
+#### People with tetrachromacy have the ability to do what?
+
+- [ ] Taste colors
+- [ ] Smell colors
+- [x] See additional colors
+
+#### In a VR headset, what does VR stand for?
+
+- [x] Virtual Reality
+- [ ] Vented Rails
+- [ ] Very Rusty
+
+#### As of August 2025, which of the following video games based on classic novels is the fake?
+
+- [ ] Super Don Quix-ote
+- [ ] Fahrenheit 451
+- [x] To Kill A Mockingbird
+
+#### Eric Blair published novels under what pen name?
+
+- [ ] Aldous Huxley
+- [ ] Franz Kafka
+- [x] George Orwell
+
+#### Whose backing band was called the Miami Sound Machine?
+
+- [x] Gloria Estefan
+- [ ] Frankie Valli
+- [ ] Bruce Springsteen
+
+#### Wimbledon is a major championship in which sport?
+
+- [ ] Bowling
+- [x] Tennis
+- [ ] Baseball
