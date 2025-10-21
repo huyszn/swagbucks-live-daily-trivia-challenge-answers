@@ -336,7 +336,7 @@
 - [x] 1.618
 - [ ] 3.142
 
-#### According to their song "Heigh Ho", what are the 7 dwarfs digging for?
+#### According to their song "Heigh Ho" what are the 7 dwarfs digging for?
 
 - [x] Diamonds and Rubies
 - [ ] Diamonds and Sapphires
@@ -11148,7 +11148,7 @@
 - [ ] Ottomans
 - [ ] Aztecs
 
-#### On which game show do contestant try to guess the price of grocery store items and cars?
+#### On which game show do contestants try to guess the price of grocery store items and cars?
 
 - [ ] Jeopardy
 - [ ] Press Your Luck
@@ -22366,7 +22366,7 @@
 #### In the first Thanksgiving episode of "Friends", the gang is trapped on the roof when they go to watch what holiday event?
 
 - [ ] Football game
-- [x] Escaped Parade Ballon
+- [x] Escaped Parade Balloon
 - [ ] Solar Eclipse
 
 #### What real-life ex of Jennifer Aniston appeared on "Friends" in "The One with the Rumor" as a Thanksgiving guest?
@@ -34324,7 +34324,7 @@
 #### Jack Dawkins is the real name of what fictional character?
 
 - [x] Artful Dodger
-- [ ] Scarlet Pimernel
+- [ ] Scarlet Pimpernel
 - [ ] The Invisible Man
 
 #### Complete this common phrase: "The end justifies the..."
@@ -40941,7 +40941,7 @@
 
 #### In "Jurassic Park", which dinosaur figures out how to open doors?
 
-- [x] T-Rex
+- [ ] T-Rex
 - [x] Velociraptor
 - [ ] Triceratops
 
@@ -50767,7 +50767,7 @@
 - [x] Cindy Crawford
 - [ ] Liza Minnelli
 
-#### Which of these snacks traditionally made around a campfire?
+#### Which of these snacks is traditionally made around a campfire?
 
 - [ ] Ice Cream Sandwich
 - [ ] Fiddle Faddle
@@ -51229,7 +51229,7 @@
 - [ ] Puffins
 - [x] Honey Bunches of Oats
 
-#### What brand of cereal is advertisted using Fred Flintstone?
+#### What brand of cereal is advertised using Fred Flintstone?
 
 - [ ] Honey Bunches of Oats
 - [x] Fruity Pebbles
@@ -54664,8 +54664,8 @@
 #### Which of these French words means "Good Day"?
 
 - [x] Bonjour
-- [ ] Baquette
-- [ ] Binentot
+- [ ] Baguette
+- [ ] Bientot
 
 #### What cereal brand also puts out a popular party mix?
 
@@ -60436,7 +60436,7 @@
 - [x] Jughead
 - [ ] Hagar the Horrible
 
-#### The constellations Ursa Major and Minor, each contain  part known as the "Big and "Little" what?
+#### The constellations Ursa Major and Minor, each contain  part known as the "Big" and "Little" what?
 
 - [x] Dipper
 - [ ] Diaper
@@ -63043,7 +63043,7 @@
 #### Which Tom Hanks character says "Stupid is as stupid does"?
 
 - [ ] Woody
-- [x] Forest Gump
+- [x] Forrest Gump
 - [ ] Josh Baskin
 
 #### Which of the following desserts traditionally uses a torch to caramelize its top?
@@ -64356,7 +64356,7 @@
 
 #### When is Halloween celebrated?
 
-- [ ] December 225th
+- [ ] December 25th
 - [ ] July 4th
 - [x] October 31st
 
@@ -70852,7 +70852,7 @@
 - [ ] Onomatopoeia
 - [ ] Palindrome
 
-#### What year did the United States declar independence from England?
+#### What year did the United States declare independence from England?
 
 - [ ] 1066
 - [ ] 1215
@@ -71122,7 +71122,7 @@
 - [x] A hangover cure
 - [ ] A political stunt
 
-#### Which of these games would be logophiliac's favorite?
+#### Which of these games would be a logophiliac's favorite?
 
 - [ ] Guess Who?
 - [ ] Crossfire
@@ -74920,12 +74920,6 @@
 - [ ] Milk
 - [ ] Mojitos
 
-#### Nicholas II was the last Tsar of what country?
-
-- [ ] Transylvania
-- [ ] Finland
-- [x] Russia
-
 #### What color do brides normally wear in China?
 
 - [x] Red
@@ -75789,3 +75783,123 @@
 - [x] Vinyl records
 - [ ] Cassette tapes
 - [ ] CDs
+
+#### Which artist tops the most recent GRAMMY Labor Day Playlist?
+
+- [x] Dolly Parton
+- [ ] Jimmy Buffett
+- [ ] Bruce Springsteen
+
+#### In "Charlotte's Web", what is the name of the pig?
+
+- [ ] Templeton
+- [x] Wilbur
+- [ ] Charlotte
+
+#### "Everybody Hates Chris" was a sitcom about the childhood of which famous Chris?
+
+- [x] Chris Rock
+- [ ] Chris Pratt
+- [ ] Chris Evans
+
+#### What color is the circle on the Japanese national flag?
+
+- [ ] Chartreuse
+- [x] Red
+- [ ] Silver
+
+#### What action film received an "X" rating 8 different times before finally getting an "R"?
+
+- [x] Robocop
+- [ ] Spy Kids
+- [ ] Rambo: First Blood Part II
+
+#### In what country can you find a tourist attraction known as "The Eyes of God?"
+
+- [ ] Tajikistan
+- [ ] Israel
+- [x] Bulgaria
+
+#### Which of the following would have worked as an alternate nickname for Marvel's Logan?
+
+- [x] Quickhatch
+- [ ] Poltroon Tiger
+- [ ] Fox-Ape
+
+#### Which of the following is an online role-playing game?
+
+- [x] World of Warcraft
+- [ ] NBA 2K20
+- [ ] Wheel of Fortune
+
+#### Which of the following is a song by Drake?
+
+- [ ] Coldline Bling
+- [x] Hotline Bling
+- [ ] Lukewarmline Bling
+
+#### Which philosopher coined the phrase Cogito, Ergo Sum?
+
+- [x] Rene Déscartes
+- [ ] Friedrich Nietzsche
+- [ ] Plato
+
+#### What pop star is behind the Fenty brand?
+
+- [ ] Doja Cat
+- [ ] Nicki Minaj
+- [x] Rihanna
+
+#### In which year did Disneyland first open?
+
+- [x] 1955
+- [ ] 1971
+- [ ] 1992
+
+#### Amelia Blanford Edwards is known as "The Godmother of" what?
+
+- [ ] Mountaineering
+- [x] Egyptology
+- [ ] Anthropology
+
+#### Which of these is the actual title of a Pixar Film?
+
+- [ ] In
+- [x] Up
+- [ ] Out
+
+#### What Brazilian musical group gets its name from a mythical musical creature with holes in its body?
+
+- [x] Uakti
+- [ ] Chupacabra
+- [ ] Yemaya
+
+#### Which of these places has the lowest average temperature?
+
+- [ ] Australia
+- [ ] Argentina
+- [x] Antarctica
+
+#### What is the toughest race in the Spartan Run Trifecta called?
+
+- [x] Beast
+- [ ] Super
+- [ ] Sprint
+
+#### The Sumerians are widely credited with inventing what form of communication?
+
+- [ ] Sign Language
+- [ ] Email
+- [x] Writing
+
+#### Where is the Rose Bowl game played?
+
+- [ ] Syosset, NY
+- [x] Pasadena, CA
+- [ ] Evanston, IL
+
+#### Who won the Best Actress Oscar for Silver Linings Playbook?
+
+- [ ] Shelley Duvall
+- [ ] Nicole Kidman
+- [x] Jennifer Lawrence
