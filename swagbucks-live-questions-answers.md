@@ -75916,7 +75916,7 @@
 - [ ] Ozzie and Harriet
 - [ ] The Dick Van Dyke Show
 
-#### Where would you most likely catch someone in the act of decubation?
+#### Where would you most likely catch someone in the act of decomposition?
 
 - [x] In a bed
 - [ ] In front of a computer
@@ -75939,3 +75939,15 @@
 - [ ] Ron Weasley
 - [x] Harry Potter
 - [ ] Hermione Granger
+
+#### What is Rhinotillexomania?
+
+- [ ] Nosebleed
+- [ ] Runny Rose
+- [x] Nose Picking
+
+#### Which of these series' finales had the most viewers?
+
+- [x] The Fugitive
+- [ ] Seinfeld
+- [ ] Friends
