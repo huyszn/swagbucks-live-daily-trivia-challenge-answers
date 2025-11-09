@@ -75903,3 +75903,39 @@
 - [ ] Shelley Duvall
 - [ ] Nicole Kidman
 - [x] Jennifer Lawrence
+
+#### Which of these common phrases describes getting positives from two situations?
+
+- [ ] Best of Luck
+- [ ] Best of Friends
+- [x] Best of Both Worlds
+
+#### What classic sitcom set featured an iconic horse statue?
+
+- [x] The Brady Bunch
+- [ ] Ozzie and Harriet
+- [ ] The Dick Van Dyke Show
+
+#### Where would you most likely catch someone in the act of decubation?
+
+- [x] In a bed
+- [ ] In front of a computer
+- [ ] On a horse
+
+#### Who starred in the 2022 Marvel film Morbius?
+
+- [x] Jared Leto
+- [ ] George Clooney
+- [ ] Jack Nicholson
+
+#### The Pet Rock became a popular gag gift in what decade?
+
+- [ ] 1350s
+- [x] 1970s
+- [ ] 2010s
+
+#### Which character shares their birthday with JK Rowling?
+
+- [ ] Ron Weasley
+- [x] Harry Potter
+- [ ] Hermione Granger
