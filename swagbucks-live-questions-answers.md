@@ -75951,3 +75951,27 @@
 - [x] The Fugitive
 - [ ] Seinfeld
 - [ ] Friends
+
+#### The speedy mutant Quicksilver has similar powers to what DC hero?
+
+- [x] The Flash
+- [ ] The Martian Manhunter
+- [ ] Batman
+
+#### Which of the following is a variety of Doritos?
+
+- [x] Cool Ranch
+- [ ] Warm Ranch
+- [ ] Room Temperature Ranch
+
+#### Which of these metals is the heaviest?
+
+- [ ] Silver
+- [ ] Tin
+- [x] Gold
+
+#### Which Goosebumps book came out earliest?
+
+- [x] Say Cheese and Die!
+- [ ] Night of the Living Dead
+- [ ] The Ghost Next Door
