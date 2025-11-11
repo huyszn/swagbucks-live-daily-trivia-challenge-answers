@@ -76035,3 +76035,21 @@
 - [x] Spanish
 - [ ] Klingon
 - [ ] Esperanto
+
+#### The designer of the "I love New York" Logo also designed an iconic album cover for which rock star?
+
+- [x] Bob Dylan
+- [ ] Mick Jagger
+- [ ] Jimi Hendrix
+
+#### Which of the following artists died on their birthday?
+
+- [x] Raphael
+- [ ] Leonardo da Vinci
+- [ ] Michelangelo
+
+#### During which U.S. war was the Battle of Gettysburg fought?
+
+- [ ] Revolutionary War
+- [x] Civil War
+- [ ] Bay of Pigs
