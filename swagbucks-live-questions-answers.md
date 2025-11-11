@@ -75975,3 +75975,63 @@
 - [x] Say Cheese and Die!
 - [ ] Night of the Living Dead
 - [ ] The Ghost Next Door
+
+#### What color is Big Bird in the original Sesame Street?
+
+- [x] Yellow
+- [ ] Purple
+- [ ] Pink
+
+#### What city is home to Sesame Street?
+
+- [ ] Allentown
+- [x] New York
+- [ ] Seattle
+
+#### Which Sesame Street character is Bert's roomate?
+
+- [ ] Rocko
+- [ ] Telly
+- [x] Erine
+
+#### Sesame Street was created by which production company?
+
+- [ ] Paramount Pictures
+- [x] Children's Television Workshop
+- [ ] MTV Productions
+
+#### Which Sesame Street character lives in a trash can?
+
+- [ ] Zoe
+- [ ] Bob
+- [x] Oscar the Grouch
+
+#### Who hosts Sesame Street's "Monsterpiece Theater", often eating his pipe at the end of segments?
+
+- [ ] Cookie Monster
+- [ ] Harry
+- [x] Mister Hooper
+
+#### Sesame Street was almost given with name?
+
+- [x] 123 Avenue B
+- [ ] ABC Avenue
+- [ ] Monster Alley
+
+#### What is the name of Grover's superhero character?
+
+- [ ] Bat Grover
+- [x] Super Grover
+- [ ] Spider-Grover
+
+#### What is the full last name of Sesame Street's Snuffy?
+
+- [x] Snuffleupagus
+- [ ] Snuffman
+- [ ] Snufferton
+
+#### The original Sesame Street often teaches children with non-English language?
+
+- [x] Spanish
+- [ ] Klingon
+- [ ] Esperanto
