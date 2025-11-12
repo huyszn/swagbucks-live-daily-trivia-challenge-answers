@@ -76113,3 +76113,15 @@
 - [x] Cinnamon
 - [ ] Cereal
 - [ ] Celery
+
+#### Which of these is NOT the name of a galaxy sector in Star Wars?
+
+- [ ] Sluis
+- [ ] Anoat
+- [x] Meela
+
+#### Which of the following time capsules contains a pair of Ray Charles's sunglasses?
+
+- [x] The National Millennium Time Capsule
+- [ ] The Nickelodeon Time Capsule
+- [ ] The World's Largest Time Capsule
