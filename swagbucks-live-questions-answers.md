@@ -53801,7 +53801,7 @@
 
 - [ ] Paul Simon
 - [ ] Eric Clapton
-- [x] Kimi Hendrix
+- [x] Jimi Hendrix
 
 #### In 2019, Felicity Huffman and Lori Loughlin were involved in a scandal revolving around what?
 
@@ -76053,3 +76053,63 @@
 - [ ] Revolutionary War
 - [x] Civil War
 - [ ] Bay of Pigs
+
+#### What animal appears in the logo for the World Wildlife Fund?
+
+- [x] Panda Bear
+- [ ] Spider
+- [ ] Flea
+
+#### Lewis and Clark led a famous expedition across what country?
+
+- [ ] India
+- [ ] New Zealand
+- [x] The United States
+
+#### Which daytime talk show once gave a new car to every member of its studio audience?
+
+- [ ] Donahue
+- [x] The Oprah Winfrey Show
+- [ ] Ricki Lake
+
+#### What traditional Scottish dish is cooked inside a sheep's stomach?
+
+- [ ] Cullen Skin
+- [ ] Tattie Scone
+- [x] Haggis
+
+#### Which of the following terms refers to rocks that fall to Earth from space and actually reach the Earth's surface?
+
+- [ ] Meteor
+- [ ] Asteroid
+- [x] Meteorite
+
+#### In "Peanuts", what's the name of Linus's sister?
+
+- [x] Lucy
+- [ ] Violet
+- [ ] Frieda
+
+#### What toy line uses the tagline "A Real American Hero"?
+
+- [ ] Hello Kitty
+- [ ] My Little Pony
+- [x] G.I. Joe
+
+#### Thomas Chippendale is known for his work in what discipline?
+
+- [x] Furniture Making
+- [ ] Dance
+- [ ] Painting
+
+#### What rock legend is known for hits like "Purple Haze", "The Wind Cries Mary", and "Crosstown Traffic"?
+
+- [ ] Elvis Presley
+- [ ] Eddie Van Halen
+- [x] Jimi Hendrix
+
+#### For over 20 years, a popular online challenge has involved trying to swallow a spoonful of what substance without liquid?
+
+- [x] Cinnamon
+- [ ] Cereal
+- [ ] Celery
