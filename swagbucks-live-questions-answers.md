@@ -76125,3 +76125,63 @@
 - [x] The National Millennium Time Capsule
 - [ ] The Nickelodeon Time Capsule
 - [ ] The World's Largest Time Capsule
+
+#### Eggos area a line of what frozen food?
+
+- [ ] French Fries
+- [x] Waffles
+- [ ] Vegetables
+
+#### Kanji is used as a written language primarily in which country?
+
+- [x] Japan
+- [ ] Ireland
+- [ ] Greenland
+
+#### B.B. King is known for which genre of music?
+
+- [ ] Classical
+- [x] Blues
+- [ ] Punk
+
+#### What's the oldest soccer cllub recognized by FIFA?
+
+- [ ] Manchester United
+- [ ] Cray Wanderers
+- [x] Sheffield F.C.
+
+#### The Firm, The Pelican Brief, and The Rainmaker are all movie adaptations of books by what author?
+
+- [x] John Grisham
+- [ ] Louis L'Amour
+- [ ] Michael Crichton
+
+#### Due to trademark issues, Little Caesar's can't use the slogan "Pizza Pizza" in which country?
+
+- [ ] Italy
+- [ ] England
+- [x] Canada
+
+#### Yoshi is the dinosaur sidekick of which video game character?
+
+- [x] Mario
+- [ ] Kid Icarus
+- [ ] Mega Man
+
+#### What was the name of the first successfully cloned animal?
+
+- [ ] Darwin
+- [x] Dolly
+- [ ] Dino
+
+#### Charli d'Amelio became popular on which platform?
+
+- [ ] Vine
+- [ ] Periscope
+- [x] TikTok
+
+#### During which Jewish holiday do observers fast?
+
+- [x] Yom Kippur
+- [ ] Hanukkah
+- [ ] Passover
