@@ -152338,7 +152338,7 @@
 - [x] Blues
 - [ ] Punk
 
-#### What's the oldest soccer cllub recognized by FIFA?
+#### What's the oldest soccer club recognized by FIFA?
 
 - [ ] Manchester United
 - [ ] Cray Wanderers
@@ -152391,3 +152391,63 @@
 - [ ] Scrabble
 - [ ] Settlers of Catan
 - [x] Trivial Pursuit
+
+#### Well, it's one for the money, two for the show. Three to get ready now go, cat, go.
+
+- [x] Blue Suede Shoes
+- [ ] Bohemian Rhapsody
+- [ ] Twinkle Twinkle Little Star
+
+#### Jeremiah was a bullfrog; was a good friend of mine...
+
+- [ ] Mama Told Me
+- [x] Joy To The World
+- [ ] One
+
+#### As first I was afraid, I was petrified; Kept thinking I could never live without you by my side...
+
+- [x] I Will Survive
+- [ ] Eye of the Tiger
+- [ ] The Touch
+
+#### There must be some kind of way outta here, said the joker to the thief...
+
+- [ ] If 6 Was 9
+- [ ] Crosstown Traffic
+- [x] All Along The Watchtower
+
+#### I got my first real six-string, bought it at the five-and-dime; Played it till my fingers bled...
+
+- [ ] Glory Days
+- [x] Summer of '69
+- [ ] Pink Houses
+
+#### Don't call it a comeback! I been here for years, I'm rockin' my peers, puttin' suckers in fear...
+
+- [x] Mama Said Knock You Out
+- [ ] The Breaks
+- [ ] Miami
+
+#### Josie's on a vacation far away; Come around and talk it over. So many things that I wanna say...
+
+- [ ] I Need You Tonight
+- [ ] Modern Love
+- [x] Your Love
+
+#### So take a good look at my face; You'll see my smile looks out of place...
+
+- [ ] Tears of a Clown
+- [x] The Tracks of My Tears
+- [ ] Crying
+
+#### You got mud on your face, you big disgrace, Kicking your can all over the place...
+
+- [x] We Will Rock You
+- [ ] Bicycle Race
+- [ ] You're My Best Friend
+
+#### If happy little bluebirds fly beyond the rainbow, why, oh why can't I?
+
+- [ ] She's A Rainbow
+- [x] Somewhere Over The Rainbow
+- [ ] The Rainbow Connection
