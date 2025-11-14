@@ -152451,3 +152451,33 @@
 - [ ] She's A Rainbow
 - [x] Somewhere Over The Rainbow
 - [ ] The Rainbow Connection
+
+#### Which ceral mascot is a toucan telling you to follow your nose?
+
+- [x] Froot Loops
+- [ ] Rice Krispies
+- [ ] Oatmeal
+
+#### What were originally carved to make Jack-O-Lanterns?
+
+- [ ] Gourds
+- [ ] Potatoes
+- [x] Turnips
+
+#### What Disney movie features a character named Kaa?
+
+- [ ] Peter Pan
+- [ ] The Lion King
+- [x] The Jungle Book
+
+#### In the original "Ghostbusters", who's the last Ghostbuster added to the team?
+
+- [ ] Peter Venkman
+- [ ] Ray Stantz
+- [x] Winston Zeddemore
+
+#### What is the capital of Arkansas? (REPEATED QUESTION WITH DIFFERENT ANSWER ORDERS)
+
+- [x] Little Rock
+- [ ] Bentonville
+- [ ] Fort Smith
