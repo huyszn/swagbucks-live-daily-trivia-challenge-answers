@@ -152481,3 +152481,15 @@
 - [x] Little Rock
 - [ ] Bentonville
 - [ ] Fort Smith
+
+#### A town in Texas shares its name with what Hostess snack cake?
+
+- [x] Ding Dong
+- [ ] Ho Ho
+- [ ] Suzy Q
+
+#### What 1960's dance became a craze thanks in part to a Chubby Checker song?
+
+- [ ] The Freddie
+- [x] The Twist
+- [ ] The Watushi
