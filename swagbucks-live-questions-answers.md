@@ -152493,3 +152493,33 @@
 - [ ] The Freddie
 - [x] The Twist
 - [ ] The Watushi
+
+#### Which company's logo contains the color red?
+
+- [ ] Starbucks
+- [ ] Subway
+- [x] Mastercard
+
+#### Where does the show "Pawn Stars" take place?
+
+- [ ] The Yukon
+- [x] Las Vegas
+- [ ] On a cruise ship
+
+#### Walt Disney won a Best Picture Oscar for his adaptation of what P.L. Travers book?
+
+- [ ] The Mouse and the Motorcycle
+- [x] Mary Poppins
+- [ ] Holiday Inn
+
+#### Who is the lead singer of Pearl Jam?
+
+- [ ] Snoop Dogg
+- [x] Eddie Vedder
+- [ ] Willie Nelson
+
+#### What is the name of The Joker's girlfriend?
+
+- [ ] Cheetah
+- [x] Harley Quinn
+- [ ] Moira TacTaggart
