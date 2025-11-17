@@ -152523,3 +152523,27 @@
 - [ ] Cheetah
 - [x] Harley Quinn
 - [ ] Moira TacTaggart
+
+#### Which celebrity entrepreneur began his career posting YouTube videos about wine?
+
+- [x] Gary Vaynerchuk
+- [ ] Mark Cuban
+- [ ] Seth Godin
+
+#### "The Pips" were the backup singers for which soul diva?
+
+- [ ] Aretha Franklin
+- [ ] Dionne Warwick
+- [x] Gladys Knight
+
+#### At the end of "A Charlie Brown Christmas", which book of the King James Bible does Linus quote?
+
+- [ ] Genesis
+- [x] Luke 2
+- [ ] Exodus
+
+#### What religious capital is also the smallest country in the world?
+
+- [x] Vatican City
+- [ ] England
+- [ ] Jerusalem
