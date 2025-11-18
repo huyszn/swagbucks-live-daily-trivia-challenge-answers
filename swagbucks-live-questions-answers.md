@@ -75112,7 +75112,7 @@
 - [ ] Strawberry Shortcake
 - [ ] Glo Worm
 
-#### What is the capital of Hengary?
+#### What is the capital of Hungary?
 
 - [x] Budapest
 - [ ] Berlin
@@ -152547,3 +152547,75 @@
 - [x] Vatican City
 - [ ] England
 - [ ] Jerusalem
+
+#### Holding your breath and being startled are believed to cure what ailment?
+
+- [ ] Common Cold
+- [ ] Shingles
+- [x] Hiccups
+
+#### Who painted the ceiling of the Sistine Chapel?
+
+- [x] Michelangelo
+- [ ] Raphael
+- [ ] Donatello
+
+#### In the 21st century, high school students started a tradition of elaborate proposals to attend what event?
+
+- [ ] School Fair
+- [x] Prom
+- [ ] Gradudation
+
+#### What non-alcoholic Mexican drink is made of rice, cinnamon, and sugar?
+
+- [x] Horchata
+- [ ] Cafe de Olla
+- [ ] Tamarindo
+
+#### Budapest is the capital of what country?
+
+- [ ] Germany
+- [ ] Austria
+- [x] Hungary
+
+#### Who wrote a book that started with "It was the best of times, it was the worst of times"?
+
+- [ ] Danielle Steele
+- [x] Charles Dickens
+- [ ] Ray Bradbury
+
+#### When a character in a movie looks at the camera and speaks directly to the audience, what are they breaking?
+
+- [x] The Foruth Wall
+- [ ] Bad
+- [ ] 2: Electric Boogaloo
+
+#### Whose hits include "Crocodile Rock", "Your Song", and "Candle in the Wind"?
+
+- [ ] Billy Joel
+- [ ] Alicia Keys
+- [x] Elton John
+
+#### What city is home to the largest airport in the u.S. by land area?
+
+- [ ] Chicago
+- [ ] Los Angeles
+- [x] Denver
+
+#### In a game of Jacks, what are you trying to do with the jacks?
+
+- [ ] Step on them
+- [x] Pick them up
+- [ ] Eat them
+
+#### The value of Pi begins with which 3 numbers?
+
+- [x] 3.14
+- [ ] 4.11
+- [ ] 8.88
+
+#### What is the name of college basketball's annual championship tournament?
+
+- [ ] April Insanity
+- [ ] February Freeze Out
+- [x] March Madness
