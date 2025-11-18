@@ -152596,7 +152596,7 @@
 - [ ] Alicia Keys
 - [x] Elton John
 
-#### What city is home to the largest airport in the u.S. by land area?
+#### What city is home to the largest airport in the U.S. by land area?
 
 - [ ] Chicago
 - [ ] Los Angeles
@@ -152619,3 +152619,21 @@
 - [ ] April Insanity
 - [ ] February Freeze Out
 - [x] March Madness
+
+#### If you're "hitting the links", what sport are you playing?
+
+- [x] Golf
+- [ ] High Jump
+- [ ] Tennis
+
+#### "Welcome to the Jungle" and "Sweet Child O' Mine" appeared on which Guns N' Roses album?
+
+- [x] Appetite for Destruction
+- [ ] Lies
+- [ ] The Spaghetti Incident
+
+#### Which of the following NBA Hall of Famers was selected latest in their respective draft?
+
+- [ ] Alex English
+- [x] Spencer Haywood
+- [ ] Dennis Rodman
