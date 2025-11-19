@@ -37969,7 +37969,7 @@
 - [ ] Chicago
 - [x] New York
 
-#### Famous siblings Jhole, Kourtney and Kim all share what last name?
+#### Famous siblings Khloe, Kourtney and Kim all share what last name?
 
 - [ ] Jenner
 - [ ] Jackson
@@ -76509,3 +76509,81 @@
 - [ ] Darth Tyranus
 - [ ] Darth Sidious
 - [x] Darth Vader
+
+#### Who won the Best Actress Oscar for Silver Linings Playbook?
+
+- [ ] Shelley Duvall
+- [ ] Nicole Kidman
+- [x] Jennifer Lawrence
+
+#### Which of the following is NOT one of TLC's definitions of a scrub?
+
+- [x] Needs a haircut
+- [ ] Walks instead of driving
+- [ ] Lives at home
+
+#### According to Greek mythology, what was the word "kallisti" inscribed on?
+
+- [x] Golden Apple of Discord
+- [ ] Belt of Aphrodite
+- [ ] Lyre of Orpheus
+
+#### Which musical features Elphaba singing the song "Defying Gravity"?
+
+- [ ] Cats
+- [ ] Les Misérables
+- [x] Wicked
+
+#### Someone with aquaphobia has a fear of what substance?
+
+- [ ] Plastic
+- [ ] Dirt
+- [x] Water
+
+#### What is Roman Reigns's nickname?
+
+- [x] The Big Dog
+- [ ] The Small Dog
+- [ ] The Big Cat
+
+#### Where would a funambulist most likely work?
+
+- [ ] A hospital
+- [x] The circus
+- [ ] A cemetary
+
+#### In which place did the founder of the Boy Scouts first create a group for girls?
+
+- [ ] Colorado
+- [x] England
+- [ ] Canada
+
+#### On what animated show would you find someone with the last name of Morgendorffer?
+
+- [ ] Family Guy
+- [x] Daria
+- [ ] Animaniacs
+
+#### King Sejong instituted which country's alphabet, still in use today?
+
+- [ ] Japan
+- [x] Korea
+- [ ] Thailand
+
+#### According to his song, Prince wanted to party like it was what year?
+
+- [ ] 2000
+- [ ] 1955
+- [x] 1999
+
+#### The Cuban Revolution led to the rise of what leader?
+
+- [x] Fidel Castro
+- [ ] Che Guevara
+- [ ] Juan Peron
+
+#### What lodging brand promises "We'll Keep the Light On for You"?
+
+- [ ] The Four Seasons
+- [ ] Ritz Carlton
+- [x] Motel 6
