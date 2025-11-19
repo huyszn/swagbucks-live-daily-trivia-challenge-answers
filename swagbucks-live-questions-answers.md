@@ -42321,7 +42321,7 @@
 
 #### Super Mario Bros and Duck Hunt came with what video game system?
 
-- [x] Nintendo Entertainment System System
+- [x] Nintendo Entertainment System
 - [ ] Sega Master System
 - [ ] Atari Lynx
 
@@ -53801,7 +53801,7 @@
 
 - [ ] Paul Simon
 - [ ] Eric Clapton
-- [x] Kimi Hendrix
+- [x] Jimi Hendrix
 
 #### In 2019, Felicity Huffman and Lori Loughlin were involved in a scandal revolving around what?
 
@@ -75874,12 +75874,6 @@
 - [ ] Chupacabra
 - [ ] Yemaya
 
-#### Which of these places has the lowest average temperature?
-
-- [ ] Australia
-- [ ] Argentina
-- [x] Antarctica
-
 #### What is the toughest race in the Spartan Run Trifecta called?
 
 - [x] Beast
@@ -75898,8 +75892,620 @@
 - [x] Pasadena, CA
 - [ ] Evanston, IL
 
-#### Who won the Best Actress Oscar for Silver Linings Playbook?
+#### Which of these common phrases describes getting positives from two situations?
 
-- [ ] Shelley Duvall
-- [ ] Nicole Kidman
-- [x] Jennifer Lawrence
+- [ ] Best of Luck
+- [ ] Best of Friends
+- [x] Best of Both Worlds
+
+#### What classic sitcom set featured an iconic horse statue?
+
+- [x] The Brady Bunch
+- [ ] Ozzie and Harriet
+- [ ] The Dick Van Dyke Show
+
+#### Where would you most likely catch someone in the act of decomposition?
+
+- [x] In a bed
+- [ ] In front of a computer
+- [ ] On a horse
+
+#### Who starred in the 2022 Marvel film Morbius?
+
+- [x] Jared Leto
+- [ ] George Clooney
+- [ ] Jack Nicholson
+
+#### The Pet Rock became a popular gag gift in what decade?
+
+- [ ] 1350s
+- [x] 1970s
+- [ ] 2010s
+
+#### Which character shares their birthday with JK Rowling?
+
+- [ ] Ron Weasley
+- [x] Harry Potter
+- [ ] Hermione Granger
+
+#### What is Rhinotillexomania?
+
+- [ ] Nosebleed
+- [ ] Runny Rose
+- [x] Nose Picking
+
+#### Which of these series' finales had the most viewers?
+
+- [x] The Fugitive
+- [ ] Seinfeld
+- [ ] Friends
+
+#### The speedy mutant Quicksilver has similar powers to what DC hero?
+
+- [x] The Flash
+- [ ] The Martian Manhunter
+- [ ] Batman
+
+#### Which of the following is a variety of Doritos?
+
+- [x] Cool Ranch
+- [ ] Warm Ranch
+- [ ] Room Temperature Ranch
+
+#### Which of these metals is the heaviest?
+
+- [ ] Silver
+- [ ] Tin
+- [x] Gold
+
+#### Which Goosebumps book came out earliest?
+
+- [x] Say Cheese and Die!
+- [ ] Night of the Living Dead
+- [ ] The Ghost Next Door
+
+#### What color is Big Bird in the original Sesame Street?
+
+- [x] Yellow
+- [ ] Purple
+- [ ] Pink
+
+#### What city is home to Sesame Street?
+
+- [ ] Allentown
+- [x] New York
+- [ ] Seattle
+
+#### Which Sesame Street character is Bert's roommate?
+
+- [ ] Rocko
+- [ ] Telly
+- [x] Erine
+
+#### Sesame Street was created by which production company?
+
+- [ ] Paramount Pictures
+- [x] Children's Television Workshop
+- [ ] MTV Productions
+
+#### Which Sesame Street character lives in a trash can?
+
+- [ ] Zoe
+- [ ] Bob
+- [x] Oscar the Grouch
+
+#### Who hosts Sesame Street's "Monsterpiece Theater", often eating his pipe at the end of segments?
+
+- [ ] Cookie Monster
+- [ ] Harry
+- [x] Mister Hooper
+
+#### Sesame Street was almost given with name?
+
+- [x] 123 Avenue B
+- [ ] ABC Avenue
+- [ ] Monster Alley
+
+#### What is the name of Grover's superhero character?
+
+- [ ] Bat Grover
+- [x] Super Grover
+- [ ] Spider-Grover
+
+#### What is the full last name of Sesame Street's Snuffy?
+
+- [x] Snuffleupagus
+- [ ] Snuffman
+- [ ] Snufferton
+
+#### The original Sesame Street often teaches children with non-English language?
+
+- [x] Spanish
+- [ ] Klingon
+- [ ] Esperanto
+
+#### The designer of the "I love New York" Logo also designed an iconic album cover for which rock star?
+
+- [x] Bob Dylan
+- [ ] Mick Jagger
+- [ ] Jimi Hendrix
+
+#### Which of the following artists died on their birthday?
+
+- [x] Raphael
+- [ ] Leonardo da Vinci
+- [ ] Michelangelo
+
+#### During which U.S. war was the Battle of Gettysburg fought?
+
+- [ ] Revolutionary War
+- [x] Civil War
+- [ ] Bay of Pigs
+
+#### What animal appears in the logo for the World Wildlife Fund?
+
+- [x] Panda Bear
+- [ ] Spider
+- [ ] Flea
+
+#### Lewis and Clark led a famous expedition across what country?
+
+- [ ] India
+- [ ] New Zealand
+- [x] The United States
+
+#### Which daytime talk show once gave a new car to every member of its studio audience?
+
+- [ ] Donahue
+- [x] The Oprah Winfrey Show
+- [ ] Ricki Lake
+
+#### What traditional Scottish dish is cooked inside a sheep's stomach?
+
+- [ ] Cullen Skin
+- [ ] Tattie Scone
+- [x] Haggis
+
+#### Which of the following terms refers to rocks that fall to Earth from space and actually reach the Earth's surface?
+
+- [ ] Meteor
+- [ ] Asteroid
+- [x] Meteorite
+
+#### In "Peanuts", what's the name of Linus's sister?
+
+- [x] Lucy
+- [ ] Violet
+- [ ] Frieda
+
+#### What toy line uses the tagline "A Real American Hero"?
+
+- [ ] Hello Kitty
+- [ ] My Little Pony
+- [x] G.I. Joe
+
+#### Thomas Chippendale is known for his work in what discipline?
+
+- [x] Furniture Making
+- [ ] Dance
+- [ ] Painting
+
+#### What rock legend is known for hits like "Purple Haze", "The Wind Cries Mary", and "Crosstown Traffic"?
+
+- [ ] Elvis Presley
+- [ ] Eddie Van Halen
+- [x] Jimi Hendrix
+
+#### For over 20 years, a popular online challenge has involved trying to swallow a spoonful of what substance without liquid?
+
+- [x] Cinnamon
+- [ ] Cereal
+- [ ] Celery
+
+#### Which of these is NOT the name of a galaxy sector in Star Wars?
+
+- [ ] Sluis
+- [ ] Anoat
+- [x] Meela
+
+#### Which of the following time capsules contains a pair of Ray Charles's sunglasses?
+
+- [x] The National Millennium Time Capsule
+- [ ] The Nickelodeon Time Capsule
+- [ ] The World's Largest Time Capsule
+
+#### Eggos area a line of what frozen food?
+
+- [ ] French Fries
+- [x] Waffles
+- [ ] Vegetables
+
+#### Kanji is used as a written language primarily in which country?
+
+- [x] Japan
+- [ ] Ireland
+- [ ] Greenland
+
+#### B.B. King is known for which genre of music?
+
+- [ ] Classical
+- [x] Blues
+- [ ] Punk
+
+#### What's the oldest soccer club recognized by FIFA?
+
+- [ ] Manchester United
+- [ ] Cray Wanderers
+- [x] Sheffield F.C.
+
+#### The Firm, The Pelican Brief, and The Rainmaker are all movie adaptations of books by what author?
+
+- [x] John Grisham
+- [ ] Louis L'Amour
+- [ ] Michael Crichton
+
+#### Due to trademark issues, Little Caesar's can't use the slogan "Pizza Pizza" in which country?
+
+- [ ] Italy
+- [ ] England
+- [x] Canada
+
+#### Yoshi is the dinosaur sidekick of which video game character?
+
+- [x] Mario
+- [ ] Kid Icarus
+- [ ] Mega Man
+
+#### What was the name of the first successfully cloned animal?
+
+- [ ] Darwin
+- [x] Dolly
+- [ ] Dino
+
+#### Charli d'Amelio became popular on which platform?
+
+- [ ] Vine
+- [ ] Periscope
+- [x] TikTok
+
+#### During which Jewish holiday do observers fast?
+
+- [x] Yom Kippur
+- [ ] Hanukkah
+- [ ] Passover
+
+#### S.P.D.S.V.B.E.E.V. is an abbreviation of a Latin phrase that roughly translates to what?
+
+- [x] Hello
+- [ ] Goodbye
+- [ ] I love you
+
+#### Which of these games has a "Genus" edition?
+
+- [ ] Scrabble
+- [ ] Settlers of Catan
+- [x] Trivial Pursuit
+
+#### Well, it's one for the money, two for the show. Three to get ready now go, cat, go.
+
+- [x] Blue Suede Shoes
+- [ ] Bohemian Rhapsody
+- [ ] Twinkle Twinkle Little Star
+
+#### Jeremiah was a bullfrog; was a good friend of mine...
+
+- [ ] Mama Told Me
+- [x] Joy To The World
+- [ ] One
+
+#### As first I was afraid, I was petrified; Kept thinking I could never live without you by my side...
+
+- [x] I Will Survive
+- [ ] Eye of the Tiger
+- [ ] The Touch
+
+#### There must be some kind of way outta here, said the joker to the thief...
+
+- [ ] If 6 Was 9
+- [ ] Crosstown Traffic
+- [x] All Along The Watchtower
+
+#### I got my first real six-string, bought it at the five-and-dime; Played it till my fingers bled...
+
+- [ ] Glory Days
+- [x] Summer of '69
+- [ ] Pink Houses
+
+#### Don't call it a comeback! I been here for years, I'm rockin' my peers, puttin' suckers in fear...
+
+- [x] Mama Said Knock You Out
+- [ ] The Breaks
+- [ ] Miami
+
+#### Josie's on a vacation far away; Come around and talk it over. So many things that I wanna say...
+
+- [ ] I Need You Tonight
+- [ ] Modern Love
+- [x] Your Love
+
+#### So take a good look at my face; You'll see my smile looks out of place...
+
+- [ ] Tears of a Clown
+- [x] The Tracks of My Tears
+- [ ] Crying
+
+#### You got mud on your face, you big disgrace, Kicking your can all over the place...
+
+- [x] We Will Rock You
+- [ ] Bicycle Race
+- [ ] You're My Best Friend
+
+#### If happy little bluebirds fly beyond the rainbow, why, oh why can't I?
+
+- [ ] She's A Rainbow
+- [x] Somewhere Over The Rainbow
+- [ ] The Rainbow Connection
+
+#### Which ceral mascot is a toucan telling you to follow your nose?
+
+- [x] Froot Loops
+- [ ] Rice Krispies
+- [ ] Oatmeal
+
+#### What were originally carved to make Jack-O-Lanterns?
+
+- [ ] Gourds
+- [ ] Potatoes
+- [x] Turnips
+
+#### What Disney movie features a character named Kaa?
+
+- [ ] Peter Pan
+- [ ] The Lion King
+- [x] The Jungle Book
+
+#### In the original "Ghostbusters", who's the last Ghostbuster added to the team?
+
+- [ ] Peter Venkman
+- [ ] Ray Stantz
+- [x] Winston Zeddemore
+
+#### What is the capital of Arkansas? (REPEATED QUESTION WITH DIFFERENT ANSWER ORDERS)
+
+- [x] Little Rock
+- [ ] Bentonville
+- [ ] Fort Smith
+
+#### A town in Texas shares its name with what Hostess snack cake?
+
+- [x] Ding Dong
+- [ ] Ho Ho
+- [ ] Suzy Q
+
+#### What 1960's dance became a craze thanks in part to a Chubby Checker song?
+
+- [ ] The Freddie
+- [x] The Twist
+- [ ] The Watushi
+
+#### Which company's logo contains the color red?
+
+- [ ] Starbucks
+- [ ] Subway
+- [x] Mastercard
+
+#### Where does the show "Pawn Stars" take place?
+
+- [ ] The Yukon
+- [x] Las Vegas
+- [ ] On a cruise ship
+
+#### Walt Disney won a Best Picture Oscar for his adaptation of what P.L. Travers book?
+
+- [ ] The Mouse and the Motorcycle
+- [x] Mary Poppins
+- [ ] Holiday Inn
+
+#### Who is the lead singer of Pearl Jam?
+
+- [ ] Snoop Dogg
+- [x] Eddie Vedder
+- [ ] Willie Nelson
+
+#### What is the name of The Joker's girlfriend?
+
+- [ ] Cheetah
+- [x] Harley Quinn
+- [ ] Moira TacTaggart
+
+#### Which celebrity entrepreneur began his career posting YouTube videos about wine?
+
+- [x] Gary Vaynerchuk
+- [ ] Mark Cuban
+- [ ] Seth Godin
+
+#### "The Pips" were the backup singers for which soul diva?
+
+- [ ] Aretha Franklin
+- [ ] Dionne Warwick
+- [x] Gladys Knight
+
+#### At the end of "A Charlie Brown Christmas", which book of the King James Bible does Linus quote?
+
+- [ ] Genesis
+- [x] Luke 2
+- [ ] Exodus
+
+#### What religious capital is also the smallest country in the world?
+
+- [x] Vatican City
+- [ ] England
+- [ ] Jerusalem
+
+#### Holding your breath and being startled are believed to cure what ailment?
+
+- [ ] Common Cold
+- [ ] Shingles
+- [x] Hiccups
+
+#### Who painted the ceiling of the Sistine Chapel?
+
+- [x] Michelangelo
+- [ ] Raphael
+- [ ] Donatello
+
+#### In the 21st century, high school students started a tradition of elaborate proposals to attend what event?
+
+- [ ] School Fair
+- [x] Prom
+- [ ] Gradudation
+
+#### What non-alcoholic Mexican drink is made of rice, cinnamon, and sugar?
+
+- [x] Horchata
+- [ ] Cafe de Olla
+- [ ] Tamarindo
+
+#### Budapest is the capital of what country?
+
+- [ ] Germany
+- [ ] Austria
+- [x] Hungary
+
+#### Who wrote a book that started with "It was the best of times, it was the worst of times"?
+
+- [ ] Danielle Steele
+- [x] Charles Dickens
+- [ ] Ray Bradbury
+
+#### When a character in a movie looks at the camera and speaks directly to the audience, what are they breaking?
+
+- [x] The Foruth Wall
+- [ ] Bad
+- [ ] 2: Electric Boogaloo
+
+#### Whose hits include "Crocodile Rock", "Your Song", and "Candle in the Wind"?
+
+- [ ] Billy Joel
+- [ ] Alicia Keys
+- [x] Elton John
+
+#### What city is home to the largest airport in the U.S. by land area?
+
+- [ ] Chicago
+- [ ] Los Angeles
+- [x] Denver
+
+#### In a game of Jacks, what are you trying to do with the jacks?
+
+- [ ] Step on them
+- [x] Pick them up
+- [ ] Eat them
+
+#### The value of Pi begins with which 3 numbers?
+
+- [x] 3.14
+- [ ] 4.11
+- [ ] 8.88
+
+#### What is the name of college basketball's annual championship tournament?
+
+- [ ] April Insanity
+- [ ] February Freeze Out
+- [x] March Madness
+
+#### If you're "hitting the links", what sport are you playing?
+
+- [x] Golf
+- [ ] High Jump
+- [ ] Tennis
+
+#### "Welcome to the Jungle" and "Sweet Child O' Mine" appeared on which Guns N' Roses album?
+
+- [x] Appetite for Destruction
+- [ ] Lies
+- [ ] The Spaghetti Incident
+
+#### Which of the following NBA Hall of Famers was selected latest in their respective draft?
+
+- [ ] Alex English
+- [x] Spencer Haywood
+- [ ] Dennis Rodman
+
+#### According to his song, what does Baloo always look for?
+
+- [ ] Man's red flower
+- [ ] A good time
+- [x] The bare necessities
+
+#### In which reality show do people propose to one another sight unseen?
+
+- [ ] The Bachelor
+- [ ] Love Connection
+- [x] Love Is Blind
+
+#### In which sport do you use a shuttlecock?
+
+- [x] Badminton
+- [ ] Billiards
+- [ ] Basketball
+
+#### Maleficent is the vilain to which Disney princess?
+
+- [ ] Cinderella
+- [ ] Moana
+- [x] Aurora
+
+#### Which of the following emotions does NOT appear in "Inside Out"?
+
+- [ ] Joy
+- [x] Surprise
+- [ ] Anger
+
+#### Which of the following characters are NOT part of Disney's "Fab Five"?
+
+- [x] Chip
+- [ ] Goofy
+- [ ] Minnie Mouse
+
+#### In "101 Dalmatians", how many puppies are in Perdita's litter?
+
+- [ ] 99
+- [ ] 10
+- [x] 15
+
+#### According to the Ghost Host, how many happy haunts reside in Disney's Haunted MAnsion?
+
+- [x] 999
+- [ ] 99
+- [ ] 9
+
+#### In "Iron Man", where does Tony Stark build his first suit of armor?
+
+- [ ] In space
+- [x] In a cave
+- [ ] Cleveland
+
+#### "Treasure of the Lost Lamp" is a film based on which Disney afternoon show?
+
+- [x] Duck Tales
+- [ ] Chip 'n Dale: Rescue Rangers
+- [ ] Darkwing Duck
+
+#### In the Disney Channel series of the same name, who is Miley Stewart's pop star alter ego?
+
+- [ ] Raven
+- [ ] Kim Possible
+- [x] Hannah Montana
+
+#### In the original "Fantasia", who was the Sorcerer's Apprentice?
+
+- [ ] Donald Duck
+- [x] Mickey Mouse
+- [ ] Goofy
+
+#### In the Star Wars movies, which villain does Anakin Skywalker become?
+
+- [ ] Darth Tyranus
+- [ ] Darth Sidious
+- [x] Darth Vader
