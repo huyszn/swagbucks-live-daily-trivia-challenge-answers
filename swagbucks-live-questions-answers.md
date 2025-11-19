@@ -23539,12 +23539,6 @@
 - [ ] Black Bird
 - [x] Ted Lasso
 
-#### Which Brady Bunch actor is the oldest?
-
-- [x] Christopher Knight
-- [ ] Eve Plumb
-- [ ] Mike Lookinland
-
 #### What sport is Tony Hawk known for?
 
 - [ ] Motorcross
@@ -55393,12 +55387,6 @@
 - [ ] Carrie Underwood
 - [ ] Reba McEntire
 
-#### Which Big Bang Theory actor is the oldest?
-
-- [ ] Johnny Galecki
-- [x] Jim Parsons
-- [ ] Simon Helberg
-
 #### What automotive brand once claimed to be "The Heartbeat of America"?
 
 - [x] Chevrolet
@@ -70066,12 +70054,6 @@
 - [x] Duran Duran
 - [ ] Guns 'N Roses
 
-#### Which Brady Bunch actor is the oldest?
-
-- [x] Christopher Knight
-- [ ] Eve Plumb
-- [ ] Mike Lookinland
-
 #### What style of pants have additional pockets on the legs?
 
 - [ ] Harem pants
@@ -76587,3 +76569,27 @@
 - [ ] The Four Seasons
 - [ ] Ritz Carlton
 - [x] Motel 6
+
+#### What form of street art primarily uses cans of spray paint?
+
+- [ ] Fresco
+- [x] Graffitti
+- [ ] Sculpture
+
+#### Which of the following is a county in Hawaii?
+
+- [ ] Los Angeles
+- [x] Kauai
+- [ ] Philadelphia
+
+#### Rebecca Black became an internet sensation in 2011 with a song about what weekday?
+
+- [ ] Monday
+- [ ] Wednesday
+- [x] Friday
+
+#### Goofus and Gallant appear in which children's magazine?
+
+- [ ] SI for Kids
+- [x] Highlights for Children
+- [ ] This Week Junior
