@@ -76653,3 +76653,27 @@
 - [ ] Stratego
 - [x] Cribbage
 - [ ] Blokus
+
+#### The goo emitted by a beaver's butt is sometimes used in what flavoring?
+
+- [ ] Anise
+- [x] Vanilla
+- [ ] Lemon
+
+#### Which of the following landlocked countries is entirely contained within another country?
+
+- [x] Lesotho
+- [ ] Burkina Faso
+- [ ] Mongolia
+
+#### What video game features a giant ape throwing barrels?
+
+- [ ] Pac Man
+- [ ] Defender
+- [x] Donkey Kong
+
+#### In 2018, what Battle Royale game featured a "Thanos Mode" and emotes like Orange Crush?
+
+- [ ] Stardew Valley
+- [ ] Madden 19
+- [x] Fortnite
