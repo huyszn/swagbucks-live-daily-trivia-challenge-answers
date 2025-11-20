@@ -76593,3 +76593,63 @@
 - [ ] SI for Kids
 - [x] Highlights for Children
 - [ ] This Week Junior
+
+#### In Scrabble, what are you trying to do with your tiles?
+
+- [x] Make words
+- [ ] Buy carrots
+- [ ] Drive a car
+
+#### Which of the following was NOT one of the categories of the original Trivial Pursuit?
+
+- [ ] Entertainment
+- [ ] Sports & Leisure
+- [x] Guys Named Clive
+
+#### Outside of opening, which of the following Chess pieces can ONLY move one space at a time?
+
+- [ ] Queen
+- [x] Pawn
+- [ ] Bishop
+
+#### Which of the following games features a doubling cube?
+
+- [ ] Parcheesi
+- [ ] Mancala
+- [x] Backgammon
+
+#### In which board game is your objective to sink all of your opponent's vessels?
+
+- [x] Battleship
+- [ ] Sorry!
+- [ ] Chutes and Ladders
+
+#### The game of checkers is also known by what other name?
+
+- [ ] Viking Chess
+- [x] Draughts
+- [ ] Nine Men's Morris
+
+#### The Monopoly card ordering you to go directly to jail tells you not to pass which space?
+
+- [x] Go
+- [ ] Boardwalk
+- [ ] Chance
+
+#### Since 1982, Robert A. Wardhaugh has continuously been playing which tabletop game?
+
+- [ ] Axis & Allies
+- [x] Dungeons & Dragons
+- [ ] Risk
+
+#### Which of the following board games comes with modeling clay and whiteboards and markers?
+
+- [x] Cranium
+- [ ] Candy Land
+- [ ] Othello
+
+#### Which of the following is a playing card game?
+
+- [ ] Stratego
+- [x] Cribbage
+- [ ] Blokus
