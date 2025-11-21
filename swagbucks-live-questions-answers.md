@@ -76737,3 +76737,21 @@
 - [ ] Who Wants To Be A Millionaire?
 - [ ] High Rollers
 - [x] The Price Is Right
+
+#### In 1977, NASA sent what exploratory craft into space?
+
+- [x] Voyager 1
+- [ ] Hubble Telescope
+- [ ] International Space Station
+
+#### Brangelina was the nickname for what celebrity couple?
+
+- [ ] Tom Hanks & Rita Wilson
+- [x] Brad Pitt & Angelina Jolie
+- [ ] Ben Affleck & Jennifer Lopez
+
+#### What famous detective lived at 221B Baker Street In London?
+
+- [ ] Miss Marple
+- [ ] Jessica Fletcher
+- [x] Sherlock Holmes
