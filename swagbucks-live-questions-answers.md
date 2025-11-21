@@ -76677,3 +76677,63 @@
 - [ ] Stardew Valley
 - [ ] Madden 19
 - [x] Fortnite
+
+#### Which fast food chain sells the Cheesy Gordita Crunch?
+
+- [ ] Chipotie
+- [x] Taco Bell
+- [ ] Burger King
+
+#### Where would you go to visit Yellowstone National Park?
+
+- [x] Wyoming
+- [ ] Rhode Island
+- [ ] Florida
+
+#### Which U.S. Revolutionary War military officer's name is synonymous with being a traitor?
+
+- [ ] George Washington
+- [ ] Horatio Gates
+- [x] Benedict Arnold
+
+#### As of September 1st, 2025, who was the last MLB pitcher to throw a perfect game?
+
+- [x] Domingo German
+- [ ] Matt Cain
+- [ ] Felix Hernandez
+
+#### In Sierra Leone, you have to play a board game before you can receive what legal document?
+
+- [ ] Marriage Certificate
+- [ ] Passport
+- [x] Driver's License
+
+#### Who directed "Psycho", "The Birds", and "Dial M For Murder"?
+
+- [x] Alfred Hitchcock
+- [ ] Clive Barker
+- [ ] Wes Craven
+
+#### As of September 2025, which of the following non-Brits has been named an honorary knight by the OBE?
+
+- [ ] George Clooney
+- [x] Steve Spielberg
+- [ ] Sally Field
+
+#### Despite their name, french fries actually originated in which country?
+
+- [x] Belgium
+- [ ] France
+- [ ] China
+
+#### What's the term for words that sound like what they mean?
+
+- [ ] Simile
+- [ ] Metaphor
+- [x] Onomatopoeia
+
+#### Which of the following game shows is hosted by Drew Carey?
+
+- [ ] Who Wants To Be A Millionaire?
+- [ ] High Rollers
+- [x] The Price Is Right
