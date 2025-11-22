@@ -23539,12 +23539,6 @@
 - [ ] Black Bird
 - [x] Ted Lasso
 
-#### Which Brady Bunch actor is the oldest?
-
-- [x] Christopher Knight
-- [ ] Eve Plumb
-- [ ] Mike Lookinland
-
 #### What sport is Tony Hawk known for?
 
 - [ ] Motorcross
@@ -55393,12 +55387,6 @@
 - [ ] Carrie Underwood
 - [ ] Reba McEntire
 
-#### Which Big Bang Theory actor is the oldest?
-
-- [ ] Johnny Galecki
-- [x] Jim Parsons
-- [ ] Simon Helberg
-
 #### What automotive brand once claimed to be "The Heartbeat of America"?
 
 - [x] Chevrolet
@@ -70066,12 +70054,6 @@
 - [x] Duran Duran
 - [ ] Guns 'N Roses
 
-#### Which Brady Bunch actor is the oldest?
-
-- [x] Christopher Knight
-- [ ] Eve Plumb
-- [ ] Mike Lookinland
-
 #### What style of pants have additional pockets on the legs?
 
 - [ ] Harem pants
@@ -76587,3 +76569,189 @@
 - [ ] The Four Seasons
 - [ ] Ritz Carlton
 - [x] Motel 6
+
+#### What form of street art primarily uses cans of spray paint?
+
+- [ ] Fresco
+- [x] Graffitti
+- [ ] Sculpture
+
+#### Which of the following is a county in Hawaii?
+
+- [ ] Los Angeles
+- [x] Kauai
+- [ ] Philadelphia
+
+#### Rebecca Black became an internet sensation in 2011 with a song about what weekday?
+
+- [ ] Monday
+- [ ] Wednesday
+- [x] Friday
+
+#### Goofus and Gallant appear in which children's magazine?
+
+- [ ] SI for Kids
+- [x] Highlights for Children
+- [ ] This Week Junior
+
+#### In Scrabble, what are you trying to do with your tiles?
+
+- [x] Make words
+- [ ] Buy carrots
+- [ ] Drive a car
+
+#### Which of the following was NOT one of the categories of the original Trivial Pursuit?
+
+- [ ] Entertainment
+- [ ] Sports & Leisure
+- [x] Guys Named Clive
+
+#### Outside of opening, which of the following Chess pieces can ONLY move one space at a time?
+
+- [ ] Queen
+- [x] Pawn
+- [ ] Bishop
+
+#### Which of the following games features a doubling cube?
+
+- [ ] Parcheesi
+- [ ] Mancala
+- [x] Backgammon
+
+#### In which board game is your objective to sink all of your opponent's vessels?
+
+- [x] Battleship
+- [ ] Sorry!
+- [ ] Chutes and Ladders
+
+#### The game of checkers is also known by what other name?
+
+- [ ] Viking Chess
+- [x] Draughts
+- [ ] Nine Men's Morris
+
+#### The Monopoly card ordering you to go directly to jail tells you not to pass which space?
+
+- [x] Go
+- [ ] Boardwalk
+- [ ] Chance
+
+#### Since 1982, Robert A. Wardhaugh has continuously been playing which tabletop game?
+
+- [ ] Axis & Allies
+- [x] Dungeons & Dragons
+- [ ] Risk
+
+#### Which of the following board games comes with modeling clay and whiteboards and markers?
+
+- [x] Cranium
+- [ ] Candy Land
+- [ ] Othello
+
+#### Which of the following is a playing card game?
+
+- [ ] Stratego
+- [x] Cribbage
+- [ ] Blokus
+
+#### The goo emitted by a beaver's butt is sometimes used in what flavoring?
+
+- [ ] Anise
+- [x] Vanilla
+- [ ] Lemon
+
+#### Which of the following landlocked countries is entirely contained within another country?
+
+- [x] Lesotho
+- [ ] Burkina Faso
+- [ ] Mongolia
+
+#### What video game features a giant ape throwing barrels?
+
+- [ ] Pac Man
+- [ ] Defender
+- [x] Donkey Kong
+
+#### In 2018, what Battle Royale game featured a "Thanos Mode" and emotes like Orange Crush?
+
+- [ ] Stardew Valley
+- [ ] Madden 19
+- [x] Fortnite
+
+#### Which fast food chain sells the Cheesy Gordita Crunch?
+
+- [ ] Chipotie
+- [x] Taco Bell
+- [ ] Burger King
+
+#### Where would you go to visit Yellowstone National Park?
+
+- [x] Wyoming
+- [ ] Rhode Island
+- [ ] Florida
+
+#### Which U.S. Revolutionary War military officer's name is synonymous with being a traitor?
+
+- [ ] George Washington
+- [ ] Horatio Gates
+- [x] Benedict Arnold
+
+#### As of September 1st, 2025, who was the last MLB pitcher to throw a perfect game?
+
+- [x] Domingo German
+- [ ] Matt Cain
+- [ ] Felix Hernandez
+
+#### In Sierra Leone, you have to play a board game before you can receive what legal document?
+
+- [ ] Marriage Certificate
+- [ ] Passport
+- [x] Driver's License
+
+#### Who directed "Psycho", "The Birds", and "Dial M For Murder"?
+
+- [x] Alfred Hitchcock
+- [ ] Clive Barker
+- [ ] Wes Craven
+
+#### As of September 2025, which of the following non-Brits has been named an honorary knight by the OBE?
+
+- [ ] George Clooney
+- [x] Steve Spielberg
+- [ ] Sally Field
+
+#### Despite their name, french fries actually originated in which country?
+
+- [x] Belgium
+- [ ] France
+- [ ] China
+
+#### What's the term for words that sound like what they mean?
+
+- [ ] Simile
+- [ ] Metaphor
+- [x] Onomatopoeia
+
+#### Which of the following game shows is hosted by Drew Carey?
+
+- [ ] Who Wants To Be A Millionaire?
+- [ ] High Rollers
+- [x] The Price Is Right
+
+#### In 1977, NASA sent what exploratory craft into space?
+
+- [x] Voyager 1
+- [ ] Hubble Telescope
+- [ ] International Space Station
+
+#### Brangelina was the nickname for what celebrity couple?
+
+- [ ] Tom Hanks & Rita Wilson
+- [x] Brad Pitt & Angelina Jolie
+- [ ] Ben Affleck & Jennifer Lopez
+
+#### What famous detective lived at 221B Baker Street In London?
+
+- [ ] Miss Marple
+- [ ] Jessica Fletcher
+- [x] Sherlock Holmes
