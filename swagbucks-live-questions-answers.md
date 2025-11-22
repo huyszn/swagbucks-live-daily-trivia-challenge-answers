@@ -76755,3 +76755,15 @@
 - [ ] Miss Marple
 - [ ] Jessica Fletcher
 - [x] Sherlock Holmes
+
+#### Which actress once hinted that she dropped out of Pixar's "Brave" because she dropped out of Pixar's "brave" because she couldn't do a Scottish accent?
+
+- [x] Reese Witherspoon
+- [ ] Alicia Silverstone
+- [ ] Rashida Jones
+
+#### What cookie brand's offerings include a "Double Stuf" version?
+
+- [ ] Nila Wafers
+- [ ] Dunkaroos
+- [x] Oreos
