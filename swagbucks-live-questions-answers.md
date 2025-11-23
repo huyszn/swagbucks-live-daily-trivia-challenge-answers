@@ -64738,7 +64738,7 @@
 - [x] Keep her eyes shut
 - [ ] Whistle
 
-#### In 2016, Beyonce, Drake, and dele all sold fewer CDs than which artist?
+#### In 2016, Beyonce, Drake, and Adele all sold fewer CDs than which artist?
 
 - [ ] "Weird" Al Yankovic
 - [x] Mozart
@@ -76767,3 +76767,21 @@
 - [ ] Nila Wafers
 - [ ] Dunkaroos
 - [x] Oreos
+
+#### What color does NOT appear on a standard Twiser board?
+
+- [ ] Red
+- [x] Arsenic
+- [ ] Green
+
+#### What brand was known to "Take a licking and keep on ticking"?
+
+- [ ] Rolex
+- [ ] Swatch
+- [x] Timex
+
+#### What is the dot over a lowercase i or j called?
+
+- [x] Tittle
+- [ ] Tattle
+- [ ] Dottie
