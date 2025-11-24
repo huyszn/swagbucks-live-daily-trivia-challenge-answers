@@ -76768,7 +76768,7 @@
 - [ ] Dunkaroos
 - [x] Oreos
 
-#### What color does NOT appear on a standard Twiser board?
+#### What color does NOT appear on a standard Twister board?
 
 - [ ] Red
 - [x] Arsenic
@@ -76785,3 +76785,21 @@
 - [x] Tittle
 - [ ] Tattle
 - [ ] Dottie
+
+#### What color is Elmo?
+
+- [ ] Purple
+- [x] Red
+- [ ] Blue
+
+#### In the movie "The Shawshank Redemption," what is the name of the main character?
+
+- [x] Andy Dufresne
+- [ ] Warden Norton
+- [ ] Bogs Diamond
+
+#### Who was the third co-founder of Apple Computers?
+
+- [x] Ronald Wayne
+- [ ] Tim Cook
+- [ ] Bill Fernandez
