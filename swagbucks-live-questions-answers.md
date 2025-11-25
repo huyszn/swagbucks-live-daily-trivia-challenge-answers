@@ -76803,3 +76803,63 @@
 - [x] Ronald Wayne
 - [ ] Tim Cook
 - [ ] Bill Fernandez
+
+#### What insurance company uses a Gecko as a mascot?
+
+- [ ] Farmers
+- [ ] Allstate
+- [x] Geico
+
+#### What river forms a border between Texas and Mexico?
+
+- [ ] Danube
+- [x] Rio Grande
+- [ ] Nile
+
+#### What Apple TV series is about people who have their work and personal lives surgically separated?
+
+- [x] Severance
+- [ ] The Morning Show
+- [ ] Stick
+
+#### What popular soft drink was invented in Atlanta, Georgia?
+
+- [ ] Sprite
+- [ ] Root Beer
+- [x] Coca-Cola
+
+#### Hound Dog, Jailhouse Rock, and Suspicious Minds are all hit singles for which singer?
+
+- [ ] David Bowie
+- [x] Elvis Presley
+- [ ] Lionel Richie
+
+#### As of October 2025, which MLB team does Shohei Ohtani play for?
+
+- [x] Los Angeles Dodgers
+- [ ] Detroit Tigers
+- [ ] Los Angeles Angels
+
+#### Being "Apron up", "Gravid", or "In the spud line" are all old terms meaning someone is what?
+
+- [ ] Broke
+- [ ] Hungry
+- [x] Pregnant
+
+#### Which of the following words is a palindrome?
+
+- [ ] Villainy
+- [x] Racecar
+- [ ] Boom
+
+#### In which of these party games is one of the participants blindfolded?
+
+- [x] Pin the Tail on the Donkey
+- [ ] Spin the Bottle
+- [ ] Musical Chairs
+
+#### What is the National Bird of the United States?
+
+- [ ] Pelican
+- [ ] Barn Owl
+- [x] Bald Eagle
