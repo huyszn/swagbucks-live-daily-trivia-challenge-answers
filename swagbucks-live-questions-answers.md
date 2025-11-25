@@ -22474,8 +22474,8 @@
 #### The renowned marble Statue of David is housed in a museum in which city?
 
 - [ ] Paris, France
-- [x] New York, New York
-- [ ] Florence, Italy
+- [ ] New York, New York
+- [x] Florence, Italy
 
 #### Which of the folowing dishes is a type of sandwich?
 
@@ -76863,3 +76863,9 @@
 - [ ] Pelican
 - [ ] Barn Owl
 - [x] Bald Eagle
+
+#### Which of these drinks typically contains alcohol?
+
+- [x] Martini
+- [ ] Grape Juice
+- [ ] Milkshake
