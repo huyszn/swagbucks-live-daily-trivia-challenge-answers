@@ -27241,12 +27241,6 @@
 - [x] Kareem Abdul-Jabbar
 - [ ] Tim Duncan
 
-#### March 31, 1848 is widley considered to be the start of what movement?
-
-- [ ] Mormonism
-- [x] Spiritualism
-- [ ] The Gold Rush
-
 #### What Hebrew word is another term used for the Hanukkah menorah?
 
 - [x] Chanukiah
@@ -76941,3 +76935,27 @@
 - [x] Kmart
 - [ ] Woolworth
 - [ ] Circuit City
+
+#### Which team pulled off the Immaculate Reception in 1972?
+
+- [ ] Carolina Panthers
+- [x] Pittsburgh Steelers
+- [ ] Houston Texans
+
+#### Which of the following Disney animated films has NOT yet had a live action feature version?
+
+- [ ] Beauty and the Beast
+- [ ] Cinderella
+- [x] The Black Cauldron
+
+#### Which car manufacturer was the first to include seat belts as a standard feature in their vehicles?
+
+- [ ] Ford
+- [x] Saab
+- [ ] Volvo
+
+#### Aquafresh, Colgate, and Smile are all brands of what household product?
+
+- [x] Toothpaste
+- [ ] Aluminum Foil
+- [ ] Window Cleaner
