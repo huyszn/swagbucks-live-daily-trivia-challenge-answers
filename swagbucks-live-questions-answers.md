@@ -76869,3 +76869,75 @@
 - [x] Martini
 - [ ] Grape Juice
 - [ ] Milkshake
+
+#### According to the grammar rule, it's "I before E" except after which letter?
+
+- [ ] X
+- [x] C
+- [ ] R
+
+#### What phenomenon occurs when the moon blocks out the sun?
+
+- [ ] Black Hole
+- [ ] Singularity
+- [x] Eclipse
+
+#### What retail chain's logo is made up of two circles?
+
+- [ ] Walmart
+- [ ] Cabela's
+- [x] Target
+
+#### Which retail site has Prime Day Deals?
+
+- [x] Amazon
+- [ ] Etsy
+- [ ] Temu
+
+#### What is the name of Best Buy's technical support service?
+
+- [ ] Nerd Alert
+- [x] Geek Squad
+- [ ] Robotech
+
+#### What chain uses the slogan "How Doers Get More Done"?
+
+- [ ] Lowe's
+- [ ] Orchard Supply Hardware
+- [x] The Home Depot
+
+#### Which of the following stores is known for selling underwear and lingerie?
+
+- [x] Victoria's Secret
+- [ ] Auntie Anne's
+- [ ] Things Remembered
+
+#### What is the name for the shopping holiday held the day after American Thanksgiving?
+
+- [ ] White Saturday
+- [x] Black Friday
+- [ ] Purple Sunday
+
+#### What year was the first Black Friday sale held?
+
+- [ ] 1981
+- [x] 1891
+- [ ] 1924
+
+#### What category of store is Costco?
+
+- [x] Warehouse
+- [ ] Convenience
+- [ ] Specialty
+
+#### Which of the following forms of payment is considered "contactless"?
+
+- [ ] Check
+- [x] Apple Pay
+- [ ] Cash
+
+#### What retail chain was known for its Blue Light Specials?
+
+- [x] Kmart
+- [ ] Woolworth
+- [ ] Circuit City
