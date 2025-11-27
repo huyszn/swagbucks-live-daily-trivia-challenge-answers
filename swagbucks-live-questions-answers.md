@@ -76959,3 +76959,63 @@
 - [x] Toothpaste
 - [ ] Aluminum Foil
 - [ ] Window Cleaner
+
+#### Which of the following meats is NOT part of a Turducken?
+
+- [ ] Chicken
+- [ ] Duck
+- [x] Prime Rib
+
+#### The combination of ginger, cloves, cinnamon, nutmeg, and allspice creates what autumnal flavor?
+
+- [x] Pumpkin Spice
+- [ ] Caramel
+- [ ] Sweat Potato
+
+#### According to Butterball, at what internal temperature Fahrenheit is cooked Turkey considered safe to eat?
+
+- [ ] 32
+- [x] 170
+- [ ] 99
+
+#### On Christmas Eve, Italians celebrate with a meal called "Feast of the Seven" what?
+
+- [ ] Cookies
+- [ ] Reindeer
+- [x] Fishes
+
+#### What starch is often served "creamed" as a holiday side dish?
+
+- [x] Corn
+- [ ] Linguini
+- [ ] Rolls
+
+#### Which holiday staple was invented by Campbell's Soup as a marketing campaign?
+
+- [ ] Candied Yams
+- [x] Green Bean Casserole
+- [ ] Figgy Pudding
+
+#### During Thanksgiving and Christmas, what red berry is traditionally made into sauces and relishes?
+
+- [ ] Strawberry
+- [ ] Raspberry
+- [x] Cranberry
+
+#### Where in Italy did the Panettone originate?
+
+- [ ] Rome
+- [x] Milan
+- [ ] Florence
+
+#### Which of the following is NOT a traditional Christmas cookie shape?
+
+- [ ] Tree
+- [ ] Star
+- [x] Penguin
+
+#### Which of the following foods is typically served during Hanukkah?
+
+- [x] Potato Latkes
+- [ ] Apples and Honey
+- [ ] Matzo
