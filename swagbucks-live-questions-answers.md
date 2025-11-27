@@ -77019,3 +77019,27 @@
 - [x] Potato Latkes
 - [ ] Apples and Honey
 - [ ] Matzo
+
+#### Which of the following sci-fi radio dramas hit the airwaves first?
+
+- [x] Buck Rogers
+- [ ] Flash Gordon
+- [ ] Beyond Tomorrow
+
+#### What is the term for cutting food into long, thin strips?
+
+- [x] Julienne
+- [ ] Chop
+- [ ] Dice
+
+#### In the "Scream" saga, what question does Ghostface often ask his victims over the phone?
+
+- [ ] "How's your news?"
+- [ ] "Hot enough for you?"
+- [x] "What's your favorite scary movie?"
+
+#### In "Scrooged", what does Bill Murray's character for a living?
+
+- [x] TV Executive
+- [ ] Bank Executive
+- [ ] Janitor
