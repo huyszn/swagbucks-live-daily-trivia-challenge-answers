@@ -77043,3 +77043,15 @@
 - [x] TV Executive
 - [ ] Bank Executive
 - [ ] Janitor
+
+#### In the Lord of the Rings books, where do the Hobbits live?
+
+- [ ] Rohan
+- [ ] The Shire
+- [x] Mordor
+
+#### The first undisputed World Chess Champion was born in which city?
+
+- [x] Prague
+- [ ] New York
+- [ ] Moscow
