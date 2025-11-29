@@ -77055,3 +77055,33 @@
 - [x] Prague
 - [ ] New York
 - [ ] Moscow
+
+#### Phrenologists believed they could determine personality and intelligence by studying what?
+
+- [ ] Palms
+- [x] Skulls
+- [ ] Blood
+
+#### Which band refers to their fans as an Army?
+
+- [ ] The Rolling Stones
+- [ ] Mumford & Sons
+- [x] KISS
+
+#### What empire arose in the Peruvian highlands around 1200 AD?
+
+- [ ] Aztec
+- [ ] Iroquois
+- [x] Inca
+
+#### Who is the author of the world's oldest existing valentine?
+
+- [ ] Julius Caesar
+- [x] Charles d'Orleans
+- [ ] William Shakespeare
+
+#### Which of the following is NOT typically part of a song?
+
+- [ ] Verse
+- [ ] Chorus
+- [x] Stamen
