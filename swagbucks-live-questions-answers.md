@@ -77085,3 +77085,27 @@
 - [ ] Verse
 - [ ] Chorus
 - [x] Stamen
+
+#### What English monarch famously had six wives?
+
+- [x] Henry VIII
+- [ ] Richard III
+- [ ] George II
+
+#### Where does "The Shawshank Redemption" take place?
+
+- [x] In Prison
+- [ ] On Mars
+- [ ] At a Fair
+
+#### According to Mental Floss, which of these movies led to the biggest percentage increase of dog registrations?
+
+- [ ] Lassie Come Home
+- [ ] Turner and Hooch
+- [x] The Shaggy Dog
+
+#### Which film was not nominated for the Best Picture Oscar in 2010?
+
+- [ ] Avatar
+- [ ] District 9
+- [x] Inception
