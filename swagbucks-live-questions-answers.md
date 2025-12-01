@@ -77109,3 +77109,21 @@
 - [ ] Avatar
 - [ ] District 9
 - [x] Inception
+
+#### Complete this saying: "A watched pot never _____"
+
+- [ ] Goes to prom
+- [ ] Gets the worm
+- [x] Boils
+
+#### Queer Eye's cast shares a nickname with a group of athletes from which college?
+
+- [ ] UNLV
+- [x] Michigan
+- [ ] Kansas
+
+#### Which of these actors was NOT considered for the role of Han Solo?
+
+- [ ] Al Pacino
+- [x] Steve McQueen
+- [ ] Sylvester Stallone
