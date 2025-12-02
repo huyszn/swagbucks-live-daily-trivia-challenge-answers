@@ -33865,7 +33865,7 @@
 - [ ] Cherry Cordial
 - [x] Marshmallow
 
-#### What is the width of the Staute of Liberty's waist?
+#### What is the width of the Statue of Liberty's waist?
 
 - [ ] 22 feet
 - [ ] 32 feet
@@ -60082,7 +60082,7 @@
 - [ ] Lisa
 - [x] Maggie
 
-#### Hugh Jackman won the role of Wolverine hen he was recommended for the job by what other actor?
+#### Hugh Jackman won the role of Wolverine when he was recommended for the job by what other actor?
 
 - [x] Russell Crowe
 - [ ] Tom Cruise
@@ -77187,3 +77187,21 @@
 - [ ] Last Friday Night
 - [ ] Hollaback Girl
 - [x] Party in the USA
+
+#### Which color rose would you give to communicate love at first sight?
+
+- [ ] Orange
+- [x] Lavender
+- [ ] Pink
+
+#### "Walk The Line" is a movie chronicling the love story of Johnny Cash and what other country singer?
+
+- [ ] Connie Stevens
+- [ ] Reba McEntire
+- [x] June Carter
+
+#### What are kids and grown ups supposed to do when crossing the street together?
+
+- [ ] Wave flags
+- [ ] Sing show tunes
+- [x] Hold hands
