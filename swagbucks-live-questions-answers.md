@@ -77127,3 +77127,63 @@
 - [ ] Al Pacino
 - [x] Steve McQueen
 - [ ] Sylvester Stallone
+
+#### May your days be merry and bright; And may all your Christmasses be white...
+
+- [ ] Happy Xmas (War is Over)
+- [x] White christmas
+- [ ] Winter Wonderland
+
+#### I believe the children are our future; Teach them well and let thme lead the way, show them all the beauty they possess inside.
+
+- [x] Greatest Love of All
+- [ ] I Wanna Dance With Somebody
+- [ ] So Emotional
+
+#### Go, shawty, it's your birthday - We gon' party like it's your birthday...
+
+- [ ] Low
+- [x] In da Club
+- [ ] Not Like Us
+
+#### Isn't she pretty, Truly the angel's best; Boy, I'm so happy, We have been heaven blessed...
+
+- [ ] Superstition
+- [ ] Living For The City
+- [x] Isn't She Lovely
+
+#### The ten-dollar Founding Father without a father; Got a lot farther by working a lot harder, By being a lot smarter
+
+- [ ] Chitty Chitty Bang Bang
+- [x] Alexander Hamilton
+- [ ] On My Own
+
+#### Strike up the band and make the firefiles dance - Silver moon's sparkling...
+
+- [ ] Stay
+- [ ] Building A Mystery
+- [x] Kiss Me
+
+#### Once upon a time I was falling in love, but now I'm only falling apart; nothing I can do...
+
+- [x] Total Eclipse of the Heart
+- [ ] Heartbreaker
+- [ ] Owner of a Lonely Heart
+
+#### Say it ain't so, I will not go; Turn the lights off, carry me home...
+
+- [ ] Fat Lip
+- [x] All The Small Things
+- [ ] In Too Deep
+
+#### Hangin' out the passenger side of his best friend's ride, trying to holla at me...
+
+- [ ] Waterfalls
+- [ ] Unpretty
+- [x] No Scrubs
+
+#### I hopped off the plane at LAX with a dream and my cardigan; Welcome to the land of fame excess - Am I gonna fit in?
+
+- [ ] Last Friday Night
+- [ ] Hollaback Girl
+- [x] Party in the USA
