@@ -77283,3 +77283,9 @@
 - [x] My Way
 - [ ] That's Life
 - [ ] Strangers In The Night
+
+#### In 1967, who appeared on the cover of the first issue of Rolling stone?
+
+- [ ] Jimi Hendrix
+- [x] John Lennon
+- [ ] Tina Turner
