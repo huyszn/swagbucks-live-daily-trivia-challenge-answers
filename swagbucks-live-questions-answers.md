@@ -77205,3 +77205,81 @@
 - [ ] Wave flags
 - [ ] Sing show tunes
 - [x] Hold hands
+
+#### Stefani Joanne Angelina Germanotta is better known by what stage name?
+
+- [ ] Sade
+- [ ] Madonna
+- [x] Lady Gaga
+
+#### The first Amtrak train traveled from New York to what city?
+
+- [x] Philadelphia
+- [ ] Chicago
+- [ ] Washington, D.C.
+
+#### Which of th Simpsons children is the youngest?
+
+- [x] Maggie
+- [ ] Lisa
+- [ ] Bart
+
+#### Yesterday; All my troubles seemed so far away, Now it looks as though they're here to stay...
+
+- [ ] Yesterday
+- [ ] Tomorrow Never Knows
+- [ ] Time Today
+
+#### Before the day I met you, life was so unkind But you're the key to my peace of mind...
+
+- [x] (You Make Me Feel Like) A Natural Woman
+- [ ] Respect
+- [ ] Chain of Fools
+
+#### Shake it, shake it (Okay), shake it, sugar; Shake it like a Polaroid picture...
+
+- [ ] So Fresh, So Clean
+- [ ] Ms. Jackson
+- [x] Hey Ya
+
+#### So goodbye, please don't cry; We both know I'm not what you, you need...
+
+- [x] I Will Always Love You
+- [ ] Love on the Rocks
+- [ ] Band on the Run
+
+#### (Wake me up) Wake me up inside, (I can't wake up) Wake me up inside, (Save me) Call my name and save me from the dark...
+
+- [ ] Enter Sandman
+- [ ] Daydream Believer
+- [x] Bring Me To Life
+
+#### Every little thing I do, Never seems enough for you; You don't want to lose it again, But I'm not like them...
+
+- [ ] Bye Bye Bye
+- [x] It's Gonna Be Me
+- [ ] Hangin' Tough
+
+#### Yes, I've been brokenhearted, Blue since the day we parted; Why, why did I ever let you go?
+
+- [x] Mamma Mia
+- [ ] Waterloo
+- [ ] Dancing Queen
+
+#### The seaweed is always greener, in somebody else's lake; You dream about going up there, But that is a big mistake...
+
+- [ ] Les Poissons
+- [ ] Kiss The Girl
+- [x] Under The Sea
+
+#### And so I'm offering this simple phrase, To kids from one to ninety-two; Although it's been said many times, many ways...
+
+- [ ] Holly Jolly Christmas
+- [x] The Christmas Song
+- [ ] Christmas Time Is Here
+
+#### And now, the end is near, And so I face the final curtain...
+
+- [x] My Way
+- [ ] That's Life
+- [ ] Strangers In The Night
