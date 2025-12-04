@@ -54649,12 +54649,6 @@
 - [ ] Life Savers Soda
 - [x] Lays Pasta Sauce
 
-#### Which of these French words means "Good Day"?
-
-- [x] Bonjour
-- [ ] Baguette
-- [ ] Bientot
-
 #### What cereal brand also puts out a popular party mix?
 
 - [ ] Raisin Bran
@@ -77289,3 +77283,93 @@
 - [ ] Jimi Hendrix
 - [x] John Lennon
 - [ ] Tina Turner
+
+#### Which Risk territory is home to the world's most densely populated brown bear habitat?
+
+- [ ] Irkutsk
+- [ ] Eastern United States
+- [x] Kamchatka
+
+#### Which of these is a song by Kelly Clarkson?
+
+- [ ] Haven't Seen U In Forever
+- [x] Since U Been Gone
+- [ ] When Are U Getting Here
+
+#### Which Marvel "Merc With A Mouth" had a hit 2024 movie crossing over with Wolverine?
+
+- [x] Deadpool
+- [ ] Killshot
+- [ ] Hugo Strange
+
+#### The Band was a group of musicians who were the backing band for which artist?
+
+- [ ] Elvis
+- [x] Bob Dylan
+- [ ] Tom Jones
+
+#### Which of these French words means "good"?
+
+- [x] Bon
+- [ ] Mal
+- [ ] Croissant
+
+#### You better watch out, you better not cry; you better not pout, I'm telling you why...
+
+- [x] Santa Claus is Coming to Town
+- [ ] Papa's Got A Brand New Bag
+- [ ] I've Got A Feeling
+
+#### I hope you don't mind, I hope you don't mind, that I put down in words, How wonderful life is while you're in the world...
+
+- [ ] Rocket Man
+- [ ] Space Oddity
+- [x] Your song
+
+#### Just hit the Eastside of the LBC; On a mission, tryin' to find Mr. Warren G...
+
+- [ ] Who Da Hardest?
+- [x] Regulate
+- [ ] Grown Up
+
+#### Sail away, sail away, sail away. Sail away, sail away, sail away...
+
+- [ ] Only Time
+- [ ] Aniron
+- [x] Orinoco Flow
+
+#### When the moon hits your eye like a big pizza pie...
+
+- [x] That's Amore
+- [ ] Love Is In The Air
+- [ ] Vloare
+
+#### So I reach for my 40 and I turn it up, Designated driver, take the keys to my truck...
+
+- [ ] U Know What's Up
+- [x] This Is How We Do It
+- [ ] Do You Wanna Get Funky?
+
+#### If I go crazy then will you still call me Superman? If I'm alive and well, will you be there a holding my hand?
+
+- [x] Kryptonite
+- [ ] Pocket Full of Kryptonite
+- [ ] Superman (It's Not Easy)
+
+#### She's ferocious and she knows just what it takes to make a pro blush; All the boys think she's a spy...
+
+- [ ] True Colors
+- [ ] Maneater
+- [x] Bette Davis Eyes
+
+#### You can't start a fire; You can't start a fire without a spark; This gun's for hire, Even if we're just...
+
+- [x] Dancing in the Dark
+- [ ] Dancing on the Ceiling
+- [ ] Whistling in the Dark
+
+#### Got me lookin so crazy right now, your love's got me lookin so crazy right now...
+
+- [ ] Silly Love Songs
+- [x] Crazy in Love
+- [ ] Insane in the Membrane
