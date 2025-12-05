@@ -68716,7 +68716,7 @@
 - [ ] The River Wild
 - [x] Jaws
 
-#### What is the name of the dad on "The Simpsons"?
+#### What is the name of the dad on "The Simpsons"? (REPEATED QUESTION WITH DIFFERENT ANSWER ORDERS)
 
 - [ ] Bart
 - [x] Homer
@@ -77373,3 +77373,99 @@
 - [ ] Silly Love Songs
 - [x] Crazy in Love
 - [ ] Insane in the Membrane
+
+#### Who plays Captain Jack Sparrow?
+
+- [ ] Orlando Bloom
+- [ ] Geoffrey Rush
+- [x] Johnny Depp
+
+#### Which of these events did NOT happen the same year the Disney Channel launched?
+
+- [ ] Michael Jackson's 1st moonwalk
+- [ ] Mario Bros. video game debut
+- [x] E.T. premiere
+
+#### Which of the following comic book heroes is an alien?
+
+- [ ] Captain America
+- [ ] Batman
+- [x] Superman
+
+#### What term refers to the measure of speed in any direction?
+
+- [ ] Acoustics
+- [x] Velocity
+- [ ] Gravity
+
+#### Butterhead, Romaine, and Iceberge are all types of what food?
+
+- [ ] Radish
+- [x] Lettuce
+- [ ] Carrot
+
+#### Brussels is the capital of which European country?
+
+- [x] Belgium
+- [ ] Austria
+- [ ] Finland
+
+#### You say I only hear what I want to; You say I talk so all the time, so?
+
+- [x] Stay (I Missed You)
+- [ ] Should I Stay or Should I Go?
+- [ ] Stay With Me
+
+#### Look at this stuff, isn't it neat? Wouldn't you think my collection's complete?
+
+- [ ] Beauty and the Beast
+- [x] Part of Your World
+- [ ] A Whole New World
+
+#### They say our love won't pay the rent, before it's earned, our money's all been spent...
+
+- [ ] L-O-V-E
+- [x] I Got You Babe
+- [ ] Somebody to Love
+
+#### You were working as a waitress in a cocktail bar, when I met you; I picked you out, I shook you up and turned you around...
+
+- [ ] I Want Your Love
+- [ ] Have Another Drink
+- [x] Don't You Want Me
+
+#### Josie's on a vacation far away, come around and talk it over; So many things that I wanna say...
+
+- [ ] How Deep Is Your Love
+- [x] Your Love
+- [ ] What Is Love
+
+#### If you could see that I'm the one who understands you, been here all along, so why can't you see?
+
+- [x] You Belong With Me
+- [ ] Tonight You Belong To Me
+- [ ] We Belong
+
+#### You listen to Coltrane, derail your own train; Well, who hasn't been there before?
+
+- [ ] All I Wanna Do
+- [ ] Leaving Las Vegas
+- [x] If It Makes You Happy
+
+#### It makes me just feel like crying; 'Cause, baby, something beautiful's dying...
+
+- [ ] I'm down
+- [x] You've Lost That Lovin' Feelin'
+- [ ] Someone You Loved
+
+#### Strumming my pain with his fingers; Singing my life with his words...
+
+- [x] Killing Me Softly
+- [ ] I Just Died In Your Arms Tonight
+- [ ] Killing In The Name
+
+#### Stacy, can I cover over after school? (After school) We can hang around by the pool (Hanging by the pool)...
+
+- [ ] Judy's Turn To Cry
+- [x] Stacy's Mom
+- [ ] Jessie's Girl
