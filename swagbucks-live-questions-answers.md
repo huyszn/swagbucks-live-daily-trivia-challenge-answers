@@ -22474,8 +22474,8 @@
 #### The renowned marble Statue of David is housed in a museum in which city?
 
 - [ ] Paris, France
-- [x] New York, New York
-- [ ] Florence, Italy
+- [ ] New York, New York
+- [x] Florence, Italy
 
 #### Which of the folowing dishes is a type of sandwich?
 
@@ -23538,12 +23538,6 @@
 - [ ] The Morning Show
 - [ ] Black Bird
 - [x] Ted Lasso
-
-#### Which Brady Bunch actor is the oldest?
-
-- [x] Christopher Knight
-- [ ] Eve Plumb
-- [ ] Mike Lookinland
 
 #### What sport is Tony Hawk known for?
 
@@ -27246,12 +27240,6 @@
 - [ ] Michael Jordan
 - [x] Kareem Abdul-Jabbar
 - [ ] Tim Duncan
-
-#### March 31, 1848 is widley considered to be the start of what movement?
-
-- [ ] Mormonism
-- [x] Spiritualism
-- [ ] The Gold Rush
 
 #### What Hebrew word is another term used for the Hanukkah menorah?
 
@@ -33877,7 +33865,7 @@
 - [ ] Cherry Cordial
 - [x] Marshmallow
 
-#### What is the width of the Staute of Liberty's waist?
+#### What is the width of the Statue of Liberty's waist?
 
 - [ ] 22 feet
 - [ ] 32 feet
@@ -54661,12 +54649,6 @@
 - [ ] Life Savers Soda
 - [x] Lays Pasta Sauce
 
-#### Which of these French words means "Good Day"?
-
-- [x] Bonjour
-- [ ] Baguette
-- [ ] Bientot
-
 #### What cereal brand also puts out a popular party mix?
 
 - [ ] Raisin Bran
@@ -55392,12 +55374,6 @@
 - [x] Dolly Parton
 - [ ] Carrie Underwood
 - [ ] Reba McEntire
-
-#### Which Big Bang Theory actor is the oldest?
-
-- [ ] Johnny Galecki
-- [x] Jim Parsons
-- [ ] Simon Helberg
 
 #### What automotive brand once claimed to be "The Heartbeat of America"?
 
@@ -60100,7 +60076,7 @@
 - [ ] Lisa
 - [x] Maggie
 
-#### Hugh Jackman won the role of Wolverine hen he was recommended for the job by what other actor?
+#### Hugh Jackman won the role of Wolverine when he was recommended for the job by what other actor?
 
 - [x] Russell Crowe
 - [ ] Tom Cruise
@@ -64750,7 +64726,7 @@
 - [x] Keep her eyes shut
 - [ ] Whistle
 
-#### In 2016, Beyonce, Drake, and dele all sold fewer CDs than which artist?
+#### In 2016, Beyonce, Drake, and Adele all sold fewer CDs than which artist?
 
 - [ ] "Weird" Al Yankovic
 - [x] Mozart
@@ -68740,7 +68716,7 @@
 - [ ] The River Wild
 - [x] Jaws
 
-#### What is the name of the dad on "The Simpsons"?
+#### What is the name of the dad on "The Simpsons"? (REPEATED QUESTION WITH DIFFERENT ANSWER ORDERS)
 
 - [ ] Bart
 - [x] Homer
@@ -70065,12 +70041,6 @@
 - [ ] Def Leppard
 - [x] Duran Duran
 - [ ] Guns 'N Roses
-
-#### Which Brady Bunch actor is the oldest?
-
-- [x] Christopher Knight
-- [ ] Eve Plumb
-- [ ] Mike Lookinland
 
 #### What style of pants have additional pockets on the legs?
 
@@ -76587,3 +76557,915 @@
 - [ ] The Four Seasons
 - [ ] Ritz Carlton
 - [x] Motel 6
+
+#### What form of street art primarily uses cans of spray paint?
+
+- [ ] Fresco
+- [x] Graffitti
+- [ ] Sculpture
+
+#### Which of the following is a county in Hawaii?
+
+- [ ] Los Angeles
+- [x] Kauai
+- [ ] Philadelphia
+
+#### Rebecca Black became an internet sensation in 2011 with a song about what weekday?
+
+- [ ] Monday
+- [ ] Wednesday
+- [x] Friday
+
+#### Goofus and Gallant appear in which children's magazine?
+
+- [ ] SI for Kids
+- [x] Highlights for Children
+- [ ] This Week Junior
+
+#### In Scrabble, what are you trying to do with your tiles?
+
+- [x] Make words
+- [ ] Buy carrots
+- [ ] Drive a car
+
+#### Which of the following was NOT one of the categories of the original Trivial Pursuit?
+
+- [ ] Entertainment
+- [ ] Sports & Leisure
+- [x] Guys Named Clive
+
+#### Outside of opening, which of the following Chess pieces can ONLY move one space at a time?
+
+- [ ] Queen
+- [x] Pawn
+- [ ] Bishop
+
+#### Which of the following games features a doubling cube?
+
+- [ ] Parcheesi
+- [ ] Mancala
+- [x] Backgammon
+
+#### In which board game is your objective to sink all of your opponent's vessels?
+
+- [x] Battleship
+- [ ] Sorry!
+- [ ] Chutes and Ladders
+
+#### The game of checkers is also known by what other name?
+
+- [ ] Viking Chess
+- [x] Draughts
+- [ ] Nine Men's Morris
+
+#### The Monopoly card ordering you to go directly to jail tells you not to pass which space?
+
+- [x] Go
+- [ ] Boardwalk
+- [ ] Chance
+
+#### Since 1982, Robert A. Wardhaugh has continuously been playing which tabletop game?
+
+- [ ] Axis & Allies
+- [x] Dungeons & Dragons
+- [ ] Risk
+
+#### Which of the following board games comes with modeling clay and whiteboards and markers?
+
+- [x] Cranium
+- [ ] Candy Land
+- [ ] Othello
+
+#### Which of the following is a playing card game?
+
+- [ ] Stratego
+- [x] Cribbage
+- [ ] Blokus
+
+#### The goo emitted by a beaver's butt is sometimes used in what flavoring?
+
+- [ ] Anise
+- [x] Vanilla
+- [ ] Lemon
+
+#### Which of the following landlocked countries is entirely contained within another country?
+
+- [x] Lesotho
+- [ ] Burkina Faso
+- [ ] Mongolia
+
+#### What video game features a giant ape throwing barrels?
+
+- [ ] Pac Man
+- [ ] Defender
+- [x] Donkey Kong
+
+#### In 2018, what Battle Royale game featured a "Thanos Mode" and emotes like Orange Crush?
+
+- [ ] Stardew Valley
+- [ ] Madden 19
+- [x] Fortnite
+
+#### Which fast food chain sells the Cheesy Gordita Crunch?
+
+- [ ] Chipotie
+- [x] Taco Bell
+- [ ] Burger King
+
+#### Where would you go to visit Yellowstone National Park?
+
+- [x] Wyoming
+- [ ] Rhode Island
+- [ ] Florida
+
+#### Which U.S. Revolutionary War military officer's name is synonymous with being a traitor?
+
+- [ ] George Washington
+- [ ] Horatio Gates
+- [x] Benedict Arnold
+
+#### As of September 1st, 2025, who was the last MLB pitcher to throw a perfect game?
+
+- [x] Domingo German
+- [ ] Matt Cain
+- [ ] Felix Hernandez
+
+#### In Sierra Leone, you have to play a board game before you can receive what legal document?
+
+- [ ] Marriage Certificate
+- [ ] Passport
+- [x] Driver's License
+
+#### Who directed "Psycho", "The Birds", and "Dial M For Murder"?
+
+- [x] Alfred Hitchcock
+- [ ] Clive Barker
+- [ ] Wes Craven
+
+#### As of September 2025, which of the following non-Brits has been named an honorary knight by the OBE?
+
+- [ ] George Clooney
+- [x] Steve Spielberg
+- [ ] Sally Field
+
+#### Despite their name, french fries actually originated in which country?
+
+- [x] Belgium
+- [ ] France
+- [ ] China
+
+#### What's the term for words that sound like what they mean?
+
+- [ ] Simile
+- [ ] Metaphor
+- [x] Onomatopoeia
+
+#### Which of the following game shows is hosted by Drew Carey?
+
+- [ ] Who Wants To Be A Millionaire?
+- [ ] High Rollers
+- [x] The Price Is Right
+
+#### In 1977, NASA sent what exploratory craft into space?
+
+- [x] Voyager 1
+- [ ] Hubble Telescope
+- [ ] International Space Station
+
+#### Brangelina was the nickname for what celebrity couple?
+
+- [ ] Tom Hanks & Rita Wilson
+- [x] Brad Pitt & Angelina Jolie
+- [ ] Ben Affleck & Jennifer Lopez
+
+#### What famous detective lived at 221B Baker Street In London?
+
+- [ ] Miss Marple
+- [ ] Jessica Fletcher
+- [x] Sherlock Holmes
+
+#### Which actress once hinted that she dropped out of Pixar's "Brave" because she dropped out of Pixar's "brave" because she couldn't do a Scottish accent?
+
+- [x] Reese Witherspoon
+- [ ] Alicia Silverstone
+- [ ] Rashida Jones
+
+#### What cookie brand's offerings include a "Double Stuf" version?
+
+- [ ] Nila Wafers
+- [ ] Dunkaroos
+- [x] Oreos
+
+#### What color does NOT appear on a standard Twister board?
+
+- [ ] Red
+- [x] Arsenic
+- [ ] Green
+
+#### What brand was known to "Take a licking and keep on ticking"?
+
+- [ ] Rolex
+- [ ] Swatch
+- [x] Timex
+
+#### What is the dot over a lowercase i or j called?
+
+- [x] Tittle
+- [ ] Tattle
+- [ ] Dottie
+
+#### What color is Elmo?
+
+- [ ] Purple
+- [x] Red
+- [ ] Blue
+
+#### In the movie "The Shawshank Redemption," what is the name of the main character?
+
+- [x] Andy Dufresne
+- [ ] Warden Norton
+- [ ] Bogs Diamond
+
+#### Who was the third co-founder of Apple Computers?
+
+- [x] Ronald Wayne
+- [ ] Tim Cook
+- [ ] Bill Fernandez
+
+#### What insurance company uses a Gecko as a mascot?
+
+- [ ] Farmers
+- [ ] Allstate
+- [x] Geico
+
+#### What river forms a border between Texas and Mexico?
+
+- [ ] Danube
+- [x] Rio Grande
+- [ ] Nile
+
+#### What Apple TV series is about people who have their work and personal lives surgically separated?
+
+- [x] Severance
+- [ ] The Morning Show
+- [ ] Stick
+
+#### What popular soft drink was invented in Atlanta, Georgia?
+
+- [ ] Sprite
+- [ ] Root Beer
+- [x] Coca-Cola
+
+#### Hound Dog, Jailhouse Rock, and Suspicious Minds are all hit singles for which singer?
+
+- [ ] David Bowie
+- [x] Elvis Presley
+- [ ] Lionel Richie
+
+#### As of October 2025, which MLB team does Shohei Ohtani play for?
+
+- [x] Los Angeles Dodgers
+- [ ] Detroit Tigers
+- [ ] Los Angeles Angels
+
+#### Being "Apron up", "Gravid", or "In the spud line" are all old terms meaning someone is what?
+
+- [ ] Broke
+- [ ] Hungry
+- [x] Pregnant
+
+#### Which of the following words is a palindrome?
+
+- [ ] Villainy
+- [x] Racecar
+- [ ] Boom
+
+#### In which of these party games is one of the participants blindfolded?
+
+- [x] Pin the Tail on the Donkey
+- [ ] Spin the Bottle
+- [ ] Musical Chairs
+
+#### What is the National Bird of the United States?
+
+- [ ] Pelican
+- [ ] Barn Owl
+- [x] Bald Eagle
+
+#### Which of these drinks typically contains alcohol?
+
+- [x] Martini
+- [ ] Grape Juice
+- [ ] Milkshake
+
+#### According to the grammar rule, it's "I before E" except after which letter?
+
+- [ ] X
+- [x] C
+- [ ] R
+
+#### What phenomenon occurs when the moon blocks out the sun?
+
+- [ ] Black Hole
+- [ ] Singularity
+- [x] Eclipse
+
+#### What retail chain's logo is made up of two circles?
+
+- [ ] Walmart
+- [ ] Cabela's
+- [x] Target
+
+#### Which retail site has Prime Day Deals?
+
+- [x] Amazon
+- [ ] Etsy
+- [ ] Temu
+
+#### What is the name of Best Buy's technical support service?
+
+- [ ] Nerd Alert
+- [x] Geek Squad
+- [ ] Robotech
+
+#### What chain uses the slogan "How Doers Get More Done"?
+
+- [ ] Lowe's
+- [ ] Orchard Supply Hardware
+- [x] The Home Depot
+
+#### Which of the following stores is known for selling underwear and lingerie?
+
+- [x] Victoria's Secret
+- [ ] Auntie Anne's
+- [ ] Things Remembered
+
+#### What is the name for the shopping holiday held the day after American Thanksgiving?
+
+- [ ] White Saturday
+- [x] Black Friday
+- [ ] Purple Sunday
+
+#### What year was the first Black Friday sale held?
+
+- [ ] 1981
+- [x] 1891
+- [ ] 1924
+
+#### What category of store is Costco?
+
+- [x] Warehouse
+- [ ] Convenience
+- [ ] Specialty
+
+#### Which of the following forms of payment is considered "contactless"?
+
+- [ ] Check
+- [x] Apple Pay
+- [ ] Cash
+
+#### What retail chain was known for its Blue Light Specials?
+
+- [x] Kmart
+- [ ] Woolworth
+- [ ] Circuit City
+
+#### Which team pulled off the Immaculate Reception in 1972?
+
+- [ ] Carolina Panthers
+- [x] Pittsburgh Steelers
+- [ ] Houston Texans
+
+#### Which of the following Disney animated films has NOT yet had a live action feature version?
+
+- [ ] Beauty and the Beast
+- [ ] Cinderella
+- [x] The Black Cauldron
+
+#### Which car manufacturer was the first to include seat belts as a standard feature in their vehicles?
+
+- [ ] Ford
+- [x] Saab
+- [ ] Volvo
+
+#### Aquafresh, Colgate, and Smile are all brands of what household product?
+
+- [x] Toothpaste
+- [ ] Aluminum Foil
+- [ ] Window Cleaner
+
+#### Which of the following meats is NOT part of a Turducken?
+
+- [ ] Chicken
+- [ ] Duck
+- [x] Prime Rib
+
+#### The combination of ginger, cloves, cinnamon, nutmeg, and allspice creates what autumnal flavor?
+
+- [x] Pumpkin Spice
+- [ ] Caramel
+- [ ] Sweat Potato
+
+#### According to Butterball, at what internal temperature Fahrenheit is cooked Turkey considered safe to eat?
+
+- [ ] 32
+- [x] 170
+- [ ] 99
+
+#### On Christmas Eve, Italians celebrate with a meal called "Feast of the Seven" what?
+
+- [ ] Cookies
+- [ ] Reindeer
+- [x] Fishes
+
+#### What starch is often served "creamed" as a holiday side dish?
+
+- [x] Corn
+- [ ] Linguini
+- [ ] Rolls
+
+#### Which holiday staple was invented by Campbell's Soup as a marketing campaign?
+
+- [ ] Candied Yams
+- [x] Green Bean Casserole
+- [ ] Figgy Pudding
+
+#### During Thanksgiving and Christmas, what red berry is traditionally made into sauces and relishes?
+
+- [ ] Strawberry
+- [ ] Raspberry
+- [x] Cranberry
+
+#### Where in Italy did the Panettone originate?
+
+- [ ] Rome
+- [x] Milan
+- [ ] Florence
+
+#### Which of the following is NOT a traditional Christmas cookie shape?
+
+- [ ] Tree
+- [ ] Star
+- [x] Penguin
+
+#### Which of the following foods is typically served during Hanukkah?
+
+- [x] Potato Latkes
+- [ ] Apples and Honey
+- [ ] Matzo
+
+#### Which of the following sci-fi radio dramas hit the airwaves first?
+
+- [x] Buck Rogers
+- [ ] Flash Gordon
+- [ ] Beyond Tomorrow
+
+#### What is the term for cutting food into long, thin strips?
+
+- [x] Julienne
+- [ ] Chop
+- [ ] Dice
+
+#### In the "Scream" saga, what question does Ghostface often ask his victims over the phone?
+
+- [ ] "How's your news?"
+- [ ] "Hot enough for you?"
+- [x] "What's your favorite scary movie?"
+
+#### In "Scrooged", what does Bill Murray's character for a living?
+
+- [x] TV Executive
+- [ ] Bank Executive
+- [ ] Janitor
+
+#### In the Lord of the Rings books, where do the Hobbits live?
+
+- [ ] Rohan
+- [ ] The Shire
+- [x] Mordor
+
+#### The first undisputed World Chess Champion was born in which city?
+
+- [x] Prague
+- [ ] New York
+- [ ] Moscow
+
+#### Phrenologists believed they could determine personality and intelligence by studying what?
+
+- [ ] Palms
+- [x] Skulls
+- [ ] Blood
+
+#### Which band refers to their fans as an Army?
+
+- [ ] The Rolling Stones
+- [ ] Mumford & Sons
+- [x] KISS
+
+#### What empire arose in the Peruvian highlands around 1200 AD?
+
+- [ ] Aztec
+- [ ] Iroquois
+- [x] Inca
+
+#### Who is the author of the world's oldest existing valentine?
+
+- [ ] Julius Caesar
+- [x] Charles d'Orleans
+- [ ] William Shakespeare
+
+#### Which of the following is NOT typically part of a song?
+
+- [ ] Verse
+- [ ] Chorus
+- [x] Stamen
+
+#### What English monarch famously had six wives?
+
+- [x] Henry VIII
+- [ ] Richard III
+- [ ] George II
+
+#### Where does "The Shawshank Redemption" take place?
+
+- [x] In Prison
+- [ ] On Mars
+- [ ] At a Fair
+
+#### According to Mental Floss, which of these movies led to the biggest percentage increase of dog registrations?
+
+- [ ] Lassie Come Home
+- [ ] Turner and Hooch
+- [x] The Shaggy Dog
+
+#### Which film was not nominated for the Best Picture Oscar in 2010?
+
+- [ ] Avatar
+- [ ] District 9
+- [x] Inception
+
+#### Complete this saying: "A watched pot never _____"
+
+- [ ] Goes to prom
+- [ ] Gets the worm
+- [x] Boils
+
+#### Queer Eye's cast shares a nickname with a group of athletes from which college?
+
+- [ ] UNLV
+- [x] Michigan
+- [ ] Kansas
+
+#### Which of these actors was NOT considered for the role of Han Solo?
+
+- [ ] Al Pacino
+- [x] Steve McQueen
+- [ ] Sylvester Stallone
+
+#### May your days be merry and bright; And may all your Christmasses be white...
+
+- [ ] Happy Xmas (War is Over)
+- [x] White christmas
+- [ ] Winter Wonderland
+
+#### I believe the children are our future; Teach them well and let thme lead the way, show them all the beauty they possess inside.
+
+- [x] Greatest Love of All
+- [ ] I Wanna Dance With Somebody
+- [ ] So Emotional
+
+#### Go, shawty, it's your birthday - We gon' party like it's your birthday...
+
+- [ ] Low
+- [x] In da Club
+- [ ] Not Like Us
+
+#### Isn't she pretty, Truly the angel's best; Boy, I'm so happy, We have been heaven blessed...
+
+- [ ] Superstition
+- [ ] Living For The City
+- [x] Isn't She Lovely
+
+#### The ten-dollar Founding Father without a father; Got a lot farther by working a lot harder, By being a lot smarter
+
+- [ ] Chitty Chitty Bang Bang
+- [x] Alexander Hamilton
+- [ ] On My Own
+
+#### Strike up the band and make the firefiles dance - Silver moon's sparkling...
+
+- [ ] Stay
+- [ ] Building A Mystery
+- [x] Kiss Me
+
+#### Once upon a time I was falling in love, but now I'm only falling apart; nothing I can do...
+
+- [x] Total Eclipse of the Heart
+- [ ] Heartbreaker
+- [ ] Owner of a Lonely Heart
+
+#### Say it ain't so, I will not go; Turn the lights off, carry me home...
+
+- [ ] Fat Lip
+- [x] All The Small Things
+- [ ] In Too Deep
+
+#### Hangin' out the passenger side of his best friend's ride, trying to holla at me...
+
+- [ ] Waterfalls
+- [ ] Unpretty
+- [x] No Scrubs
+
+#### I hopped off the plane at LAX with a dream and my cardigan; Welcome to the land of fame excess - Am I gonna fit in?
+
+- [ ] Last Friday Night
+- [ ] Hollaback Girl
+- [x] Party in the USA
+
+#### Which color rose would you give to communicate love at first sight?
+
+- [ ] Orange
+- [x] Lavender
+- [ ] Pink
+
+#### "Walk The Line" is a movie chronicling the love story of Johnny Cash and what other country singer?
+
+- [ ] Connie Stevens
+- [ ] Reba McEntire
+- [x] June Carter
+
+#### What are kids and grown ups supposed to do when crossing the street together?
+
+- [ ] Wave flags
+- [ ] Sing show tunes
+- [x] Hold hands
+
+#### Stefani Joanne Angelina Germanotta is better known by what stage name?
+
+- [ ] Sade
+- [ ] Madonna
+- [x] Lady Gaga
+
+#### The first Amtrak train traveled from New York to what city?
+
+- [x] Philadelphia
+- [ ] Chicago
+- [ ] Washington, D.C.
+
+#### Which of th Simpsons children is the youngest?
+
+- [x] Maggie
+- [ ] Lisa
+- [ ] Bart
+
+#### Yesterday; All my troubles seemed so far away, Now it looks as though they're here to stay...
+
+- [ ] Yesterday
+- [ ] Tomorrow Never Knows
+- [ ] Time Today
+
+#### Before the day I met you, life was so unkind But you're the key to my peace of mind...
+
+- [x] (You Make Me Feel Like) A Natural Woman
+- [ ] Respect
+- [ ] Chain of Fools
+
+#### Shake it, shake it (Okay), shake it, sugar; Shake it like a Polaroid picture...
+
+- [ ] So Fresh, So Clean
+- [ ] Ms. Jackson
+- [x] Hey Ya
+
+#### So goodbye, please don't cry; We both know I'm not what you, you need...
+
+- [x] I Will Always Love You
+- [ ] Love on the Rocks
+- [ ] Band on the Run
+
+#### (Wake me up) Wake me up inside, (I can't wake up) Wake me up inside, (Save me) Call my name and save me from the dark...
+
+- [ ] Enter Sandman
+- [ ] Daydream Believer
+- [x] Bring Me To Life
+
+#### Every little thing I do, Never seems enough for you; You don't want to lose it again, But I'm not like them...
+
+- [ ] Bye Bye Bye
+- [x] It's Gonna Be Me
+- [ ] Hangin' Tough
+
+#### Yes, I've been brokenhearted, Blue since the day we parted; Why, why did I ever let you go?
+
+- [x] Mamma Mia
+- [ ] Waterloo
+- [ ] Dancing Queen
+
+#### The seaweed is always greener, in somebody else's lake; You dream about going up there, But that is a big mistake...
+
+- [ ] Les Poissons
+- [ ] Kiss The Girl
+- [x] Under The Sea
+
+#### And so I'm offering this simple phrase, To kids from one to ninety-two; Although it's been said many times, many ways...
+
+- [ ] Holly Jolly Christmas
+- [x] The Christmas Song
+- [ ] Christmas Time Is Here
+
+#### And now, the end is near, And so I face the final curtain...
+
+- [x] My Way
+- [ ] That's Life
+- [ ] Strangers In The Night
+
+#### In 1967, who appeared on the cover of the first issue of Rolling stone?
+
+- [ ] Jimi Hendrix
+- [x] John Lennon
+- [ ] Tina Turner
+
+#### Which Risk territory is home to the world's most densely populated brown bear habitat?
+
+- [ ] Irkutsk
+- [ ] Eastern United States
+- [x] Kamchatka
+
+#### Which of these is a song by Kelly Clarkson?
+
+- [ ] Haven't Seen U In Forever
+- [x] Since U Been Gone
+- [ ] When Are U Getting Here
+
+#### Which Marvel "Merc With A Mouth" had a hit 2024 movie crossing over with Wolverine?
+
+- [x] Deadpool
+- [ ] Killshot
+- [ ] Hugo Strange
+
+#### The Band was a group of musicians who were the backing band for which artist?
+
+- [ ] Elvis
+- [x] Bob Dylan
+- [ ] Tom Jones
+
+#### Which of these French words means "good"?
+
+- [x] Bon
+- [ ] Mal
+- [ ] Croissant
+
+#### You better watch out, you better not cry; you better not pout, I'm telling you why...
+
+- [x] Santa Claus is Coming to Town
+- [ ] Papa's Got A Brand New Bag
+- [ ] I've Got A Feeling
+
+#### I hope you don't mind, I hope you don't mind, that I put down in words, How wonderful life is while you're in the world...
+
+- [ ] Rocket Man
+- [ ] Space Oddity
+- [x] Your song
+
+#### Just hit the Eastside of the LBC; On a mission, tryin' to find Mr. Warren G...
+
+- [ ] Who Da Hardest?
+- [x] Regulate
+- [ ] Grown Up
+
+#### Sail away, sail away, sail away. Sail away, sail away, sail away...
+
+- [ ] Only Time
+- [ ] Aniron
+- [x] Orinoco Flow
+
+#### When the moon hits your eye like a big pizza pie...
+
+- [x] That's Amore
+- [ ] Love Is In The Air
+- [ ] Vloare
+
+#### So I reach for my 40 and I turn it up, Designated driver, take the keys to my truck...
+
+- [ ] U Know What's Up
+- [x] This Is How We Do It
+- [ ] Do You Wanna Get Funky?
+
+#### If I go crazy then will you still call me Superman? If I'm alive and well, will you be there a holding my hand?
+
+- [x] Kryptonite
+- [ ] Pocket Full of Kryptonite
+- [ ] Superman (It's Not Easy)
+
+#### She's ferocious and she knows just what it takes to make a pro blush; All the boys think she's a spy...
+
+- [ ] True Colors
+- [ ] Maneater
+- [x] Bette Davis Eyes
+
+#### You can't start a fire; You can't start a fire without a spark; This gun's for hire, Even if we're just...
+
+- [x] Dancing in the Dark
+- [ ] Dancing on the Ceiling
+- [ ] Whistling in the Dark
+
+#### Got me lookin so crazy right now, your love's got me lookin so crazy right now...
+
+- [ ] Silly Love Songs
+- [x] Crazy in Love
+- [ ] Insane in the Membrane
+
+#### Who plays Captain Jack Sparrow?
+
+- [ ] Orlando Bloom
+- [ ] Geoffrey Rush
+- [x] Johnny Depp
+
+#### Which of these events did NOT happen the same year the Disney Channel launched?
+
+- [ ] Michael Jackson's 1st moonwalk
+- [ ] Mario Bros. video game debut
+- [x] E.T. premiere
+
+#### Which of the following comic book heroes is an alien?
+
+- [ ] Captain America
+- [ ] Batman
+- [x] Superman
+
+#### What term refers to the measure of speed in any direction?
+
+- [ ] Acoustics
+- [x] Velocity
+- [ ] Gravity
+
+#### Butterhead, Romaine, and Iceberge are all types of what food?
+
+- [ ] Radish
+- [x] Lettuce
+- [ ] Carrot
+
+#### Brussels is the capital of which European country?
+
+- [x] Belgium
+- [ ] Austria
+- [ ] Finland
+
+#### You say I only hear what I want to; You say I talk so all the time, so?
+
+- [x] Stay (I Missed You)
+- [ ] Should I Stay or Should I Go?
+- [ ] Stay With Me
+
+#### Look at this stuff, isn't it neat? Wouldn't you think my collection's complete?
+
+- [ ] Beauty and the Beast
+- [x] Part of Your World
+- [ ] A Whole New World
+
+#### They say our love won't pay the rent, before it's earned, our money's all been spent...
+
+- [ ] L-O-V-E
+- [x] I Got You Babe
+- [ ] Somebody to Love
+
+#### You were working as a waitress in a cocktail bar, when I met you; I picked you out, I shook you up and turned you around...
+
+- [ ] I Want Your Love
+- [ ] Have Another Drink
+- [x] Don't You Want Me
+
+#### Josie's on a vacation far away, come around and talk it over; So many things that I wanna say...
+
+- [ ] How Deep Is Your Love
+- [x] Your Love
+- [ ] What Is Love
+
+#### If you could see that I'm the one who understands you, been here all along, so why can't you see?
+
+- [x] You Belong With Me
+- [ ] Tonight You Belong To Me
+- [ ] We Belong
+
+#### You listen to Coltrane, derail your own train; Well, who hasn't been there before?
+
+- [ ] All I Wanna Do
+- [ ] Leaving Las Vegas
+- [x] If It Makes You Happy
+
+#### It makes me just feel like crying; 'Cause, baby, something beautiful's dying...
+
+- [ ] I'm down
+- [x] You've Lost That Lovin' Feelin'
+- [ ] Someone You Loved
+
+#### Strumming my pain with his fingers; Singing my life with his words...
+
+- [x] Killing Me Softly
+- [ ] I Just Died In Your Arms Tonight
+- [ ] Killing In The Name
+
+#### Stacy, can I cover over after school? (After school) We can hang around by the pool (Hanging by the pool)...
+
+- [ ] Judy's Turn To Cry
+- [x] Stacy's Mom
+- [ ] Jessie's Girl
