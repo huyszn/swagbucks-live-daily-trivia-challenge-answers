@@ -77469,3 +77469,39 @@
 - [ ] Judy's Turn To Cry
 - [x] Stacy's Mom
 - [ ] Jessie's Girl
+
+#### Which of the following literary characters is known for creating a monster from corpses?
+
+- [x] Victor Frankenstein
+- [ ] Robert Walton
+- [ ] Henry Clerval
+
+#### Chevron, Mobil, and BP all have stations where you can do what?
+
+- [ ] Buy a new skirt
+- [x] Fuel up your car
+- [ ] Cook some flapjacks
+
+#### Which mammal has the highest blood pressure?
+
+- [ ] Humans
+- [ ] Blue Whales
+- [x] Giraffes
+
+#### When something is easy, what is it called?
+
+- [ ] A bit of stone
+- [x] A piece of cake
+- [ ] A scoop of detergent
+
+#### Apple's FaceTime was announced in conjunction with what iPhone?
+
+- [ ] iPhone 5
+- [x] iPhone 4
+- [ ] iPhone X
+
+#### In 2018's "A Star Is Born", what song does Ally write when she meets Jackson?
+
+- [x] Shallow
+- [ ] Thriller
+- [ ] Hard Day's Night
