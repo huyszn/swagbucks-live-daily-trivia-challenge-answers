@@ -77523,3 +77523,9 @@
 - [x] The Time Warp
 - [ ] These Boots Are Made For Walkin'
 - [ ] Mrs Robinson
+
+#### In which city is the children's book Madeline set?
+
+- [ ] Tucson
+- [ ] Cairo
+- [x] Paris
