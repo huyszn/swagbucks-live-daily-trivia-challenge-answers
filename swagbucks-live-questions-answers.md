@@ -77505,3 +77505,21 @@
 - [x] Shallow
 - [ ] Thriller
 - [ ] Hard Day's Night
+
+#### What is Disney's shortest animated feature film?
+
+- [x] Dumbo
+- [ ] Pinocchio
+- [ ] Bambi
+
+#### The pop singer nicknamed "Dunk" had a recurring role on what TV show?
+
+- [ ] The Brady Bunch
+- [ ] American Horror Story
+- [x] Diff'rent Strokes
+
+#### Based on her new role, what song would actress Jodie Whittaker most likely be caught singing on her way to work?
+
+- [x] The Time Warp
+- [ ] These Boots Are Made For Walkin'
+- [ ] Mrs Robinson
