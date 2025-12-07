@@ -77529,3 +77529,21 @@
 - [ ] Tucson
 - [ ] Cairo
 - [x] Paris
+
+#### Which of these icons is not featured on the cover of The Beatles' Sgt. Pepper's Lonely Hearts Club Band album?
+
+- [ ] Lenny Bruce
+- [x] Elvis
+- [ ] Mae West
+
+#### Which book do the characters Tweedledum and Tweedledee appear in?
+
+- [ ] Mother Goose
+- [ ] A Tale of Two Cities
+- [x] Through the Looking Glass
+
+#### What objects appear limp and droopy in Salvador Dali's "The Persistence of Memory"?
+
+- [x] Pocket watches
+- [ ] Rifles
+- [ ] Frying pans
