@@ -77547,3 +77547,27 @@
 - [x] Pocket watches
 - [ ] Rifles
 - [ ] Frying pans
+
+#### What two Presidential candidates saw their election contested all the way to the Supreme Court?
+
+- [ ] Michael Dukakis and George H.W. Bush
+- [x] Al Gore and George W. Bush
+- [ ] Bill Clinton and Bob Dole
+
+#### What would you use the temporalis muscle to do?
+
+- [ ] Shake hands
+- [ ] Climb stairs
+- [x] Chew food
+
+#### Which of these foods is served warm?
+
+- [x] Hot dogs
+- [ ] Popsicles
+- [ ] Ice Cream
+
+#### Which NBA team's stadium was the first to let you use an app to adjust your seat temperature?
+
+- [x] Sacramento Kings
+- [ ] Golden State Warriors
+- [ ] Los Angeles Lakers
