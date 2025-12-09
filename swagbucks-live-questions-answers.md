@@ -77571,3 +77571,15 @@
 - [x] Sacramento Kings
 - [ ] Golden State Warriors
 - [ ] Los Angeles Lakers
+
+#### Which of these reality shows features dealers bidding on lockers?
+
+- [x] Storage Wars
+- [ ] Pawn Stars
+- [ ] Cake Wars
+
+#### Which of these animals is NOT a main character in Disney's Robin Hood?
+
+- [ ] Vixen
+- [ ] Badger
+- [x] Pig
