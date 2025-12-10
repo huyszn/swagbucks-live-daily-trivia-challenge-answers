@@ -77679,3 +77679,15 @@
 - [ ] They get a free kick
 - [x] They're ejected from the game
 - [ ] They have to play goalkeeper
+
+#### Where on earth would you go to make astronauts the closest human beings?
+
+- [ ] South Pole
+- [x] Point Nemo
+- [ ] Tristan da Cunha
+
+#### Which model is married to singer John Legend?
+
+- [ ] Christie Brinkley
+- [x] Chrissy Teigen
+- [ ] Cindy Crawford
