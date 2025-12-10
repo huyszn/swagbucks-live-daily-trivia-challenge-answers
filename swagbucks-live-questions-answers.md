@@ -77583,3 +77583,99 @@
 - [ ] Vixen
 - [ ] Badger
 - [x] Pig
+
+#### Which actor is mostly closely related to Abraham Lincoln?
+
+- [ ] Tom Hanks
+- [x] George Clooney
+- [ ] Andrew Lincoln
+
+#### The needle of a magnetic compass will always point in which cardinal direction?
+
+- [ ] South
+- [ ] East
+- [x] North
+
+#### In the movie of the same name, what is the first rule of Fight Club?
+
+- [ ] No shirt, no shoes, no service
+- [ ] Do unto others as you would have them do unto you
+- [x] Don't talk about Fight Club
+
+#### Operation Desert Storm happened during which decade?
+
+- [ ] 1980's
+- [x] 1990's
+- [ ] 2010's
+
+#### Which of the following is NOT an oil typically used in cooking?
+
+- [ ] Olive Oil
+- [ ] Canola Oil
+- [x] Crude Oil
+
+#### Which "Star Trek" cast member hosted one of Nichelodeon's early shows?
+
+- [ ] William Shatner
+- [ ] Nichelle Nichols
+- [x] Leonard Nimoy
+
+#### The "Nutcracker" ballet is set during which holiday?
+
+- [x] Christmas
+- [ ] Easter
+- [ ] Arbor Day
+
+#### Which of these dishes is surrounded by a puff pastry?
+
+- [ ] Pad Thai
+- [ ] Borscht
+- [x] Beef Wellington
+
+#### What famous waterfall sits on the border of the U.S. and Canada?
+
+- [ ] Victoria Falls
+- [x] Niagara Falls
+- [ ] Yosemite Falls
+
+#### When you're sick, you're said to be "Under the" what?
+
+- [ ] Baseball
+- [ ] Thumb
+- [x] Weather
+
+#### The capital of Texas rhymes with the capital of which other State?
+
+- [ ] New York
+- [x] Massachusetts
+- [ ] Alaska
+
+#### J.D. Salinger is best known for what novel?
+
+- [x] Catcher in the Rye
+- [ ] A Wrinkle In Time
+- [ ] Who Moved My Cheese?
+
+#### What is the day job of Superman's alter ego?
+
+- [x] Reporter
+- [ ] Doctor
+- [ ] Accountant
+
+#### The Super-G is an Olympic event in which sport?
+
+- [ ] Climbing
+- [x] Skiing
+- [ ] Boxing
+
+#### In the Rock Band video game series, which of the following instruments was NOT released as a controller?
+
+- [ ] Drums
+- [ ] Guitar
+- [x] Glass Armonica
+
+#### In soccer, what happens when a player receives a red card from the referee?
+
+- [ ] They get a free kick
+- [x] They're ejected from the game
+- [ ] They have to play goalkeeper
