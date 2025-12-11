@@ -77691,3 +77691,51 @@
 - [ ] Christie Brinkley
 - [x] Chrissy Teigen
 - [ ] Cindy Crawford
+
+#### What Spielberg film is considered to be the first summer blockbuster?
+
+- [x] Jaws
+- [ ] E.T. The Extra Terrestrial
+- [ ] Always
+
+#### Which superhero has an invisible jet?
+
+- [x] Wonder Woman
+- [ ] Black Canary
+- [ ] Scarlet Witch
+
+#### The water in Australia's Lake Hillier appears to be what color?
+
+- [x] Pink
+- [ ] Purple
+- [ ] Orange
+
+#### What is the holiday wreath supposed to represent?
+
+- [x] Life
+- [ ] A racetrack
+- [ ] Disc Golf
+
+#### In "A Christmas Carol", which of the following is NOT one of the ghosts that visits Scrooge?
+
+- [ ] Christmas Past
+- [ ] Christmas Present
+- [x] Silmer
+
+#### Who first recorded "Little Drummer Boy"?
+
+- [x] The Trapp Family Singers
+- [ ] Frank Sinatra
+- [ ] Perry Como
+
+#### In what town does "It's A Wonderful Life" take place?
+
+- [x] Bedford Falls
+- [ ] New Orleans
+- [ ] Anaheim
+
+#### In "Rudolph The Red-Nosed Reindeer", what kind of job did Hermey the Elf dream of having?
+
+- [ ] Construction Foreman
+- [x] Dentist
+- [ ] Race car driver
