@@ -75502,12 +75502,6 @@
 - [x] Laughing all day long
 - [ ] A nose being tweaked
 
-#### What kidn of egg requires boiling water to cook?
-
-- [ ] Fried Eggs
-- [x] Poached Eggs
-- [ ] Scrambled Eggs
-
 #### Which of the following retail chains specializes in cosmetics?
 
 - [ ] Hermes
@@ -77720,7 +77714,7 @@
 
 - [ ] Christmas Past
 - [ ] Christmas Present
-- [x] Silmer
+- [x] Slimer
 
 #### Who first recorded "Little Drummer Boy"?
 
@@ -77739,3 +77733,27 @@
 - [ ] Construction Foreman
 - [x] Dentist
 - [ ] Race car driver
+
+#### Who was cast in the original "Star Wars" after serving as a reading partner for other auditioners?
+
+- [x] Harrison Ford
+- [ ] Mark Hamill
+- [ ] Carrie Fisher
+
+#### Rainier Wolfcastle on "The Simpsons" is an action star based on which real-life action star?
+
+- [ ] Don Knotts
+- [x] Arnold Schwarzenegger
+- [ ] Oprah Winfrey
+
+#### What was the original title of The Beatles hit "Yesterday"?
+
+- [ ] Far Away
+- [x] Scrambled Eggs
+- [ ] Games We Play
+
+#### Mexican Train, Maltese Cross, and Muggins are all games played with what?
+
+- [ ] Billiard Balls
+- [ ] Playing Cards
+- [x] Dominoes
