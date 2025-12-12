@@ -77757,3 +77757,63 @@
 - [ ] Billiard Balls
 - [ ] Playing Cards
 - [x] Dominoes
+
+#### The Union Jack is the official flag for what collection of countries?
+
+- [ ] United Arab Emirates
+- [ ] United Colors of Benetton
+- [x] The United Kingdom
+
+#### Which arcade machine has you dancing on touchpads?
+
+- [x] Dance Dance Revolution
+- [ ] Ms. Pac-Man
+- [ ] DJ Boy
+
+#### Which rapper co-founded Beats?
+
+- [x] Dr. Dre
+- [ ] Snoop Dogg
+- [ ] Wonder Mike
+
+#### Two U.S. Presidents have taken the oath of office four times; which of the following is one of them?
+
+- [x] Barack Obama
+- [ ] Lyndon B. Johnson
+- [ ] Richard Nixon
+
+#### Over the course of "The Golden Girls", the leads ate over 100 servings of what food?
+
+- [ ] Bagles
+- [x] Cheesecakes
+- [ ] Pizza
+
+#### The social network Vine allowed users to make videos with a maximum length of how much time?
+
+- [ ] One hour
+- [ ] Twenty minutes
+- [x] Six seconds
+
+#### When "Monty Python & The Holy Grail" couldn't afford real horses, what did the actors use instead?
+
+- [ ] Stick horses
+- [x] Coconuts
+- [ ] Nothing
+
+#### In "A Charlie Brown Thanksgiving", which of the following food items isn't served in the backyard dinner?
+
+- [ ] Toast
+- [x] Potato Chips
+- [ ] Sundaes
+
+#### In "The Wizard of Oz", what brings Dorothy and Toto to Oz?
+
+- [ ] A Phone Booth
+- [ ] A Ring
+- [x] A Tornado
+
+#### Which of the following TV shows takes place during the early 1800s?
+
+- [x] Bridgerton
+- [ ] Star Trek
+- [ ] Friends
