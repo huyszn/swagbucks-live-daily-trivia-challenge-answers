@@ -77817,3 +77817,21 @@
 - [x] Bridgerton
 - [ ] Star Trek
 - [ ] Friends
+
+#### What is the term for a group of instrumentalists playing classical music?
+
+- [ ] Orchid
+- [ ] Orca
+- [x] Orchestra
+
+#### What is the capital of Norway?
+
+- [ ] Ottawa
+- [x] Oslo
+- [ ] Tunis
+
+#### What does it mean if a website has been 404'ed?
+
+- [ ] It's been hacked
+- [ ] It's rated high on Google
+- [x] It's vanished
