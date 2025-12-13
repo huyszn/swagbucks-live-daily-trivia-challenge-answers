@@ -77835,3 +77835,15 @@
 - [ ] It's been hacked
 - [ ] It's rated high on Google
 - [x] It's vanished
+
+#### Which of these toys has always required batteries?
+
+- [ ] Rainbow Brite
+- [x] Simon
+- [ ] Beanie Babies
+
+#### In what story do the Darling children travel to Neverland?
+
+- [ ] Alice in Wonderland
+- [ ] Gulliver's Travels
+- [x] Peter Pan
