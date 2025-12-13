@@ -75502,12 +75502,6 @@
 - [x] Laughing all day long
 - [ ] A nose being tweaked
 
-#### What kidn of egg requires boiling water to cook?
-
-- [ ] Fried Eggs
-- [x] Poached Eggs
-- [ ] Scrambled Eggs
-
 #### Which of the following retail chains specializes in cosmetics?
 
 - [ ] Hermes
@@ -77505,3 +77499,339 @@
 - [x] Shallow
 - [ ] Thriller
 - [ ] Hard Day's Night
+
+#### What is Disney's shortest animated feature film?
+
+- [x] Dumbo
+- [ ] Pinocchio
+- [ ] Bambi
+
+#### The pop singer nicknamed "Dunk" had a recurring role on what TV show?
+
+- [ ] The Brady Bunch
+- [ ] American Horror Story
+- [x] Diff'rent Strokes
+
+#### Based on her new role, what song would actress Jodie Whittaker most likely be caught singing on her way to work?
+
+- [x] The Time Warp
+- [ ] These Boots Are Made For Walkin'
+- [ ] Mrs Robinson
+
+#### In which city is the children's book Madeline set?
+
+- [ ] Tucson
+- [ ] Cairo
+- [x] Paris
+
+#### Which of these icons is not featured on the cover of The Beatles' Sgt. Pepper's Lonely Hearts Club Band album?
+
+- [ ] Lenny Bruce
+- [x] Elvis
+- [ ] Mae West
+
+#### Which book do the characters Tweedledum and Tweedledee appear in?
+
+- [ ] Mother Goose
+- [ ] A Tale of Two Cities
+- [x] Through the Looking Glass
+
+#### What objects appear limp and droopy in Salvador Dali's "The Persistence of Memory"?
+
+- [x] Pocket watches
+- [ ] Rifles
+- [ ] Frying pans
+
+#### What two Presidential candidates saw their election contested all the way to the Supreme Court?
+
+- [ ] Michael Dukakis and George H.W. Bush
+- [x] Al Gore and George W. Bush
+- [ ] Bill Clinton and Bob Dole
+
+#### What would you use the temporalis muscle to do?
+
+- [ ] Shake hands
+- [ ] Climb stairs
+- [x] Chew food
+
+#### Which of these foods is served warm?
+
+- [x] Hot dogs
+- [ ] Popsicles
+- [ ] Ice Cream
+
+#### Which NBA team's stadium was the first to let you use an app to adjust your seat temperature?
+
+- [x] Sacramento Kings
+- [ ] Golden State Warriors
+- [ ] Los Angeles Lakers
+
+#### Which of these reality shows features dealers bidding on lockers?
+
+- [x] Storage Wars
+- [ ] Pawn Stars
+- [ ] Cake Wars
+
+#### Which of these animals is NOT a main character in Disney's Robin Hood?
+
+- [ ] Vixen
+- [ ] Badger
+- [x] Pig
+
+#### Which actor is mostly closely related to Abraham Lincoln?
+
+- [ ] Tom Hanks
+- [x] George Clooney
+- [ ] Andrew Lincoln
+
+#### The needle of a magnetic compass will always point in which cardinal direction?
+
+- [ ] South
+- [ ] East
+- [x] North
+
+#### In the movie of the same name, what is the first rule of Fight Club?
+
+- [ ] No shirt, no shoes, no service
+- [ ] Do unto others as you would have them do unto you
+- [x] Don't talk about Fight Club
+
+#### Operation Desert Storm happened during which decade?
+
+- [ ] 1980's
+- [x] 1990's
+- [ ] 2010's
+
+#### Which of the following is NOT an oil typically used in cooking?
+
+- [ ] Olive Oil
+- [ ] Canola Oil
+- [x] Crude Oil
+
+#### Which "Star Trek" cast member hosted one of Nichelodeon's early shows?
+
+- [ ] William Shatner
+- [ ] Nichelle Nichols
+- [x] Leonard Nimoy
+
+#### The "Nutcracker" ballet is set during which holiday?
+
+- [x] Christmas
+- [ ] Easter
+- [ ] Arbor Day
+
+#### Which of these dishes is surrounded by a puff pastry?
+
+- [ ] Pad Thai
+- [ ] Borscht
+- [x] Beef Wellington
+
+#### What famous waterfall sits on the border of the U.S. and Canada?
+
+- [ ] Victoria Falls
+- [x] Niagara Falls
+- [ ] Yosemite Falls
+
+#### When you're sick, you're said to be "Under the" what?
+
+- [ ] Baseball
+- [ ] Thumb
+- [x] Weather
+
+#### The capital of Texas rhymes with the capital of which other State?
+
+- [ ] New York
+- [x] Massachusetts
+- [ ] Alaska
+
+#### J.D. Salinger is best known for what novel?
+
+- [x] Catcher in the Rye
+- [ ] A Wrinkle In Time
+- [ ] Who Moved My Cheese?
+
+#### What is the day job of Superman's alter ego?
+
+- [x] Reporter
+- [ ] Doctor
+- [ ] Accountant
+
+#### The Super-G is an Olympic event in which sport?
+
+- [ ] Climbing
+- [x] Skiing
+- [ ] Boxing
+
+#### In the Rock Band video game series, which of the following instruments was NOT released as a controller?
+
+- [ ] Drums
+- [ ] Guitar
+- [x] Glass Armonica
+
+#### In soccer, what happens when a player receives a red card from the referee?
+
+- [ ] They get a free kick
+- [x] They're ejected from the game
+- [ ] They have to play goalkeeper
+
+#### Where on earth would you go to make astronauts the closest human beings?
+
+- [ ] South Pole
+- [x] Point Nemo
+- [ ] Tristan da Cunha
+
+#### Which model is married to singer John Legend?
+
+- [ ] Christie Brinkley
+- [x] Chrissy Teigen
+- [ ] Cindy Crawford
+
+#### What Spielberg film is considered to be the first summer blockbuster?
+
+- [x] Jaws
+- [ ] E.T. The Extra Terrestrial
+- [ ] Always
+
+#### Which superhero has an invisible jet?
+
+- [x] Wonder Woman
+- [ ] Black Canary
+- [ ] Scarlet Witch
+
+#### The water in Australia's Lake Hillier appears to be what color?
+
+- [x] Pink
+- [ ] Purple
+- [ ] Orange
+
+#### What is the holiday wreath supposed to represent?
+
+- [x] Life
+- [ ] A racetrack
+- [ ] Disc Golf
+
+#### In "A Christmas Carol", which of the following is NOT one of the ghosts that visits Scrooge?
+
+- [ ] Christmas Past
+- [ ] Christmas Present
+- [x] Slimer
+
+#### Who first recorded "Little Drummer Boy"?
+
+- [x] The Trapp Family Singers
+- [ ] Frank Sinatra
+- [ ] Perry Como
+
+#### In what town does "It's A Wonderful Life" take place?
+
+- [x] Bedford Falls
+- [ ] New Orleans
+- [ ] Anaheim
+
+#### In "Rudolph The Red-Nosed Reindeer", what kind of job did Hermey the Elf dream of having?
+
+- [ ] Construction Foreman
+- [x] Dentist
+- [ ] Race car driver
+
+#### Who was cast in the original "Star Wars" after serving as a reading partner for other auditioners?
+
+- [x] Harrison Ford
+- [ ] Mark Hamill
+- [ ] Carrie Fisher
+
+#### Rainier Wolfcastle on "The Simpsons" is an action star based on which real-life action star?
+
+- [ ] Don Knotts
+- [x] Arnold Schwarzenegger
+- [ ] Oprah Winfrey
+
+#### What was the original title of The Beatles hit "Yesterday"?
+
+- [ ] Far Away
+- [x] Scrambled Eggs
+- [ ] Games We Play
+
+#### Mexican Train, Maltese Cross, and Muggins are all games played with what?
+
+- [ ] Billiard Balls
+- [ ] Playing Cards
+- [x] Dominoes
+
+#### The Union Jack is the official flag for what collection of countries?
+
+- [ ] United Arab Emirates
+- [ ] United Colors of Benetton
+- [x] The United Kingdom
+
+#### Which arcade machine has you dancing on touchpads?
+
+- [x] Dance Dance Revolution
+- [ ] Ms. Pac-Man
+- [ ] DJ Boy
+
+#### Which rapper co-founded Beats?
+
+- [x] Dr. Dre
+- [ ] Snoop Dogg
+- [ ] Wonder Mike
+
+#### Two U.S. Presidents have taken the oath of office four times; which of the following is one of them?
+
+- [x] Barack Obama
+- [ ] Lyndon B. Johnson
+- [ ] Richard Nixon
+
+#### Over the course of "The Golden Girls", the leads ate over 100 servings of what food?
+
+- [ ] Bagles
+- [x] Cheesecakes
+- [ ] Pizza
+
+#### The social network Vine allowed users to make videos with a maximum length of how much time?
+
+- [ ] One hour
+- [ ] Twenty minutes
+- [x] Six seconds
+
+#### When "Monty Python & The Holy Grail" couldn't afford real horses, what did the actors use instead?
+
+- [ ] Stick horses
+- [x] Coconuts
+- [ ] Nothing
+
+#### In "A Charlie Brown Thanksgiving", which of the following food items isn't served in the backyard dinner?
+
+- [ ] Toast
+- [x] Potato Chips
+- [ ] Sundaes
+
+#### In "The Wizard of Oz", what brings Dorothy and Toto to Oz?
+
+- [ ] A Phone Booth
+- [ ] A Ring
+- [x] A Tornado
+
+#### Which of the following TV shows takes place during the early 1800s?
+
+- [x] Bridgerton
+- [ ] Star Trek
+- [ ] Friends
+
+#### What is the term for a group of instrumentalists playing classical music?
+
+- [ ] Orchid
+- [ ] Orca
+- [x] Orchestra
+
+#### What is the capital of Norway?
+
+- [ ] Ottawa
+- [x] Oslo
+- [ ] Tunis
+
+#### What does it mean if a website has been 404'ed?
+
+- [ ] It's been hacked
+- [ ] It's rated high on Google
+- [x] It's vanished
