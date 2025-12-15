@@ -77865,3 +77865,15 @@
 - [x] Hadrian
 - [ ] Napoleon
 - [ ] William H. Taft
+
+#### Which film director also has his own brand of wine?
+
+- [ ] Steven Spielberg
+- [x] Francis Ford Coppola
+- [ ] Quentin Tarantino
+
+#### Which of these musical instruments has strings?
+
+- [ ] Maracas
+- [x] Guitar
+- [ ] Triangle
