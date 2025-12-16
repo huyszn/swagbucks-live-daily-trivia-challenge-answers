@@ -77877,3 +77877,63 @@
 - [ ] Maracas
 - [x] Guitar
 - [ ] Triangle
+
+#### What do you get when you heat sugar to 340 degrees Fahrenheit/171 degrees Celsius?
+
+- [ ] Chocolate
+- [ ] Cinnamon
+- [x] Caramel
+
+#### Blue jeans are generally made of what material?
+
+- [ ] Polyester
+- [x] Denim
+- [ ] Silk
+
+#### Minneapolis, Minnesota forms a metroplex with what other city?
+
+- [ ] Fort Worth
+- [ ] Pittsburgh
+- [x] St. Paul
+
+#### People with Claustrophobia suffer from a fear of what?
+
+- [x] Confined places
+- [ ] Cats
+- [ ] Cowboy boots
+
+#### SNL alum Jason Sudeikis co-created what TV show about a fish out of water soccer coach?
+
+- [ ] Winners
+- [ ] Ballers
+- [x] Ted Lasso
+
+#### What is the most popular papal name chosen by Popes throughout history?
+
+- [x] John
+- [ ] Benedict
+- [ ] Gregory
+
+#### What kind of animal is Sega's Sonic?
+
+- [ ] Kangaroo
+- [x] Hedgehog
+- [ ] Wolf
+
+#### What was the primary material used to build the Eiffel Tower?
+
+- [ ] Plastic
+- [ ] Wood
+- [x] Iron
+
+#### Which sport features a maneuver called the Bicycle Kick?
+
+- [ ] Hockey
+- [x] Soccer
+- [ ] Basketball
+
+#### "Snooki" and "JWoww" became famous on which reality show?
+
+- [ ] Catfish
+- [ ] Survivor
+- [x] Jersey Shore
