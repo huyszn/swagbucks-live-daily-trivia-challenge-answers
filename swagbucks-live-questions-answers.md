@@ -77937,3 +77937,15 @@
 - [ ] Catfish
 - [ ] Survivor
 - [x] Jersey Shore
+
+#### According to Forrest Gump, why is life like a box of chocolates?
+
+- [ ] It takes all kinds
+- [x] You never know what you're gonna get
+- [ ] It smells great
+
+#### George Harrison was a member of which band?
+
+- [ ] Wings
+- [ ] Run DMC
+- [x] The Beatles
