@@ -78009,3 +78009,15 @@
 - [x] Chinese
 - [ ] Latvian
 - [ ] Swedish
+
+#### Which Disney Princess was poisoned with an apple?
+
+- [ ] Moana
+- [ ] Rapunzel
+- [x] Snow White
+
+#### What game would someone with Batrachophobia be afraid to play?
+
+- [ ] Mousetrap
+- [x] Frogger
+- [ ] Ecco the Dolphin
