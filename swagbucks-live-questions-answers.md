@@ -77949,3 +77949,63 @@
 - [ ] Wings
 - [ ] Run DMC
 - [x] The Beatles
+
+#### What kind of cookie is traditionally used to build houses during the holidays?
+
+- [x] Gingerbread
+- [ ] Chocolate Chip
+- [ ] Lemon
+
+#### How many nights does Hanukkah last?
+
+- [ ] 12
+- [ ] 10
+- [x] 8
+
+#### What US gonvernment agency has an annual Santa Tracker?
+
+- [ ] CIA
+- [x] NORAD
+- [ ] CDC
+
+#### On which date is Boxing Day observed?
+
+- [ ] December 8th
+- [ ] December 23rd
+- [x] December 26th
+
+#### What city is home to the world's oldest continuously operating Christmas Market?
+
+- [x] Dresden, Germany
+- [ ] Edinburgh, Scotland
+- [ ] Strasbourg, France
+
+#### Which December holiday involves lighting candles held by a Kinara?
+
+- [ ] Day Without Art Day
+- [x] Kwanzaa
+- [ ] National Cookie Cutter Day
+
+#### What song is traditionally sung when the new year arrives?
+
+- [ ] Happy Days Are Here Again
+- [ ] Happy Birthday
+- [x] Auld Lang Syne
+
+#### What is the technical difference between a White Elephant and a Yankee Swap?
+
+- [x] The types of gifts
+- [ ] When it's held
+- [ ] Who organizes it
+
+#### What does Santa leave in the stockings of bad boys and girls?
+
+- [ ] Jump Rope
+- [x] Coal
+- [ ] Bubblegum
+
+#### An informal tradition for American Jewish people involves eating what type of cuisine on Christmas?
+
+- [x] Chinese
+- [ ] Latvian
+- [ ] Swedish
