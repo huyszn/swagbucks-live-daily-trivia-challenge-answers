@@ -59157,7 +59157,6 @@
 - [x] The Parent Trap
 - [ ] Confessions of a Teenage Drama Queen
 
-
 #### What term describes someone who is afraid to leave their home for any reason?
 
 - [x] Agoraphobe
@@ -78021,3 +78020,81 @@
 - [ ] Mousetrap
 - [x] Frogger
 - [ ] Ecco the Dolphin
+
+#### Kurt Cobain was the lead singer of what grunge band? (REPEATED QUESTION WITH DIFFERENT ANSWER ORDERS)
+
+- [ ] Nirvana
+- [ ] Soundgarden
+- [x] Pearl Jam
+
+#### Who is the only person to win an Emmy, Oscar, and Tony for directing in one year?
+
+- [ ] Mike Nichols
+- [x] Bob Fosse
+- [ ] Mel Brooks
+
+#### What two friends won an Oscar for writing "Good Will Hunting"?
+
+- [ ] John Lennon and Paul McCartney
+- [x] Matt Damon and Ben Affleck
+- [ ] George Clooney and Brad Pitt
+
+#### In "Home Alone", where does Kevin's mother force him to sleep as punishment?
+
+- [x] The attic
+- [ ] The laundry room
+- [ ] The airport
+
+#### Who plays the UK's Prime Minister in "Love, Actually"?
+
+- [ ] Alan Rickman
+- [ ] Martin Freeman
+- [x] Hugh Grant
+
+#### Which of the following Christmas movies stars Arnold Schwarzenegger?
+
+- [ ] Noelle
+- [x] Jingle All The Way
+- [ ] Christmas With The Kranks
+
+#### In "A Christmas Story", what secret message does Little Orphan Annie broadcast on its radio show?
+
+- [ ] Smart kids use Ivory soap
+- [ ] Merry Christmas to all
+- [x] Be sure to drink your Ovaltine
+
+#### Who playsd The Conductor in the Polar Express?
+
+- [x] Tom Hanks
+- [ ] Jim Carrey
+- [ ] Mark Ruffalo
+
+#### The actor who played Ellen Griswold's mother in "National Lampoon's Christmas Vacation" starred in which sitcom?
+
+- [ ] King of Queens
+- [ ] The Golden Girls
+- [x] Everybody Loves Raymond
+
+#### In "Elf", what song does everyone sing to power Santa's sleigh?
+
+- [ ] I Saw Mommy Kiss Santa Claus
+- [x] Santa Claus Is Coming To Town
+- [ ] Dear Old Santa
+
+#### George Clooney's aunt starred in which Christmas movie classic?
+
+- [ ] It's A Wonderful Life
+- [x] White Christmas
+- [ ] Miracle on 34th Street
+
+#### In "The Holiday", the two women who swap homes live in which two cities?
+
+- [ ] New York and Paris
+- [ ] Chicago and Rome
+- [x] Surrey and Los Angeles
+
+#### What does Tiny Tim say at the end of "A Christmas Carol"?
+
+- [ ] Th-th-th-that's all, folks!
+- [x] God bless us, everyone!
+- [ ] Well THAT happened...
