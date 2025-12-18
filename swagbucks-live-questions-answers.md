@@ -78098,3 +78098,27 @@
 - [ ] Th-th-th-that's all, folks!
 - [x] God bless us, everyone!
 - [ ] Well THAT happened...
+
+#### Which of the following terms has NOT been officially added to Webster's Dictionary?
+
+- [ ] Siri
+- [ ] Binge-Watch
+- [x] Craptacular
+
+#### Doctor Spin is the alter ego of what composer?
+
+- [ ] John Williams
+- [ ] Diane Warren
+- [x] Andrew Lloyd Webber
+
+#### What's toy name is synonymous with something moving up and down?
+
+- [ ] Slinky
+- [x] Yo-Yo
+- [ ] Sit n' Spin
+
+#### "Kiss Me, I'm Irish" is a reference to what famous Irish stone?
+
+- [x] The Blarney Stone
+- [ ] Sly and the Family Stone
+- [ ] The Flintstones
