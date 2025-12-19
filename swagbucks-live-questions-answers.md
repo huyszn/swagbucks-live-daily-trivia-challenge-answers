@@ -13632,12 +13632,6 @@
 - [x] Celebrimbor
 - [ ] Elrond
 
-#### What brand was known to "Tale a licking and keep on ticking"?
-
-- [ ] Rolex
-- [ ] Swatch
-- [x] Timex
-
 #### In 2008, a geocache was placed in what unique location?
 
 - [ ] The summit of Everest
@@ -78212,3 +78206,27 @@
 - [ ] Last Christmas
 - [ ] Santa Baby
 - [x] Deck the Halls
+
+#### The original movie version of "Charlie and the Chocolate Factory" replaces "Charlie" in the title with what?
+
+- [ ] Oompa Loompa
+- [ ] Silly Billy
+- [x] Willy Wonka
+
+#### The U.S. motto "E Pluribus Unum" is in what language?
+
+- [ ] English
+- [x] Latin
+- [ ] Italian
+
+#### What brand of watch takes a licking and keeps on ticking?
+
+- [ ] Fossil
+- [ ] Swatch
+- [x] Timex
+
+#### What instrument was used to make space-like sounds in the Beach Boys hit "Good Vibrations"?
+
+- [ ] Maracas
+- [x] Electro-theremin
+- [ ] Pan fulte
