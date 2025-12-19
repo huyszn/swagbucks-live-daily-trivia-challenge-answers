@@ -78122,3 +78122,93 @@
 - [x] The Blarney Stone
 - [ ] Sly and the Family Stone
 - [ ] The Flintstones
+
+#### Whose band was called the Miami Sound Machine?
+
+- [ ] Machine Gun Kelly
+- [ ] Pitbull
+- [x] Gloria Estefan
+
+#### After eating a power pellet, how does Pac-Man defeat ghosts?
+
+- [ ] With a bullwhip
+- [x] By chomping them
+- [ ] In small claims court
+
+#### What is the name of the imaginary kingdom from Mister Rogers' Neighborhood?
+
+- [x] Neighborhood of Make-Believe
+- [ ] Sausalito
+- [ ] The Holodeck
+
+#### When are your arrector pili muscles used?
+
+- [ ] When you cllimb a ladder
+- [ ] When you blink
+- [x] When you reach into your freezer
+
+#### Which of the following words is the opposite of ostentatious?
+
+- [ ] Sanguine
+- [ ] Curious
+- [x] Modest
+
+#### Dashing through the now, In a one horse open sleigh, Over the fields we go, laughing all the way..
+
+- [ ] Christmas in Hollis
+- [x] Jingle Bells
+- [ ] Merry Xmas Everybody
+
+#### The three words that best describe you are as follows, and I quote: "Stink! Stank! Stunk!"
+
+- [ ] All I Want For Christmas Is My Two Front Teeth
+- [ ] A Marshmallow World
+- [x] You're A Mean One, Mr. Grinch
+
+#### Shepherds quake at the sight; Glories stream from heaven afar, heavenly hosts sing Alleluia...
+
+- [x] Silent Night
+- [ ] Feliz Navidad
+- [ ] Santa Tell Me
+
+#### The now's coming down; I'm watching it fall; lots of people around...
+
+- [x] Christmas (Baby Please Come Home)
+- [ ] Driving Home For Christmas
+- [ ] Come On Home For Christmas
+
+#### Bah Humburg, now that's too strong! 'Cause it is my favorite holiday, but all this year's been a busy blur...
+
+- [ ] Funky, Funky Xmas
+- [x] Christmas Wrapping
+- [ ] Mistletoe and Wine
+
+#### Man, it doesn't show signs of stoppin' - and I've brought me some corn for poppin'; The lights are turned way down low...
+
+- [ ] Happy Holiday
+- [x] Let It Snow! Let It Snow! Let It Snow!
+- [ ] Hallelujah
+
+#### There's a world outside your window and it's a world of dread and fear...
+
+- [ ] Christmas At Ground Zero
+- [ ] Christmas Shoes
+- [x] Do They Know It's Christmas?
+
+#### A pair of shoes for Louie and a dress for Josephine; The label on the inside says they're made in Brook-a-leen...
+
+- [ ] Stupid Christmas Tree
+- [x] Dominick the Donkey
+- [ ] Grandma Got Run Over By A Reindeer
+
+#### You can plan on me; Please have snow and mistletoe, and presents on the tree...
+
+- [x] I'll be Home For Christmas
+- [ ] We Need A Little Christmas
+- [ ] Christmas in My Heart
+
+#### Follow me in merry measure, Fa la la la la, la la la la. While I tell of Yuletide treasure, Fa la la la la, la la la la.
+
+- [ ] Last Christmas
+- [ ] Santa Baby
+- [x] Deck the Halls
