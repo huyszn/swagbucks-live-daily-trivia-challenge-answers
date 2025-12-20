@@ -78229,4 +78229,22 @@
 
 - [ ] Maracas
 - [x] Electro-theremin
-- [ ] Pan fulte
+- [ ] Pan flute
+
+#### In which game series do you play as Link?
+
+- [ ] Metal Gear
+- [x] Legend of Zelda
+- [ ] FIFA
+
+#### Eddie Murphy's "Candy Cane Lane" is based on an actual street in what city?
+
+- [ ] Peabody, MA
+- [x] El Segundo, CA
+- [ ] Jenkintown, PA
+
+#### The Gameboy and PS Vita are examples of what kind of gaming consoles?
+
+- [x] Handheld
+- [ ] Black and white
+- [ ] Rear projection
