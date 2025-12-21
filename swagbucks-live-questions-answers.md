@@ -78248,3 +78248,21 @@
 - [x] Handheld
 - [ ] Black and white
 - [ ] Rear projection
+
+#### James "Buster" Douglas shocked the world in 1990 when he beat what World Champion?
+
+- [x] Mike Tyson
+- [ ] Muhammad Ali
+- [ ] Evander Holyfield
+
+#### What fast food chain created a highly in-demand spicy chicken sandwich in 2019?
+
+- [ ] Boston Market
+- [x] Popeye's
+- [ ] Dairy Queen
+
+#### In "When Harry Met Sally", when the woman says "I'll have what she's having", what dish is Sally eating?
+
+- [ ] Soup
+- [ ] Pie
+- [x] Sandwich
