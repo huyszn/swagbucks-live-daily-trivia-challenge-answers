@@ -78266,3 +78266,21 @@
 - [ ] Soup
 - [ ] Pie
 - [x] Sandwich
+
+#### In 1919, the city of Boston was flooded when a ruptured tank spilled what substance into the streets?
+
+- [ ] Soda
+- [x] Molasses
+- [ ] Beer
+
+#### D-Day was an operation during which war?
+
+- [ ] World War I
+- [ ] The U.S. Civil War
+- [x] World War II
+
+#### If gnurr were a valuable commodity, where would people most likely be able to find it?
+
+- [x] In their pockets
+- [ ] In a puddle
+- [ ] On a dog
