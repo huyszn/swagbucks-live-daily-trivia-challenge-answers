@@ -20953,12 +20953,6 @@
 - [x] Kristin Shepard
 - [ ] Cliff Barnes
 
-#### Which of the following lakes is NOT in the United States?
-
-- [ ] Lake Michigan
-- [ ] Lake Erie
-- [x] Gjende Lake
-
 #### What FX series about a chef became a hit in 2022?
 
 - [x] The Bear
@@ -78284,3 +78278,27 @@
 - [x] In their pockets
 - [ ] In a puddle
 - [ ] On a dog
+
+#### According to the Ghost Host, how many Happy Haunts can be found in Disney's Haunted Mansion?
+
+- [ ] 101
+- [x] 999
+- [ ] 1,000,000
+
+#### What American city sits on the banks of Lake Michigan?
+
+- [x] Chicago
+- [ ] New Orleans
+- [ ] Pensacola
+
+#### What scientific tool was used by Star Trek's away crews?
+
+- [x] Tricorder
+- [ ] Thermometer
+- [ ] Stethoscope
+
+#### The loss of Calais occurred during which queen's reign?
+
+- [x] Mary I
+- [ ] Elizabeth I
+- [ ] Victoria
