@@ -78302,3 +78302,15 @@
 - [x] Mary I
 - [ ] Elizabeth I
 - [ ] Victoria
+
+#### Who was the first African American to speak in the House Chamber of the U.S. Capitol building?
+
+- [x] Henry Garnet
+- [ ] Fredrick Douglas
+- [ ] Booker T Washington
+
+#### Which of these Doctor Strange variants is absent from "Multiverse of Madness"?
+
+- [x] Right Hand Of Doom
+- [ ] Supreme Strange
+- [ ] Defender Strange
