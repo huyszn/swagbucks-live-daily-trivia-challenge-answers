@@ -52561,7 +52561,7 @@
 - [x] Garbage Man
 - [ ] Teacher
 
-#### What is Ligtning McQueen's catchphrase?
+#### What is Lightning McQueen's catchphrase? (REPEATED QUESTION WITH DIFFERENT ANSWER ORDERS)
 
 - [ ] Ka-chugga, Ka-chugga...
 - [ ] Vroom!
@@ -78314,3 +78314,21 @@
 - [x] Right Hand Of Doom
 - [ ] Supreme Strange
 - [ ] Defender Strange
+
+#### Which of these bands did not start as someone else's backing band?
+
+- [ ] The Band
+- [x] The Who
+- [ ] The Eagles
+
+#### Which of the following cat breeds is known for their lack of hair?
+
+- [ ] Tabby
+- [x] Sphynx
+- [ ] Maine Coon
+
+#### What piece of equipment is used to hit the baseball?
+
+- [ ] Racket
+- [x] Bat
+- [ ] Oar
