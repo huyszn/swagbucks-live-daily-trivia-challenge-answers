@@ -78332,3 +78332,21 @@
 - [ ] Racket
 - [x] Bat
 - [ ] Oar
+
+#### Which of the following toys is a version of the stereoscope?
+
+- [x] The View Master
+- [ ] Chatty Cathy
+- [ ] Etch-A-Sketch
+
+#### Which of these Marvel movies is set in outer space?
+
+- [x] Guardians of the Galaxy
+- [ ] Iron Man 2
+- [ ] Captain America: The Winter Soldier
+
+#### In cartoons, who are Tom & Jerry?
+
+- [ ] A dog and a bird
+- [ ] A rabbit and a duck
+- [x] A cat and a mouse
