@@ -78350,3 +78350,27 @@
 - [ ] A dog and a bird
 - [ ] A rabbit and a duck
 - [x] A cat and a mouse
+
+#### What famous group of waterfalls is on the U.S.-Canada border?
+
+- [ ] Angel Falls
+- [ ] Yosemite Falls
+- [x] Niagara Falls
+
+#### What reality show was originally pitched as a scripted series?
+
+- [x] The Real World
+- [ ] Survivor
+- [ ] The Surreal Life
+
+#### In which board game do you score points by making words?
+
+- [ ] Chess
+- [ ] Sorry!
+- [x] Scrabble
+
+#### Which of the following Presidents is NOT featured on Mount Rushmore?
+
+- [ ] Abraham Lincoln
+- [ ] Teddy Roosevelt
+- [x] Richard Nixon
