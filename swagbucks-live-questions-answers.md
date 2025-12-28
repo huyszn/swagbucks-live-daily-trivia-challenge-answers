@@ -12624,7 +12624,7 @@
 - [x] The Volunteer State
 - [ ] The State Where Elvis Lived
 
-#### In the original version of "The Little Mermaid" by Hans Christain Andersen, what happens to the mermaid?
+#### In the original version of "The Little Mermaid" by Hans Christian Andersen, what happens to the mermaid?
 
 - [ ] She marries the prince
 - [ ] She becomes queen of the sea
