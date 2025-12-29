@@ -78374,3 +78374,15 @@
 - [ ] Abraham Lincoln
 - [ ] Teddy Roosevelt
 - [x] Richard Nixon
+
+#### What channel launched in 1981 with a roster of VJs?
+
+- [ ] QVC
+- [x] MTV
+- [ ] A&E
+
+#### In the story by Roald Dahl, whose Chocolate Factory does Charlie Bucket visit?
+
+- [ ] Slugworth
+- [ ] Henry Ford
+- [x] Willy Wonka
