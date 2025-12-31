@@ -78386,3 +78386,21 @@
 - [ ] Slugworth
 - [ ] Henry Ford
 - [x] Willy Wonka
+
+#### How much money did Jimmy the Greek make betting on Harry S. Truman's first election?
+
+- [ ] $1
+- [ ] $10,000
+- [x] $170,000
+
+#### Which of these Best Picture winners grossed the least at the U.S. box office?
+
+- [ ] The Last Emperor
+- [x] The Hurt Locker
+- [ ] Spotlight
+
+#### Whose first Wrestlemania appearance was as a driver?
+
+- [ ] CM Punk
+- [ ] Bob Holly
+- [x] Diamond Dallas Page
