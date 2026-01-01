@@ -78404,3 +78404,21 @@
 - [ ] CM Punk
 - [ ] Bob Holly
 - [x] Diamond Dallas Page
+
+#### Nora Roberts is known for writing what kinds of books?
+
+- [x] Romance Novels
+- [ ] Instruction Manuals
+- [ ] Children's Books
+
+#### Where was the first Classic Rock radio station launched?
+
+- [x] Dallas, Texas
+- [ ] Detroit, Michigan
+- [ ] Denver, Colorado
+
+#### In which book would you find Dr. T.J. Eckleburg?
+
+- [x] The Great Gatsby
+- [ ] The Catcher in the Rye
+- [ ] The Maltese Falcon
