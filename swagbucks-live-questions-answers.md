@@ -78422,3 +78422,21 @@
 - [x] The Great Gatsby
 - [ ] The Catcher in the Rye
 - [ ] The Maltese Falcon
+
+#### Which of the following is an island nation?
+
+- [ ] Denmark
+- [x] New Zealand
+- [ ] Canada
+
+#### Which legendary wrestler's record number of Wrestlemanias includes a streak of 21 wins?
+
+- [ ] HHH
+- [ ] Kane
+- [x] The Undertaker
+
+#### In August of 1962, Marvel comics introduced Spider-Man and what other hero?
+
+- [ ] Iron Man
+- [x] Thor
+- [ ] The Thing
