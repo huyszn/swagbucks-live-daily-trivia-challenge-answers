@@ -12624,7 +12624,7 @@
 - [x] The Volunteer State
 - [ ] The State Where Elvis Lived
 
-#### In the original version of "The Little Mermaid" by Hans Christain Andersen, what happens to the mermaid?
+#### In the original version of "The Little Mermaid" by Hans Christian Andersen, what happens to the mermaid?
 
 - [ ] She marries the prince
 - [ ] She becomes queen of the sea
@@ -13631,12 +13631,6 @@
 - [ ] Saruman
 - [x] Celebrimbor
 - [ ] Elrond
-
-#### What brand was known to "Tale a licking and keep on ticking"?
-
-- [ ] Rolex
-- [ ] Swatch
-- [x] Timex
 
 #### In 2008, a geocache was placed in what unique location?
 
@@ -20958,12 +20952,6 @@
 - [ ] Sue Ellen Ewing
 - [x] Kristin Shepard
 - [ ] Cliff Barnes
-
-#### Which of the following lakes is NOT in the United States?
-
-- [ ] Lake Michigan
-- [ ] Lake Erie
-- [x] Gjende Lake
 
 #### What FX series about a chef became a hit in 2022?
 
@@ -52573,7 +52561,7 @@
 - [x] Garbage Man
 - [ ] Teacher
 
-#### What is Ligtning McQueen's catchphrase?
+#### What is Lightning McQueen's catchphrase? (REPEATED QUESTION WITH DIFFERENT ANSWER ORDERS)
 
 - [ ] Ka-chugga, Ka-chugga...
 - [ ] Vroom!
@@ -59156,7 +59144,6 @@
 - [ ] Herbie Fully Loaded
 - [x] The Parent Trap
 - [ ] Confessions of a Teenage Drama Queen
-
 
 #### What term describes someone who is afraid to leave their home for any reason?
 
@@ -75502,12 +75489,6 @@
 - [x] Laughing all day long
 - [ ] A nose being tweaked
 
-#### What kidn of egg requires boiling water to cook?
-
-- [ ] Fried Eggs
-- [x] Poached Eggs
-- [ ] Scrambled Eggs
-
 #### Which of the following retail chains specializes in cosmetics?
 
 - [ ] Hermes
@@ -77505,3 +77486,939 @@
 - [x] Shallow
 - [ ] Thriller
 - [ ] Hard Day's Night
+
+#### What is Disney's shortest animated feature film?
+
+- [x] Dumbo
+- [ ] Pinocchio
+- [ ] Bambi
+
+#### The pop singer nicknamed "Dunk" had a recurring role on what TV show?
+
+- [ ] The Brady Bunch
+- [ ] American Horror Story
+- [x] Diff'rent Strokes
+
+#### Based on her new role, what song would actress Jodie Whittaker most likely be caught singing on her way to work?
+
+- [x] The Time Warp
+- [ ] These Boots Are Made For Walkin'
+- [ ] Mrs Robinson
+
+#### In which city is the children's book Madeline set?
+
+- [ ] Tucson
+- [ ] Cairo
+- [x] Paris
+
+#### Which of these icons is not featured on the cover of The Beatles' Sgt. Pepper's Lonely Hearts Club Band album?
+
+- [ ] Lenny Bruce
+- [x] Elvis
+- [ ] Mae West
+
+#### Which book do the characters Tweedledum and Tweedledee appear in?
+
+- [ ] Mother Goose
+- [ ] A Tale of Two Cities
+- [x] Through the Looking Glass
+
+#### What objects appear limp and droopy in Salvador Dali's "The Persistence of Memory"?
+
+- [x] Pocket watches
+- [ ] Rifles
+- [ ] Frying pans
+
+#### What two Presidential candidates saw their election contested all the way to the Supreme Court?
+
+- [ ] Michael Dukakis and George H.W. Bush
+- [x] Al Gore and George W. Bush
+- [ ] Bill Clinton and Bob Dole
+
+#### What would you use the temporalis muscle to do?
+
+- [ ] Shake hands
+- [ ] Climb stairs
+- [x] Chew food
+
+#### Which of these foods is served warm?
+
+- [x] Hot dogs
+- [ ] Popsicles
+- [ ] Ice Cream
+
+#### Which NBA team's stadium was the first to let you use an app to adjust your seat temperature?
+
+- [x] Sacramento Kings
+- [ ] Golden State Warriors
+- [ ] Los Angeles Lakers
+
+#### Which of these reality shows features dealers bidding on lockers?
+
+- [x] Storage Wars
+- [ ] Pawn Stars
+- [ ] Cake Wars
+
+#### Which of these animals is NOT a main character in Disney's Robin Hood?
+
+- [ ] Vixen
+- [ ] Badger
+- [x] Pig
+
+#### Which actor is mostly closely related to Abraham Lincoln?
+
+- [ ] Tom Hanks
+- [x] George Clooney
+- [ ] Andrew Lincoln
+
+#### The needle of a magnetic compass will always point in which cardinal direction?
+
+- [ ] South
+- [ ] East
+- [x] North
+
+#### In the movie of the same name, what is the first rule of Fight Club?
+
+- [ ] No shirt, no shoes, no service
+- [ ] Do unto others as you would have them do unto you
+- [x] Don't talk about Fight Club
+
+#### Operation Desert Storm happened during which decade?
+
+- [ ] 1980's
+- [x] 1990's
+- [ ] 2010's
+
+#### Which of the following is NOT an oil typically used in cooking?
+
+- [ ] Olive Oil
+- [ ] Canola Oil
+- [x] Crude Oil
+
+#### Which "Star Trek" cast member hosted one of Nichelodeon's early shows?
+
+- [ ] William Shatner
+- [ ] Nichelle Nichols
+- [x] Leonard Nimoy
+
+#### The "Nutcracker" ballet is set during which holiday?
+
+- [x] Christmas
+- [ ] Easter
+- [ ] Arbor Day
+
+#### Which of these dishes is surrounded by a puff pastry?
+
+- [ ] Pad Thai
+- [ ] Borscht
+- [x] Beef Wellington
+
+#### What famous waterfall sits on the border of the U.S. and Canada?
+
+- [ ] Victoria Falls
+- [x] Niagara Falls
+- [ ] Yosemite Falls
+
+#### When you're sick, you're said to be "Under the" what?
+
+- [ ] Baseball
+- [ ] Thumb
+- [x] Weather
+
+#### The capital of Texas rhymes with the capital of which other State?
+
+- [ ] New York
+- [x] Massachusetts
+- [ ] Alaska
+
+#### J.D. Salinger is best known for what novel?
+
+- [x] Catcher in the Rye
+- [ ] A Wrinkle In Time
+- [ ] Who Moved My Cheese?
+
+#### What is the day job of Superman's alter ego?
+
+- [x] Reporter
+- [ ] Doctor
+- [ ] Accountant
+
+#### The Super-G is an Olympic event in which sport?
+
+- [ ] Climbing
+- [x] Skiing
+- [ ] Boxing
+
+#### In the Rock Band video game series, which of the following instruments was NOT released as a controller?
+
+- [ ] Drums
+- [ ] Guitar
+- [x] Glass Armonica
+
+#### In soccer, what happens when a player receives a red card from the referee?
+
+- [ ] They get a free kick
+- [x] They're ejected from the game
+- [ ] They have to play goalkeeper
+
+#### Where on earth would you go to make astronauts the closest human beings?
+
+- [ ] South Pole
+- [x] Point Nemo
+- [ ] Tristan da Cunha
+
+#### Which model is married to singer John Legend?
+
+- [ ] Christie Brinkley
+- [x] Chrissy Teigen
+- [ ] Cindy Crawford
+
+#### What Spielberg film is considered to be the first summer blockbuster?
+
+- [x] Jaws
+- [ ] E.T. The Extra Terrestrial
+- [ ] Always
+
+#### Which superhero has an invisible jet?
+
+- [x] Wonder Woman
+- [ ] Black Canary
+- [ ] Scarlet Witch
+
+#### The water in Australia's Lake Hillier appears to be what color?
+
+- [x] Pink
+- [ ] Purple
+- [ ] Orange
+
+#### What is the holiday wreath supposed to represent?
+
+- [x] Life
+- [ ] A racetrack
+- [ ] Disc Golf
+
+#### In "A Christmas Carol", which of the following is NOT one of the ghosts that visits Scrooge?
+
+- [ ] Christmas Past
+- [ ] Christmas Present
+- [x] Slimer
+
+#### Who first recorded "Little Drummer Boy"?
+
+- [x] The Trapp Family Singers
+- [ ] Frank Sinatra
+- [ ] Perry Como
+
+#### In what town does "It's A Wonderful Life" take place?
+
+- [x] Bedford Falls
+- [ ] New Orleans
+- [ ] Anaheim
+
+#### In "Rudolph The Red-Nosed Reindeer", what kind of job did Hermey the Elf dream of having?
+
+- [ ] Construction Foreman
+- [x] Dentist
+- [ ] Race car driver
+
+#### Who was cast in the original "Star Wars" after serving as a reading partner for other auditioners?
+
+- [x] Harrison Ford
+- [ ] Mark Hamill
+- [ ] Carrie Fisher
+
+#### Rainier Wolfcastle on "The Simpsons" is an action star based on which real-life action star?
+
+- [ ] Don Knotts
+- [x] Arnold Schwarzenegger
+- [ ] Oprah Winfrey
+
+#### What was the original title of The Beatles hit "Yesterday"?
+
+- [ ] Far Away
+- [x] Scrambled Eggs
+- [ ] Games We Play
+
+#### Mexican Train, Maltese Cross, and Muggins are all games played with what?
+
+- [ ] Billiard Balls
+- [ ] Playing Cards
+- [x] Dominoes
+
+#### The Union Jack is the official flag for what collection of countries?
+
+- [ ] United Arab Emirates
+- [ ] United Colors of Benetton
+- [x] The United Kingdom
+
+#### Which arcade machine has you dancing on touchpads?
+
+- [x] Dance Dance Revolution
+- [ ] Ms. Pac-Man
+- [ ] DJ Boy
+
+#### Which rapper co-founded Beats?
+
+- [x] Dr. Dre
+- [ ] Snoop Dogg
+- [ ] Wonder Mike
+
+#### Two U.S. Presidents have taken the oath of office four times; which of the following is one of them?
+
+- [x] Barack Obama
+- [ ] Lyndon B. Johnson
+- [ ] Richard Nixon
+
+#### Over the course of "The Golden Girls", the leads ate over 100 servings of what food?
+
+- [ ] Bagles
+- [x] Cheesecakes
+- [ ] Pizza
+
+#### The social network Vine allowed users to make videos with a maximum length of how much time?
+
+- [ ] One hour
+- [ ] Twenty minutes
+- [x] Six seconds
+
+#### When "Monty Python & The Holy Grail" couldn't afford real horses, what did the actors use instead?
+
+- [ ] Stick horses
+- [x] Coconuts
+- [ ] Nothing
+
+#### In "A Charlie Brown Thanksgiving", which of the following food items isn't served in the backyard dinner?
+
+- [ ] Toast
+- [x] Potato Chips
+- [ ] Sundaes
+
+#### In "The Wizard of Oz", what brings Dorothy and Toto to Oz?
+
+- [ ] A Phone Booth
+- [ ] A Ring
+- [x] A Tornado
+
+#### Which of the following TV shows takes place during the early 1800s?
+
+- [x] Bridgerton
+- [ ] Star Trek
+- [ ] Friends
+
+#### What is the term for a group of instrumentalists playing classical music?
+
+- [ ] Orchid
+- [ ] Orca
+- [x] Orchestra
+
+#### What is the capital of Norway?
+
+- [ ] Ottawa
+- [x] Oslo
+- [ ] Tunis
+
+#### What does it mean if a website has been 404'ed?
+
+- [ ] It's been hacked
+- [ ] It's rated high on Google
+- [x] It's vanished
+
+#### Which of these toys has always required batteries?
+
+- [ ] Rainbow Brite
+- [x] Simon
+- [ ] Beanie Babies
+
+#### In what story do the Darling children travel to Neverland?
+
+- [ ] Alice in Wonderland
+- [ ] Gulliver's Travels
+- [x] Peter Pan
+
+#### Which is NOT a type of cactus?
+
+- [ ] Mammilaria
+- [x] Camellia
+- [ ] Epiphyllum
+
+#### What is wrapping paper traditionally used for?
+
+- [x] Presents
+- [ ] Writing music
+- [ ] Knitting
+
+#### Which Roman Emperor had a wall built across Northern England in the 2nd Century?
+
+- [x] Hadrian
+- [ ] Napoleon
+- [ ] William H. Taft
+
+#### Which film director also has his own brand of wine?
+
+- [ ] Steven Spielberg
+- [x] Francis Ford Coppola
+- [ ] Quentin Tarantino
+
+#### Which of these musical instruments has strings?
+
+- [ ] Maracas
+- [x] Guitar
+- [ ] Triangle
+
+#### What do you get when you heat sugar to 340 degrees Fahrenheit/171 degrees Celsius?
+
+- [ ] Chocolate
+- [ ] Cinnamon
+- [x] Caramel
+
+#### Blue jeans are generally made of what material?
+
+- [ ] Polyester
+- [x] Denim
+- [ ] Silk
+
+#### Minneapolis, Minnesota forms a metroplex with what other city?
+
+- [ ] Fort Worth
+- [ ] Pittsburgh
+- [x] St. Paul
+
+#### People with Claustrophobia suffer from a fear of what?
+
+- [x] Confined places
+- [ ] Cats
+- [ ] Cowboy boots
+
+#### SNL alum Jason Sudeikis co-created what TV show about a fish out of water soccer coach?
+
+- [ ] Winners
+- [ ] Ballers
+- [x] Ted Lasso
+
+#### What is the most popular papal name chosen by Popes throughout history?
+
+- [x] John
+- [ ] Benedict
+- [ ] Gregory
+
+#### What kind of animal is Sega's Sonic?
+
+- [ ] Kangaroo
+- [x] Hedgehog
+- [ ] Wolf
+
+#### What was the primary material used to build the Eiffel Tower?
+
+- [ ] Plastic
+- [ ] Wood
+- [x] Iron
+
+#### Which sport features a maneuver called the Bicycle Kick?
+
+- [ ] Hockey
+- [x] Soccer
+- [ ] Basketball
+
+#### "Snooki" and "JWoww" became famous on which reality show?
+
+- [ ] Catfish
+- [ ] Survivor
+- [x] Jersey Shore
+
+#### According to Forrest Gump, why is life like a box of chocolates?
+
+- [ ] It takes all kinds
+- [x] You never know what you're gonna get
+- [ ] It smells great
+
+#### George Harrison was a member of which band?
+
+- [ ] Wings
+- [ ] Run DMC
+- [x] The Beatles
+
+#### What kind of cookie is traditionally used to build houses during the holidays?
+
+- [x] Gingerbread
+- [ ] Chocolate Chip
+- [ ] Lemon
+
+#### How many nights does Hanukkah last?
+
+- [ ] 12
+- [ ] 10
+- [x] 8
+
+#### What US gonvernment agency has an annual Santa Tracker?
+
+- [ ] CIA
+- [x] NORAD
+- [ ] CDC
+
+#### On which date is Boxing Day observed?
+
+- [ ] December 8th
+- [ ] December 23rd
+- [x] December 26th
+
+#### What city is home to the world's oldest continuously operating Christmas Market?
+
+- [x] Dresden, Germany
+- [ ] Edinburgh, Scotland
+- [ ] Strasbourg, France
+
+#### Which December holiday involves lighting candles held by a Kinara?
+
+- [ ] Day Without Art Day
+- [x] Kwanzaa
+- [ ] National Cookie Cutter Day
+
+#### What song is traditionally sung when the new year arrives?
+
+- [ ] Happy Days Are Here Again
+- [ ] Happy Birthday
+- [x] Auld Lang Syne
+
+#### What is the technical difference between a White Elephant and a Yankee Swap?
+
+- [x] The types of gifts
+- [ ] When it's held
+- [ ] Who organizes it
+
+#### What does Santa leave in the stockings of bad boys and girls?
+
+- [ ] Jump Rope
+- [x] Coal
+- [ ] Bubblegum
+
+#### An informal tradition for American Jewish people involves eating what type of cuisine on Christmas?
+
+- [x] Chinese
+- [ ] Latvian
+- [ ] Swedish
+
+#### Which Disney Princess was poisoned with an apple?
+
+- [ ] Moana
+- [ ] Rapunzel
+- [x] Snow White
+
+#### What game would someone with Batrachophobia be afraid to play?
+
+- [ ] Mousetrap
+- [x] Frogger
+- [ ] Ecco the Dolphin
+
+#### Kurt Cobain was the lead singer of what grunge band? (REPEATED QUESTION WITH DIFFERENT ANSWER ORDERS)
+
+- [ ] Nirvana
+- [ ] Soundgarden
+- [x] Pearl Jam
+
+#### Who is the only person to win an Emmy, Oscar, and Tony for directing in one year?
+
+- [ ] Mike Nichols
+- [x] Bob Fosse
+- [ ] Mel Brooks
+
+#### What two friends won an Oscar for writing "Good Will Hunting"?
+
+- [ ] John Lennon and Paul McCartney
+- [x] Matt Damon and Ben Affleck
+- [ ] George Clooney and Brad Pitt
+
+#### In "Home Alone", where does Kevin's mother force him to sleep as punishment?
+
+- [x] The attic
+- [ ] The laundry room
+- [ ] The airport
+
+#### Who plays the UK's Prime Minister in "Love, Actually"?
+
+- [ ] Alan Rickman
+- [ ] Martin Freeman
+- [x] Hugh Grant
+
+#### Which of the following Christmas movies stars Arnold Schwarzenegger?
+
+- [ ] Noelle
+- [x] Jingle All The Way
+- [ ] Christmas With The Kranks
+
+#### In "A Christmas Story", what secret message does Little Orphan Annie broadcast on its radio show?
+
+- [ ] Smart kids use Ivory soap
+- [ ] Merry Christmas to all
+- [x] Be sure to drink your Ovaltine
+
+#### Who playsd The Conductor in the Polar Express?
+
+- [x] Tom Hanks
+- [ ] Jim Carrey
+- [ ] Mark Ruffalo
+
+#### The actor who played Ellen Griswold's mother in "National Lampoon's Christmas Vacation" starred in which sitcom?
+
+- [ ] King of Queens
+- [ ] The Golden Girls
+- [x] Everybody Loves Raymond
+
+#### In "Elf", what song does everyone sing to power Santa's sleigh?
+
+- [ ] I Saw Mommy Kiss Santa Claus
+- [x] Santa Claus Is Coming To Town
+- [ ] Dear Old Santa
+
+#### George Clooney's aunt starred in which Christmas movie classic?
+
+- [ ] It's A Wonderful Life
+- [x] White Christmas
+- [ ] Miracle on 34th Street
+
+#### In "The Holiday", the two women who swap homes live in which two cities?
+
+- [ ] New York and Paris
+- [ ] Chicago and Rome
+- [x] Surrey and Los Angeles
+
+#### What does Tiny Tim say at the end of "A Christmas Carol"?
+
+- [ ] Th-th-th-that's all, folks!
+- [x] God bless us, everyone!
+- [ ] Well THAT happened...
+
+#### Which of the following terms has NOT been officially added to Webster's Dictionary?
+
+- [ ] Siri
+- [ ] Binge-Watch
+- [x] Craptacular
+
+#### Doctor Spin is the alter ego of what composer?
+
+- [ ] John Williams
+- [ ] Diane Warren
+- [x] Andrew Lloyd Webber
+
+#### What's toy name is synonymous with something moving up and down?
+
+- [ ] Slinky
+- [x] Yo-Yo
+- [ ] Sit n' Spin
+
+#### "Kiss Me, I'm Irish" is a reference to what famous Irish stone?
+
+- [x] The Blarney Stone
+- [ ] Sly and the Family Stone
+- [ ] The Flintstones
+
+#### Whose band was called the Miami Sound Machine?
+
+- [ ] Machine Gun Kelly
+- [ ] Pitbull
+- [x] Gloria Estefan
+
+#### After eating a power pellet, how does Pac-Man defeat ghosts?
+
+- [ ] With a bullwhip
+- [x] By chomping them
+- [ ] In small claims court
+
+#### What is the name of the imaginary kingdom from Mister Rogers' Neighborhood?
+
+- [x] Neighborhood of Make-Believe
+- [ ] Sausalito
+- [ ] The Holodeck
+
+#### When are your arrector pili muscles used?
+
+- [ ] When you cllimb a ladder
+- [ ] When you blink
+- [x] When you reach into your freezer
+
+#### Which of the following words is the opposite of ostentatious?
+
+- [ ] Sanguine
+- [ ] Curious
+- [x] Modest
+
+#### Dashing through the now, In a one horse open sleigh, Over the fields we go, laughing all the way..
+
+- [ ] Christmas in Hollis
+- [x] Jingle Bells
+- [ ] Merry Xmas Everybody
+
+#### The three words that best describe you are as follows, and I quote: "Stink! Stank! Stunk!"
+
+- [ ] All I Want For Christmas Is My Two Front Teeth
+- [ ] A Marshmallow World
+- [x] You're A Mean One, Mr. Grinch
+
+#### Shepherds quake at the sight; Glories stream from heaven afar, heavenly hosts sing Alleluia...
+
+- [x] Silent Night
+- [ ] Feliz Navidad
+- [ ] Santa Tell Me
+
+#### The now's coming down; I'm watching it fall; lots of people around...
+
+- [x] Christmas (Baby Please Come Home)
+- [ ] Driving Home For Christmas
+- [ ] Come On Home For Christmas
+
+#### Bah Humburg, now that's too strong! 'Cause it is my favorite holiday, but all this year's been a busy blur...
+
+- [ ] Funky, Funky Xmas
+- [x] Christmas Wrapping
+- [ ] Mistletoe and Wine
+
+#### Man, it doesn't show signs of stoppin' - and I've brought me some corn for poppin'; The lights are turned way down low...
+
+- [ ] Happy Holiday
+- [x] Let It Snow! Let It Snow! Let It Snow!
+- [ ] Hallelujah
+
+#### There's a world outside your window and it's a world of dread and fear...
+
+- [ ] Christmas At Ground Zero
+- [ ] Christmas Shoes
+- [x] Do They Know It's Christmas?
+
+#### A pair of shoes for Louie and a dress for Josephine; The label on the inside says they're made in Brook-a-leen...
+
+- [ ] Stupid Christmas Tree
+- [x] Dominick the Donkey
+- [ ] Grandma Got Run Over By A Reindeer
+
+#### You can plan on me; Please have snow and mistletoe, and presents on the tree...
+
+- [x] I'll be Home For Christmas
+- [ ] We Need A Little Christmas
+- [ ] Christmas in My Heart
+
+#### Follow me in merry measure, Fa la la la la, la la la la. While I tell of Yuletide treasure, Fa la la la la, la la la la.
+
+- [ ] Last Christmas
+- [ ] Santa Baby
+- [x] Deck the Halls
+
+#### The original movie version of "Charlie and the Chocolate Factory" replaces "Charlie" in the title with what?
+
+- [ ] Oompa Loompa
+- [ ] Silly Billy
+- [x] Willy Wonka
+
+#### The U.S. motto "E Pluribus Unum" is in what language?
+
+- [ ] English
+- [x] Latin
+- [ ] Italian
+
+#### What brand of watch takes a licking and keeps on ticking?
+
+- [ ] Fossil
+- [ ] Swatch
+- [x] Timex
+
+#### What instrument was used to make space-like sounds in the Beach Boys hit "Good Vibrations"?
+
+- [ ] Maracas
+- [x] Electro-theremin
+- [ ] Pan flute
+
+#### In which game series do you play as Link?
+
+- [ ] Metal Gear
+- [x] Legend of Zelda
+- [ ] FIFA
+
+#### Eddie Murphy's "Candy Cane Lane" is based on an actual street in what city?
+
+- [ ] Peabody, MA
+- [x] El Segundo, CA
+- [ ] Jenkintown, PA
+
+#### The Gameboy and PS Vita are examples of what kind of gaming consoles?
+
+- [x] Handheld
+- [ ] Black and white
+- [ ] Rear projection
+
+#### James "Buster" Douglas shocked the world in 1990 when he beat what World Champion?
+
+- [x] Mike Tyson
+- [ ] Muhammad Ali
+- [ ] Evander Holyfield
+
+#### What fast food chain created a highly in-demand spicy chicken sandwich in 2019?
+
+- [ ] Boston Market
+- [x] Popeye's
+- [ ] Dairy Queen
+
+#### In "When Harry Met Sally", when the woman says "I'll have what she's having", what dish is Sally eating?
+
+- [ ] Soup
+- [ ] Pie
+- [x] Sandwich
+
+#### In 1919, the city of Boston was flooded when a ruptured tank spilled what substance into the streets?
+
+- [ ] Soda
+- [x] Molasses
+- [ ] Beer
+
+#### D-Day was an operation during which war?
+
+- [ ] World War I
+- [ ] The U.S. Civil War
+- [x] World War II
+
+#### If gnurr were a valuable commodity, where would people most likely be able to find it?
+
+- [x] In their pockets
+- [ ] In a puddle
+- [ ] On a dog
+
+#### According to the Ghost Host, how many Happy Haunts can be found in Disney's Haunted Mansion?
+
+- [ ] 101
+- [x] 999
+- [ ] 1,000,000
+
+#### What American city sits on the banks of Lake Michigan?
+
+- [x] Chicago
+- [ ] New Orleans
+- [ ] Pensacola
+
+#### What scientific tool was used by Star Trek's away crews?
+
+- [x] Tricorder
+- [ ] Thermometer
+- [ ] Stethoscope
+
+#### The loss of Calais occurred during which queen's reign?
+
+- [x] Mary I
+- [ ] Elizabeth I
+- [ ] Victoria
+
+#### Who was the first African American to speak in the House Chamber of the U.S. Capitol building?
+
+- [x] Henry Garnet
+- [ ] Fredrick Douglas
+- [ ] Booker T Washington
+
+#### Which of these Doctor Strange variants is absent from "Multiverse of Madness"?
+
+- [x] Right Hand Of Doom
+- [ ] Supreme Strange
+- [ ] Defender Strange
+
+#### Which of these bands did not start as someone else's backing band?
+
+- [ ] The Band
+- [x] The Who
+- [ ] The Eagles
+
+#### Which of the following cat breeds is known for their lack of hair?
+
+- [ ] Tabby
+- [x] Sphynx
+- [ ] Maine Coon
+
+#### What piece of equipment is used to hit the baseball?
+
+- [ ] Racket
+- [x] Bat
+- [ ] Oar
+
+#### Which of the following toys is a version of the stereoscope?
+
+- [x] The View Master
+- [ ] Chatty Cathy
+- [ ] Etch-A-Sketch
+
+#### Which of these Marvel movies is set in outer space?
+
+- [x] Guardians of the Galaxy
+- [ ] Iron Man 2
+- [ ] Captain America: The Winter Soldier
+
+#### In cartoons, who are Tom & Jerry?
+
+- [ ] A dog and a bird
+- [ ] A rabbit and a duck
+- [x] A cat and a mouse
+
+#### What famous group of waterfalls is on the U.S.-Canada border?
+
+- [ ] Angel Falls
+- [ ] Yosemite Falls
+- [x] Niagara Falls
+
+#### What reality show was originally pitched as a scripted series?
+
+- [x] The Real World
+- [ ] Survivor
+- [ ] The Surreal Life
+
+#### In which board game do you score points by making words?
+
+- [ ] Chess
+- [ ] Sorry!
+- [x] Scrabble
+
+#### Which of the following Presidents is NOT featured on Mount Rushmore?
+
+- [ ] Abraham Lincoln
+- [ ] Teddy Roosevelt
+- [x] Richard Nixon
+
+#### What channel launched in 1981 with a roster of VJs?
+
+- [ ] QVC
+- [x] MTV
+- [ ] A&E
+
+#### In the story by Roald Dahl, whose Chocolate Factory does Charlie Bucket visit?
+
+- [ ] Slugworth
+- [ ] Henry Ford
+- [x] Willy Wonka
+
+#### How much money did Jimmy the Greek make betting on Harry S. Truman's first election?
+
+- [ ] $1
+- [ ] $10,000
+- [x] $170,000
+
+#### Which of these Best Picture winners grossed the least at the U.S. box office?
+
+- [ ] The Last Emperor
+- [x] The Hurt Locker
+- [ ] Spotlight
+
+#### Whose first Wrestlemania appearance was as a driver?
+
+- [ ] CM Punk
+- [ ] Bob Holly
+- [x] Diamond Dallas Page
+
+#### Nora Roberts is known for writing what kinds of books?
+
+- [x] Romance Novels
+- [ ] Instruction Manuals
+- [ ] Children's Books
+
+#### Where was the first Classic Rock radio station launched?
+
+- [x] Dallas, Texas
+- [ ] Detroit, Michigan
+- [ ] Denver, Colorado
+
+#### In which book would you find Dr. T.J. Eckleburg?
+
+- [x] The Great Gatsby
+- [ ] The Catcher in the Rye
+- [ ] The Maltese Falcon
