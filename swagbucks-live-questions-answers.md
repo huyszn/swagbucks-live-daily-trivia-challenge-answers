@@ -78440,3 +78440,21 @@
 - [ ] Iron Man
 - [x] Thor
 - [ ] The Thing
+
+#### Which of these 90s food items was discontinued most recently?
+
+- [ ] Squeeze Its
+- [ ] Fruitopia
+- [x] Butterfinger BBs
+
+#### Florida's State Constitution has an amendment guaranteeing the freedom of which pregnant animal?
+
+- [ ] Alligator
+- [x] Pig
+- [ ] Dog
+
+#### The world's first webcam provided a continuous video feed of what?
+
+- [x] A coffee pot
+- [ ] An aquarium
+- [ ] A baby
