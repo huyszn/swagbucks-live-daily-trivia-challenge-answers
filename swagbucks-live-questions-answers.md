@@ -58233,12 +58233,6 @@
 - [ ] Queen Elizabeth II
 - [x] Margaret Thatcher
 
-#### Which of these desserts is typically filled with a sweet creamy filling?
-
-- [x] Cannoli
-- [ ] Banana Bread
-- [ ] Chocolate Chip Cookie
-
 #### Which of the following terms refers to a measure of the rate at which work is done?
 
 - [x] Horsepower
@@ -78458,3 +78452,27 @@
 - [x] A coffee pot
 - [ ] An aquarium
 - [ ] A baby
+
+#### How do you say Merry Christmas in Spanish?
+
+- [ ] Como estas?
+- [x] Feliz Navidad!
+- [ ] Buenas noches
+
+#### What is the name of the van that Scooby-Doo and the gang use?
+
+- [ ] The Masked Machine
+- [ ] The Detectivemobile
+- [x] The Mystery Machine
+
+#### Elvis Costello was banned from SNL for performing what song?
+
+- [ ] Veronica
+- [x] Radio Radio
+- [ ] Watching the Detectives
+
+#### In "The Little Mermaid", what are the thingamabobs?
+
+- [ ] Forks
+- [ ] Pocket watches
+- [x] Corkscrews
