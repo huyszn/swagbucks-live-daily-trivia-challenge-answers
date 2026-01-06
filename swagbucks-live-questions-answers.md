@@ -78554,3 +78554,21 @@
 - [ ] One Battle After Another
 - [x] A Minecraft Movie
 - [ ] The Running Man
+
+#### In the Brady Bunch, how many of the children had Carol as a biological mother?
+
+- [ ] 1
+- [x] 3
+- [ ] 6
+
+#### The man who invented cotton candy had what profession?
+
+- [x] Dentist
+- [ ] Engineer
+- [ ] Tailor
+
+#### Which of the following films won an Oscar in every category they were nominated for?
+
+- [x] Ed Wood
+- [ ] Out of Africa
+- [ ] You Can't Take It With You
