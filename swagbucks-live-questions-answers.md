@@ -78482,3 +78482,75 @@
 - [x] Area 51
 - [ ] Area 911
 - [ ] Area 867-5309
+
+#### Martin Scorsese wanted Ray Liotta for "Goodfellas" after seeing his performance in what other movie?
+
+- [ ] The Lonely Lady
+- [x] Something Wild
+- [ ] Dominick and Eugene
+
+#### Whose final words were "OH WOW. OH WOW. OH WOW."?
+
+- [x] Steve Jobs 
+- [ ] Stephen Hawking
+- [ ] Albert Einstein
+
+#### What celebrity couple announced their engagement on August 26th, 2025?
+
+- [x] Taylor Swift and Travis Kelce
+- [ ] Selena Gomez and Benny Blanco
+- [ ] Sydney Sweeney and Scooter Braim
+
+#### What two number phrase became popular among kids in 2025?
+
+- [ ] One-Two
+- [ ] Twenty Three-Four
+- [x] Six-Seven
+
+#### Who won the 2025 Super Bowl?
+
+- [x] Buffalo Bills
+- [ ] Philadelphia Eagles
+- [ ] Kansas City Chiefs
+
+#### What singer went into space on Blue Origin in April of 2025?
+
+- [x] Katy Perry
+- [ ] Lady Gaga
+- [ ] Rihanna
+
+#### What candy became a viral trend in 2025?
+
+- [ ] Hong Kong Chocolate
+- [x] Dubai Chocolate
+- [ ] Winnipeg Chocolate
+
+#### What hit 2025 Netflix series featured the single "Golden"?
+
+- [x] KPop Demon Hunters
+- [ ] The Beast in ME
+- [ ] Sirens
+
+#### A tech company CEO was caught hugging his Chief People Officer while attending a concert by which band?
+
+- [ ] Oasis
+- [ ] U2
+- [x] Coldplay
+
+#### In 2025, Pope Leo XIV became the first Pope born in which country?
+
+- [ ] Belgium
+- [x] The United States
+- [ ] Canada
+
+#### Mark Carney became Prime Minister of Canada in 2025. Who did he replace?
+
+- [x] Justin Trudeau
+- [ ] Kim Campbell
+- [ ] Paul Martin
+
+#### What video game adaptation became one of the top-grossing movies of 2025?
+
+- [ ] One Battle After Another
+- [x] A Minecraft Movie
+- [ ] The Running Man
