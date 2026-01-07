@@ -78632,3 +78632,21 @@
 - [x] Goldfish
 - [ ] Eel
 - [ ] Octopus
+
+#### Which of these words is the closest in meaning to stubborn?
+
+- [x] Obstinate
+- [ ] Objective
+- [ ] Oblong
+
+#### According to the song, what happens when you wish upon a star?
+
+- [ ] Your car breaks down
+- [ ] It starts to smell
+- [x] Your Dreams Come True
+
+#### What famous board game is also a word for an apology?
+
+- [ ] My Bad!
+- [x] Sorry!
+- [ ] Oops!
