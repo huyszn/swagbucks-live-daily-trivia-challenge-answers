@@ -66915,7 +66915,7 @@
 - [ ] Five dollars
 - [x] Nine
 
-#### What kind of poem did Shakespeare wrjte 154 of?
+#### What kind of poem did Shakespeare write 154 of?
 
 - [x] Sonnets
 - [ ] Haiku
@@ -78572,3 +78572,63 @@
 - [x] Ed Wood
 - [ ] Out of Africa
 - [ ] You Can't Take It With You
+
+#### What is the term for a religious day of rest and worship?
+
+- [x] Sabbath
+- [ ] Sleepday
+- [ ] Resturday
+
+#### In which classic arcade game are you trying to avoid barrels being thrown by a giant ape?
+
+- [ ] Pac-Man
+- [x] Donkey Kong
+- [ ] Asteroids
+
+#### Saves, Runs Batted In, and WHIP are all stats measured in which sport?
+
+- [ ] Racquetball
+- [ ] Foosball
+- [x] Baseball
+
+#### In May of 2013, the Cronut became a sensation. What two foods does it combine?
+
+- [ ] Croissant & Peanut Butter
+- [x] Croissant & Donut
+- [ ] Croissant & Nutter Butter
+
+#### Donna Summer was known as the Queen of what genre of music?
+
+- [x] Disco
+- [ ] Bossa Nova
+- [ ] EDM
+
+#### What is the only country with three capital cities?
+
+- [ ] Italy
+- [x] South Africa
+- [ ] Ghana
+
+#### Which superhero flew back into theaters in the summer of 2025, played by David Corenswet?
+
+- [x] Superman
+- [ ] Batman
+- [ ] Hawkman
+
+#### From which country does the Haiku originate?
+
+- [ ] India
+- [x] Japan
+- [ ] Sweden
+
+#### Tagalog is the official language of which country?
+
+- [ ] Canada
+- [ ] The United States
+- [x] The Philippines
+
+#### Pepperidge Farms sells cheesy crackers in the shape of which aquatic species?
+
+- [x] Goldfish
+- [ ] Eel
+- [ ] Octopus
