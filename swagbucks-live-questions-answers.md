@@ -78728,3 +78728,21 @@
 - [x] Zero
 - [ ] One
 - [ ] The number itself
+
+#### If a large drink is $8, making a medium cost $7 to boost sales of a large is an example of what strategy?
+
+- [ ] Price Matching
+- [x] Decoy Pricing
+- [ ] Price Gouging
+
+#### "Scent of a Woman" led to whose first acting Oscar?
+
+- [ ] Marlon Brando
+- [ ] Denzel Washington
+- [x] Al Pacino
+
+#### Mars is also known as the "what" planet?
+
+- [ ] Funny
+- [ ] Tasty
+- [x] Red
