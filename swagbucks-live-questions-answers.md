@@ -78650,3 +78650,81 @@
 - [ ] My Bad!
 - [x] Sorry!
 - [ ] Oops!
+
+#### What is the term for a baby goat?
+
+- [x] Kid
+- [ ] Puppy
+- [ ] Hatchling
+
+#### Who won "Survivor: The Australian Outback"?
+
+- [ ] Colby
+- [x] Tina
+- [ ] Amber
+
+#### Who offered to train female sharpshooters for the U.S. during World War I?
+
+- [ ] Buffalo Bill Cody
+- [ ] Teddy Roosevelt
+- [x] Annie Oakley
+
+#### What company uses the slogan "Share Moments. Share Life"?
+
+- [x] Kodak
+- [ ] Dr. Scholl's
+- [ ] L'Oreal
+
+#### What is the capital of India?
+
+- [ ] Calcutta
+- [x] New Delhi
+- [ ] Jaipur
+
+#### Sushi is usually wrapped in what substance?
+
+- [x] Seaweed
+- [ ] Gum
+- [ ] Flour Tortilla
+
+#### How old was Mozart when he wrote his first opera?
+
+- [ ] 6
+- [ ] 9
+- [x] 11
+
+#### According to the Brady Bunch theme song, which Brady girl's hair was "in curls"?
+
+- [x] The Youngest one
+- [ ] The Middle one
+- [ ] The Oldest one
+
+#### Which animal has fingerprints nearly identical to ours?
+
+- [ ] Sloth
+- [x] Koala Bear
+- [ ] Kangaroo
+
+#### Which of the following comic strips mainly centers around office life?
+
+- [ ] Beetle Bailey
+- [ ] Garfield
+- [x] Dilbert
+
+#### Sportswriter Henry Chadwick created what shorthand for a strikeout in baseball?
+
+- [ ] S
+- [x] K
+- [ ] X
+
+#### Which of the following is NOT one of the main types of keys in music?
+
+- [ ] Major
+- [ ] Minor
+- [x] Skeleton
+
+#### What is the result of multiplying any number by zero?
+
+- [x] Zero
+- [ ] One
+- [ ] The number itself
