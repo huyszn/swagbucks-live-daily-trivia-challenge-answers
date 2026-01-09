@@ -78824,3 +78824,15 @@
 - [x] What's This?
 - [ ] When You Wish Upon A Star
 - [ ] Under The Sea
+
+#### Which brand's jingle is "Plop, plop, fizz, fizz, oh what a relief it is"?
+
+- [ ] Pepto Bismol
+- [x] Alka-Seltzer
+- [ ] Tums
+
+#### Pharrell once wore a hat to the Grammys that provoked what fast food chain to joke that he was using their logo?
+
+- [x] Arby's
+- [ ] Burger King
+- [ ] McDonald's
