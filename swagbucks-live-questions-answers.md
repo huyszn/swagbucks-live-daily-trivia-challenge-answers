@@ -78746,3 +78746,81 @@
 - [ ] Funny
 - [ ] Tasty
 - [x] Red
+
+#### The line "Government of the people, by the people, for the people..." is a grammatical example of what?
+
+- [ ] Hyperbaton
+- [x] Epistrophe
+- [ ] Litoes
+
+#### What ancient culture once worshipped Trukeys as gods?
+
+- [x] Maya
+- [ ] Aztec
+- [ ] Egypt
+
+#### Turok: Dinosaur Hunter originally appeared on what videogame system?
+
+- [ ] PlayStation
+- [ ] Dreamcast
+- [x] Nintendo 64
+
+#### I can show you the world... Shining, shimmering, splendid. Tell me, princess now when did you last let your heart decide?
+
+- [ ] Friend Like Me
+- [x] A Whole New World
+- [ ] Arabian Nights
+
+#### In every job that must be done, there is an element of fun; You find the fun and snap! The job's a game.
+
+- [ ] Portobello Road
+- [ ] I Wonder
+- [x] A Spoonful of Sugar
+
+#### When the road looks rough ahead and you're miles and miles from your nice warm bed; Just remember what your old pal said...
+
+- [ ] When Shoe Loved Me
+- [x] You've Got A Friend In Me
+- [ ] Not In Nottingham
+
+#### Treguna Mekoides Trecorum Satis Dee...
+
+- [ ] Bibbidi Bobbidi Boo
+- [ ] Higitus Figitus
+- [x] Substitutiary Locomotion
+
+#### Yes, together, we two - Together that's you, forever with me...
+
+- [ ] Why Should I Worry
+- [x] Good Company
+- [ ] Sykes
+
+#### Seven A.M., the usual morning lineup; Start on the chores and sweep 'til the floor's all clean...
+
+- [x] When Will My Life Begin
+- [ ] Mother Knows Best
+- [ ] I See The Light
+
+#### I can be huge in the whole house and be teeny and small as a mouse; Black sorcery is my dish of tea - It comes easy to me...
+
+- [ ] Poor Unfortunate Souls
+- [ ] Friends On The Other Side
+- [x] Mad Madam Mim
+
+#### Grab somebody, come on down; Bring your paintbrush, we're paintin' the town. Oh, there's some sweetness goin' 'round...
+
+- [x] Down in New Orleans
+- [ ] Almost There
+- [ ] Gonna Take You There
+
+#### When you look under the rocks and plants and take a glance at the fancy ants - Then maybe try a few...
+
+- [x] The Bare Necessities
+- [ ] I Wanna Be Like You
+- [ ] Trust In Me
+
+#### There's frost on every window, oh, I can't believe my eyes; And in my bones I feel the warmth that's coming from inside...
+
+- [x] What's This?
+- [ ] When You Wish Upon A Star
+- [ ] Under The Sea
