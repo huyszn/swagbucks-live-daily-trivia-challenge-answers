@@ -18363,8 +18363,8 @@
 
 #### Where would you find the world's oldest known living tree?
 
-- [ ] Sweden
-- [x] China
+- [x] Sweden
+- [ ] China
 - [ ] Kenya
 
 #### Which of the following Disney Princesses has a sister?
@@ -78836,3 +78836,27 @@
 - [x] Arby's
 - [ ] Burger King
 - [ ] McDonald's
+
+#### Which environmentalist wrote "Silent Spring"?
+
+- [ ] Edward Abbey
+- [x] Rachel Carlson
+- [ ] Wangari Maathai
+
+#### When Moonlight won the Academy Award for Best Picture, what film's name was read by mistake?
+
+- [x] La La Land
+- [ ] Rear Window
+- [ ] Good Will Hunting
+
+#### According to his song, which of these boasts about Gaston is NOT mentioned?
+
+- [ ] Turning off the lights
+- [ ] Having the thickest neck
+- [x] Eating six dozen eggs
+
+#### What do invertebrates lack?
+
+- [ ] A central nervous system
+- [ ] A digestive tract
+- [x] A backbone
