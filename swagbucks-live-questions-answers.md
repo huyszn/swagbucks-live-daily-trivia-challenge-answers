@@ -35833,7 +35833,7 @@
 - [ ] Samuel Adams
 - [x] Alexander Hamilton
 
-#### Japanese novelist Taro Hirai wrote detective function under the phonetic pseudonym of which author?
+#### Japanese novelist Taro Hirai wrote detective fiction under the phonetic pseudonym of which author?
 
 - [ ] H.P. Lovecraft
 - [ ] Mark Twain
@@ -78860,3 +78860,27 @@
 - [ ] A central nervous system
 - [ ] A digestive tract
 - [x] A backbone
+
+#### Apple Brown Betty is a dessert typically made with apples and what?
+
+- [ ] Brown Paint
+- [x] Brown Sugar
+- [ ] Jackson Browne
+
+#### Holden Caulfield is the protagonist of which book?
+
+- [x] Catcher in the Rye
+- [ ] Flowers in the Attic
+- [ ] To Kill A Mockingbird
+
+#### Which Hollywood star once had their own animated series called "Bruno The Kid"?
+
+- [ ] Howie Mandel
+- [x] Bruce Willis
+- [ ] Tom Hanks
+
+#### Which of these was NOT a video game published by Rockstar?
+
+- [ ] LA Noire
+- [ ] Table Tennis
+- [x] Manhunter: New York
