@@ -18363,8 +18363,8 @@
 
 #### Where would you find the world's oldest known living tree?
 
-- [ ] Sweden
-- [x] China
+- [x] Sweden
+- [ ] China
 - [ ] Kenya
 
 #### Which of the following Disney Princesses has a sister?
@@ -58233,12 +58233,6 @@
 - [ ] Queen Elizabeth II
 - [x] Margaret Thatcher
 
-#### Which of these desserts is typically filled with a sweet creamy filling?
-
-- [x] Cannoli
-- [ ] Banana Bread
-- [ ] Chocolate Chip Cookie
-
 #### Which of the following terms refers to a measure of the rate at which work is done?
 
 - [x] Horsepower
@@ -66921,7 +66915,7 @@
 - [ ] Five dollars
 - [x] Nine
 
-#### What kind of poem did Shakespeare wrjte 154 of?
+#### What kind of poem did Shakespeare write 154 of?
 
 - [x] Sonnets
 - [ ] Haiku
@@ -78422,3 +78416,447 @@
 - [x] The Great Gatsby
 - [ ] The Catcher in the Rye
 - [ ] The Maltese Falcon
+
+#### Which of the following is an island nation?
+
+- [ ] Denmark
+- [x] New Zealand
+- [ ] Canada
+
+#### Which legendary wrestler's record number of Wrestlemanias includes a streak of 21 wins?
+
+- [ ] HHH
+- [ ] Kane
+- [x] The Undertaker
+
+#### In August of 1962, Marvel comics introduced Spider-Man and what other hero?
+
+- [ ] Iron Man
+- [x] Thor
+- [ ] The Thing
+
+#### Which of these 90s food items was discontinued most recently?
+
+- [ ] Squeeze Its
+- [ ] Fruitopia
+- [x] Butterfinger BBs
+
+#### Florida's State Constitution has an amendment guaranteeing the freedom of which pregnant animal?
+
+- [ ] Alligator
+- [x] Pig
+- [ ] Dog
+
+#### The world's first webcam provided a continuous video feed of what?
+
+- [x] A coffee pot
+- [ ] An aquarium
+- [ ] A baby
+
+#### How do you say Merry Christmas in Spanish?
+
+- [ ] Como estas?
+- [x] Feliz Navidad!
+- [ ] Buenas noches
+
+#### What is the name of the van that Scooby-Doo and the gang use?
+
+- [ ] The Masked Machine
+- [ ] The Detectivemobile
+- [x] The Mystery Machine
+
+#### Elvis Costello was banned from SNL for performing what song?
+
+- [ ] Veronica
+- [x] Radio Radio
+- [ ] Watching the Detectives
+
+#### In "The Little Mermaid", what are the thingamabobs?
+
+- [ ] Forks
+- [ ] Pocket watches
+- [x] Corkscrews
+
+#### What U.S. Government facility is rumored to house aliens?
+
+- [x] Area 51
+- [ ] Area 911
+- [ ] Area 867-5309
+
+#### Martin Scorsese wanted Ray Liotta for "Goodfellas" after seeing his performance in what other movie?
+
+- [ ] The Lonely Lady
+- [x] Something Wild
+- [ ] Dominick and Eugene
+
+#### Whose final words were "OH WOW. OH WOW. OH WOW."?
+
+- [x] Steve Jobs 
+- [ ] Stephen Hawking
+- [ ] Albert Einstein
+
+#### What celebrity couple announced their engagement on August 26th, 2025?
+
+- [x] Taylor Swift and Travis Kelce
+- [ ] Selena Gomez and Benny Blanco
+- [ ] Sydney Sweeney and Scooter Braim
+
+#### What two number phrase became popular among kids in 2025?
+
+- [ ] One-Two
+- [ ] Twenty Three-Four
+- [x] Six-Seven
+
+#### Who won the 2025 Super Bowl?
+
+- [x] Buffalo Bills
+- [ ] Philadelphia Eagles
+- [ ] Kansas City Chiefs
+
+#### What singer went into space on Blue Origin in April of 2025?
+
+- [x] Katy Perry
+- [ ] Lady Gaga
+- [ ] Rihanna
+
+#### What candy became a viral trend in 2025?
+
+- [ ] Hong Kong Chocolate
+- [x] Dubai Chocolate
+- [ ] Winnipeg Chocolate
+
+#### What hit 2025 Netflix series featured the single "Golden"?
+
+- [x] KPop Demon Hunters
+- [ ] The Beast in ME
+- [ ] Sirens
+
+#### A tech company CEO was caught hugging his Chief People Officer while attending a concert by which band?
+
+- [ ] Oasis
+- [ ] U2
+- [x] Coldplay
+
+#### In 2025, Pope Leo XIV became the first Pope born in which country?
+
+- [ ] Belgium
+- [x] The United States
+- [ ] Canada
+
+#### Mark Carney became Prime Minister of Canada in 2025. Who did he replace?
+
+- [x] Justin Trudeau
+- [ ] Kim Campbell
+- [ ] Paul Martin
+
+#### What video game adaptation became one of the top-grossing movies of 2025?
+
+- [ ] One Battle After Another
+- [x] A Minecraft Movie
+- [ ] The Running Man
+
+#### In the Brady Bunch, how many of the children had Carol as a biological mother?
+
+- [ ] 1
+- [x] 3
+- [ ] 6
+
+#### The man who invented cotton candy had what profession?
+
+- [x] Dentist
+- [ ] Engineer
+- [ ] Tailor
+
+#### Which of the following films won an Oscar in every category they were nominated for?
+
+- [x] Ed Wood
+- [ ] Out of Africa
+- [ ] You Can't Take It With You
+
+#### What is the term for a religious day of rest and worship?
+
+- [x] Sabbath
+- [ ] Sleepday
+- [ ] Resturday
+
+#### In which classic arcade game are you trying to avoid barrels being thrown by a giant ape?
+
+- [ ] Pac-Man
+- [x] Donkey Kong
+- [ ] Asteroids
+
+#### Saves, Runs Batted In, and WHIP are all stats measured in which sport?
+
+- [ ] Racquetball
+- [ ] Foosball
+- [x] Baseball
+
+#### In May of 2013, the Cronut became a sensation. What two foods does it combine?
+
+- [ ] Croissant & Peanut Butter
+- [x] Croissant & Donut
+- [ ] Croissant & Nutter Butter
+
+#### Donna Summer was known as the Queen of what genre of music?
+
+- [x] Disco
+- [ ] Bossa Nova
+- [ ] EDM
+
+#### What is the only country with three capital cities?
+
+- [ ] Italy
+- [x] South Africa
+- [ ] Ghana
+
+#### Which superhero flew back into theaters in the summer of 2025, played by David Corenswet?
+
+- [x] Superman
+- [ ] Batman
+- [ ] Hawkman
+
+#### From which country does the Haiku originate?
+
+- [ ] India
+- [x] Japan
+- [ ] Sweden
+
+#### Tagalog is the official language of which country?
+
+- [ ] Canada
+- [ ] The United States
+- [x] The Philippines
+
+#### Pepperidge Farms sells cheesy crackers in the shape of which aquatic species?
+
+- [x] Goldfish
+- [ ] Eel
+- [ ] Octopus
+
+#### Which of these words is the closest in meaning to stubborn?
+
+- [x] Obstinate
+- [ ] Objective
+- [ ] Oblong
+
+#### According to the song, what happens when you wish upon a star?
+
+- [ ] Your car breaks down
+- [ ] It starts to smell
+- [x] Your Dreams Come True
+
+#### What famous board game is also a word for an apology?
+
+- [ ] My Bad!
+- [x] Sorry!
+- [ ] Oops!
+
+#### What is the term for a baby goat?
+
+- [x] Kid
+- [ ] Puppy
+- [ ] Hatchling
+
+#### Who won "Survivor: The Australian Outback"?
+
+- [ ] Colby
+- [x] Tina
+- [ ] Amber
+
+#### Who offered to train female sharpshooters for the U.S. during World War I?
+
+- [ ] Buffalo Bill Cody
+- [ ] Teddy Roosevelt
+- [x] Annie Oakley
+
+#### What company uses the slogan "Share Moments. Share Life"?
+
+- [x] Kodak
+- [ ] Dr. Scholl's
+- [ ] L'Oreal
+
+#### What is the capital of India?
+
+- [ ] Calcutta
+- [x] New Delhi
+- [ ] Jaipur
+
+#### Sushi is usually wrapped in what substance?
+
+- [x] Seaweed
+- [ ] Gum
+- [ ] Flour Tortilla
+
+#### How old was Mozart when he wrote his first opera?
+
+- [ ] 6
+- [ ] 9
+- [x] 11
+
+#### According to the Brady Bunch theme song, which Brady girl's hair was "in curls"?
+
+- [x] The Youngest one
+- [ ] The Middle one
+- [ ] The Oldest one
+
+#### Which animal has fingerprints nearly identical to ours?
+
+- [ ] Sloth
+- [x] Koala Bear
+- [ ] Kangaroo
+
+#### Which of the following comic strips mainly centers around office life?
+
+- [ ] Beetle Bailey
+- [ ] Garfield
+- [x] Dilbert
+
+#### Sportswriter Henry Chadwick created what shorthand for a strikeout in baseball?
+
+- [ ] S
+- [x] K
+- [ ] X
+
+#### Which of the following is NOT one of the main types of keys in music?
+
+- [ ] Major
+- [ ] Minor
+- [x] Skeleton
+
+#### What is the result of multiplying any number by zero?
+
+- [x] Zero
+- [ ] One
+- [ ] The number itself
+
+#### If a large drink is $8, making a medium cost $7 to boost sales of a large is an example of what strategy?
+
+- [ ] Price Matching
+- [x] Decoy Pricing
+- [ ] Price Gouging
+
+#### "Scent of a Woman" led to whose first acting Oscar?
+
+- [ ] Marlon Brando
+- [ ] Denzel Washington
+- [x] Al Pacino
+
+#### Mars is also known as the "what" planet?
+
+- [ ] Funny
+- [ ] Tasty
+- [x] Red
+
+#### The line "Government of the people, by the people, for the people..." is a grammatical example of what?
+
+- [ ] Hyperbaton
+- [x] Epistrophe
+- [ ] Litoes
+
+#### What ancient culture once worshipped Trukeys as gods?
+
+- [x] Maya
+- [ ] Aztec
+- [ ] Egypt
+
+#### Turok: Dinosaur Hunter originally appeared on what videogame system?
+
+- [ ] PlayStation
+- [ ] Dreamcast
+- [x] Nintendo 64
+
+#### I can show you the world... Shining, shimmering, splendid. Tell me, princess now when did you last let your heart decide?
+
+- [ ] Friend Like Me
+- [x] A Whole New World
+- [ ] Arabian Nights
+
+#### In every job that must be done, there is an element of fun; You find the fun and snap! The job's a game.
+
+- [ ] Portobello Road
+- [ ] I Wonder
+- [x] A Spoonful of Sugar
+
+#### When the road looks rough ahead and you're miles and miles from your nice warm bed; Just remember what your old pal said...
+
+- [ ] When Shoe Loved Me
+- [x] You've Got A Friend In Me
+- [ ] Not In Nottingham
+
+#### Treguna Mekoides Trecorum Satis Dee...
+
+- [ ] Bibbidi Bobbidi Boo
+- [ ] Higitus Figitus
+- [x] Substitutiary Locomotion
+
+#### Yes, together, we two - Together that's you, forever with me...
+
+- [ ] Why Should I Worry
+- [x] Good Company
+- [ ] Sykes
+
+#### Seven A.M., the usual morning lineup; Start on the chores and sweep 'til the floor's all clean...
+
+- [x] When Will My Life Begin
+- [ ] Mother Knows Best
+- [ ] I See The Light
+
+#### I can be huge in the whole house and be teeny and small as a mouse; Black sorcery is my dish of tea - It comes easy to me...
+
+- [ ] Poor Unfortunate Souls
+- [ ] Friends On The Other Side
+- [x] Mad Madam Mim
+
+#### Grab somebody, come on down; Bring your paintbrush, we're paintin' the town. Oh, there's some sweetness goin' 'round...
+
+- [x] Down in New Orleans
+- [ ] Almost There
+- [ ] Gonna Take You There
+
+#### When you look under the rocks and plants and take a glance at the fancy ants - Then maybe try a few...
+
+- [x] The Bare Necessities
+- [ ] I Wanna Be Like You
+- [ ] Trust In Me
+
+#### There's frost on every window, oh, I can't believe my eyes; And in my bones I feel the warmth that's coming from inside...
+
+- [x] What's This?
+- [ ] When You Wish Upon A Star
+- [ ] Under The Sea
+
+#### Which brand's jingle is "Plop, plop, fizz, fizz, oh what a relief it is"?
+
+- [ ] Pepto Bismol
+- [x] Alka-Seltzer
+- [ ] Tums
+
+#### Pharrell once wore a hat to the Grammys that provoked what fast food chain to joke that he was using their logo?
+
+- [x] Arby's
+- [ ] Burger King
+- [ ] McDonald's
+
+#### Which environmentalist wrote "Silent Spring"?
+
+- [ ] Edward Abbey
+- [x] Rachel Carlson
+- [ ] Wangari Maathai
+
+#### When Moonlight won the Academy Award for Best Picture, what film's name was read by mistake?
+
+- [x] La La Land
+- [ ] Rear Window
+- [ ] Good Will Hunting
+
+#### According to his song, which of these boasts about Gaston is NOT mentioned?
+
+- [ ] Turning off the lights
+- [ ] Having the thickest neck
+- [x] Eating six dozen eggs
+
+#### What do invertebrates lack?
+
+- [ ] A central nervous system
+- [ ] A digestive tract
+- [x] A backbone
