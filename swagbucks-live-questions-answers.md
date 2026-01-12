@@ -78884,3 +78884,21 @@
 - [ ] LA Noire
 - [ ] Table Tennis
 - [x] Manhunter: New York
+
+#### Which of these websites is about making and watching videos?
+
+- [ ] Pets.com
+- [x] YouTube.com
+- [ ] Food.com
+
+#### Which of these plants is not part of the same genetic family as the other two?
+
+- [x] Artichoke
+- [ ] Brussels Sprouts
+- [ ] Kale
+
+#### Until 1999, bribes paid abroad were technically tax deductible for companies in what country?
+
+- [ ] Switzerland
+- [x] Germany
+- [ ] France
