@@ -50793,7 +50793,7 @@
 
 #### Tony Hawk is famous for his contributions to what sport?
 
-- [ ] Pickeball
+- [ ] Pickleball
 - [x] Skateboarding
 - [ ] Track & Field
 
@@ -62408,12 +62408,6 @@
 - [ ] Chocolate
 - [ ] Strawberry
 - [x] Vanilla
-
-#### Tony Hawk is famous for his contributions to what sport?
-
-- [ ] Pickleball
-- [x] Skateboarding
-- [ ] Track & Field
 
 #### Which of these movies takes place at a college?
 
@@ -78962,3 +78956,27 @@
 - [ ] Night Court
 - [ ] Perfect Strangers
 - [x] Diff'rent Strokes
+
+#### In chess, what pieces do you need for castling?
+
+- [x] King & Rook
+- [ ] Pawn & Bishop
+- [ ] King & Queen
+
+#### Butch's car in "Pulp Fiction" also appears in what other Quentin Tarantino film?
+
+- [ ] Reservoir Dogs
+- [x] Jackie Brown
+- [ ] Death Proof
+
+#### Which of the following is the name for sliced meats in between two pieces of bread?
+
+- [ ] Sandbox
+- [ ] Sandy Duncan
+- [x] Sandwich
+
+#### Which of these characters was created by Mark Twain?
+
+- [ ] Tom Thumb
+- [x] Tom Sawyers
+- [ ] Tom Hanks
