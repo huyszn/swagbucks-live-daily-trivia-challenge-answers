@@ -78902,3 +78902,63 @@
 - [ ] Switzerland
 - [x] Germany
 - [ ] France
+
+#### WHo played Mork in "Mork & Mindy"?
+
+- [ ] Jonathan Winters
+- [x] Robin Williams
+- [ ] Conrad Bain
+
+#### On "ALF", what planet is Alf from?
+
+- [ ] Meepos
+- [ ] Mars
+- [x] Melmac
+
+#### Which "Cheers" character owned the bar?
+
+- [x] Sam Malone
+- [ ] Diane Chambers
+- [ ] Norm Peterson
+
+#### "Three's A Crowd" was a spinoff/continuation of what other sitcom?
+
+- [ ] Alice
+- [x] Three's Company
+- [ ] All In the Family
+
+#### In "The Greatest American Hero", why couldn't Ralph properly work the suit?
+
+- [x] He lost the instruction manual
+- [ ] It was defective
+- [ ] The suit had a mind of its own
+
+#### What was the name of the robot girl from "Small Wonder"?
+
+- [ ] Harriet
+- [x] Vicki
+- [ ] Bonnie
+
+#### The "Naked Gun" movies are a continuation of what 1982 comedy series?
+
+- [x] Police Squad!
+- [ ] M*A*S*H
+- [ ] Taxi
+
+#### Alyssa Milano got her big break in which 1980s sitcom?
+
+- [ ] Joanie Loves Chachi
+- [x] Who's The Boss?
+- [ ] The Wonder Years
+
+#### Michael J. Fox played Alex P. Keaton on which 1980s sitcom?
+
+- [x] Family Ties
+- [ ] Growing Pains
+- [ ] Webster
+
+#### "Whatchu talkin' 'bout, Willis?" was a catchphrase from which 1980s sitcom?
+
+- [ ] Night Court
+- [ ] Perfect Strangers
+- [x] Diff'rent Strokes
