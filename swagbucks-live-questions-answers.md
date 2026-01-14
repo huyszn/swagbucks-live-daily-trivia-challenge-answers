@@ -79052,3 +79052,33 @@
 - [ ] Build It
 - [x] Tool Time
 - [ ] Grunt Work
+
+#### Which of these designers is known for women's dress heels?
+
+- [x] Jimmy Choo
+- [ ] Billabong
+- [ ] Mossimo
+
+#### Which of the following actors has never played God on film?
+
+- [ ] Val Kilmer
+- [ ] Whoopi Goldberg
+- [x] William Shatner
+
+#### Which is the most common letter in the English language?
+
+- [ ] Z
+- [x] E
+- [ ] Q
+
+#### When Eleven and Mike slow dance, whose song is playing?
+
+- [ ] Tears for Fears
+- [ ] Cyndi Lauper
+- [x] The Police
+
+#### What country is home to the place with the longest geographical name in the world?
+
+- [ ] The Philippines
+- [ ] Finland
+- [x] New Zealand
