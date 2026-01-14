@@ -21739,7 +21739,7 @@
 - [ ] Boggle
 - [ ] Chutes and Ladders
 
-#### March 31, 1848 is wildly considered to be the start of what movement?
+#### March 31, 1848 is widely considered to be the start of what movement?
 
 - [ ] Mormonism
 - [x] Spiritualism
@@ -78980,3 +78980,75 @@
 - [ ] Tom Thumb
 - [x] Tom Sawyers
 - [ ] Tom Hanks
+
+#### Before taking over CBS's "Late Night", what satirical talk show did Stephen Colbert host?
+
+- [ ] Real Time
+- [x] The Colbert Report
+- [ ] Crossfire
+
+#### Which of the following Sesame Street characters is a Peristerophile?
+
+- [x] Bert
+- [ ] Ernie
+- [ ] Cookie Monster
+
+#### What high school do the characters from "Saved By The Bell" attend?
+
+- [ ] Eastside High
+- [x] Bayside High
+- [ ] Rydell High
+
+#### According to the theme song, where was "The Fresh Prince of Bel-Air" born and raised?
+
+- [ ] Pennsauken
+- [ ] East Lansing
+- [x] West Philadelphia
+
+#### What did "Married... With Children" lead Al Bundy do for a living?
+
+- [ ] Doctor
+- [x] Shoes Salesman
+- [ ] Repo Man
+
+#### "Vandelay Industries" was a fake import/export company created by which "seinfeld" character?
+
+- [x] George
+- [ ] Jerry
+- [ ] Elaine
+
+#### Prior to "Friends", Jennifer Aniston starred in a short-lived 1990 sitcom adaptation of what 1980s movie?
+
+- [ ] The Breakfast Club
+- [ ] Pretty in Pink
+- [x] Ferris Bueller's Day Off
+
+#### Which 1990s sitcom starred Queen Latifah?
+
+- [ ] Will & Grace
+- [x] Living Single
+- [ ] Blossom
+
+#### The stars of "Kenan & Kel" first worked together on which kids' show?
+
+- [ ] Kids Incorporated
+- [ ] MMC
+- [x] All That
+
+#### On "Wings", what musical instrument did Helen Chappel play?
+
+- [ ] Flute
+- [x] Cello
+- [ ] Piano
+
+#### On "Friends", which character becomes a surrogate for her brother's triplets?
+
+- [x] Phoebe
+- [ ] Monica
+- [ ] Rachel
+
+#### What is the name of Tim "The Toolman" Taylor's TV show on "Home Improvement"?
+
+- [ ] Build It
+- [x] Tool Time
+- [ ] Grunt Work
