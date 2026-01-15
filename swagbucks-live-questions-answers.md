@@ -38464,7 +38464,7 @@
 #### The USS Arizona was sunk during a sneak attack on which U.S. Naval Base?
 
 - [x] Pearl Harbor
-- [x] Pensacola
+- [ ] Pensacola
 - [ ] Patuxent River
 
 #### Fictional characters Basil Brush and Tod are both what kinds of animal?
@@ -79142,3 +79142,21 @@
 - [ ] Seth Meyers
 - [ ] Amy Poehler
 - [x] Tiny Fey
+
+#### In the Twilight Zone Episode "Time Enough at Last," who breaks his glasses?
+
+- [x] Henry Bemis
+- [ ] Fred Renard
+- [ ] Captain Allenby
+
+#### What color are Granny Smith Apples?
+
+- [ ] Purple
+- [ ] Pink
+- [x] Green
+
+#### Where would you most likely find a hassock?
+
+- [x] Italian Church
+- [ ] Russian Office
+- [ ] Finnish Sauna
