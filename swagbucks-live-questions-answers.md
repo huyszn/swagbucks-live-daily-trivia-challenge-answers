@@ -79082,3 +79082,63 @@
 - [ ] The Philippines
 - [ ] Finland
 - [x] New Zealand
+
+#### Which of the following actors got their start on "That 70s Show"?
+
+- [x] Ashton Kutcher
+- [ ] Jaleel White
+- [ ] Danny McBride
+
+#### After "Friends", Courtney Cox starred in which 2000s sitcom?
+
+- [ ] Ally McBeal
+- [ ] Entourage
+- [x] Cougar Town
+
+#### "Everybody Hates Chris" was a sitcom about the childhood of which famous Chris?
+
+- [x] Chris Rock
+- [ ] Chris Hemsworth
+- [ ] Chris Tucker
+
+#### Thee show "Eastbound & Down" is about which sport?
+
+- [ ] Golf
+- [x] Baseball
+- [ ] Football
+
+#### What does Charlie Harper from "Two And A Half Men" do for a living?
+
+- [x] Commercial Jingle composer
+- [ ] Painter
+- [ ] Contractor
+
+#### Which of the following 2000s sitcoms has a character who breaks the fourth wall?
+
+- [ ] Curb Your Enthusiasm
+- [x] Malcolm in the Middle
+- [ ] Monk
+
+#### Which character from "The Big Bang Theory" makes his roommates sign a lengthy "Roommate Agreement?"
+
+- [ ] Raj
+- [ ] Wolowitz
+- [x] Sheldon
+
+#### Which "Scrubs" character was originally intended to be an imaginary character?
+
+- [x] Janitor
+- [ ] Turk
+- [ ] Dr. Cox
+
+#### In "My Name Is Earl", how does Earl get his fortune?
+
+- [ ] He steals it
+- [x] He gets a winning scratch-off card
+- [ ] He inherits it
+
+#### Which SNL alum created "30 Rock"?
+
+- [ ] Seth Meyers
+- [ ] Amy Poehler
+- [x] Tiny Fey
