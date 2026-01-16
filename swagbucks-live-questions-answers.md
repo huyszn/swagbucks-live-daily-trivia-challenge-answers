@@ -79160,3 +79160,63 @@
 - [x] Italian Church
 - [ ] Russian Office
 - [ ] Finnish Sauna
+
+#### "Parks & Recreation" concerns the government workers in what fictitious Indiana city?
+
+- [x] Pawnee
+- [ ] Mayberry
+- [ ] Fraggle Rock
+
+#### What 2016 sitcom takes place in the afterlife?
+
+- [ ] Last Man Standing
+- [x] The Good Place
+- [ ] Superstore
+
+#### "The Goldbergs" primarily took place during which decade?
+
+- [ ] 1960s
+- [ ] 1970s
+- [x] 1980s
+
+#### The series "GLOW" was originally available through what platform?
+
+- [ ] Hulu
+- [x] Netflix
+- [ ] Peacock
+
+#### Which of these 2010s sitcoms had the fewest number of episodes?
+
+- [x] Men of a Certain Age
+- [ ] Don't Trust The B in Apartment 23
+- [ ] Suburgatory
+
+#### Which of the following 2010s sitcoms is a spin-off?
+
+- [ ] Good Luck Charlie
+- [ ] Baby Daddy
+- [x] Girl Meets World
+
+#### According to the show's creator, Jess from "New Girl" was partially based on which celebrity?
+
+- [ ] Dianne Wiest
+- [x] Diane Keaton
+- [ ] Goldie Hawn
+
+#### Before creating "Black-ish", what other show did Kenya Barris co-create?
+
+- [x] America's Next Top Model
+- [ ] Everybody Hates Chris
+- [ ] Brooklyn 99
+
+#### Who won multiple Emmy awards for her role as Selena Meyer on "Veep"?
+
+- [ ] Maya Rudolph
+- [ ] Jan Hooks
+- [x] Julia Louis-Dreyfus
+
+#### Which of these sitcoms that launched in the 2010s is animated?
+
+- [x] Bob's Burgers
+- [ ] The Mindy Project
+- [ ] Fleabag
