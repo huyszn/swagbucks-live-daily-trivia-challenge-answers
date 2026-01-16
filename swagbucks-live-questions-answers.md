@@ -37666,8 +37666,8 @@
 #### Which planet is closest to the Sun?
 
 - [ ] Earth
-- [ ] Mercury
-- [x] Mars
+- [x] Mercury
+- [ ] Mars
 
 #### Peter Pan, Skippy, and Jif are all brands of what?
 
@@ -79220,3 +79220,15 @@
 - [x] Bob's Burgers
 - [ ] The Mindy Project
 - [ ] Fleabag
+
+#### What word would you use to say both "Hello" and "Goodbye" in Hawaii?
+
+- [ ] Ukulele
+- [x] Aloha
+- [ ] Luau
+
+#### What Judicial Circuit did Abraham Lincoln famously travel as a prairie lawyer in Indiana?
+
+- [x] 8th
+- [ ] 12th
+- [ ] 16th
