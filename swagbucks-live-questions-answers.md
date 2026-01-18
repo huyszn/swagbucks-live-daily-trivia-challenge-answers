@@ -79232,3 +79232,15 @@
 - [x] 8th
 - [ ] 12th
 - [ ] 16th
+
+#### Which of these animals has NOT held a public office?
+
+- [ ] Horse
+- [ ] Rhinoceros
+- [x] Snake
+
+#### Which of the following sections comes at the end of a book?
+
+- [ ] Table of content
+- [x] Epilogue
+- [ ] Lincoln Logue
