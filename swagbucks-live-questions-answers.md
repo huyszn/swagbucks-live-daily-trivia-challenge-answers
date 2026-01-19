@@ -79244,3 +79244,33 @@
 - [ ] Table of content
 - [x] Epilogue
 - [ ] Lincoln Logue
+
+#### What is the highest-grossing stop-motion animated film of all time?
+
+- [ ] The Nightmare Before Christmas
+- [x] Chicken Run
+- [ ] Coraline
+
+#### What method of food prep involves cooking at low temperatures in water?
+
+- [ ] Frying
+- [x] Sous Vide
+- [ ] Barbecue
+
+#### Which of the following was not a song by The Clash?
+
+- [ ] Train in Vain
+- [ ] White Riot
+- [x] The Crashdown
+
+#### The Carolina Hurricanes and Winnipeg Jets play in which league?
+
+- [ ] MLS
+- [x] NHL
+- [ ] NBA
+
+#### What is the height of a regulation basketball hoop?
+
+- [ ] 2 feet
+- [x] 10 feet
+- [ ] 30 feet
