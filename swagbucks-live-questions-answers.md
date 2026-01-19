@@ -79274,3 +79274,33 @@
 - [ ] 2 feet
 - [x] 10 feet
 - [ ] 30 feet
+
+#### Which of the following is NOT mentioned in R.E.M.'s "It's the End of the World as We Know It"?
+
+- [ ] Cavalier
+- [ ] Lester Bangs
+- [x] Elmer Bernstein
+
+#### How do you measure a horse's height?
+
+- [x] Hands
+- [ ] Feet
+- [ ] Centimeters
+
+#### What are the names of the Mario Bros?
+
+- [ ] Bert and Ernie
+- [ ] Fric and Frac
+- [x] Mario and Luigi
+
+#### Alpha-bits cereal pieces are shaped like what?
+
+- [x] Letters
+- [ ] Spaceships
+- [ ] Barrels
+
+#### Toucan Sam is the spokesbird for which cereal?
+
+- [ ] Frosted Flakes
+- [ ] Coca Puffs
+- [x] Froot Loops
