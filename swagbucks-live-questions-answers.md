@@ -79304,3 +79304,15 @@
 - [ ] Frosted Flakes
 - [ ] Coca Puffs
 - [x] Froot Loops
+
+#### Which fast food brand has a cowboy hat in their logo?
+
+- [ ] Wendy's
+- [ ] McDonald's
+- [x] Arby's
+
+#### Will Smith was once known by what rap nickname?
+
+- [x] The Fresh Prince
+- [ ] The Ripe King
+- [ ] The Matured Duke
