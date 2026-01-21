@@ -79316,3 +79316,63 @@
 - [x] The Fresh Prince
 - [ ] The Ripe King
 - [ ] The Matured Duke
+
+#### Which pop star once had a signature look that included wearing a single sparkly glove?
+
+- [x] Michael Jackson
+- [ ] Elvis Presley
+- [ ] Adele
+
+#### In July of 2025, which Adam Sandler comedy had its sequel debut on Netflix?
+
+- [ ] Billy Madison
+- [ ] The Waterboy
+- [x] Happy Gilmore
+
+#### Athens is considered the birthplace of democracy. Where is it located?
+
+- [x] Greece
+- [ ] Italy
+- [ ] Morocco
+
+#### On the set of the original "Jaws", what nicname was given to the mechanical shark?
+
+- [ ] Ben
+- [x] Bruce
+- [ ] Brian
+
+#### What berry, cultivated in the Amazon rainforest, is known for its health benefits?
+
+- [ ] Huckleberry
+- [ ] Strawberry
+- [x] Acal Berry
+
+#### Cherry blossom viewing parties, called "Hanami" are part of what culture?
+
+- [ ] Russian
+- [x] Japanese
+- [ ] Haitian
+
+#### Which NBA team was almost known as the Swamp Dragons?
+
+- [ ] New Orleans Pelicans
+- [ ] Miami Heat
+- [x] Brooklyn Nets
+
+#### Who wrote the dystopian novel "1984"?
+
+- [ ] Mark Twain
+- [x] George Orwell
+- [ ] J.D. Salinger
+
+#### What year was the first successful heart transplant done?
+
+- [ ] 1162
+- [ ] 1775
+- [x] 1967
+
+#### Who is the main villain in "The Lion King"?
+
+- [ ] Mufasa
+- [x] Scar
+- [ ] Simba
