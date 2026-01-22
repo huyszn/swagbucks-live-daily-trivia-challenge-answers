@@ -79406,3 +79406,63 @@
 - [ ] Elmo and Grover
 - [ ] Bob and Maria
 - [x] Bert and Ernie
+
+#### Hannibal Lecter is the villaain in which classic thriller?
+
+- [ ] M
+- [x] Silence of the Lambs
+- [ ] Nocturnal Animals
+
+#### What is the second rule of Fight Club?
+
+- [x] Don't talk about Fight Club
+- [ ] No shirt, no shoes, no service
+- [ ] He who smelt it dealt it
+
+#### Who won an Oscar for their role in 1990's "Misery"?
+
+- [ ] Meryl Streep
+- [ ] Carrie Fisher
+- [x] Kathy Bates
+
+#### The movie "Argo" tells the real story of Americans being extracted from which country?
+
+- [ ] Russia
+- [x] Iran
+- [ ] Germany
+
+#### In "The Sixth Sense", what special ability does Cole Sear have?
+
+- [x] He sees dead people
+- [ ] He can fly
+- [ ] He has super strength
+
+#### In "Three Days of the Condor", which agency does Condor work for?
+
+- [ ] FBI
+- [x] CIA
+- [ ] NSA
+
+#### In which thriller does the lead say "What I do have is a very particular set of skills"?
+
+- [ ] Air Force One
+- [ ] Casino Royale
+- [x] Taken
+
+#### What is the profession of Jimmy Stewart's character in "Rear Window"?
+
+- [x] Photojournalist
+- [ ] Detective
+- [ ] Lawyer
+
+#### Who starred in the first three "Alien" movies?
+
+- [ ] Bill Paxton
+- [x] Sigourney Weaver
+- [ ] Arnold Schwarzenegger
+
+#### What former sketch comedy star wrote and directed the thrillers "Nope", "Get Out", and "Us"?
+
+- [x] Jordan Peele
+- [ ] Keegan-Michael Keey
+- [ ] Bill Hader
