@@ -79464,5 +79464,11 @@
 #### What former sketch comedy star wrote and directed the thrillers "Nope", "Get Out", and "Us"?
 
 - [x] Jordan Peele
-- [ ] Keegan-Michael Keey
+- [ ] Keegan-Michael Key
 - [ ] Bill Hader
+
+#### Bono is the lead singer of what band?
+
+- [ ] R.E.M.
+- [x] U2
+- [ ] Faith No More
