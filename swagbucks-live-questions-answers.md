@@ -79376,3 +79376,33 @@
 - [ ] Mufasa
 - [x] Scar
 - [ ] Simba
+
+#### Which card game has an annual World Series in Las Vegas?
+
+- [x] Poker
+- [ ] Phase 10
+- [ ] Skip-Bo
+
+#### In which reality show do executives disguise themselves and meet their employees?
+
+- [ ] Bar Rescue
+- [ ] Below Deck
+- [x] Undercover Boss
+
+#### The story of Thanksgiving features a meal between Native Americans and who?
+
+- [ ] Ronald McDonald
+- [ ] The Noid
+- [x] Pilgrims
+
+#### What woman broke barriers playing both Tennis and Golf?
+
+- [ ] Billie Jean King
+- [x] Althea Gibson
+- [ ] Joan Whitney Payson
+
+#### Which two characters are roommates?
+
+- [ ] Elmo and Grover
+- [ ] Bob and Maria
+- [x] Bert and Ernie
