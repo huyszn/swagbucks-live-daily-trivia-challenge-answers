@@ -79472,3 +79472,75 @@
 - [ ] R.E.M.
 - [x] U2
 - [ ] Faith No More
+
+#### "Lois and Clark" was an ABC show about which superhero?
+
+- [ ] Spider-Man
+- [x] Superman
+- [ ] The Flash
+
+#### Where does the majority of Charlotte's Web take place?
+
+- [x] A farm
+- [ ] A factory
+- [ ] The World's Fair
+
+#### The designation Marine One is typically given to what type of Presidential vehicle?
+
+- [ ] Ship
+- [x] Helicopter
+- [ ] Limousine
+
+#### Ella Fitzgerald is most cosely associated with what kind of music?
+
+- [x] Jazz
+- [ ] Punk
+- [ ] Ska
+
+#### Which of the following slang terms is a compliment?
+
+- [ ] Sus
+- [x] GOAT
+- [ ] Extra
+
+#### In which country is it believed that a cat washing its face means guests are coming?
+
+- [x] Japan
+- [ ] Spain
+- [ ] Norway
+
+#### Which "Star Wars" character was originally supposed to be a green-skinned fish monster?
+
+- [ ] Darth Vader
+- [ ] Obi-Wan Kenobi
+- [x] Han Solo
+
+#### Spud Webb was the shortest NBA player to win which skill competition?
+
+- [ ] Three-Point Contest
+- [x] Dunk Contest
+- [ ] Kick, Pass, & Punt Contest
+
+#### A 2020 viral video featured a man on a skateboard playing Fleetwood Mac while drinking what beverage brand?
+
+- [x] Ocean Spray
+- [ ] La Croix
+- [ ] Nesquik
+
+#### As of July 2025, which country is the world's largest producer of Olive Oil?
+
+- [ ] Greece
+- [x] Spain
+- [ ] Italy
+
+#### Which of the following hard drives has the most storage space?
+
+- [ ] 100 MB
+- [ ] 100 GB
+- [x] 100 TB
+
+#### Which of the following tabletop games involves player-created character sheets?
+
+- [x] Dungeons & Dragons
+- [ ] Checkers
+- [ ] Boogie
