@@ -79544,3 +79544,9 @@
 - [x] Dungeons & Dragons
 - [ ] Checkers
 - [ ] Boogie
+
+#### Grenadine is a syrup traditionally made from what fruit?
+
+- [ ] Banana
+- [ ] Grapefruit
+- [x] Pomegranate
