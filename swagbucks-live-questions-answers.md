@@ -79550,3 +79550,21 @@
 - [ ] Banana
 - [ ] Grapefruit
 - [x] Pomegranate
+
+#### Who once led the Hunnic Empire?
+
+- [x] Attila the Hun
+- [ ] Hunny Bunny
+- [ ] Huns of Fun
+
+#### Where is the majority of the Amazon rainforest located?
+
+- [x] Brazil
+- [ ] Mexico
+- [ ] Chile
+
+#### When you "nip something in the bud", what is the bud referring to?
+
+- [x] A flower
+- [ ] A friend
+- [ ] A beer
