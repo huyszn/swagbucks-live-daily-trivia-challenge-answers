@@ -79568,3 +79568,33 @@
 - [x] A flower
 - [ ] A friend
 - [ ] A beer
+
+#### Who is the only artist to play both the London and Philadelphia Live Aid shows?
+
+- [x] Phil Collins
+- [ ] Eric Clapton
+- [ ] David Bowie
+
+#### What is the regulation height of a basketball hoop?
+
+- [ ] 3ft
+- [ ] 6ft
+- [x] 10ft
+
+#### Which of the following movies had the most Oscar nominations?
+
+- [x] All About Eve
+- [ ] Forrest Gump
+- [ ] Ben-Hur
+
+#### The cities of Boring, Dull, and Bland are collectively known by what name?
+
+- [ ] Worlds of Wonder
+- [ ] Lands of Enchantment
+- [x] League of Extraordinary Communities
+
+#### Mount St. Helens is part of what infamous chain of volcanoes?
+
+- [ ] Pacific Chain of Doom
+- [ ] Pacific Danger Zone
+- [x] Pacific Ring of Fire
