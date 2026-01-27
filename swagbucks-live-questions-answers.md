@@ -79598,3 +79598,93 @@
 - [ ] Pacific Chain of Doom
 - [ ] Pacific Danger Zone
 - [x] Pacific Ring of Fire
+
+#### Which of these is an amuse bouche?
+
+- [ ] An after-dinner wine
+- [x] A complimentary hors d'oeuvre
+- [ ] A basket of warm bread
+
+#### Which theme park's corporation uses FUN as their NYSE stock symbol?
+
+- [ ] Busch Gardens
+- [x] Cedar Point
+- [ ] Great America
+
+#### Which mountain range can be found in Colorado?
+
+- [x] Rockies
+- [ ] Appalachians
+- [ ] Sierra Nevada
+
+#### "The Truth Is Out There" was the tagline for what TV show?
+
+- [ ] Parks and Recreation
+- [ ] Orange is the New Black
+- [x] The X-Files
+
+#### In 2022, what "9 to 5" country singer was nominated to the Rock & Roll Hall of Fame?
+
+- [ ] Reba McEntire
+- [ ] Loretta Lynn
+- [x] Dolly Parton
+
+#### Which of the following dances is native to Hawaii?
+
+- [ ] Tango
+- [x] Hula
+- [ ] Moonwalk
+
+#### Which of the following eras of history is most recent?
+
+- [x] Glided Age
+- [ ] Stone Age
+- [ ] Ice Age
+
+#### How do you erase the drawings on an Etch A Sketch?
+
+- [ ] Wipe it down
+- [ ] Put it in the dishwasher
+- [x] Shake it
+
+#### The chain Auntie Anne's mainly serves what food?
+
+- [ ] Cupcakes
+- [x] Pretzels
+- [ ] Ladyfingers
+
+#### The Iron Throne factors heavily into which TV series?
+
+- [x] Game of Thrones
+- [ ] Rings of Power
+- [ ] Hercules
+
+#### Sumo is the national sport of which country?
+
+- [ ] China
+- [x] Japan
+- [ ] India
+
+#### What is the only country that borders the United Kingdom?
+
+- [ ] Wales
+- [ ] Scotland
+- [x] Ireland
+
+#### How many marked squares in a row do you need to win a round of bingo?
+
+- [x] Five
+- [ ] Seven
+- [ ] Nine
+
+#### "Boot Scootin' Boogie" is the signature song of which country duo?
+
+- [ ] The Judds
+- [x] Brooks & Dunn
+- [ ] George Jones & Tammy Wynette
+
+#### The reality series "Welcome to Wrexham" centers around what sport?
+
+- [ ] Pickleball
+- [ ] Gymnastic
+- [x] Soccer
