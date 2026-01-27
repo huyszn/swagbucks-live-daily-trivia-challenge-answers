@@ -79688,3 +79688,15 @@
 - [ ] Pickleball
 - [ ] Gymnastic
 - [x] Soccer
+
+#### What retail company is behind New York's Thanksgiving Day Parade?
+
+- [ ] JCPenney
+- [ ] Walmart
+- [x] Macy's
+
+#### What network originally aired the series "Teen Mom"?
+
+- [ ] TLC
+- [x] MTV
+- [ ] A&E
