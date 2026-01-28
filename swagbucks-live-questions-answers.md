@@ -79760,3 +79760,27 @@
 - [ ] ESPN Zone
 - [ ] Disney+
 - [x] Expedia
+
+#### Which of these creatures is classified as cold-blooded?
+
+- [x] Bullfrog
+- [ ] Bison
+- [ ] Boxer
+
+#### What is the name of Elaine's boss on Seinfeld?
+
+- [ ] J. Crew
+- [x] J. Peterman
+- [ ] J. Geils
+
+#### What type of chip is commonly used in cookies?
+
+- [ ] Cinnamon
+- [ ] Potato
+- [x] Chocolate
+
+#### Which city was not a finalist for Amazon's HQ2?
+
+- [ ] Atlanta
+- [ ] Raleigh
+- [x] Detroit
