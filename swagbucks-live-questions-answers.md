@@ -79700,3 +79700,63 @@
 - [ ] TLC
 - [x] MTV
 - [ ] A&E
+
+#### What is the term for the vacation a couple takes right after getting married?
+
+- [x] Honeymoon
+- [ ] Outward Bound
+- [ ] Sabbatical
+
+#### When you "Hang ten" while surfing, what does the "ten" refer to?
+
+- [ ] Teeth
+- [ ] Eyelashes
+- [x] Toes
+
+#### What document do you generally need to travel outside of your country?
+
+- [ ] Baby picture
+- [x] Passport
+- [ ] Auto Loan
+
+#### The lido deck of a cruise ship is the usual location of what amenity?
+
+- [ ] Theater
+- [ ] Washing Machine
+- [x] Pool
+
+#### What luggage brand had a classic TV commercial featuring a gorilla tossing their bags around?
+
+- [x] American Tourister
+- [ ] Samsonite
+- [ ] Globe-Trotter
+
+#### In travel, what does the "R" in RV stand for?
+
+- [ ] Rambling
+- [x] Recreational
+- [ ] Retired
+
+#### The Shinkansen is the bullet train in which country?
+
+- [ ] France
+- [ ] Italy
+- [x] Japan
+
+#### According to the Sleep Foundation, traveling in which direction is most likely to cause more severe jet lag?
+
+- [ ] West
+- [x] East
+- [ ] North
+
+#### A common souvenir is a "smashed" version of which US coin?
+
+- [x] Penny
+- [ ] Quarter
+- [ ] Dime
+
+#### Which of the following websites would you use to make travel arrangements?
+
+- [ ] ESPN Zone
+- [ ] Disney+
+- [x] Expedia
