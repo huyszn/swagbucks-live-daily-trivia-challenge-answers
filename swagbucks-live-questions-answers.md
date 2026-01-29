@@ -64485,7 +64485,7 @@
 - [x] A giant
 - [ ] Witches
 
-#### By what nickname s William Shakespeare known?
+#### By what nicknames William Shakespeare known?
 
 - [x] The Bard
 - [ ] The Bird
@@ -79784,3 +79784,81 @@
 - [ ] Atlanta
 - [ ] Raleigh
 - [x] Detroit
+
+#### Which Fairy Tale is NOT credited to the Brothers Grimm?
+
+- [ ] Snow White
+- [x] Beauty and the Beast
+- [ ] Rapunzel
+
+#### Moss, garter, and seed are common terms used in which type of handicraft?
+
+- [ ] Collage
+- [ ] Gardening
+- [x] Knitting
+
+#### In the "Crisis on Infinite Earths" comic saga, which of the following characters does NOT die?
+
+- [ ] The Flash
+- [x] Green Lantern
+- [ ] Supergirl
+
+#### The Wok is a cooking implement born on which continent?
+
+- [ ] North America
+- [x] Asia
+- [ ] Europe
+
+#### By what nickname is William Shakespeare known?
+
+- [x] The Bard
+- [ ] The Bird
+- [ ] The Barbarian
+
+#### Which of the following would be classified as an island nation?
+
+- [ ] Mexico
+- [x] Cuba
+- [ ] Beglum
+
+#### In which country will the police deal with unruly citizens by wrapping them up in a sheet like a burrito?
+
+- [ ] Brazil
+- [ ] Sweden
+- [x] Japan
+
+#### In "Psycho", what is the name of the business when most of the movie takes place?
+
+- [ ] Cheers
+- [x] Bates Motel
+- [ ] Double R Diner
+
+#### In the original "Little Mermaid" story by Hans Christian Andersen, what happens to the mermaid at the end?
+
+- [ ] She lives happily ever after
+- [ ] She drowns
+- [x] She turns to foam
+
+#### Which of these bands was made up of SNL cast members?
+
+- [ ] The Yeah Yeah Yeahs
+- [ ] OK Go
+- [x] Blues Brothers
+
+#### Where was the last major battle of World War II fought?
+
+- [ ] Normandy
+- [x] Okinawa
+- [ ] Midway
+
+#### According to the saying, you're supposed to strike while the iron is what?
+
+- [x] Hot
+- [ ] Cold
+- [ ] Tired
+
+#### Which of these comic book characters is a police detective?
+
+- [ ] Popeye
+- [x] Dick Tracy
+- [ ] Marmaduke
