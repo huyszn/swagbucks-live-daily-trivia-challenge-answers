@@ -79862,3 +79862,15 @@
 - [ ] Popeye
 - [x] Dick Tracy
 - [ ] Marmaduke
+
+#### In Science, what are BTUs?
+
+- [ ] Bread Toasted Underneath
+- [x] British Thermal Units
+- [ ] Billiards? That's Unifying!
+
+#### Complete this Dr. Seuss title: "The Cat in the..."
+
+- [x] Hat
+- [ ] Long Distance Relationship
+- [ ] Thick of it
