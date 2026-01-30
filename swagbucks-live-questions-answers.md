@@ -79940,3 +79940,9 @@
 - [ ] Treasure Planet
 - [x] Lilo & Stitch
 - [ ] The Little Mermaid
+
+#### Which fast food chain has a girl with pigtails as their logo?
+
+- [ ] Subway
+- [ ] Burger King
+- [x] Wendy's
