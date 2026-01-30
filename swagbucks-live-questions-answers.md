@@ -79874,3 +79874,69 @@
 - [x] Hat
 - [ ] Long Distance Relationship
 - [ ] Thick of it
+
+#### Who was the other "face" on Elton John's Face to Face tour in 2009?
+
+- [x] Billy Joel
+- [ ] Mick Jagger
+- [ ] Sting
+
+#### "My mama always said: 'Life is like a box of chocolates: You never know what you're gonna get.'"
+
+- [ ] Big
+- [x] Forrest Gump
+- [ ] Apollo 13
+
+#### "We're gonna need a bigger boat..."
+
+- [ ] E.T. The Extra Terrestrial
+- [ ] Close Encounters of the Third Kind
+- [x] Jaws
+
+#### "Louis, I think this is the beginning of a beautiful friendship."
+
+- [x] Casablanca
+- [ ] The African Queen
+- [ ] The Maltese Falcon
+
+#### "I have been, and always shall be, your friend."
+
+- [ ] The Fellowship of the Ring
+- [x] Star Trek II: The Wrath of Khan
+- [ ] Galaxy Quest
+
+#### "You think we need one more? You think we need one more."
+
+- [x] Ocean's Eleven
+- [ ] Ocean's Twelve
+- [ ] Ocean's Thirteen
+
+#### "Yes, Greedo, as a matter of fact I was just going to see your box. Tell Jabba that I've got his money."
+
+- [ ] Avatar
+- [ ] The Nottebook
+- [x] Star Wars
+
+#### "Gentlemen, you can't fight in here! This is the war room!"
+
+- [ ] Duck Soup
+- [x] Dr. Strangelove
+- [ ] The Naked Gun
+
+#### "If you are a User, then everything you've done has being according to a plan."
+
+- [ ] The Lawnmower Man
+- [ ] Ralph Breaks the Internet
+- [x] TRON
+
+#### "Open the pod bay doors, please, HAL."
+
+- [x] 2001: A Space Odyssey
+- [ ] Starship Troopers
+- [ ] Contact
+
+#### "Ohana means family."
+
+- [ ] Treasure Planet
+- [x] Lilo & Stitch
+- [ ] The Little Mermaid
