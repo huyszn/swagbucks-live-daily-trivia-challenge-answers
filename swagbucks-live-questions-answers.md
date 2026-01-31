@@ -79946,3 +79946,39 @@
 - [ ] Subway
 - [ ] Burger King
 - [x] Wendy's
+
+#### Pluto's biggest and closest moon is named after a mythological deity with what profession?
+
+- [ ] Judge
+- [ ] Guard
+- [x] Ferryman
+
+#### The Artful Dodger is a character from which musical?
+
+- [x] Oliver!
+- [ ] The Phantom of the Opera
+- [ ] Hamilton
+
+#### Biologically speaking, what is a loofah?
+
+- [x] A tropical cucumber
+- [ ] A saltwater sponge
+- [ ] A porous ignenous rock
+
+#### The man who co-wrote "The Elements of Style" also wrote which children's book?
+
+- [ ] Eloise
+- [ ] The Very Hungry Caterpillar
+- [x] Charlotte's Web
+
+#### Which book of the bible tells the story of Adam and Eve's creation?
+
+- [ ] Exodus
+- [ ] Leviticus
+- [x] Genesis
+
+#### The original World Cup trophy was named for whom?
+
+- [ ] Sepp Blatter
+- [x] Jules Rimet
+- [ ] Joao Havelange
