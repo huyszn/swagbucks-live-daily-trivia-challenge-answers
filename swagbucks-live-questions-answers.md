@@ -18363,8 +18363,8 @@
 
 #### Where would you find the world's oldest known living tree?
 
-- [ ] Sweden
-- [x] China
+- [x] Sweden
+- [ ] China
 - [ ] Kenya
 
 #### Which of the following Disney Princesses has a sister?
@@ -21739,7 +21739,7 @@
 - [ ] Boggle
 - [ ] Chutes and Ladders
 
-#### March 31, 1848 is wildly considered to be the start of what movement?
+#### March 31, 1848 is widely considered to be the start of what movement?
 
 - [ ] Mormonism
 - [x] Spiritualism
@@ -35833,7 +35833,7 @@
 - [ ] Samuel Adams
 - [x] Alexander Hamilton
 
-#### Japanese novelist Taro Hirai wrote detective function under the phonetic pseudonym of which author?
+#### Japanese novelist Taro Hirai wrote detective fiction under the phonetic pseudonym of which author?
 
 - [ ] H.P. Lovecraft
 - [ ] Mark Twain
@@ -37666,8 +37666,8 @@
 #### Which planet is closest to the Sun?
 
 - [ ] Earth
-- [ ] Mercury
-- [x] Mars
+- [x] Mercury
+- [ ] Mars
 
 #### Peter Pan, Skippy, and Jif are all brands of what?
 
@@ -38464,7 +38464,7 @@
 #### The USS Arizona was sunk during a sneak attack on which U.S. Naval Base?
 
 - [x] Pearl Harbor
-- [x] Pensacola
+- [ ] Pensacola
 - [ ] Patuxent River
 
 #### Fictional characters Basil Brush and Tod are both what kinds of animal?
@@ -50793,7 +50793,7 @@
 
 #### Tony Hawk is famous for his contributions to what sport?
 
-- [ ] Pickeball
+- [ ] Pickleball
 - [x] Skateboarding
 - [ ] Track & Field
 
@@ -58233,12 +58233,6 @@
 - [ ] Queen Elizabeth II
 - [x] Margaret Thatcher
 
-#### Which of these desserts is typically filled with a sweet creamy filling?
-
-- [x] Cannoli
-- [ ] Banana Bread
-- [ ] Chocolate Chip Cookie
-
 #### Which of the following terms refers to a measure of the rate at which work is done?
 
 - [x] Horsepower
@@ -62415,12 +62409,6 @@
 - [ ] Strawberry
 - [x] Vanilla
 
-#### Tony Hawk is famous for his contributions to what sport?
-
-- [ ] Pickleball
-- [x] Skateboarding
-- [ ] Track & Field
-
 #### Which of these movies takes place at a college?
 
 - [x] Animal House
@@ -64497,7 +64485,7 @@
 - [x] A giant
 - [ ] Witches
 
-#### By what nickname s William Shakespeare known?
+#### By what nicknames William Shakespeare known?
 
 - [x] The Bard
 - [ ] The Bird
@@ -66921,7 +66909,7 @@
 - [ ] Five dollars
 - [x] Nine
 
-#### What kind of poem did Shakespeare wrjte 154 of?
+#### What kind of poem did Shakespeare write 154 of?
 
 - [x] Sonnets
 - [ ] Haiku
@@ -78422,3 +78410,1539 @@
 - [x] The Great Gatsby
 - [ ] The Catcher in the Rye
 - [ ] The Maltese Falcon
+
+#### Which of the following is an island nation?
+
+- [ ] Denmark
+- [x] New Zealand
+- [ ] Canada
+
+#### Which legendary wrestler's record number of Wrestlemanias includes a streak of 21 wins?
+
+- [ ] HHH
+- [ ] Kane
+- [x] The Undertaker
+
+#### In August of 1962, Marvel comics introduced Spider-Man and what other hero?
+
+- [ ] Iron Man
+- [x] Thor
+- [ ] The Thing
+
+#### Which of these 90s food items was discontinued most recently?
+
+- [ ] Squeeze Its
+- [ ] Fruitopia
+- [x] Butterfinger BBs
+
+#### Florida's State Constitution has an amendment guaranteeing the freedom of which pregnant animal?
+
+- [ ] Alligator
+- [x] Pig
+- [ ] Dog
+
+#### The world's first webcam provided a continuous video feed of what?
+
+- [x] A coffee pot
+- [ ] An aquarium
+- [ ] A baby
+
+#### How do you say Merry Christmas in Spanish?
+
+- [ ] Como estas?
+- [x] Feliz Navidad!
+- [ ] Buenas noches
+
+#### What is the name of the van that Scooby-Doo and the gang use?
+
+- [ ] The Masked Machine
+- [ ] The Detectivemobile
+- [x] The Mystery Machine
+
+#### Elvis Costello was banned from SNL for performing what song?
+
+- [ ] Veronica
+- [x] Radio Radio
+- [ ] Watching the Detectives
+
+#### In "The Little Mermaid", what are the thingamabobs?
+
+- [ ] Forks
+- [ ] Pocket watches
+- [x] Corkscrews
+
+#### What U.S. Government facility is rumored to house aliens?
+
+- [x] Area 51
+- [ ] Area 911
+- [ ] Area 867-5309
+
+#### Martin Scorsese wanted Ray Liotta for "Goodfellas" after seeing his performance in what other movie?
+
+- [ ] The Lonely Lady
+- [x] Something Wild
+- [ ] Dominick and Eugene
+
+#### Whose final words were "OH WOW. OH WOW. OH WOW."?
+
+- [x] Steve Jobs 
+- [ ] Stephen Hawking
+- [ ] Albert Einstein
+
+#### What celebrity couple announced their engagement on August 26th, 2025?
+
+- [x] Taylor Swift and Travis Kelce
+- [ ] Selena Gomez and Benny Blanco
+- [ ] Sydney Sweeney and Scooter Braim
+
+#### What two number phrase became popular among kids in 2025?
+
+- [ ] One-Two
+- [ ] Twenty Three-Four
+- [x] Six-Seven
+
+#### Who won the 2025 Super Bowl?
+
+- [x] Buffalo Bills
+- [ ] Philadelphia Eagles
+- [ ] Kansas City Chiefs
+
+#### What singer went into space on Blue Origin in April of 2025?
+
+- [x] Katy Perry
+- [ ] Lady Gaga
+- [ ] Rihanna
+
+#### What candy became a viral trend in 2025?
+
+- [ ] Hong Kong Chocolate
+- [x] Dubai Chocolate
+- [ ] Winnipeg Chocolate
+
+#### What hit 2025 Netflix series featured the single "Golden"?
+
+- [x] KPop Demon Hunters
+- [ ] The Beast in ME
+- [ ] Sirens
+
+#### A tech company CEO was caught hugging his Chief People Officer while attending a concert by which band?
+
+- [ ] Oasis
+- [ ] U2
+- [x] Coldplay
+
+#### In 2025, Pope Leo XIV became the first Pope born in which country?
+
+- [ ] Belgium
+- [x] The United States
+- [ ] Canada
+
+#### Mark Carney became Prime Minister of Canada in 2025. Who did he replace?
+
+- [x] Justin Trudeau
+- [ ] Kim Campbell
+- [ ] Paul Martin
+
+#### What video game adaptation became one of the top-grossing movies of 2025?
+
+- [ ] One Battle After Another
+- [x] A Minecraft Movie
+- [ ] The Running Man
+
+#### In the Brady Bunch, how many of the children had Carol as a biological mother?
+
+- [ ] 1
+- [x] 3
+- [ ] 6
+
+#### The man who invented cotton candy had what profession?
+
+- [x] Dentist
+- [ ] Engineer
+- [ ] Tailor
+
+#### Which of the following films won an Oscar in every category they were nominated for?
+
+- [x] Ed Wood
+- [ ] Out of Africa
+- [ ] You Can't Take It With You
+
+#### What is the term for a religious day of rest and worship?
+
+- [x] Sabbath
+- [ ] Sleepday
+- [ ] Resturday
+
+#### In which classic arcade game are you trying to avoid barrels being thrown by a giant ape?
+
+- [ ] Pac-Man
+- [x] Donkey Kong
+- [ ] Asteroids
+
+#### Saves, Runs Batted In, and WHIP are all stats measured in which sport?
+
+- [ ] Racquetball
+- [ ] Foosball
+- [x] Baseball
+
+#### In May of 2013, the Cronut became a sensation. What two foods does it combine?
+
+- [ ] Croissant & Peanut Butter
+- [x] Croissant & Donut
+- [ ] Croissant & Nutter Butter
+
+#### Donna Summer was known as the Queen of what genre of music?
+
+- [x] Disco
+- [ ] Bossa Nova
+- [ ] EDM
+
+#### What is the only country with three capital cities?
+
+- [ ] Italy
+- [x] South Africa
+- [ ] Ghana
+
+#### Which superhero flew back into theaters in the summer of 2025, played by David Corenswet?
+
+- [x] Superman
+- [ ] Batman
+- [ ] Hawkman
+
+#### From which country does the Haiku originate?
+
+- [ ] India
+- [x] Japan
+- [ ] Sweden
+
+#### Tagalog is the official language of which country?
+
+- [ ] Canada
+- [ ] The United States
+- [x] The Philippines
+
+#### Pepperidge Farms sells cheesy crackers in the shape of which aquatic species?
+
+- [x] Goldfish
+- [ ] Eel
+- [ ] Octopus
+
+#### Which of these words is the closest in meaning to stubborn?
+
+- [x] Obstinate
+- [ ] Objective
+- [ ] Oblong
+
+#### According to the song, what happens when you wish upon a star?
+
+- [ ] Your car breaks down
+- [ ] It starts to smell
+- [x] Your Dreams Come True
+
+#### What famous board game is also a word for an apology?
+
+- [ ] My Bad!
+- [x] Sorry!
+- [ ] Oops!
+
+#### What is the term for a baby goat?
+
+- [x] Kid
+- [ ] Puppy
+- [ ] Hatchling
+
+#### Who won "Survivor: The Australian Outback"?
+
+- [ ] Colby
+- [x] Tina
+- [ ] Amber
+
+#### Who offered to train female sharpshooters for the U.S. during World War I?
+
+- [ ] Buffalo Bill Cody
+- [ ] Teddy Roosevelt
+- [x] Annie Oakley
+
+#### What company uses the slogan "Share Moments. Share Life"?
+
+- [x] Kodak
+- [ ] Dr. Scholl's
+- [ ] L'Oreal
+
+#### What is the capital of India?
+
+- [ ] Calcutta
+- [x] New Delhi
+- [ ] Jaipur
+
+#### Sushi is usually wrapped in what substance?
+
+- [x] Seaweed
+- [ ] Gum
+- [ ] Flour Tortilla
+
+#### How old was Mozart when he wrote his first opera?
+
+- [ ] 6
+- [ ] 9
+- [x] 11
+
+#### According to the Brady Bunch theme song, which Brady girl's hair was "in curls"?
+
+- [x] The Youngest one
+- [ ] The Middle one
+- [ ] The Oldest one
+
+#### Which animal has fingerprints nearly identical to ours?
+
+- [ ] Sloth
+- [x] Koala Bear
+- [ ] Kangaroo
+
+#### Which of the following comic strips mainly centers around office life?
+
+- [ ] Beetle Bailey
+- [ ] Garfield
+- [x] Dilbert
+
+#### Sportswriter Henry Chadwick created what shorthand for a strikeout in baseball?
+
+- [ ] S
+- [x] K
+- [ ] X
+
+#### Which of the following is NOT one of the main types of keys in music?
+
+- [ ] Major
+- [ ] Minor
+- [x] Skeleton
+
+#### What is the result of multiplying any number by zero?
+
+- [x] Zero
+- [ ] One
+- [ ] The number itself
+
+#### If a large drink is $8, making a medium cost $7 to boost sales of a large is an example of what strategy?
+
+- [ ] Price Matching
+- [x] Decoy Pricing
+- [ ] Price Gouging
+
+#### "Scent of a Woman" led to whose first acting Oscar?
+
+- [ ] Marlon Brando
+- [ ] Denzel Washington
+- [x] Al Pacino
+
+#### Mars is also known as the "what" planet?
+
+- [ ] Funny
+- [ ] Tasty
+- [x] Red
+
+#### The line "Government of the people, by the people, for the people..." is a grammatical example of what?
+
+- [ ] Hyperbaton
+- [x] Epistrophe
+- [ ] Litoes
+
+#### What ancient culture once worshipped Trukeys as gods?
+
+- [x] Maya
+- [ ] Aztec
+- [ ] Egypt
+
+#### Turok: Dinosaur Hunter originally appeared on what videogame system?
+
+- [ ] PlayStation
+- [ ] Dreamcast
+- [x] Nintendo 64
+
+#### I can show you the world... Shining, shimmering, splendid. Tell me, princess now when did you last let your heart decide?
+
+- [ ] Friend Like Me
+- [x] A Whole New World
+- [ ] Arabian Nights
+
+#### In every job that must be done, there is an element of fun; You find the fun and snap! The job's a game.
+
+- [ ] Portobello Road
+- [ ] I Wonder
+- [x] A Spoonful of Sugar
+
+#### When the road looks rough ahead and you're miles and miles from your nice warm bed; Just remember what your old pal said...
+
+- [ ] When Shoe Loved Me
+- [x] You've Got A Friend In Me
+- [ ] Not In Nottingham
+
+#### Treguna Mekoides Trecorum Satis Dee...
+
+- [ ] Bibbidi Bobbidi Boo
+- [ ] Higitus Figitus
+- [x] Substitutiary Locomotion
+
+#### Yes, together, we two - Together that's you, forever with me...
+
+- [ ] Why Should I Worry
+- [x] Good Company
+- [ ] Sykes
+
+#### Seven A.M., the usual morning lineup; Start on the chores and sweep 'til the floor's all clean...
+
+- [x] When Will My Life Begin
+- [ ] Mother Knows Best
+- [ ] I See The Light
+
+#### I can be huge in the whole house and be teeny and small as a mouse; Black sorcery is my dish of tea - It comes easy to me...
+
+- [ ] Poor Unfortunate Souls
+- [ ] Friends On The Other Side
+- [x] Mad Madam Mim
+
+#### Grab somebody, come on down; Bring your paintbrush, we're paintin' the town. Oh, there's some sweetness goin' 'round...
+
+- [x] Down in New Orleans
+- [ ] Almost There
+- [ ] Gonna Take You There
+
+#### When you look under the rocks and plants and take a glance at the fancy ants - Then maybe try a few...
+
+- [x] The Bare Necessities
+- [ ] I Wanna Be Like You
+- [ ] Trust In Me
+
+#### There's frost on every window, oh, I can't believe my eyes; And in my bones I feel the warmth that's coming from inside...
+
+- [x] What's This?
+- [ ] When You Wish Upon A Star
+- [ ] Under The Sea
+
+#### Which brand's jingle is "Plop, plop, fizz, fizz, oh what a relief it is"?
+
+- [ ] Pepto Bismol
+- [x] Alka-Seltzer
+- [ ] Tums
+
+#### Pharrell once wore a hat to the Grammys that provoked what fast food chain to joke that he was using their logo?
+
+- [x] Arby's
+- [ ] Burger King
+- [ ] McDonald's
+
+#### Which environmentalist wrote "Silent Spring"?
+
+- [ ] Edward Abbey
+- [x] Rachel Carlson
+- [ ] Wangari Maathai
+
+#### When Moonlight won the Academy Award for Best Picture, what film's name was read by mistake?
+
+- [x] La La Land
+- [ ] Rear Window
+- [ ] Good Will Hunting
+
+#### According to his song, which of these boasts about Gaston is NOT mentioned?
+
+- [ ] Turning off the lights
+- [ ] Having the thickest neck
+- [x] Eating six dozen eggs
+
+#### What do invertebrates lack?
+
+- [ ] A central nervous system
+- [ ] A digestive tract
+- [x] A backbone
+
+#### Apple Brown Betty is a dessert typically made with apples and what?
+
+- [ ] Brown Paint
+- [x] Brown Sugar
+- [ ] Jackson Browne
+
+#### Holden Caulfield is the protagonist of which book?
+
+- [x] Catcher in the Rye
+- [ ] Flowers in the Attic
+- [ ] To Kill A Mockingbird
+
+#### Which Hollywood star once had their own animated series called "Bruno The Kid"?
+
+- [ ] Howie Mandel
+- [x] Bruce Willis
+- [ ] Tom Hanks
+
+#### Which of these was NOT a video game published by Rockstar?
+
+- [ ] LA Noire
+- [ ] Table Tennis
+- [x] Manhunter: New York
+
+#### Which of these websites is about making and watching videos?
+
+- [ ] Pets.com
+- [x] YouTube.com
+- [ ] Food.com
+
+#### Which of these plants is not part of the same genetic family as the other two?
+
+- [x] Artichoke
+- [ ] Brussels Sprouts
+- [ ] Kale
+
+#### Until 1999, bribes paid abroad were technically tax deductible for companies in what country?
+
+- [ ] Switzerland
+- [x] Germany
+- [ ] France
+
+#### WHo played Mork in "Mork & Mindy"?
+
+- [ ] Jonathan Winters
+- [x] Robin Williams
+- [ ] Conrad Bain
+
+#### On "ALF", what planet is Alf from?
+
+- [ ] Meepos
+- [ ] Mars
+- [x] Melmac
+
+#### Which "Cheers" character owned the bar?
+
+- [x] Sam Malone
+- [ ] Diane Chambers
+- [ ] Norm Peterson
+
+#### "Three's A Crowd" was a spinoff/continuation of what other sitcom?
+
+- [ ] Alice
+- [x] Three's Company
+- [ ] All In the Family
+
+#### In "The Greatest American Hero", why couldn't Ralph properly work the suit?
+
+- [x] He lost the instruction manual
+- [ ] It was defective
+- [ ] The suit had a mind of its own
+
+#### What was the name of the robot girl from "Small Wonder"?
+
+- [ ] Harriet
+- [x] Vicki
+- [ ] Bonnie
+
+#### The "Naked Gun" movies are a continuation of what 1982 comedy series?
+
+- [x] Police Squad!
+- [ ] M*A*S*H
+- [ ] Taxi
+
+#### Alyssa Milano got her big break in which 1980s sitcom?
+
+- [ ] Joanie Loves Chachi
+- [x] Who's The Boss?
+- [ ] The Wonder Years
+
+#### Michael J. Fox played Alex P. Keaton on which 1980s sitcom?
+
+- [x] Family Ties
+- [ ] Growing Pains
+- [ ] Webster
+
+#### "Whatchu talkin' 'bout, Willis?" was a catchphrase from which 1980s sitcom?
+
+- [ ] Night Court
+- [ ] Perfect Strangers
+- [x] Diff'rent Strokes
+
+#### In chess, what pieces do you need for castling?
+
+- [x] King & Rook
+- [ ] Pawn & Bishop
+- [ ] King & Queen
+
+#### Butch's car in "Pulp Fiction" also appears in what other Quentin Tarantino film?
+
+- [ ] Reservoir Dogs
+- [x] Jackie Brown
+- [ ] Death Proof
+
+#### Which of the following is the name for sliced meats in between two pieces of bread?
+
+- [ ] Sandbox
+- [ ] Sandy Duncan
+- [x] Sandwich
+
+#### Which of these characters was created by Mark Twain?
+
+- [ ] Tom Thumb
+- [x] Tom Sawyers
+- [ ] Tom Hanks
+
+#### Before taking over CBS's "Late Night", what satirical talk show did Stephen Colbert host?
+
+- [ ] Real Time
+- [x] The Colbert Report
+- [ ] Crossfire
+
+#### Which of the following Sesame Street characters is a Peristerophile?
+
+- [x] Bert
+- [ ] Ernie
+- [ ] Cookie Monster
+
+#### What high school do the characters from "Saved By The Bell" attend?
+
+- [ ] Eastside High
+- [x] Bayside High
+- [ ] Rydell High
+
+#### According to the theme song, where was "The Fresh Prince of Bel-Air" born and raised?
+
+- [ ] Pennsauken
+- [ ] East Lansing
+- [x] West Philadelphia
+
+#### What did "Married... With Children" lead Al Bundy do for a living?
+
+- [ ] Doctor
+- [x] Shoes Salesman
+- [ ] Repo Man
+
+#### "Vandelay Industries" was a fake import/export company created by which "seinfeld" character?
+
+- [x] George
+- [ ] Jerry
+- [ ] Elaine
+
+#### Prior to "Friends", Jennifer Aniston starred in a short-lived 1990 sitcom adaptation of what 1980s movie?
+
+- [ ] The Breakfast Club
+- [ ] Pretty in Pink
+- [x] Ferris Bueller's Day Off
+
+#### Which 1990s sitcom starred Queen Latifah?
+
+- [ ] Will & Grace
+- [x] Living Single
+- [ ] Blossom
+
+#### The stars of "Kenan & Kel" first worked together on which kids' show?
+
+- [ ] Kids Incorporated
+- [ ] MMC
+- [x] All That
+
+#### On "Wings", what musical instrument did Helen Chappel play?
+
+- [ ] Flute
+- [x] Cello
+- [ ] Piano
+
+#### On "Friends", which character becomes a surrogate for her brother's triplets?
+
+- [x] Phoebe
+- [ ] Monica
+- [ ] Rachel
+
+#### What is the name of Tim "The Toolman" Taylor's TV show on "Home Improvement"?
+
+- [ ] Build It
+- [x] Tool Time
+- [ ] Grunt Work
+
+#### Which of these designers is known for women's dress heels?
+
+- [x] Jimmy Choo
+- [ ] Billabong
+- [ ] Mossimo
+
+#### Which of the following actors has never played God on film?
+
+- [ ] Val Kilmer
+- [ ] Whoopi Goldberg
+- [x] William Shatner
+
+#### Which is the most common letter in the English language?
+
+- [ ] Z
+- [x] E
+- [ ] Q
+
+#### When Eleven and Mike slow dance, whose song is playing?
+
+- [ ] Tears for Fears
+- [ ] Cyndi Lauper
+- [x] The Police
+
+#### What country is home to the place with the longest geographical name in the world?
+
+- [ ] The Philippines
+- [ ] Finland
+- [x] New Zealand
+
+#### Which of the following actors got their start on "That 70s Show"?
+
+- [x] Ashton Kutcher
+- [ ] Jaleel White
+- [ ] Danny McBride
+
+#### After "Friends", Courtney Cox starred in which 2000s sitcom?
+
+- [ ] Ally McBeal
+- [ ] Entourage
+- [x] Cougar Town
+
+#### "Everybody Hates Chris" was a sitcom about the childhood of which famous Chris?
+
+- [x] Chris Rock
+- [ ] Chris Hemsworth
+- [ ] Chris Tucker
+
+#### Thee show "Eastbound & Down" is about which sport?
+
+- [ ] Golf
+- [x] Baseball
+- [ ] Football
+
+#### What does Charlie Harper from "Two And A Half Men" do for a living?
+
+- [x] Commercial Jingle composer
+- [ ] Painter
+- [ ] Contractor
+
+#### Which of the following 2000s sitcoms has a character who breaks the fourth wall?
+
+- [ ] Curb Your Enthusiasm
+- [x] Malcolm in the Middle
+- [ ] Monk
+
+#### Which character from "The Big Bang Theory" makes his roommates sign a lengthy "Roommate Agreement?"
+
+- [ ] Raj
+- [ ] Wolowitz
+- [x] Sheldon
+
+#### Which "Scrubs" character was originally intended to be an imaginary character?
+
+- [x] Janitor
+- [ ] Turk
+- [ ] Dr. Cox
+
+#### In "My Name Is Earl", how does Earl get his fortune?
+
+- [ ] He steals it
+- [x] He gets a winning scratch-off card
+- [ ] He inherits it
+
+#### Which SNL alum created "30 Rock"?
+
+- [ ] Seth Meyers
+- [ ] Amy Poehler
+- [x] Tiny Fey
+
+#### In the Twilight Zone Episode "Time Enough at Last," who breaks his glasses?
+
+- [x] Henry Bemis
+- [ ] Fred Renard
+- [ ] Captain Allenby
+
+#### What color are Granny Smith Apples?
+
+- [ ] Purple
+- [ ] Pink
+- [x] Green
+
+#### Where would you most likely find a hassock?
+
+- [x] Italian Church
+- [ ] Russian Office
+- [ ] Finnish Sauna
+
+#### "Parks & Recreation" concerns the government workers in what fictitious Indiana city?
+
+- [x] Pawnee
+- [ ] Mayberry
+- [ ] Fraggle Rock
+
+#### What 2016 sitcom takes place in the afterlife?
+
+- [ ] Last Man Standing
+- [x] The Good Place
+- [ ] Superstore
+
+#### "The Goldbergs" primarily took place during which decade?
+
+- [ ] 1960s
+- [ ] 1970s
+- [x] 1980s
+
+#### The series "GLOW" was originally available through what platform?
+
+- [ ] Hulu
+- [x] Netflix
+- [ ] Peacock
+
+#### Which of these 2010s sitcoms had the fewest number of episodes?
+
+- [x] Men of a Certain Age
+- [ ] Don't Trust The B in Apartment 23
+- [ ] Suburgatory
+
+#### Which of the following 2010s sitcoms is a spin-off?
+
+- [ ] Good Luck Charlie
+- [ ] Baby Daddy
+- [x] Girl Meets World
+
+#### According to the show's creator, Jess from "New Girl" was partially based on which celebrity?
+
+- [ ] Dianne Wiest
+- [x] Diane Keaton
+- [ ] Goldie Hawn
+
+#### Before creating "Black-ish", what other show did Kenya Barris co-create?
+
+- [x] America's Next Top Model
+- [ ] Everybody Hates Chris
+- [ ] Brooklyn 99
+
+#### Who won multiple Emmy awards for her role as Selena Meyer on "Veep"?
+
+- [ ] Maya Rudolph
+- [ ] Jan Hooks
+- [x] Julia Louis-Dreyfus
+
+#### Which of these sitcoms that launched in the 2010s is animated?
+
+- [x] Bob's Burgers
+- [ ] The Mindy Project
+- [ ] Fleabag
+
+#### What word would you use to say both "Hello" and "Goodbye" in Hawaii?
+
+- [ ] Ukulele
+- [x] Aloha
+- [ ] Luau
+
+#### What Judicial Circuit did Abraham Lincoln famously travel as a prairie lawyer in Indiana?
+
+- [x] 8th
+- [ ] 12th
+- [ ] 16th
+
+#### Which of these animals has NOT held a public office?
+
+- [ ] Horse
+- [ ] Rhinoceros
+- [x] Snake
+
+#### Which of the following sections comes at the end of a book?
+
+- [ ] Table of content
+- [x] Epilogue
+- [ ] Lincoln Logue
+
+#### What is the highest-grossing stop-motion animated film of all time?
+
+- [ ] The Nightmare Before Christmas
+- [x] Chicken Run
+- [ ] Coraline
+
+#### What method of food prep involves cooking at low temperatures in water?
+
+- [ ] Frying
+- [x] Sous Vide
+- [ ] Barbecue
+
+#### Which of the following was not a song by The Clash?
+
+- [ ] Train in Vain
+- [ ] White Riot
+- [x] The Crashdown
+
+#### The Carolina Hurricanes and Winnipeg Jets play in which league?
+
+- [ ] MLS
+- [x] NHL
+- [ ] NBA
+
+#### What is the height of a regulation basketball hoop?
+
+- [ ] 2 feet
+- [x] 10 feet
+- [ ] 30 feet
+
+#### Which of the following is NOT mentioned in R.E.M.'s "It's the End of the World as We Know It"?
+
+- [ ] Cavalier
+- [ ] Lester Bangs
+- [x] Elmer Bernstein
+
+#### How do you measure a horse's height?
+
+- [x] Hands
+- [ ] Feet
+- [ ] Centimeters
+
+#### What are the names of the Mario Bros?
+
+- [ ] Bert and Ernie
+- [ ] Fric and Frac
+- [x] Mario and Luigi
+
+#### Alpha-bits cereal pieces are shaped like what?
+
+- [x] Letters
+- [ ] Spaceships
+- [ ] Barrels
+
+#### Toucan Sam is the spokesbird for which cereal?
+
+- [ ] Frosted Flakes
+- [ ] Coca Puffs
+- [x] Froot Loops
+
+#### Which fast food brand has a cowboy hat in their logo?
+
+- [ ] Wendy's
+- [ ] McDonald's
+- [x] Arby's
+
+#### Will Smith was once known by what rap nickname?
+
+- [x] The Fresh Prince
+- [ ] The Ripe King
+- [ ] The Matured Duke
+
+#### Which pop star once had a signature look that included wearing a single sparkly glove?
+
+- [x] Michael Jackson
+- [ ] Elvis Presley
+- [ ] Adele
+
+#### In July of 2025, which Adam Sandler comedy had its sequel debut on Netflix?
+
+- [ ] Billy Madison
+- [ ] The Waterboy
+- [x] Happy Gilmore
+
+#### Athens is considered the birthplace of democracy. Where is it located?
+
+- [x] Greece
+- [ ] Italy
+- [ ] Morocco
+
+#### On the set of the original "Jaws", what nicname was given to the mechanical shark?
+
+- [ ] Ben
+- [x] Bruce
+- [ ] Brian
+
+#### What berry, cultivated in the Amazon rainforest, is known for its health benefits?
+
+- [ ] Huckleberry
+- [ ] Strawberry
+- [x] Acal Berry
+
+#### Cherry blossom viewing parties, called "Hanami" are part of what culture?
+
+- [ ] Russian
+- [x] Japanese
+- [ ] Haitian
+
+#### Which NBA team was almost known as the Swamp Dragons?
+
+- [ ] New Orleans Pelicans
+- [ ] Miami Heat
+- [x] Brooklyn Nets
+
+#### Who wrote the dystopian novel "1984"?
+
+- [ ] Mark Twain
+- [x] George Orwell
+- [ ] J.D. Salinger
+
+#### What year was the first successful heart transplant done?
+
+- [ ] 1162
+- [ ] 1775
+- [x] 1967
+
+#### Who is the main villain in "The Lion King"?
+
+- [ ] Mufasa
+- [x] Scar
+- [ ] Simba
+
+#### Which card game has an annual World Series in Las Vegas?
+
+- [x] Poker
+- [ ] Phase 10
+- [ ] Skip-Bo
+
+#### In which reality show do executives disguise themselves and meet their employees?
+
+- [ ] Bar Rescue
+- [ ] Below Deck
+- [x] Undercover Boss
+
+#### The story of Thanksgiving features a meal between Native Americans and who?
+
+- [ ] Ronald McDonald
+- [ ] The Noid
+- [x] Pilgrims
+
+#### What woman broke barriers playing both Tennis and Golf?
+
+- [ ] Billie Jean King
+- [x] Althea Gibson
+- [ ] Joan Whitney Payson
+
+#### Which two characters are roommates?
+
+- [ ] Elmo and Grover
+- [ ] Bob and Maria
+- [x] Bert and Ernie
+
+#### Hannibal Lecter is the villaain in which classic thriller?
+
+- [ ] M
+- [x] Silence of the Lambs
+- [ ] Nocturnal Animals
+
+#### What is the second rule of Fight Club?
+
+- [x] Don't talk about Fight Club
+- [ ] No shirt, no shoes, no service
+- [ ] He who smelt it dealt it
+
+#### Who won an Oscar for their role in 1990's "Misery"?
+
+- [ ] Meryl Streep
+- [ ] Carrie Fisher
+- [x] Kathy Bates
+
+#### The movie "Argo" tells the real story of Americans being extracted from which country?
+
+- [ ] Russia
+- [x] Iran
+- [ ] Germany
+
+#### In "The Sixth Sense", what special ability does Cole Sear have?
+
+- [x] He sees dead people
+- [ ] He can fly
+- [ ] He has super strength
+
+#### In "Three Days of the Condor", which agency does Condor work for?
+
+- [ ] FBI
+- [x] CIA
+- [ ] NSA
+
+#### In which thriller does the lead say "What I do have is a very particular set of skills"?
+
+- [ ] Air Force One
+- [ ] Casino Royale
+- [x] Taken
+
+#### What is the profession of Jimmy Stewart's character in "Rear Window"?
+
+- [x] Photojournalist
+- [ ] Detective
+- [ ] Lawyer
+
+#### Who starred in the first three "Alien" movies?
+
+- [ ] Bill Paxton
+- [x] Sigourney Weaver
+- [ ] Arnold Schwarzenegger
+
+#### What former sketch comedy star wrote and directed the thrillers "Nope", "Get Out", and "Us"?
+
+- [x] Jordan Peele
+- [ ] Keegan-Michael Key
+- [ ] Bill Hader
+
+#### Bono is the lead singer of what band?
+
+- [ ] R.E.M.
+- [x] U2
+- [ ] Faith No More
+
+#### "Lois and Clark" was an ABC show about which superhero?
+
+- [ ] Spider-Man
+- [x] Superman
+- [ ] The Flash
+
+#### Where does the majority of Charlotte's Web take place?
+
+- [x] A farm
+- [ ] A factory
+- [ ] The World's Fair
+
+#### The designation Marine One is typically given to what type of Presidential vehicle?
+
+- [ ] Ship
+- [x] Helicopter
+- [ ] Limousine
+
+#### Ella Fitzgerald is most cosely associated with what kind of music?
+
+- [x] Jazz
+- [ ] Punk
+- [ ] Ska
+
+#### Which of the following slang terms is a compliment?
+
+- [ ] Sus
+- [x] GOAT
+- [ ] Extra
+
+#### In which country is it believed that a cat washing its face means guests are coming?
+
+- [x] Japan
+- [ ] Spain
+- [ ] Norway
+
+#### Which "Star Wars" character was originally supposed to be a green-skinned fish monster?
+
+- [ ] Darth Vader
+- [ ] Obi-Wan Kenobi
+- [x] Han Solo
+
+#### Spud Webb was the shortest NBA player to win which skill competition?
+
+- [ ] Three-Point Contest
+- [x] Dunk Contest
+- [ ] Kick, Pass, & Punt Contest
+
+#### A 2020 viral video featured a man on a skateboard playing Fleetwood Mac while drinking what beverage brand?
+
+- [x] Ocean Spray
+- [ ] La Croix
+- [ ] Nesquik
+
+#### As of July 2025, which country is the world's largest producer of Olive Oil?
+
+- [ ] Greece
+- [x] Spain
+- [ ] Italy
+
+#### Which of the following hard drives has the most storage space?
+
+- [ ] 100 MB
+- [ ] 100 GB
+- [x] 100 TB
+
+#### Which of the following tabletop games involves player-created character sheets?
+
+- [x] Dungeons & Dragons
+- [ ] Checkers
+- [ ] Boogie
+
+#### Grenadine is a syrup traditionally made from what fruit?
+
+- [ ] Banana
+- [ ] Grapefruit
+- [x] Pomegranate
+
+#### Who once led the Hunnic Empire?
+
+- [x] Attila the Hun
+- [ ] Hunny Bunny
+- [ ] Huns of Fun
+
+#### Where is the majority of the Amazon rainforest located?
+
+- [x] Brazil
+- [ ] Mexico
+- [ ] Chile
+
+#### When you "nip something in the bud", what is the bud referring to?
+
+- [x] A flower
+- [ ] A friend
+- [ ] A beer
+
+#### Who is the only artist to play both the London and Philadelphia Live Aid shows?
+
+- [x] Phil Collins
+- [ ] Eric Clapton
+- [ ] David Bowie
+
+#### What is the regulation height of a basketball hoop?
+
+- [ ] 3ft
+- [ ] 6ft
+- [x] 10ft
+
+#### Which of the following movies had the most Oscar nominations?
+
+- [x] All About Eve
+- [ ] Forrest Gump
+- [ ] Ben-Hur
+
+#### The cities of Boring, Dull, and Bland are collectively known by what name?
+
+- [ ] Worlds of Wonder
+- [ ] Lands of Enchantment
+- [x] League of Extraordinary Communities
+
+#### Mount St. Helens is part of what infamous chain of volcanoes?
+
+- [ ] Pacific Chain of Doom
+- [ ] Pacific Danger Zone
+- [x] Pacific Ring of Fire
+
+#### Which of these is an amuse bouche?
+
+- [ ] An after-dinner wine
+- [x] A complimentary hors d'oeuvre
+- [ ] A basket of warm bread
+
+#### Which theme park's corporation uses FUN as their NYSE stock symbol?
+
+- [ ] Busch Gardens
+- [x] Cedar Point
+- [ ] Great America
+
+#### Which mountain range can be found in Colorado?
+
+- [x] Rockies
+- [ ] Appalachians
+- [ ] Sierra Nevada
+
+#### "The Truth Is Out There" was the tagline for what TV show?
+
+- [ ] Parks and Recreation
+- [ ] Orange is the New Black
+- [x] The X-Files
+
+#### In 2022, what "9 to 5" country singer was nominated to the Rock & Roll Hall of Fame?
+
+- [ ] Reba McEntire
+- [ ] Loretta Lynn
+- [x] Dolly Parton
+
+#### Which of the following dances is native to Hawaii?
+
+- [ ] Tango
+- [x] Hula
+- [ ] Moonwalk
+
+#### Which of the following eras of history is most recent?
+
+- [x] Glided Age
+- [ ] Stone Age
+- [ ] Ice Age
+
+#### How do you erase the drawings on an Etch A Sketch?
+
+- [ ] Wipe it down
+- [ ] Put it in the dishwasher
+- [x] Shake it
+
+#### The chain Auntie Anne's mainly serves what food?
+
+- [ ] Cupcakes
+- [x] Pretzels
+- [ ] Ladyfingers
+
+#### The Iron Throne factors heavily into which TV series?
+
+- [x] Game of Thrones
+- [ ] Rings of Power
+- [ ] Hercules
+
+#### Sumo is the national sport of which country?
+
+- [ ] China
+- [x] Japan
+- [ ] India
+
+#### What is the only country that borders the United Kingdom?
+
+- [ ] Wales
+- [ ] Scotland
+- [x] Ireland
+
+#### How many marked squares in a row do you need to win a round of bingo?
+
+- [x] Five
+- [ ] Seven
+- [ ] Nine
+
+#### "Boot Scootin' Boogie" is the signature song of which country duo?
+
+- [ ] The Judds
+- [x] Brooks & Dunn
+- [ ] George Jones & Tammy Wynette
+
+#### The reality series "Welcome to Wrexham" centers around what sport?
+
+- [ ] Pickleball
+- [ ] Gymnastic
+- [x] Soccer
+
+#### What retail company is behind New York's Thanksgiving Day Parade?
+
+- [ ] JCPenney
+- [ ] Walmart
+- [x] Macy's
+
+#### What network originally aired the series "Teen Mom"?
+
+- [ ] TLC
+- [x] MTV
+- [ ] A&E
+
+#### What is the term for the vacation a couple takes right after getting married?
+
+- [x] Honeymoon
+- [ ] Outward Bound
+- [ ] Sabbatical
+
+#### When you "Hang ten" while surfing, what does the "ten" refer to?
+
+- [ ] Teeth
+- [ ] Eyelashes
+- [x] Toes
+
+#### What document do you generally need to travel outside of your country?
+
+- [ ] Baby picture
+- [x] Passport
+- [ ] Auto Loan
+
+#### The lido deck of a cruise ship is the usual location of what amenity?
+
+- [ ] Theater
+- [ ] Washing Machine
+- [x] Pool
+
+#### What luggage brand had a classic TV commercial featuring a gorilla tossing their bags around?
+
+- [x] American Tourister
+- [ ] Samsonite
+- [ ] Globe-Trotter
+
+#### In travel, what does the "R" in RV stand for?
+
+- [ ] Rambling
+- [x] Recreational
+- [ ] Retired
+
+#### The Shinkansen is the bullet train in which country?
+
+- [ ] France
+- [ ] Italy
+- [x] Japan
+
+#### According to the Sleep Foundation, traveling in which direction is most likely to cause more severe jet lag?
+
+- [ ] West
+- [x] East
+- [ ] North
+
+#### A common souvenir is a "smashed" version of which US coin?
+
+- [x] Penny
+- [ ] Quarter
+- [ ] Dime
+
+#### Which of the following websites would you use to make travel arrangements?
+
+- [ ] ESPN Zone
+- [ ] Disney+
+- [x] Expedia
+
+#### Which of these creatures is classified as cold-blooded?
+
+- [x] Bullfrog
+- [ ] Bison
+- [ ] Boxer
+
+#### What is the name of Elaine's boss on Seinfeld?
+
+- [ ] J. Crew
+- [x] J. Peterman
+- [ ] J. Geils
+
+#### What type of chip is commonly used in cookies?
+
+- [ ] Cinnamon
+- [ ] Potato
+- [x] Chocolate
+
+#### Which city was not a finalist for Amazon's HQ2?
+
+- [ ] Atlanta
+- [ ] Raleigh
+- [x] Detroit
+
+#### Which Fairy Tale is NOT credited to the Brothers Grimm?
+
+- [ ] Snow White
+- [x] Beauty and the Beast
+- [ ] Rapunzel
+
+#### Moss, garter, and seed are common terms used in which type of handicraft?
+
+- [ ] Collage
+- [ ] Gardening
+- [x] Knitting
+
+#### In the "Crisis on Infinite Earths" comic saga, which of the following characters does NOT die?
+
+- [ ] The Flash
+- [x] Green Lantern
+- [ ] Supergirl
+
+#### The Wok is a cooking implement born on which continent?
+
+- [ ] North America
+- [x] Asia
+- [ ] Europe
+
+#### By what nickname is William Shakespeare known?
+
+- [x] The Bard
+- [ ] The Bird
+- [ ] The Barbarian
+
+#### Which of the following would be classified as an island nation?
+
+- [ ] Mexico
+- [x] Cuba
+- [ ] Beglum
+
+#### In which country will the police deal with unruly citizens by wrapping them up in a sheet like a burrito?
+
+- [ ] Brazil
+- [ ] Sweden
+- [x] Japan
+
+#### In "Psycho", what is the name of the business when most of the movie takes place?
+
+- [ ] Cheers
+- [x] Bates Motel
+- [ ] Double R Diner
+
+#### In the original "Little Mermaid" story by Hans Christian Andersen, what happens to the mermaid at the end?
+
+- [ ] She lives happily ever after
+- [ ] She drowns
+- [x] She turns to foam
+
+#### Which of these bands was made up of SNL cast members?
+
+- [ ] The Yeah Yeah Yeahs
+- [ ] OK Go
+- [x] Blues Brothers
+
+#### Where was the last major battle of World War II fought?
+
+- [ ] Normandy
+- [x] Okinawa
+- [ ] Midway
+
+#### According to the saying, you're supposed to strike while the iron is what?
+
+- [x] Hot
+- [ ] Cold
+- [ ] Tired
+
+#### Which of these comic book characters is a police detective?
+
+- [ ] Popeye
+- [x] Dick Tracy
+- [ ] Marmaduke
+
+#### In Science, what are BTUs?
+
+- [ ] Bread Toasted Underneath
+- [x] British Thermal Units
+- [ ] Billiards? That's Unifying!
+
+#### Complete this Dr. Seuss title: "The Cat in the..."
+
+- [x] Hat
+- [ ] Long Distance Relationship
+- [ ] Thick of it
+
+#### Who was the other "face" on Elton John's Face to Face tour in 2009?
+
+- [x] Billy Joel
+- [ ] Mick Jagger
+- [ ] Sting
+
+#### "My mama always said: 'Life is like a box of chocolates: You never know what you're gonna get.'"
+
+- [ ] Big
+- [x] Forrest Gump
+- [ ] Apollo 13
+
+#### "We're gonna need a bigger boat..."
+
+- [ ] E.T. The Extra Terrestrial
+- [ ] Close Encounters of the Third Kind
+- [x] Jaws
+
+#### "Louis, I think this is the beginning of a beautiful friendship."
+
+- [x] Casablanca
+- [ ] The African Queen
+- [ ] The Maltese Falcon
+
+#### "I have been, and always shall be, your friend."
+
+- [ ] The Fellowship of the Ring
+- [x] Star Trek II: The Wrath of Khan
+- [ ] Galaxy Quest
+
+#### "You think we need one more? You think we need one more."
+
+- [x] Ocean's Eleven
+- [ ] Ocean's Twelve
+- [ ] Ocean's Thirteen
+
+#### "Yes, Greedo, as a matter of fact I was just going to see your box. Tell Jabba that I've got his money."
+
+- [ ] Avatar
+- [ ] The Nottebook
+- [x] Star Wars
+
+#### "Gentlemen, you can't fight in here! This is the war room!"
+
+- [ ] Duck Soup
+- [x] Dr. Strangelove
+- [ ] The Naked Gun
+
+#### "If you are a User, then everything you've done has being according to a plan."
+
+- [ ] The Lawnmower Man
+- [ ] Ralph Breaks the Internet
+- [x] TRON
+
+#### "Open the pod bay doors, please, HAL."
+
+- [x] 2001: A Space Odyssey
+- [ ] Starship Troopers
+- [ ] Contact
+
+#### "Ohana means family."
+
+- [ ] Treasure Planet
+- [x] Lilo & Stitch
+- [ ] The Little Mermaid
+
+#### Which fast food chain has a girl with pigtails as their logo?
+
+- [ ] Subway
+- [ ] Burger King
+- [x] Wendy's
