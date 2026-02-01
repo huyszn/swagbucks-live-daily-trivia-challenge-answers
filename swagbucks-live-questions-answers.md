@@ -79982,3 +79982,21 @@
 - [ ] Sepp Blatter
 - [x] Jules Rimet
 - [ ] Joao Havelange
+
+#### Avocado is the base for what dip?
+
+- [ ] Hummus
+- [x] Guacamole
+- [ ] Salsa Roja
+
+#### Which of the following is the subtitle of a Star Trek movie?
+
+- [x] Wrath of Khan
+- [ ] Return of the Jedi
+- [ ] Dark of the Moon
+
+#### After his battle with Balrog, who does Gandalf the Gray became?
+
+- [ ] Gandalf the Blue
+- [x] Gandalf the White
+- [ ] Gandalf the Green
