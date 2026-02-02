@@ -80000,3 +80000,27 @@
 - [ ] Gandalf the Blue
 - [x] Gandalf the White
 - [ ] Gandalf the Green
+
+#### The voice of K.I.T.T. on "Knight Rider" simultaneously starred on what TV drama?
+
+- [ ] Hill Street Blues
+- [ ] L.A. Law
+- [x] St. Elsewhere
+
+#### What game involves removing and replacing blocks in a tower?
+
+- [ ] Apples to Apples
+- [ ] Munchkin
+- [x] Jenga
+
+#### In "Raiders of the Lost Ark", what was the reason for Harrison Ford shooting the swordsman?
+
+- [ ] Time constraints
+- [x] Diarrhea
+- [ ] Contractual obligation
+
+#### Which of these Oreo flavors is real?
+
+- [x] Watermelon
+- [ ] Buttered Popcorn
+- [ ] Guava
