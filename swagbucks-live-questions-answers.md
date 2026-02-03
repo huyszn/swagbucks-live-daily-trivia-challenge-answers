@@ -80024,3 +80024,27 @@
 - [x] Watermelon
 - [ ] Buttered Popcorn
 - [ ] Guava
+
+#### A radio DJ named Steve Downes provides the voice for what video game character?
+
+- [x] Master Chief
+- [ ] Sonic the Hedgehog
+- [ ] Darth Revan
+
+#### What nickname was given to the group of friends, relatives, and associates who accompanied Elvis?
+
+- [x] The Memphis Mafia
+- [ ] The Tupelo Team
+- [ ] The Southern Squad
+
+#### Which two teams played in the first ever Super Bowl?
+
+- [ ] Steelers and Cowboys
+- [ ] Jets and Colts
+- [x] Packers and Chiefs
+
+#### Who directed a movie about vestibular migraines?
+
+- [x] Alfred Hitchcock
+- [ ] Stanley Kubrick
+- [ ] David Lynch
