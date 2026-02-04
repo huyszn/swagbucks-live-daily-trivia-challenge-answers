@@ -80048,3 +80048,63 @@
 - [x] Alfred Hitchcock
 - [ ] Stanley Kubrick
 - [ ] David Lynch
+
+#### What famous Rodin sculpture features a man sitting and resting his chin on his hand?
+
+- [x] The Thinker
+- [ ] The Considerer
+- [ ] The Riddler
+
+#### What vegetaable is sold in "florets"?
+
+- [ ] Corn
+- [x] Broccoli
+- [ ] Zucchini
+
+#### The Everglades are a well-known wetlands preserve in which U.S. State?
+
+- [x] Florida
+- [ ] Rhode Island
+- [ ] Maine
+
+#### People with equinophobia are afraid of which animal?
+
+- [ ] Files
+- [x] Horses
+- [ ] Squids
+
+#### What was the first-ever personal computer?
+
+- [ ] Altair 8800
+- [ ] Micral C
+- [x] Kenbak-1
+
+#### Richard the Lionheart was a medieval king of which country?
+
+- [x] England
+- [ ] Finland
+- [ ] Iceland
+
+#### Which of the following famous authors' name is a pen name?
+
+- [ ] Stephen King
+- [ ] Ernest Hemingway
+- [x] Mark Twain
+
+#### In "Mike Tyson's Punch-Out", what is the name of the boxer that the player controls?
+
+- [ ] Glass Joe
+- [x] Little Mac
+- [ ] Bobby Underdog
+
+#### What is the name of the coffee shop hangout on "Friends"?
+
+- [x] Central Perk
+- [ ] Java Jumpers
+- [ ] The Klatch
+
+#### Metallica once filed a lawsuit against what music-sharing service?
+
+- [x] Napster
+- [ ] LimeWire
+- [ ] SoulSeek
