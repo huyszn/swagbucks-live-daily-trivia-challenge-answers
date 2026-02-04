@@ -80108,3 +80108,21 @@
 - [x] Napster
 - [ ] LimeWire
 - [ ] SoulSeek
+
+#### What is NOT the name of a position on a soccer team?
+
+- [x] Designated Hitter
+- [ ] Goalkeeper
+- [ ] Sweeper
+
+#### Which of the following are the names of Ninjago warriors?
+
+- [ ] John, Paul, George, and Ringo
+- [ ] Greg, Bobby, Peter, and Oliver
+- [x] Kai, Zane, Cole and Jay
+
+#### The fashion designer Halston made which First Lady's famous Pillbox hat?
+
+- [ ] Nancy Reagan
+- [ ] Rosalynn Cater
+- [x] Jackie Kennedy
