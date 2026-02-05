@@ -80210,3 +80210,9 @@
 - [x] Sebastian
 - [ ] Ariel
 - [ ] Price Eric
+
+#### Which breed has won the most "Best In Show" awards at the Westminster Dog Show?
+
+- [ ] Scottish terrier
+- [ ] English springer spaniel
+- [x] Wire fox terrier
