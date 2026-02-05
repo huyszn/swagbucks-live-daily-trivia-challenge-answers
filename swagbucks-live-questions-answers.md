@@ -29185,7 +29185,7 @@
 - [ ] Soccer
 - [ ] Basketball
 
-#### Which of these Disney parks riders is a roller coaster?
+#### Which of these Disney parks rides is a roller coaster?
 
 - [ ] It's A Small World
 - [x] Space Mountain
@@ -36691,7 +36691,7 @@
 - [ ] 1944
 - [ ] 1951
 
-#### Which of the following movies does NOT have a socre by John Williams?
+#### Which of the following movies does NOT have a score by John Williams?
 
 - [ ] Jaws
 - [ ] Star Wars
@@ -80126,3 +80126,87 @@
 - [ ] Nancy Reagan
 - [ ] Rosalynn Cater
 - [x] Jackie Kennedy
+
+#### What is the name of the spinoff of "The Walking Dead"?
+
+- [ ] Hey, Those Dead Are Still Walking
+- [ ] The Walking Dead: The College Years
+- [x] Fear The Walking Dead
+
+#### "Nobody lays a finger" on which candy bar?
+
+- [ ] Snickers
+- [ ] Twix
+- [x] Butterfinger
+
+#### What is the term for a pact where the last surviving member gets all the benefits?
+
+- [ ] Blood pact
+- [x] Tontine
+- [ ] Treatise
+
+#### Which bird is not gifted in the 12 Days of Christmas?
+
+- [ ] Hens
+- [ ] Doves
+- [x] Hawks
+
+#### Which Disney character uses the catchphrase "Gawrsh"?
+
+- [ ] Pluto
+- [x] Goofy
+- [ ] Donald Duck
+
+#### Which Disney princess is given a poisoned apple?
+
+- [ ] Cinderella
+- [ ] Sleeping Beauty
+- [x] Snow White
+
+#### Which of these Pixar movies premiered first?
+
+- [x] Toy Story
+- [ ] The Incredibles
+- [ ] Luca
+
+#### Which Star Wars movie features an on-screen cameo by John Williams?
+
+- [ ] The Last Jedi
+- [x] Rise of Skywalker
+- [ ] The Force Awakens
+
+#### Who played Ebeneezer Scrooge in "A Muppet Christmas Carol"?
+
+- [x] Michael Caine
+- [ ] Patrick Stewart
+- [ ] Bill Murray
+
+#### In which Disney film does a concoction of turpentine, benzene, and acetone spell doom for characters?
+
+- [ ] Monsters Inc.
+- [ ] Super Mario Bros.
+- [x] Who Framed Roger Rabbit?
+
+#### In 1996's "The Preacher's Wife", who plays the title character?
+
+- [ ] Oprah Winfrey
+- [x] Whitney Houston
+- [ ] Queen Latifah
+
+#### Which of the following Disney animated movies has the highest Rotten Tomatoes critic score?
+
+- [ ] Aladdin
+- [ ] 101 Dalmatians
+- [x] Pinocchio
+
+#### In the MCU, what does Thanos use to make half of all life in the universe disappear?
+
+- [ ] Captain America's Shield
+- [x] The Infinity Gauntlet
+- [ ] Thor's Hammer
+
+#### Which character from "The Little Mermaid" sings "Under The Sea" and "Kiss The Girl"?
+
+- [x] Sebastian
+- [ ] Ariel
+- [ ] Price Eric
