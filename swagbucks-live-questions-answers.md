@@ -18553,7 +18553,7 @@
 - [x] Taylor Swift
 - [ ] Harry Styles
 
-#### Who worte the novel "1984"?
+#### Who wrote the novel "1984"?
 
 - [x] George Orwell
 - [ ] Aldous Huxley
@@ -58058,13 +58058,11 @@
 - [x] They're rumored to be haunted
 - [ ] They were built by the same person
 
-
 #### Squidward is a character on what animated series?
 
 - [x] SpongeBob SquarePants
 - [ ] Rugrats
 - [ ] Hey Arnold!
-
 
 #### In the 70s Washington, D.C.'s NFL team sent scouts to assess which celebrity's physical prowess?
 
@@ -58079,20 +58077,17 @@
 - [ ] Focaccia
 - [ ] Brioche
 
-
 #### Which of the following would cause sphenopalatine ganglioneuralgia?
 
 - [ ] Sleeping
 - [ ] A massage
 - [x] Eating ice cream
 
-
 #### In "Calvin and Hobbes", what is Hobbes?
 
 - [x] A Stuffed Tiger
 - [ ] An Ogre
 - [ ] A Pirate
-
 
 #### Which toy line comes packaged in eggs?
 
@@ -80270,3 +80265,15 @@
 - [ ] China
 - [x] France
 - [ ] Italy
+
+#### Which of the following people has won the most Grammy awards?
+
+- [x] Georg Solti
+- [ ] Quincy Jones
+- [ ] Pierre Boulez
+
+#### "Airag" is a Mongolian drink made from the milk of what animal?
+
+- [ ] Cat
+- [ ] Ox
+- [x] Horse
