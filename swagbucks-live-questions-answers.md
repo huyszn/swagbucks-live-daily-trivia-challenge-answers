@@ -80216,3 +80216,57 @@
 - [ ] Scottish terrier
 - [ ] English springer spaniel
 - [x] Wire fox terrier
+
+#### Which of the follwoing is NOT a command on the original Bop-It?
+
+- [ ] Bop it
+- [ ] Twist it
+- [x] Loan It $10
+
+#### Ancient Greek mathematician Archimedes is known for uttering what phrase of discovery?
+
+- [ ] BAM!
+- [x] Eureka!
+- [ ] Poggers!
+
+#### Usain Bolt won 8 Olympic Gold Medals representing which country?
+
+- [x] Jamaica
+- [ ] Canada
+- [ ] Spain
+
+#### Coffee can originally be traced back to which country?
+
+- [ ] Brazil
+- [x] Ethiopia
+- [ ] Hawaii
+
+#### The word "astronaut" is a combination of the Greek words for what?
+
+- [x] Star & Sailor
+- [ ] Star & Explorer
+- [ ] Star & Pioneer
+
+#### In Washington State, it's illegal to kill which mythical creature?
+
+- [x] Bigfoot
+- [ ] Unicorn
+- [ ] Pegasus
+
+#### Calvin Cordozar Broadus Jr. is better known by which name?
+
+- [ ] Kid Cudi
+- [x] Snoop Dogg
+- [ ] Lil Uzi Vert
+
+#### What holiday is preceded by and connected to Lent?
+
+- [ ] Flag Day
+- [ ] Labor Day
+- [x] Easter
+
+#### The croissant, eclair, baguette, and macaron are typically associated with which country?
+
+- [ ] China
+- [x] France
+- [ ] Italy
