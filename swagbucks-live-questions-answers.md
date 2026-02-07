@@ -80277,3 +80277,15 @@
 - [ ] Cat
 - [ ] Ox
 - [x] Horse
+
+#### Tim Burton directed the live action adaptation of which Disney Animated movie?
+
+- [ ] The Jungle Book
+- [ ] Mulan
+- [x] Dumbo
+
+#### Which of the following is meant to be used on your hair?
+
+- [ ] Five Iron
+- [ ] Ironing Board
+- [x] Curling Iron
