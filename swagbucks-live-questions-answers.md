@@ -80289,3 +80289,15 @@
 - [ ] Five Iron
 - [ ] Ironing Board
 - [x] Curling Iron
+
+#### Which of these books was written by Roald Dahl?
+
+- [ ] Lolita
+- [ ] The Unbearable Lightness of Being
+- [x] James and the Giant Peach
+
+#### Mister Rogers looked for the "essential invisible" in people. From what book did he draw that idea?
+
+- [ ] Oh, The Places You'll Go!
+- [x] The Little Prince
+- [ ] Where the Wild Things Are
