@@ -80301,3 +80301,39 @@
 - [ ] Oh, The Places You'll Go!
 - [x] The Little Prince
 - [ ] Where the Wild Things Are
+
+#### Which of these is NOT part of Superman's intro?
+
+- [ ] Faster than a speeding bullet
+- [ ] More powerful than a locomotive
+- [x] Makes a killer Quiche Lorraine
+
+#### For what sport is Wayne Gretzky known?
+
+- [ ] Football
+- [ ] Marathon
+- [x] Ice Hockey
+
+#### What company has a vehicle called the Wienermobile that tours the country?
+
+- [x] Oscar Meyer
+- [ ] Citibank
+- [ ] KFC
+
+#### What celebration was originally intended to scare off a monster?
+
+- [ ] Halloween
+- [x] Chinese New Year
+- [ ] St. Valentine's Day
+
+#### "Iron" Mike Tyson first became famous from what sport?
+
+- [x] Boxing
+- [ ] Wrestling
+- [ ] Ice Hockey
+
+#### In "Transformers", who are the bad guys?
+
+- [ ] Autobots
+- [ ] Cobra
+- [x] Decepticons
