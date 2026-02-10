@@ -30781,7 +30781,7 @@
 - [x] Whatchu talkin' bout, Willis?
 - [ ] I did it again!
 
-#### What sitcom debuted in 1987 with bob Saget as the widowered father of three girls?
+#### What sitcom debuted in 1987 with Bob Saget as the widowered father of three girls?
 
 - [ ] Step By Step
 - [ ] Family Matters
@@ -80337,3 +80337,81 @@
 - [ ] Autobots
 - [ ] Cobra
 - [x] Decepticons
+
+#### Well she was just 17, if you know what I mean, and the way she looked was way beyond compare...
+
+- [ ] Fixing A Hole
+- [ ] Blue Jay Way
+- [x] I Saw Her Standing There
+
+#### When I find myself in times of trouble, Mother Mary comes to me; speaking words of wisdom...
+
+- [ ] Love To You
+- [x] Let It Be
+- [ ] Wild Honey Pie
+
+#### In the town where I was born, lived a man who sailed to sea...
+
+- [x] Yellow Submarine
+- [ ] Her Majesty
+- [ ] A World Without Love
+
+#### Desmond has his barrow in the marketplace, Molly is the singer in a band... Desmond says to Molly, "Girl, I like your face"...
+
+- [ ] I'm Only Sleeping
+- [x] Ob-La-Di, Ob-La-Da
+- [ ] Yer Blues
+
+#### I got no car and it's breaking my heart; But I found a driver and that's a start...
+
+- [ ] Every Little Thing
+- [ ] The Fool on the Hill
+- [x] Drive My Car
+
+#### Father McKenzie writing the words of a sermon that no one will hear; No one comes near...
+
+- [x] Eleanor Rigby
+- [ ] Sexy Sadie
+- [ ] Julia
+
+#### Doesn't have a point of view, knows not where he's going to; isn't he a bit like you and me?
+
+- [ ] Taxman
+- [ ] The Continuing Story of Bungalow Bill
+- [x] Nowhere Man
+
+#### The minute you let her under your skin, then you begin to make it better...
+
+- [ ] Lady Madonna
+- [x] Hey Jude
+- [ ] Like Dreamers Do
+
+#### Picture yourself in a bot on a river, with tangerine trees and marmalade skies...
+
+- [x] Lucy In The Sky With Diamonds
+- [ ] Martha My Dear
+- [ ] The Night Before
+
+#### We would be warm below the storm, in our little hideaway beneath the waves...
+
+- [ ] Only A Northern Song
+- [ ] Please Please Me
+- [x] Octopus's Garden
+
+#### Who is the majority owner of WWE?
+
+- [ ] Ric Flair
+- [x] Vince McMahon
+- [ ] The Rock
+
+#### What disrupts the high school dance that George and Mary attend?
+
+- [x] The floor opens into a pool
+- [ ] A fire
+- [ ] A blizzard
+
+#### How does Santa Claus usually enter homes on Christmas Eve?
+
+- [ ] Through the Window
+- [ ] From the Sewers
+- [x] Down the Chimney
