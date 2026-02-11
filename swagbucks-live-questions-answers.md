@@ -80415,3 +80415,99 @@
 - [ ] Through the Window
 - [ ] From the Sewers
 - [x] Down the Chimney
+
+#### Which of the following clothing items is a kind of hat?
+
+- [ ] Kilt
+- [x] Beret
+- [ ] Sari
+
+#### Lara Croft is the hero of which video game series?
+
+- [ ] Assassin's Creed
+- [ ] Uncharted
+- [x] Tomb Raider
+
+#### Rice Krispies, Corn Flakes, and Raisin Bran are all cereals from what brand?
+
+- [x] Kellogg's
+- [ ] Post
+- [ ] Magic Spoon
+
+#### What is the name of Superman's dog?
+
+- [ ] Streaky
+- [x] Krypto
+- [ ] Comet
+
+#### Flagitious is a word used to imply that someone is what?
+
+- [x] Wicked
+- [ ] Large
+- [ ] Sleepy
+
+#### Who plays Rocky Balboa in the Rocky and Creed movies?
+
+- [ ] Arnold Schwarzenegger
+- [x] Sylvester Stallone
+- [ ] Steven Seagal
+
+#### Los Angeles Lakers and NBA legend Earvin Johnson was better known by what nickname?
+
+- [ ] The Captain
+- [ ] The Doctor
+- [x] Magic
+
+#### Where was the modern game of Sudoku invented?
+
+- [ ] Switzerland
+- [x] USA
+- [ ] Canada
+
+#### Which of the following creatures is a cetacean?
+
+- [x] Whale
+- [ ] Wolf
+- [ ] Caterpillar
+
+#### Which construction toy has a series of video games with licensed properties like The Avengers, Star Wars, and Harry Potter?
+
+- [ ] Duplo
+- [ ] K'NEX
+- [x] LEGO
+
+#### Which of these TV series starred David Hasselhoff?
+
+- [ ] Falcon Crest
+- [x] Baywatch
+- [ ] Remington Steele
+
+#### What color jersey is worn by the race leader in the Tour de France?
+
+- [x] Yellow
+- [ ] Green
+- [ ] Black
+
+#### Who makes Apple Jacks?
+
+- [ ] Post
+- [ ] Malt-O-Meal
+- [x] Kellogg's
+
+#### A word or phrase that reads the same backwards as forwards like "civic" or "kayak" is known as what?
+
+- [ ] Paragraph
+- [x] Palindrome
+- [ ] Pocket knife
+
+#### The scientific name for the spiked tail on the stegosaurus is a tribute to which cartoonist?
+
+- [x] Gary Larson
+- [ ] Dr. Seuss
+- [ ] Johnny Hart
+
+#### If Florida was holding a State Fair in their capital, where would you go to see it?
+
+- [ ] Orlando
+- [ ] Miami
+- [x] Tallahassee
