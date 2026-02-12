@@ -53527,7 +53527,7 @@
 - [ ] Boston
 - [x] Chicago
 
-#### The original Uncle Fesster also played "The Kid" alongside which legendary actor?
+#### The original Uncle Fester also played "The Kid" alongside which legendary actor?
 
 - [x] Charlie Chaplin
 - [ ] Buster Kreaton
@@ -80511,3 +80511,69 @@
 - [ ] Orlando
 - [ ] Miami
 - [x] Tallahassee
+
+#### Americano, Espresso, and Affogato are all varieties of what drink?
+
+- [ ] Cocoa
+- [x] Coffee
+- [ ] Orange Juice
+
+#### What is the world's smallest ocean?
+
+- [x] Arctic Ocean
+- [ ] Pacific Ocean
+- [ ] Indian Ocean
+
+#### Cyrillic is used to write in which language?
+
+- [x] Russian
+- [ ] Mandarin
+- [ ] English
+
+#### The original idea for "Where The Wild Things Are" would have replaced the monsters with which animals?
+
+- [ ] Lions
+- [x] Horses
+- [ ] Gorillas
+
+#### How many suits does a standard deck of cards have?
+
+- [x] 4
+- [ ] 13
+- [ ] 52
+
+#### Which of the following songs is NOT based on a historical event?
+
+- [ ] Zombie
+- [ ] Run to the Hills
+- [x] Pleasant Valley Sunday
+
+#### What TV show said "You're traveling through another dimension -- a dimension not only of sight of sound but of mind."?
+
+- [x] The Twilight Zone
+- [ ] Cheers
+- [ ] Star Trek
+
+#### Andy Samberg, Jorma Taccone, and Akiva Schaffer created content for SNL under what name?
+
+- [ ] Please Don't Destroy
+- [x] The Lonely Island
+- [ ] Human Giant
+
+#### Bagpipes are a traditional instrument in which country?
+
+- [ ] France
+- [x] Scotland
+- [ ] Italy
+
+#### Which royal is married to Kate Middleton?
+
+- [ ] Prince Harry
+- [ ] King Charles
+- [x] Prince Williams
+
+#### Which Martial Arts action star was declared physically unfit for military service?
+
+- [ ] Chuck Norris
+- [x] Bruce Lee
+- [ ] Steven Seagal
