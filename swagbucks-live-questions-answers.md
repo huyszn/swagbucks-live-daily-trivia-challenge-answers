@@ -80577,3 +80577,99 @@
 - [ ] Chuck Norris
 - [x] Bruce Lee
 - [ ] Steven Seagal
+
+#### Texting is also known as SMS, which stands for what?
+
+- [ ] Salivating Meat Slices
+- [x] Short Message Service
+- [ ] Sally Made Spaghetti!
+
+#### What type of board is supposedly used to communicate with spirits from beyond?
+
+- [ ] Mortarboard
+- [x] Ouija Board
+- [ ] Board of Directors
+
+#### Miss Piggy is romantically linked to which other muppet?
+
+- [ ] Uncle Deadly
+- [ ] Lew Zealand
+- [x] Kermit the Frog
+
+#### When someone puts "XO" at the end of a love letter, what does the "X" represent?
+
+- [x] Kiss
+- [ ] High Five
+- [ ] Wink
+
+#### Which Shakespeare play centers on a pair of star-crossed lovers?
+
+- [ ] Hamlet
+- [x] Romeo & Juliet
+- [ ] Macbeth
+
+#### Which hormone is known as "The Bonding Hormone"?
+
+- [ ] Thyroxine
+- [ ] Cortisol
+- [x] Oxytocin
+
+#### What year did the Whitman Sampler make its debut?
+
+- [ ] 1875
+- [ ] 1901
+- [x] 1912
+
+#### Complete this Titanic quote: "Draw me like one of your..."
+
+- [x] French girls
+- [ ] Cartoons
+- [ ] Superheroes
+
+#### On "Friends", which creature does Phoebe use to explain that Ross & Rachel are meant for one another?
+
+- [ ] Seals
+- [ ] Honey Bees
+- [x] Lobsters
+
+#### When asked about infidelity, which star famously responded with "I have a steak at home. Why should I go out for hamburger?"
+
+- [ ] Robert Redford
+- [x] Paul Newman
+- [ ] Johnny Cash
+
+#### Which of these Disney Princesses is awakened by true love's kiss?
+
+- [ ] Rapunzel
+- [x] Aurora
+- [ ] Merida
+
+#### In "Stranger Things", which of the kids does Eleven fall in love with?
+
+- [x] Mike
+- [ ] Goofy
+- [ ] Batman
+
+#### In 1998's "Meet Joe Black", who plays the title character?
+
+- [x] Brad Pitt
+- [ ] Pauly Shore
+- [ ] Patrick Swayze
+
+#### What green drink was put out by Hi-C to help promote Ghostbusters II?
+
+- [x] Ecto Cooler
+- [ ] Spooky Juice
+- [ ] Demon Drink
+
+#### How fast did the bus in the movie "Speed" need to go in order not to blow up?
+
+- [x] 50 mph
+- [ ] 10 mph
+- [ ] 25 mph
+
+#### Just a steel town girl on a Saturday night, lookin' for the fight of her life...
+
+- [ ] Footloose
+- [x] Maniac
+- [ ] Psycho Killer
