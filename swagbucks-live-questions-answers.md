@@ -80673,3 +80673,27 @@
 - [ ] Footloose
 - [x] Maniac
 - [ ] Psycho Killer
+
+#### In which musical does Sky Masterson sing "Lucky Be A Lady"?
+
+- [x] Guys and Dolls
+- [ ] Brigadoon
+- [ ] South Pacific
+
+#### Margaret Wilcox is the woman responsible for what automotive innovation?
+
+- [x] Heater
+- [ ] Power windows
+- [ ] Airbag
+
+#### Wilt "The Stilt" Chamberlain is best known for what sport?
+
+- [ ] Horse Racing
+- [x] Basketball
+- [ ] Curling
+
+#### In 2023, LeBron James broke Kareem Abdul-Jabbar's all time scoring record. Who held the record before Kareem?
+
+- [ ] George Mikan
+- [x] Wilt Chamberlain
+- [ ] Jerry West
