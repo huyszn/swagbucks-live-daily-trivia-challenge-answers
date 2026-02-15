@@ -80697,3 +80697,15 @@
 - [ ] George Mikan
 - [x] Wilt Chamberlain
 - [ ] Jerry West
+
+#### Who co-wrote and recorded the hit song "Chandelier"?
+
+- [ ] Lady Gaga
+- [ ] Katy Perry
+- [x] Sia
+
+#### In "Big Trouble in Little China", what feature leads to the women being kidnapped by David Lo Pan?
+
+- [ ] Beauty Mark
+- [ ] Cleft Chin
+- [x] Green Eyes
