@@ -80709,3 +80709,21 @@
 - [ ] Beauty Mark
 - [ ] Cleft Chin
 - [x] Green Eyes
+
+#### Reffering to slavery, which founding father said "I tremble for my country when I reflect that God is just"?
+
+- [x] Thomas Jefferson
+- [ ] Alexander Hamilton
+- [ ] Benjamin Franklin
+
+#### What were the first words uttered on MTV?
+
+- [ ] "Welcome to the revolution."
+- [x] "Ladies and gentlemen, rock and roll."
+- [ ] "It's music from a new point of view."
+
+#### In what year does the first sesason of Stranger Things take place?
+
+- [ ] 1992
+- [x] 1983
+- [ ] 1984
