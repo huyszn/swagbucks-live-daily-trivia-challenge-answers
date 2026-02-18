@@ -80727,3 +80727,105 @@
 - [ ] 1992
 - [x] 1983
 - [ ] 1984
+
+#### Which artist's daughter shares a name with a cocktail made of Tequila, lime juice & grapefruit soda?
+
+- [ ] Diego Rivera
+- [x] Pablo Picasso
+- [ ] Frida Kahlo
+
+#### "This above all: To thine own self be true" is a quote from Polonius in what Shakespeare play?
+
+- [ ] Our Town
+- [x] Hamlet
+- [ ] Hamilton
+
+#### Whose novels originally carried the byline of "A Lady"?
+
+- [ ] Mary Shelley
+- [x] Jane Austen
+- [ ] Charlotte Bronte
+
+#### What Neflix season released the final episode of its final season on December 31st, 2025?
+
+- [ ] Black Rabbit
+- [x] Stranger Things
+- [ ] The Recruit
+
+#### Which of the following people has NOT hosted The Tonight Show?
+
+- [ ] Johnny Carson
+- [ ] Jimmy Fallon
+- [x] Stephen Colbert
+
+#### Noah Wyle stars in which of the following medical dramas?
+
+- [ ] Doctor Odyssey
+- [x] The Pitt
+- [ ] Grey's Anatomy
+
+#### Which of the following TV shows is based on a video game?
+
+- [x] Fallout
+- [ ] Ozark
+- [ ] One Day At A Time
+
+#### Which 1990s TV finale featured one of the main characters going to outer space?
+
+- [ ] Quantum Leap
+- [x] Night Court
+- [ ] Twin Peaks
+
+#### What game show is essentially Tic-Tac-Toe?
+
+- [ ] Match Game
+- [ ] Jeopardy!
+- [x] Hollywood Squares
+
+#### What kind of dog starred as "Lassie"?
+
+- [x] Collie
+- [ ] Boxer
+- [ ] Golden Retriever
+
+#### What was the first TV shows with reruns?
+
+- [x] I Love Lucy
+- [ ] The Honeymooners
+- [ ] Your Show of Shows
+
+#### What color are the Smurfs?
+
+- [ ] Red
+- [x] Blue
+- [ ] White
+
+#### Where is the children's TV show "Bluey" from?
+
+- [ ] Poland
+- [ ] Syria
+- [x] Australia
+
+#### Which film marked Jim Henson's feature directorial debut?
+
+- [ ] The Dark Crystal
+- [ ] The Muppet Movie
+- [x] The Great Muppet Caper
+
+#### What is the highest ranking poker hand without wild cards?
+
+- [ ] Full House
+- [ ] Four of a Kind
+- [x] Straight Flush
+
+#### What is Donald Duck's relation to Huey, Dewey, and Louie?
+
+- [ ] Father
+- [x] Uncle
+- [ ] Cousin
+
+#### Which of the following is a brand of chewing gum?
+
+- [ ] Palmolive
+- [ ] Hefty
+- [x] Juicy Fruit
