@@ -80829,3 +80829,75 @@
 - [ ] Palmolive
 - [ ] Hefty
 - [x] Juicy Fruit
+
+#### When you claim an exemption for someone other than your spouse or yourself, what is that person called?
+
+- [ ] Excuse
+- [ ] Hanger-on
+- [x] Dependent
+
+#### The man who designed the weapons for the original "Man from U.N.C.L.E." also invented what board game?
+
+- [ ] Battleship
+- [ ] Operation
+- [x] The Game of LIFE
+
+#### Which auto manufacturer uses the slogan "The Heartbeat of America"?
+
+- [ ] Peugeot
+- [ ] Ferrari
+- [x] Chevrolet
+
+#### King Hippo, Glass Joe, and Soda Popinski were all opponents in which NES game?
+
+- [ ] Ice Hockey
+- [x] Mike Tyson's Punch Out!
+- [ ] Super Mario Bros 2
+
+#### In baseball, how many balls lead to a walk?
+
+- [x] 4
+- [ ] 5
+- [ ] 6
+
+#### Pez gets its name from the German word for what?
+
+- [ ] Candy
+- [ ] Hidden
+- [x] Peppermint
+
+#### Boston Dynamics is known for their work in what field?
+
+- [ ] Breakdancing
+- [x] Robotics
+- [ ] Cupcakes
+
+#### Which of the following nuts is actually a drupe?
+
+- [x] Pistachios
+- [ ] Acorns
+- [ ] Chestnuts
+
+#### According to the saying, you can lead a horse to what, but what can't you do?
+
+- [ ] Buy him lunch
+- [x] Make him drink
+- [ ] Catch him lacking
+
+#### Which song from 1991's "Beauty and the Beast" was recorded in a single take?
+
+- [ ] Be Our Guest
+- [ ] Gaston
+- [x] Beauty and the Beast
+
+#### In the movies, what is James Bond's most frequent drink order?
+
+- [x] Martini
+- [ ] Milkshake
+- [ ] Michelob Ultra
+
+#### Elton John is known for playing which instrument?
+
+- [x] Piano
+- [ ] Guitar
+- [ ] Drums
