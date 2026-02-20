@@ -80901,3 +80901,21 @@
 - [x] Piano
 - [ ] Guitar
 - [ ] Drums
+
+#### What serial killer was once given a commendation for chasing down a purse snatcher?
+
+- [ ] Ed Gein
+- [x] Ted Bundy
+- [ ] John Wayne Gacy
+
+#### Boris Karloff is famous for playing which movie monster?
+
+- [x] Frankenstein's Monster
+- [ ] Jason Voorhees
+- [ ] Freddy Krueger
+
+#### In the musical "Oliver!" what is the title character's last name?
+
+- [x] Twist
+- [ ] Sykes
+- [ ] Fagin
