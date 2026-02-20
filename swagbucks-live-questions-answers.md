@@ -80991,3 +80991,9 @@
 - [ ] Springfield Spookiness
 - [x] Treehouse of Horror
 - [ ] Simpsons Hollow
+
+#### JOhn Hughes' first two movie scripts both hit the big screen in July 1983. "Mr. Mom" was one. What was the other?
+
+- [ ] Sixteen Candles
+- [ ] Weird Science
+- [x] National Lampoon's Vacation
