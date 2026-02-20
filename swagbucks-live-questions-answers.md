@@ -80919,3 +80919,75 @@
 - [x] Twist
 - [ ] Sykes
 - [ ] Fagin
+
+#### Which of these animal vocalizations was NOT used to create Chewbacca's voice?
+
+- [x] Deal
+- [ ] Badger
+- [ ] Lion
+
+#### What African-American broke baseball's color barrier in 1947?
+
+- [x] Jackie Robinson
+- [ ] Will Robinson
+- [ ] Robinson Crusoe
+
+#### What kind of cookies are normally used to make houses during the holidays?
+
+- [x] Gingerbread
+- [ ] Chocolate Chip
+- [ ] Snickerdoodle
+
+#### On "The Simpsons", where does Homer work?
+
+- [ ] School
+- [ ] Hospital
+- [x] Nuclear Power Plant
+
+#### What is the name of the main town on "The Simpsons"?
+
+- [x] Springfield
+- [ ] Quahog
+- [ ] Bikini Bottom
+
+#### In "The Simpsons", when Maggie scanned at the grocery store in each episode, what does the amount represent?
+
+- [ ] FFC fine amounts
+- [ ] Matt Groening's first paycheck
+- [x] The average cost to raise a child
+
+#### Which Beatle appears as himself in the Simpsons episode "Homer's Barbershop Quartet"?
+
+- [ ] Paul McCartney
+- [x] George Harrison
+- [ ] Ringo Starr
+
+#### When we first see Lisa Simpson in the opening credits of "The Simpsons" what is she doing?
+
+- [x] Playing the saxophone
+- [ ] Reading a book
+- [ ] Writing on the chalkboard
+
+#### "Do The Bartman" was long rumored to have been co-written by which music legend?
+
+- [ ] Diane Warren
+- [x] Michael Jackson
+- [ ] Ringo Starr
+
+#### On "The Simpsons", what was the secret ingredient in the Flaming Moe?
+
+- [ ] Kerosense
+- [ ] Rubbing Alcohol
+- [x] Cough Syrup
+
+#### Which Simpsons character uses the catchphrase "Okily Dokily!"?
+
+- [x] Ned Flanders
+- [ ] Otto
+- [ ] Krusty The Clown
+
+#### What is the name of the annual Simpsons Halloween episode?
+
+- [ ] Springfield Spookiness
+- [x] Treehouse of Horror
+- [ ] Simpsons Hollow
