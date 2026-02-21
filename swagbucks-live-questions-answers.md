@@ -65304,7 +65304,7 @@
 
 #### How many happy haunts call Disney Parks' Haunted Mansion their home?
 
-- [x] 99
+- [x] 999
 - [ ] 1
 - [ ] 1,000,000
 
@@ -80992,8 +80992,14 @@
 - [x] Treehouse of Horror
 - [ ] Simpsons Hollow
 
-#### JOhn Hughes' first two movie scripts both hit the big screen in July 1983. "Mr. Mom" was one. What was the other?
+#### John Hughes' first two movie scripts both hit the big screen in July 1983. "Mr. Mom" was one. What was the other?
 
 - [ ] Sixteen Candles
 - [ ] Weird Science
 - [x] National Lampoon's Vacation
+
+#### Which of these video games is considered a Fighting Game?
+
+- [ ] Ratchet & Clank
+- [ ] Portal 2
+- [x] Mortal Kombat
