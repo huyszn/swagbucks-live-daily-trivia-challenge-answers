@@ -74464,12 +74464,6 @@
 - [ ] Andor
 - [x] The Mandalorian
 
-#### What instrument is used to create the adult voices in Peanuts cartoons?
-
-- [ ] Guitar
-- [x] Trombone
-- [ ] Flute
-
 #### What children's book was labeled "not a kid's book - too sad, and it isn't for adults" by publishers?
 
 - [ ] The Lorax
@@ -81003,3 +80997,33 @@
 - [ ] Ratchet & Clank
 - [ ] Portal 2
 - [x] Mortal Kombat
+
+#### Which of the following national brands is NOT known for ice cream?
+
+- [ ] Ben & Jerry's
+- [ ] Breyer's
+- [x] Nabisco
+
+#### Thomas Edison was "the Wizard of Menlo Park" in what U.S. State?
+
+- [ ] California
+- [x] New Jersey
+- [ ] Florida
+
+#### What caused the Titanic to sink?
+
+- [ ] A submarine
+- [x] An iceberg
+- [ ] Rough waters
+
+#### Which of the following is NOT the name of a TV network?
+
+- [ ] ABC
+- [ ] CBC
+- [x] BYOB
+
+#### When in France, what would you buy in a charcuterie?
+
+- [ ] Masks
+- [x] Meat
+- [ ] Stationary
