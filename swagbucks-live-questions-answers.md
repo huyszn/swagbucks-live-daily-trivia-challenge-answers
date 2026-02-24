@@ -81027,3 +81027,81 @@
 - [ ] Masks
 - [x] Meat
 - [ ] Stationary
+
+#### In "The Itsy Bitsy Spider", where did it go?
+
+- [ ] Acapulco
+- [x] Up the water spout
+- [ ] To an Ivy League school
+
+#### What was the official name of Pepsi's failed 1992 brand?
+
+- [ ] Pepsi, but it's water
+- [x] Crystal Pepsi
+- [ ] Water, but it's Pepsi
+
+#### Someone can be referred to as a "Ginger" for having what color hair?
+
+- [ ] Brown
+- [x] Red
+- [ ] Blonde
+
+#### In which movie does Keanu Reeves' character choose between the red pill and the blue pill?
+
+- [ ] Johnny Mnemonic
+- [ ] Chain Reaction
+- [x] The Matrix
+
+#### Ray Stantz, Peter Venkman, Egon Spengler, and Winston Zeddemore are collectively known by what name?
+
+- [ ] League of Extraordinary Gentlemen
+- [x] Ghostbusters
+- [ ] The Sunshine Boys
+
+#### In "Pretty Woman", how much does Vivian charge Edward for the week?
+
+- [x] Three thousand dollars
+- [ ] One dollar
+- [ ] One million dollars
+
+#### In the original "Air Bud", what sport does the golden retriever play?
+
+- [ ] Football
+- [x] Basketball
+- [ ] Baseball
+
+#### In "The Bourne Identity", what affiction is Jason Bourne suffering from?
+
+- [x] Amnesia
+- [ ] OCD
+- [ ] Food Poisoning
+
+#### In "The Iron Lady", Meryl Streep plays which historical figure?
+
+- [ ] Queen Mary I
+- [ ] Sarah Ferguson
+- [x] Margaret Thatcher
+
+#### Which of the following is an example of a MacGuffin in a movie?
+
+- [ ] Obi-Wan's Lightsaber in Star Wars
+- [x] Allspark in Transformers
+- [ ] Empire State Building in King Kong
+
+#### Bette Midler's version of "Wind Beneath My Wings" debuted on which movie's soundtrack?
+
+- [x] Beaches
+- [ ] Hocus Pocus
+- [ ] Outrageous Fortune
+
+#### In "The Devil Wears Prada", Miranda Priestly is editor-in-chief of what magazine?
+
+- [ ] Highlights for Children
+- [x] Runway
+- [ ] Country Cooking
+
+#### Cher Horowitz is the heroine of what teen movie?
+
+- [x] Clueless
+- [ ] Sixteen Candles
+- [ ] Pretty in Pink
