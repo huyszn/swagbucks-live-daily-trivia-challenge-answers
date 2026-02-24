@@ -55375,7 +55375,7 @@
 - [x] Supreme Court Justice
 - [ ] Senator
 
-#### Formula 1 is e highest class of what sport?
+#### Formula 1 is the highest class of what sport?
 
 - [ ] Soccer
 - [x] Auto racing
