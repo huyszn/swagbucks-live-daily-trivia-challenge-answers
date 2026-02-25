@@ -81105,3 +81105,87 @@
 - [x] Clueless
 - [ ] Sixteen Candles
 - [ ] Pretty in Pink
+
+#### Which Judd family member is the oldest?
+
+- [x] Wynonna Judd
+- [ ] Ashley Judd
+- [ ] Naomi Judd
+
+#### What candy has its own U.S. brand of cereal puffs?
+
+- [x] Reese's Peanut Butter Cups
+- [ ] Chunky
+- [ ] York Peppermint Pattie
+
+#### Who has the most No. 2 Billboard hits without ever hitting No. 1?
+
+- [x] Creedence Clearwater Revival
+- [ ] The Black-Eyed Peas
+- [ ] Ed Sheeran
+
+#### A Gibbon is a kind of...
+
+- [x] Ape
+- [ ] Cat
+- [ ] Lizard
+
+#### "Bring It On" centers around which high school sport?
+
+- [ ] Hockey
+- [ ] Soccer
+- [x] Cheerleading
+
+#### Which superhero movie featrues an iconic upside down kiss?
+
+- [ ] Superman: The Movie
+- [x] Spider-Man
+- [ ] Shang-Chi and the Legend of the Ten Rings
+
+#### In which of the following movies does a child magically become an adult?
+
+- [x] Big
+- [ ] 17 Again
+- [ ] Cocoon
+
+#### Cyberdyne Systems is the fictional company from which film franchise?
+
+- [ ] Alien
+- [ ] Blade Runner
+- [x] Terminator
+
+#### Which Star Wars movie is about the people who steal the Death Star plans?
+
+- [x] Rogue One
+- [ ] Solo
+- [ ] The Mandalorian & Grogu
+
+#### Which of the following movies features a transition from sepia tones to full color?
+
+- [ ] Citizen Kane
+- [x] Wizard of Oz
+- [ ] The Maltese Falcon
+
+#### Which movie features brothers Ben & Casey Affleck on screen together?
+
+- [ ] Argo
+- [ ] Air
+- [x] Good Will Hunting
+
+#### In which John Hughes movie does the main character tell the audience to go home in a post-credits scene?
+
+- [ ] The Breakfast Club
+- [x] Ferris Bueller's Day Off
+- [ ] Weird Science
+
+#### Which of the following movies is based on a television show?
+
+- [x] 21 Jump Street
+- [ ] Back to the Future
+- [ ] Rocky
+
+#### Ethan Hunt is the main character in which film franchise?
+
+- [ ] Sex and the City
+- [x] Mission: Impossible
+- [ ] Charlie's Angeles
