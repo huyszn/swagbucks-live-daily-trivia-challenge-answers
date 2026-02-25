@@ -81189,3 +81189,27 @@
 - [ ] Sex and the City
 - [x] Mission: Impossible
 - [ ] Charlie's Angeles
+
+#### Condensed to 12 for his book, how many Rules for Life did Jordan Peterson originally write?
+
+- [ ] 20
+- [x] 40
+- [ ] 101
+
+#### Which of these companies is known for making guitars?
+
+- [ ] Flat
+- [x] Fender
+- [ ] Frito-Lay
+
+#### What breed of dog is Lady in "Lady and the Tramp"?
+
+- [ ] Bulldog
+- [x] Cocker Spaniel
+- [ ] Daschund
+
+#### Which of the following men has NOT been married to Demi Moore?
+
+- [ ] Ashton Kutcher
+- [ ] Bruce Willis
+- [x] Roy Rogers
