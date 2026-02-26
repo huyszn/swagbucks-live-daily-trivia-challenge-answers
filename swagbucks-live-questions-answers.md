@@ -81213,3 +81213,15 @@
 - [ ] Ashton Kutcher
 - [ ] Bruce Willis
 - [x] Roy Rogers
+
+#### Which of these toys is known for lifting ink from comics?
+
+- [x] Silly Putty
+- [ ] Super Ball
+- [ ] Slinky
+
+#### "After the Final Rose" is a wrap show for what reality program?
+
+- [ ] Love Island
+- [ ] Who Wants to Marry a Millionaire?
+- [x] The Bachelor
