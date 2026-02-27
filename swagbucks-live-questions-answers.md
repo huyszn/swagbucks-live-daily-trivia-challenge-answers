@@ -42085,7 +42085,7 @@
 - [ ] France
 - [ ] United States
 
-#### Art Garfunkel was in a successful dueo with what other singer?
+#### Art Garfunkel was in a successful duo with what other singer?
 
 - [x] Paul Simon
 - [ ] Bob Dylan
@@ -81285,3 +81285,15 @@
 - [x] Christmas
 - [ ] Labor Day
 - [ ] Easter
+
+#### Paul Simon broke into music as a duo with what other singer?
+
+- [ ] Madonna
+- [x] Art Garfunkel
+- [ ] Neil Young
+
+#### Who did Ian McKellen play in the Lord of the Rings films?
+
+- [ ] Bilbo Baggins
+- [ ] Sauron
+- [x] Gandalf
