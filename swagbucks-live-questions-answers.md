@@ -81225,3 +81225,63 @@
 - [ ] Love Island
 - [ ] Who Wants to Marry a Millionaire?
 - [x] The Bachelor
+
+#### Which of the following movies was NOT directed by Rob Reiner?
+
+- [ ] The Princess Bride
+- [x] Citizen Kane
+- [ ] A Few Good Men
+
+#### Which of the following Disney movies was released first?
+
+- [x] Snow White and The Seven Dwarfs
+- [ ] TRON
+- [ ] Wreck-It Ralph
+
+#### Drew Barrymroe starred alongside which comedian in "50 First Dates" and "The Wedding Singer"?
+
+- [ ] Chris Rock
+- [ ] Dan Aykroyd
+- [x] Adam Sandler
+
+#### What is the actual name of Mr. Mertle's dog in "The Sandlot"?
+
+- [ ] The Beast
+- [x] Hercules
+- [ ] Koufax
+
+#### In "Once Upon a Time in Hollywood", Rick Dalton has Cliff over to watch his guest appearance on which TV show?
+
+- [ ] Mannix
+- [ ] Gunsmoke
+- [x] The F.B.I.
+
+#### Which of the following movies is about reunited twins trying to get their parents back together?
+
+- [x] The Parent Trap
+- [ ] Gorillas in the Mist
+- [ ] Bonfire of the Vanities
+
+#### Who stars in "Superbad". "Easy A", and "The Help"?
+
+- [ ] Allison Janney
+- [x] Emma Stone
+- [ ] Stanley Tucci
+
+#### What was the first Stephen King novel adapted into a feature film?
+
+- [x] Carrie
+- [ ] Firestarter
+- [ ] The Shining
+
+#### In 1989's "Batman", who plays The Joker?
+
+- [ ] Barry Keoghan
+- [x] Jack Nicholson
+- [ ] Mark Hamill
+
+#### "Die Hard" takes place around which holiday?
+
+- [x] Christmas
+- [ ] Labor Day
+- [ ] Easter
