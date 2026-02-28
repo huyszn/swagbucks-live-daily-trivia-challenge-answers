@@ -81297,3 +81297,27 @@
 - [ ] Bilbo Baggins
 - [ ] Sauron
 - [x] Gandalf
+
+#### Which of these celebrities never hosted the Oscars?
+
+- [ ] Donald Duck
+- [ ] Paul Hogan
+- [x] George Burns
+
+#### Where was the idea for "International Talk Like A Pirate Day" born?
+
+- [x] A racquetball court
+- [ ] An office
+- [ ] A boat
+
+#### Which pitcher has the most wins in major league history?
+
+- [x] Cy Young
+- [ ] Kent Tekulve
+- [ ] Aaron Nola
+
+#### In what country would you find a library that uses bats to keep the books safe?
+
+- [ ] Spain
+- [x] Portugal
+- [ ] Croatia
