@@ -81321,3 +81321,21 @@
 - [ ] Spain
 - [x] Portugal
 - [ ] Croatia
+
+#### In the Garfield comics, what is the middle initial of Odie's owner?
+
+- [ ] K
+- [x] Q
+- [ ] P
+
+#### What weapon does Indiana Jones always carry with him?
+
+- [ ] Sword
+- [x] Bullwhip
+- [ ] Cannon
+
+#### Don Gorske has eaten over 30,000 of what fast food burger since 1979?
+
+- [ ] Whopper
+- [x] Big Mac
+- [ ] Double Double
