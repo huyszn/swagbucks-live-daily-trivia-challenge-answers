@@ -47059,7 +47059,8 @@
 - [ ] Norton
 - [ ] Cisco
 
-#### Which of the following programs is NOT part of Microsoft Office?
+#### Which of the following programs is NOT part of Microsoft Office? (REPEAT QUESTION WITH DIFFERENT ANSWERS)
+
 
 - [ ] Excel
 - [ ] Word
@@ -81339,3 +81340,81 @@
 - [ ] Whopper
 - [x] Big Mac
 - [ ] Double Double
+
+#### In the movie "Glengarry Glen Ross", which actor's character did not exist in Mamet's original stage play?
+
+- [x] Alec Baldwin
+- [ ] Al Pacino
+- [ ] Kevin Spacey
+
+#### Complete this famous opening sentence: "It was the best of times..."
+
+- [ ] It was a Monday
+- [ ] It was the better of times
+- [x] It was the worst of times
+
+#### Before they were Pearl Jam, the band waa named after what NBA player?
+
+- [x] Mookie Blaylock
+- [ ] Popeye Jones
+- [ ] Hakeem Olajuwon
+
+#### Who are the Cat in the Hat's sidekicks?
+
+- [ ] Frick and Frack
+- [ ] Tweedle Dee & Tweedle Dum
+- [x] Thing 1 & Thing 2
+
+#### Which Dr. Seuss character "speaks for the trees"?
+
+- [ ] Horton
+- [x] The Lorax
+- [ ] The Grinch
+
+#### Complete this Dr. Seuss title: One Fish, Two Fish, Red Fish..."
+
+- [x] Blue Fish
+- [ ] Filet-O-Fish
+- [ ] Abe Vigoda as Fish
+
+#### One of Dr. Seuss's book is about a fox wearing what article of clothing?
+
+- [ ] Hat
+- [ ] Golves
+- [x] Socks
+
+#### Where does the Grinch steal Christmas from in the book?
+
+- [ ] Wonkelberg
+- [x] Whoville
+- [ ] Wangle City
+
+#### What is the name of the Dr. Seuss turtle king who stands on a stack of his subjects?
+
+- [ ] Boris
+- [ ] Jimmy
+- [x] Yertle
+
+#### Complete the Dr. Seuss book's title: "There's a ____ in My Pocket!"
+
+- [x] Wocket
+- [ ] Rocket
+- [ ] Socket
+
+#### What dish does Sam-I-Am try to get someone to eat in the Dr. Seuss book?
+
+- [ ] Tuna Tartare
+- [x] Green Eggs and Ham
+- [ ] Oatmeal
+
+#### Complete this Dr. Seuss title: "And to Think That I Saw It on..."
+
+- [ ] The Gridiron
+- [ ] Tuesday
+- [x] Mulberry Street
+
+#### Which Dr. Seuss book, often given as a graduation gift, was the last book published during his lifetime?
+
+- [x] Oh, the Places You'll Go!
+- [ ] If I Ran the Zoo
+- [ ] Hop on Pop
