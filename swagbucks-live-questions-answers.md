@@ -81418,3 +81418,9 @@
 - [x] Oh, the Places You'll Go!
 - [ ] If I Ran the Zoo
 - [ ] Hop on Pop
+
+#### Which of these is a floor lamp at IKEA?
+
+- [x] Jansjo
+- [ ] Tarendo
+- [ ] Malm
