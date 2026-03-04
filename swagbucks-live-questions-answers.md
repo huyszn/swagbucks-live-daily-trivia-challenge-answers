@@ -81424,3 +81424,63 @@
 - [x] Jansjo
 - [ ] Tarendo
 - [ ] Malm
+
+#### Which famous Mary, known as "Mary, Queen of Cakes" was a judge on the Great British Baking Show?
+
+- [x] Marry Berry
+- [ ] Mary Tyler Moore
+- [ ] Mary Poppins
+
+#### Harriet Tubman is closely associated with which historic network?
+
+- [ ] The Northwest Passage
+- [ ] The Silk Road
+- [x] The Underground Railroad
+
+#### What movie tells the story of Katherine Johnson, pioneering human computer at NASA?
+
+- [x] Hidden Figures
+- [ ] The Right Stuff
+- [ ] The Martian
+
+#### Louisa May Alcott is known for which novel?
+
+- [ ] Frankenstein
+- [ ] Wuthering Heights
+- [x] Little Women
+
+#### Billie Jean King won the "Battle of the Sexes" against which male tennis star?
+
+- [ ] Bjorn Borg
+- [x] Bobby Riggs
+- [ ] Francis Kovacs
+
+#### Which host of "The View" won an Oscar for Best Supporting Actress?
+
+- [x] Whoopi Goldberg
+- [ ] Joy Behar
+- [ ] Sunny Hostin
+
+#### Catherine the Great ruled over which country?
+
+- [ ] England
+- [ ] Germany
+- [x] Russia
+
+#### Ada Lovelace is famous for her early work in which field?
+
+- [ ] Filmmaking
+- [x] Computer Programming
+- [ ] Fashion Design
+
+#### Who was the first First Lady in American History?
+
+- [ ] Betsy Ross
+- [ ] Mary Todd Lincoln
+- [x] Martha Washington
+
+#### Angela Merkel spent 16 years as the Chancellor of which European nation?
+
+- [ ] England
+- [x] Germany
+- [ ] Sweden
