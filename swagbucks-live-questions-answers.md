@@ -81484,3 +81484,15 @@
 - [ ] England
 - [x] Germany
 - [ ] Sweden
+
+#### David Beclham is married to a member of which all-female pop group?
+
+- [ ] Destiny's Child
+- [ ] The Supremes
+- [x] Spice Girls
+
+#### What 1980's toy line was inspired by a nightmare?
+
+- [x] Pillow People
+- [ ] Teddy Ruxpin
+- [ ] G.I. Joe
