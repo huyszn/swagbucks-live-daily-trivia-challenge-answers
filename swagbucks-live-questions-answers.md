@@ -81496,3 +81496,63 @@
 - [x] Pillow People
 - [ ] Teddy Ruxpin
 - [ ] G.I. Joe
+
+#### Which country is home to the legend of the Loch Ness Monster?
+
+- [x] Scotland
+- [ ] Wales
+- [ ] Ireland
+
+#### Which of these brands is known for their orange juice?
+
+- [ ] Jim Beam
+- [x] Tropicana
+- [ ] Sprite
+
+#### In Snow White, what does the wicked queen poison her with?
+
+- [x] An apple
+- [ ] A banana
+- [ ] A kumquat
+
+#### How are Chick-fil-A employees supposed to respond when someone tells them "Thank you"?
+
+- [ ] Of course
+- [ ] You're welcome
+- [x] My pleasure
+
+#### In a game of Blackjack, what card can be worth either 1 or 11?
+
+- [ ] Jack
+- [x] Ace
+- [ ] Queen
+
+#### Which of the following TV shows was NOT cancelled after airing a single episode?
+
+- [x] Cop Rock
+- [ ] Emily's Reasons Why Not
+- [ ] Dot Comedy
+
+#### Complete this Bruce Springsteen song title: "Born to..."
+
+- [ ] Eat Cheese
+- [ ] Nap
+- [x] Run
+
+#### Which of the following companies began as a grocery store?
+
+- [x] Samsung
+- [ ] Apple
+- [ ] Tencent
+
+#### Which Wisconsin pro sports team has fans called "Cheeseheads"?
+
+- [ ] Bucks
+- [ ] Brewers
+- [x] Packers
+
+#### Which Elton John song was rewritten as a tribute to Lady Diana?
+
+- [ ] Your Song
+- [x] Candle In The Wind
+- [ ] Tiny Dancer
