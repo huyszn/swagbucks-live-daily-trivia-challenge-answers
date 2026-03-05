@@ -81556,3 +81556,15 @@
 - [ ] Your Song
 - [x] Candle In The Wind
 - [ ] Tiny Dancer
+
+#### Where would you find Old Faithful?
+
+- [x] Yellowstone Park
+- [ ] Jellystone Park
+- [ ] Alverthorpe Park
+
+#### In "Jaws" Chief Brody says "You're going to need a bigger" what?
+
+- [ ] Shark
+- [ ] Gun
+- [x] Boat
