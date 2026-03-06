@@ -81568,3 +81568,75 @@
 - [ ] Shark
 - [ ] Gun
 - [x] Boat
+
+#### According to the soap slogan, "You're not fully celan unless you're" what?
+
+- [x] Zestfully Clean
+- [ ] "Dialed" In
+- [ ] Old Spicy Clean
+
+#### Where would you most likely use a Brannock Device?
+
+- [x] The Walking Stone
+- [ ] A Zoo
+- [ ] The International Space Station
+
+#### It was 20 years ago today, Sgt. Pepper taught his band to play...
+
+- [x] Sgt. Pepper's Lonely Hearts Club Band
+- [ ] Good Morning Good Morning
+- [ ] Within You Without You
+
+#### Now he's thinkin' 'bout me every night, oh; Is it that sweet? I guess so. Say you can't sleep, baby, I know...
+
+- [ ] Pink Pony Club
+- [ ] What Derams Are Made Of
+- [x] Espresso
+
+#### How many roads must a man walk down, before you call him a man?
+
+- [ ] I Will Survive
+- [x] Blowin' In The Wind
+- [ ] Bohemian Rhapsody
+
+#### I met a gin soaked, bar-room queen in Memphis; She tried to take me upstairs for a ride...
+
+- [ ] She's A Rainbow
+- [ ] Jumpin' Jack Flash
+- [x] Honky Tonk Women
+
+#### You with the sad eyes - Don't be discouraged; Oh, I realize, It's hard to take courage...
+
+- [x] True Colors
+- [ ] Time After Time
+- [ ] All Through The Night
+
+#### Somebody once told me the world is gonna roll me, I ain't the sharpest tool in the shed...
+
+- [ ] I'm A Believer
+- [x] All Star
+- [ ] Walking On The Sun
+
+#### Out here in the fields, I fight for my meals; I get my back into my living...
+
+- [ ] Teenage Wasteland
+- [ ] A Quick One While He's Away
+- [x] Baba O'Riley
+
+#### Lipstick cherry all over the lens as she's falling; In miles of sharp blue water coming in where she lies...
+
+- [ ] Rio
+- [x] Girls On Film
+- [ ] Hungry Like the Wolf
+
+#### You can't start a fire, You can't start a fire without a spark; This gun's for hire...
+
+- [x] Dancing In The Dark
+- [ ] Born in the U.S.A
+- [ ] Glory Days
+
+#### Paul is a real estate novelist, who never had time for a wife, and he's talking with Davy who's still in the Navy...
+
+- [ ] Summer Highland Falls
+- [x] Piano Man
+- [ ] Only The Good Die Young
