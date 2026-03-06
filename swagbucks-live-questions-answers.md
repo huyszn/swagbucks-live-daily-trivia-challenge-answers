@@ -81640,3 +81640,27 @@
 - [ ] Summer Highland Falls
 - [x] Piano Man
 - [ ] Only The Good Die Young
+
+#### "Mickeys" are a unit of measurement for what?
+
+- [ ] Drinks
+- [ ] Fur length
+- [x] The speed of your mouse
+
+#### Which of these NBA players has the most career points?
+
+- [ ] Tim Duncan
+- [ ] Reggie Miller
+- [x] Dominique Wilkins
+
+#### Diner's Club was an early version of what product?
+
+- [ ] DoorDash
+- [x] The Credit Card
+- [ ] The VIP Section
+
+#### What do herbivores exclusively eat?
+
+- [x] Plants
+- [ ] Fish
+- [ ] Chicken
