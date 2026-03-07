@@ -81664,3 +81664,21 @@
 - [x] Plants
 - [ ] Fish
 - [ ] Chicken
+
+#### What appliance is most often used to broil food?
+
+- [x] Oven
+- [ ] Freezer
+- [ ] Food Processor
+
+#### What is the capital of Japan?
+
+- [ ] Kyoto
+- [x] Tokyo
+- [ ] Osaka
+
+#### In ancient Southeast Asia, what animal was used as a popular form of capital punishment?
+
+- [x] Elephant
+- [ ] Monkey
+- [ ] Tiger
