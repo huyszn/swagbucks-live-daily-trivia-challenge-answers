@@ -81682,3 +81682,33 @@
 - [x] Elephant
 - [ ] Monkey
 - [ ] Tiger
+
+#### What British comedian hosted the 2020 Golden Globes?
+
+- [ ] John Cleese
+- [x] Ricky Gervais
+- [ ] Stephen Fry
+
+#### What fast food chain once used a spokesperson named Herb?
+
+- [ ] Pizza Hut
+- [ ] Subway
+- [x] Burger King
+
+#### Alnwick Castle is home to a garden filled with what?
+
+- [x] Poison
+- [ ] Exotic fruits
+- [ ] Petrified trees
+
+#### Wales, Scotland, England and Northern Ireland make up what entity?
+
+- [x] The United Kingdom
+- [ ] The Magic Kingdom
+- [ ] My Kingdom For A Horse
+
+#### Which of these Sesame Street characters is NOT a puppet?
+
+- [x] Chris
+- [ ] Telly
+- [ ] Prairie Dawn
