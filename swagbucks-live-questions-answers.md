@@ -55997,7 +55997,7 @@
 #### Which of these amusement park rides typically moves the fastest?
 
 - [ ] Merry Go Round
-- [x] Coaster
+- [x] Roller Coaster
 - [ ] Ferris Wheel
 
 #### In Trivial Pursuit, how many wedges do you need to collect to win?
@@ -81712,3 +81712,9 @@
 - [x] Chris
 - [ ] Telly
 - [ ] Prairie Dawn
+
+#### What type of hat did Sherlock Holmes wear?
+
+- [ ] Pork Pue Hat
+- [ ] Akubra
+- [x] Deerstalker
