@@ -21367,7 +21367,7 @@
 - [x] Wyoming
 - [ ] New Mexico
 
-#### Complete this slogan: "There are some things money can't buy. For everything else, there's _____"
+#### Complete this slogan: "There are some things money can't buy. For everything else, there's _______"
 
 - [ ] Discover
 - [x] Mastercard
@@ -59657,12 +59657,6 @@
 - [ ] Donald Trump
 - [ ] LL Cool J
 
-#### Complete this slogan: "There are some things money can't buy. For everything else, there's _______"
-
-- [ ] Discover
-- [x] Mastercard
-- [ ] American Express
-
 #### According to the saying, "when life gives you lemons..."
 
 - [x] Make lemonade
@@ -81718,3 +81712,87 @@
 - [ ] Pork Pue Hat
 - [ ] Akubra
 - [x] Deerstalker
+
+#### What is the last name of the family in National Lampoon's Vacation series?
+
+- [ ] Johnson
+- [ ] Gurley
+- [x] Griswold
+
+#### Who was the self-proclaimed leader of the surrealist movement?
+
+- [x] Andre Breton
+- [ ] Salvador Dali
+- [ ] Marcel Duchamp
+
+#### Complete this candy slogan: "Nobody lays a finger on my..."
+
+- [ ] Sour Patch Kids
+- [ ] Necco Wafers
+- [x] Butterfinger
+
+#### Which of the following ingredients are NOT used to make S'mores?
+
+- [ ] Graham Cracker
+- [x] Ice Cream
+- [ ] Marshmallow
+
+#### Complete this famous ad slogan: "There are some things money can't buy; for everything else, there's..."
+
+- [ ] Wooden Nickels
+- [ ] Larceny
+- [x] Mastercard
+
+#### When playing Operation, what part of Cavity Sam lights up when the tweezers touch the sensors?
+
+- [ ] Eyes
+- [x] Nose
+- [ ] Mouth
+
+#### Fahrenheit is one of the two main scales for measuring temperature - what is the other?
+
+- [ ] Watts
+- [ ] Square Feet
+- [x] Celsius
+
+#### Big Boi and Andre 3000 formed which hip-hop group?
+
+- [ ] NWA
+- [x] OutKast
+- [ ] Public Enemy
+
+#### Which WWE wrestler plays the superhero Peacemaker in the DCU?
+
+- [x] John Cena
+- [ ] Jake "The Shake" Roberts
+- [ ] King Kong Bundy
+
+#### According to scientific research by Broadband Choices, which of the following video games is the scariest?
+
+- [ ] Bloodborne
+- [x] Five Nights At Freddy's 4
+- [ ] Dead Space
+
+#### English Breakfast, Darjeeling, and Earl Grey are all varieties of what drink?
+
+- [ ] Milk
+- [ ] Beer
+- [x] Tea
+
+#### In which month does the United States hold their Presidential elections?
+
+- [x] November
+- [ ] December
+- [ ] January
+
+#### Something being unlikely is commonly compared to what animal flying?
+
+- [x] Pig
+- [ ] Owl
+- [ ] Bat
+
+#### John F. Kennedy International Airport is located in which city?
+
+- [ ] Los Angeles
+- [ ] Billings
+- [x] New York
