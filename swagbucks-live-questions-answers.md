@@ -81796,3 +81796,15 @@
 - [ ] Los Angeles
 - [ ] Billings
 - [x] New York
+
+#### What sports team was named so it would rhyme with another sports team?
+
+- [ ] Mets
+- [x] Nets
+- [ ] Jets
+
+#### What would you use to measure atmospheric pressure?
+
+- [x] Barometer
+- [ ] Thermometer
+- [ ] Tachometer
