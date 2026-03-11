@@ -81868,3 +81868,33 @@
 - [ ] Blue Diamond
 - [x] Planters
 - [ ] Kirkland
+
+#### Where is the largest canyon in the world?
+
+- [ ] New York City
+- [ ] Detroit
+- [x] Nepal
+
+#### Sublimation occurs when matter undergoes what transformation?
+
+- [ ] Gas to Solid
+- [ ] Liquid to Solid
+- [x] Solid to Gas
+
+#### Who was the youngest non-commissioned officer in the United States Army?
+
+- [ ] George H.W. Bush
+- [ ] Uriah Pennypacker
+- [x] John Clem
+
+#### Which of the following TV Theme songs was NOT written by Mike Post?
+
+- [ ] Greatest American Hero
+- [x] Saved By The Bell
+- [ ] The A-Team
+
+#### Which of the following Marshmallow Peep flavors is NOT currently available on their website?
+
+- [ ] Watermelon
+- [ ] Coconut
+- [x] Peanut Butter
