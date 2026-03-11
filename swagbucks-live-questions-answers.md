@@ -81808,3 +81808,63 @@
 - [x] Barometer
 - [ ] Thermometer
 - [ ] Tachometer
+
+#### What brand of protein bar features a mountain climber on the wrapper?
+
+- [x] Clif
+- [ ] Powerbar
+- [ ] Nugo
+
+#### What snack brand uses a cheetah as their mascot?
+
+- [ ] Fritos
+- [x] Cheetos
+- [ ] Munchos
+
+#### According to their commercials, "There's no wrong way to eat" what?
+
+- [ ] A Twizzler
+- [ ] A Sour Patch Kid
+- [x] A Reese's
+
+#### The snack of celery stalks filled with peanut butter and topped with raisins is known by what buggy name?
+
+- [x] Ants on a Log
+- [ ] Spiders in a Tree
+- [ ] Birds on a Wire
+
+#### What cookie brand used a parody of an Elvis Presley song in the 1980s?
+
+- [ ] Dunkaroos
+- [ ] Giggles
+- [x] Teddy Grahams
+
+#### What kind of snack food are Slim Jims?
+
+- [ ] Cashew nuts
+- [ ] Applesauce
+- [x] Meat jerky
+
+#### What cookie brand is widely served on airplanes?
+
+- [x] Biscoff
+- [ ] Nilla Wafers
+- [ ] Samoas
+
+#### What snack brand was founded by a former talent agent?
+
+- [ ] Starburst
+- [x] Famous Amos
+- [ ] Kinder Surprise
+
+#### Fruit by the Foot is a similar snack to what other Betty Crocker creation?
+
+- [ ] Pizza Rolls
+- [ ] Red Vines
+- [x] Fruit Roll-Ups
+
+#### Mr. Peanut is the mascot for which brand?
+
+- [ ] Blue Diamond
+- [x] Planters
+- [ ] Kirkland
