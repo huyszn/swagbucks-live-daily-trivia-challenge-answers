@@ -81958,3 +81958,21 @@
 - [ ] Bird
 - [ ] Cat
 - [x] Dog
+
+#### "The Mandalorian" featured a baby version of what Star Wars character?
+
+- [ ] Luke Skywalker
+- [x] Yoda
+- [ ] C-3PO
+
+#### In which device would you find a HEPA filter?
+
+- [x] Air Purifier
+- [ ] Dish Washer
+- [ ] Freezer
+
+#### What is the name of the mountain range that runs through the western United States?
+
+- [x] Rocky Mountains
+- [ ] Appalachian Mountains
+- [ ] Blue Ridge Mountains
