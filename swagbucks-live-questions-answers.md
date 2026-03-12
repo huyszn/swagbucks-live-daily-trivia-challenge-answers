@@ -81898,3 +81898,63 @@
 - [ ] Watermelon
 - [ ] Coconut
 - [x] Peanut Butter
+
+#### What;s the name of Yogi Bear's sidekick?
+
+- [x] Boo-Boo
+- [ ] Baloo
+- [ ] Paddington
+
+#### From which company does Wile E. Coyote buy all his traps and devices?
+
+- [ ] Catch-A-Bird
+- [x] Acme
+- [ ] S.T.A.R. Labs
+
+#### Which character is known for singing "Hello My Baby" in his first cartoon appearance?
+
+- [x] Michigan J. Frog
+- [ ] Porky Pig
+- [ ] Bugs Bunny
+
+#### What is the name of Quick Draw McGraw's alter ego?
+
+- [ ] El Kabong
+- [x] El Bonkero
+- [ ] Baba Looey
+
+#### What is the name of the town where the Flintstones live?
+
+- [ ] Quartzville
+- [x] Bedrock
+- [ ] Stonyburg
+
+#### Which of these cartoons was broadcast in "Squigglevision"?
+
+- [ ] The Venture Bros
+- [ ] The Simpsons
+- [x] Dr. Katz, Professional Therapist
+
+#### Who is He-Man's nemesis?
+
+- [x] Skeletor
+- [ ] Destro
+- [ ] Megatron
+
+#### Which cartoon character wears the Omnitrix?
+
+- [ ] Danny Phantom
+- [ ] Jake Long
+- [x] Ben Tennyson
+
+#### On "Rugrats", Angelica Pickles is the older sister of which character? (It's actually the cousin, not the sister)
+
+- [ ] Chuckie
+- [x] Tommy
+- [ ] Susie
+
+#### What kind of animal is Bluey?
+
+- [ ] Bird
+- [ ] Cat
+- [x] Dog
