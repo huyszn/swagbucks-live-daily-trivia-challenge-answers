@@ -82036,3 +82036,15 @@
 - [ ] Cinderella
 - [ ] Snow White
 - [x] Hansel and Gretel
+
+#### In which constellation would you find the coldest place in the universe?
+
+- [ ] Draco
+- [ ] Orion
+- [x] Centaurus
+
+#### BTS is part of what genre of music?
+
+- [ ] Classical
+- [x] K-Pop
+- [ ] Reggae
