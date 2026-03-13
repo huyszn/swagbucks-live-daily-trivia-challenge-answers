@@ -81976,3 +81976,63 @@
 - [x] Rocky Mountains
 - [ ] Appalachian Mountains
 - [ ] Blue Ridge Mountains
+
+#### Complete this slogan: "Easy, breezy, beautiful..."
+
+- [ ] John Deere
+- [ ] Hershey's Chocolate
+- [x] CoverGirl
+
+#### The coriander plant is also known by what name?
+
+- [x] Cilantro
+- [ ] Cumin
+- [ ] Celery
+
+#### What British landmark is home to the Crown Jewels?
+
+- [ ] Highclere Castle
+- [x] The Tower of London
+- [ ] Westminster Abbey
+
+#### As of January 2026, who holds the record for highest-paid dancer?
+
+- [ ] Misty Copeland
+- [ ] Gregory Hines
+- [x] Michael Flatley
+
+#### What were the first words spoken over a telephone?
+
+- [ ] "I have finally done it"
+- [x] "Mr. Watson, come here; I want you"
+- [ ] "Ahoy! Can you hear me?"
+
+#### "Winter is coming" is a famous quote from which TV series?
+
+- [ ] Mad Men
+- [ ] Breaking Bad
+- [x] Game of Thrones
+
+#### Who is the only MLB player to be voted into the Hall of Fame unanimously?
+
+- [x] Mariano Rivera
+- [ ] Ken Griffey Jr.
+- [ ] Ichiro Suzuki
+
+#### Which of the following planets was demoted to a dwarf planet in 2006?
+
+- [ ] Uranus
+- [x] Pluto
+- [ ] Neptune
+
+#### In which city was rap music born?
+
+- [x] New York
+- [ ] Amsterdam
+- [ ] Peoria
+
+#### In which fairy tale does a child leave a trail of crumbs to keep from getting lost?
+
+- [ ] Cinderella
+- [ ] Snow White
+- [x] Hansel and Gretel
