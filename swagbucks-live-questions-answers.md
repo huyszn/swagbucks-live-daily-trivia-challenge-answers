@@ -82048,3 +82048,27 @@
 - [ ] Classical
 - [x] K-Pop
 - [ ] Reggae
+
+#### The middle eastern land called the Fertile Crescent is also known by what nickname?
+
+- [x] The Cradle of Civilization
+- [ ] The Hand The Rocks The Cradle
+- [ ] Moontown
+
+#### In which State would you find a college with an Artichoke for a mascot?
+
+- [ ] Oregon
+- [ ] Idaho
+- [x] Arizona
+
+#### What new rule was added to Major League Baseball in the 2023 season?
+
+- [x] Pitch clock
+- [ ] Everyone has to hug before the game
+- [ ] Mandatory dancing
+
+#### If you were to adjust for inflation, which of these films would have the biggest all-time U.S. Box Office?
+
+- [x] E.T
+- [ ] Titanic
+- [ ] Jaws
