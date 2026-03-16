@@ -82072,3 +82072,9 @@
 - [x] E.T
 - [ ] Titanic
 - [ ] Jaws
+
+#### Which of the following items is NOT an ingredient in traditional Pico de Gallo?
+
+- [ ] Tomatoes
+- [ ] Onions
+- [x] Chocolate Chips
