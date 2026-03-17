@@ -82138,3 +82138,15 @@
 - [x] The Phantom Menace
 - [ ] Rogue One
 - [ ] Return of the Jedi
+
+#### Which of the following board games does NOT involve moving pieces around a board?
+
+- [ ] Stratego
+- [x] Yahtzee
+- [ ] Parcheesi
+
+#### "Heartbreak Hotel" was the first million-selling record for which recording artist?
+
+- [x] Elvis Presley
+- [ ] Jerry Lee Lewis
+- [ ] Chuck Berry
