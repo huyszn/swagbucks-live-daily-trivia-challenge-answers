@@ -82078,3 +82078,63 @@
 - [ ] Tomatoes
 - [ ] Onions
 - [x] Chocolate Chips
+
+#### In "The Shawshank Redemption", Andy Dufresne is incorrectly found guilty of what crime?
+
+- [ ] Larceny
+- [x] Murder
+- [ ] Grand Theft Auto
+
+#### Which "Saturday Night Fever" star experienced a resurgence thanks to 1995's "Pulp Fiction"? (It's actually 1994)
+
+- [x] John Travolta
+- [ ] Barry Miller
+- [ ] Fran Drescher
+
+#### What is the name of Brad Pitt's character in "Fight Club"?
+
+- [ ] Angel Face
+- [ ] Robert Paulson
+- [x] Tyler Durden
+
+#### "Good Will Hunting" primarily takes place in and around which city?
+
+- [ ] New York
+- [x] Boston
+- [ ] Chicago
+
+#### The bad guys from "Home Alone" refer to themselves by which nickname?
+
+- [x] The Wet Bandits
+- [ ] The Masked Bandits
+- [ ] The Holiday Bandits
+
+#### Who directed "Edward Scissorhands"?
+
+- [ ] Steven Spielberg
+- [ ] Francis Ford Coppola
+- [x] Tim Burton
+
+#### In 1999's "The Mummy", who is Rick O'Connell serving with when we first meet him?
+
+- [ ] U.S. Army
+- [x] French Foreign Legion
+- [ ] Royal Air Force
+
+#### Which of these 90s movies is about a man whose entire life is secretly a reality show?
+
+- [ ] Life
+- [x] The Truman Show
+- [ ] Stay Tuned
+
+#### Which famous actress stars in the opening scene of the movie "Scream"?
+
+- [x] Drew Barrymore
+- [ ] Sophia Loren
+- [ ] Betty White
+
+#### Which "Star Wars" movie premiered in 1999?
+
+- [x] The Phantom Menace
+- [ ] Rogue One
+- [ ] Return of the Jedi
