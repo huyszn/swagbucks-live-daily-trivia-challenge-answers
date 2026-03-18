@@ -82150,3 +82150,81 @@
 - [x] Elvis Presley
 - [ ] Jerry Lee Lewis
 - [ ] Chuck Berry
+
+#### Which of these famous Bobs is known for fashion design?
+
+- [ ] Bob Ross
+- [ ] Bob Barker
+- [x] Bob Mackie
+
+#### Which secret society was founded by Bavarian professor Adam Weishaupt?
+
+- [x] Illuminati
+- [ ] Freemasons
+- [ ] Opus Dei
+
+#### What is the capital of the United States? (REPEATED QUESTION WITH DIFFERENT ANSWER ORDERS)
+
+- [ ] New York, NY
+- [x] Washington, DC
+- [ ] Roanoke, VA
+
+#### What is the subtitle of 1991's "Terminator 2"?
+
+- [ ] Salvation
+- [ ] Genisys
+- [x] Judgment Day
+
+#### Which 1997 James Cameron film took home the Oscar for Best Picture, along with 10 others?
+
+- [x] Titanic
+- [ ] True Lies
+- [ ] The Abyss
+
+#### In which 90s movie does a movie star played by Julia Roberts fall in love with a bookshop keeper played by Hugh Grant?
+
+- [ ] America's Sweethearts
+- [ ] Nine Months
+- [x] Notting Hill
+
+#### "A League of Their Own" is about a professional women's league in which sport?
+
+- [ ] Basketball
+- [x] Baseball
+- [ ] Ice Hockey
+
+#### In "Ace Ventura: Pet Detective", which NFL star has been abducted?
+
+- [ ] John Elway
+- [ ] Jerry Rice
+- [x] Dan Marino
+
+#### Who played the title characters in 1996's "Romeo + Juliet"?
+
+- [x] Claire Danes & Leonardo DiCaprio
+- [ ] Christina Ricci & Johnny Depp
+- [ ] Josh Hartnett & Julia Stiles
+
+#### Before becoming one of the Men in Black, what did Will Smith's character do for a living?
+
+- [ ] Doctor
+- [ ] Lawyer
+- [x] Cop
+
+#### In "Boogie Nights", where is Dirk Diggler originally from?
+
+- [ ] Hawthorne
+- [x] Torrance
+- [ ] Encino
+
+#### Which "Godfather" movie premiered during the 1990s?
+
+- [ ] The Godfather
+- [ ] The Godfather Part II
+- [x] The Godfather Part III
+
+#### Which Disney animated character sings "Go The Distance"?
+
+- [ ] Beast
+- [x] Hercules
+- [ ] Aladdin
