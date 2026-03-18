@@ -24139,12 +24139,6 @@
 - [ ] Bulldog
 - [ ] Sasquatch
 
-#### Which of these clothing items did Mister Rogers change into at the beginning of each of his shows?
-
-- [ ] Jacket
-- [ ] Loafers
-- [x] Sneakers
-
 #### When you do something immediately, you're doing it right off the what?
 
 - [x] Bat
@@ -29862,12 +29856,6 @@
 - [ ] Spain
 - [x] Monaco
 - [ ] Austria
-
-#### Which of these clothing items did Mister Rogers change into at the beginning of each of his shows?
-
-- [ ] Jacket
-- [ ] Loafers
-- [x] Sneakers
 
 #### According to the saying, when you have to restart something you're going back to what?
 
@@ -82228,3 +82216,15 @@
 - [ ] Beast
 - [x] Hercules
 - [ ] Aladdin
+
+#### Lin-Manuel Miranda hid a reference to which podcast in "Hamilton"?
+
+- [ ] Thrilling Adventure Hour
+- [ ] Welcome to Night Vale
+- [x] My Brother, My Brother And Me
+
+#### What ship brought the pilgrims to America?
+
+- [x] The Mayflower
+- [ ] The Titanic
+- [ ] Ol' Ironsides
