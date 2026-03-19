@@ -82288,3 +82288,15 @@
 - [ ] Kevin Kline
 - [x] Kevin Costner
 - [ ] Kevin Bacon
+
+#### Which Beethoven sonata only has two movements?
+
+- [x] 32 in C Minor
+- [ ] 4 in E flat major
+- [ ] 25 in G Major
+
+#### Which of these diner terms refers to a vegetable?
+
+- [x] Bronx Vanilla
+- [ ] Blonde with Sand
+- [ ] Houseboat
