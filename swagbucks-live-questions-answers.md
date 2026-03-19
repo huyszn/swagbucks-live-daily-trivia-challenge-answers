@@ -82228,3 +82228,63 @@
 - [x] The Mayflower
 - [ ] The Titanic
 - [ ] Ol' Ironsides
+
+#### In "Sleepless in Seattle", where do Sam and Annie finally get together?
+
+- [ ] The Sears Tower
+- [ ] The Golden Gate Bridge
+- [x] The Empire State Building
+
+#### "Rush Hour" pairs Chris Tucker with which martial arts legend?
+
+- [ ] Chuck Norris
+- [x] Jackie Chan
+- [ ] Jet Li
+
+#### Which Jim Carrey movie features the line "SsssssMOKIN'"?
+
+- [x] The Mask
+- [ ] Dumb & Dumber
+- [ ] Liar Liar
+
+#### In "There's Something About Mary", who has a cameo as Mary's ex-boyfriend?
+
+- [ ] Wayne Gretzky
+- [x] Brett Favre
+- [ ] Cam Neely
+
+#### In "The Rock", Nicholas Cage and Sean Connery break into which prison?
+
+- [ ] Sing Sing
+- [ ] Folsom
+- [x] Alcatraz
+
+#### Who provided the voice of Elvis in "Forrest Gump"?
+
+- [x] Kurt Russell
+- [ ] Nicholas Cage
+- [ ] Tom Cruise
+
+#### In "Happy Gilmore", what sport does Happy abandon to play golf?
+
+- [x] Ice Hockey
+- [ ] Baseball
+- [ ] Basketball
+
+#### Bit parts in the 1988 play "Ladies' Room" were adapted in which 90s film?
+
+- [ ] Thelma & Louise
+- [ ] Boys on the Side
+- [x] Rom and Michele's High School Reunion
+
+#### Brandon Lee's final film was which 1992 comic book adaptation?
+
+- [x] The Crow
+- [ ] The Punisher
+- [ ] X-Men
+
+#### In "The Bodyguard", who played the titular bodyguard?
+
+- [ ] Kevin Kline
+- [x] Kevin Costner
+- [ ] Kevin Bacon
