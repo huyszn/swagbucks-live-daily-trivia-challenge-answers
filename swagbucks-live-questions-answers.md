@@ -82300,3 +82300,63 @@
 - [x] Bronx Vanilla
 - [ ] Blonde with Sand
 - [ ] Houseboat
+
+#### Who directed the 90s movies "Malcolm X", "Jungle Fever", and "Crooklyn"?
+
+- [x] Spike Lee
+- [ ] Kevin Smith
+- [ ] John Singleton
+
+#### 1995's "GoldenEye" was the first appearance of which actor as James Bond?
+
+- [ ] Timothy Dalton
+- [x] Pierce Brosnan
+- [ ] Daniel Craig
+
+#### In "The Matrix", who is hunting down Neo?
+
+- [x] Agent Smith
+- [ ] Agent Jones
+- [ ] Agent Benner
+
+#### In "Saving Private Ryan", where do they finally find Private Ryan?
+
+- [ ] Turin, Italy
+- [x] Ramelle, France
+- [ ] Kehl, Germany
+
+#### In "Tommy Boy", what competing company winds up signing the purchase order to save Callahan Auto Parts?
+
+- [ ] NAPA Auto Parts
+- [ ] O'Herlihy Auto Parts
+- [x] Zalinsky Auto Parts
+
+#### 1996's "Heat" was notable for having the first on-screen scene between which two famous actors?
+
+- [x] Robert De Niro & Al Pacino
+- [ ] Nicholas Cage & John Travolta
+- [ ] Will Smith & Tommy Lee Jones
+
+#### In "Star Trek: Generations", where does Kirk disappear to in the beginning of the movie"
+
+- [ ] V'Ger
+- [ ] The Negative Zone
+- [x] The Nexus
+
+#### In "Clueless", what song does Tai sing with Elton after hitting her head?
+
+- [x] Rollin' With The Homies
+- [ ] The Sign
+- [ ] Basket Case
+
+#### Which of these Harrison Ford films is based on a TV show?
+
+- [ ] Regarding Henry
+- [ ] Patriot Games
+- [x] The Fugitive
+
+#### What 90s movie tells the story of real-life reformed mobster Henry Hill?
+
+- [x] Goodfellas
+- [ ] Reservoir Dogs
+- [ ] Casino
