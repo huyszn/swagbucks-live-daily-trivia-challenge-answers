@@ -82360,3 +82360,21 @@
 - [x] Goodfellas
 - [ ] Reservoir Dogs
 - [ ] Casino
+
+#### What Russian composter wrote "Swan Lake"?
+
+- [ ] Rachmaninoff
+- [ ] Shosstakovich
+- [x] Tchaikovsky
+
+#### Sneesl, feefle, and flinkdrinkin are all terms that refer to what?
+
+- [ ] Being drunk
+- [ ] Passing gas
+- [x] Snow
+
+#### What food is traditionally made out of cucumbers?
+
+- [x] Pickles
+- [ ] Cole Slaw
+- [ ] Salsa
