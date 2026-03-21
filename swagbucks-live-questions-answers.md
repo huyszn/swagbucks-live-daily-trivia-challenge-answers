@@ -56744,7 +56744,7 @@
 - [x] Patina
 - [ ] Dirt
 
-#### For a long time, packs of baseball card contained what consumable?
+#### For a long time, packs of baseball cards contained what consumable?
 
 - [ ] Aspirin
 - [ ] Mints
@@ -82378,3 +82378,15 @@
 - [x] Pickles
 - [ ] Cole Slaw
 - [ ] Salsa
+
+#### "Unchained Melody" is a song by what duo?
+
+- [x] The Righteous Brothers
+- [ ] Donny and Marie Osmond
+- [ ] Wham!
+
+#### If you wanted to visit the real life Halloweentown from the Disney Channel, where would you go?
+
+- [ ] California
+- [ ] Washington
+- [x] Oregon
