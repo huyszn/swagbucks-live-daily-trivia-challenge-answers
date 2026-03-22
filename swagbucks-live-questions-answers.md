@@ -82390,3 +82390,9 @@
 - [ ] California
 - [ ] Washington
 - [x] Oregon
+
+#### Who married Richard Burton twice?
+
+- [x] Elizabeth Taylor
+- [ ] Judy Garland
+- [ ] Ingrid Bergman
