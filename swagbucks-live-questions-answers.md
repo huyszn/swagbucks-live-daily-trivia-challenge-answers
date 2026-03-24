@@ -82480,3 +82480,15 @@
 - [ ] Great Dane
 - [ ] Beagle
 - [x] Chihuahua
+
+#### WWE Hall of Famer Kurt Angle won an Olympic gold medal in which event?
+
+- [x] Wreslting
+- [ ] Javelin
+- [ ] Diving
+
+#### In Guardians of the Galaxy, which song does NOT appear on Star Lord's 1st Mix Tape?
+
+- [ ] I'm Not In Love
+- [x] Ain't No Mountain High Enough
+- [ ] Go All the Way
