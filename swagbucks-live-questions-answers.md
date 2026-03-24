@@ -82396,3 +82396,87 @@
 - [x] Elizabeth Taylor
 - [ ] Judy Garland
 - [ ] Ingrid Bergman
+
+#### Bump, Set, Spike is the three-move sequence in what sport?
+
+- [x] Volleyball
+- [ ] Golf
+- [ ] Ultimate Frisbee
+
+#### What was Alicia Keys, debut single called?
+
+- [ ] A Woman's Worth
+- [x] Falln'
+- [ ] Empire State of Mind
+
+#### When someone asks if you want "one lump or two" with your tea, what are they most commonly asking about?
+
+- [x] Sugar
+- [ ] Teabags
+- [ ] Milk
+
+#### Which of these words is NOT British slang for a bread roll?
+
+- [ ] Cob
+- [x] Hench
+- [ ] Barm
+
+#### Bullseye the Bull Terrier is the mascot for which retail brand?
+
+- [x] Target
+- [ ] Walmart
+- [ ] Cabela's
+
+#### Which "Peanuts" character is Snoopy's owner?
+
+- [ ] Linus
+- [ ] Franklin
+- [x] Charlie Brown
+
+#### What is the name of Scooby-Doo's courageous cousin?
+
+- [x] Scrappy-Doo
+- [ ] Laika
+- [ ] Dino
+
+#### Which of these cartoon dogs was famous for traveling through time with his boy Sherman?
+
+- [ ] Underdog
+- [x] Mr. Peabody
+- [ ] Droopy
+
+#### Queen Elizabeth II was particularly fond of which dog breed?
+
+- [x] Corgi
+- [ ] Alaskan Malamute
+- [ ] Dalmatian
+
+#### K9 is the robot dog pet of what character?
+
+- [x] Doctor Who
+- [ ] Batman
+- [ ] Green Lantern
+
+#### Canine hip hop star PaRappa The Rapper had his own game on which console?
+
+- [ ] Sega Genesis
+- [x] Sony PlayStation
+- [ ] Nintendo 64
+
+#### Which of these pop culture dogs is known mainly from comic strips?
+
+- [x] Marmaduke
+- [ ] Balto
+- [ ] Checkers
+
+#### Checkers, Millie, and Bo are all dogs whose owners held which position?
+
+- [ ] CEO of McDonald's
+- [ ] President of the United States
+- [x] Astronaut
+
+#### Taco Bell commercials in the 90s featured a talking dog spokesanimal. What breed was that dog?
+
+- [ ] Great Dane
+- [ ] Beagle
+- [x] Chihuahua
