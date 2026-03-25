@@ -82483,7 +82483,7 @@
 
 #### WWE Hall of Famer Kurt Angle won an Olympic gold medal in which event?
 
-- [x] Wreslting
+- [x] Wrestling
 - [ ] Javelin
 - [ ] Diving
 
@@ -82492,3 +82492,63 @@
 - [ ] I'm Not In Love
 - [x] Ain't No Mountain High Enough
 - [ ] Go All the Way
+
+#### Which famous statue is missing its arms?
+
+- [ ] The Thinker
+- [x] Venus de Milo
+- [ ] The Statue of Liberty
+
+#### At a party, what do people have to wear before they hit a pinata?
+
+- [ ] Slippers
+- [ ] Bowtie
+- [x] Blindfold
+
+#### Wat is the term for a cold, treeless biome?
+
+- [x] Tundra
+- [ ] Savanna
+- [ ] Rainforest
+
+#### Prince was known for his love of which color?
+
+- [x] Purple
+- [ ] Beige
+- [ ] Electric Green
+
+#### The first mechanical alarm clock could only ring at one time. What time was it?
+
+- [x] 4 a.m.
+- [ ] 6 a.m.
+- [ ] 12 p.m.
+
+#### What cold, blended vegetable soup comes from Spain?
+
+- [ ] Borscht
+- [x] Gazpacho
+- [ ] Chili
+
+#### What year did NASA land its first rover on Mars?
+
+- [x] 1997
+- [ ] 2024
+- [ ] 1821
+
+#### "704 Hauser" was a spinoff of what sitcom?
+
+- [ ] Friends
+- [ ] Cheers
+- [x] All in the Family
+
+#### Which of the following is an example of an oxymoron?
+
+- [x] Jumbo Shrimp
+- [ ] Quiet Pillow
+- [ ] Hot Sauce
+
+#### What series of Disney Channel original movies featured Troy and Gabriela?
+
+- [ ] Camp Rock
+- [x] High School Musical
+- [ ] Zombies
