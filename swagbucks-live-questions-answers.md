@@ -82552,3 +82552,21 @@
 - [ ] Camp Rock
 - [x] High School Musical
 - [ ] Zombies
+
+#### Famous siblings Khloe, Kourtney and Kim all share what last name?
+
+- [ ] Jenner
+- [ ] Jackson
+- [x] Kardashian
+
+#### What rock, when put under enough pressure, can be turned into a diamond?
+
+- [x] Coal
+- [ ] Granite
+- [ ] Quartz
+
+#### A trip to a department store inspired what rock song?
+
+- [ ] Born in the U.S.A.
+- [x] Money For Nothing
+- [ ] She Blinded Me With Science
