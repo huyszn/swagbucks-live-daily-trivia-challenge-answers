@@ -82648,3 +82648,9 @@
 - [ ] Dog
 - [x] Horse
 - [ ] Bird
+
+#### According to the Led Zeppelin song, "She's buying a stairway to" where?
+
+- [x] Heaven
+- [ ] Newark
+- [ ] Bedtime
