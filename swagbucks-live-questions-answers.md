@@ -20632,8 +20632,8 @@
 #### When Reading Rainbow had a Kickstarter, who pledged to match donations to help the show reach its goal toward the end?
 
 - [ ] Patrick Stewart
-- [ ] Seth MacFarlane
-- [x] Blue's Clues
+- [x] Seth MacFarlane
+- [ ] Dolly Parton
 
 #### Which of the following children's show characters is a marionette?
 
@@ -27474,12 +27474,6 @@
 - [ ] Spider-Man
 - [ ] Howard the Duck
 - [x] Conan the Barbarian
-
-#### Which of the following is one of the names used to describe Daenerys Targaryen in "Games of Thrones"?
-
-- [ ] Sister of Dragons
-- [x] Mother of Dragons
-- [ ] Cousin of Dragons
 
 #### Which rock star plays Jareth in "Labyrinth"?
 
@@ -82570,3 +82564,87 @@
 - [ ] Born in the U.S.A.
 - [x] Money For Nothing
 - [ ] She Blinded Me With Science
+
+#### Which of these movies is about a college acapella group?
+
+- [ ] The Matrix
+- [ ] Music and Lyrics
+- [x] Pitch Perfect
+
+#### Where does the term "Hands Down" come from?
+
+- [ ] Prisons
+- [x] Race tracks
+- [ ] Elections
+
+#### Who are the Dark Side-using counterparts of the Jedi?
+
+- [ ] The Hutts
+- [x] The Sith
+- [ ] The Wampas
+
+#### Who led the Israelites out of Egypt?
+
+- [x] Moses
+- [ ] Abraham
+- [ ] Esau
+
+#### Aslan the lion is the ruler of which fantasy kingdom?
+
+- [ ] Rohan
+- [x] Narnia
+- [ ] Wonderland
+
+#### In the "Lord of the Rings", where do the Hobbits live?
+
+- [x] The Shire
+- [ ] Mount Doom
+- [ ] Gondor
+
+#### According to legend, what happens when you gaze upon Medusa?
+
+- [ ] You're granted one wish
+- [ ] You become a Medusa
+- [x] You turn to stone
+
+#### Geralt of Rivia is better known by what name?
+
+- [ ] The One
+- [x] The Witcher
+- [ ] Solid Snake
+
+#### Daenerys Targaryen is known by what name?
+
+- [x] Mother of Dragons
+- [ ] Sister of Dragons
+- [ ] Niece of Dragons
+
+#### In the "Legend of Zelda" games, what musical instrument allows Link to manipulate time?
+
+- [ ] Lute
+- [ ] Drum
+- [x] Ocarina
+
+#### What color road must Dorothy follow to get to the Wizard of Oz?
+
+- [x] Yellow
+- [ ] Blue
+- [ ] Green
+
+#### In "The Neverending Story", what is the name of the horse that dies in the Swamp of Sadness?
+
+- [ ] Atreyu
+- [x] Artax
+- [ ] Falkor
+
+#### Kingdom Hearts is a fantasy game series that includes characters from which entertainment company?
+
+- [x] Disney
+- [ ] Warner Bros
+- [ ] Paramount
+
+#### A Centaur is half human, half what?
+
+- [ ] Dog
+- [x] Horse
+- [ ] Bird
