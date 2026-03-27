@@ -49538,11 +49538,11 @@
 - [x] Golves
 - [ ] Diamond rings
 
-#### According to the saying, what speaks louder than words?
+#### According to the saying, what speaks louder than words? (REPEATED QUESTION WITH DIFFERENT ANSWER ORDERS)
 
-- [x] A picture
+- [ ] A picture
 - [ ] A banshee
-- [ ] Actions
+- [x] Actions
 
 #### The Bee Gees contributed heavily to the soundtrack of what 1970s movie?
 
@@ -82654,3 +82654,21 @@
 - [x] Heaven
 - [ ] Newark
 - [ ] Bedtime
+
+#### According to the official website, what month holds World Maths Day?
+
+- [x] March
+- [ ] April
+- [ ] May
+
+#### Who is famous for conquering the largest amount of the world?
+
+- [x] Genghis Khan
+- [ ] Julius Caesar
+- [ ] Charlemagne
+
+#### Which item of clothing would leave your hallux exposed?
+
+- [ ] Shorts
+- [ ] Fingerless gloves
+- [x] Flip flops
