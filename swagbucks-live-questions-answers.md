@@ -82672,3 +82672,27 @@
 - [ ] Shorts
 - [ ] Fingerless gloves
 - [x] Flip flops
+
+#### According to the saying, "It's not the size of the dog in the fight..."
+
+- [ ] Maybe it's Maybelline
+- [x] It's the size of the fight in the dog
+- [ ] It's Pat
+
+#### What brand used the slogan "When You Care To Send The Very Best"?
+
+- [ ] Dial-a-Mattress
+- [ ] Chipotle
+- [x] Hallmark
+
+#### Not counting jokers or instructions, how many playing cards are there in a standard deck?
+
+- [ ] 26
+- [x] 52
+- [ ] 75
+
+#### 
+
+- [ ] 
+- [ ] 
+- [ ] 
