@@ -33355,12 +33355,6 @@
 - [ ] Grabbing a slice
 - [x] In the weeds
 
-#### In the film "Being There", what is the name erroneously given to Peter Sellers's character?
-
-- [x] Chauncey Gardiner
-- [ ] Chauncey Farmer
-- [ ] Chancey Gardhouse
-
 #### What connects muscles to bones?
 
 - [x] Tendons
@@ -82691,8 +82685,14 @@
 - [x] 52
 - [ ] 75
 
-#### 
+#### In 2011, Rory McCann used computers to solve a famous puzzle by whom?
 
-- [ ] 
-- [ ] 
-- [ ] 
+- [x] James Joyce
+- [ ] Sir Arthur Conan Doyle
+- [ ] Agatha Christe
+
+#### In 1989, which soft drink brand introduced an "A.M." version with more caffeine?
+
+- [x] Pepsi
+- [ ] Coca-Cola
+- [ ] Dr. Pepper
