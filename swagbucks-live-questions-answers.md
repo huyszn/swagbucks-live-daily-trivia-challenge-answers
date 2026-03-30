@@ -82696,3 +82696,21 @@
 - [x] Pepsi
 - [ ] Coca-Cola
 - [ ] Dr. Pepper
+
+#### Which of the following is also known as a "pound" or "hashtag"?
+
+- [ ] Obelus
+- [ ] Sextile
+- [x] Octothorpe
+
+#### According to the Global Language Monitor, how frequently is a new word added to the English Language?
+
+- [ ] Every other day
+- [ ] Weekly
+- [x] Every 98 minutes
+
+#### Who was the first U.S. president to be impeached?
+
+- [ ] Abraham Lincoln
+- [x] Andrew Johnson
+- [ ] John Adams
