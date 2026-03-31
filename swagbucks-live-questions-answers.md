@@ -82714,3 +82714,57 @@
 - [ ] Abraham Lincoln
 - [x] Andrew Johnson
 - [ ] John Adams
+
+#### Which of the following Presidents is NOT carved into Mount Rushmore?
+
+- [ ] George Washington
+- [x] Martin Van Buren
+- [ ] Abraham Lincoln
+
+#### Which movie monster famously scaled the Empire State Building?
+
+- [ ] Godzilla
+- [ ] Mothra
+- [x] King Kong
+
+#### In the world of influencer content, what does "GRWM" stand for?
+
+- [x] Get Ready With Me
+- [ ] Go Realize We've Met
+- [ ] Guys, Really. Why Me?
+
+#### Which NBA franchise did Michael Jordan lead to six championships?
+
+- [ ] Washington Wizards
+- [ ] New York Knicks
+- [x] Chicago Bulls
+
+#### The Tutu is a piece of clothing most closely associated with which style of dance?
+
+- [ ] Tap
+- [ ] Disco
+- [x] Ballet
+
+#### Caviar is made from the eggs of what creature?
+
+- [x] Fish
+- [ ] Bird
+- [ ] Cow
+
+#### Parthenogenesis is a form of what bodily function?
+
+- [x] Reproduction
+- [ ] Respiration
+- [ ] Digestion
+
+#### Which of the following verbs is in the past tense?
+
+- [ ] Run
+- [ ] Walk
+- [x] Jogged
+
+#### Who is the lead guitar player for the Rolling Stones?
+
+- [ ] George Harrison
+- [x] Keith Richard
+- [ ] Jimmy Page
