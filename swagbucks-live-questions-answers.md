@@ -77141,7 +77141,7 @@
 - [ ] Chicago
 - [ ] Washington, D.C.
 
-#### Which of th Simpsons children is the youngest?
+#### Which of the Simpsons children is the youngest?
 
 - [x] Maggie
 - [ ] Lisa
@@ -77149,7 +77149,7 @@
 
 #### Yesterday; All my troubles seemed so far away, Now it looks as though they're here to stay...
 
-- [ ] Yesterday
+- [x] Yesterday
 - [ ] Tomorrow Never Knows
 - [ ] Time Today
 
@@ -82768,3 +82768,33 @@
 - [ ] George Harrison
 - [x] Keith Richard
 - [ ] Jimmy Page
+
+#### If Vito Corleone made you an offer you couldn't refuse, what would you expect to receive?
+
+- [x] A horse's head in your bed
+- [ ] A fish in a newspaper
+- [ ] A gun in the bathroom
+
+#### In 2012, a missing woman in Iceland was found due to odd circumstances. What were they?
+
+- [x] She was in the search party
+- [ ] She was actually a man
+- [ ] She won the lottery
+
+#### Which of these Beatles songs features a sitar?
+
+- [x] Tomorrow Never Knows
+- [ ] Across the Universe
+- [ ] Strawberry Fields Forever
+
+#### Peter Pan and Skippy are brands of what food?
+
+- [ ] Jelly
+- [ ] Mayonnaise
+- [x] Peanut Butter
+
+#### What did restoration reveal had been painted over in Hendrick Van Anthonissen's "Beach Scene"?
+
+- [ ] The Sun
+- [x] A Whale
+- [ ] A Pirate Ship
