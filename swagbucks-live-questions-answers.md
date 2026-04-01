@@ -82798,3 +82798,63 @@
 - [ ] The Sun
 - [x] A Whale
 - [ ] A Pirate Ship
+
+#### Young children often create art projects through which medium?
+
+- [x] Finger Painting
+- [ ] Shoe Painting
+- [ ] Eyebrow Painting
+
+#### Knitting traditionally involves what type of material?
+
+- [ ] Steel Wool
+- [x] Yarn
+- [ ] Balsa Wood
+
+#### What is the term for a community event where members come together to quilt and socialize?
+
+- [x] Bee
+- [ ] Fly
+- [ ] Worm
+
+#### What is the name of the small, pitted cap used to protect fingers while sewing?
+
+- [ ] Bobbin
+- [ ] Selvage
+- [x] Thimble
+
+#### What popular children's modeling clay was originally meant to be a wallpaper cleaner?
+
+- [x] Play-Doh
+- [ ] Model Magic
+- [ ] Cra-Z-Art
+
+#### What craft involves cutting out magazine pictures, colored paper, or photos to create a new design?
+
+- [x] Collage
+- [ ] Woodworking
+- [ ] Crochet
+
+#### What is commonly combined with a binding paste to make Papier-mache?
+
+- [ ] Old Blankets
+- [x] Newspaper
+- [ ] Clay
+
+#### What is "Mod Podge" short for?
+
+- [ ] Modest Hodgepodge
+- [ ] Modified Decoupage
+- [x] Modern Decoupage
+
+#### What is the term for the Japanese art of folding paper into shapes?
+
+- [ ] Tatami
+- [x] Origami
+- [ ] Manga
+
+#### Crayola is best known for making what?
+
+- [x] Crayons
+- [ ] Sewing Machines
+- [ ] Twine
