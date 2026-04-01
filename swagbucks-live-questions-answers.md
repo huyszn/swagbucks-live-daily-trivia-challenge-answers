@@ -82858,3 +82858,15 @@
 - [x] Crayons
 - [ ] Sewing Machines
 - [ ] Twine
+
+#### Which of the following words is an acronym?
+
+- [ ] Party
+- [x] Scuba
+- [ ] Wheelie
+
+#### Which of these women was the world's first computer programmer?
+
+- [ ] Charlene Babbage
+- [ ] Maria Michell
+- [x] Ada Lovelace
