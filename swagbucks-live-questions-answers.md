@@ -82870,3 +82870,81 @@
 - [ ] Charlene Babbage
 - [ ] Maria Michell
 - [x] Ada Lovelace
+
+#### In "Avengers: Infinity War", who snaps away half of all life in the Universe?
+
+- [x] Thanos
+- [ ] Gamora
+- [ ] Red Skull
+
+#### Which of these Disney Parks opened first?
+
+- [x] Tokyo Disneyland
+- [ ] Disney Hollywood Studios
+- [ ] Euro Disney
+
+#### Which of the following ghost stories is set during the U.S. Revolutionary War?
+
+- [ ] The Bell Ghost
+- [x] The Legend of Sleepy Hollow
+- [ ] The Jersey Devil
+
+#### What type of comedy event involves guests taking turns insulting the guest of honor?
+
+- [x] Roast
+- [ ] Klatch
+- [ ] Telethon
+
+#### What Amazon Prime series follows a 1950s housewife in her quest to become a stand-up comedian?
+
+- [ ] Reacher
+- [x] The Marvelous Mrs. Maisel
+- [ ] Jack Ryan
+
+#### What comedy star is half of the band Tenacious D?
+
+- [x] Jack Black
+- [ ] Ben Stiller
+- [ ] Kenan Thompson
+
+#### Which comedian had a routine about the 7 words you can never say on television?
+
+- [ ] Richard Pryor
+- [ ] Jerry Seinfeld
+- [x] George Carlin
+
+#### After "Seinfeld", Larry David created and starred in what HBO show?
+
+- [ ] Not Necessarily The News
+- [x] Curb Your Enthusiasm
+- [ ] Girls
+
+#### How old was Eddie Murphy when he was cast on "Saturday Night Live"?
+
+- [ ] 17
+- [ ] 18
+- [x] 19
+
+#### Which "Star Wars" actor plays Dr. Paul Rhoades on "Shrinking"?
+
+- [x] Harrison Ford
+- [ ] Mark Hamill
+- [ ] Billy Dee Williams
+
+#### In "Bridesmaids", what kind of restaurant gives everyone food poisoning during dress shopping?
+
+- [ ] Memphis BBQ
+- [x] Brazilian Steakhouse
+- [ ] Chinese Buffet
+
+#### Who played Rose Nylund on "The Golden Girls"?
+
+- [ ] Carol Burnett
+- [ ] Lucille Ball
+- [x] Betty White
+
+#### What was the name of the original receptionist on the US version of "The Office"?
+
+- [x] Pam
+- [ ] Patty
+- [ ] Petunia
