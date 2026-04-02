@@ -76073,12 +76073,6 @@
 - [ ] Hanukkah
 - [ ] Passover
 
-#### S.P.D.S.V.B.E.E.V. is an abbreviation of a Latin phrase that roughly translates to what?
-
-- [x] Hello
-- [ ] Goodbye
-- [ ] I love you
-
 #### Which of these games has a "Genus" edition?
 
 - [ ] Scrabble
@@ -82948,3 +82942,21 @@
 - [x] Pam
 - [ ] Patty
 - [ ] Petunia
+
+#### Which of these is another terms for pancakes?
+
+- [x] Flapjacks
+- [ ] Dough discs
+- [ ] Waffles
+
+#### During the filming of "Schindler's List", who called Steven Spielberg once a week to cheer him up?
+
+- [ ] Tom Hanks
+- [x] Robin Williams
+- [ ] Jerry Seinfeld
+
+#### In "The Princess Bride", what pirate identity does Westley assume?
+
+- [ ] Dread Pirate Jones
+- [x] Dread Pirate Roberts
+- [ ] Dread Pirate Edwards
