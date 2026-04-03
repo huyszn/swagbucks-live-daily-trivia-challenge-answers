@@ -83044,3 +83044,21 @@
 - [ ] UB40
 - [ ] BTS
 - [x] U2
+
+#### In the 90s, what brand claimed to be "Australian for Beer"?
+
+- [x] Foster's
+- [ ] Guinness
+- [ ] Pabst Blue Ribbon
+
+#### Ronald Reagan's program proposed using x-ray lasers in space to stop missiles was given what sci-fi nickname?
+
+- [x] Star Wars
+- [ ] Star Trek
+- [ ] Space: 1999
+
+#### Based on their nickname, which of the following athletes could have had a government job?
+
+- [ ] Michael Jordan
+- [ ] Dennis Rodman
+- [x] Karl Malone
