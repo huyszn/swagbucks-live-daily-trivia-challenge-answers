@@ -82960,3 +82960,87 @@
 - [ ] Dread Pirate Jones
 - [x] Dread Pirate Roberts
 - [ ] Dread Pirate Edwards
+
+#### What country features a maple leaf on its flag?
+
+- [ ] USA
+- [x] Canada
+- [ ] Mexico
+
+#### In what year was the first Bookmobile launched?
+
+- [x] 1905
+- [ ] 1915
+- [ ] 1947
+
+#### Canadian policeman Ward Clapham created what program?
+
+- [ ] The Mounties
+- [x] Positive Tickets
+- [ ] Animal Detectives
+
+#### Based on its original formula, which soda might have been prescribed to someone with a mood disorder?
+
+- [x] 7-up
+- [ ] Dr. Pepper
+- [ ] Pepsi-Cola
+
+#### Which of the following artists is mainly known for their work as a painter?
+
+- [x] Rembrandt
+- [ ] Cher
+- [ ] Prince
+
+#### Which of the following fruits has its seeds on the outside?
+
+- [ ] Peach
+- [ ] Kiwi
+- [x] Strawberry
+
+#### How many boroughs are there in New York City?
+
+- [x] Five
+- [ ] Seven
+- [ ] Nine
+
+#### Which St. Patrick's Day tradition originated in New York?
+
+- [ ] Pinching
+- [x] Corned Beef and Cabbage
+- [ ] Dyeing a river Green
+
+#### Which of the following ingredients is NOT part of a traditional Scotch Egg?
+
+- [ ] Egg
+- [ ] Bread crumbs
+- [x] Mushrooms
+
+#### Complete this saying: "Strike while the iron is..."
+
+- [x] Hot
+- [ ] Room Temp
+- [ ] Cold
+
+#### Before James Earl Jones took the role, which other actor did George Lucas want to voice Darth Vader?
+
+- [ ] Sam Elliott
+- [x] Orson Welles
+- [ ] Christopher Lee
+
+#### What comedian had a 1980s Billboard hit with "Party All The Time"?
+
+- [ ] Richard Pyror
+- [ ] Sam Kinison
+- [x] Eddie Murphy
+
+#### The "Draw 4" card is a standard part of which card game?
+
+- [ ] Texas Hold 'Em
+- [x] Uno
+- [ ] Blackjack
+
+#### Bono is the lead singer of which band?
+
+- [ ] UB40
+- [ ] BTS
+- [x] U2
