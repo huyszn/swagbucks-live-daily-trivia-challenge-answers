@@ -83062,3 +83062,27 @@
 - [ ] Michael Jordan
 - [ ] Dennis Rodman
 - [x] Karl Malone
+
+#### What chocolate drink was first served warm in Spain?
+
+- [x] Hot Chocolate
+- [ ] Chocolate Soda
+- [ ] Chocolate Orange Juice
+
+#### What Nashville building is known as "The Mother Church"?
+
+- [x] Ryman Auditorium
+- [ ] Grand Ole Opry
+- [ ] Prince's Hot Chicken
+
+#### All our times have come; Here, but now they're gone
+
+- [ ] Heads Will Roll
+- [ ] Haunted
+- [x] Don't Fear The Reaper
+
+#### Which of the following books is part of the Chronicles of Narnia series?
+
+- [ ] Ramona Quimby, Age 8
+- [x] The Lion, The Witch, and the Wardrobe
+- [ ] The Catcher in the Rye
