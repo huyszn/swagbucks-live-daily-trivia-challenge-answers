@@ -83086,3 +83086,9 @@
 - [ ] Ramona Quimby, Age 8
 - [x] The Lion, The Witch, and the Wardrobe
 - [ ] The Catcher in the Rye
+
+#### Django Unchained, Pulp Fiction and Jackie Brown are all movies from which director?
+
+- [ ] Steven Spielberg
+- [x] Quentin Tarantino
+- [ ] Ridley Scott
