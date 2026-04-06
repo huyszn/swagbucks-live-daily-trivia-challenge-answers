@@ -83092,3 +83092,21 @@
 - [ ] Steven Spielberg
 - [x] Quentin Tarantino
 - [ ] Ridley Scott
+
+#### Which musical is about a young British orphan?
+
+- [x] Oliver!
+- [ ] The Light in the Piazza
+- [ ] Jersey Boys
+
+#### Which NBA player would you find memorialized as a statue in China?
+
+- [x] Stephon Marbury
+- [ ] LeBron James
+- [ ] Dennis Rodman
+
+#### In "The Music Man", who is the Music Man?
+
+- [x] Professor Harold Hill
+- [ ] Marcellus Washburn
+- [ ] Mayor George Shinn
