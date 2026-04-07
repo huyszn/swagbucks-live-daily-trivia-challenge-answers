@@ -83110,3 +83110,75 @@
 - [x] Professor Harold Hill
 - [ ] Marcellus Washburn
 - [ ] Mayor George Shinn
+
+#### Helene Stanley was the live-action reference model for which Disney princess?
+
+- [x] Cinderella
+- [ ] Snow White
+- [ ] Auroa
+
+#### For what Olympic sport is Michael Phelps known?
+
+- [ ] High Dive
+- [x] Swimming
+- [ ] Speed Walking
+
+#### Which PGA tournaments honors their winners with a green jacket?
+
+- [ ] Valspar Championship
+- [x] The Masters
+- [ ] Oneflight Myrtle Beach Classic
+
+#### What term is used to describe a score of zero in tennis?
+
+- [x] Love
+- [ ] Ad In
+- [ ] Fault
+
+#### Lindsey Vonn has won 84 World Cups in what sport?
+
+- [ ] Archery
+- [ ] Billbards
+- [x] Skiing
+
+#### What is the distance of a marathon?
+
+- [x] 16.2 mi
+- [ ] 5.5 km
+- [ ] 400 ft
+
+#### Which of the following is NOT a kind of weight lift form?
+
+- [ ] Clean and Jerk
+- [ ] Deadlift
+- [x] Lift and Skip
+
+#### "Scrum" and "Ruck" are terms used in which sport?
+
+- [x] Rugby
+- [ ] Badminton
+- [ ] Bowling
+
+#### As of March 2026, who is the only World Heavyweight Boxing champion to retire undefeated?
+
+- [ ] Joe Louis
+- [ ] Max Baer
+- [x] Rocky Marciano
+
+#### The NCAA regulates athletics at what level?
+
+- [ ] High School
+- [x] College
+- [ ] Professional
+
+#### The USA Dream Team won a 1992 Olympic gold medal in which event?
+
+- [ ] Track & Field
+- [ ] Soccer
+- [x] Basketball
+
+#### What award is given out to the best MLB pitcher in each league?
+
+- [x] Cy Young
+- [ ] Silver Slugger
+- [ ] Roberto Clemente Award
