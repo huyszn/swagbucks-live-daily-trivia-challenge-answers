@@ -83182,3 +83182,15 @@
 - [x] Cy Young
 - [ ] Silver Slugger
 - [ ] Roberto Clemente Award
+
+#### "FOMO" is the fear of missing what?
+
+- [ ] Ovaltine
+- [x] Out
+- [ ] Ovens
+
+#### The world's richest dog inherited their money from whom?
+
+- [ ] Leona Helmsley
+- [x] Countess Karlotta Liebenstein
+- [ ] Ella Wendell
