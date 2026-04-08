@@ -50360,7 +50360,7 @@
 - [x] Five Nights At Freddy's
 - [ ] Resident Evil
 
-#### In most stories, what part of your do zombies want to eat?
+#### In most stories, what part of you do zombies want to eat?
 
 - [ ] Your calves
 - [ ] Your fingers
@@ -83254,3 +83254,15 @@
 - [ ] Gorilla
 - [x] Chameleon
 - [ ] Elephant
+
+#### Complete the name of the popular children's game: The Floor Is...
+
+- [ ] Mogging
+- [ ] Ohio
+- [x] Lava
+
+#### On which planet is the movie "Avatar" set?
+
+- [ ] Pangea
+- [ ] Panera
+- [x] Pandora
