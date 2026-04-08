@@ -83194,3 +83194,63 @@
 - [ ] Leona Helmsley
 - [x] Countess Karlotta Liebenstein
 - [ ] Ella Wendell
+
+#### In addition to happy thoughts, what does Peter Pan need to fly?
+
+- [ ] Wings
+- [ ] His shadow
+- [x] Fairy dust
+
+#### What U.S. city is known for its Deep Dish pizza?
+
+- [x] Chicago, IL
+- [ ] Spokane, WA
+- [ ] Tallahassee, FL
+
+#### Which of the following countries does NOT border or contain part of the Mekong River?
+
+- [ ] Vietnam
+- [ ] Cambodia
+- [x] Germany
+
+#### By what name was World War I known?
+
+- [x] The War To End All Wars
+- [ ] The Tiny War
+- [ ] Warzilla
+
+#### The Hugo Awards are given out for which genre of books?
+
+- [ ] Horror
+- [x] Science Fiction/Fantasy
+- [ ] Non-Fiction
+
+#### On "Full House", which of the three guys was an Elvis-loving musician?
+
+- [ ] Danny Tanner
+- [ ] Joey Gladstone
+- [x] Jesse Katsopolis
+
+#### What rock star famously bit the head off of a bat onstage?
+
+- [x] Ozzy Osbourne
+- [ ] James Hetfield
+- [ ] Alice Cooper
+
+#### Eugene Fitzherbert is the actual name of a character from which Disney animated movie?
+
+- [ ] A Goofy Movie
+- [ ] Fun and Fancy Free
+- [x] Tangled
+
+#### Which of these building toys debuted the earliest?
+
+- [x] Lincoln Logs
+- [ ] K'Nex
+- [ ] Duplo
+
+#### Which of the following creatures changes colors to blend into its environment?
+
+- [ ] Gorilla
+- [x] Chameleon
+- [ ] Elephant
