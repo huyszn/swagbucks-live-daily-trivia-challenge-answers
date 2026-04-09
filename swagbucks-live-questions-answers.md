@@ -83326,3 +83326,45 @@
 - [x] Killer Whale
 - [ ] Thief
 - [ ] Embezzler Whale
+
+#### Which battery size is physically the largest?
+
+- [ ] AAA
+- [ ] AA
+- [x] D
+
+#### "Istanbul (Not Constantinople)" hit #10 on the Billboard charts for what musical group?
+
+- [ ] They Might Be Giants
+- [x] The Four Lads
+- [ ] R.E.M.
+
+#### Who makes the Xbox?
+
+- [ ] Electronic Arts
+- [x] Microsoft
+- [ ] Bandai
+
+#### Justin Bieber first became famous through which social media site?
+
+- [x] YouTube
+- [ ] Twitter
+- [ ] Facebook
+
+#### The Baby Boom immediately followed what war?
+
+- [ ] World War I
+- [x] World War II
+- [ ] The Vietnam War
+
+#### The Kingfisher bird was the inspiration for the shape of what vehicle?
+
+- [ ] Lookheed SR-71
+- [x] Shinkansen Bullet Train
+- [ ] Borei Submarine
+
+#### What young girl is at the center of a series of Beverly Cleary books?
+
+- [x] Ramona Quimby
+- [ ] Nellie Oleson
+- [ ] Barbie
