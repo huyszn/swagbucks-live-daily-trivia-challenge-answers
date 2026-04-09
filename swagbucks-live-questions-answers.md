@@ -83266,3 +83266,63 @@
 - [ ] Pangea
 - [ ] Panera
 - [x] Pandora
+
+#### Gorillas are native to which continent?
+
+- [x] Africa
+- [ ] North America
+- [ ] Antarctica
+
+#### What dog breed is often used in racing due its speed?
+
+- [ ] Beagle
+- [ ] Pug
+- [x] Greyhound
+
+#### What animal is commonly used in magic acts?
+
+- [x] Rabbit
+- [ ] Iguana
+- [ ] Fruit Bat
+
+#### A cygnet is a young version of what animal?
+
+- [ ] Boar
+- [x] Swan
+- [ ] Spider
+
+#### How do kangaroos carry their young?
+
+- [ ] In their mouths
+- [ ] On their backs
+- [x] In pouches
+
+#### What animals gather in groups called "bloats"?
+
+- [ ] Rhinos
+- [x] Hippos
+- [ ] Pigs
+
+#### Which of the following animals is considered a scavenger?
+
+- [x] Buzzard
+- [ ] Tiger
+- [ ] Lion
+
+#### What is the only mammal on Earth that can't jump?
+
+- [ ] Giraffe
+- [ ] Capybara
+- [x] Elephant
+
+#### Which of these birds is flightless?
+
+- [ ] Robin
+- [x] Emu
+- [ ] Hummingbird
+
+#### The Orca is known by what devious nickname?
+
+- [x] Killer Whale
+- [ ] Thief
+- [ ] Embezzler Whale
