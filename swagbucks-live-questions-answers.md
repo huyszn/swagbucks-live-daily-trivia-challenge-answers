@@ -83368,3 +83368,63 @@
 - [x] Ramona Quimby
 - [ ] Nellie Oleson
 - [ ] Barbie
+
+#### "Riverdance" helped popularize what style of dancing?
+
+- [ ] Breakdancing
+- [ ] Waltz
+- [x] Irish Stepdance
+
+#### Sake is made by fermenting what substance?
+
+- [x] Rice
+- [ ] Chewing Gum
+- [ ] Broccoli
+
+#### According to the saying, too many cooks do what?
+
+- [ ] Add a lot of sugar
+- [x] Spoil the broth
+- [ ] Make a quick dinner
+
+#### As of December 2025, which of the following NFL teams has neither hosted nor played in a Super Bowl?
+
+- [ ] Baltimore Ravens
+- [ ] Houston Texans
+- [x] Cleveland Browns
+
+#### Which of the following vertebrates has the longest lifespan?
+
+- [x] Greenland Shark
+- [ ] Tuatara
+- [ ] Tortoise
+
+#### In which Disney animated movie would you find the kingdom of Arendelle?
+
+- [ ] Robin Hood
+- [x] Frozen
+- [ ] Moana
+
+#### Which of the following words traces its etymology back to an animal?
+
+- [x] Cynic
+- [ ] Churlish
+- [ ] Cranky
+
+#### Gainesville, Florida was the inspiration behind which movie?
+
+- [ ] Waterworld
+- [x] Scream
+- [ ] Raiders of the Lost Ark
+
+#### What is the name of Alanis Morissette's hit 1995 album?
+
+- [ ] Under Rug Swept
+- [ ] Flavors of Entanglement
+- [x] Jagged Little Pill
+
+#### What puzzle cube first became a sensation in the 1980s?
+
+- [x] Rubik's Cube
+- [ ] Magic Dice
+- [ ] Switcheroo Box
