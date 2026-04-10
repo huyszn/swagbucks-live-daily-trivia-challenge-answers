@@ -83428,3 +83428,15 @@
 - [x] Rubik's Cube
 - [ ] Magic Dice
 - [ ] Switcheroo Box
+
+#### Kickflips and Ollies are tricks you can do on what?
+
+- [ ] Hang Glider
+- [x] Skateboard
+- [ ] Jump Rope
+
+#### Shaq appears in ads for which insurance provider?
+
+- [x] The General
+- [ ] Allstate
+- [ ] Farmers
