@@ -83440,3 +83440,27 @@
 - [x] The General
 - [ ] Allstate
 - [ ] Farmers
+
+#### Abraham Van Helsing is a doctor who hunts which literary monster?
+
+- [x] Frankenstein
+- [ ] Dracula
+- [ ] Wolfman
+
+#### What poet preferred to write in green ink because it "represented hope"?
+
+- [ ] Robert Frost
+- [x] Pablo Neruda
+- [ ] Maya Angelou
+
+#### In which board game will you find "Double Word Score" and "Triple Letter Score" squares?
+
+- [ ] Balderdash
+- [ ] Scattergories
+- [x] Scrabble
+
+#### Who may have had "Nowhere to Run" until getting a job as a secretary for Motown's A&R department?
+
+- [ ] Martha Reeves
+- [x] Diana Ross
+- [ ] Aretha Franklin
