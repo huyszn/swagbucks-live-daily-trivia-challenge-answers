@@ -83464,3 +83464,33 @@
 - [ ] Martha Reeves
 - [x] Diana Ross
 - [ ] Aretha Franklin
+
+#### In which State does the Arkansas River begin?
+
+- [ ] Oklahoma
+- [ ] Arkansas
+- [x] Colorado
+
+#### Which of these is NOT enshrined in Ben & Jerry's Flavor Graveyard?
+
+- [ ] Fossil Fuel
+- [ ] This is Nuts
+- [x] Bovine Dream
+
+#### What sea creature is known for creating natural pearls?
+
+- [x] Oysters
+- [ ] Clams
+- [ ] Mussels
+
+#### What is the world's fastest land animal?
+
+- [ ] Penguin
+- [ ] Polar Bear
+- [x] Cheetah
+
+#### Which is the modern day equivalent to a medieval competition called flyting?
+
+- [x] Rap Battle
+- [ ] Drone Jousting
+- [ ] High Jump
