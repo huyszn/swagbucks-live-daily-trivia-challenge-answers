@@ -83494,3 +83494,9 @@
 - [x] Rap Battle
 - [ ] Drone Jousting
 - [ ] High Jump
+
+#### Which NFL team plays their home games in Mile High Stadium?
+
+- [x] Denver Broncos
+- [ ] San Francisco 49ers
+- [ ] Chicago Bears
