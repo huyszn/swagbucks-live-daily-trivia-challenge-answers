@@ -83500,3 +83500,75 @@
 - [x] Denver Broncos
 - [ ] San Francisco 49ers
 - [ ] Chicago Bears
+
+#### What is the most expensive film ever made?
+
+- [ ] Avengers: Endgame
+- [x] Pirates of the Caribbean: On Stranger Tides
+- [ ] Titanic
+
+#### Who is currently the senior U.S. Senator from Arizona?
+
+- [ ] John McCain
+- [x] Kyrsten Sinema
+- [ ] Alexandria Ocasio-Cortez
+
+#### Amenhotep III ruled over what country?
+
+- [x] Egypt
+- [ ] Italy
+- [ ] Ireland
+
+#### Which of the following is a traditional campfire treat?
+
+- [ ] Choco Taco
+- [x] S'mores
+- [ ] Cool Ranch Doritos
+
+#### What is the name of billionaire Brunce Wayne's superhero alter ego?
+
+- [x] Batman
+- [ ] Iron Man
+- [ ] Moon Knight
+
+#### Music producer Benny Blanco is married to which multi-hyphenate star?
+
+- [ ] Beyonce
+- [x] Selena Gomez
+- [ ] Ariana Grande
+
+#### "Nobody puts Baby in a corner" is a quote from which 1980s movie?
+
+- [x] Dirty Dancing
+- [ ] Back to the Future
+- [ ] Raiders of the Lost Ark
+
+#### Nintendo's Mario was originally known by what name?
+
+- [ ] Luigi
+- [ ] Plumberman
+- [x] Jumpman
+
+#### June Carter was married to which other singer?
+
+- [x] Johnny Cash
+- [ ] Willie Nelson
+- [ ] Hank Williams Jr
+
+#### Who won 1971's "Fight of the Century" boxing match?
+
+- [ ] Jake Paul
+- [ ] Mike Tyson
+- [x] Joe Frazier
+
+#### What animal can be either dromedary or bactrian based on the number of humps it has?
+
+- [x] Camel
+- [ ] Rhinoceros
+- [ ] Chipmunk
+
+#### Which of the following games is tile-based?
+
+- [ ] Boggle
+- [ ] Sorry
+- [x] Mahjong
