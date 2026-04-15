@@ -83572,3 +83572,105 @@
 - [ ] Boggle
 - [ ] Sorry
 - [x] Mahjong
+
+#### A coulrophiliac would most likely hang whose poster on their wall?
+
+- [ ] Batman
+- [x] Pennywise
+- [ ] Groot
+
+#### Who was the Pretty Woman in the 1990 film with Richard Gere?
+
+- [ ] Meg Ryan
+- [ ] Sandra Bullock
+- [x] Julia Roberts
+
+#### Which of the following is not a Malt-O-Meal cereal?
+
+- [ ] Apple Zings
+- [ ] Mini-Spooners
+- [x] Sweet Corn Crunchies
+
+#### Which of these brands is known for their chocolate?
+
+- [ ] Oscar Mayer
+- [ ] Budweiser
+- [x] Hershey
+
+#### What WWE legend would stay up late ordering things from QVC?
+
+- [ ] Rowdy Roddy Piper
+- [x] Andre the Giant
+- [ ] Ric Flair
+
+#### Rudolph the Red-nosed Reindeer's friend Hermey was an elf that wanted to be a what?
+
+- [ ] Pile of laundry
+- [x] Dentist
+- [ ] Claims adjuster
+
+#### Which of these movies takes place in the future?
+
+- [ ] Up
+- [x] WALL-E
+- [ ] Turning Red
+
+#### And on that farm he had some pigs, e-i-e-i-o...
+
+- [ ] London Bridge
+- [ ] The Birthday Song
+- [x] Old MacDonald Had A Farm
+
+#### My loneliness is killin' me (And I) I must confess, I still believe (Still believe)...
+
+- [x] ...Baby One More Time
+- [ ] Opps! ...I Did it Again
+- [ ] Toxic
+
+#### If I go there will be trouble, If I stay it will be double...
+
+- [ ] Rock the Casbah
+- [ ] London Calling
+- [x] Should I Stay or Should I Go
+
+#### And I know you love Shrek because we've watched it 12 times...
+
+- [ ] Photograph
+- [x] Wake Me Up
+- [ ] Bad Habits
+
+#### Clap along if you feel like a room without a roof...
+
+- [x] Happiness
+- [ ] Send in the Clowns
+- [ ] My Way
+
+#### On your mark ready set let's go, dance floor pro; I know you know I go psycho...
+
+- [ ] In Da Club
+- [x] Gettin' Jiggy With It
+- [ ] Crank That
+
+#### I thought love was only true in fairy tales, Meant for someone else, but not for me...
+
+- [ ] Last Train to Clarksville
+- [ ] I'm Not Your Stepping Stone
+- [x] I'm a Believer
+
+#### And when I lose my will, You'll be there to push me up the hill...
+
+- [ ] Happy Birthday
+- [x] You're All I Need to Get By
+- [ ] London Bridge Is Falling Down
+
+#### Acting funny, but I don't know why; 'Scuse me while I kiss the sky...
+
+- [x] Purple Haze
+- [ ] The Star-Spangled Banner
+- [ ] I Wanna Hold Your Hand
+
+#### Deep down in Louisiana close to New Orleans, way back up in the woods among the evergreens...
+
+- [ ] Get Lucky
+- [ ] Lose Yourself
+- [x] Johnny B. Goode
