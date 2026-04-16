@@ -83734,3 +83734,33 @@
 - [ ] Estonia
 - [ ] Pakistan
 - [x] United Kingdom
+
+#### Which King of Britain supposedly pulled the sword from the stone?
+
+- [ ] King Booker
+- [x] King Arthur
+- [ ] King Richard
+
+#### According to his theme song, who does whatever a spider can?
+
+- [ ] The Tarantula
+- [x] Spider-Man
+- [ ] Captain America
+
+#### Which of the following comic book dogs can teleport?
+
+- [ ] Krypto
+- [x] Lockjaw
+- [ ] Ace
+
+#### Jules Verne's "Robur the Conqueror" inspired what real-life invention?
+
+- [ ] Taser
+- [ ] Liquid-fueled rockets
+- [x] Helicopter
+
+#### What kid's snack is advertised as "Three Feet of Fun"?
+
+- [ ] Bubble Tape
+- [ ] Nerds Rope
+- [x] Fruit by the Foot
