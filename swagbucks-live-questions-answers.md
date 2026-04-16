@@ -83674,3 +83674,63 @@
 - [ ] Get Lucky
 - [ ] Lose Yourself
 - [x] Johnny B. Goode
+
+#### What breed of horse is associated with Budweiser advertising?
+
+- [x] Clydesdale
+- [ ] Shire Horse
+- [ ] Appaloosa
+
+#### What non-alcoholic Mexican drink is made of rice, cinnamon, and sugar?
+
+- [ ] Atole
+- [ ] Aguas Frescas
+- [x] Horchata
+
+#### Which of the following places is known for its fjords?
+
+- [x] Norway
+- [ ] Oklahoma
+- [ ] Fiji
+
+#### Which of these sitcom characters had the ability to freeze the action and speak directly to the camera?
+
+- [ ] The Fonz
+- [ ] Chandler Bing
+- [x] Zack Morris
+
+#### What country's star's signature song is "The Gambler"?
+
+- [x] Kenny Rogers
+- [ ] Conway Twitty
+- [ ] George Jones
+
+#### Which fruit's exterior is coated in achenes?
+
+- [ ] Banana
+- [x] Strawberry
+- [ ] Kiwi
+
+#### Which famous siblings are known for recording and publishing folk tales?
+
+- [ ] Jonas Brothers
+- [ ] Bobbsey Twins
+- [x] Brothers Grimm
+
+#### When did the first computer dating service launch?
+
+- [x] 1965
+- [ ] 1988
+- [ ] 1995
+
+#### Which Disney animated movie released a live action version in 2025?
+
+- [ ] The Little Mermaid
+- [ ] Aladdin
+- [x] Lilo & Stitch
+
+#### Gaelic is a language primarily spoken in which area?
+
+- [ ] Estonia
+- [ ] Pakistan
+- [x] United Kingdom
