@@ -83842,3 +83842,27 @@
 - [ ] Shane Dawson
 - [ ] Jenna Marbles
 - [x] Logan Paul
+
+#### Which of these toys did NOT debut in the 1960s?
+
+- [ ] Sen n' Say
+- [x] Weebles
+- [ ] Slip n' Slide
+
+#### Thursday gets its name from which Norse god?
+
+- [ ] Loki
+- [x] Thor
+- [ ] Odin
+
+#### A Moscow Mule is traditionally served in what kind of vessel?
+
+- [ ] A boot
+- [ ] A cast iron skillet
+- [x] Copper mug
+
+#### Who shot the Scranton footage used in the opening of "The Office"?
+
+- [ ] Rainn Wilson
+- [ ] Steve Carell
+- [x] John Krasinski
