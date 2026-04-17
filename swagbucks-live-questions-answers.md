@@ -16045,7 +16045,7 @@
 - [ ] The Paper Chaser
 - [ ] L'il O
 
-#### Which Disney character most cosely resembles a Rolls-Royce hood ornament?
+#### Which Disney character most closely resembles a Rolls-Royce hood ornament?
 
 - [x] Tinkerbell
 - [ ] Thumper
@@ -47792,7 +47792,7 @@
 - [x] The Green Mile
 - [ ] Groundhog Day
 
-#### What breed of dog is most cosely associated with firefighting?
+#### What breed of dog is most closely associated with firefighting?
 
 - [x] Dalmatian
 - [ ] Corgi
@@ -67283,7 +67283,7 @@
 - [ ] Nirvana
 - [ ] Metallica
 
-#### What dessert is most cosely associated with birthday celebrations?
+#### What dessert is most closely associated with birthday celebrations?
 
 - [ ] Doughnuts
 - [x] Cake
@@ -79445,7 +79445,7 @@
 - [x] Helicopter
 - [ ] Limousine
 
-#### Ella Fitzgerald is most cosely associated with what kind of music?
+#### Ella Fitzgerald is most closely associated with what kind of music?
 
 - [x] Jazz
 - [ ] Punk
@@ -83764,3 +83764,81 @@
 - [ ] Bubble Tape
 - [ ] Nerds Rope
 - [x] Fruit by the Foot
+
+#### Which fruit is most closely associated with Halloween?
+
+- [x] Pumpkin
+- [ ] Raspberry
+- [ ] Honeydew
+
+#### Which of these characters visited the Upside Down first?
+
+- [x] Nancy
+- [ ] Hopper
+- [ ] Jonathan
+
+#### Which of these women was NOT known for their work in chemistry?
+
+- [ ] Alice Ball
+- [x] Lynn Margulis
+- [ ] Dorothy Hodgkin
+
+#### On May 5th, 2025 Microsoft retired what online conferencing software?
+
+- [x] Skype
+- [ ] Zoom
+- [ ] Google Meet
+
+#### What does URL stand for?
+
+- [ ] Under Radiated Legumes
+- [ ] Uncle Randy's Lasagna
+- [x] Uniform Resource Locator
+
+#### What company, which began as a search engine, was founded by Larry Page and Sergey Brin?
+
+- [x] Google
+- [ ] Alta Vista
+- [ ] Ask Jeeves
+
+#### Complete this viral video quote: "Damn Daniel, back at it again with the..."
+
+- [ ] White pants
+- [x] White Vans
+- [ ] White shirt
+
+#### Tay Zonday went viral in 2007 for what song?
+
+- [ ] Crazy Frog
+- [ ] The Duck Song
+- [x] Chocolate Rain
+
+#### Changing your relationship on a certain social media website is commonly known by what term?
+
+- [ ] Yahoo Legit
+- [x] Facebook Official
+- [ ] Friendster Serious
+
+#### Created as a test in 1971, what was the name of the first ever computer virus?
+
+- [x] Creeper
+- [ ] Reaper
+- [ ] Sleeper
+
+#### "Subathons" are popular events on which online platform?
+
+- [ ] WhatsApp
+- [x] Twitch
+- [ ] Apple Podcasts
+
+#### What social media platform is known for its disappearing messages?
+
+- [x] Snapchat
+- [ ] Twitter
+- [ ] Tumblr
+
+#### What YouTube star has gone on to a successful career as a WWE Superstar?
+
+- [ ] Shane Dawson
+- [ ] Jenna Marbles
+- [x] Logan Paul
