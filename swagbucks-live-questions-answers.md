@@ -83866,3 +83866,15 @@
 - [ ] Rainn Wilson
 - [ ] Steve Carell
 - [x] John Krasinski
+
+#### What daytime talk show host is famous for saying "You ARE the father"?
+
+- [ ] Phil Donahue
+- [x] Maury Povich
+- [ ] Rosie O'Donnell
+
+#### Who was the tailor that convinced Levi-Strauss to rivet denim pants?
+
+- [x] Jacob Davis
+- [ ] Motel Kamzoil
+- [ ] John Woolman
