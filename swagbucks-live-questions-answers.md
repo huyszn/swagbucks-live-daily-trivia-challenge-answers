@@ -14406,18 +14406,11 @@
 - [x] Shepard Fairey
 - [ ] Mr. Brainwash
 
-#### Which artist created the Obama "Hope" and Andre the Giant "Obey" images?
-
-- [ ] Banksy
-- [x] Shepard Fairey
-- [ ] Mr. Brainwash
-
 #### What company makes the Switch handheld game system?
 
 - [ ] Sega
 - [x] Nintendo
 - [ ] Microsoft
-
 
 #### What style of music had its heyday in the 1970s?
 
@@ -25122,12 +25115,6 @@
 - [x] Abstract Expressionism
 - [ ] Realism
 - [ ] Romanticism
-
-#### After Alaska, what is the largest U.S. State?
-
-- [ ] Rhode Island
-- [ ] Oklahoma
-- [x] Texas
 
 #### Which of the following is a song by Dolly Parton?
 
