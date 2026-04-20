@@ -83865,3 +83865,21 @@
 - [x] Jacob Davis
 - [ ] Motel Kamzoil
 - [ ] John Woolman
+
+#### In which game can a bullseye be scored?
+
+- [ ] Football
+- [x] Darts
+- [ ] Chess
+
+#### Which of these terms refers to specifically to fingers?
+
+- [x] Gwenders
+- [ ] Paresthesia
+- [ ] Glossitis
+
+#### The Easter Bunny is what kind of animal?
+
+- [x] Rabbit
+- [ ] Plant
+- [ ] Car
