@@ -83967,3 +83967,27 @@
 - [x] Survivor
 - [ ] The Amazing Race
 - [ ] Big Brother
+
+#### How many of the Chicago Seven were found guilty on February 18th, 1975?
+
+- [ ] 7
+- [x] 5
+- [ ] 1
+
+#### Last summer, the popular Bottle Cap Challenge involved celebrities unscrewing a bottle cap with what?
+
+- [x] A kick
+- [ ] A punch
+- [ ] A stiff wind
+
+#### What team was Shaquille O'Neal playing for when he dubbed himself "The Big Shamroq"?
+
+- [ ] Cleveland Cavaliers
+- [x] Boston Celtics
+- [ ] Phoenix Suns
+
+#### Which sitcom had a star with a last name that was also a State capital?
+
+- [ ] I Love Lucy
+- [x] Gilligan's Island
+- [ ] The Munsters
