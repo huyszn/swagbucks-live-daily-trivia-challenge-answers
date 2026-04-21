@@ -83883,3 +83883,87 @@
 - [x] Rabbit
 - [ ] Plant
 - [ ] Car
+
+#### According to the signature song from "Annie", when will the sun come out?
+
+- [ ] Next Tuesday
+- [x] Tomorrow
+- [ ] Whenever
+
+#### What album did Rolling Stone name as the "Best Pop Punk Album Ever" in 2017?
+
+- [ ] Enema of the State
+- [x] Dookie
+- [ ] American Idiot
+
+#### What was Martin Luther King, Jr's first name at birth?
+
+- [ ] Luther
+- [x] Michael
+- [ ] Marvin
+
+#### If it's 11:30 AM in San Francisco, what time is it in Newark?
+
+- [ ] 8:30 AM
+- [x] 2:30 PM
+- [ ] 12:30 PM
+
+#### "ER" actor Noah Wyle currently stars in what other medical drama?
+
+- [x] The Pitt
+- [ ] Grey's Anatomy
+- [ ] Pulse
+
+#### Jennifer Garner plays Sydney Bristow, a college student and CIA spy, on which TV show?
+
+- [ ] The Last Thing He Told Me
+- [x] Alias
+- [ ] Camping
+
+#### Triumph the Insult Comic Dog was a featured character on which late night talk show?
+
+- [ ] Late Snow with David Letterman
+- [ ] Jimmy Kimmel Live!
+- [x] Late Night With Conan O'Brien
+
+#### "Twin Peaks" originally centered around which character's murder?
+
+- [ ] Dale Cooper
+- [x] Laura Palmer
+- [ ] Bob
+
+#### Matt Foley, SNL's motivational speaker who lives in a van down by the river, was played by which Not-Ready-For-Primetime Player?
+
+- [x] Chris Farley
+- [ ] David Spade
+- [ ] Adam Sandler
+
+#### Which of the following shows is NOT a soap opera?
+
+- [ ] All My Children
+- [x] Friday the 13th: The Series
+- [ ] General Hospital
+
+#### What is the name of Captain Mal's ship on the show "Firefly"?
+
+- [ ] Agamemnon
+- [ ] Thunderbolt
+- [x] Serenity
+
+#### Brandon and Brenda Walsh move from Minnesota to California in which TV series?
+
+- [x] Beverly Hills, 90210
+- [ ] Melrose Place
+- [ ] The O.C.
+
+#### Which children's TV host changed their shoes and jacket at the beginning of each episode?
+
+- [ ] Captain Kangaroo
+- [x] Mister Rogers
+- [ ] Bozo The Clown
+
+#### On which reality competition show does the logo tell you to "Outwit, Outplay, Outlast" your opponents?
+
+- [x] Survivor
+- [ ] The Amazing Race
+- [ ] Big Brother
