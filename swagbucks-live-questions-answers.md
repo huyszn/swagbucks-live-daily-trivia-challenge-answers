@@ -83991,3 +83991,75 @@
 - [ ] I Love Lucy
 - [x] Gilligan's Island
 - [ ] The Munsters
+
+#### "Wax on, wax off" is a famous quote from which movie?
+
+- [ ] Ordinary People
+- [x] The Karate Kid
+- [ ] Raiders of the Lost Ark
+
+#### When rolling dice, what does the term "boxcars" refer to?
+
+- [x] Two sixes
+- [ ] Two ones
+- [ ] Two threes
+
+#### What phrase of the moon is associated with the legend associated with the legend of people turning into werewolves?
+
+- [ ] Waxing Crescent
+- [x] Full Moon
+- [ ] Waning Gibbous
+
+#### Which of these board games uses dice?
+
+- [ ] Chess
+- [ ] Checkers
+- [x] Backgammon
+
+#### How many traditional senses do human beings have?
+
+- [x] Five
+- [ ] Six
+- [ ] Seven
+
+#### What candy line, known for its iconic pop culture-themed dispensers, debuted in 1927?
+
+- [ ] Jelly Belly
+- [ ] Snickers
+- [x] PEZ
+
+#### Before they went extinct, where was the Dodo discovered?
+
+- [x] Mauritius
+- [ ] The Galapagos Islands
+- [ ] Thailand
+
+#### Which of the following countries is divided into Provinces instead of States?
+
+- [ ] The United States
+- [x] Canada
+- [ ] Australia
+
+#### In "Les Miserables", what did Jean Valjean steal?
+
+- [x] A loaf of bread
+- [ ] A car
+- [ ] A pepperoni pizza
+
+#### In Australia, what are you doing when you're "Chucking a sickie"?
+
+- [ ] Throwing up
+- [ ] Eating a popsicle
+- [x] Playing hooky
+
+#### In "Ocean's Eleven", what type of establishment are the heroes trying to rob?
+
+- [ ] Bank
+- [x] Casino
+- [ ] Restaurant
+
+#### "Hot To Go" was a huge hit for which artist?
+
+- [x] Chappell Roan
+- [ ] Ariana Grande
+- [ ] Lady Gaga
