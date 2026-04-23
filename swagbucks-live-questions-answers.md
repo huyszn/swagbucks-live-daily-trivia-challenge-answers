@@ -84063,3 +84063,87 @@
 - [x] Chappell Roan
 - [ ] Ariana Grande
 - [ ] Lady Gaga
+
+#### At a museum, who is responsible for managing collections of artifacts or pieces of art?
+
+- [ ] Docent
+- [x] Curator
+- [ ] Janitor
+
+#### In the 2022 Baz Luhrmann movie about Elvis, who played him?
+
+- [ ] Tom Cruise
+- [ ] Jim Carrey
+- [x] Austin Butler
+
+#### In a 2017 Study, what percentage of American adults thought chocolate milk came from brown cows?
+
+- [x] 7
+- [ ] 11
+- [ ] 23
+
+#### Which movie musical featured the song "Greased Lightning"?
+
+- [x] Grease
+- [ ] Chicago
+- [ ] Guys and Dolls
+
+#### Complete this Jane Austen title: "Pride and..."
+
+- [x] Prejudice
+- [ ] Pickles
+- [ ] Pith Helmets
+
+#### What State provides the setting for "To Kill A Mockingbird"?
+
+- [ ] New York
+- [x] Alabama
+- [ ] Arizona
+
+#### What is the name of the leader of the pack of orphan thieves Oliver Twist joins?
+
+- [x] Fagin
+- [ ] Hieronymus Bosch
+- [ ] Dracula
+
+#### Which of these writers is known as the "Father of Science Fiction"?
+
+- [ ] John Scalzi
+- [x] Jules Verne
+- [ ] Ray Bradbury
+
+#### Which of these children's book characters is a stuffed animal who becomes "real"?
+
+- [ ] Paddington
+- [ ] Raggedy Ann
+- [x] The Velveteen Rabbit
+
+#### Which famous author was a ghost hunter and part of London's Ghost Club?
+
+- [ ] Mary Shelly
+- [x] Charles Dickens
+- [ ] Mark Twain
+
+#### Where does Winnie The Pooh live?
+
+- [ ] Cleveland
+- [x] Hundred Acre Wood
+- [ ] Narnia
+
+#### Due to her love of cricket, what famous author was known by their family as The Demon Bowler"?
+
+- [x] Virginia Woolf
+- [ ] Emily Bronte
+- [ ] Harriet Beecher Stowe
+
+#### Katniss Everdeen is the main character in which book series?
+
+- [ ] The New Olympians
+- [ ] Harry Potter
+- [x] Hunger Games
+
+#### Which author created Pennywise the Clown?
+
+- [ ] Clive Barker
+- [x] Stephen King
+- [ ] Anne Rice
