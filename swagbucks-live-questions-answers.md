@@ -40848,7 +40848,7 @@
 - [ ] Float
 - [ ] Wiggle
 
-#### Brenda Barnes launched the corporate "returnship" program for moms at which company"
+#### Brenda Barnes launched the corporate "returnship" program for moms at which company?
 
 - [x] Sara Lee
 - [ ] Huggies
@@ -84219,3 +84219,21 @@
 - [ ] Titanic
 - [ ] Oppenheimer
 - [x] Troll 2
+
+#### In which Disney animated film is there a Hidden Mickey in a chair?
+
+- [x] Pinocchio
+- [ ] Cinderella
+- [ ] Dumbo
+
+#### Which phone brand's logo features a red check mark?
+
+- [ ] Boost
+- [x] Verizon
+- [ ] AT&T
+
+#### If you panicked every time you thought your phone was missing, what would you suffer from?
+
+- [ ] Telephobia
+- [x] Nomophobia
+- [ ] Celluphobia
