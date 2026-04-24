@@ -84147,3 +84147,75 @@
 - [ ] Clive Barker
 - [x] Stephen King
 - [ ] Anne Rice
+
+#### Which artist sang about partying like it's 1999?
+
+- [x] Prince
+- [ ] Madonna
+- [ ] Sting
+
+#### Slaughterhouse Five is a book by what writer?
+
+- [x] Kurt Vonnegut
+- [ ] Stephen King
+- [ ] William Faulkner
+
+#### Where did Kabuki theater originate?
+
+- [ ] Cleveland
+- [x] Japan
+- [ ] Ireland
+
+#### What type of dish is Thailand's Tom Yum?
+
+- [x] Soup
+- [ ] Jerky
+- [ ] Pasta
+
+#### When pronouncing the word "Knight", which of the following letters is silent?
+
+- [ ] T
+- [ ] N
+- [x] K
+
+#### Which of the following performers has NOT been nominated for a competitive acting Oscar?
+
+- [x] Donald Sutherland
+- [ ] Elliot Gould
+- [ ] Goldie Hawn
+
+#### World War II's Operation Mincemeat was designed to allow Allied forces to invade which area?
+
+- [ ] Sardinia
+- [x] Sicily
+- [ ] Greece
+
+#### What James Cameron film franchise centers around the Na'vi of Pandora?
+
+- [ ] Terminator
+- [ ] True Lies
+- [x] Avatar
+
+#### The co-creator of the first commercial arcade game also founded which company?
+
+- [ ] Nintendo
+- [x] Atari
+- [ ] Sega
+
+#### Bruno Radolini was the musical alter ego of which actor?
+
+- [x] Bruce Willis
+- [ ] John Travolta
+- [ ] Patrick Swayze
+
+#### Which of the following games was made for more mature audiences due to its content?
+
+- [ ] Candy Land
+- [x] Cards Against Humanity
+- [ ] Cranium
+
+#### Which of the following movies did NOT win the Oscar for Best Picture?
+
+- [ ] Titanic
+- [ ] Oppenheimer
+- [x] Troll 2
