@@ -84237,3 +84237,9 @@
 - [ ] Telephobia
 - [x] Nomophobia
 - [ ] Celluphobia
+
+#### In which horror movie does "All work and no play make Jack a dull boy?"
+
+- [x] The Shining
+- [ ] Alien
+- [ ] Scream
