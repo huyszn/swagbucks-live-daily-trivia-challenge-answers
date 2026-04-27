@@ -84243,3 +84243,27 @@
 - [x] The Shining
 - [ ] Alien
 - [ ] Scream
+
+#### Which of the following is another term for "own"?
+
+- [ ] Partake
+- [ ] Pander
+- [x] Possess
+
+#### In terms of uniqueness, what is the dog equivalent of a fingerprint?
+
+- [ ] Tongueprint
+- [ ] Pawprint
+- [x] Noseprint
+
+#### What line does Joey use to pick up women?
+
+- [ ] "What's your sign?"
+- [ ] "Hi, I'm Joey."
+- [x] "How YOU doin'?"
+
+#### What was Hawaiian Punch's first intended purpose?
+
+- [x] Ice cream topping
+- [ ] Food coloring
+- [ ] Spice
