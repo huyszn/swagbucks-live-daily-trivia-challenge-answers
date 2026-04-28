@@ -84267,3 +84267,93 @@
 - [x] Ice cream topping
 - [ ] Food coloring
 - [ ] Spice
+
+#### Which of the following is an actual alternative name for Juneteenth?
+
+- [ ] Rebirth Day
+- [ ] Lincoln Day
+- [x] Jubilee Day
+
+#### In the Broadway adaptation of Studs Terkel's "Working", what job is NOT represented?
+
+- [ ] Migrant Worker
+- [x] Mechanic
+- [ ] Model
+
+#### Approximately how old is the game of Mancala?
+
+- [ ] 50 years
+- [x] 3,600 years
+- [ ] 100,000 years
+
+#### An animal named Douglas became famous starring in a Pippi Longstocking film adaptation. What kind of animal was he?
+
+- [ ] Horse
+- [ ] Dog
+- [x] Parrot
+
+#### Which breakfast cereal was originally called Battle Creek Cereal?
+
+- [x] Honey Bunches of Oats
+- [ ] Corn Flakes
+- [ ] Cherrios
+
+#### Which of the seven dwarfs from Disney's Snow White never speaks?
+
+- [ ] Doc
+- [ ] Bashful
+- [x] Dopey
+
+#### What is the name of Donald Duck's uncle?
+
+- [ ] Sam
+- [x] Scrooge
+- [ ] Skippy
+
+#### In "Lady and the Tramp", what breed of dog is Lady?
+
+- [x] Cocker Spaniel
+- [ ] Bulldog
+- [ ] Havanese
+
+#### In Disney's 1973 film "Robin Hood", what kind of animal is Robin Hood?
+
+- [ ] Mole
+- [ ] Eagle
+- [x] Fox
+
+#### In Disney's "Beauty and the Beast", what was used to track the time until the Beast's curse became permanent?
+
+- [ ] An hourglass
+- [x] A rose
+- [ ] A piece of cake
+
+#### Which Disney character was originally known as Dippy Dawg?
+
+- [ ] Pluto
+- [ ] Pete
+- [x] Goofy
+
+#### Which Disney animated character says "There's only one thing I like more than cheese - nothin'!"?
+
+- [ ] Gadget Hackwrench
+- [ ] Darkwing Duck
+- [x] Monterey Jack
+
+#### What Disney animated film is about a family who are granted magical gifts from a miracle?
+
+- [x] Encanto
+- [ ] Raya and the Last Dragon
+- [ ] Big Hero 6
+
+#### In "The Emperor's New Groove", the poison given to Kronk is intended to be delivered to which other character?
+
+- [ ] Yzma
+- [ ] Pacha
+- [x] Kuzco
+
+#### Which Disney animated classic features "Night on Bald Mountain", "Waltz of the Flowers" and "The Sorcerer's Apprentice"?
+
+- [ ] Cinderella
+- [x] Fantasia
+- [ ] Alice in Wonderland
