@@ -84357,3 +84357,21 @@
 - [ ] Cinderella
 - [x] Fantasia
 - [ ] Alice in Wonderland
+
+#### Which fast food chain ran the famous "Where's the Beef?" campaign?
+
+- [ ] Burger King
+- [x] Wendy's
+- [ ] McDonald's
+
+#### Which of the following breakthroughs did NOT happen at CERN?
+
+- [ ] The "God Particle"
+- [ ] The World Wide Web
+- [x] DNA Editing
+
+#### The nautically themed restaurant Dive! was the brainchild of what famous director?
+
+- [x] Steven Spielberg
+- [ ] Michael Bay
+- [ ] Francis Ford Coppola
