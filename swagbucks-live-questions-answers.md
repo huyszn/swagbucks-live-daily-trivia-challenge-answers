@@ -84441,3 +84441,9 @@
 - [x] 20,000 Leagues Under the Sea
 - [ ] George of the Jungle
 - [ ] The Mighty Ducks
+
+#### Which of these Jenners is the mother of the other two?
+
+- [x] Kris
+- [ ] Kylie
+- [ ] Kendall
