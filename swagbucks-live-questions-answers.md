@@ -84375,3 +84375,69 @@
 - [x] Steven Spielberg
 - [ ] Michael Bay
 - [ ] Francis Ford Coppola
+
+#### Which of the following teams did the inventor of the curveball play for?
+
+- [ ] Centennials
+- [ ] Resolutes
+- [x] Canaries
+
+#### Which of the following phrases is used to describe Mary Poppins?
+
+- [x] Practically Perfect in Every Way
+- [ ] Kinda Sorta Perfect in Every Way
+- [ ] Just Meh in Every Way
+
+#### "Maleficent" serves as a prequel to which Disney animated feature?
+
+- [ ] Cinderella
+- [x] Sleeping Beauty
+- [ ] 101 Dalmatians
+
+#### What ship is at the center of the first "Pirates of the Caribbean" movie?
+
+- [ ] The Flying Dutchman
+- [ ] Queen Anne's Revenge
+- [x] The Black Pearl
+
+#### What kind of car is Herbie the Love Bug?
+
+- [x] Volkswagen
+- [ ] Honda
+- [ ] Chevrolet
+
+#### Which of the following actors has NOT played a live action version of Cruella de Vil?
+
+- [ ] Emma Stone
+- [x] Meryl Streep
+- [ ] Glenn Close
+
+#### What Disney Live Action film takes place in the world of computers?
+
+- [ ] Flight of the Navigator
+- [ ] Return to Oz
+- [x] Tron
+
+#### Who played the male lead in 1984's "Splash"?
+
+- [x] Tom Hanks
+- [ ] Tom Cruise
+- [ ] Tommy Lee Jones
+
+#### In "Million Dollar Arm", a scout makes baseball players out of athletes from which sport?
+
+- [ ] Rugby
+- [x] Cricket
+- [ ] Jai Alai
+
+#### Which comedic actor stars in the "Honey, I Shrunk The Kids" movies?
+
+- [ ] Steve Martin
+- [ ] Chevy Chase
+- [x] Rock Moranis
+
+#### Which of the following Disney live action movies is based on a Jules Verne story?
+
+- [x] 20,000 Leagues Under the Sea
+- [ ] George of the Jungle
+- [ ] The Mighty Ducks
