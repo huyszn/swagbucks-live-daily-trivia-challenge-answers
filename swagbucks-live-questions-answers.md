@@ -84507,3 +84507,27 @@
 - [ ] Gorr the God Butcher
 - [x] Victor Von Doom
 - [ ] The Red Skull
+
+#### Which shoe brand sells "Air Jordans"?
+
+- [ ] Adidas
+- [x] Nike
+- [ ] PUMA
+
+#### Which soft drink branded itself as "the Un-cola"?
+
+- [ ] Mountain Dew
+- [x] 7-Up
+- [ ] Fresca
+
+#### What is the sum of all the numbers on a roulette wheel?
+
+- [x] 666
+- [ ] 333
+- [ ] 777
+
+#### In baseball, which of these does NOT count toward "Hitting for the cycle"?
+
+- [ ] Double
+- [ ] Triple
+- [x] Strikeout
