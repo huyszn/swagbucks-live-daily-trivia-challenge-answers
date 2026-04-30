@@ -84447,3 +84447,63 @@
 - [x] Kris
 - [ ] Kylie
 - [ ] Kendall
+
+#### Which Marvel hero has movies with subtitles like "Ragnarok" and "Love and Thunder"?
+
+- [ ] Star-Lord
+- [x] Thor
+- [ ] U.S. Agent
+
+#### Which MCU character had the mind stone lodged in his forehead?
+
+- [x] Vision
+- [ ] Venom
+- [ ] Valkyrie
+
+#### In the original "Star Wars", where do we first meet Luke Skywalker?
+
+- [ ] Alderaan
+- [x] Tatooine
+- [ ] Endor
+
+#### As of April 2026, which of the following Star Wars characters has not been given a name for their species?
+
+- [ ] Greedo
+- [ ] Ponda Baba
+- [x] Yoda
+
+#### In which Indiana Jones movie do we meet Short Round?
+
+- [x] Temple of Doom
+- [ ] Dial of Destiny
+- [ ] Kingdom of the Crystal Skull
+
+#### In "The Muppet Christmas Carol", which muppet plays the role of Charles Dickens?
+
+- [ ] Fozzie Bear
+- [x] Gonzo
+- [ ] Rizzo
+
+#### Which MCU character claims "I can do this all day"?
+
+- [ ] Peter Parker
+- [x] Steve Rogers
+- [ ] Bruce Banner
+
+#### At of the following universities did Indiana Jones NOT teach?
+
+- [ ] Barnett College
+- [ ] Hunter College
+- [x] Franklin & Marshall College
+
+#### What is the weapon of a Jedi?
+
+- [x] Lightsaber
+- [ ] Blaster
+- [ ] Spear
+
+#### Who will be the main villain in "Avengers: Doomsday"?
+
+- [ ] Gorr the God Butcher
+- [x] Victor Von Doom
+- [ ] The Red Skull
