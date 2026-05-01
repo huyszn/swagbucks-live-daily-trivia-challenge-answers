@@ -47995,12 +47995,6 @@
 - [ ] Tony Soprano
 - [x] Walker, Texas Ranger
 
-#### On "Rocko's Modern Life", what kind of animal is Rocko?
-
-- [ ] Emu
-- [x] Wallaby
-- [ ] Snake
-
 #### According to the theme song to "The Nanny", where was the Nanny originally working?
 
 - [x] Flushing, Queens
@@ -84531,3 +84525,51 @@
 - [ ] Double
 - [ ] Triple
 - [x] Strikeout
+
+#### Who are the two lead characters in "Toy Story"?
+
+- [x] Buzz and Woody
+- [ ] Filk and Atta
+- [ ] Bob and Helen Parr
+
+#### In "Turning Red", what animal does Mei turn into?
+
+- [ ] Beaver
+- [ ] Fox
+- [x] Red Panda
+
+#### When we first meet Russell in "Up", which Wilderness Explorer badge is he trying to earn?
+
+- [ ] Citizenship
+- [x] Assisting the Elderly
+- [ ] Helper
+
+#### When he's fully charged up, WALL-E makes a sound associated with what piece of technology?
+
+- [x] Macintosh computer
+- [ ] Nintendo Entertainment System
+- [ ] Nokia Cell Phone
+
+#### In "Finding Nemo", on which street do they find Nemo?
+
+- [ ] Sherman Way
+- [x] Wallaby Way
+- [ ] Harbor Way
+
+#### Merida is the first Disney Princess with what distinct feature?
+
+- [ ] A mother
+- [ ] A horse
+- [x] A foreign accent
+
+#### At the beginning of "Monsters, Inc" what is used to generate pwoer for Monstropolis?
+
+- [ ] Laughter
+- [x] Screams
+- [ ] Tears
+
+#### In "Finding Nemo", what advice does Dory offer?
+
+- [x] Just keep swimming
+- [ ] Immediately stop swimming
+- [ ] Learn how to swim
