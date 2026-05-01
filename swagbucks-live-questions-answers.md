@@ -84573,3 +84573,21 @@
 - [x] Just keep swimming
 - [ ] Immediately stop swimming
 - [ ] Learn how to swim
+
+#### Where is the Big Dipper located?
+
+- [x] The night sky
+- [ ] Arby's Drive-Thru
+- [ ] Your pocket
+
+#### The original Toll House recipe is for what kind of cookie?
+
+- [ ] Snickerdoodle
+- [x] Chocolate Chip
+- [ ] Oatmeal Raisin
+
+#### Where would you find an aglet?
+
+- [ ] On your tongue
+- [x] On your shoelaces
+- [ ] In your term paper
