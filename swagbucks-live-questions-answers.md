@@ -84562,7 +84562,7 @@
 - [ ] A horse
 - [x] A foreign accent
 
-#### At the beginning of "Monsters, Inc" what is used to generate pwoer for Monstropolis?
+#### At the beginning of "Monsters, Inc" what is used to generate power for Montopolis?
 
 - [ ] Laughter
 - [x] Screams
