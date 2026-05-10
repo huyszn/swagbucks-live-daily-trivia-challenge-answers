@@ -13422,7 +13422,7 @@
 - [ ] Seattle
 - [x] Mexico City
 
-#### Which of the following is NOT a card in a standard Uno deck?
+#### Which of the following is NOT a card in a standard Uno deck? (REPEAT QUESTION WITH DIFFERENT ANSWERS)
 
 - [ ] Reverse
 - [ ] Skip
@@ -83425,7 +83425,7 @@
 #### Abraham Van Helsing is a doctor who hunts which literary monster?
 
 - [x] Frankenstein
-- [ ] Dracula
+- [x] Dracula
 - [ ] Wolfman
 
 #### What poet preferred to write in green ink because it "represented hope"?
@@ -84591,3 +84591,33 @@
 - [ ] On your tongue
 - [x] On your shoelaces
 - [ ] In your term paper
+
+#### What popular 80s toy started as a way to teach architecture students about 3-dimensional spaces?
+
+- [ ] Glo Worm
+- [ ] My Buddy
+- [x] Rubik's Cube
+
+#### What French Impressionist famously made a series of paintings of waterlilies?
+
+- [x] Claude Monet
+- [ ] Pablo Picasso
+- [ ] Andy Warhol
+
+#### Stedman Graham is the long-term partner of what media personality?
+
+- [ ] Whoopi Goldberg
+- [ ] Katie Couric
+- [x] Oprah Winfrey
+
+#### Greenbacks, Benjamins, and Cashola are all slangs for what?
+
+- [x] Money
+- [ ] Frogs
+- [ ] People named Ben
+
+#### In the board game Sorry!, what is traditionally said when a player bumps their opponent back to Start?
+
+- [ ] Suckas!
+- [x] Sorry!
+- [ ] Silly me!
