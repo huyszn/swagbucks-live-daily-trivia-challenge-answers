@@ -84621,3 +84621,93 @@
 - [ ] Suckas!
 - [x] Sorry!
 - [ ] Silly me!
+
+#### Samoas, Tagalongs and Thin Mints are all varieties of what type of cookies?
+
+- [ ] Oreos
+- [ ] Chips Ahoy
+- [x] Girl Scout Cookies
+
+#### Teddy Roosevelt is credited with the quote "Speak softly and carry a big" what?
+
+- [ ] Sandwich
+- [x] Stick
+- [ ] Bottle of water
+
+#### The Silk Road was a historic trade route that connected the Western world with what areas?
+
+- [x] Middle East and Asia
+- [ ] North Pole and South Pole
+- [ ] Canada and Hawaii
+
+#### Which literary character comes from Darkest Peru?
+
+- [x] Paddington
+- [ ] Winnie The Pooh
+- [ ] Corduroy
+
+#### "Dark Side of the Moon" is an album by which band?
+
+- [ ] Slipknot
+- [ ] Zac Brown Band
+- [x] Pink Floyd
+
+#### Which of the following Jewish holidays is a celebration of the New Year?
+
+- [x] Rosh Hashanah
+- [ ] Hanukkah
+- [ ] Passover
+
+#### "The Way of Water" is a sequel to what film franchise?
+
+- [ ] Terminator
+- [x] Avatar
+- [ ] Star Wars
+
+#### Why are bananas curved?
+
+- [x] They grow towards the sun
+- [ ] Gravity
+- [ ] Defense mechanism
+
+#### In the Masters of the Universe toy line, what is the name of He-Man's sister?
+
+- [ ] Teela
+- [x] She-Ra
+- [ ] Sorceress
+
+#### What object is relayed around the world prior to the Olympic games?
+
+- [x] Torch
+- [ ] Flag
+- [ ] Laurels
+
+#### Who wrote "Alice's Adventures in Wonderland"?
+
+- [ ] Mark Twain
+- [ ] William Shakespeare
+- [x] Lewis Carroll
+
+#### What was the first U.S. State to have an official State Cookie?
+
+- [ ] Massachusetts
+- [ ] California
+- [x] New Mexico
+
+#### Which of these sitcom pilots revolved around an 8-year-old child?
+
+- [ ] Webster
+- [x] Punky Brewster
+- [ ] iCarly
+
+#### In what year did the American Civil War end?
+
+- [ ] 1697
+- [ ] 1776
+- [x] 1865
+
+#### Rapper/producer Shawn Carter is better known by what name?
+
+- [x] Jay-Z
+- [ ] Jay-X
+- [ ] Jay-Y
