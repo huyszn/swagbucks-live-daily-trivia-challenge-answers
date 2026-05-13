@@ -74380,7 +74380,7 @@
 - [ ] Teeny Weenies
 - [ ] Chompster
 
-#### In the 1994 Quidditch World Cup, which if Ireland's chasers scored the first goal?
+#### In the 1994 Quidditch World Cup, which of Ireland's chasers scored the first goal?
 
 - [ ] Mullet
 - [x] Troy
@@ -84711,3 +84711,69 @@
 - [x] Jay-Z
 - [ ] Jay-X
 - [ ] Jay-Y
+
+#### Which martial arts legend starred in movies like "Enter The Dragon", "Fists of Fury", and "Game of Death"?
+
+- [x] Bruce Lee
+- [ ] Steve Seagal
+- [ ] Jean-Claude Van Damme
+
+#### Drake, Justin Bieber, and The Weeknd are all from what country?
+
+- [ ] Spain
+- [ ] Iceland
+- [x] Canada
+
+#### The Who wrote a hit song and album about what type of wizard?
+
+- [ ] Arcane Wizard
+- [x] Pinball Wizard
+- [ ] Necromancy Wizard
+
+#### Sean Paul is known as the king of what genre of music?
+
+- [x] Dancehall
+- [ ] K-pop
+- [ ] Baroque
+
+#### ABBA had their first big break winning which music competition in 1974?
+
+- [ ] The Vocie
+- [ ] The Sing-Off
+- [x] Eurovision
+
+#### "La Vie En Rose" and "Non, je ne regrette rien" were the signature songs of which French chanteuse?
+
+- [ ] Francoise Hardy
+- [x] Edith Piaf
+- [ ] Mirelle Mathieu
+
+#### In 2024, which international pop star introduced us to "Brat Summer"?
+
+- [ ] Mel B
+- [ ] Celine Dion
+- [x] Charli XCX
+
+#### Which of these bands is led by a pair of brothers?
+
+- [ ] The Beatles
+- [x] Oasis
+- [ ] BTS
+
+#### Korean superstar PSY had a huge hit with Gangnam Style. What is the Gangnam he's referencing?
+
+- [x] A district
+- [ ] A clothing brand
+- [ ] A dance club
+
+#### What Canadian band is responsible for both "One Week" and the theme song for "The Big Bang Theory"?
+
+- [ ] Sum 41
+- [ ] Nickelback
+- [x] Barenaked Ladies
+
+#### Phil Collins was the lead singer of which band?
+
+- [x] Genesis
+- [ ] The Guess Who
+- [ ] The Sugarcubes
