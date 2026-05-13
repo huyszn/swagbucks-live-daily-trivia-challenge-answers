@@ -84777,3 +84777,15 @@
 - [x] Genesis
 - [ ] The Guess Who
 - [ ] The Sugarcubes
+
+#### In Ballet, what is the term for spinning while on one foot?
+
+- [x] Pirouette
+- [ ] Pier One
+- [ ] Peer Review
+
+#### What country is home to the real-life Matterhorn?
+
+- [ ] Finland
+- [x] Switzerland
+- [ ] Sweden
