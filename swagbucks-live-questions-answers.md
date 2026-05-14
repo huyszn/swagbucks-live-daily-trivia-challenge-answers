@@ -84789,3 +84789,75 @@
 - [ ] Finland
 - [x] Switzerland
 - [ ] Sweden
+
+#### What was the first children's book to appear on the New York Times Best Sellers list?
+
+- [x] A Light in the Attic
+- [ ] The Giving Tree
+- [ ] Where the Sidewalk Ends
+
+#### In "The Last Jedi", who kills Supreme Leader Snoke?
+
+- [ ] R2D2
+- [ ] C-3PO
+- [x] Kylo Ren
+
+#### Orange Chicken is a staple dish at what fast food chain?
+
+- [x] Panda Express
+- [ ] Burger King
+- [ ] Krispy Kreme
+
+#### Which of these Italian words refers to something being a disaster?
+
+- [ ] Incognito
+- [x] Flasco
+- [ ] Paparazzi
+
+#### Which of the following is NOT the name of a Pokemon?
+
+- [ ] Pikachu
+- [ ] Charizard
+- [x] Megatron
+
+#### Where was the Caesar salad invented?
+
+- [ ] New York, New York
+- [x] Tijuana, Mexico
+- [ ] Rome, Italy
+
+#### Which "Suite Life of Zack and Cody" actor has children with Macaulay Culkin?
+
+- [x] Brenda Song
+- [ ] Kim Rhodes
+- [ ] Ashley French
+
+#### The Orcish language was invented for which video game?
+
+- [ ] God of War
+- [ ] Diablo
+- [x] World of Warcraft
+
+#### Which of the following books of the Bible is from the Old Testament?
+
+- [x] Exodus
+- [ ] John
+- [ ] Matthew
+
+#### Which planet in our Solar System was found to be shaped like a rugby ball?
+
+- [ ] Earth
+- [ ] Neptune
+- [x] Mars
+
+#### What automotive company uses the slogan "Let's go places"?
+
+- [ ] Vespa
+- [x] Toyota
+- [ ] BMW
+
+#### Who played the title character in "New Girl"?
+
+- [x] Zooey Deschanel
+- [ ] Jennifer Aniston
+- [ ] Mary Tyler Moore
