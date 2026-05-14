@@ -84861,3 +84861,15 @@
 - [x] Zooey Deschanel
 - [ ] Jennifer Aniston
 - [ ] Mary Tyler Moore
+
+#### The Basilica de la Sagrada Familia can be found in which city?
+
+- [ ] Detroit
+- [ ] Newport News
+- [x] Barcelona
+
+#### Which Prince song stayed #1 on Billboard's Top 100 the longest?
+
+- [x] When Doves Cry
+- [ ] Little Red Corvette
+- [ ] 1999
