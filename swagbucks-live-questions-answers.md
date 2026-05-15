@@ -60808,12 +60808,6 @@
 - [ ] Andy Sipowicz
 - [ ] John Munch
 
-#### "Frasier" was a spinoff of what other sitcom?
-
-- [ ] Married With Children
-- [x] Cheers
-- [ ] Living Single
-
 #### "Bluey" is produced in which country?
 
 - [ ] The Netherlands
@@ -84873,3 +84867,75 @@
 - [x] When Doves Cry
 - [ ] Little Red Corvette
 - [ ] 1999
+
+#### What word does Netflix use to describe their signature noise?
+
+- [x] Tudum
+- [ ] Bing
+- [ ] Clang
+
+#### What Disney attraction takes you through the Himalayas?
+
+- [ ] Matterhorn
+- [ ] Mayday Falls
+- [x] Expedition Everest
+
+#### What phrase is used to wish theater actors good luck?
+
+- [ ] Go get 'em tiger
+- [x] Break a leg
+- [ ] Macbeth, Macbeth, Macbeth
+
+#### Which condiment maker boasts "57 Varieties" on their labels?
+
+- [ ] Hellmann's
+- [ ] French's
+- [x] Heinz
+
+#### Beijin in the capital of which country?
+
+- [ ] Japan
+- [x] China
+- [ ] Thailand
+
+#### Which vegetable "sings" while growing, making a cracking noise?
+
+- [x] Rhubarb
+- [ ] Broccoli
+- [ ] Rutabaga
+
+#### Ostara is a neo-pagan holiday celebrated during which season's qeuinox?
+
+- [ ] Winter
+- [x] Spring
+- [ ] Summer
+
+#### Where was the original "Frasier" set?
+
+- [ ] Chicago
+- [ ] Denver
+- [x] Seattle
+
+#### In addition to golf, what other sport has been played on the Moon?
+
+- [ ] Football
+- [x] Javelin
+- [ ] Jai Alai
+
+#### In 1386, an animal was tried for murder and subsequently executed. What kind of animal was it?
+
+- [ ] Dog
+- [ ] Horse
+- [x] Pig
+
+#### Which of the following bands was formed on the British TV show "The X-Factor"?
+
+- [ ] The Spice Girls
+- [x] One Direction
+- [ ] Wham!
+
+#### On the game show "Press Your Luck", what were you trying to avoid?
+
+- [x] Whammies
+- [ ] Bankrupt
+- [ ] Skip
