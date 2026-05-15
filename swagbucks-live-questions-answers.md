@@ -84939,3 +84939,27 @@
 - [x] Whammies
 - [ ] Bankrupt
 - [ ] Skip
+
+#### What do you call baby porcupines?
+
+- [ ] Farrows
+- [x] Porcupettes
+- [ ] Pups
+
+#### What candy is served in dispensers with the heads of pop culture figures?
+
+- [x] Pez
+- [ ] Tic Tacos
+- [ ] Rolo
+
+#### Where you most likely hear Baroque Hoedown?
+
+- [ ] Country Bear Jamboree
+- [x] During a parade
+- [ ] Thunder Mountain
+
+#### What is the official currency of the European Union? (REPEATED QUESTION WITH DIFFERENT ANSWER ORDERS)
+
+- [ ] Quid
+- [x] Euro
+- [ ] Peso
