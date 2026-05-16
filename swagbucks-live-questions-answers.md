@@ -84963,3 +84963,9 @@
 - [ ] Quid
 - [x] Euro
 - [ ] Peso
+
+#### Which famous film director was banned from filming in Disneyland by Walt himself?
+
+- [ ] Frank Capra
+- [ ] John Ford
+- [x] Alfred Hitchcock
