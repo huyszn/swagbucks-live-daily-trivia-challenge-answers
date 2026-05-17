@@ -84969,3 +84969,21 @@
 - [ ] Frank Capra
 - [ ] John Ford
 - [x] Alfred Hitchcock
+
+#### What sport is most widely associated with Boxing Day?
+
+- [ ] Boxing
+- [x] Fox hunting
+- [ ] Equestrian
+
+#### Which of the following words is sung in "Grim Grinning Ghosts"?
+
+- [ ] Spooky
+- [ ] Horror
+- [x] Weird
+
+#### If Douglas Adams is right about the answer to life, the universe, and everything, what is the question?
+
+- [x] What is 7x6
+- [ ] What is 9x6
+- [ ] What is 4x8
