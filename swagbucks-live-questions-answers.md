@@ -84987,3 +84987,21 @@
 - [x] What is 7x6
 - [ ] What is 9x6
 - [ ] What is 4x8
+
+#### Which cartoon series puts out a "Treehouse of Horror" episode each Halloween?
+
+- [ ] Family Guy
+- [ ] Phineas and Ferb
+- [x] The Simpsons
+
+#### Which of the following is NOT one of the four states of matter in physics?
+
+- [ ] Plasma
+- [ ] Solid
+- [x] Just chillin'
+
+#### What Jules Verne book is about a race to circumnavigate the globe?
+
+- [ ] 20,000 Leagues Under the Sea
+- [ ] Around the moon
+- [x] Around the World in 80 Days
