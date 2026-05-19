@@ -68506,12 +68506,6 @@
 - [x] Police Academy
 - [ ] Police Academy 6
 
-#### What is the name of Superman's home planet?
-
-- [ ] Mars
-- [ ] Earth
-- [x] Krypton
-
 #### What is Batman's alter ego?
 
 - [ ] Wally West
@@ -85005,3 +84999,63 @@
 - [ ] 20,000 Leagues Under the Sea
 - [ ] Around the moon
 - [x] Around the World in 80 Days
+
+#### Which of these summer movies is set during college?
+
+- [ ] The Fly
+- [ ] The World's End
+- [x] National Lampoon's Animal House
+
+#### In "National Lampoon's Vacation", which theme park are the Griswolds travveling to?
+
+- [x] Walley World
+- [ ] Walt Disney World
+- [ ] Busch Gardens
+
+#### What summer movie is about a bus that will explode if it goes slower than 50 miles per hour?
+
+- [ ] Insomia
+- [x] Speed
+- [ ] Hairspray
+
+#### In "Blade Runner", who or what does Deckard hunt?
+
+- [x] Replicants
+- [ ] Rabbids
+- [ ] Radishes
+
+#### Complete Dr. Octopus quote from "Spider-Man 2": "The power of the Sun..."
+
+- [ ] Is in the fridge right now
+- [x] In the palm of my hand
+- [ ] Gives me the heebie jeebies
+
+#### Where is "Ratatouille" set?
+
+- [ ] Rome
+- [ ] Budapest
+- [x] Paris
+
+#### In 1993's "Dave", who does the main character look identical to?
+
+- [ ] A movie star
+- [x] The President of the United States
+- [ ] A dangerous fugitive
+
+#### What candy do the kids use to lure E.T. out of hiding?
+
+- [ ] M&Ms
+- [ ] Skittles
+- [x] Reese's Pieces
+
+#### In 2009's "Star Trek", which character's home planet was destroyed?
+
+- [x] Spock
+- [ ] Kirk
+- [ ] Uhura
+
+#### What kind of creature terrorizes Amity Island in 1975's "Jaws"?
+
+- [ ] Octopus
+- [ ] Demon
+- [x] Shark
