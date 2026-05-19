@@ -85059,3 +85059,15 @@
 - [ ] Octopus
 - [ ] Demon
 - [x] Shark
+
+#### Miler Lite rans a series of commercials where people debated between "Tastes great" and what?
+
+- [x] Less Filling
+- [ ] Hoppier
+- [ ] The Can is Pretty
+
+#### In 2003, what ailment was added to Operation?
+
+- [ ] Gamer's Wrist
+- [x] Brain Freeze
+- [ ] Rubberneck
