@@ -85131,3 +85131,15 @@
 - [x] Deep-core drillers
 - [ ] Structural engineers
 - [ ] Firefighters
+
+#### Ball State University student Brian Collins' nightmare sports broadcast gave birth to what catchphrase?
+
+- [ ] Home run!
+- [ ] Goooooooooal!
+- [x] Boom Goes The Dynamite
+
+#### The Louis XIII is touted as the world's most expensive pizza: how much does it reportedly cost?
+
+- [ ] $900
+- [x] $12,000
+- [ ] $100,000
