@@ -85071,3 +85071,63 @@
 - [ ] Gamer's Wrist
 - [x] Brain Freeze
 - [ ] Rubberneck
+
+#### Which of the following summer blockbusters does NOT star Will Smith?
+
+- [ ] Men In Black
+- [x] The Day After Tomorrow
+- [ ] Hancock
+
+#### In 1992's "Batman Returns", who does Batman become romantically entangled with?
+
+- [x] Catwoman
+- [ ] Vicki Vale
+- [ ] Posion Ivy
+
+#### Who plays the titular caveman in "Encino Man"?
+
+- [ ] Sean Astin
+- [ ] Pauly Shore
+- [x] Brendan Fraser
+
+#### "Unchained Melody" reappeared on the Billboard charts after its inclusion in what 1990 summer hit?
+
+- [ ] Dick Tracy
+- [x] Ghost
+- [ ] Gremlins 2: The New Batch
+
+#### In "Back to the Future", which rock n' roll legend gets a phone call from his cousin?
+
+- [ ] Elvis Presley
+- [ ] Jerry Lee Lewis
+- [x] Chuck Berry
+
+#### In "The Fugitive", the killer of Dr. Richard Kimble's wife has what unique physical feature?
+
+- [x] One arm
+- [ ] No teeth
+- [ ] A mohawk
+
+#### Which of these Tom Cruise summer movies debut first?
+
+- [ ] Mission: Impossible
+- [ ] Minority Report
+- [x] Risky Business
+
+#### In "The Hangover", where do the guys eventually find Doug?
+
+- [ ] In the lion cage at the zoo
+- [x] On the ceiling of their hotel
+- [ ] At Cirque du Soleil
+
+#### In "The Karate Kid", what maneuver does Daniel LaRusso use to win the All-Valley Karate tournament?
+
+- [ ] Leg Sweep
+- [ ] Tornado Punch
+- [x] Crane Kick
+
+#### In "Armageddon", what kind of people does NASA hire to send to the asteroid?
+
+- [x] Deep-core drillers
+- [ ] Structural engineers
+- [ ] Firefighters
