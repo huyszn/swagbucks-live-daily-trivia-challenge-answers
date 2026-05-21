@@ -85143,3 +85143,99 @@
 - [ ] $900
 - [x] $12,000
 - [ ] $100,000
+
+#### If Big Bird were actually the biggest bird in the world, what breed would he be?
+
+- [ ] King penguin
+- [x] Ostrich
+- [ ] Emu
+
+#### When kids make a model volcano, what powder is traditionally mixed with vingear, water, and dish soap to make it erupt?
+
+- [x] Baking Soda
+- [ ] Dust
+- [ ] Blush
+
+#### What is the world's longest-running musical?
+
+- [ ] The Phantom of the Opera
+- [x] The Fantasticks
+- [ ] Mousetrap
+
+#### Which of these toys has its origin in the U.S. Navy?
+
+- [ ] Tinker toys
+- [ ] Tonka Trucks
+- [x] Slinky
+
+#### Who was originally supposed to both star in and direct "Silence of the Lambs"?
+
+- [ ] Orson Welles
+- [x] Gene Hackman
+- [ ] Marlon Brando
+
+#### How many ounces are in a pound? (REPEATED QUESTION WITH DIFFERENT ANSWER ORDERS)
+
+- [ ] 14
+- [x] 16
+- [ ] 12
+
+#### What 1999 horror smash hit was filmed and marketed as found documentary footage?
+
+- [ ] Friday the 13th
+- [ ] Midsommar
+- [x] The Blair Witch Project
+
+#### Who plays the title role in "Runaway Bride"?
+
+- [ ] Angelina Jolie
+- [x] Julia Roberts
+- [ ] Meryl Streep
+
+#### What Stephen King novel got a blockbuster adaptation in the summer of 2017?
+
+- [x] It
+- [ ] The Langoliers
+- [ ] The Lawnmower Man
+
+#### In 2012's "The Avengers", when Captain America says "I understood that reference", what was referred to?
+
+- [ ] World War II
+- [x] The Wizard of Oz
+- [ ] Swing Music
+
+#### In "Riders of the Lost Ark", where does Indiana Jones find the Ark of the Covenant?
+
+- [ ] Russia
+- [ ] Canada
+- [x] Egypt
+
+#### In "When Harry Met Sally", Rob Reiner's mother delivered which famous line?
+
+- [ ] "Tell me I'll never have to be out here again."
+- [x] "I'll have what she's having"
+- [ ] "You realize of course that we could never be friends."
+
+#### In 2024 "Ride or Die" came out, the fourth installment in which action series?
+
+- [x] Bad Boys
+- [ ] Independence Day
+- [ ] John Wick
+
+#### In 1983's WarGames, Falken and David get the computer to stop nuclear war by making it play what game?
+
+- [ ] Checkers
+- [ ] Poker
+- [x] Tic-Tac-Toe
+
+#### In the summer of 2023, "Oppenheimer" was released on the same day as what other huge hit?
+
+- [ ] Guardians of the Galaxy Vol. 3
+- [x] Barbie
+- [ ] Indiana Jones and the Dial of Destiny
+
+#### Who kills Mufasa in "The Lion King"?
+
+- [ ] Simba
+- [ ] Rafiki
+- [x] Scar
