@@ -85239,3 +85239,63 @@
 - [ ] Simba
 - [ ] Rafiki
 - [x] Scar
+
+#### In "Avengers: Endgame", who snaps Thanos away at the end of the movie?
+
+- [x] Iron Man
+- [ ] The Hulk
+- [ ] Black Widow
+
+#### What is the name of the character who trains Toothless in "How To Train Your Dragon"?
+
+- [ ] Astrid
+- [ ] Gobber
+- [x] Hiccup
+
+#### In "Forrest Gump", what company does Forrest start?
+
+- [ ] Nike
+- [x] Bubba Gump Shrimp
+- [ ] JCPenney
+
+#### In "True Lies", villain Salim Abu Aziz is known by what nickname?
+
+- [ ] The Torch
+- [ ] The Desert Scorpion
+- [x] The Sand Spider
+
+#### In "Bridesmaids", what job is Annie fired from?
+
+- [x] Jewelry sales
+- [ ] Baking
+- [ ] Social work
+
+#### Who played Private Ryan in "Saving Private Ryan"?
+
+- [ ] Ryan Gosling
+- [x] Matt Damon
+- [ ] Joaquin Phoenix
+
+#### In "Jurassic Park" where is the park built?
+
+- [ ] Muir Island
+- [ ] Genosha
+- [x] Isla Nublar
+
+#### Who played the male lead in 1984's "Splash"?
+
+- [x] Tom Hanks
+- [ ] Tom Cruise
+- [ ] Tommy Lee Jones
+
+#### Michael B. Jordan played twins Smoke and Stack in what summer 2025 movie?
+
+- [ ] Jurassic World: Rebirth
+- [ ] Freaker Friday
+- [x] Sinners
+
+#### In the 2012 comedy "Ted", who is Ted?
+
+- [ ] A plumber
+- [x] A talking teddy bear
+- [ ] A sandwich
