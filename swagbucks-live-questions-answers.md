@@ -85299,3 +85299,21 @@
 - [ ] A plumber
 - [x] A talking teddy bear
 - [ ] A sandwich
+
+#### As of July 2023, which of the following professional sports leagues does NOT have a franchise in Las Vegas?
+
+- [ ] NHL
+- [ ] NFL
+- [x] MLB
+
+#### In the original script, what kind of animal did Doc Brown have as a companion?
+
+- [ ] Dog
+- [x] Chimp
+- [ ] Bird
+
+#### Where were the 2018 Winter Olympics held?
+
+- [x] Pyeong Chang
+- [ ] Vancouver
+- [ ] Copenhagen
