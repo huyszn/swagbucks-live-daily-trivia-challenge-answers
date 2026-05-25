@@ -85323,3 +85323,21 @@
 - [ ] Every Mother Counts
 - [ ] MADD
 - [x] Mothers Without Borders
+
+#### Which of the following movies takes place during detention?
+
+- [x] The Breakfast Club
+- [ ] Weird Science
+- [ ] Sixteen Candles
+
+#### A word or name that spells a different word backwards is called a what?
+
+- [ ] Lipogram
+- [x] Semordnilap
+- [ ] Antigram
+
+#### In American Football, how do games begin?
+
+- [x] Kickoff
+- [ ] Punch Off
+- [ ] Toss Off
