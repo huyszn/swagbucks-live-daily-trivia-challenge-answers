@@ -31240,7 +31240,7 @@
 
 - [ ] Jolene
 - [x] Coal Miner's Daughter
-- [ ] Coal of Many Colors
+- [ ] Coat of Many Colors
 
 #### What guitar legend passed away on October 6th, 2020?
 
@@ -85341,3 +85341,27 @@
 - [x] Kickoff
 - [ ] Punch Off
 - [ ] Toss Off
+
+#### Chrissy Teigen is married to which Grammy-winning artist?
+
+- [ ] Common
+- [x] John Legend
+- [ ] Mos Def
+
+#### In the book and PBS series Arthur, what kind of animal is he?
+
+- [ ] Bear
+- [ ] Dog
+- [x] Aardvark
+
+#### Which cartoon bear is always stealing picnic baskets?
+
+- [ ] Hair Bear
+- [x] Yogi Bear
+- [ ] Winnie-the-Pooh
+
+#### Dolly Parton wrote what song about a piece of clothing her mother made for her?
+
+- [ ] Boot Scootin' Boogie
+- [x] Coat of Many Colors
+- [ ] My Woolen Sweater
