@@ -85365,3 +85365,51 @@
 - [ ] Boot Scootin' Boogie
 - [x] Coat of Many Colors
 - [ ] My Woolen Sweater
+
+#### Orville Redenbacher is known for which snack food?
+
+- [ ] Carrots
+- [x] Popcorn
+- [ ] Almonds
+
+#### What cookie brand has a creme filling?
+
+- [ ] Chips Ahoy
+- [ ] E.L. Fudge
+- [x] Oreo
+
+#### "Bet you can't eat just one" is an iconic slogan of which chip brand?
+
+- [ ] Doritos
+- [x] Lay's
+- [ ] Tato Skins
+
+#### In the jingle "Sometimes you feel like a nut, sometimes you don't", what two candy bars are being sold?
+
+- [ ] Snickers and Fifth Avenue
+- [x] Almond Joy and Mounds
+- [ ] Chunky and Skor
+
+#### What is the official chip of the NBA?
+
+- [ ] Doritos
+- [x] Ruffles
+- [ ] Lays
+
+#### Which of these crackers traditionally has a round shape?
+
+- [ ] Premium
+- [ ] Townhouse
+- [x] Ritz
+
+#### "First they're sour. Then they're sweet." is the slogan for which candy brand?
+
+- [x] Sour Patch Kids
+- [ ] Shock Tarts
+- [ ] Gushers
+
+#### Until 2016, what snack brand had prizes in its boxes?
+
+- [ ] Pirate's Booty
+- [ ] Act II
+- [x] Cracker Jack
