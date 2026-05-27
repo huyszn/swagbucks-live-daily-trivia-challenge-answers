@@ -48313,7 +48313,7 @@
 - [ ] Evanston, IL
 - [x] El Paso, TX
 
-#### Christopher Hatham Sholes is known for what invention?
+#### Christopher Latham Sholes is known for what invention?
 
 - [ ] Velcro
 - [x] The QWERTY keyboard
@@ -85413,3 +85413,9 @@
 - [ ] Pirate's Booty
 - [ ] Act II
 - [x] Cracker Jack
+
+#### Complete this quote from "Who Framed Roger Rabbit?": "I'm not bad, I'm..."
+
+- [ ] Having a hard day
+- [x] Just drawn that day
+- [ ] A perfect angel
