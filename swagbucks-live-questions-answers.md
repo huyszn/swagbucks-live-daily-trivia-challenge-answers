@@ -85419,3 +85419,63 @@
 - [ ] Having a hard day
 - [x] Just drawn that day
 - [ ] A perfect angel
+
+#### What fast food chain uses a girl in pigtails in their logo?
+
+- [ ] Panera Bread
+- [x] Wendy's
+- [ ] Pret-A-Manager
+
+#### In Don Quixote, the title character attacks what buildings, mistaking them for giant enemies?
+
+- [x] Windmills
+- [ ] Libraries
+- [ ] Taverns
+
+#### In which reality competition show do contestants exclusively use an internal social network to communicate with each other?
+
+- [ ] The Amazing Race
+- [x] The Circle
+- [ ] Love Island
+
+#### Dynamite can be made from which food?
+
+- [ ] Beef
+- [x] Peanuts
+- [ ] Water
+
+#### In a game of Old Maid, what are you trying to do with the Old Maid card?
+
+- [x] Get rid of it
+- [ ] Hold onto it
+- [ ] Pair it up
+
+#### Which of the following artists was NOT a member of the Traveling Wilburys?
+
+- [ ] Jeff Lynne
+- [ ] Bob Dylan
+- [x] Ringo Starr
+
+#### What kind of school dance involves the girls asking the boys to attend?
+
+- [x] Sadie Hawkins Dance
+- [ ] Square Dance
+- [ ] Sock Hop
+
+#### Germany's Rothenburg ob der Tauber inspired the setting for which Disney animated movie?
+
+- [ ] Beauty and the Beast
+- [x] Pinocchio
+- [ ] Frozen
+
+#### Which President was in office during Operation: Desert Storm?
+
+- [ ] Martin Van Buren
+- [ ] George Washington
+- [x] George HW Bush
+
+#### Which "Star Trek" character has green blood?
+
+- [x] Spock
+- [ ] Kirk
+- [ ] Scotty
