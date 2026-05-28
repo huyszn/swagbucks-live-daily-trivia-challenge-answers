@@ -85479,3 +85479,9 @@
 - [x] Spock
 - [ ] Kirk
 - [ ] Scotty
+
+#### Complete this famous dairy slogan: "Got ____?"
+
+- [ ] Sour Cream
+- [ ] Butter
+- [x] Milk
