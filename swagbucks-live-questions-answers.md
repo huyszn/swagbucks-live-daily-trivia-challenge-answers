@@ -85485,3 +85485,63 @@
 - [ ] Sour Cream
 - [ ] Butter
 - [x] Milk
+
+#### Who was the King of the Greek pantheon of gods?
+
+- [ ] Artemis
+- [ ] Poseidon
+- [x] Zeus
+
+#### Which chocolatier is known for its Creme Eggs?
+
+- [ ] Toblerone
+- [x] Cadbury
+- [ ] Ferrero
+
+#### What country is known as the "Gift of the Nile"?
+
+- [ ] Switzerland
+- [ ] Morocco
+- [x] Egypt
+
+#### A 1985 Masters of the Universe contest was won by a kid who created what character?
+
+- [ ] Pince-or
+- [x] Fearless Photog
+- [ ] Octoblade
+
+#### In 2026, who did LeBron James supass to break the record for regular season NBA games played?
+
+- [ ] Kobe Bryant
+- [ ] Vince Carter
+- [x] Robert Parish
+
+#### Which of the following is NOT one of the "Big Five" Oscar categories?
+
+- [ ] Best Actress
+- [x] Best Animated Short Film
+- [ ] Best Picture
+
+#### In Italy, instead of knocking on wood for luck, people will touch what substance?
+
+- [x] Iron
+- [ ] Velvet
+- [ ] Cheese
+
+#### The shortest war in history was fought between Britain and who?
+
+- [ ] Zaire
+- [x] Zanzibar
+- [ ] New Zealand
+
+#### What was the name of Smokey Robinson's backing group?
+
+- [x] The Miracles
+- [ ] Crazy Horse
+- [ ] The Wailers
+
+#### What do you use to catch Pokemon in video games?
+
+- [ ] Your hands
+- [ ] A Sting Operation
+- [x] Poke Balls
