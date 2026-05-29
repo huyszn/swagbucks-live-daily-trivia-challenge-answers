@@ -85545,3 +85545,15 @@
 - [ ] Your hands
 - [ ] A Sting Operation
 - [x] Poke Balls
+
+#### What style of hat was designed to avoid being dislodged by tree branches?
+
+- [ ] Top hat
+- [x] Bowler
+- [ ] Fedora
+
+#### What is Taylor Swift's middle name?
+
+- [x] Alison
+- [ ] Erica
+- [ ] Jordan
