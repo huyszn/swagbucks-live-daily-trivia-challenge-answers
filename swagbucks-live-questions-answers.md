@@ -85557,3 +85557,21 @@
 - [x] Alison
 - [ ] Erica
 - [ ] Jordan
+
+#### The Liberty are the WNBA franchise in which city?
+
+- [x] New York
+- [ ] Chicago
+- [ ] Phoenix
+
+#### Mageirocophobia is an extreme fear of what?
+
+- [x] Cooking
+- [ ] Magic
+- [ ] Tapestry
+
+#### Kermit is in an on again/off again relationship with which co-worker?
+
+- [ ] Janice
+- [x] Miss Piggy
+- [ ] Camilla
