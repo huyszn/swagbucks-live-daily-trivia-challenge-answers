@@ -85575,3 +85575,9 @@
 - [ ] Janice
 - [x] Miss Piggy
 - [ ] Camilla
+
+#### Samuel Langhorne Clemens is better known by what pen name?
+
+- [x] Mark Twain
+- [ ] O. Henry
+- [ ] Sapphire
