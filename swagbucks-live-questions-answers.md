@@ -85581,3 +85581,27 @@
 - [x] Mark Twain
 - [ ] O. Henry
 - [ ] Sapphire
+
+#### Former big cat owner Joseph Allen Maldonado-Passage is better known by what name?
+
+- [x] Joe Exotic
+- [ ] Joe Cool
+- [ ] Average Joe
+
+#### In Snow White, what does the Evil Queen ask the Magic Mirror?
+
+- [x] Who's the fairest one of all?
+- [ ] Where's the nearest shopping mall?
+- [ ] How you read the new McCall's?
+
+#### What is Silica Gel known as in its crystalized form?
+
+- [x] Quartz
+- [ ] Hematite
+- [ ] Jade
+
+#### Which of these foods is made with raw fish?
+
+- [ ] Bubblegum
+- [ ] Milkshake
+- [x] Poke
