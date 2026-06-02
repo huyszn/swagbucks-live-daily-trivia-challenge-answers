@@ -51835,7 +51835,7 @@
 - [ ] Acela
 - [ ] Shinkansen
 
-#### In "The Scarlet LEtter", who wears the Scarlet Letter?
+#### In "The Scarlet Letter", who wears the Scarlet Letter?
 
 - [ ] Arthur Dimmesdale
 - [x] Heaster Prynne
@@ -67443,12 +67443,6 @@
 - [x] Friday
 - [ ] Stenography
 - [ ] Philistine
-
-#### Complete this William Shakespeare title: "A Midsummer Night's..."
-
-- [ ] Stroll
-- [x] Dream
-- [ ] Picnic
 
 #### The Bordeaux, Burgundy, and Sonoma County regions are well-known for their production of what drink?
 
@@ -85605,3 +85599,15 @@
 - [ ] Bubblegum
 - [ ] Milkshake
 - [x] Poke
+
+#### Which of these landmarks is in Scotland?
+
+- [ ] Stonehenge
+- [ ] Uluru
+- [x] Loch Ness
+
+#### What city would a Sinologist be most interested in studying?
+
+- [x] Beijing
+- [ ] Sapporo
+- [ ] Frankfurt
