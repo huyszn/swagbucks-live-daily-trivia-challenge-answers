@@ -85611,3 +85611,63 @@
 - [x] Beijing
 - [ ] Sapporo
 - [ ] Frankfurt
+
+#### Which of these dishes is traditionally served in a tortilla?
+
+- [ ] Sushi
+- [x] Burito
+- [ ] Pizza
+
+#### Who is the main villain in Super Mario Bros.?
+
+- [x] Bowser
+- [ ] Donkey Kong
+- [ ] Dr. Albert Wily
+
+#### What kind of flag is waved to mark the end of an auto race?
+
+- [x] Checkered
+- [ ] Red
+- [ ] Green
+
+#### What cosmetics brand is owned by Rihanna?
+
+- [ ] Rare Beauty
+- [ ] Kylie Cosmetics
+- [x] Fenty Beauty
+
+#### What country is home to two libraries that use bats to keep insects away from the books?
+
+- [x] Portugal
+- [ ] Italy
+- [ ] Vietnam
+
+#### What rapper had a crossover hit collaborating with Billy Ray Cyrus?
+
+- [ ] Biggie Smalls
+- [x] Lil Nas X
+- [ ] Lil Baby
+
+#### The word "trivia" has its roots in which language?
+
+- [x] Latin
+- [ ] Chinese
+- [ ] Spanish
+
+#### The phrase "A thing of beauty is a joy forever" comes from a poem by which famous writer?
+
+- [ ] William Shakespeare
+- [x] John Keats
+- [ ] Lord Byron
+
+#### Who won the Academy Award for Best Actor for their role in "The Revenant"?
+
+- [ ] Mark Ruffalo
+- [ ] Kevin Costner
+- [x] Leonardo DiCaprio
+
+#### Where would you go to visit Mt. Fuji?
+
+- [ ] Vietnam
+- [x] Japan
+- [ ] France
