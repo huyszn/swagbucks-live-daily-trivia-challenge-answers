@@ -85731,3 +85731,21 @@
 - [ ] Sonnet
 - [x] Haiku
 - [ ] Limerick
+
+#### Which of the following varieties of Campbell's Soup was NOT part of Andy's Warhol's 1962 painting?
+
+- [ ] Black Bean
+- [ ] Chili Beef
+- [x] Cream of Broccoli
+
+#### Which of the following U.S. States has the most shoreline?
+
+- [x] Minnesota
+- [ ] California
+- [ ] Hawaii
+
+#### Which of these rides can only be found at a Disney Park?
+
+- [x] It's A Small World
+- [ ] Ferris Wheel
+- [ ] Bumper Cars
