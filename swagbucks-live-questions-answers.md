@@ -85671,3 +85671,63 @@
 - [ ] Vietnam
 - [x] Japan
 - [ ] France
+
+#### The Hula is a traditional dance in which U.S. State?
+
+- [ ] Colorado
+- [x] Hawaii
+- [ ] Montana
+
+#### The Early Middle Ages in Europe are known by what term?
+
+- [x] The Dark Ages
+- [ ] The Glided Age
+- [ ] The Age of Aquarius
+
+#### What root vegetable is believed to ward off vampires?
+
+- [ ] Carrots
+- [ ] Beets
+- [x] Garlic
+
+#### Applesauce was the first food eaten in space. Who ate it?
+
+- [ ] Gus Grissom
+- [x] John Glenn
+- [ ] Neil Armstrong
+
+#### Before starring in "How I Met Your Mother", Neil Patrick Harris was the lead in what other TV show?
+
+- [ ] General Hpspital
+- [x] Doggie Howser, M.D.
+- [ ] Arrested Development
+
+#### As of March 2026, the most expensive guitar ever sold once belonged to which musician?
+
+- [ ] John Lennon
+- [ ] Jimi Hendrix
+- [x] Dave Gilmour
+
+#### Link is the hero in which video game series?
+
+- [ ] Super Mario Bros
+- [x] Legend of Zelda
+- [ ] Donkey Kong Country
+
+#### Which of the following scientists was rendered nearly deaf during childhood?
+
+- [ ] John Forbes Nash, Jr.
+- [ ] Temple Grandin
+- [x] Thomas Edison
+
+#### Which of the following artists was known for Jazz music?
+
+- [x] Louis Armstrong
+- [ ] Johnny Cash
+- [ ] Bob Marley
+
+#### The 5, 7, 5-syllable form of poetry is known as what?
+
+- [ ] Sonnet
+- [x] Haiku
+- [ ] Limerick
