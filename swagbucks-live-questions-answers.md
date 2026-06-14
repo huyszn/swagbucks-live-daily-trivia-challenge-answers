@@ -85857,3 +85857,15 @@
 - [ ] New York
 - [x] Los Angeles
 - [ ] Denver
+
+#### What fruit do you commonly bob for at Halloween parties?
+
+- [x] Apples
+- [ ] Bananas
+- [ ] Passionfruit
+
+#### In movie ratings, what does PG stand for?
+
+- [x] Parental Guidance
+- [ ] Pizza Gorging
+- [ ] Parrot Golf
