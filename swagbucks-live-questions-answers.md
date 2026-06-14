@@ -85749,3 +85749,111 @@
 - [x] It's A Small World
 - [ ] Ferris Wheel
 - [ ] Bumper Cars
+
+#### Which Game of Thrones character is married to a former Miss Greenland in real life?
+
+- [x] Jamie Lannister
+- [ ] Jaqen H'ghar
+- [ ] Sandor Clegange
+
+#### In "The Empire Strikes Back", who cuts off Luke Skywalker's hand?
+
+- [ ] Yoda
+- [x] Darth Vader
+- [ ] Obi-Wan Kenobi
+
+#### Which of the following 80s bad guys used thermal vision to hunt their prey?
+
+- [x] Predator
+- [ ] Xenomorph
+- [ ] The Joker
+
+#### Detention-bound students Claire, Bunder, Andrew, Brian, and Alison are collectively known by what name?
+
+- [x] The Breakfast Club
+- [ ] The Langoliers
+- [ ] The Wild Bunch
+
+#### The 1985 movie "Legend" had two different scores: one by Jerry Goldsmith, and one by who?
+
+- [x] Queen
+- [ ] Vangelis
+- [ ] Tangerine Dream
+
+#### In "Ferris Bueller's Day Off", who is the Sausage King of Chicago?
+
+- [ ] Garth Volbeck
+- [x] Abe Froman
+- [ ] Ed Rooney
+
+#### How fast does Doc Brown's DeLorean have to go to travel through time?
+
+- [x] 88 mph
+- [ ] 95 mph
+- [ ] 100 mph
+
+#### In "Fast Times at Ridgemont High", what does Spicoli have delivered to the classroom?
+
+- [ ] Chinese Food
+- [ ] Hamburger
+- [x] Pizza
+
+#### In "The Princess Bride", what is the correct order for the people Westley fights?
+
+- [ ] Fezzik, Inigo, Vizzini
+- [x] Inigo, Fezzik, Vizzini
+- [ ] Inigo, Vizzini, Fezzik
+
+#### What is Indiana Jones afraid of?
+
+- [x] Snakes
+- [ ] Tomatoes
+- [ ] Flying
+
+#### What comedian stars in "Caddyshack"?
+
+- [ ] Eddie Murphy
+- [x] Rodney Dangerfield
+- [ ] Joan Rivers
+
+#### Which Game of Thrones character is married to a former Miss Greenland in real life?
+
+- [x] Jaime Lannister
+- [ ] Jaqen H'ghar
+- [ ] Sandor Clegane
+
+#### The man who played Coach Hendricks on "Freaks and Geeks" also played which famous role?
+
+- [ ] Ricky Bobby
+- [ ] Alex the Lion
+- [x] Biff Tannen
+
+#### On what date is Halloween officially celebrated?
+
+- [ ] November 12th
+- [ ] July 4th
+- [x] October 31st
+
+#### In the Olympics, which medal is given for a third place finish?
+
+- [ ] Gold
+- [ ] Silver
+- [x] Bronze
+
+#### What animal was once worshipped as a god by ancient Mayans?
+
+- [ ] Mongoose
+- [x] Turkey
+- [ ] Whale
+
+#### Which of the following is not a Joey Skaggs prank?
+
+- [ ] Cathouse for Dogs
+- [ ] Walk Right!
+- [x] The Masked Marauders
+
+#### USC and UCLA are universities located in what metropolitan area?
+
+- [ ] New York
+- [x] Los Angeles
+- [ ] Denver
