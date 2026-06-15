@@ -85869,3 +85869,9 @@
 - [x] Parental Guidance
 - [ ] Pizza Gorging
 - [ ] Parrot Golf
+
+#### What kind of function is the UK's Trooping the Colour?
+
+- [x] Graduation Ceremony
+- [ ] Birthday Celebration
+- [ ] Day of Mourning
