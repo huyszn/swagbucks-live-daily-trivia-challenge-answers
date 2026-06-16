@@ -85875,3 +85875,81 @@
 - [x] Graduation Ceremony
 - [ ] Birthday Celebration
 - [ ] Day of Mourning
+
+#### In the Beatles song "Taxman", what body part does the title character threaten to tax?
+
+- [ ] Right thumb
+- [ ] Molars
+- [x] Feet
+
+#### What Disney park's Buena Vista Street area is dressed up to look like Los Angeles when Walt first arrived?
+
+- [ ] Tomorrowland
+- [ ] Disneyland Paris
+- [x] Disney California Adventure
+
+#### Complete this common saying: "The shoe is on the other ____"
+
+- [ ] Side of the planet
+- [ ] Line, please hold
+- [x] Foot
+
+#### Which Broadway musical is filled with Jellicles?
+
+- [ ] Sweeney Todd
+- [ ] Sunday in the Park with George
+- [x] Cats
+
+#### The Wright Brothers are associated with the invention of what mode of transportation?
+
+- [ ] Steamship
+- [x] Airplane
+- [ ] Locomotive
+
+#### What is the name of Beyonce's alter ego?
+
+- [ ] Jo Calderone
+- [ ] Chris Gaines
+- [x] Sasha Fierce
+
+#### Heisenberg is the main character's alias on what TV show?
+
+- [x] Breaking Bad
+- [ ] Alias
+- [ ] The Twilight Zone
+
+#### According to their slogan, what breakfast ceral "is for kids"?
+
+- [ ] Cheerios
+- [x] Trix
+- [ ] Frosted Flakes
+
+#### What destroyed the ancient Roman city of Pompeii?
+
+- [ ] An invading army
+- [ ] An earthquake
+- [x] A volcanic eruption
+
+#### In 2009, Google sent its first tweet in binary code. What did the code translate to?
+
+- [ ] Searching for friend
+- [x] I'm feeling lucky
+- [ ] Can anyone see this?
+
+#### Which of the following events is NOT part of a triathlon?
+
+- [x] Archery
+- [ ] Swimming
+- [ ] Running
+
+#### Mark Twain's Huckleberry Finn appears in what other Twain book?
+
+- [ ] The Innocents Abroad
+- [x] The Adventures of Tom Sawyer
+- [ ] Roughing It
+
+#### According to the proverb, "Many hands make" what?
+
+- [x] Light work
+- [ ] A round of applause
+- [ ] A high five
