@@ -85953,3 +85953,15 @@
 - [x] Light work
 - [ ] A round of applause
 - [ ] A high five
+
+#### In "Hungry Hungry Hippos", what are the Hippos eating?
+
+- [ ] Corn
+- [ ] Pancakes
+- [x] Marbles
+
+#### What operating system is commonly used on PCs?
+
+- [ ] iOS
+- [x] Windows
+- [ ] Ubuntu
