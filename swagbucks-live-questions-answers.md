@@ -85965,3 +85965,63 @@
 - [ ] iOS
 - [x] Windows
 - [ ] Ubuntu
+
+#### Which continent is home to the Amazon Rainforest?
+
+- [x] South America
+- [ ] Asia
+- [ ] Antarctica
+
+#### In the 2024 reboot of "Matlock", who plays the title character?
+
+- [ ] Sarah Jessica Parker
+- [ ] Cher
+- [x] Kathy Bates
+
+#### Wembley Stadium, Estadio Azteca, and Maracana are all stadiums known for hosting which sport?
+
+- [x] Soccer
+- [ ] Curling
+- [ ] Archery
+
+#### Which of the following songs was NOT made famous by Neil Diamond?
+
+- [ ] Sweet Caroline
+- [ ] I Am... I Said
+- [x] Enter Sandman
+
+#### What part of the Mona Lisa took Leonardo da Vinci 12 years to paint>
+
+- [ ] Eyes
+- [x] Lips
+- [ ] Hair
+
+#### What insurance brand claims "15 Minutes Could Save You 15%"?
+
+- [ ] Progressive
+- [ ] Allstate
+- [x] GEICO
+
+#### Vegemite spread comes from which country?
+
+- [x] Australia
+- [ ] France
+- [ ] Canada
+
+#### Which of the following is NOT one of the three core values of Olympism?
+
+- [ ] Friendship
+- [x] Competition
+- [ ] Respect
+
+#### Who was the first person to fly solo across the Atlantic ocean?
+
+- [x] Charles Lindbergh
+- [ ] Orville Wright
+- [ ] Amelia Earhart
+
+#### Complete this common saying: "it's time to fish or..."
+
+- [ ] Go swimming
+- [x] Cut bait
+- [ ] Headhome
