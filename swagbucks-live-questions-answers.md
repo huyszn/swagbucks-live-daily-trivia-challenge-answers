@@ -86049,3 +86049,27 @@
 - [ ] Ballers
 - [x] Game of Thrones
 - [ ] Entourage
+
+#### In what year is the movie Wall-E set?
+
+- [ ] 1805
+- [x] 2805
+- [ ] 805
+
+#### By what nickname is wrestler Ric Flair known?
+
+- [x] The Nature Boy
+- [ ] The Rock
+- [ ] Triple H
+
+#### Ken Griffey Junior and Senior were the first MLB father/son combo to do what?
+
+- [x] Hit back-to-back home runs
+- [ ] Turn a double play
+- [ ] Execute a double steal
+
+#### Who played the Man With No Name/Joe/Blondie in "A Fistfull of Dollars" and "The Good, The Bad, and The Ugly"?
+
+- [ ] Steve McQueen
+- [ ] John Wayne
+- [x] Clint Eastwood
