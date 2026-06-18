@@ -86025,3 +86025,27 @@
 - [ ] Go swimming
 - [x] Cut bait
 - [ ] Headhome
+
+#### What is the name of the test to determine whether a computer can convincingly imitate a human?
+
+- [ ] The AI Test
+- [ ] The SKYNET Test
+- [x] The Turing Test
+
+#### What ingredient helps bread dough rise?
+
+- [ ] Oil
+- [ ] Water
+- [x] Yeast
+
+#### According to the saying, what makes the heart grow fonder?
+
+- [x] Absence
+- [ ] Vitamins
+- [ ] Candy
+
+#### George R.R. Martin's book series "A Song of Ice and Fire" was adapted into what HBO show?
+
+- [ ] Ballers
+- [x] Game of Thrones
+- [ ] Entourage
