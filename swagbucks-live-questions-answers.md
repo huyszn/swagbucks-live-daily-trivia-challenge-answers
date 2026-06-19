@@ -74926,7 +74926,7 @@
 - [ ] Phineas and Ferb
 - [x] Zack and Cody
 
-#### What is the name of Goofy's son?
+#### What is the name of Goofy's son? (REPEATED QUESTION WITH DIFFERENT ANSWER ORDERS)
 
 - [x] Max
 - [ ] Mike
@@ -86145,3 +86145,15 @@
 - [ ] Cipher
 - [ ] Morpheus
 - [x] Neo
+
+#### Who is known as "The Man of 1,000 Voices"?
+
+- [x] Mel Blanc
+- [ ] Billy West
+- [ ] Daws Butler
+
+#### In "Gremlins", which of the following is NOT one of the 3 rules of caring for a Mogwai?
+
+- [ ] Don't feed them after midnight
+- [x] Don't let them wear white after Labor Day
+- [ ] Don't get them wet
