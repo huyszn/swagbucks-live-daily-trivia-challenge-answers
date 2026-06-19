@@ -86073,3 +86073,75 @@
 - [ ] Steve McQueen
 - [ ] John Wayne
 - [x] Clint Eastwood
+
+#### What kind of pudding is mentioned in "We Wish You A Merry Christmas"?
+
+- [ ] Tapioca Pudding
+- [ ] Sugar-Free Pudding
+- [x] Figgy Pudding
+
+#### Theodore Rossevelt was a student of which martial art?
+
+- [ ] Karate
+- [ ] Capoeira
+- [x] Jiu Jitsu
+
+#### In which Broadway musical does the main character sing that "The sun'll come out tomorrow"?
+
+- [ ] Sweeney Todd
+- [ ] Hamilton
+- [x] Annie
+
+#### Sprite's slogan commands you to "Obey your" what?
+
+- [x] Thrist
+- [ ] Manager
+- [ ] Soul
+
+#### Mysterious statues with giant heads are famously found in which location?
+
+- [ ] London
+- [ ] The Moon
+- [x] Easter Island
+
+#### The investors of Faygo Pop soft drinks based their original flavors on what other type of food?
+
+- [x] Frosting
+- [ ] Fruit
+- [ ] Ice Cream
+
+#### In 18th century England, what fruit was carried around as a status symbol?
+
+- [ ] Orange
+- [x] Print
+- [ ] Strawberry
+
+#### Which of these mobile games is a matching game?
+
+- [ ] Angry Birds
+- [x] Candy Crush Saga
+- [ ] Doodle Jump
+
+#### In 1983, Nintendo planned to bring the Famicom to the US in a partnership with which competitor?
+
+- [x] Atari
+- [ ] Sega
+- [ ] Sony
+
+#### Which of these reality shows is set in a castle?
+
+- [ ] Fear Factor
+- [x] The Traitors
+- [ ] Hell's Kitchen
+
+#### David Lee Roth was the lead singer of which band?
+
+- [ ] The New Yardbirds
+- [ ] Def Leppard
+- [x] Van Halen
+
+#### In "The Matrix", Keanu Reeves' Thomas Anderson goes by what hacker nickname?
+
+- [ ] Cipher
+- [ ] Morpheus
+- [x] Neo
