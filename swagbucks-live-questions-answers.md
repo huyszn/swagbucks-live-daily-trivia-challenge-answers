@@ -86157,3 +86157,15 @@
 - [ ] Don't feed them after midnight
 - [x] Don't let them wear white after Labor Day
 - [ ] Don't get them wet
+
+#### Which of the following is NOT a position in American Football?
+
+- [ ] Linebacker
+- [ ] Cornerback
+- [x] Hollaback
+
+#### The Broadway ticket lottery was pioneered by what show?
+
+- [x] Rent
+- [ ] Hamilton
+- [ ] Wicked
