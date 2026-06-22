@@ -86169,3 +86169,21 @@
 - [x] Rent
 - [ ] Hamilton
 - [ ] Wicked
+
+#### What boxer referred to himself as "The Greatest of All Time"?
+
+- [x] Muhammad Ali
+- [ ] Evander Holyfield
+- [ ] Mike Tyson
+
+#### In baseball, a "four-bagger" is another term for what?
+
+- [ ] A Double
+- [ ] A Triple
+- [x] A Home Run
+
+#### According to superstition, it's unlucky when what animal crosses your path?
+
+- [x] Black cat
+- [ ] Manatee
+- [ ] Ostrich
