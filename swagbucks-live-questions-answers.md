@@ -86187,3 +86187,33 @@
 - [x] Black cat
 - [ ] Manatee
 - [ ] Ostrich
+
+#### The "Not-Ready-For-Primetime Players" are the cast of what TV show?
+
+- [ ] The Tonight Show
+- [x] Saturday Night Live
+- [ ] Hogan's Heroes
+
+#### What is the only vegetable that contains an alkaloid called capsaicin?
+
+- [ ] Tomatoes
+- [x] Peppers
+- [ ] Lettuce
+
+#### In the book "Charlotte's Web", what kind of creature is Charlotte?
+
+- [ ] Pig
+- [ ] Rat
+- [x] Spider
+
+#### Which DC superhero can communicate with sea creatures?
+
+- [x] Aquaman
+- [ ] Wonder Woman
+- [ ] Robin
+
+#### What popular sitcom ended with one of the characters being abducted by aliens?
+
+- [ ] Family Matters
+- [x] Night Court
+- [ ] Anything But Love
