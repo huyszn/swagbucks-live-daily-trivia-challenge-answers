@@ -86217,3 +86217,75 @@
 - [ ] Family Matters
 - [x] Night Court
 - [ ] Anything But Love
+
+#### Which wrestler played Fezzik in "The Princess Bride"?
+
+- [ ] Roddy Piper
+- [ ] Randy Savage
+- [x] Andre The Giant
+
+#### Don Johnson starred in what 1980's TV show?
+
+- [ ] Family Ties
+- [ ] Hill Street Blues
+- [x] Miami Vice
+
+#### Which fast food chain sells the Shamrock Shake during St. Patrick's Day?
+
+- [ ] Burger King
+- [x] McDonald's
+- [ ] Shake Shack
+
+#### Who wrote the famous poem "O Captain! My Captain!"?
+
+- [x] Walt Whitman
+- [ ] Percy Bysshe Shelley
+- [ ] Robert Frost
+
+#### What 2026 hit movie featured Ryan Gosling as a scientist working with an alien named Rocky?
+
+- [ ] Goat
+- [ ] Send Help
+- [x] Project Hail Mary
+
+#### Which German auto manufacturer uses four rings in their logo?
+
+- [x] Audi
+- [ ] Volkswagen
+- [ ] Porsche
+
+#### "Fallen Kingdom", "Dominion", and "The Lost World" are movie titles from which franchise?
+
+- [ ] The Avengers
+- [ ] Mission: Impossible
+- [x] Jurassic Park
+
+#### What video game series features "fatalities", "animalities", and "friendships"?
+
+- [x] Mortal Kombat
+- [ ] Street Fighter
+- [ ] Pit Fighter
+
+#### What place is known as "The Hidden Continent"?
+
+- [ ] Atlantis
+- [x] Zealandia
+- [ ] The Seychelles
+
+#### Finneas is the brother and collaborator of which singer?
+
+- [ ] Cher
+- [ ] P!nk
+- [x] Billie Eilish
+
+#### F1 is what type of sports league?
+
+- [x] Auto Racing
+- [ ] Pickleball
+- [ ] Cup Stacking
+
+#### The cerebellum and cerebrum are both parts of which organ?
+
+- [ ] Heart
+- [x] Brain
+- [ ] Lungs
