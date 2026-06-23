@@ -50797,7 +50797,7 @@
 - [ ] 10
 - [ ] 11
 
-#### Which of these NFL team always plays a game on Thanksgiving Day?
+#### Which of these NFL teams always plays a game on Thanksgiving Day?
 
 - [x] Detroit Lions
 - [ ] Tampa Bay Buccaneers
@@ -86289,3 +86289,15 @@
 - [ ] Heart
 - [x] Brain
 - [ ] Lungs
+
+#### In "Goldilocks and the 3 Bears", which bear's bed, porridge, and chair is just right?
+
+- [ ] Papa Bear
+- [ ] Mama Bear
+- [x] Baby Bear
+
+#### What kind of sweaters are popular during the holidays?
+
+- [x] Ugly Sweaters
+- [ ] College Sweaters
+- [ ] Cartoon Sweaters
