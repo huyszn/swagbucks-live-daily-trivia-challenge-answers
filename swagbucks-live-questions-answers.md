@@ -86301,3 +86301,69 @@
 - [x] Ugly Sweaters
 - [ ] College Sweaters
 - [ ] Cartoon Sweaters
+
+#### What accounting firm does Ben repeatedly work for and quit?
+
+- [ ] Razowsky and Schwabe
+- [x] Tilton and Radomski
+- [ ] Kaplosky and Brown
+
+#### Buddhism was founded in which country?
+
+- [x] India
+- [ ] Mexico
+- [ ] Canada
+
+#### Which fast food chain is home to the Frosty?
+
+- [ ] Burger King
+- [ ] Whataburger
+- [x] Wendy's
+
+#### Which of the following US States is mostly a peninsula?
+
+- [ ] California
+- [x] Florida
+- [ ] Utah
+
+#### Who was the leader of the Soviet Union during the Cuban Missile Crisis?
+
+- [x] Nikita Khrushchev
+- [ ] John F. Kennedy
+- [ ] Charles de Gaulle
+
+#### In which State is the Summer Solstice celebrated annually with a midnight baseball game?
+
+- [ ] Iowa
+- [ ] Massachusetts
+- [x] Alaska
+
+#### Complete this Walt Disney quote: "If you can dream it..."
+
+- [x] You can do it
+- [ ] You can have dinner
+- [ ] You're getting a Dell
+
+#### Who is the monster in Sesame Street's "The Monster At The End of This Book"?
+
+- [ ] The Mummy
+- [x] Grover
+- [ ] Count Dracula
+
+#### Which of the following TV shows did NOT feature an appearance by Detective John Munch from "Homicide"?
+
+- [ ] Arrested Development
+- [ ] The X-Files
+- [x] E.R.
+
+#### Who had a breakthrough hit with "I Kissed A Girl?"
+
+- [x] Katy Perry
+- [ ] Adele
+- [ ] Lady Gaga
+
+#### At the turn of the century, what computer bug did people fear would cause massive failures in worldwide computer systems?
+
+- [ ] Flu
+- [x] Y2K bug
+- [ ] Microchip bug
