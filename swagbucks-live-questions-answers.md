@@ -86367,3 +86367,15 @@
 - [ ] Flu
 - [x] Y2K bug
 - [ ] Microchip bug
+
+#### Christian Bale, Adam West, and Ben Affleck have all played what superhero?
+
+- [ ] Aquaman
+- [ ] Superman
+- [x] Batman
+
+#### What company uses the slogan "When you care enough to send the very best"?
+
+- [ ] Hostess
+- [ ] The Home Depot
+- [x] Hallmark
