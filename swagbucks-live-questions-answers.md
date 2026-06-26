@@ -86553,3 +86553,9 @@
 - [ ] Hockey
 - [ ] Long Jump
 - [x] Auto racing
+
+#### Honolulu is the capital of which U.S. State?
+
+- [ ] Alaska
+- [ ] Missouri
+- [x] Hawaii
