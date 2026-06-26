@@ -86379,3 +86379,135 @@
 - [ ] Hostess
 - [ ] The Home Depot
 - [x] Hallmark
+
+#### In golf, what is the term for finishing a hole one stroke over par?
+
+- [ ] Eagle
+- [ ] Ace
+- [x] Bogey
+
+#### The youngest Jonas brother Frankie is known by what nickname?
+
+- [x] Bonus Jonas
+- [ ] The Spare
+- [ ] Li'l Jonie
+
+#### At which high school event do you traditionally wear a mortarboard?
+
+- [ ] Homecoming parade
+- [ ] Prom
+- [x] Graduation
+
+#### How long did it take Erno Rubik to solve the original Rubik's Cube?
+
+- [ ] One Hour
+- [x] One Month
+- [ ] One Year
+
+#### The Game Boy, Virtual Boy, and Power Pad were all products put out by which game company?
+
+- [ ] Electronic Arts
+- [ ] Sega
+- [x] Nintendo
+
+#### A phenomenon known as Hector the Convector occurs every day at 3pm from September through March. What is it?
+
+- [x] Cloud
+- [ ] Geyser
+- [ ] Earthquake
+
+#### Costco offers what food item (with a soda) for just $1.50?
+
+- [ ] Chicken Bake
+- [ ] Double Chocolate Chunk Cookie
+- [x] Hot Dog
+
+#### Instead of "Cheese", what word did Victorians say when having their picture taken?
+
+- [ ] Freeze
+- [x] Prunes
+- [ ] Gray
+
+#### Which of the following words is a synonym for fun?
+
+- [x] Enjoyable
+- [ ] Detestable
+- [ ] Rancid
+
+#### Which of the following is a Dr. Seuss book?
+
+- [ ] The Dog in London Fog
+- [x] The Cat in the Hat
+- [ ] The Snake on the Take
+
+#### The Dalai Lama is the spiritual leader of which religion?
+
+- [ ] Catholicism
+- [ ] Judaism
+- [x] Tibetan Buddhism
+
+#### What ceral is known as "The Breakfast of Champions"?
+
+- [x] Wheaties
+- [ ] Life
+- [ ] Cheerios
+
+#### Which of the following islands is NOT part of Hawaii?
+
+- [ ] Oahu
+- [ ] Maui
+- [x] Tahiti
+
+#### Fred DeLuca co-founded which fast food chain?
+
+- [ ] Dairy Queen
+- [x] Subway
+- [ ] Raising Cane's
+
+#### What country's Prime Minister disappeared while swimming in 1967?
+
+- [ ] Canada
+- [ ] India
+- [x] Australia
+
+#### Which of the following is a prime number?
+
+- [ ] 12
+- [x] 11
+- [ ] 10
+
+#### When "Magic: The Gathering" launched in 1993, how many cards were in a standard deck?
+
+- [x] 40
+- [ ] 60
+- [ ] 100
+
+#### Which NBA Hall of Famer never fouled out of a game?
+
+- [ ] Magic Johnson
+- [x] Wilt Chamberlain
+- [ ] John Havlicek
+
+#### The Konami Code first appeared on what video game console?
+
+- [x] NES
+- [ ] Switch 2
+- [ ] PlayStation 5
+
+#### Bryan Cranston won multiple Emmys starring on which TV show?
+
+- [ ] Malcolm in the Middle
+- [ ] Robot Chicken
+- [x] Breaking Bad
+
+#### What song plays over the film logo for Disney Pictures?
+
+- [x] When You Wish Upon A Star
+- [ ] Feed The Birds
+- [ ] Candle on the Water
+
+#### Pikachu, Squirtle, and Charizard are all characters from which video game series?
+
+- [ ] Grand Theft Auto
+- [x] Pokemon
+- [ ] Madden NFL
