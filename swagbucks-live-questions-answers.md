@@ -86509,5 +86509,47 @@
 #### Pikachu, Squirtle, and Charizard are all characters from which video game series?
 
 - [ ] Grand Theft Auto
-- [x] Pokemon
+- [x] Pokémon
 - [ ] Madden NFL
+
+#### What was the first movie of the Marvel Cinematic Universe?
+
+- [ ] Avengers: Endgame
+- [x] Iron Man
+- [ ] Captain America: Civil War
+
+#### Taco Bell's slogan encourages you to think outside the what?
+
+- [x] Bun
+- [ ] House
+- [ ] Lane
+
+#### Who starred in the 1997 version of the "This is Your Brain on Drugs" commercial?
+
+- [ ] Angelina Jolie
+- [ ] Jennifer Love Hewitt
+- [x] Rachael Leigh Cook
+
+#### If you're wearing the yellow jersey during the Tour de France, what does it signify?
+
+- [x] You lead the general classification
+- [ ] You're a coward
+- [ ] You're in last place
+
+#### Which of these words is not part of the FBI's motto?
+
+- [x] Justice
+- [ ] Integrity
+- [ ] Bravery
+
+#### In 1987, which of these came in 2nd when fans picked the name of the Charlotte Hornet franchise?
+
+- [x] Knights
+- [ ] Cougars
+- [ ] Crowns
+
+#### Which of the following sports uses a checkered flag?
+
+- [ ] Hockey
+- [ ] Long Jump
+- [x] Auto racing
