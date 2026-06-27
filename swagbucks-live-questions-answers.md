@@ -86559,3 +86559,15 @@
 - [ ] Alaska
 - [ ] Missouri
 - [x] Hawaii
+
+#### What candy was inspired by aliens?
+
+- [x] Sour Patch Kids
+- [ ] Shock Tarts
+- [ ] Reese's Pieces
+
+#### Six Flags is a company that owns and operates a chain of what?
+
+- [ ] Oil Wells
+- [x] Amusement Parks
+- [ ] Banana stands
