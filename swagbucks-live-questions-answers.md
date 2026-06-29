@@ -86566,8 +86566,51 @@
 - [ ] Shock Tarts
 - [ ] Reese's Pieces
 
+
 #### Six Flags is a company that owns and operates a chain of what?
 
 - [ ] Oil Wells
 - [x] Amusement Parks
 - [ ] Banana stands
+
+#### Which famous dog from children's books is big and red?
+
+- [ ] Snoopy
+- [ ] Garfield
+- [x] Clifford
+
+#### In their films, how are both Snow White and Sleeping Beauty woken up?
+
+- [ ] CPR
+- [x] A kiss
+- [ ] An alarm clock
+
+#### In 2019, what band was reported as having produced $4.65 billion in GDP to South Korea?
+
+- [ ] The Beatles
+- [x] BTS
+- [ ] Bad Company
+
+#### Aurora Borealis is also known by what name?
+
+- [x] Northern Lights
+- [ ] Western Lights
+- [ ] Southeastern Lights
+
+#### On the pH scale, what is the opposite of an acid?
+
+- [x] A base
+- [ ] A metal
+- [ ] A conductor
+
+#### What does the "HMV" in the UK's HMV chain of record stores stand for?
+
+- [x] His Master's Voice
+- [ ] Her Majesty's Voice
+- [ ] Harrods Music Venture
+
+#### What is the name of the main female Smurf?
+
+- [x] Smurfette
+- [ ] Smurfine
+- [ ] Smurfa
