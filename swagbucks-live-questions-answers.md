@@ -86692,3 +86692,21 @@
 - [ ] Happy
 - [x] Unsettled
 - [ ] Tired
+
+#### Which network is the home of Saturday Night Live?
+
+- [ ] ABC
+- [ ] CBS
+- [x] NBC
+
+#### When someone is like their parent, they're said to be a chip off the ol' what?
+
+- [x] Block
+- [ ] Tree
+- [ ] Board
+
+#### At the end of the Act I of "Phantom of the Opera", what comes crashing down onto the stage?
+
+- [x] A chandelier
+- [ ] A rock
+- [ ] A boat
