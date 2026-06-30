@@ -86614,3 +86614,81 @@
 - [x] Smurfette
 - [ ] Smurfine
 - [ ] Smurfa
+
+#### Where would you go to attend America's oldest Scrapple festival?
+
+- [ ] Philadelphia, PA
+- [ ] Camden, NJ
+- [x] Bridgeville, DE
+
+#### Which Marvel hero is portrayed by Chris Hemsworth?
+
+- [x] Thor
+- [ ] Captain America
+- [ ] Star Lord
+
+#### Which country's Mother's day honors a group of fighting mothers?
+
+- [ ] Thailand
+- [x] Bolvia
+- [ ] Israel
+
+#### What musical is about the 1924 murder trial of Roxie Hart?
+
+- [x] Chicago
+- [ ] Phantom of the Opera
+- [ ] Avenue Q
+
+#### In "Tag", what title is given to the person trying to tag people?
+
+- [ ] "That"
+- [x] "It"
+- [ ] "What"
+
+#### In 1997, Jada Pinkett married which actor?
+
+- [ ] Eric Andre
+- [ ] Shemar Moore
+- [x] Will Smith
+
+#### What shape are standard Doritos?
+
+- [x] Triangle
+- [ ] Rhombus
+- [ ] Circle
+
+#### Vans skates shoes sponsored which music festival from 1995-2019?
+
+- [ ] Bonnaroo
+- [ ] Ozzfest
+- [x] Warped Tour
+
+#### Who is Curious George's caretaker?
+
+- [x] The Man in the Yellow Hat
+- [ ] The Woman in the Green Blazer
+- [ ] The Man in the Purple Scarf
+
+#### In their first movie, where are Harold & Kumar trying to go to?
+
+- [ ] Guantanamo Bay
+- [x] White Castle
+- [ ] Times Square
+
+#### Polythelia refers to your body having extra what?
+
+- [ ] Toes
+- [x] Nipples
+- [ ] Chins
+
+#### What does Taylor Swift consider to be her lucky number?
+
+- [ ] 999
+- [ ] 5,000,000
+- [x] 13
+
+#### If you're perturbed, how are you feeling?
+
+- [ ] Happy
+- [x] Unsettled
+- [ ] Tired
