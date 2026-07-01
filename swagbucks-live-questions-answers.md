@@ -86710,3 +86710,63 @@
 - [x] A chandelier
 - [ ] A rock
 - [ ] A boat
+
+#### Citizens of which country are known as "kiwis"?
+
+- [ ] Austria
+- [x] New Zealand
+- [ ] France
+
+#### What part of your body contains the femur?
+
+- [x] Leg
+- [ ] Arm
+- [ ] Head
+
+#### What do you use to deglaze a pan while cooking?
+
+- [ ] Wax
+- [ ] Paper
+- [x] Liquid
+
+#### Which Disney film features the song "Circle of Life"?
+
+- [ ] Aladdin
+- [x] The Lion King
+- [ ] The Little Mermaid
+
+#### According to Paul Simon's song, how many ways are there to leave your lover?
+
+- [x] 50
+- [ ] 99
+- [ ] 1,000
+
+#### Which of the following books of the bible is in the Old Testament?
+
+- [ ] Matthew
+- [ ] 1 Corinthians
+- [x] Genesis
+
+#### In which board game do you declare "king me"?
+
+- [ ] Settlers of Catan
+- [x] Checkers
+- [ ] Trouble
+
+#### What was the name of the first-ever video game?
+
+- [ ] Space Attack
+- [ ] Football
+- [x] Tennis for Two
+
+#### On which game show would you play Plinko?
+
+- [x] The Price is Right
+- [ ] Jeopardy!
+- [ ] Wheel of Fortune
+
+#### What is the term for an overtime period where the first score wins the game?
+
+- [ ] Red Card
+- [ ] Three Peat
+- [x] Sudden Death
