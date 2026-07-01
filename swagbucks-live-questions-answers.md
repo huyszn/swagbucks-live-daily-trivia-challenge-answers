@@ -86770,3 +86770,27 @@
 - [ ] Red Card
 - [ ] Three Peat
 - [x] Sudden Death
+
+#### What violent fighting game first hit arcades in 1992?
+
+- [ ] Tekken
+- [x] Mortal Kombat
+- [ ] Pit Fighter
+
+#### Which of the following would you use to describe something from a first-person perspective?
+
+- [ ] They
+- [ ] You
+- [x] I
+
+#### Which mascot's catchphrase is "Only YOU can prevent forest fires"?
+
+- [ ] Woodsy the Owl
+- [ ] McGruff the Crime Dog
+- [x] Smokey the Bear
+
+#### What creature is nearly undetectable by infrared cameras?
+
+- [ ] Penguins
+- [x] Polar Bears
+- [ ] Salmon
