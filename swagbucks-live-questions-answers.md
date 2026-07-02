@@ -50797,7 +50797,7 @@
 - [ ] 10
 - [ ] 11
 
-#### Which of these NFL team always plays a game on Thanksgiving Day?
+#### Which of these NFL teams always plays a game on Thanksgiving Day?
 
 - [x] Detroit Lions
 - [ ] Tampa Bay Buccaneers
@@ -86169,3 +86169,688 @@
 - [x] Rent
 - [ ] Hamilton
 - [ ] Wicked
+
+#### What boxer referred to himself as "The Greatest of All Time"?
+
+- [x] Muhammad Ali
+- [ ] Evander Holyfield
+- [ ] Mike Tyson
+
+#### In baseball, a "four-bagger" is another term for what?
+
+- [ ] A Double
+- [ ] A Triple
+- [x] A Home Run
+
+#### According to superstition, it's unlucky when what animal crosses your path?
+
+- [x] Black cat
+- [ ] Manatee
+- [ ] Ostrich
+
+#### The "Not-Ready-For-Primetime Players" are the cast of what TV show?
+
+- [ ] The Tonight Show
+- [x] Saturday Night Live
+- [ ] Hogan's Heroes
+
+#### What is the only vegetable that contains an alkaloid called capsaicin?
+
+- [ ] Tomatoes
+- [x] Peppers
+- [ ] Lettuce
+
+#### In the book "Charlotte's Web", what kind of creature is Charlotte?
+
+- [ ] Pig
+- [ ] Rat
+- [x] Spider
+
+#### Which DC superhero can communicate with sea creatures?
+
+- [x] Aquaman
+- [ ] Wonder Woman
+- [ ] Robin
+
+#### What popular sitcom ended with one of the characters being abducted by aliens?
+
+- [ ] Family Matters
+- [x] Night Court
+- [ ] Anything But Love
+
+#### Which wrestler played Fezzik in "The Princess Bride"?
+
+- [ ] Roddy Piper
+- [ ] Randy Savage
+- [x] Andre The Giant
+
+#### Don Johnson starred in what 1980's TV show?
+
+- [ ] Family Ties
+- [ ] Hill Street Blues
+- [x] Miami Vice
+
+#### Which fast food chain sells the Shamrock Shake during St. Patrick's Day?
+
+- [ ] Burger King
+- [x] McDonald's
+- [ ] Shake Shack
+
+#### Who wrote the famous poem "O Captain! My Captain!"?
+
+- [x] Walt Whitman
+- [ ] Percy Bysshe Shelley
+- [ ] Robert Frost
+
+#### What 2026 hit movie featured Ryan Gosling as a scientist working with an alien named Rocky?
+
+- [ ] Goat
+- [ ] Send Help
+- [x] Project Hail Mary
+
+#### Which German auto manufacturer uses four rings in their logo?
+
+- [x] Audi
+- [ ] Volkswagen
+- [ ] Porsche
+
+#### "Fallen Kingdom", "Dominion", and "The Lost World" are movie titles from which franchise?
+
+- [ ] The Avengers
+- [ ] Mission: Impossible
+- [x] Jurassic Park
+
+#### What video game series features "fatalities", "animalities", and "friendships"?
+
+- [x] Mortal Kombat
+- [ ] Street Fighter
+- [ ] Pit Fighter
+
+#### What place is known as "The Hidden Continent"?
+
+- [ ] Atlantis
+- [x] Zealandia
+- [ ] The Seychelles
+
+#### Finneas is the brother and collaborator of which singer?
+
+- [ ] Cher
+- [ ] P!nk
+- [x] Billie Eilish
+
+#### F1 is what type of sports league?
+
+- [x] Auto Racing
+- [ ] Pickleball
+- [ ] Cup Stacking
+
+#### The cerebellum and cerebrum are both parts of which organ?
+
+- [ ] Heart
+- [x] Brain
+- [ ] Lungs
+
+#### In "Goldilocks and the 3 Bears", which bear's bed, porridge, and chair is just right?
+
+- [ ] Papa Bear
+- [ ] Mama Bear
+- [x] Baby Bear
+
+#### What kind of sweaters are popular during the holidays?
+
+- [x] Ugly Sweaters
+- [ ] College Sweaters
+- [ ] Cartoon Sweaters
+
+#### What accounting firm does Ben repeatedly work for and quit?
+
+- [ ] Razowsky and Schwabe
+- [x] Tilton and Radomski
+- [ ] Kaplosky and Brown
+
+#### Buddhism was founded in which country?
+
+- [x] India
+- [ ] Mexico
+- [ ] Canada
+
+#### Which fast food chain is home to the Frosty?
+
+- [ ] Burger King
+- [ ] Whataburger
+- [x] Wendy's
+
+#### Which of the following US States is mostly a peninsula?
+
+- [ ] California
+- [x] Florida
+- [ ] Utah
+
+#### Who was the leader of the Soviet Union during the Cuban Missile Crisis?
+
+- [x] Nikita Khrushchev
+- [ ] John F. Kennedy
+- [ ] Charles de Gaulle
+
+#### In which State is the Summer Solstice celebrated annually with a midnight baseball game?
+
+- [ ] Iowa
+- [ ] Massachusetts
+- [x] Alaska
+
+#### Complete this Walt Disney quote: "If you can dream it..."
+
+- [x] You can do it
+- [ ] You can have dinner
+- [ ] You're getting a Dell
+
+#### Who is the monster in Sesame Street's "The Monster At The End of This Book"?
+
+- [ ] The Mummy
+- [x] Grover
+- [ ] Count Dracula
+
+#### Which of the following TV shows did NOT feature an appearance by Detective John Munch from "Homicide"?
+
+- [ ] Arrested Development
+- [ ] The X-Files
+- [x] E.R.
+
+#### Who had a breakthrough hit with "I Kissed A Girl?"
+
+- [x] Katy Perry
+- [ ] Adele
+- [ ] Lady Gaga
+
+#### At the turn of the century, what computer bug did people fear would cause massive failures in worldwide computer systems?
+
+- [ ] Flu
+- [x] Y2K bug
+- [ ] Microchip bug
+
+#### Christian Bale, Adam West, and Ben Affleck have all played what superhero?
+
+- [ ] Aquaman
+- [ ] Superman
+- [x] Batman
+
+#### What company uses the slogan "When you care enough to send the very best"?
+
+- [ ] Hostess
+- [ ] The Home Depot
+- [x] Hallmark
+
+#### In golf, what is the term for finishing a hole one stroke over par?
+
+- [ ] Eagle
+- [ ] Ace
+- [x] Bogey
+
+#### The youngest Jonas brother Frankie is known by what nickname?
+
+- [x] Bonus Jonas
+- [ ] The Spare
+- [ ] Li'l Jonie
+
+#### At which high school event do you traditionally wear a mortarboard?
+
+- [ ] Homecoming parade
+- [ ] Prom
+- [x] Graduation
+
+#### How long did it take Erno Rubik to solve the original Rubik's Cube?
+
+- [ ] One Hour
+- [x] One Month
+- [ ] One Year
+
+#### The Game Boy, Virtual Boy, and Power Pad were all products put out by which game company?
+
+- [ ] Electronic Arts
+- [ ] Sega
+- [x] Nintendo
+
+#### A phenomenon known as Hector the Convector occurs every day at 3pm from September through March. What is it?
+
+- [x] Cloud
+- [ ] Geyser
+- [ ] Earthquake
+
+#### Costco offers what food item (with a soda) for just $1.50?
+
+- [ ] Chicken Bake
+- [ ] Double Chocolate Chunk Cookie
+- [x] Hot Dog
+
+#### Instead of "Cheese", what word did Victorians say when having their picture taken?
+
+- [ ] Freeze
+- [x] Prunes
+- [ ] Gray
+
+#### Which of the following words is a synonym for fun?
+
+- [x] Enjoyable
+- [ ] Detestable
+- [ ] Rancid
+
+#### Which of the following is a Dr. Seuss book?
+
+- [ ] The Dog in London Fog
+- [x] The Cat in the Hat
+- [ ] The Snake on the Take
+
+#### The Dalai Lama is the spiritual leader of which religion?
+
+- [ ] Catholicism
+- [ ] Judaism
+- [x] Tibetan Buddhism
+
+#### What ceral is known as "The Breakfast of Champions"?
+
+- [x] Wheaties
+- [ ] Life
+- [ ] Cheerios
+
+#### Which of the following islands is NOT part of Hawaii?
+
+- [ ] Oahu
+- [ ] Maui
+- [x] Tahiti
+
+#### Fred DeLuca co-founded which fast food chain?
+
+- [ ] Dairy Queen
+- [x] Subway
+- [ ] Raising Cane's
+
+#### What country's Prime Minister disappeared while swimming in 1967?
+
+- [ ] Canada
+- [ ] India
+- [x] Australia
+
+#### Which of the following is a prime number?
+
+- [ ] 12
+- [x] 11
+- [ ] 10
+
+#### When "Magic: The Gathering" launched in 1993, how many cards were in a standard deck?
+
+- [x] 40
+- [ ] 60
+- [ ] 100
+
+#### Which NBA Hall of Famer never fouled out of a game?
+
+- [ ] Magic Johnson
+- [x] Wilt Chamberlain
+- [ ] John Havlicek
+
+#### The Konami Code first appeared on what video game console?
+
+- [x] NES
+- [ ] Switch 2
+- [ ] PlayStation 5
+
+#### Bryan Cranston won multiple Emmys starring on which TV show?
+
+- [ ] Malcolm in the Middle
+- [ ] Robot Chicken
+- [x] Breaking Bad
+
+#### What song plays over the film logo for Disney Pictures?
+
+- [x] When You Wish Upon A Star
+- [ ] Feed The Birds
+- [ ] Candle on the Water
+
+#### Pikachu, Squirtle, and Charizard are all characters from which video game series?
+
+- [ ] Grand Theft Auto
+- [x] Pokémon
+- [ ] Madden NFL
+
+#### What was the first movie of the Marvel Cinematic Universe?
+
+- [ ] Avengers: Endgame
+- [x] Iron Man
+- [ ] Captain America: Civil War
+
+#### Taco Bell's slogan encourages you to think outside the what?
+
+- [x] Bun
+- [ ] House
+- [ ] Lane
+
+#### Who starred in the 1997 version of the "This is Your Brain on Drugs" commercial?
+
+- [ ] Angelina Jolie
+- [ ] Jennifer Love Hewitt
+- [x] Rachael Leigh Cook
+
+#### If you're wearing the yellow jersey during the Tour de France, what does it signify?
+
+- [x] You lead the general classification
+- [ ] You're a coward
+- [ ] You're in last place
+
+#### Which of these words is not part of the FBI's motto?
+
+- [x] Justice
+- [ ] Integrity
+- [ ] Bravery
+
+#### In 1987, which of these came in 2nd when fans picked the name of the Charlotte Hornet franchise?
+
+- [x] Knights
+- [ ] Cougars
+- [ ] Crowns
+
+#### Which of the following sports uses a checkered flag?
+
+- [ ] Hockey
+- [ ] Long Jump
+- [x] Auto racing
+
+#### Honolulu is the capital of which U.S. State?
+
+- [ ] Alaska
+- [ ] Missouri
+- [x] Hawaii
+
+#### What candy was inspired by aliens?
+
+- [x] Sour Patch Kids
+- [ ] Shock Tarts
+- [ ] Reese's Pieces
+
+
+#### Six Flags is a company that owns and operates a chain of what?
+
+- [ ] Oil Wells
+- [x] Amusement Parks
+- [ ] Banana stands
+
+#### Which famous dog from children's books is big and red?
+
+- [ ] Snoopy
+- [ ] Garfield
+- [x] Clifford
+
+#### In their films, how are both Snow White and Sleeping Beauty woken up?
+
+- [ ] CPR
+- [x] A kiss
+- [ ] An alarm clock
+
+#### In 2019, what band was reported as having produced $4.65 billion in GDP to South Korea?
+
+- [ ] The Beatles
+- [x] BTS
+- [ ] Bad Company
+
+#### Aurora Borealis is also known by what name?
+
+- [x] Northern Lights
+- [ ] Western Lights
+- [ ] Southeastern Lights
+
+#### On the pH scale, what is the opposite of an acid?
+
+- [x] A base
+- [ ] A metal
+- [ ] A conductor
+
+#### What does the "HMV" in the UK's HMV chain of record stores stand for?
+
+- [x] His Master's Voice
+- [ ] Her Majesty's Voice
+- [ ] Harrods Music Venture
+
+#### What is the name of the main female Smurf?
+
+- [x] Smurfette
+- [ ] Smurfine
+- [ ] Smurfa
+
+#### Where would you go to attend America's oldest Scrapple festival?
+
+- [ ] Philadelphia, PA
+- [ ] Camden, NJ
+- [x] Bridgeville, DE
+
+#### Which Marvel hero is portrayed by Chris Hemsworth?
+
+- [x] Thor
+- [ ] Captain America
+- [ ] Star Lord
+
+#### Which country's Mother's day honors a group of fighting mothers?
+
+- [ ] Thailand
+- [x] Bolvia
+- [ ] Israel
+
+#### What musical is about the 1924 murder trial of Roxie Hart?
+
+- [x] Chicago
+- [ ] Phantom of the Opera
+- [ ] Avenue Q
+
+#### In "Tag", what title is given to the person trying to tag people?
+
+- [ ] "That"
+- [x] "It"
+- [ ] "What"
+
+#### In 1997, Jada Pinkett married which actor?
+
+- [ ] Eric Andre
+- [ ] Shemar Moore
+- [x] Will Smith
+
+#### What shape are standard Doritos?
+
+- [x] Triangle
+- [ ] Rhombus
+- [ ] Circle
+
+#### Vans skates shoes sponsored which music festival from 1995-2019?
+
+- [ ] Bonnaroo
+- [ ] Ozzfest
+- [x] Warped Tour
+
+#### Who is Curious George's caretaker?
+
+- [x] The Man in the Yellow Hat
+- [ ] The Woman in the Green Blazer
+- [ ] The Man in the Purple Scarf
+
+#### In their first movie, where are Harold & Kumar trying to go to?
+
+- [ ] Guantanamo Bay
+- [x] White Castle
+- [ ] Times Square
+
+#### Polythelia refers to your body having extra what?
+
+- [ ] Toes
+- [x] Nipples
+- [ ] Chins
+
+#### What does Taylor Swift consider to be her lucky number?
+
+- [ ] 999
+- [ ] 5,000,000
+- [x] 13
+
+#### If you're perturbed, how are you feeling?
+
+- [ ] Happy
+- [x] Unsettled
+- [ ] Tired
+
+#### Which network is the home of Saturday Night Live?
+
+- [ ] ABC
+- [ ] CBS
+- [x] NBC
+
+#### When someone is like their parent, they're said to be a chip off the ol' what?
+
+- [x] Block
+- [ ] Tree
+- [ ] Board
+
+#### At the end of the Act I of "Phantom of the Opera", what comes crashing down onto the stage?
+
+- [x] A chandelier
+- [ ] A rock
+- [ ] A boat
+
+#### Citizens of which country are known as "kiwis"?
+
+- [ ] Austria
+- [x] New Zealand
+- [ ] France
+
+#### What part of your body contains the femur?
+
+- [x] Leg
+- [ ] Arm
+- [ ] Head
+
+#### What do you use to deglaze a pan while cooking?
+
+- [ ] Wax
+- [ ] Paper
+- [x] Liquid
+
+#### Which Disney film features the song "Circle of Life"?
+
+- [ ] Aladdin
+- [x] The Lion King
+- [ ] The Little Mermaid
+
+#### According to Paul Simon's song, how many ways are there to leave your lover?
+
+- [x] 50
+- [ ] 99
+- [ ] 1,000
+
+#### Which of the following books of the bible is in the Old Testament?
+
+- [ ] Matthew
+- [ ] 1 Corinthians
+- [x] Genesis
+
+#### In which board game do you declare "king me"?
+
+- [ ] Settlers of Catan
+- [x] Checkers
+- [ ] Trouble
+
+#### What was the name of the first-ever video game?
+
+- [ ] Space Attack
+- [ ] Football
+- [x] Tennis for Two
+
+#### On which game show would you play Plinko?
+
+- [x] The Price is Right
+- [ ] Jeopardy!
+- [ ] Wheel of Fortune
+
+#### What is the term for an overtime period where the first score wins the game?
+
+- [ ] Red Card
+- [ ] Three Peat
+- [x] Sudden Death
+
+#### What violent fighting game first hit arcades in 1992?
+
+- [ ] Tekken
+- [x] Mortal Kombat
+- [ ] Pit Fighter
+
+#### Which of the following would you use to describe something from a first-person perspective?
+
+- [ ] They
+- [ ] You
+- [x] I
+
+#### Which mascot's catchphrase is "Only YOU can prevent forest fires"?
+
+- [ ] Woodsy the Owl
+- [ ] McGruff the Crime Dog
+- [x] Smokey the Bear
+
+#### What creature is nearly undetectable by infrared cameras?
+
+- [ ] Penguins
+- [x] Polar Bears
+- [ ] Salmon
+
+#### What provides the base for traditional ice cream?
+
+- [ ] Karo Syrup
+- [ ] Vinegear
+- [x] Milk
+
+#### For many years, Baskin-Robbins had what number of flavors in their name?
+
+- [x] 31
+- [ ] 99
+- [ ] 150
+
+#### What piece of fruit is often placed on top of a sundae?
+
+- [ ] Apple
+- [x] Cherry
+- [ ] Orange
+
+#### How did sundaes gets their name?
+
+- [x] It was the only day they were served
+- [ ] They were only served when it was sunny
+- [ ] They were named for their inventor
+
+#### Which of the following flavors is NOT part of a traditional carton of Neapolitan ice cream?
+
+- [ ] Chocolate
+- [ ] Vanilla
+- [x] Rutabaga
+
+#### Where does "brain freeze" originate?
+
+- [x] The roof of your mouth
+- [ ] Your tongue
+- [ ] Your teeth
+
+#### What ice cream company created the flavor Cherry Garcia?
+
+- [ ] Breyers
+- [x] Ben & Jerry's
+- [ ] Edy's
+
+#### Who is widely credited with bringing an early form of ice cream to Europe?
+
+- [x] Marco Polo
+- [ ] Amerigo Vespucci
+- [ ] Ferdinand Magellan
+
+#### What color is traditional Pistachio ice cream?
+
+- [ ] Red
+- [ ] Blue
+- [x] Green
+
+#### Gelato is a version of ice cream that originated in which country?
+
+- [ ] Spain
+- [x] Italy
+- [ ] Norway
