@@ -86794,3 +86794,63 @@
 - [ ] Penguins
 - [x] Polar Bears
 - [ ] Salmon
+
+#### What provides the base for traditional ice cream?
+
+- [ ] Karo Syrup
+- [ ] Vinegear
+- [x] Milk
+
+#### For many years, Baskin-Robbins had what number of flavors in their name?
+
+- [x] 31
+- [ ] 99
+- [ ] 150
+
+#### What piece of fruit is often placed on top of a sundae?
+
+- [ ] Apple
+- [x] Cherry
+- [ ] Orange
+
+#### How did sundaes gets their name?
+
+- [x] It was the only day they were served
+- [ ] They were only served when it was sunny
+- [ ] They were named for their inventor
+
+#### Which of the following flavors is NOT part of a traditional carton of Neapolitan ice cream?
+
+- [ ] Chocolate
+- [ ] Vanilla
+- [x] Rutabaga
+
+#### Where does "brain freeze" originate?
+
+- [x] The roof of your mouth
+- [ ] Your tongue
+- [ ] Your teeth
+
+#### What ice cream company created the flavor Cherry Garcia?
+
+- [ ] Breyers
+- [x] Ben & Jerry's
+- [ ] Edy's
+
+#### Who is widely credited with bringing an early form of ice cream to Europe?
+
+- [x] Marco Polo
+- [ ] Amerigo Vespucci
+- [ ] Ferdinand Magellan
+
+#### What color is traditional Pistachio ice cream?
+
+- [ ] Red
+- [ ] Blue
+- [x] Green
+
+#### Gelato is a version of ice cream that originated in which country?
+
+- [ ] Spain
+- [x] Italy
+- [ ] Norway
