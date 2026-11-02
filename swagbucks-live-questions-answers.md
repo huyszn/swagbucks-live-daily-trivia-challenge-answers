@@ -92343,3 +92343,57 @@
 - [x] Standard
 - [ ] Section
 - [ ] System
+
+#### In the 1920's what did Prohibition outlaw in the U.S.?
+
+- [ ] Dancing
+- [ ] Kissing
+- [x] Alcohol
+
+#### What is Winnie the Pooh's favorite food?
+
+- [ ] Berries
+- [ ] Pancakes
+- [x] Honey
+
+#### In "Wreck-It Ralph", Vanellope Von Schweetz comes from what arcade game?
+
+- [ ] Froger
+- [ ] Hero's Duty
+- [x] Sugar Rush
+
+#### What animal nickname would be suitable for a man named Chester White?
+
+- [x] Pig
+- [ ] Horse
+- [ ] Rooster
+
+#### Which of these offices is highest up in the order of succession to the Presidency?
+
+- [ ] Secretary of Labor
+- [ ] Secretary of Energy
+- [x] Secretary of Agriculture
+
+#### Tinder and eHarmony are both used for what?
+
+- [ ] Day trading
+- [ ] Recipes
+- [x] Dating
+
+#### In the Avenue Q song "A Fine Fine Line", which of the following pairs of extremes does NOT appear?
+
+- [ ] A love and a friend
+- [ ] A fairy tale and a lie
+- [x] The beginning and the end
+
+#### The Stock Market Crash led to what era in American history?
+
+- [ ] The Gilded Age
+- [x] The Great Depression
+- [ ] The Baby Boom
+
+#### What is the name for a group of monkeys?
+
+- [ ] Dray
+- [x] Troop
+- [ ] Romp
