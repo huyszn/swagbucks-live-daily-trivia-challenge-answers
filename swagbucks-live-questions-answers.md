@@ -92397,3 +92397,75 @@
 - [ ] Dray
 - [x] Troop
 - [ ] Romp
+
+#### How does Santa Claus usually enter homes on Christmas Eve?
+
+- [ ] Through the Window
+- [ ] From the Sewers
+- [x] Down the Chimney
+
+#### What kind of animal was television's Mister Ed?
+
+- [ ] Falcon
+- [x] Horse
+- [ ] Dog
+
+#### To which organization does Buzz Lightyear belong?
+
+- [x] Star Command
+- [ ] Green Lantern Corp
+- [ ] Rebel Alliance
+
+#### In "Finding Nemo", what is Dory's motto?
+
+- [ ] Ride the wave
+- [x] Just keep swimming
+- [ ] Never blink
+
+#### Despite the title, the Pixar movie "Soul" centers around which genre of music?
+
+- [x] Jazz
+- [ ] Death Metal
+- [ ] World Music
+
+#### In "Up", what causes Carl's house to fly?
+
+- [ ] A rocket
+- [ ] Birds
+- [x] Balloons
+
+#### Where does Lightning McQueen get stranded in the first "Cars" movie?
+
+- [ ] Detroit
+- [x] Radiator Springs
+- [ ] Pigeon Forge
+
+#### In "Monsters, Inc." what is Monstropolis' original source of power?
+
+- [x] Screams
+- [ ] Sniffs
+- [ ] Drool
+
+#### Pixar started as a subdivision of which company?
+
+- [ ] Apple
+- [x] Lucasfilm
+- [ ] General Electric
+
+#### Which "Incredibles" family member has the widest variety of superpowers?
+
+- [ ] Helen
+- [ ] Bob
+- [x] Jack-Jack
+
+#### What is the name of Mike Wazowski's best friend and work partner?
+
+- [x] Sulley
+- [ ] Luca
+- [ ] Bruce
+
+#### In "Coco", what instrument does Miguel play?
+
+- [x] Guitar
+- [ ] Piano
+- [ ] Trumpet
