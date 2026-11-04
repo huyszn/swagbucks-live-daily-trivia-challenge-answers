@@ -92469,3 +92469,99 @@
 - [x] Guitar
 - [ ] Piano
 - [ ] Trumpet
+
+#### A Cronut is a donut made with what type of dough?
+
+- [ ] Crusty
+- [x] Croissant
+- [ ] Crazy
+
+#### #SixSeasonsAndAMovie was a meme popularized by what sitcom?
+
+- [ ] Arrest Development
+- [ ] Lost
+- [x] Community
+
+#### The Battle of the Bugle happened during which war?
+
+- [ ] The War of 1812
+- [ ] The War of the Roses
+- [x] World War II
+
+#### What is the name of the ice-powered ninja in Mortal Kombat?
+
+- [ ] Freeze-out
+- [ ] Scorpion
+- [x] Sub-Zero
+
+#### What is the capital of Egypt?
+
+- [x] Cairo
+- [ ] Luxor
+- [ ] Memphis
+
+#### Who played Princess Leia in the Star Wars films?
+
+- [ ] Sarah Jessica Parker
+- [ ] Cher
+- [x] Carrie Fisher
+
+#### Complete the title of this Samuel Beckett play: "Waiting for..."
+
+- [x] Godot
+- [ ] Breakfast
+- [ ] The Sun
+
+#### What fruit is the main ingredient in guacamole?
+
+- [ ] Strawberry
+- [ ] Banana
+- [x] Avocado
+
+#### What was the first State admitted into the union of the United States of America?
+
+- [x] Delaware
+- [ ] Hawaii
+- [ ] Alaska
+
+#### Jack the Ripper committed his crimes in which city?
+
+- [x] London
+- [ ] Calgary
+- [ ] Moscow
+
+#### Which of the following international dishes is a soup?
+
+- [ ] Char Siu
+- [x] Ajiaco
+- [ ] Bazin
+
+#### Complete the famous saying: "Measure twice, cut..."
+
+- [x] Once
+- [ ] Twice
+- [ ] Thrice
+
+#### What object does a Green Lantern wear to grant them powers?
+
+- [ ] Necklace
+- [x] Ring
+- [ ] Shoes
+
+#### The "Valspeak" trend of the 80s inspired which Frank Zappa song?
+
+- [ ] Dancin' Fool
+- [ ] Camarillo Brillo
+- [x] Valley Girl
+
+#### "You talking to me?!" is a famous quote from which Robert De Niro movie?
+
+- [x] Taxi Driver
+- [ ] Meet The Parent
+- [ ] The Godfather Part II
+
+#### Neverland Ranch was the estate of which pop star?
+
+- [ ] Madonna
+- [ ] Lady Gaga
+- [x] Michael Jackson
