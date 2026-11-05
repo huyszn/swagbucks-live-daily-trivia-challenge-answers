@@ -92637,3 +92637,21 @@
 - [x] Brown & Silver
 - [ ] Black & Yellow
 - [ ] Green & Light Green
+
+#### Approximately how many New York buildings have their own zip code?
+
+- [ ] 2
+- [x] 40
+- [ ] 100
+
+#### Which of the following 90's romantic comedies did NOT pair Meg Ryan with Tom Hanks?
+
+- [ ] Sleepless in Seattle
+- [ ] You've Got Mail
+- [x] Pretty Woman
+
+#### David Greybeard significantly contributed to whose scientific work?
+
+- [ ] Albert Einstein
+- [ ] Charles Darwin
+- [x] Dr. Jane Goodall
