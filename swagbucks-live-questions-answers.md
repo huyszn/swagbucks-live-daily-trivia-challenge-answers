@@ -92565,3 +92565,75 @@
 - [ ] Madonna
 - [ ] Lady Gaga
 - [x] Michael Jackson
+
+#### What artist was known as The Purple One?
+
+- [ ] Johnny Cash
+- [x] Prince
+- [ ] Liberace
+
+#### Who invented Geography?
+
+- [ ] Aristole
+- [ ] Genghis Khan
+- [x] Eratosthenes
+
+#### What astronomical-sounding candy bar debuted in 1923?
+
+- [ ] Snickers
+- [x] Milky Way
+- [ ] Chunky
+
+#### Which of these candies has a distinct tart flavor?
+
+- [ ] Root Beer Barrels
+- [ ] Candy Corn
+- [x] Lemonheads
+
+#### "Pure Imagination" is a song associated with which fictional (and real) candy brand?
+
+- [ ] Mars
+- [x] Wonka
+- [ ] Hershey
+
+#### First sold in the UK in 1959, Opal Fruits is now better known by what name?
+
+- [ ] Sweetarts
+- [ ] Skittles
+- [x] Starburst
+
+#### Which candy brand is known as "The Freshmaker"?
+
+- [x] Mentos
+- [ ] Life Savers
+- [ ] Tic Tac
+
+#### Eduard Haas III introduced which candy to the world?
+
+- [ ] Sno Caps
+- [x] Pez
+- [ ] Laffy Taffy
+
+#### What kind of animal serves as the mascot for Fruit Stripe gum?
+
+- [ ] Horse
+- [ ] Gorilla
+- [x] Zebra
+
+#### Pontefract Cakes are a UK candy that has which flavor?
+
+- [x] Licorice
+- [ ] Honey
+- [ ] Ginger
+
+#### What descriptive phrase appears on tins of Altoids?
+
+- [ ] Pure Dynamite
+- [ ] Just So-So
+- [x] Curiously Strong
+
+#### The iconic Hershey's Milk Chocolate bar wrappers feature which two colors?
+
+- [x] Brown & Silver
+- [ ] Black & Yellow
+- [ ] Green & Light Green
