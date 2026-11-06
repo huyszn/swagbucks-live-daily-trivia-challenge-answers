@@ -92715,3 +92715,27 @@
 - [ ] Nothing
 - [ ] You get a point
 - [x] Someone buzzes you
+
+#### What M&Ms color was specifically mentioned in Van Halen's tour rider?
+
+- [ ] Green
+- [ ] Yellow
+- [x] Brown
+
+#### What is geography the study of?
+
+- [ ] Outer space
+- [x] The Earth's surface features
+- [ ] Underwater life
+
+#### Based on where the Addams family started, where would it make sense for Gomez Addams to wokr?
+
+- [ ] A newspaper
+- [x] A magazine
+- [ ] An advertising agency
+
+#### What is the name of Woody's horse?
+
+- [ ] Trigger
+- [ ] Speedy
+- [x] Bullseye
