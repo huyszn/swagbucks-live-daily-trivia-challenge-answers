@@ -92655,3 +92655,63 @@
 - [ ] Albert Einstein
 - [ ] Charles Darwin
 - [x] Dr. Jane Goodall
+
+#### Which of the following is NOT one of the five primary resources in Settlers of Catan?
+
+- [ ] Wood
+- [ ] Wheat
+- [x] Web Shooters
+
+#### What is the setting for Clue/Cluedo game board?
+
+- [x] Mansion
+- [ ] Boat
+- [ ] Playground
+
+#### In Yahzee, what *is* a Yahtzee?
+
+- [ ] The dice are all different numbers
+- [ ] The dice are showing 1 through 6
+- [x] All dice show the same number
+
+#### The standard Monopoly board is based on the streets of what city?
+
+- [ ] New York
+- [x] Atlantic City
+- [ ] Chicago
+
+#### Which of the following board games is generally believed to have been born in India?
+
+- [ ] Go
+- [ ] Sorry!
+- [x] Chess
+
+#### In chess, what piece are you trying to put in checkmate?
+
+- [x] King
+- [ ] Queen
+- [ ] Bishop
+
+#### One of the oldest playable board games in the world is the Royal Game of Ur. Where did it originate?
+
+- [ ] Mexico
+- [ ] Japan
+- [x] Mesopotamia
+
+#### Starbucks and Barnes & Noble helped make what board game a smash hit?
+
+- [x] Cranium
+- [ ] Pictionary
+- [ ] Trivial Pursuit
+
+#### The board game Othello is also known by what name?
+
+- [ ] Connect Four
+- [x] Reversi
+- [ ] Parcheesi
+
+#### In the game "Taboo", what happens when you say one of the taboo words?
+
+- [ ] Nothing
+- [ ] You get a point
+- [x] Someone buzzes you
