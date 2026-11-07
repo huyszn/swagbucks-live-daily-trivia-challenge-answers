@@ -76506,7 +76506,7 @@
 #### As of September 2025, which of the following non-Brits has been named an honorary knight by the OBE?
 
 - [ ] George Clooney
-- [x] Steve Spielberg
+- [x] Steven Spielberg
 - [ ] Sally Field
 
 #### Despite their name, french fries actually originated in which country?
@@ -92728,7 +92728,7 @@
 - [x] The Earth's surface features
 - [ ] Underwater life
 
-#### Based on where the Addams family started, where would it make sense for Gomez Addams to wokr?
+#### Based on where the Addams family started, where would it make sense for Gomez Addams to work?
 
 - [ ] A newspaper
 - [x] A magazine
@@ -92739,3 +92739,15 @@
 - [ ] Trigger
 - [ ] Speedy
 - [x] Bullseye
+
+#### Which country's capitol building is famous for a clock that purposely runs backwards?
+
+- [ ] Switzerland
+- [ ] Venezuela
+- [x] Bolivia
+
+#### Whose Oscar acceptance speech inspired the academy to set time limits?
+
+- [ ] Orison Welles
+- [x] Greer Garson
+- [ ] Katharine Hepburn
