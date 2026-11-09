@@ -92751,3 +92751,15 @@
 - [ ] Orison Welles
 - [x] Greer Garson
 - [ ] Katharine Hepburn
+
+#### Where did Bono get his stage name from?
+
+- [ ] A Hindu manuscript
+- [x] Latin for "Good Voice"
+- [ ] A comic stirp character
+
+#### From 1918 to 1928, you could legally purchase an energy drink containing what?
+
+- [ ] Lead
+- [ ] Heroin
+- [x] Radium
