@@ -92763,3 +92763,63 @@
 - [ ] Lead
 - [ ] Heroin
 - [x] Radium
+
+#### Which of these foods is a tuber?
+
+- [x] Potato
+- [ ] Tomato
+- [ ] Apple
+
+#### What phrase typically ends fairy tales?
+
+- [ ] SIKE!
+- [x] And they lived happily ever after
+- [ ] And that's the tea
+
+#### What brand of tattooed rhinestone-covered clothes were popular in the 2000s?
+
+- [ ] Lee
+- [ ] Juicy
+- [x] Ed Hardy
+
+#### Which of the following is a unit of measurement for energy?
+
+- [ ] Decibel
+- [x] Joule
+- [ ] Byte
+
+#### "Sometimes you feel like a nut, sometimes you don't" is the slogan for which pair of candy bars?
+
+- [ ] Chunky & Reese's Cups
+- [ ] Kit-Kat and Payday
+- [x] Almond Joy & Mounds
+
+#### Which chess pieces can ONLY move diagonally?
+
+- [x] Bishop
+- [ ] Knight
+- [ ] Rook
+
+#### What reality singing competition features blind auditions where the judges have their backs to the singer?
+
+- [ ] The Sing-Off
+- [x] The Voice
+- [ ] American Idol
+
+#### Juneteenth originated in which State?
+
+- [x] Texas
+- [ ] Virginia
+- [ ] Mississippi
+
+#### The Disco Era happened during which decade?
+
+- [ ] 1930s
+- [ ] 1950s
+- [x] 1970s
+
+#### In "Les Miserables", who went to prison for stealing a loaf of bread?
+
+- [x] Jean Valjean
+- [ ] Eponine
+- [ ] Monsieur Thenardier
