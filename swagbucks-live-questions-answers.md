@@ -92823,3 +92823,9 @@
 - [x] Jean Valjean
 - [ ] Eponine
 - [ ] Monsieur Thenardier
+
+#### What celestial body affects the tides on Earth?
+
+- [ ] Saturn
+- [ ] Venus
+- [x] The Moon
