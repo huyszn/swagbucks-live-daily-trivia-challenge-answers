@@ -92829,3 +92829,63 @@
 - [ ] Saturn
 - [ ] Venus
 - [x] The Moon
+
+#### On "Sesame Street", what is the name of Zoe's pet rock?
+
+- [ ] Rocky
+- [x] Rocco
+- [ ] Rob
+
+#### Which Sesame Street song highlights the helpers in your community?
+
+- [x] "People in Your Neighborhood"
+- [ ] "Sunny Day"
+- [ ] "Bein' Green"
+
+#### Which of the following things does NOT typically sponsor an episode of Sesame Street?
+
+- [ ] Number
+- [x] NBA Team
+- [ ] Letter
+
+#### In The Monster at the End of This Book, who is the monster at the end of the book?
+
+- [ ] Cookie Monster
+- [ ] Telly
+- [x] Grover
+
+#### Which Sesame Street" character regularly engages in illeism?
+
+- [x] Herry
+- [ ] Elmo
+- [ ] Ernie
+
+#### On "Sesame Street", Slimey is the pet worm of which character?
+
+- [x] Oscar the Grouch
+- [ ] Snuffleupagus
+- [ ] Abby
+
+#### What band performed Happy Furry Monsters on Sesame Street, a parody of their song Shiny Happy People?
+
+- [ ] Black Sabbath
+- [x] R.E.M.
+- [ ] Bauhaus
+
+#### In the first appearance of the "Yip-Yip" Martians on Sesame Street, what do they encounter that grabs their attention?
+
+- [x] Telephone
+- [ ] Clock
+- [ ] Radio
+
+#### Which key Muppets character appeared on Sesame Street as a news correspondent?
+
+- [ ] Camilla
+- [x] Kermit the Frog
+- [ ] Miss Piggy
+
+#### Which "Sesame Street" character has a star on the Hollywood Walk of Fame?
+
+- [x] Big Bird
+- [ ] Mister Hopper
+- [ ] Olivia
