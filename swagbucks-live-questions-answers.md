@@ -92889,3 +92889,75 @@
 - [x] Big Bird
 - [ ] Mister Hopper
 - [ ] Olivia
+
+#### Which of the following memes is an urban legend monster?
+
+- [x] Slender Man
+- [ ] Grape Lady
+- [ ] Trollface
+
+#### President Matthew Ellis makes an appearance in which movie?
+
+- [ ] Mars Attacks
+- [x] Iron Man 3
+- [ ] Independence Day
+
+#### During which of the following religious holidays are you supposed to fast?
+
+- [ ] Christmas
+- [ ] Hanukkah
+- [x] Ramadan
+
+#### A cafe au lait is served with what?
+
+- [x] Milk
+- [ ] Orange Juice
+- [ ] Sparklers
+
+#### The Mississippi River runs through which country?
+
+- [ ] Canada
+- [x] United States
+- [ ] Peru
+
+#### Andy White's drumming can be heard on a released version of which Beatles song?
+
+- [ ] I Wanna Hold Your Hand
+- [ ] Please Please Me
+- [x] Love Me Do
+
+#### In golf, what is the term for a hole scored two strokes under par?
+
+- [x] Eagle
+- [ ] Bogey
+- [ ] Birdie
+
+#### What Hebrew word is central to John Steinbeck's East of Eden?
+
+- [ ] Mayim
+- [x] Timshel
+- [ ] Bayit
+
+#### In "Ted Lasso", what team does he coach?
+
+- [x] AFC Richmond
+- [ ] The Detroit Lions
+- [ ] Australian Boomers
+
+#### What 90s toy fad started out as a game called Menko?
+
+- [ ] Skip-It
+- [x] POGs
+- [ ] Tamagotchi
+
+#### Prince has a famous song about what it sounds like when which birds cry?
+
+- [x] Doves
+- [ ] Hawks
+- [ ] Pigeons
+
+#### What toy answers your questions after you shake it?
+
+- [x] Magic 8 Ball
+- [ ] Etch-A-Sketch
+- [ ] Simon
